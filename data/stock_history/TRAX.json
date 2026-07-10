@@ -1,9 +1,9 @@
 {
   "code": "TRAX",
   "ticker": "TRAX",
-  "last_updated": "2026-07-10 07:13:52",
+  "last_updated": "2026-07-10 14:39:57",
   "period": "5y",
-  "data_points": 66,
+  "data_points": 67,
   "data": [
     {
       "date": "2026-04-06",
@@ -532,6 +532,14 @@
       "low": 20.93,
       "close": 32.4,
       "volume": 4503200
+    },
+    {
+      "date": "2026-07-10",
+      "open": 33.01,
+      "high": 37.87,
+      "low": 33.01,
+      "close": 37.4,
+      "volume": 621786
     }
   ]
 }

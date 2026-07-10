@@ -1,9 +1,9 @@
 {
   "code": "SPMA",
   "ticker": "SPMA",
-  "last_updated": "2026-07-10 07:07:17",
+  "last_updated": "2026-07-10 14:33:21",
   "period": "5y",
-  "data_points": 414,
+  "data_points": 415,
   "data": [
     {
       "date": "2024-11-11",
@@ -3316,6 +3316,14 @@
       "low": 25.07,
       "close": 25.13,
       "volume": 2600
+    },
+    {
+      "date": "2026-07-10",
+      "open": 25.07,
+      "high": 25.13,
+      "low": 25.08,
+      "close": 25.13,
+      "volume": 1
     }
   ]
 }

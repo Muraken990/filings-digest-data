@@ -1,9 +1,9 @@
 {
   "code": "PTRN",
   "ticker": "PTRN",
-  "last_updated": "2026-07-10 06:55:43",
+  "last_updated": "2026-07-10 14:21:49",
   "period": "5y",
-  "data_points": 201,
+  "data_points": 202,
   "data": [
     {
       "date": "2025-09-19",
@@ -1612,6 +1612,14 @@
       "low": 27.48,
       "close": 29.4,
       "volume": 2259900
+    },
+    {
+      "date": "2026-07-10",
+      "open": 29.6,
+      "high": 29.63,
+      "low": 29.02,
+      "close": 29.11,
+      "volume": 111966
     }
   ]
 }
