@@ -1,9 +1,9 @@
 {
   "code": "RDAC",
   "ticker": "RDAC",
-  "last_updated": "2026-07-10 14:24:14",
+  "last_updated": "2026-07-11 13:21:27",
   "period": "5y",
-  "data_points": 400,
+  "data_points": 401,
   "data": [
     {
       "date": "2024-12-02",
@@ -3204,6 +3204,14 @@
       "low": 5.2,
       "close": 5.4,
       "volume": 3100
+    },
+    {
+      "date": "2026-07-10",
+      "open": 5.3,
+      "high": 6.0,
+      "low": 5.3,
+      "close": 6.0,
+      "volume": 2600
     }
   ]
 }

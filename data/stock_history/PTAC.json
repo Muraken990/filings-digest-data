@@ -1,10 +1,18 @@
 {
   "code": "PTAC",
   "ticker": "PTAC",
-  "last_updated": "2026-07-10 14:21:48",
+  "last_updated": "2026-07-11 13:19:00",
   "period": "5y",
-  "data_points": 3,
+  "data_points": 5,
   "data": [
+    {
+      "date": "2026-07-06",
+      "open": 9.97,
+      "high": 10.1,
+      "low": 9.97,
+      "close": 10.02,
+      "volume": 8000
+    },
     {
       "date": "2026-07-07",
       "open": 9.74,
@@ -23,6 +31,14 @@
     },
     {
       "date": "2026-07-09",
+      "open": 9.92,
+      "high": 9.92,
+      "low": 9.92,
+      "close": 9.92,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-10",
       "open": 9.92,
       "high": 9.92,
       "low": 9.92,
