@@ -1,9 +1,9 @@
 {
   "code": "MRLN",
   "ticker": "MRLN",
-  "last_updated": "2026-07-10 12:43:13",
+  "last_updated": "2026-07-11 11:14:03",
   "period": "5y",
-  "data_points": 400,
+  "data_points": 401,
   "data": [
     {
       "date": "2024-12-02",
@@ -3203,7 +3203,15 @@
       "high": 4.61,
       "low": 4.16,
       "close": 4.5,
-      "volume": 1715200
+      "volume": 1767800
+    },
+    {
+      "date": "2026-07-10",
+      "open": 4.5,
+      "high": 4.59,
+      "low": 4.2,
+      "close": 4.3,
+      "volume": 1037300
     }
   ]
 }
