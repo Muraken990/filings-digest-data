@@ -1,9 +1,9 @@
 {
   "code": "ACAA",
   "ticker": "ACAA",
-  "last_updated": "2026-07-10 10:27:56",
+  "last_updated": "2026-07-11 08:55:45",
   "period": "5y",
-  "data_points": 62,
+  "data_points": 63,
   "data": [
     {
       "date": "2026-04-10",
@@ -500,6 +500,14 @@
       "low": 10.15,
       "close": 10.21,
       "volume": 3400
+    },
+    {
+      "date": "2026-07-10",
+      "open": 10.19,
+      "high": 10.19,
+      "low": 10.19,
+      "close": 10.19,
+      "volume": 800
     }
   ]
 }
