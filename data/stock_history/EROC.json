@@ -1,9 +1,9 @@
 {
   "code": "EROC",
   "ticker": "EROC",
-  "last_updated": "2026-07-12 09:43:36",
+  "last_updated": "2026-07-16 07:37:46",
   "period": "5y",
-  "data_points": 21,
+  "data_points": 24,
   "data": [
     {
       "date": "2026-06-10",
@@ -172,6 +172,30 @@
       "low": 13.11,
       "close": 13.35,
       "volume": 969900
+    },
+    {
+      "date": "2026-07-13",
+      "open": 13.43,
+      "high": 13.6,
+      "low": 11.91,
+      "close": 12.11,
+      "volume": 1487500
+    },
+    {
+      "date": "2026-07-14",
+      "open": 12.23,
+      "high": 12.66,
+      "low": 12.02,
+      "close": 12.4,
+      "volume": 945200
+    },
+    {
+      "date": "2026-07-15",
+      "open": 12.27,
+      "high": 12.54,
+      "low": 11.79,
+      "close": 12.06,
+      "volume": 1066100
     }
   ]
 }

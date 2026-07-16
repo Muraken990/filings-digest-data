@@ -1,9 +1,9 @@
 {
   "code": "COPR",
   "ticker": "COPR",
-  "last_updated": "2026-07-12 09:33:28",
+  "last_updated": "2026-07-16 07:28:14",
   "period": "5y",
-  "data_points": 6,
+  "data_points": 9,
   "data": [
     {
       "date": "2026-07-02",
@@ -52,6 +52,30 @@
       "low": 3.7,
       "close": 3.75,
       "volume": 17700
+    },
+    {
+      "date": "2026-07-13",
+      "open": 4.05,
+      "high": 4.05,
+      "low": 3.5,
+      "close": 3.5,
+      "volume": 17100
+    },
+    {
+      "date": "2026-07-14",
+      "open": 3.22,
+      "high": 3.53,
+      "low": 2.93,
+      "close": 2.99,
+      "volume": 74700
+    },
+    {
+      "date": "2026-07-15",
+      "open": 3.0,
+      "high": 3.0,
+      "low": 2.6,
+      "close": 2.86,
+      "volume": 174100
     }
   ]
 }

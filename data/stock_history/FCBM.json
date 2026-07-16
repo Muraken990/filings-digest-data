@@ -1,9 +1,9 @@
 {
   "code": "FCBM",
   "ticker": "FCBM",
-  "last_updated": "2026-07-12 09:45:21",
+  "last_updated": "2026-07-16 07:40:17",
   "period": "5y",
-  "data_points": 15,
+  "data_points": 18,
   "data": [
     {
       "date": "2026-06-18",
@@ -124,6 +124,30 @@
       "low": 12.55,
       "close": 12.65,
       "volume": 72000
+    },
+    {
+      "date": "2026-07-13",
+      "open": 12.75,
+      "high": 12.96,
+      "low": 12.7,
+      "close": 12.7,
+      "volume": 98600
+    },
+    {
+      "date": "2026-07-14",
+      "open": 12.8,
+      "high": 12.86,
+      "low": 12.65,
+      "close": 12.7,
+      "volume": 119300
+    },
+    {
+      "date": "2026-07-15",
+      "open": 12.62,
+      "high": 12.84,
+      "low": 12.62,
+      "close": 12.8,
+      "volume": 71000
     }
   ]
 }

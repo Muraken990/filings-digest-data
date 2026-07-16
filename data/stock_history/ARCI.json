@@ -1,9 +1,9 @@
 {
   "code": "ARCI",
   "ticker": "ARCI",
-  "last_updated": "2026-07-12 09:16:34",
+  "last_updated": "2026-07-16 07:11:57",
   "period": "5y",
-  "data_points": 81,
+  "data_points": 84,
   "data": [
     {
       "date": "2026-03-16",
@@ -652,6 +652,30 @@
       "low": 10.05,
       "close": 10.05,
       "volume": 76900
+    },
+    {
+      "date": "2026-07-13",
+      "open": 10.05,
+      "high": 10.06,
+      "low": 10.05,
+      "close": 10.06,
+      "volume": 550800
+    },
+    {
+      "date": "2026-07-14",
+      "open": 10.06,
+      "high": 10.07,
+      "low": 10.06,
+      "close": 10.07,
+      "volume": 500
+    },
+    {
+      "date": "2026-07-15",
+      "open": 10.08,
+      "high": 10.08,
+      "low": 10.07,
+      "close": 10.08,
+      "volume": 13500
     }
   ]
 }

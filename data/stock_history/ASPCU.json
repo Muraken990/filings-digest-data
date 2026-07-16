@@ -1,9 +1,9 @@
 {
   "code": "ASPCU",
   "ticker": "ASPCU",
-  "last_updated": "2026-07-12 09:17:26",
+  "last_updated": "2026-07-16 07:12:49",
   "period": "5y",
-  "data_points": 416,
+  "data_points": 419,
   "data": [
     {
       "date": "2024-11-08",
@@ -3332,6 +3332,30 @@
       "low": 10.82,
       "close": 10.82,
       "volume": 0
+    },
+    {
+      "date": "2026-07-13",
+      "open": 10.83,
+      "high": 10.83,
+      "low": 10.7,
+      "close": 10.7,
+      "volume": 2601
+    },
+    {
+      "date": "2026-07-14",
+      "open": 10.82,
+      "high": 10.82,
+      "low": 10.82,
+      "close": 10.82,
+      "volume": 725
+    },
+    {
+      "date": "2026-07-15",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 819
     }
   ]
 }

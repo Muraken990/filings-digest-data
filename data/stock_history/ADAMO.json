@@ -1,9 +1,9 @@
 {
   "code": "ADAMO",
   "ticker": "ADAMO",
-  "last_updated": "2026-07-12 09:09:54",
+  "last_updated": "2026-07-16 07:06:01",
   "period": "5y",
-  "data_points": 122,
+  "data_points": 125,
   "data": [
     {
       "date": "2026-01-14",
@@ -980,6 +980,30 @@
       "low": 25.09,
       "close": 25.11,
       "volume": 12700
+    },
+    {
+      "date": "2026-07-13",
+      "open": 25.11,
+      "high": 25.14,
+      "low": 25.09,
+      "close": 25.12,
+      "volume": 9300
+    },
+    {
+      "date": "2026-07-14",
+      "open": 25.12,
+      "high": 25.12,
+      "low": 25.09,
+      "close": 25.1,
+      "volume": 5400
+    },
+    {
+      "date": "2026-07-15",
+      "open": 25.14,
+      "high": 25.14,
+      "low": 25.03,
+      "close": 25.05,
+      "volume": 39800
     }
   ]
 }
