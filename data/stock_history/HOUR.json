@@ -1,9 +1,9 @@
 {
   "code": "HOUR",
   "ticker": "HOUR",
-  "last_updated": "2026-07-12 11:06:45",
+  "last_updated": "2026-07-16 09:39:33",
   "period": "5y",
-  "data_points": 1129,
+  "data_points": 1132,
   "data": [
     {
       "date": "2022-01-07",
@@ -9035,7 +9035,31 @@
       "high": 2.3,
       "low": 2.02,
       "close": 2.08,
-      "volume": 150600
+      "volume": 153100
+    },
+    {
+      "date": "2026-07-13",
+      "open": 2.18,
+      "high": 2.18,
+      "low": 1.97,
+      "close": 2.07,
+      "volume": 87200
+    },
+    {
+      "date": "2026-07-14",
+      "open": 2.0,
+      "high": 2.07,
+      "low": 1.92,
+      "close": 2.04,
+      "volume": 65000
+    },
+    {
+      "date": "2026-07-15",
+      "open": 2.06,
+      "high": 2.06,
+      "low": 1.91,
+      "close": 1.94,
+      "volume": 49600
     }
   ]
 }

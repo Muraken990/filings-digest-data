@@ -1,9 +1,9 @@
 {
   "code": "PAAC",
   "ticker": "PAAC",
-  "last_updated": "2026-07-12 13:13:25",
+  "last_updated": "2026-07-16 10:06:38",
   "period": "5y",
-  "data_points": 67,
+  "data_points": 70,
   "data": [
     {
       "date": "2026-04-06",
@@ -540,6 +540,30 @@
       "low": 9.96,
       "close": 9.96,
       "volume": 500
+    },
+    {
+      "date": "2026-07-13",
+      "open": 9.96,
+      "high": 9.96,
+      "low": 9.95,
+      "close": 9.95,
+      "volume": 600
+    },
+    {
+      "date": "2026-07-14",
+      "open": 10.15,
+      "high": 10.15,
+      "low": 9.93,
+      "close": 9.99,
+      "volume": 67600
+    },
+    {
+      "date": "2026-07-15",
+      "open": 9.96,
+      "high": 9.96,
+      "low": 9.94,
+      "close": 9.94,
+      "volume": 300
     }
   ]
 }

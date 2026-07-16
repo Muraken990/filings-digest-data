@@ -1,9 +1,9 @@
 {
   "code": "INFQ",
   "ticker": "INFQ",
-  "last_updated": "2026-07-12 11:10:56",
+  "last_updated": "2026-07-16 09:43:42",
   "period": "5y",
-  "data_points": 100,
+  "data_points": 103,
   "data": [
     {
       "date": "2026-02-17",
@@ -803,7 +803,31 @@
       "high": 12.06,
       "low": 11.17,
       "close": 11.17,
-      "volume": 6731700
+      "volume": 6777100
+    },
+    {
+      "date": "2026-07-13",
+      "open": 11.08,
+      "high": 11.16,
+      "low": 10.05,
+      "close": 10.13,
+      "volume": 11225700
+    },
+    {
+      "date": "2026-07-14",
+      "open": 10.46,
+      "high": 10.49,
+      "low": 10.05,
+      "close": 10.45,
+      "volume": 7993900
+    },
+    {
+      "date": "2026-07-15",
+      "open": 10.52,
+      "high": 10.8,
+      "low": 9.57,
+      "close": 9.87,
+      "volume": 13172000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ONEG",
   "ticker": "ONEG",
-  "last_updated": "2026-07-12 11:33:45",
+  "last_updated": "2026-07-16 10:05:42",
   "period": "5y",
-  "data_points": 381,
+  "data_points": 384,
   "data": [
     {
       "date": "2024-12-31",
@@ -3051,7 +3051,31 @@
       "high": 1.25,
       "low": 1.14,
       "close": 1.14,
-      "volume": 40000
+      "volume": 41500
+    },
+    {
+      "date": "2026-07-13",
+      "open": 1.14,
+      "high": 1.17,
+      "low": 1.14,
+      "close": 1.16,
+      "volume": 23800
+    },
+    {
+      "date": "2026-07-14",
+      "open": 1.17,
+      "high": 1.22,
+      "low": 1.15,
+      "close": 1.18,
+      "volume": 51500
+    },
+    {
+      "date": "2026-07-15",
+      "open": 1.24,
+      "high": 1.24,
+      "low": 1.16,
+      "close": 1.16,
+      "volume": 14100
     }
   ]
 }

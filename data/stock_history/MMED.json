@@ -1,9 +1,9 @@
 {
   "code": "MMED",
   "ticker": "MMED",
-  "last_updated": "2026-07-12 11:23:38",
+  "last_updated": "2026-07-16 09:56:22",
   "period": "5y",
-  "data_points": 87,
+  "data_points": 90,
   "data": [
     {
       "date": "2026-03-06",
@@ -700,6 +700,30 @@
       "low": 14.7,
       "close": 15.29,
       "volume": 833200
+    },
+    {
+      "date": "2026-07-13",
+      "open": 15.49,
+      "high": 16.28,
+      "low": 15.17,
+      "close": 16.1,
+      "volume": 1411700
+    },
+    {
+      "date": "2026-07-14",
+      "open": 16.19,
+      "high": 16.27,
+      "low": 14.78,
+      "close": 15.04,
+      "volume": 964400
+    },
+    {
+      "date": "2026-07-15",
+      "open": 15.18,
+      "high": 15.84,
+      "low": 15.03,
+      "close": 15.42,
+      "volume": 909400
     }
   ]
 }

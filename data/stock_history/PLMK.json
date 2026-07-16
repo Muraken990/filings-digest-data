@@ -1,9 +1,9 @@
 {
   "code": "PLMK",
   "ticker": "PLMK",
-  "last_updated": "2026-07-12 13:16:40",
+  "last_updated": "2026-07-16 10:10:00",
   "period": "5y",
-  "data_points": 361,
+  "data_points": 364,
   "data": [
     {
       "date": "2025-01-31",
@@ -2892,6 +2892,30 @@
       "low": 10.53,
       "close": 10.66,
       "volume": 2100
+    },
+    {
+      "date": "2026-07-13",
+      "open": 10.69,
+      "high": 12.0,
+      "low": 10.69,
+      "close": 11.3,
+      "volume": 16100
+    },
+    {
+      "date": "2026-07-14",
+      "open": 11.0,
+      "high": 11.3,
+      "low": 10.9,
+      "close": 10.9,
+      "volume": 2800
+    },
+    {
+      "date": "2026-07-15",
+      "open": 10.89,
+      "high": 10.89,
+      "low": 10.63,
+      "close": 10.64,
+      "volume": 5300
     }
   ]
 }

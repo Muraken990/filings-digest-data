@@ -1,41 +1,17 @@
 {
   "code": "OXLC",
   "ticker": "OXLC",
-  "last_updated": "2026-07-12 13:13:24",
+  "last_updated": "2026-07-16 10:06:36",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-07-12",
-      "open": 13.5,
-      "high": 13.8,
-      "low": 13.42,
-      "close": 13.73,
-      "volume": 328240
-    },
-    {
-      "date": "2021-07-13",
-      "open": 13.77,
-      "high": 13.84,
-      "low": 13.55,
-      "close": 13.79,
-      "volume": 260260
-    },
-    {
-      "date": "2021-07-14",
-      "open": 13.8,
-      "high": 13.84,
-      "low": 13.59,
-      "close": 13.66,
-      "volume": 264880
-    },
-    {
       "date": "2021-07-15",
-      "open": 13.65,
-      "high": 13.73,
-      "low": 13.53,
-      "close": 13.64,
-      "volume": 179920
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-16",
@@ -10043,7 +10019,31 @@
       "high": 9.19,
       "low": 9.05,
       "close": 9.13,
-      "volume": 470500
+      "volume": 474000
+    },
+    {
+      "date": "2026-07-13",
+      "open": 9.15,
+      "high": 9.34,
+      "low": 9.11,
+      "close": 9.19,
+      "volume": 739900
+    },
+    {
+      "date": "2026-07-14",
+      "open": 9.19,
+      "high": 9.24,
+      "low": 9.11,
+      "close": 9.13,
+      "volume": 794500
+    },
+    {
+      "date": "2026-07-15",
+      "open": 9.18,
+      "high": 9.25,
+      "low": 9.02,
+      "close": 9.03,
+      "volume": 1038900
     }
   ]
 }

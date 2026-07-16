@@ -1,9 +1,9 @@
 {
   "code": "OCTV",
   "ticker": "OCTV",
-  "last_updated": "2026-07-12 11:32:08",
+  "last_updated": "2026-07-16 10:04:05",
   "period": "5y",
-  "data_points": 34,
+  "data_points": 37,
   "data": [
     {
       "date": "2026-05-21",
@@ -276,6 +276,30 @@
       "low": 16.97,
       "close": 17.0,
       "volume": 1363800
+    },
+    {
+      "date": "2026-07-13",
+      "open": 16.66,
+      "high": 17.03,
+      "low": 16.51,
+      "close": 16.95,
+      "volume": 977900
+    },
+    {
+      "date": "2026-07-14",
+      "open": 16.57,
+      "high": 17.01,
+      "low": 16.56,
+      "close": 16.62,
+      "volume": 716800
+    },
+    {
+      "date": "2026-07-15",
+      "open": 16.66,
+      "high": 17.02,
+      "low": 16.61,
+      "close": 17.01,
+      "volume": 540400
     }
   ]
 }

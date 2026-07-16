@@ -1,9 +1,9 @@
 {
   "code": "GCDT",
   "ticker": "GCDT",
-  "last_updated": "2026-07-12 10:59:59",
+  "last_updated": "2026-07-16 09:33:37",
   "period": "5y",
-  "data_points": 123,
+  "data_points": 126,
   "data": [
     {
       "date": "2026-01-13",
@@ -987,7 +987,31 @@
       "high": 0.63,
       "low": 0.58,
       "close": 0.61,
-      "volume": 87200
+      "volume": 88200
+    },
+    {
+      "date": "2026-07-13",
+      "open": 0.6,
+      "high": 0.62,
+      "low": 0.59,
+      "close": 0.61,
+      "volume": 87500
+    },
+    {
+      "date": "2026-07-14",
+      "open": 0.59,
+      "high": 0.61,
+      "low": 0.51,
+      "close": 0.56,
+      "volume": 199000
+    },
+    {
+      "date": "2026-07-15",
+      "open": 0.57,
+      "high": 0.57,
+      "low": 0.52,
+      "close": 0.55,
+      "volume": 106200
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "GSRV",
   "ticker": "GSRV",
-  "last_updated": "2026-07-12 11:04:12",
+  "last_updated": "2026-07-16 09:37:01",
   "period": "5y",
-  "data_points": 6,
+  "data_points": 9,
   "data": [
     {
       "date": "2026-07-02",
@@ -52,6 +52,30 @@
       "low": 9.85,
       "close": 9.85,
       "volume": 1000
+    },
+    {
+      "date": "2026-07-13",
+      "open": 9.86,
+      "high": 9.86,
+      "low": 9.86,
+      "close": 9.86,
+      "volume": 152900
+    },
+    {
+      "date": "2026-07-14",
+      "open": 9.86,
+      "high": 9.86,
+      "low": 9.85,
+      "close": 9.85,
+      "volume": 35100
+    },
+    {
+      "date": "2026-07-15",
+      "open": 9.86,
+      "high": 9.86,
+      "low": 9.85,
+      "close": 9.85,
+      "volume": 254400
     }
   ]
 }

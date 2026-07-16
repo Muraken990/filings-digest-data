@@ -1,9 +1,9 @@
 {
   "code": "PARK",
   "ticker": "PARK",
-  "last_updated": "2026-07-12 13:14:12",
+  "last_updated": "2026-07-16 10:07:26",
   "period": "5y",
-  "data_points": 150,
+  "data_points": 153,
   "data": [
     {
       "date": "2025-12-03",
@@ -1204,6 +1204,30 @@
       "low": 19.9,
       "close": 20.93,
       "volume": 30300
+    },
+    {
+      "date": "2026-07-13",
+      "open": 19.15,
+      "high": 21.21,
+      "low": 19.15,
+      "close": 20.75,
+      "volume": 29900
+    },
+    {
+      "date": "2026-07-14",
+      "open": 21.1,
+      "high": 21.1,
+      "low": 19.78,
+      "close": 20.04,
+      "volume": 18400
+    },
+    {
+      "date": "2026-07-15",
+      "open": 20.42,
+      "high": 20.85,
+      "low": 18.81,
+      "close": 19.61,
+      "volume": 25000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "HKD",
   "ticker": "HKD",
-  "last_updated": "2026-07-12 11:06:41",
+  "last_updated": "2026-07-16 09:39:29",
   "period": "5y",
-  "data_points": 1000,
+  "data_points": 1003,
   "data": [
     {
       "date": "2022-07-15",
@@ -8003,7 +8003,31 @@
       "high": 1.54,
       "low": 1.5,
       "close": 1.54,
-      "volume": 93800
+      "volume": 94700
+    },
+    {
+      "date": "2026-07-13",
+      "open": 1.52,
+      "high": 1.55,
+      "low": 1.52,
+      "close": 1.52,
+      "volume": 104000
+    },
+    {
+      "date": "2026-07-14",
+      "open": 1.5,
+      "high": 1.62,
+      "low": 1.5,
+      "close": 1.62,
+      "volume": 185300
+    },
+    {
+      "date": "2026-07-15",
+      "open": 1.6,
+      "high": 1.67,
+      "low": 1.6,
+      "close": 1.63,
+      "volume": 155500
     }
   ]
 }
