@@ -1,26 +1,10 @@
 {
   "code": "OPP",
   "ticker": "OPP",
-  "last_updated": "2026-07-16 10:05:44",
+  "last_updated": "2026-07-17 10:06:52",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-15",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-07-16",
-      "open": 7.69,
-      "high": 7.83,
-      "low": 7.65,
-      "close": 7.66,
-      "volume": 131762
-    },
     {
       "date": "2021-07-19",
       "open": 7.62,
@@ -2450,7 +2434,7 @@
       "open": 5.38,
       "high": 5.38,
       "low": 5.27,
-      "close": 5.29,
+      "close": 5.3,
       "volume": 102617
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 7.63,
       "close": 7.69,
       "volume": 85400
+    },
+    {
+      "date": "2026-07-16",
+      "open": 7.68,
+      "high": 7.76,
+      "low": 7.65,
+      "close": 7.73,
+      "volume": 127200
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "MASK",
   "ticker": "MASK",
-  "last_updated": "2026-07-16 09:53:03",
+  "last_updated": "2026-07-17 09:54:03",
   "period": "5y",
-  "data_points": 379,
+  "data_points": 380,
   "data": [
     {
       "date": "2025-01-08",
@@ -3035,7 +3035,15 @@
       "high": 1.73,
       "low": 1.6,
       "close": 1.62,
-      "volume": 129400
+      "volume": 131400
+    },
+    {
+      "date": "2026-07-16",
+      "open": 1.58,
+      "high": 1.7,
+      "low": 1.57,
+      "close": 1.7,
+      "volume": 34400
     }
   ]
 }

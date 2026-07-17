@@ -1,9 +1,9 @@
 {
   "code": "ITG",
   "ticker": "ITG",
-  "last_updated": "2026-07-16 09:45:22",
+  "last_updated": "2026-07-17 09:46:16",
   "period": "5y",
-  "data_points": 10,
+  "data_points": 11,
   "data": [
     {
       "date": "2026-07-01",
@@ -84,6 +84,14 @@
       "low": 12.24,
       "close": 12.51,
       "volume": 295600
+    },
+    {
+      "date": "2026-07-16",
+      "open": 12.27,
+      "high": 12.45,
+      "low": 10.5,
+      "close": 10.58,
+      "volume": 507900
     }
   ]
 }
