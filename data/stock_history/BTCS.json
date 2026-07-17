@@ -1,18 +1,10 @@
 {
   "code": "BTCS",
   "ticker": "BTCS",
-  "last_updated": "2026-07-16 07:20:33",
+  "last_updated": "2026-07-17 07:17:54",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-16",
-      "open": 4.0,
-      "high": 4.0,
-      "low": 3.41,
-      "close": 3.7,
-      "volume": 42120
-    },
     {
       "date": "2021-07-19",
       "open": 3.75,
@@ -10035,7 +10027,15 @@
       "high": 1.05,
       "low": 0.99,
       "close": 1.02,
-      "volume": 1213900
+      "volume": 1215000
+    },
+    {
+      "date": "2026-07-16",
+      "open": 1.01,
+      "high": 1.02,
+      "low": 0.97,
+      "close": 0.99,
+      "volume": 701500
     }
   ]
 }

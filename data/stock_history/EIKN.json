@@ -1,9 +1,9 @@
 {
   "code": "EIKN",
   "ticker": "EIKN",
-  "last_updated": "2026-07-16 07:36:02",
+  "last_updated": "2026-07-17 07:33:23",
   "period": "5y",
-  "data_points": 110,
+  "data_points": 111,
   "data": [
     {
       "date": "2026-02-05",
@@ -883,7 +883,15 @@
       "high": 10.35,
       "low": 9.73,
       "close": 9.84,
-      "volume": 207900
+      "volume": 219100
+    },
+    {
+      "date": "2026-07-16",
+      "open": 9.96,
+      "high": 10.05,
+      "low": 9.44,
+      "close": 9.95,
+      "volume": 365000
     }
   ]
 }
