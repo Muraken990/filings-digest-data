@@ -1,9 +1,9 @@
 {
   "code": "WCT",
   "ticker": "WCT",
-  "last_updated": "2026-07-12 13:43:29",
+  "last_updated": "2026-07-17 12:31:37",
   "period": "5y",
-  "data_points": 443,
+  "data_points": 447,
   "data": [
     {
       "date": "2024-10-02",
@@ -3547,7 +3547,39 @@
       "high": 1.08,
       "low": 0.98,
       "close": 1.03,
-      "volume": 35700
+      "volume": 36300
+    },
+    {
+      "date": "2026-07-13",
+      "open": 0.99,
+      "high": 1.1,
+      "low": 0.98,
+      "close": 1.02,
+      "volume": 55400
+    },
+    {
+      "date": "2026-07-14",
+      "open": 0.99,
+      "high": 1.22,
+      "low": 0.97,
+      "close": 1.14,
+      "volume": 139700
+    },
+    {
+      "date": "2026-07-15",
+      "open": 1.11,
+      "high": 1.22,
+      "low": 1.11,
+      "close": 1.15,
+      "volume": 74500
+    },
+    {
+      "date": "2026-07-16",
+      "open": 1.16,
+      "high": 1.23,
+      "low": 1.15,
+      "close": 1.16,
+      "volume": 73600
     }
   ]
 }

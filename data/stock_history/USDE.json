@@ -1,9 +1,9 @@
 {
   "code": "USDE",
   "ticker": "USDE",
-  "last_updated": "2026-07-12 13:40:13",
+  "last_updated": "2026-07-17 12:28:09",
   "period": "5y",
-  "data_points": 10,
+  "data_points": 14,
   "data": [
     {
       "date": "2026-06-26",
@@ -83,7 +83,39 @@
       "high": 2.15,
       "low": 1.96,
       "close": 1.96,
-      "volume": 851000
+      "volume": 892900
+    },
+    {
+      "date": "2026-07-13",
+      "open": 1.89,
+      "high": 2.09,
+      "low": 1.87,
+      "close": 1.9,
+      "volume": 571500
+    },
+    {
+      "date": "2026-07-14",
+      "open": 1.87,
+      "high": 1.92,
+      "low": 1.73,
+      "close": 1.78,
+      "volume": 1465900
+    },
+    {
+      "date": "2026-07-15",
+      "open": 1.75,
+      "high": 1.94,
+      "low": 1.75,
+      "close": 1.82,
+      "volume": 738800
+    },
+    {
+      "date": "2026-07-16",
+      "open": 1.83,
+      "high": 1.98,
+      "low": 1.78,
+      "close": 1.92,
+      "volume": 742900
     }
   ]
 }

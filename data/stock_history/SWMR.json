@@ -1,9 +1,9 @@
 {
   "code": "SWMR",
   "ticker": "SWMR",
-  "last_updated": "2026-07-12 13:32:53",
+  "last_updated": "2026-07-17 12:21:16",
   "period": "5y",
-  "data_points": 80,
+  "data_points": 84,
   "data": [
     {
       "date": "2026-03-17",
@@ -643,7 +643,39 @@
       "high": 45.5,
       "low": 40.0,
       "close": 42.0,
-      "volume": 301700
+      "volume": 302500
+    },
+    {
+      "date": "2026-07-13",
+      "open": 41.9,
+      "high": 41.95,
+      "low": 39.08,
+      "close": 39.98,
+      "volume": 200800
+    },
+    {
+      "date": "2026-07-14",
+      "open": 39.9,
+      "high": 42.5,
+      "low": 39.4,
+      "close": 41.6,
+      "volume": 173800
+    },
+    {
+      "date": "2026-07-15",
+      "open": 41.23,
+      "high": 42.63,
+      "low": 37.0,
+      "close": 37.68,
+      "volume": 288400
+    },
+    {
+      "date": "2026-07-16",
+      "open": 37.2,
+      "high": 37.22,
+      "low": 35.01,
+      "close": 35.76,
+      "volume": 398000
     }
   ]
 }

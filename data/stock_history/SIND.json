@@ -1,9 +1,9 @@
 {
   "code": "SIND",
   "ticker": "SIND",
-  "last_updated": "2026-07-12 13:28:02",
+  "last_updated": "2026-07-17 12:16:09",
   "period": "5y",
-  "data_points": 10,
+  "data_points": 14,
   "data": [
     {
       "date": "2026-06-26",
@@ -84,6 +84,38 @@
       "low": 11.88,
       "close": 12.21,
       "volume": 197100
+    },
+    {
+      "date": "2026-07-13",
+      "open": 12.16,
+      "high": 12.75,
+      "low": 12.01,
+      "close": 12.2,
+      "volume": 101500
+    },
+    {
+      "date": "2026-07-14",
+      "open": 12.25,
+      "high": 12.81,
+      "low": 12.01,
+      "close": 12.6,
+      "volume": 42600
+    },
+    {
+      "date": "2026-07-15",
+      "open": 12.89,
+      "high": 12.99,
+      "low": 12.11,
+      "close": 12.35,
+      "volume": 40900
+    },
+    {
+      "date": "2026-07-16",
+      "open": 12.45,
+      "high": 12.91,
+      "low": 12.13,
+      "close": 12.91,
+      "volume": 40600
     }
   ]
 }

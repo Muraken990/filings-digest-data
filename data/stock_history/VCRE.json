@@ -1,9 +1,9 @@
 {
   "code": "VCRE",
   "ticker": "VCRE",
-  "last_updated": "2026-07-12 13:41:01",
+  "last_updated": "2026-07-17 12:29:00",
   "period": "5y",
-  "data_points": 5,
+  "data_points": 9,
   "data": [
     {
       "date": "2026-07-06",
@@ -44,6 +44,38 @@
       "low": 13.09,
       "close": 13.78,
       "volume": 23600
+    },
+    {
+      "date": "2026-07-13",
+      "open": 12.77,
+      "high": 12.77,
+      "low": 12.37,
+      "close": 12.65,
+      "volume": 12700
+    },
+    {
+      "date": "2026-07-14",
+      "open": 12.21,
+      "high": 12.45,
+      "low": 11.05,
+      "close": 12.39,
+      "volume": 11300
+    },
+    {
+      "date": "2026-07-15",
+      "open": 12.26,
+      "high": 12.38,
+      "low": 11.93,
+      "close": 12.38,
+      "volume": 4400
+    },
+    {
+      "date": "2026-07-16",
+      "open": 12.03,
+      "high": 12.85,
+      "low": 11.1,
+      "close": 11.7,
+      "volume": 7500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SLBT",
   "ticker": "SLBT",
-  "last_updated": "2026-07-12 13:28:49",
+  "last_updated": "2026-07-17 12:16:57",
   "period": "5y",
-  "data_points": 358,
+  "data_points": 362,
   "data": [
     {
       "date": "2025-02-05",
@@ -2867,7 +2867,39 @@
       "high": 5.1,
       "low": 4.5,
       "close": 4.73,
-      "volume": 110100
+      "volume": 111400
+    },
+    {
+      "date": "2026-07-13",
+      "open": 4.53,
+      "high": 4.55,
+      "low": 4.28,
+      "close": 4.33,
+      "volume": 36500
+    },
+    {
+      "date": "2026-07-14",
+      "open": 4.46,
+      "high": 4.68,
+      "low": 4.32,
+      "close": 4.39,
+      "volume": 62000
+    },
+    {
+      "date": "2026-07-15",
+      "open": 4.5,
+      "high": 4.73,
+      "low": 4.2,
+      "close": 4.24,
+      "volume": 62200
+    },
+    {
+      "date": "2026-07-16",
+      "open": 4.21,
+      "high": 4.49,
+      "low": 4.11,
+      "close": 4.33,
+      "volume": 41500
     }
   ]
 }

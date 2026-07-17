@@ -1,9 +1,9 @@
 {
   "code": "VMET",
   "ticker": "VMET",
-  "last_updated": "2026-07-12 13:41:51",
+  "last_updated": "2026-07-17 12:29:54",
   "period": "5y",
-  "data_points": 91,
+  "data_points": 95,
   "data": [
     {
       "date": "2026-03-02",
@@ -731,7 +731,39 @@
       "high": 9.85,
       "low": 9.56,
       "close": 9.63,
-      "volume": 157000
+      "volume": 158100
+    },
+    {
+      "date": "2026-07-13",
+      "open": 9.65,
+      "high": 9.76,
+      "low": 9.12,
+      "close": 9.2,
+      "volume": 222800
+    },
+    {
+      "date": "2026-07-14",
+      "open": 9.51,
+      "high": 9.85,
+      "low": 9.38,
+      "close": 9.58,
+      "volume": 117300
+    },
+    {
+      "date": "2026-07-15",
+      "open": 9.58,
+      "high": 9.8,
+      "low": 9.12,
+      "close": 9.32,
+      "volume": 134700
+    },
+    {
+      "date": "2026-07-16",
+      "open": 9.18,
+      "high": 9.18,
+      "low": 8.83,
+      "close": 8.89,
+      "volume": 205500
     }
   ]
 }

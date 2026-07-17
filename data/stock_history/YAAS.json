@@ -1,9 +1,9 @@
 {
   "code": "YAAS",
   "ticker": "YAAS",
-  "last_updated": "2026-07-12 13:46:45",
+  "last_updated": "2026-07-17 12:35:02",
   "period": "5y",
-  "data_points": 387,
+  "data_points": 391,
   "data": [
     {
       "date": "2024-12-20",
@@ -3099,7 +3099,39 @@
       "high": 1.01,
       "low": 0.79,
       "close": 0.99,
-      "volume": 596900
+      "volume": 601300
+    },
+    {
+      "date": "2026-07-13",
+      "open": 0.91,
+      "high": 0.99,
+      "low": 0.89,
+      "close": 0.93,
+      "volume": 37200
+    },
+    {
+      "date": "2026-07-14",
+      "open": 0.9,
+      "high": 0.9,
+      "low": 0.65,
+      "close": 0.74,
+      "volume": 1662000
+    },
+    {
+      "date": "2026-07-15",
+      "open": 0.75,
+      "high": 0.75,
+      "low": 0.68,
+      "close": 0.73,
+      "volume": 274400
+    },
+    {
+      "date": "2026-07-16",
+      "open": 0.71,
+      "high": 0.73,
+      "low": 0.66,
+      "close": 0.72,
+      "volume": 123100
     }
   ]
 }

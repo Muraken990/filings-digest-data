@@ -1,9 +1,9 @@
 {
   "code": "VHUB",
   "ticker": "VHUB",
-  "last_updated": "2026-07-12 13:41:03",
+  "last_updated": "2026-07-17 12:29:50",
   "period": "5y",
-  "data_points": 111,
+  "data_points": 115,
   "data": [
     {
       "date": "2026-01-30",
@@ -892,6 +892,38 @@
       "low": 1.02,
       "close": 1.02,
       "volume": 94800
+    },
+    {
+      "date": "2026-07-13",
+      "open": 1.02,
+      "high": 1.05,
+      "low": 1.0,
+      "close": 1.03,
+      "volume": 66400
+    },
+    {
+      "date": "2026-07-14",
+      "open": 1.02,
+      "high": 1.07,
+      "low": 1.02,
+      "close": 1.06,
+      "volume": 44600
+    },
+    {
+      "date": "2026-07-15",
+      "open": 1.04,
+      "high": 1.07,
+      "low": 1.02,
+      "close": 1.04,
+      "volume": 47800
+    },
+    {
+      "date": "2026-07-16",
+      "open": 1.03,
+      "high": 1.03,
+      "low": 0.98,
+      "close": 1.01,
+      "volume": 95400
     }
   ]
 }
