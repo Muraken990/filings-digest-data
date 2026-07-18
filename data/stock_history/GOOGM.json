@@ -1,9 +1,9 @@
 {
   "code": "GOOGM",
   "ticker": "GOOGM",
-  "last_updated": "2026-07-17 09:36:54",
+  "last_updated": "2026-07-18 09:38:21",
   "period": "5y",
-  "data_points": 30,
+  "data_points": 31,
   "data": [
     {
       "date": "2026-06-03",
@@ -244,6 +244,14 @@
       "low": 49.95,
       "close": 50.18,
       "volume": 1894800
+    },
+    {
+      "date": "2026-07-17",
+      "open": 49.5,
+      "high": 50.11,
+      "low": 48.85,
+      "close": 49.22,
+      "volume": 2028800
     }
   ]
 }

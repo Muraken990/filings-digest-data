@@ -1,9 +1,9 @@
 {
   "code": "OBAI",
   "ticker": "OBAI",
-  "last_updated": "2026-07-17 10:05:10",
+  "last_updated": "2026-07-18 10:06:36",
   "period": "5y",
-  "data_points": 112,
+  "data_points": 113,
   "data": [
     {
       "date": "2026-02-04",
@@ -899,7 +899,15 @@
       "high": 0.67,
       "low": 0.61,
       "close": 0.62,
-      "volume": 345100
+      "volume": 354800
+    },
+    {
+      "date": "2026-07-17",
+      "open": 0.61,
+      "high": 0.61,
+      "low": 0.56,
+      "close": 0.56,
+      "volume": 563700
     }
   ]
 }
