@@ -1,9 +1,9 @@
 {
   "code": "FGMCU",
   "ticker": "FGMCU",
-  "last_updated": "2026-07-17 07:38:29",
+  "last_updated": "2026-07-18 07:41:56",
   "period": "5y",
-  "data_points": 367,
+  "data_points": 368,
   "data": [
     {
       "date": "2025-01-29",
@@ -2935,11 +2935,19 @@
     },
     {
       "date": "2026-07-16",
+      "open": 10.0,
+      "high": 10.0,
+      "low": 9.96,
+      "close": 9.97,
+      "volume": 902
+    },
+    {
+      "date": "2026-07-17",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 1036
+      "volume": 1606
     }
   ]
 }

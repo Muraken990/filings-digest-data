@@ -1,9 +1,9 @@
 {
   "code": "AVLN",
   "ticker": "AVLN",
-  "last_updated": "2026-07-17 07:11:52",
+  "last_updated": "2026-07-18 07:15:21",
   "period": "5y",
-  "data_points": 53,
+  "data_points": 54,
   "data": [
     {
       "date": "2026-04-30",
@@ -428,6 +428,14 @@
       "low": 25.07,
       "close": 25.68,
       "volume": 289700
+    },
+    {
+      "date": "2026-07-17",
+      "open": 25.25,
+      "high": 29.27,
+      "low": 24.9,
+      "close": 28.3,
+      "volume": 364100
     }
   ]
 }

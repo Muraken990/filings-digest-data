@@ -1,18 +1,10 @@
 {
   "code": "CIK",
   "ticker": "CIK",
-  "last_updated": "2026-07-17 07:23:00",
+  "last_updated": "2026-07-18 07:26:30",
   "period": "5y",
   "data_points": 1255,
   "data": [
-    {
-      "date": "2021-07-16",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-07-19",
       "open": 2.12,
@@ -10044,6 +10036,14 @@
       "low": 2.42,
       "close": 2.43,
       "volume": 844700
+    },
+    {
+      "date": "2026-07-17",
+      "open": 2.43,
+      "high": 2.44,
+      "low": 2.42,
+      "close": 2.43,
+      "volume": 744600
     }
   ]
 }
