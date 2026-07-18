@@ -1,9 +1,9 @@
 {
   "code": "SSACU",
   "ticker": "SSACU",
-  "last_updated": "2026-07-17 12:19:34",
+  "last_updated": "2026-07-18 12:18:50",
   "period": "5y",
-  "data_points": 110,
+  "data_points": 111,
   "data": [
     {
       "date": "2026-02-06",
@@ -884,6 +884,14 @@
       "low": 10.01,
       "close": 10.24,
       "volume": 1600
+    },
+    {
+      "date": "2026-07-17",
+      "open": 10.24,
+      "high": 10.24,
+      "low": 10.24,
+      "close": 10.24,
+      "volume": 0
     }
   ]
 }

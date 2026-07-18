@@ -1,9 +1,9 @@
 {
   "code": "TPTS",
   "ticker": "TPTS",
-  "last_updated": "2026-07-17 12:24:43",
+  "last_updated": "2026-07-18 12:23:57",
   "period": "5y",
-  "data_points": 16,
+  "data_points": 17,
   "data": [
     {
       "date": "2026-06-24",
@@ -132,6 +132,14 @@
       "low": 17.32,
       "close": 17.59,
       "volume": 25400
+    },
+    {
+      "date": "2026-07-17",
+      "open": 17.42,
+      "high": 18.26,
+      "low": 16.76,
+      "close": 16.92,
+      "volume": 354100
     }
   ]
 }

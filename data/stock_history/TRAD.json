@@ -1,9 +1,9 @@
 {
   "code": "TRAD",
   "ticker": "TRAD",
-  "last_updated": "2026-07-17 12:24:43",
+  "last_updated": "2026-07-18 12:23:57",
   "period": "5y",
-  "data_points": 61,
+  "data_points": 62,
   "data": [
     {
       "date": "2026-04-20",
@@ -492,6 +492,14 @@
       "low": 9.95,
       "close": 9.95,
       "volume": 0
+    },
+    {
+      "date": "2026-07-17",
+      "open": 9.96,
+      "high": 9.96,
+      "low": 9.94,
+      "close": 9.94,
+      "volume": 500
     }
   ]
 }
