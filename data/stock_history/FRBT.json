@@ -1,9 +1,9 @@
 {
   "code": "FRBT",
   "ticker": "FRBT",
-  "last_updated": "2026-07-20 07:44:00",
+  "last_updated": "2026-07-21 07:44:20",
   "period": "5y",
-  "data_points": 25,
+  "data_points": 26,
   "data": [
     {
       "date": "2026-06-11",
@@ -204,6 +204,14 @@
       "low": 18.29,
       "close": 19.05,
       "volume": 128500
+    },
+    {
+      "date": "2026-07-20",
+      "open": 19.3,
+      "high": 20.15,
+      "low": 18.62,
+      "close": 19.26,
+      "volume": 135500
     }
   ]
 }

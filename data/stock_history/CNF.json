@@ -1,26 +1,10 @@
 {
   "code": "CNF",
   "ticker": "CNF",
-  "last_updated": "2026-07-20 07:28:34",
+  "last_updated": "2026-07-21 07:28:54",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 32.4,
-      "high": 32.5,
-      "low": 32.1,
-      "close": 32.5,
-      "volume": 100
-    },
-    {
-      "date": "2021-07-20",
-      "open": 32.4,
-      "high": 34.6,
-      "low": 32.3,
-      "close": 34.5,
-      "volume": 3040
-    },
     {
       "date": "2021-07-21",
       "open": 34.5,
@@ -10043,7 +10027,15 @@
       "high": 3.39,
       "low": 2.45,
       "close": 2.92,
-      "volume": 533500
+      "volume": 545400
+    },
+    {
+      "date": "2026-07-20",
+      "open": 2.99,
+      "high": 2.99,
+      "low": 2.51,
+      "close": 2.57,
+      "volume": 32000
     }
   ]
 }

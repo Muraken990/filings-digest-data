@@ -1,26 +1,10 @@
 {
   "code": "BESS",
   "ticker": "BESS",
-  "last_updated": "2026-07-20 07:18:20",
+  "last_updated": "2026-07-21 07:18:38",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 40.6,
-      "high": 40.6,
-      "low": 33.6,
-      "close": 39.2,
-      "volume": 449
-    },
-    {
-      "date": "2021-07-20",
-      "open": 39.2,
-      "high": 39.2,
-      "low": 39.2,
-      "close": 39.2,
-      "volume": 0
-    },
     {
       "date": "2021-07-21",
       "open": 44.8,
@@ -10044,6 +10028,14 @@
       "low": 3.12,
       "close": 3.18,
       "volume": 118500
+    },
+    {
+      "date": "2026-07-20",
+      "open": 3.21,
+      "high": 3.28,
+      "low": 3.0,
+      "close": 3.15,
+      "volume": 53600
     }
   ]
 }

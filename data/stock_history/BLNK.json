@@ -1,26 +1,10 @@
 {
   "code": "BLNK",
   "ticker": "BLNK",
-  "last_updated": "2026-07-20 07:20:03",
+  "last_updated": "2026-07-21 07:20:21",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 29.42,
-      "high": 31.22,
-      "low": 29.16,
-      "close": 31.07,
-      "volume": 1295700
-    },
-    {
-      "date": "2021-07-20",
-      "open": 31.5,
-      "high": 32.6,
-      "low": 29.58,
-      "close": 32.12,
-      "volume": 1535000
-    },
     {
       "date": "2021-07-21",
       "open": 32.02,
@@ -10043,7 +10027,15 @@
       "high": 0.57,
       "low": 0.55,
       "close": 0.55,
-      "volume": 968600
+      "volume": 974200
+    },
+    {
+      "date": "2026-07-20",
+      "open": 0.56,
+      "high": 0.57,
+      "low": 0.55,
+      "close": 0.55,
+      "volume": 1003700
     }
   ]
 }

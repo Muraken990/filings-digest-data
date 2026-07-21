@@ -1,26 +1,10 @@
 {
   "code": "CYPH",
   "ticker": "CYPH",
-  "last_updated": "2026-07-20 07:32:04",
+  "last_updated": "2026-07-21 07:32:24",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 13.9,
-      "high": 13.9,
-      "low": 13.3,
-      "close": 13.5,
-      "volume": 22850
-    },
-    {
-      "date": "2021-07-20",
-      "open": 13.7,
-      "high": 14.6,
-      "low": 13.5,
-      "close": 14.1,
-      "volume": 23880
-    },
     {
       "date": "2021-07-21",
       "open": 14.8,
@@ -10043,7 +10027,15 @@
       "high": 0.75,
       "low": 0.67,
       "close": 0.71,
-      "volume": 966600
+      "volume": 968500
+    },
+    {
+      "date": "2026-07-20",
+      "open": 0.71,
+      "high": 0.75,
+      "low": 0.69,
+      "close": 0.72,
+      "volume": 1096400
     }
   ]
 }

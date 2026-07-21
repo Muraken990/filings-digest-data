@@ -1,26 +1,10 @@
 {
   "code": "AMST",
   "ticker": "AMST",
-  "last_updated": "2026-07-20 07:11:33",
+  "last_updated": "2026-07-21 07:11:51",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 24.72,
-      "high": 26.16,
-      "low": 24.24,
-      "close": 25.92,
-      "volume": 16250
-    },
-    {
-      "date": "2021-07-20",
-      "open": 25.56,
-      "high": 29.04,
-      "low": 25.38,
-      "close": 26.88,
-      "volume": 54533
-    },
     {
       "date": "2021-07-21",
       "open": 26.74,
@@ -10043,7 +10027,15 @@
       "high": 1.17,
       "low": 1.02,
       "close": 1.08,
-      "volume": 483100
+      "volume": 499000
+    },
+    {
+      "date": "2026-07-20",
+      "open": 1.06,
+      "high": 1.09,
+      "low": 0.97,
+      "close": 1.02,
+      "volume": 202600
     }
   ]
 }

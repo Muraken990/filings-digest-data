@@ -1,26 +1,10 @@
 {
   "code": "CABA",
   "ticker": "CABA",
-  "last_updated": "2026-07-20 07:23:26",
+  "last_updated": "2026-07-21 07:23:45",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 7.65,
-      "high": 7.85,
-      "low": 7.48,
-      "close": 7.73,
-      "volume": 39200
-    },
-    {
-      "date": "2021-07-20",
-      "open": 7.95,
-      "high": 8.15,
-      "low": 7.64,
-      "close": 8.12,
-      "volume": 63300
-    },
     {
       "date": "2021-07-21",
       "open": 8.12,
@@ -10043,7 +10027,15 @@
       "high": 2.86,
       "low": 2.6,
       "close": 2.83,
-      "volume": 3507800
+      "volume": 3508400
+    },
+    {
+      "date": "2026-07-20",
+      "open": 2.83,
+      "high": 2.87,
+      "low": 2.74,
+      "close": 2.75,
+      "volume": 2691900
     }
   ]
 }

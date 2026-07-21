@@ -1,26 +1,10 @@
 {
   "code": "DRTS",
   "ticker": "DRTS",
-  "last_updated": "2026-07-20 07:34:39",
+  "last_updated": "2026-07-21 07:35:00",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 9.78,
-      "high": 9.8,
-      "low": 9.77,
-      "close": 9.8,
-      "volume": 28100
-    },
-    {
-      "date": "2021-07-20",
-      "open": 9.8,
-      "high": 9.8,
-      "low": 9.78,
-      "close": 9.78,
-      "volume": 36800
-    },
     {
       "date": "2021-07-21",
       "open": 9.79,
@@ -10043,7 +10027,15 @@
       "high": 13.8,
       "low": 11.51,
       "close": 13.55,
-      "volume": 1101000
+      "volume": 1103000
+    },
+    {
+      "date": "2026-07-20",
+      "open": 13.47,
+      "high": 13.9,
+      "low": 13.2,
+      "close": 13.47,
+      "volume": 619600
     }
   ]
 }

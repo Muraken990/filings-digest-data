@@ -1,26 +1,10 @@
 {
   "code": "DOGZ",
   "ticker": "DOGZ",
-  "last_updated": "2026-07-20 07:34:36",
+  "last_updated": "2026-07-21 07:34:57",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 33.2,
-      "high": 36.0,
-      "low": 32.6,
-      "close": 35.4,
-      "volume": 32825
-    },
-    {
-      "date": "2021-07-20",
-      "open": 35.6,
-      "high": 36.0,
-      "low": 34.58,
-      "close": 35.6,
-      "volume": 11385
-    },
     {
       "date": "2021-07-21",
       "open": 36.2,
@@ -10044,6 +10028,14 @@
       "low": 0.9,
       "close": 0.95,
       "volume": 4600
+    },
+    {
+      "date": "2026-07-20",
+      "open": 0.95,
+      "high": 1.02,
+      "low": 0.93,
+      "close": 1.01,
+      "volume": 35200
     }
   ]
 }

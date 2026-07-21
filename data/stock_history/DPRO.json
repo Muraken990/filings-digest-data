@@ -1,26 +1,10 @@
 {
   "code": "DPRO",
   "ticker": "DPRO",
-  "last_updated": "2026-07-20 07:34:37",
+  "last_updated": "2026-07-21 07:34:59",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 126.25,
-      "high": 132.5,
-      "low": 125.0,
-      "close": 130.0,
-      "volume": 3398
-    },
-    {
-      "date": "2021-07-20",
-      "open": 131.25,
-      "high": 142.5,
-      "low": 130.0,
-      "close": 138.75,
-      "volume": 1680
-    },
     {
       "date": "2021-07-21",
       "open": 138.75,
@@ -10043,7 +10027,15 @@
       "high": 4.26,
       "low": 4.0,
       "close": 4.19,
-      "volume": 602800
+      "volume": 603900
+    },
+    {
+      "date": "2026-07-20",
+      "open": 4.22,
+      "high": 4.32,
+      "low": 4.19,
+      "close": 4.25,
+      "volume": 737400
     }
   ]
 }

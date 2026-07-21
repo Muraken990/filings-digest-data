@@ -1,26 +1,10 @@
 {
   "code": "BOLT",
   "ticker": "BOLT",
-  "last_updated": "2026-07-20 07:20:54",
+  "last_updated": "2026-07-21 07:21:13",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 262.2,
-      "high": 274.4,
-      "low": 254.2,
-      "close": 268.2,
-      "volume": 2315
-    },
-    {
-      "date": "2021-07-20",
-      "open": 269.0,
-      "high": 275.0,
-      "low": 261.6,
-      "close": 270.8,
-      "volume": 3320
-    },
     {
       "date": "2021-07-21",
       "open": 271.2,
@@ -10044,6 +10028,14 @@
       "low": 4.11,
       "close": 4.42,
       "volume": 16000
+    },
+    {
+      "date": "2026-07-20",
+      "open": 4.36,
+      "high": 4.5,
+      "low": 4.33,
+      "close": 4.47,
+      "volume": 20700
     }
   ]
 }

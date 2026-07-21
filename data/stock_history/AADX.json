@@ -1,9 +1,9 @@
 {
   "code": "AADX",
   "ticker": "AADX",
-  "last_updated": "2026-07-20 07:06:24",
+  "last_updated": "2026-07-21 07:06:40",
   "period": "5y",
-  "data_points": 31,
+  "data_points": 32,
   "data": [
     {
       "date": "2026-06-03",
@@ -252,6 +252,14 @@
       "low": 16.76,
       "close": 17.0,
       "volume": 756600
+    },
+    {
+      "date": "2026-07-20",
+      "open": 16.82,
+      "high": 17.84,
+      "low": 16.57,
+      "close": 16.85,
+      "volume": 422100
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "AZUL",
   "ticker": "AZUL",
-  "last_updated": "2026-07-20 07:16:37",
+  "last_updated": "2026-07-21 07:16:55",
   "period": "5y",
-  "data_points": 35,
+  "data_points": 36,
   "data": [
     {
       "date": "2026-05-28",
@@ -284,6 +284,14 @@
       "low": 8.35,
       "close": 8.48,
       "volume": 304500
+    },
+    {
+      "date": "2026-07-20",
+      "open": 8.5,
+      "high": 8.75,
+      "low": 8.46,
+      "close": 8.53,
+      "volume": 20000
     }
   ]
 }
