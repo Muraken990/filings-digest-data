@@ -1,9 +1,9 @@
 {
   "code": "IDAC",
   "ticker": "IDAC",
-  "last_updated": "2026-07-20 09:45:09",
+  "last_updated": "2026-07-21 09:43:11",
   "period": "5y",
-  "data_points": 10,
+  "data_points": 11,
   "data": [
     {
       "date": "2026-07-06",
@@ -84,6 +84,14 @@
       "low": 9.99,
       "close": 9.99,
       "volume": 1000
+    },
+    {
+      "date": "2026-07-20",
+      "open": 9.98,
+      "high": 10.0,
+      "low": 9.98,
+      "close": 9.98,
+      "volume": 27000
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "NABL",
   "ticker": "NABL",
-  "last_updated": "2026-07-20 10:02:26",
+  "last_updated": "2026-07-21 10:00:20",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 13.0,
-      "high": 16.0,
-      "low": 13.0,
-      "close": 16.0,
-      "volume": 1300
-    },
-    {
-      "date": "2021-07-20",
-      "open": 15.37,
-      "high": 15.85,
-      "low": 12.25,
-      "close": 12.5,
-      "volume": 1569400
-    },
     {
       "date": "2021-07-21",
       "open": 12.65,
@@ -10044,6 +10028,14 @@
       "low": 4.59,
       "close": 4.77,
       "volume": 1648900
+    },
+    {
+      "date": "2026-07-20",
+      "open": 4.7,
+      "high": 4.95,
+      "low": 4.64,
+      "close": 4.9,
+      "volume": 1582300
     }
   ]
 }

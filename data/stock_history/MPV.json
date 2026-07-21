@@ -1,26 +1,10 @@
 {
   "code": "MPV",
   "ticker": "MPV",
-  "last_updated": "2026-07-20 10:00:40",
+  "last_updated": "2026-07-21 09:58:35",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 9.08,
-      "high": 9.21,
-      "low": 8.79,
-      "close": 8.95,
-      "volume": 45900
-    },
-    {
-      "date": "2021-07-20",
-      "open": 9.01,
-      "high": 9.08,
-      "low": 8.96,
-      "close": 9.04,
-      "volume": 4800
-    },
     {
       "date": "2021-07-21",
       "open": 8.94,
@@ -10044,6 +10028,14 @@
       "low": 15.69,
       "close": 15.89,
       "volume": 4600
+    },
+    {
+      "date": "2026-07-20",
+      "open": 15.89,
+      "high": 16.09,
+      "low": 15.75,
+      "close": 15.83,
+      "volume": 8000
     }
   ]
 }

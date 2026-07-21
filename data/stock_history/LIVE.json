@@ -1,26 +1,10 @@
 {
   "code": "LIVE",
   "ticker": "LIVE",
-  "last_updated": "2026-07-20 09:54:36",
+  "last_updated": "2026-07-21 09:52:34",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 57.32,
-      "high": 57.32,
-      "low": 53.61,
-      "close": 55.44,
-      "volume": 24200
-    },
-    {
-      "date": "2021-07-20",
-      "open": 55.21,
-      "high": 55.21,
-      "low": 52.88,
-      "close": 53.21,
-      "volume": 21600
-    },
     {
       "date": "2021-07-21",
       "open": 53.41,
@@ -10044,6 +10028,14 @@
       "low": 10.81,
       "close": 11.2,
       "volume": 34000
+    },
+    {
+      "date": "2026-07-20",
+      "open": 11.13,
+      "high": 11.78,
+      "low": 11.13,
+      "close": 11.58,
+      "volume": 1800
     }
   ]
 }

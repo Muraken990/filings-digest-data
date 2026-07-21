@@ -1,26 +1,10 @@
 {
   "code": "FTCI",
   "ticker": "FTCI",
-  "last_updated": "2026-07-20 09:35:37",
+  "last_updated": "2026-07-21 09:33:43",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 100.0,
-      "high": 101.0,
-      "low": 94.3,
-      "close": 97.8,
-      "volume": 45380
-    },
-    {
-      "date": "2021-07-20",
-      "open": 99.0,
-      "high": 102.1,
-      "low": 97.4,
-      "close": 100.8,
-      "volume": 45380
-    },
     {
       "date": "2021-07-21",
       "open": 102.0,
@@ -10044,6 +10028,14 @@
       "low": 3.7,
       "close": 3.85,
       "volume": 395500
+    },
+    {
+      "date": "2026-07-20",
+      "open": 3.9,
+      "high": 4.01,
+      "low": 3.73,
+      "close": 3.85,
+      "volume": 267500
     }
   ]
 }

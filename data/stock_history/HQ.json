@@ -1,9 +1,9 @@
 {
   "code": "HQ",
   "ticker": "HQ",
-  "last_updated": "2026-07-20 09:43:23",
+  "last_updated": "2026-07-21 09:41:26",
   "period": "5y",
-  "data_points": 82,
+  "data_points": 83,
   "data": [
     {
       "date": "2026-03-20",
@@ -660,6 +660,14 @@
       "low": 19.01,
       "close": 22.31,
       "volume": 567700
+    },
+    {
+      "date": "2026-07-20",
+      "open": 22.3,
+      "high": 23.99,
+      "low": 19.44,
+      "close": 19.6,
+      "volume": 288900
     }
   ]
 }

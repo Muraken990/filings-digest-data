@@ -1,9 +1,9 @@
 {
   "code": "IRHO",
   "ticker": "IRHO",
-  "last_updated": "2026-07-20 09:47:45",
+  "last_updated": "2026-07-21 09:45:46",
   "period": "5y",
-  "data_points": 111,
+  "data_points": 112,
   "data": [
     {
       "date": "2026-02-06",
@@ -892,6 +892,14 @@
       "low": 10.02,
       "close": 10.03,
       "volume": 24400
+    },
+    {
+      "date": "2026-07-20",
+      "open": 10.03,
+      "high": 10.03,
+      "low": 10.02,
+      "close": 10.02,
+      "volume": 15900
     }
   ]
 }
