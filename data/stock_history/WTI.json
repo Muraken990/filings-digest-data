@@ -1,26 +1,10 @@
 {
   "code": "WTI",
   "ticker": "WTI",
-  "last_updated": "2026-07-20 12:33:42",
+  "last_updated": "2026-07-21 12:32:27",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 3.37,
-      "high": 3.5,
-      "low": 3.35,
-      "close": 3.42,
-      "volume": 3305900
-    },
-    {
-      "date": "2021-07-20",
-      "open": 3.45,
-      "high": 3.59,
-      "low": 3.37,
-      "close": 3.53,
-      "volume": 3074200
-    },
     {
       "date": "2021-07-21",
       "open": 3.62,
@@ -10043,7 +10027,15 @@
       "high": 3.5,
       "low": 3.28,
       "close": 3.49,
-      "volume": 4604900
+      "volume": 4623200
+    },
+    {
+      "date": "2026-07-20",
+      "open": 3.39,
+      "high": 3.58,
+      "low": 3.34,
+      "close": 3.51,
+      "volume": 3822800
     }
   ]
 }

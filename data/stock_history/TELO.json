@@ -1,9 +1,9 @@
 {
   "code": "TELO",
   "ticker": "TELO",
-  "last_updated": "2026-07-20 12:22:33",
+  "last_updated": "2026-07-21 12:21:24",
   "period": "5y",
-  "data_points": 610,
+  "data_points": 611,
   "data": [
     {
       "date": "2024-02-09",
@@ -4883,7 +4883,15 @@
       "high": 1.21,
       "low": 1.08,
       "close": 1.11,
-      "volume": 248100
+      "volume": 292100
+    },
+    {
+      "date": "2026-07-20",
+      "open": 1.03,
+      "high": 1.03,
+      "low": 0.89,
+      "close": 0.92,
+      "volume": 239700
     }
   ]
 }

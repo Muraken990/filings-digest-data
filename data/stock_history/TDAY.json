@@ -1,26 +1,10 @@
 {
   "code": "TDAY",
   "ticker": "TDAY",
-  "last_updated": "2026-07-20 12:22:31",
+  "last_updated": "2026-07-21 12:21:21",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 4.54,
-      "high": 4.92,
-      "low": 4.5,
-      "close": 4.86,
-      "volume": 2646000
-    },
-    {
-      "date": "2021-07-20",
-      "open": 4.9,
-      "high": 5.28,
-      "low": 4.83,
-      "close": 5.22,
-      "volume": 2155600
-    },
     {
       "date": "2021-07-21",
       "open": 5.26,
@@ -10044,6 +10028,14 @@
       "low": 8.35,
       "close": 8.5,
       "volume": 1032300
+    },
+    {
+      "date": "2026-07-20",
+      "open": 8.31,
+      "high": 8.61,
+      "low": 8.31,
+      "close": 8.42,
+      "volume": 915000
     }
   ]
 }

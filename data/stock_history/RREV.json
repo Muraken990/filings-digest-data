@@ -1,9 +1,9 @@
 {
   "code": "RREV",
   "ticker": "RREV",
-  "last_updated": "2026-07-20 12:12:14",
+  "last_updated": "2026-07-21 12:11:11",
   "period": "5y",
-  "data_points": 40,
+  "data_points": 41,
   "data": [
     {
       "date": "2026-05-20",
@@ -324,6 +324,14 @@
       "low": 9.9,
       "close": 9.9,
       "volume": 63200
+    },
+    {
+      "date": "2026-07-20",
+      "open": 9.9,
+      "high": 9.9,
+      "low": 9.89,
+      "close": 9.89,
+      "volume": 400
     }
   ]
 }

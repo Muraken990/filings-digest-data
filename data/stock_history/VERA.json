@@ -1,26 +1,10 @@
 {
   "code": "VERA",
   "ticker": "VERA",
-  "last_updated": "2026-07-20 12:28:38",
+  "last_updated": "2026-07-21 12:27:25",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 15.0,
-      "high": 15.98,
-      "low": 14.8,
-      "close": 15.98,
-      "volume": 9300
-    },
-    {
-      "date": "2021-07-20",
-      "open": 15.9,
-      "high": 16.67,
-      "low": 15.79,
-      "close": 16.5,
-      "volume": 13300
-    },
     {
       "date": "2021-07-21",
       "open": 16.7,
@@ -10043,7 +10027,15 @@
       "high": 40.13,
       "low": 37.52,
       "close": 38.5,
-      "volume": 1389600
+      "volume": 1390200
+    },
+    {
+      "date": "2026-07-20",
+      "open": 38.61,
+      "high": 39.03,
+      "low": 36.72,
+      "close": 36.99,
+      "volume": 1014500
     }
   ]
 }

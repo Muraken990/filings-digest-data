@@ -1,9 +1,9 @@
 {
   "code": "XNDU",
   "ticker": "XNDU",
-  "last_updated": "2026-07-20 12:33:48",
+  "last_updated": "2026-07-21 12:32:33",
   "period": "5y",
-  "data_points": 81,
+  "data_points": 82,
   "data": [
     {
       "date": "2026-03-23",
@@ -651,7 +651,15 @@
       "high": 10.21,
       "low": 9.5,
       "close": 9.99,
-      "volume": 1745400
+      "volume": 1752400
+    },
+    {
+      "date": "2026-07-20",
+      "open": 9.99,
+      "high": 11.15,
+      "low": 9.98,
+      "close": 10.84,
+      "volume": 1400600
     }
   ]
 }

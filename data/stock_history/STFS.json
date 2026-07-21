@@ -1,9 +1,9 @@
 {
   "code": "STFS",
   "ticker": "STFS",
-  "last_updated": "2026-07-20 12:19:57",
+  "last_updated": "2026-07-21 12:18:50",
   "period": "5y",
-  "data_points": 441,
+  "data_points": 442,
   "data": [
     {
       "date": "2024-10-11",
@@ -3532,6 +3532,14 @@
       "low": 8.1,
       "close": 9.14,
       "volume": 12000
+    },
+    {
+      "date": "2026-07-20",
+      "open": 9.19,
+      "high": 9.45,
+      "low": 6.45,
+      "close": 7.1,
+      "volume": 54600
     }
   ]
 }

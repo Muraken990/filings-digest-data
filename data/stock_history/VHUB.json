@@ -1,9 +1,9 @@
 {
   "code": "VHUB",
   "ticker": "VHUB",
-  "last_updated": "2026-07-20 12:29:25",
+  "last_updated": "2026-07-21 12:28:13",
   "period": "5y",
-  "data_points": 116,
+  "data_points": 117,
   "data": [
     {
       "date": "2026-01-30",
@@ -932,6 +932,14 @@
       "low": 0.99,
       "close": 1.04,
       "volume": 39800
+    },
+    {
+      "date": "2026-07-20",
+      "open": 1.0,
+      "high": 1.02,
+      "low": 0.97,
+      "close": 0.99,
+      "volume": 71100
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "STRZ",
   "ticker": "STRZ",
-  "last_updated": "2026-07-20 12:20:01",
+  "last_updated": "2026-07-21 12:18:53",
   "period": "5y",
-  "data_points": 300,
+  "data_points": 301,
   "data": [
     {
       "date": "2025-05-07",
@@ -2404,6 +2404,14 @@
       "low": 25.79,
       "close": 26.77,
       "volume": 192000
+    },
+    {
+      "date": "2026-07-20",
+      "open": 26.79,
+      "high": 27.36,
+      "low": 25.8,
+      "close": 27.26,
+      "volume": 213500
     }
   ]
 }

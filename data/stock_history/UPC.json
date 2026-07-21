@@ -1,26 +1,10 @@
 {
   "code": "UPC",
   "ticker": "UPC",
-  "last_updated": "2026-07-20 12:27:43",
+  "last_updated": "2026-07-21 12:26:31",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-19",
-      "open": 9504.0,
-      "high": 9720.0,
-      "low": 9072.0,
-      "close": 9360.0,
-      "volume": 20
-    },
-    {
-      "date": "2021-07-20",
-      "open": 9288.0,
-      "high": 9612.0,
-      "low": 9100.8,
-      "close": 9540.0,
-      "volume": 29
-    },
     {
       "date": "2021-07-21",
       "open": 9576.0,
@@ -10043,7 +10027,15 @@
       "high": 4.65,
       "low": 4.22,
       "close": 4.45,
-      "volume": 40700
+      "volume": 41200
+    },
+    {
+      "date": "2026-07-20",
+      "open": 4.46,
+      "high": 4.5,
+      "low": 3.82,
+      "close": 4.25,
+      "volume": 55600
     }
   ]
 }
