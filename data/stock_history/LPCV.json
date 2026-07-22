@@ -1,9 +1,9 @@
 {
   "code": "LPCV",
   "ticker": "LPCV",
-  "last_updated": "2026-07-21 09:52:39",
+  "last_updated": "2026-07-22 09:53:06",
   "period": "5y",
-  "data_points": 111,
+  "data_points": 112,
   "data": [
     {
       "date": "2026-02-09",
@@ -892,6 +892,14 @@
       "low": 9.99,
       "close": 9.99,
       "volume": 0
+    },
+    {
+      "date": "2026-07-21",
+      "open": 9.98,
+      "high": 9.99,
+      "low": 9.97,
+      "close": 9.98,
+      "volume": 197200
     }
   ]
 }

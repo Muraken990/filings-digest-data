@@ -1,9 +1,9 @@
 {
   "code": "NP",
   "ticker": "NP",
-  "last_updated": "2026-07-21 10:02:57",
+  "last_updated": "2026-07-22 10:03:22",
   "period": "5y",
-  "data_points": 200,
+  "data_points": 201,
   "data": [
     {
       "date": "2025-10-01",
@@ -1604,6 +1604,14 @@
       "low": 30.64,
       "close": 31.59,
       "volume": 481200
+    },
+    {
+      "date": "2026-07-21",
+      "open": 31.13,
+      "high": 32.0,
+      "low": 30.05,
+      "close": 30.34,
+      "volume": 747900
     }
   ]
 }

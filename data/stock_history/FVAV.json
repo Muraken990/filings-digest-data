@@ -1,9 +1,9 @@
 {
   "code": "FVAV",
   "ticker": "FVAV",
-  "last_updated": "2026-07-21 09:33:47",
+  "last_updated": "2026-07-22 09:34:16",
   "period": "5y",
-  "data_points": 99,
+  "data_points": 100,
   "data": [
     {
       "date": "2026-02-26",
@@ -796,6 +796,14 @@
       "low": 10.11,
       "close": 10.12,
       "volume": 108300
+    },
+    {
+      "date": "2026-07-21",
+      "open": 10.12,
+      "high": 10.12,
+      "low": 10.12,
+      "close": 10.12,
+      "volume": 0
     }
   ]
 }

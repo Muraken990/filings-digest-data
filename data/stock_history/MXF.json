@@ -1,17 +1,17 @@
 {
   "code": "MXF",
   "ticker": "MXF",
-  "last_updated": "2026-07-21 09:59:33",
+  "last_updated": "2026-07-22 09:59:58",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-21",
-      "open": 11.56,
-      "high": 11.7,
-      "low": 11.38,
-      "close": 11.69,
-      "volume": 11300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-22",
@@ -6008,7 +6008,7 @@
     {
       "date": "2024-07-16",
       "open": 15.15,
-      "high": 15.23,
+      "high": 15.22,
       "low": 15.0,
       "close": 15.16,
       "volume": 35100
@@ -10036,6 +10036,14 @@
       "low": 21.35,
       "close": 21.45,
       "volume": 47800
+    },
+    {
+      "date": "2026-07-21",
+      "open": 21.66,
+      "high": 21.99,
+      "low": 21.49,
+      "close": 21.91,
+      "volume": 54300
     }
   ]
 }
