@@ -1,17 +1,17 @@
 {
   "code": "DX",
   "ticker": "DX",
-  "last_updated": "2026-07-21 07:35:51",
+  "last_updated": "2026-07-22 07:33:30",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-21",
-      "open": 9.39,
-      "high": 9.53,
-      "low": 9.39,
-      "close": 9.47,
-      "volume": 589100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-22",
@@ -1737,14 +1737,14 @@
       "date": "2022-05-27",
       "open": 9.44,
       "high": 9.53,
-      "low": 9.4,
+      "low": 9.39,
       "close": 9.42,
       "volume": 1837800
     },
     {
       "date": "2022-05-31",
       "open": 9.39,
-      "high": 9.4,
+      "high": 9.39,
       "low": 9.3,
       "close": 9.35,
       "volume": 1449000
@@ -4111,7 +4111,7 @@
     },
     {
       "date": "2023-08-04",
-      "open": 8.37,
+      "open": 8.38,
       "high": 8.55,
       "low": 8.36,
       "close": 8.5,
@@ -10035,7 +10035,15 @@
       "high": 13.44,
       "low": 13.02,
       "close": 13.12,
-      "volume": 9798300
+      "volume": 9816800
+    },
+    {
+      "date": "2026-07-21",
+      "open": 13.24,
+      "high": 13.29,
+      "low": 13.0,
+      "close": 13.02,
+      "volume": 8554600
     }
   ]
 }
