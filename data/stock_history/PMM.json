@@ -1,17 +1,17 @@
 {
   "code": "PMM",
   "ticker": "PMM",
-  "last_updated": "2026-07-22 12:05:55",
+  "last_updated": "2026-07-23 12:04:48",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-22",
-      "open": 6.62,
-      "high": 6.63,
-      "low": 6.55,
-      "close": 6.56,
-      "volume": 51900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-23",
@@ -10036,6 +10036,14 @@
       "low": 6.47,
       "close": 6.5,
       "volume": 63200
+    },
+    {
+      "date": "2026-07-22",
+      "open": 6.5,
+      "high": 6.5,
+      "low": 6.45,
+      "close": 6.47,
+      "volume": 42600
     }
   ]
 }

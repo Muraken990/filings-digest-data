@@ -1,18 +1,10 @@
 {
   "code": "SRG",
   "ticker": "SRG",
-  "last_updated": "2026-07-22 12:19:42",
+  "last_updated": "2026-07-23 12:18:38",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-22",
-      "open": 16.87,
-      "high": 16.87,
-      "low": 16.1,
-      "close": 16.4,
-      "volume": 136400
-    },
     {
       "date": "2021-07-23",
       "open": 16.7,
@@ -10036,6 +10028,14 @@
       "low": 2.49,
       "close": 2.5,
       "volume": 305700
+    },
+    {
+      "date": "2026-07-22",
+      "open": 2.5,
+      "high": 2.5,
+      "low": 2.28,
+      "close": 2.37,
+      "volume": 688500
     }
   ]
 }

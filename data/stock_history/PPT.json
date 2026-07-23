@@ -1,17 +1,17 @@
 {
   "code": "PPT",
   "ticker": "PPT",
-  "last_updated": "2026-07-22 12:06:47",
+  "last_updated": "2026-07-23 12:05:40",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-22",
-      "open": 3.03,
-      "high": 3.03,
-      "low": 3.02,
-      "close": 3.03,
-      "volume": 195800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-23",
@@ -10036,6 +10036,14 @@
       "low": 3.42,
       "close": 3.44,
       "volume": 62600
+    },
+    {
+      "date": "2026-07-22",
+      "open": 3.42,
+      "high": 3.44,
+      "low": 3.42,
+      "close": 3.43,
+      "volume": 45000
     }
   ]
 }

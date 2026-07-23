@@ -1,17 +1,17 @@
 {
   "code": "WSM",
   "ticker": "WSM",
-  "last_updated": "2026-07-22 12:33:32",
+  "last_updated": "2026-07-23 12:32:32",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-22",
-      "open": 69.12,
-      "high": 70.39,
-      "low": 68.81,
-      "close": 70.23,
-      "volume": 3391000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-23",
@@ -1072,7 +1072,7 @@
     {
       "date": "2022-01-31",
       "open": 70.55,
-      "high": 73.72,
+      "high": 73.71,
       "low": 70.33,
       "close": 73.66,
       "volume": 2298600
@@ -5065,7 +5065,7 @@
       "date": "2024-01-26",
       "open": 101.55,
       "high": 101.99,
-      "low": 100.22,
+      "low": 100.23,
       "close": 100.45,
       "volume": 939800
     },
@@ -10036,6 +10036,14 @@
       "low": 218.74,
       "close": 221.13,
       "volume": 767100
+    },
+    {
+      "date": "2026-07-22",
+      "open": 220.55,
+      "high": 223.05,
+      "low": 220.21,
+      "close": 222.34,
+      "volume": 532700
     }
   ]
 }

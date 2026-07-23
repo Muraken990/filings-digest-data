@@ -1,9 +1,9 @@
 {
   "code": "XE",
   "ticker": "XE",
-  "last_updated": "2026-07-22 12:34:22",
+  "last_updated": "2026-07-23 12:33:23",
   "period": "5y",
-  "data_points": 60,
+  "data_points": 61,
   "data": [
     {
       "date": "2026-04-24",
@@ -483,7 +483,15 @@
       "high": 16.84,
       "low": 15.23,
       "close": 16.79,
-      "volume": 5620300
+      "volume": 5718400
+    },
+    {
+      "date": "2026-07-22",
+      "open": 17.11,
+      "high": 17.98,
+      "low": 16.43,
+      "close": 16.45,
+      "volume": 5338800
     }
   ]
 }
