@@ -1,17 +1,17 @@
 {
   "code": "PIM",
   "ticker": "PIM",
-  "last_updated": "2026-07-22 10:11:52",
+  "last_updated": "2026-07-23 10:12:45",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-22",
-      "open": 2.81,
-      "high": 2.82,
-      "low": 2.8,
-      "close": 2.82,
-      "volume": 50700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-23",
@@ -10036,6 +10036,14 @@
       "low": 3.14,
       "close": 3.2,
       "volume": 107500
+    },
+    {
+      "date": "2026-07-22",
+      "open": 3.18,
+      "high": 3.19,
+      "low": 3.16,
+      "close": 3.16,
+      "volume": 22700
     }
   ]
 }

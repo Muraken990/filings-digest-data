@@ -1,17 +1,17 @@
 {
   "code": "MMU",
   "ticker": "MMU",
-  "last_updated": "2026-07-22 09:58:10",
+  "last_updated": "2026-07-23 09:59:04",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-22",
-      "open": 10.31,
-      "high": 10.33,
-      "low": 10.3,
-      "close": 10.3,
-      "volume": 66400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-23",
@@ -10036,6 +10036,14 @@
       "low": 10.31,
       "close": 10.32,
       "volume": 60900
+    },
+    {
+      "date": "2026-07-22",
+      "open": 10.32,
+      "high": 10.33,
+      "low": 10.07,
+      "close": 10.2,
+      "volume": 131800
     }
   ]
 }

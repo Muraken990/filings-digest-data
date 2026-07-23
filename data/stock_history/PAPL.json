@@ -1,9 +1,9 @@
 {
   "code": "PAPL",
   "ticker": "PAPL",
-  "last_updated": "2026-07-22 10:09:20",
+  "last_updated": "2026-07-23 10:10:13",
   "period": "5y",
-  "data_points": 680,
+  "data_points": 681,
   "data": [
     {
       "date": "2023-11-01",
@@ -5443,7 +5443,15 @@
       "high": 0.96,
       "low": 0.62,
       "close": 0.76,
-      "volume": 5772300
+      "volume": 5847400
+    },
+    {
+      "date": "2026-07-22",
+      "open": 0.76,
+      "high": 1.04,
+      "low": 0.76,
+      "close": 1.0,
+      "volume": 1207600
     }
   ]
 }

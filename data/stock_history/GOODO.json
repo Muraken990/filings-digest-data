@@ -1,17 +1,17 @@
 {
   "code": "GOODO",
   "ticker": "GOODO",
-  "last_updated": "2026-07-22 09:37:39",
+  "last_updated": "2026-07-23 09:38:36",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-22",
-      "open": 19.01,
-      "high": 19.23,
-      "low": 19.01,
-      "close": 19.12,
-      "volume": 8900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-23",
@@ -10036,6 +10036,14 @@
       "low": 20.47,
       "close": 20.51,
       "volume": 1300
+    },
+    {
+      "date": "2026-07-22",
+      "open": 20.36,
+      "high": 20.5,
+      "low": 20.36,
+      "close": 20.5,
+      "volume": 1200
     }
   ]
 }
