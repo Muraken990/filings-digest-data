@@ -1,17 +1,17 @@
 {
   "code": "ETJ",
   "ticker": "ETJ",
-  "last_updated": "2026-07-22 07:37:44",
+  "last_updated": "2026-07-23 07:39:16",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-22",
-      "open": 7.41,
-      "high": 7.42,
-      "low": 7.36,
-      "close": 7.38,
-      "volume": 141100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-23",
@@ -3879,7 +3879,7 @@
     },
     {
       "date": "2023-06-26",
-      "open": 6.18,
+      "open": 6.17,
       "high": 6.23,
       "low": 6.17,
       "close": 6.17,
@@ -10036,6 +10036,14 @@
       "low": 8.38,
       "close": 8.44,
       "volume": 103200
+    },
+    {
+      "date": "2026-07-22",
+      "open": 8.44,
+      "high": 8.49,
+      "low": 8.43,
+      "close": 8.47,
+      "volume": 121900
     }
   ]
 }

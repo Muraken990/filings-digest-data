@@ -1,9 +1,9 @@
 {
   "code": "CMII",
   "ticker": "CMII",
-  "last_updated": "2026-07-22 07:25:45",
+  "last_updated": "2026-07-23 07:27:14",
   "period": "5y",
-  "data_points": 99,
+  "data_points": 100,
   "data": [
     {
       "date": "2026-02-27",
@@ -796,6 +796,14 @@
       "low": 10.04,
       "close": 10.05,
       "volume": 127700
+    },
+    {
+      "date": "2026-07-22",
+      "open": 10.05,
+      "high": 10.05,
+      "low": 10.03,
+      "close": 10.03,
+      "volume": 21900
     }
   ]
 }

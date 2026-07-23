@@ -1,17 +1,17 @@
 {
   "code": "ASG",
   "ticker": "ASG",
-  "last_updated": "2026-07-22 07:12:02",
+  "last_updated": "2026-07-23 07:13:27",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-22",
-      "open": 5.42,
-      "high": 5.43,
-      "low": 5.38,
-      "close": 5.39,
-      "volume": 150700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-23",
@@ -10036,6 +10036,14 @@
       "low": 5.16,
       "close": 5.21,
       "volume": 142600
+    },
+    {
+      "date": "2026-07-22",
+      "open": 5.2,
+      "high": 5.41,
+      "low": 5.14,
+      "close": 5.14,
+      "volume": 323300
     }
   ]
 }

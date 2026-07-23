@@ -1,17 +1,17 @@
 {
   "code": "EFR",
   "ticker": "EFR",
-  "last_updated": "2026-07-22 07:35:09",
+  "last_updated": "2026-07-23 07:36:40",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-22",
-      "open": 8.86,
-      "high": 8.89,
-      "low": 8.82,
-      "close": 8.84,
-      "volume": 145800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-23",
@@ -2753,7 +2753,7 @@
       "date": "2022-11-30",
       "open": 7.99,
       "high": 8.13,
-      "low": 7.96,
+      "low": 7.97,
       "close": 8.12,
       "volume": 71700
     },
@@ -10036,6 +10036,14 @@
       "low": 10.53,
       "close": 10.63,
       "volume": 194000
+    },
+    {
+      "date": "2026-07-22",
+      "open": 10.66,
+      "high": 10.66,
+      "low": 10.6,
+      "close": 10.6,
+      "volume": 82000
     }
   ]
 }

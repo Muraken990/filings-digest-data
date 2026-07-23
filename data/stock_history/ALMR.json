@@ -1,9 +1,9 @@
 {
   "code": "ALMR",
   "ticker": "ALMR",
-  "last_updated": "2026-07-22 07:08:36",
+  "last_updated": "2026-07-23 07:10:02",
   "period": "5y",
-  "data_points": 65,
+  "data_points": 66,
   "data": [
     {
       "date": "2026-04-17",
@@ -524,6 +524,14 @@
       "low": 23.5,
       "close": 25.15,
       "volume": 190000
+    },
+    {
+      "date": "2026-07-22",
+      "open": 25.1,
+      "high": 25.4,
+      "low": 23.99,
+      "close": 25.12,
+      "volume": 199500
     }
   ]
 }

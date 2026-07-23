@@ -1,17 +1,17 @@
 {
   "code": "EXG",
   "ticker": "EXG",
-  "last_updated": "2026-07-22 07:38:35",
+  "last_updated": "2026-07-23 07:40:08",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-22",
-      "open": 6.51,
-      "high": 6.52,
-      "low": 6.47,
-      "close": 6.48,
-      "volume": 333500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-23",
@@ -10035,7 +10035,15 @@
       "high": 9.73,
       "low": 9.67,
       "close": 9.68,
-      "volume": 291100
+      "volume": 292500
+    },
+    {
+      "date": "2026-07-22",
+      "open": 9.69,
+      "high": 9.72,
+      "low": 9.65,
+      "close": 9.67,
+      "volume": 322800
     }
   ]
 }
