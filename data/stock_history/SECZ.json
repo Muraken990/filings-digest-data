@@ -1,9 +1,9 @@
 {
   "code": "SECZ",
   "ticker": "SECZ",
-  "last_updated": "2026-07-23 12:14:15",
+  "last_updated": "2026-07-24 12:13:19",
   "period": "5y",
-  "data_points": 14,
+  "data_points": 15,
   "data": [
     {
       "date": "2026-07-02",
@@ -115,7 +115,15 @@
       "high": 7.78,
       "low": 7.37,
       "close": 7.67,
-      "volume": 660200
+      "volume": 661200
+    },
+    {
+      "date": "2026-07-23",
+      "open": 7.61,
+      "high": 7.98,
+      "low": 7.11,
+      "close": 7.3,
+      "volume": 751700
     }
   ]
 }

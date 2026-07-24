@@ -1,17 +1,17 @@
 {
   "code": "SGU",
   "ticker": "SGU",
-  "last_updated": "2026-07-23 12:15:06",
+  "last_updated": "2026-07-24 12:14:09",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-23",
-      "open": 8.85,
-      "high": 8.92,
-      "low": 8.71,
-      "close": 8.92,
-      "volume": 38100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-26",
@@ -3863,7 +3863,7 @@
     },
     {
       "date": "2023-06-23",
-      "open": 11.48,
+      "open": 11.47,
       "high": 11.78,
       "low": 11.42,
       "close": 11.47,
@@ -10036,6 +10036,14 @@
       "low": 12.86,
       "close": 12.9,
       "volume": 10500
+    },
+    {
+      "date": "2026-07-23",
+      "open": 13.04,
+      "high": 13.08,
+      "low": 12.85,
+      "close": 12.87,
+      "volume": 8800
     }
   ]
 }
