@@ -1,9 +1,9 @@
 {
   "code": "PICS",
   "ticker": "PICS",
-  "last_updated": "2026-07-23 10:12:45",
+  "last_updated": "2026-07-24 10:09:04",
   "period": "5y",
-  "data_points": 120,
+  "data_points": 121,
   "data": [
     {
       "date": "2026-01-29",
@@ -964,6 +964,14 @@
       "low": 12.01,
       "close": 12.36,
       "volume": 99000
+    },
+    {
+      "date": "2026-07-23",
+      "open": 12.3,
+      "high": 12.3,
+      "low": 11.78,
+      "close": 11.91,
+      "volume": 156500
     }
   ]
 }

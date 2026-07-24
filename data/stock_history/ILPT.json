@@ -1,17 +1,17 @@
 {
   "code": "ILPT",
   "ticker": "ILPT",
-  "last_updated": "2026-07-23 09:45:25",
+  "last_updated": "2026-07-24 09:42:03",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-23",
-      "open": 23.69,
-      "high": 23.85,
-      "low": 23.58,
-      "close": 23.82,
-      "volume": 162900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-26",
@@ -10036,6 +10036,14 @@
       "low": 8.83,
       "close": 9.13,
       "volume": 663800
+    },
+    {
+      "date": "2026-07-23",
+      "open": 8.94,
+      "high": 9.34,
+      "low": 8.92,
+      "close": 9.19,
+      "volume": 533100
     }
   ]
 }

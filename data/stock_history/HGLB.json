@@ -1,26 +1,10 @@
 {
   "code": "HGLB",
   "ticker": "HGLB",
-  "last_updated": "2026-07-23 09:41:12",
+  "last_updated": "2026-07-24 09:37:52",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-22",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-07-23",
-      "open": 5.36,
-      "high": 5.38,
-      "low": 5.35,
-      "close": 5.36,
-      "volume": 65300
-    },
     {
       "date": "2021-07-26",
       "open": 5.36,
@@ -2634,7 +2618,7 @@
       "open": 5.98,
       "high": 6.14,
       "low": 5.98,
-      "close": 6.11,
+      "close": 6.1,
       "volume": 55700
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 7.42,
       "close": 7.53,
       "volume": 37800
+    },
+    {
+      "date": "2026-07-23",
+      "open": 7.53,
+      "high": 7.55,
+      "low": 7.3,
+      "close": 7.36,
+      "volume": 101200
     }
   ]
 }
