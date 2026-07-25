@@ -1,9 +1,9 @@
 {
   "code": "CARL",
   "ticker": "CARL",
-  "last_updated": "2026-07-24 07:21:04",
+  "last_updated": "2026-07-25 07:21:16",
   "period": "5y",
-  "data_points": 252,
+  "data_points": 253,
   "data": [
     {
       "date": "2025-07-23",
@@ -2020,6 +2020,14 @@
       "low": 10.7,
       "close": 11.0,
       "volume": 71900
+    },
+    {
+      "date": "2026-07-24",
+      "open": 11.06,
+      "high": 11.34,
+      "low": 10.79,
+      "close": 10.8,
+      "volume": 35900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "EQPT",
   "ticker": "EQPT",
-  "last_updated": "2026-07-24 07:36:33",
+  "last_updated": "2026-07-25 07:36:33",
   "period": "5y",
-  "data_points": 125,
+  "data_points": 126,
   "data": [
     {
       "date": "2026-01-23",
@@ -1003,7 +1003,15 @@
       "high": 19.78,
       "low": 17.4,
       "close": 19.4,
-      "volume": 6641600
+      "volume": 6646400
+    },
+    {
+      "date": "2026-07-24",
+      "open": 19.35,
+      "high": 19.62,
+      "low": 18.07,
+      "close": 19.38,
+      "volume": 5069100
     }
   ]
 }

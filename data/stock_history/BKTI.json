@@ -1,18 +1,10 @@
 {
   "code": "BKTI",
   "ticker": "BKTI",
-  "last_updated": "2026-07-24 07:16:48",
+  "last_updated": "2026-07-25 07:17:03",
   "period": "5y",
   "data_points": 1255,
   "data": [
-    {
-      "date": "2021-07-23",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-07-26",
       "open": 15.04,
@@ -10044,6 +10036,14 @@
       "low": 73.59,
       "close": 77.32,
       "volume": 80200
+    },
+    {
+      "date": "2026-07-24",
+      "open": 77.32,
+      "high": 78.98,
+      "low": 75.8,
+      "close": 77.91,
+      "volume": 26900
     }
   ]
 }

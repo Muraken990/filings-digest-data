@@ -1,9 +1,9 @@
 {
   "code": "DSC",
   "ticker": "DSC",
-  "last_updated": "2026-07-24 07:32:17",
+  "last_updated": "2026-07-25 07:32:21",
   "period": "5y",
-  "data_points": 20,
+  "data_points": 21,
   "data": [
     {
       "date": "2026-06-25",
@@ -164,6 +164,14 @@
       "low": 5.23,
       "close": 6.59,
       "volume": 154500
+    },
+    {
+      "date": "2026-07-24",
+      "open": 6.23,
+      "high": 6.37,
+      "low": 5.63,
+      "close": 5.72,
+      "volume": 62200
     }
   ]
 }
