@@ -1,9 +1,9 @@
 {
   "code": "NAMI",
   "ticker": "NAMI",
-  "last_updated": "2026-07-24 09:58:07",
+  "last_updated": "2026-07-25 10:00:52",
   "period": "5y",
-  "data_points": 406,
+  "data_points": 407,
   "data": [
     {
       "date": "2024-12-06",
@@ -3252,6 +3252,14 @@
       "low": 3.11,
       "close": 3.15,
       "volume": 6500
+    },
+    {
+      "date": "2026-07-24",
+      "open": 3.09,
+      "high": 3.15,
+      "low": 3.0,
+      "close": 3.04,
+      "volume": 4900
     }
   ]
 }
