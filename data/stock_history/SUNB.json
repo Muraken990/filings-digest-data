@@ -1,9 +1,9 @@
 {
   "code": "SUNB",
   "ticker": "SUNB",
-  "last_updated": "2026-07-24 12:19:17",
+  "last_updated": "2026-07-25 12:19:53",
   "period": "5y",
-  "data_points": 100,
+  "data_points": 101,
   "data": [
     {
       "date": "2026-03-02",
@@ -803,7 +803,15 @@
       "high": 77.62,
       "low": 73.03,
       "close": 77.47,
-      "volume": 3372700
+      "volume": 3373200
+    },
+    {
+      "date": "2026-07-24",
+      "open": 76.41,
+      "high": 76.62,
+      "low": 74.96,
+      "close": 75.67,
+      "volume": 2631800
     }
   ]
 }
