@@ -1,26 +1,10 @@
 {
   "code": "WTTR",
   "ticker": "WTTR",
-  "last_updated": "2026-07-27 12:32:48",
+  "last_updated": "2026-07-28 12:32:16",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-26",
-      "open": 5.16,
-      "high": 5.39,
-      "low": 5.16,
-      "close": 5.36,
-      "volume": 235000
-    },
-    {
-      "date": "2021-07-27",
-      "open": 5.32,
-      "high": 5.33,
-      "low": 4.95,
-      "close": 5.05,
-      "volume": 824800
-    },
     {
       "date": "2021-07-28",
       "open": 5.1,
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-07-24",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1413840
+      "open": 20.97,
+      "high": 21.0,
+      "low": 19.92,
+      "close": 20.17,
+      "volume": 1643700
+    },
+    {
+      "date": "2026-07-27",
+      "open": 19.84,
+      "high": 20.15,
+      "low": 18.66,
+      "close": 18.81,
+      "volume": 1941700
     }
   ]
 }

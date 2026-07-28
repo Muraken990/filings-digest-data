@@ -1,9 +1,9 @@
 {
   "code": "SBXE",
   "ticker": "SBXE",
-  "last_updated": "2026-07-27 12:13:07",
+  "last_updated": "2026-07-28 12:12:23",
   "period": "5y",
-  "data_points": 126,
+  "data_points": 127,
   "data": [
     {
       "date": "2026-01-23",
@@ -1007,11 +1007,19 @@
     },
     {
       "date": "2026-07-24",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 107
+      "open": 10.17,
+      "high": 10.17,
+      "low": 10.17,
+      "close": 10.17,
+      "volume": 100
+    },
+    {
+      "date": "2026-07-27",
+      "open": 10.17,
+      "high": 10.17,
+      "low": 10.17,
+      "close": 10.17,
+      "volume": 0
     }
   ]
 }

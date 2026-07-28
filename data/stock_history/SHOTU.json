@@ -1,9 +1,9 @@
 {
   "code": "SHOTU",
   "ticker": "SHOTU",
-  "last_updated": "2026-07-27 12:14:50",
+  "last_updated": "2026-07-28 12:14:07",
   "period": "5y",
-  "data_points": 31,
+  "data_points": 32,
   "data": [
     {
       "date": "2026-06-10",
@@ -252,6 +252,14 @@
       "low": 10.02,
       "close": 10.02,
       "volume": 0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 9.98,
+      "high": 10.01,
+      "low": 9.98,
+      "close": 10.01,
+      "volume": 5300
     }
   ]
 }

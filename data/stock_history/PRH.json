@@ -1,9 +1,9 @@
 {
   "code": "PRH",
   "ticker": "PRH",
-  "last_updated": "2026-07-27 12:05:27",
+  "last_updated": "2026-07-28 12:04:39",
   "period": "5y",
-  "data_points": 984,
+  "data_points": 985,
   "data": [
     {
       "date": "2022-08-22",
@@ -7871,11 +7871,19 @@
     },
     {
       "date": "2026-07-24",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 39950
+      "open": 22.1,
+      "high": 22.27,
+      "low": 22.08,
+      "close": 22.21,
+      "volume": 40000
+    },
+    {
+      "date": "2026-07-27",
+      "open": 22.26,
+      "high": 22.3,
+      "low": 22.16,
+      "close": 22.16,
+      "volume": 38000
     }
   ]
 }

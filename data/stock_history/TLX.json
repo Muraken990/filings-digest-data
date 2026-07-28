@@ -1,9 +1,9 @@
 {
   "code": "TLX",
   "ticker": "TLX",
-  "last_updated": "2026-07-27 12:22:34",
+  "last_updated": "2026-07-28 12:21:56",
   "period": "5y",
-  "data_points": 422,
+  "data_points": 423,
   "data": [
     {
       "date": "2024-11-14",
@@ -3375,11 +3375,19 @@
     },
     {
       "date": "2026-07-24",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 83114
+      "open": 10.4,
+      "high": 10.4,
+      "low": 10.2,
+      "close": 10.22,
+      "volume": 83100
+    },
+    {
+      "date": "2026-07-27",
+      "open": 10.14,
+      "high": 10.32,
+      "low": 9.9,
+      "close": 9.98,
+      "volume": 106300
     }
   ]
 }

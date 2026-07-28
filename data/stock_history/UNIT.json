@@ -1,26 +1,10 @@
 {
   "code": "UNIT",
   "ticker": "UNIT",
-  "last_updated": "2026-07-27 12:26:47",
+  "last_updated": "2026-07-28 12:26:12",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-26",
-      "open": 13.7,
-      "high": 13.79,
-      "low": 13.6,
-      "close": 13.71,
-      "volume": 469741
-    },
-    {
-      "date": "2021-07-27",
-      "open": 13.63,
-      "high": 13.85,
-      "low": 13.58,
-      "close": 13.78,
-      "volume": 530663
-    },
     {
       "date": "2021-07-28",
       "open": 13.77,
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-07-24",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1980012
+      "open": 11.02,
+      "high": 11.23,
+      "low": 10.81,
+      "close": 10.82,
+      "volume": 1980000
+    },
+    {
+      "date": "2026-07-27",
+      "open": 10.91,
+      "high": 10.98,
+      "low": 10.53,
+      "close": 10.77,
+      "volume": 1922400
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "PSN",
   "ticker": "PSN",
-  "last_updated": "2026-07-27 12:06:17",
+  "last_updated": "2026-07-28 12:05:29",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-26",
-      "open": 39.09,
-      "high": 39.57,
-      "low": 38.83,
-      "close": 38.95,
-      "volume": 194900
-    },
-    {
-      "date": "2021-07-27",
-      "open": 38.67,
-      "high": 39.29,
-      "low": 38.57,
-      "close": 38.92,
-      "volume": 153900
-    },
     {
       "date": "2021-07-28",
       "open": 39.12,
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-07-24",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 913679
+      "open": 59.12,
+      "high": 61.59,
+      "low": 58.63,
+      "close": 58.73,
+      "volume": 1104000
+    },
+    {
+      "date": "2026-07-27",
+      "open": 59.99,
+      "high": 60.24,
+      "low": 58.8,
+      "close": 59.47,
+      "volume": 835600
     }
   ]
 }

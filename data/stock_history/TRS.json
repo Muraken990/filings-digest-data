@@ -1,26 +1,10 @@
 {
   "code": "TRS",
   "ticker": "TRS",
-  "last_updated": "2026-07-27 12:24:15",
+  "last_updated": "2026-07-28 12:23:38",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-26",
-      "open": 30.6,
-      "high": 31.84,
-      "low": 30.6,
-      "close": 31.67,
-      "volume": 175600
-    },
-    {
-      "date": "2021-07-27",
-      "open": 31.54,
-      "high": 32.12,
-      "low": 31.14,
-      "close": 31.54,
-      "volume": 196800
-    },
     {
       "date": "2021-07-28",
       "open": 31.7,
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-07-24",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 266989
+      "open": 40.2,
+      "high": 40.3,
+      "low": 39.56,
+      "close": 40.03,
+      "volume": 267000
+    },
+    {
+      "date": "2026-07-27",
+      "open": 40.24,
+      "high": 40.67,
+      "low": 39.9,
+      "close": 40.56,
+      "volume": 418300
     }
   ]
 }

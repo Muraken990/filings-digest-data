@@ -1,26 +1,10 @@
 {
   "code": "STKE",
   "ticker": "STKE",
-  "last_updated": "2026-07-27 12:19:06",
+  "last_updated": "2026-07-28 12:18:25",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-26",
-      "open": 0.94,
-      "high": 1.12,
-      "low": 0.94,
-      "close": 1.12,
-      "volume": 39850
-    },
-    {
-      "date": "2021-07-27",
-      "open": 1.05,
-      "high": 1.11,
-      "low": 1.0,
-      "close": 1.0,
-      "volume": 10488
-    },
     {
       "date": "2021-07-28",
       "open": 1.02,
@@ -10044,6 +10028,14 @@
       "low": 1.03,
       "close": 1.06,
       "volume": 80200
+    },
+    {
+      "date": "2026-07-27",
+      "open": 1.12,
+      "high": 1.16,
+      "low": 1.04,
+      "close": 1.06,
+      "volume": 116400
     }
   ]
 }

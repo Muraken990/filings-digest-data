@@ -1,9 +1,9 @@
 {
   "code": "STUB",
   "ticker": "STUB",
-  "last_updated": "2026-07-27 12:19:09",
+  "last_updated": "2026-07-28 12:18:29",
   "period": "5y",
-  "data_points": 214,
+  "data_points": 215,
   "data": [
     {
       "date": "2025-09-17",
@@ -1711,11 +1711,19 @@
     },
     {
       "date": "2026-07-24",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4582001
+      "open": 8.65,
+      "high": 8.73,
+      "low": 8.21,
+      "close": 8.25,
+      "volume": 6029000
+    },
+    {
+      "date": "2026-07-27",
+      "open": 8.43,
+      "high": 8.69,
+      "low": 8.3,
+      "close": 8.41,
+      "volume": 3931400
     }
   ]
 }

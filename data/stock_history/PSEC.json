@@ -1,25 +1,17 @@
 {
   "code": "PSEC",
   "ticker": "PSEC",
-  "last_updated": "2026-07-27 12:06:16",
+  "last_updated": "2026-07-28 12:05:28",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-07-26",
-      "open": 4.34,
-      "high": 4.38,
-      "low": 4.32,
-      "close": 4.37,
-      "volume": 1401600
-    },
-    {
       "date": "2021-07-27",
-      "open": 4.36,
-      "high": 4.37,
-      "low": 4.29,
-      "close": 4.32,
-      "volume": 1531100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-28",
@@ -393,7 +385,7 @@
       "date": "2021-10-01",
       "open": 4.17,
       "high": 4.21,
-      "low": 4.15,
+      "low": 4.16,
       "close": 4.2,
       "volume": 1141100
     },
@@ -10043,7 +10035,15 @@
       "high": 2.14,
       "low": 2.11,
       "close": 2.12,
-      "volume": 3692900
+      "volume": 3696100
+    },
+    {
+      "date": "2026-07-27",
+      "open": 2.15,
+      "high": 2.29,
+      "low": 2.14,
+      "close": 2.23,
+      "volume": 6329300
     }
   ]
 }

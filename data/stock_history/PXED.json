@@ -1,9 +1,9 @@
 {
   "code": "PXED",
   "ticker": "PXED",
-  "last_updated": "2026-07-27 12:07:06",
+  "last_updated": "2026-07-28 12:06:19",
   "period": "5y",
-  "data_points": 198,
+  "data_points": 199,
   "data": [
     {
       "date": "2025-10-09",
@@ -1583,11 +1583,19 @@
     },
     {
       "date": "2026-07-24",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 50351
+      "open": 28.34,
+      "high": 29.15,
+      "low": 28.34,
+      "close": 28.55,
+      "volume": 60300
+    },
+    {
+      "date": "2026-07-27",
+      "open": 28.88,
+      "high": 30.07,
+      "low": 28.62,
+      "close": 29.89,
+      "volume": 107500
     }
   ]
 }

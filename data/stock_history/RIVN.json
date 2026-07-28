@@ -1,9 +1,9 @@
 {
   "code": "RIVN",
   "ticker": "RIVN",
-  "last_updated": "2026-07-27 12:09:44",
+  "last_updated": "2026-07-28 12:08:59",
   "period": "5y",
-  "data_points": 1179,
+  "data_points": 1180,
   "data": [
     {
       "date": "2021-11-10",
@@ -9431,11 +9431,19 @@
     },
     {
       "date": "2026-07-24",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 27437942
+      "open": 16.52,
+      "high": 16.6,
+      "low": 15.68,
+      "close": 15.84,
+      "volume": 27457400
+    },
+    {
+      "date": "2026-07-27",
+      "open": 16.44,
+      "high": 16.79,
+      "low": 16.25,
+      "close": 16.48,
+      "volume": 35081700
     }
   ]
 }

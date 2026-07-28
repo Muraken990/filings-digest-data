@@ -1,26 +1,10 @@
 {
   "code": "SKE",
   "ticker": "SKE",
-  "last_updated": "2026-07-27 12:15:39",
+  "last_updated": "2026-07-28 12:14:56",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-26",
-      "open": 12.5,
-      "high": 12.56,
-      "low": 12.26,
-      "close": 12.54,
-      "volume": 21800
-    },
-    {
-      "date": "2021-07-27",
-      "open": 12.55,
-      "high": 12.59,
-      "low": 12.43,
-      "close": 12.58,
-      "volume": 18800
-    },
     {
       "date": "2021-07-28",
       "open": 12.61,
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-07-24",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 282511
+      "open": 27.1,
+      "high": 27.78,
+      "low": 26.49,
+      "close": 27.11,
+      "volume": 323400
+    },
+    {
+      "date": "2026-07-27",
+      "open": 27.42,
+      "high": 27.77,
+      "low": 26.48,
+      "close": 27.19,
+      "volume": 401100
     }
   ]
 }

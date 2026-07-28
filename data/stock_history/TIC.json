@@ -1,9 +1,9 @@
 {
   "code": "TIC",
   "ticker": "TIC",
-  "last_updated": "2026-07-27 12:22:30",
+  "last_updated": "2026-07-28 12:21:52",
   "period": "5y",
-  "data_points": 360,
+  "data_points": 361,
   "data": [
     {
       "date": "2025-02-18",
@@ -2884,6 +2884,14 @@
       "low": 7.09,
       "close": 7.13,
       "volume": 1344900
+    },
+    {
+      "date": "2026-07-27",
+      "open": 7.15,
+      "high": 7.4,
+      "low": 7.15,
+      "close": 7.27,
+      "volume": 1140800
     }
   ]
 }

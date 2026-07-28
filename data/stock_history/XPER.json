@@ -1,9 +1,9 @@
 {
   "code": "XPER",
   "ticker": "XPER",
-  "last_updated": "2026-07-27 12:33:39",
+  "last_updated": "2026-07-28 12:33:08",
   "period": "5y",
-  "data_points": 964,
+  "data_points": 965,
   "data": [
     {
       "date": "2022-09-20",
@@ -7711,11 +7711,19 @@
     },
     {
       "date": "2026-07-24",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 374057
+      "open": 7.52,
+      "high": 7.74,
+      "low": 7.32,
+      "close": 7.57,
+      "volume": 465200
+    },
+    {
+      "date": "2026-07-27",
+      "open": 7.73,
+      "high": 7.8,
+      "low": 7.53,
+      "close": 7.61,
+      "volume": 360200
     }
   ]
 }

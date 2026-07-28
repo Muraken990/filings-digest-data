@@ -1,9 +1,9 @@
 {
   "code": "USAR",
   "ticker": "USAR",
-  "last_updated": "2026-07-27 12:26:50",
+  "last_updated": "2026-07-28 12:26:15",
   "period": "5y",
-  "data_points": 759,
+  "data_points": 760,
   "data": [
     {
       "date": "2023-07-17",
@@ -6071,11 +6071,19 @@
     },
     {
       "date": "2026-07-24",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8990101
+      "open": 15.08,
+      "high": 15.11,
+      "low": 14.14,
+      "close": 14.15,
+      "volume": 9017700
+    },
+    {
+      "date": "2026-07-27",
+      "open": 14.28,
+      "high": 15.3,
+      "low": 14.25,
+      "close": 14.93,
+      "volume": 8744000
     }
   ]
 }
