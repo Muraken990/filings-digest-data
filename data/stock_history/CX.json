@@ -1,26 +1,10 @@
 {
   "code": "CX",
   "ticker": "CX",
-  "last_updated": "2026-07-27 07:28:45",
+  "last_updated": "2026-07-28 07:30:04",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-26",
-      "open": 7.92,
-      "high": 8.05,
-      "low": 7.89,
-      "close": 8.03,
-      "volume": 5691700
-    },
-    {
-      "date": "2021-07-27",
-      "open": 7.93,
-      "high": 7.99,
-      "low": 7.71,
-      "close": 7.85,
-      "volume": 11187800
-    },
     {
       "date": "2021-07-28",
       "open": 7.88,
@@ -2441,7 +2425,7 @@
       "date": "2022-10-07",
       "open": 3.47,
       "high": 3.53,
-      "low": 3.43,
+      "low": 3.44,
       "close": 3.46,
       "volume": 2608300
     },
@@ -10044,6 +10028,14 @@
       "low": 12.03,
       "close": 12.06,
       "volume": 11286400
+    },
+    {
+      "date": "2026-07-27",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 5547986
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CLIK",
   "ticker": "CLIK",
-  "last_updated": "2026-07-27 07:23:42",
+  "last_updated": "2026-07-28 07:24:56",
   "period": "5y",
-  "data_points": 448,
+  "data_points": 449,
   "data": [
     {
       "date": "2024-10-09",
@@ -3583,11 +3583,19 @@
     },
     {
       "date": "2026-07-24",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 46708
+      "open": 1.64,
+      "high": 1.65,
+      "low": 1.55,
+      "close": 1.63,
+      "volume": 47800
+    },
+    {
+      "date": "2026-07-27",
+      "open": 1.62,
+      "high": 1.69,
+      "low": 1.57,
+      "close": 1.64,
+      "volume": 37100
     }
   ]
 }

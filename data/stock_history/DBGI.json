@@ -1,26 +1,10 @@
 {
   "code": "DBGI",
   "ticker": "DBGI",
-  "last_updated": "2026-07-27 07:29:34",
+  "last_updated": "2026-07-28 07:30:54",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-07-26",
-      "open": 638750.0,
-      "high": 721250.0,
-      "low": 638750.0,
-      "close": 648750.0,
-      "volume": 15
-    },
-    {
-      "date": "2021-07-27",
-      "open": 656250.0,
-      "high": 659375.0,
-      "low": 613750.0,
-      "close": 631250.0,
-      "volume": 12
-    },
     {
       "date": "2021-07-28",
       "open": 625000.0,
@@ -10027,7 +10011,15 @@
       "high": null,
       "low": null,
       "close": null,
-      "volume": 112444
+      "volume": 0
+    },
+    {
+      "date": "2026-07-27",
+      "open": 13.3,
+      "high": 14.23,
+      "low": 8.37,
+      "close": 12.56,
+      "volume": 182300
     }
   ]
 }

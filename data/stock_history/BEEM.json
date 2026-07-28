@@ -1,26 +1,10 @@
 {
   "code": "BEEM",
   "ticker": "BEEM",
-  "last_updated": "2026-07-27 07:15:09",
+  "last_updated": "2026-07-28 07:16:14",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-26",
-      "open": 29.05,
-      "high": 30.58,
-      "low": 28.88,
-      "close": 29.75,
-      "volume": 202700
-    },
-    {
-      "date": "2021-07-27",
-      "open": 29.52,
-      "high": 29.7,
-      "low": 27.6,
-      "close": 29.05,
-      "volume": 218500
-    },
     {
       "date": "2021-07-28",
       "open": 29.31,
@@ -10043,7 +10027,15 @@
       "high": 1.09,
       "low": 1.01,
       "close": 1.01,
-      "volume": 353100
+      "volume": 354000
+    },
+    {
+      "date": "2026-07-27",
+      "open": 1.03,
+      "high": 1.08,
+      "low": 1.02,
+      "close": 1.05,
+      "volume": 159300
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "ALBT",
   "ticker": "ALBT",
-  "last_updated": "2026-07-27 07:06:47",
+  "last_updated": "2026-07-28 07:07:43",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-07-26",
-      "open": 135.0,
-      "high": 135.0,
-      "low": 128.77,
-      "close": 130.3,
-      "volume": 595
-    },
-    {
-      "date": "2021-07-27",
-      "open": 126.69,
-      "high": 130.29,
-      "low": 125.0,
-      "close": 125.79,
-      "volume": 798
-    },
     {
       "date": "2021-07-28",
       "open": 127.5,
@@ -10026,8 +10010,16 @@
       "open": 0.24,
       "high": 0.24,
       "low": 0.22,
-      "close": 0.23,
-      "volume": 433425
+      "close": 0.24,
+      "volume": 468153
+    },
+    {
+      "date": "2026-07-27",
+      "open": 0.23,
+      "high": 0.24,
+      "low": 0.21,
+      "close": 0.22,
+      "volume": 217468
     }
   ]
 }

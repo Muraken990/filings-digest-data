@@ -1,26 +1,10 @@
 {
   "code": "BOOM",
   "ticker": "BOOM",
-  "last_updated": "2026-07-27 07:17:44",
+  "last_updated": "2026-07-28 07:18:51",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-26",
-      "open": 42.14,
-      "high": 45.1,
-      "low": 42.14,
-      "close": 43.49,
-      "volume": 305100
-    },
-    {
-      "date": "2021-07-27",
-      "open": 43.49,
-      "high": 44.2,
-      "low": 42.94,
-      "close": 43.4,
-      "volume": 246600
-    },
     {
       "date": "2021-07-28",
       "open": 44.26,
@@ -10044,6 +10028,14 @@
       "low": 5.91,
       "close": 5.93,
       "volume": 159400
+    },
+    {
+      "date": "2026-07-27",
+      "open": 5.91,
+      "high": 6.02,
+      "low": 5.67,
+      "close": 5.71,
+      "volume": 119700
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "AIB",
   "ticker": "AIB",
-  "last_updated": "2026-07-27 07:05:57",
+  "last_updated": "2026-07-28 07:06:52",
   "period": "5y",
-  "data_points": 90,
+  "data_points": 91,
   "data": [
     {
       "date": "2026-03-17",
@@ -723,7 +723,15 @@
       "high": 1.85,
       "low": 1.74,
       "close": 1.77,
-      "volume": 283300
+      "volume": 284300
+    },
+    {
+      "date": "2026-07-27",
+      "open": 1.77,
+      "high": 1.9,
+      "low": 1.75,
+      "close": 1.85,
+      "volume": 978400
     }
   ]
 }
