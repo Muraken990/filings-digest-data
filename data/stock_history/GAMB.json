@@ -1,26 +1,10 @@
 {
   "code": "GAMB",
   "ticker": "GAMB",
-  "last_updated": "2026-07-27 09:34:22",
+  "last_updated": "2026-07-28 09:33:12",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-07-26",
-      "open": 7.88,
-      "high": 8.89,
-      "low": 7.8,
-      "close": 8.29,
-      "volume": 835884
-    },
-    {
-      "date": "2021-07-27",
-      "open": 8.28,
-      "high": 8.28,
-      "low": 6.68,
-      "close": 7.33,
-      "volume": 580013
-    },
     {
       "date": "2021-07-28",
       "open": 7.33,
@@ -10016,10 +10000,18 @@
     {
       "date": "2026-07-24",
       "open": 1.7,
-      "high": 1.74,
+      "high": 1.77,
       "low": 1.62,
       "close": 1.66,
-      "volume": 339982
+      "volume": 358052
+    },
+    {
+      "date": "2026-07-27",
+      "open": 1.66,
+      "high": 1.97,
+      "low": 1.66,
+      "close": 1.97,
+      "volume": 483266
     }
   ]
 }
