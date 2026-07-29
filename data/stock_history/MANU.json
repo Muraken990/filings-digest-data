@@ -1,18 +1,10 @@
 {
   "code": "MANU",
   "ticker": "MANU",
-  "last_updated": "2026-07-28 09:52:56",
+  "last_updated": "2026-07-29 09:55:11",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-07-28",
-      "open": 15.6,
-      "high": 15.81,
-      "low": 15.56,
-      "close": 15.73,
-      "volume": 282400
-    },
     {
       "date": "2021-07-29",
       "open": 15.75,
@@ -10022,20 +10014,20 @@
       "volume": 237400
     },
     {
-      "date": "2026-07-24",
-      "open": 22.35,
-      "high": 22.91,
-      "low": 22.26,
-      "close": 22.67,
-      "volume": 163400
-    },
-    {
       "date": "2026-07-27",
       "open": 22.9,
       "high": 23.23,
       "low": 22.76,
       "close": 22.99,
       "volume": 276200
+    },
+    {
+      "date": "2026-07-28",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 207902
     }
   ]
 }

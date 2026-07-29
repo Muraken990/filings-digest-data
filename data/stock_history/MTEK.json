@@ -1,9 +1,9 @@
 {
   "code": "MTEK",
   "ticker": "MTEK",
-  "last_updated": "2026-07-28 09:58:01",
+  "last_updated": "2026-07-29 10:00:16",
   "period": "5y",
-  "data_points": 1122,
+  "data_points": 1124,
   "data": [
     {
       "date": "2022-02-02",
@@ -8974,12 +8974,28 @@
       "volume": 32800
     },
     {
+      "date": "2026-07-24",
+      "open": 1.04,
+      "high": 1.06,
+      "low": 1.0,
+      "close": 1.0,
+      "volume": 47100
+    },
+    {
       "date": "2026-07-27",
       "open": 1.03,
       "high": 1.04,
       "low": 1.0,
       "close": 1.04,
       "volume": 30900
+    },
+    {
+      "date": "2026-07-28",
+      "open": 1.04,
+      "high": 1.05,
+      "low": 1.01,
+      "close": 1.05,
+      "volume": 45500
     }
   ]
 }

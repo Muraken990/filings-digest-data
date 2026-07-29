@@ -1,9 +1,9 @@
 {
   "code": "OHAC",
   "ticker": "OHAC",
-  "last_updated": "2026-07-28 10:04:55",
+  "last_updated": "2026-07-29 10:07:08",
   "period": "5y",
-  "data_points": 34,
+  "data_points": 36,
   "data": [
     {
       "date": "2026-06-05",
@@ -270,12 +270,28 @@
       "volume": 0
     },
     {
+      "date": "2026-07-24",
+      "open": 9.92,
+      "high": 9.95,
+      "low": 9.92,
+      "close": 9.92,
+      "volume": 5600
+    },
+    {
       "date": "2026-07-27",
       "open": 9.92,
       "high": 9.92,
       "low": 9.92,
       "close": 9.92,
       "volume": 0
+    },
+    {
+      "date": "2026-07-28",
+      "open": 9.94,
+      "high": 9.94,
+      "low": 9.94,
+      "close": 9.94,
+      "volume": 600
     }
   ]
 }

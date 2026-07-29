@@ -1,9 +1,9 @@
 {
   "code": "MLAA",
   "ticker": "MLAA",
-  "last_updated": "2026-07-28 09:55:30",
+  "last_updated": "2026-07-29 09:57:45",
   "period": "5y",
-  "data_points": 88,
+  "data_points": 90,
   "data": [
     {
       "date": "2026-03-19",
@@ -702,12 +702,28 @@
       "volume": 1100
     },
     {
+      "date": "2026-07-24",
+      "open": 9.96,
+      "high": 9.96,
+      "low": 9.95,
+      "close": 9.95,
+      "volume": 1700
+    },
+    {
       "date": "2026-07-27",
       "open": 9.96,
       "high": 9.96,
       "low": 9.95,
       "close": 9.95,
       "volume": 3500
+    },
+    {
+      "date": "2026-07-28",
+      "open": 9.96,
+      "high": 9.96,
+      "low": 9.95,
+      "close": 9.95,
+      "volume": 26800
     }
   ]
 }

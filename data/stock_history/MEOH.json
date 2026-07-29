@@ -1,18 +1,10 @@
 {
   "code": "MEOH",
   "ticker": "MEOH",
-  "last_updated": "2026-07-28 09:54:36",
+  "last_updated": "2026-07-29 09:56:50",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-07-28",
-      "open": 30.95,
-      "high": 31.27,
-      "low": 29.71,
-      "close": 30.94,
-      "volume": 295000
-    },
     {
       "date": "2021-07-29",
       "open": 32.23,
@@ -10022,20 +10014,20 @@
       "volume": 841500
     },
     {
-      "date": "2026-07-24",
-      "open": 57.37,
-      "high": 57.86,
-      "low": 55.68,
-      "close": 55.86,
-      "volume": 830900
-    },
-    {
       "date": "2026-07-27",
       "open": 54.56,
       "high": 54.72,
       "low": 53.46,
       "close": 54.18,
       "volume": 1046200
+    },
+    {
+      "date": "2026-07-28",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1601660
     }
   ]
 }

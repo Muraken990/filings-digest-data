@@ -1,9 +1,9 @@
 {
   "code": "MKZR",
   "ticker": "MKZR",
-  "last_updated": "2026-07-28 09:55:30",
+  "last_updated": "2026-07-29 09:57:45",
   "period": "5y",
-  "data_points": 513,
+  "data_points": 515,
   "data": [
     {
       "date": "2024-07-09",
@@ -4102,12 +4102,28 @@
       "volume": 3500
     },
     {
+      "date": "2026-07-24",
+      "open": 1.55,
+      "high": 1.56,
+      "low": 1.55,
+      "close": 1.56,
+      "volume": 900
+    },
+    {
       "date": "2026-07-27",
       "open": 1.56,
       "high": 1.61,
       "low": 1.0,
       "close": 1.25,
       "volume": 85200
+    },
+    {
+      "date": "2026-07-28",
+      "open": 1.25,
+      "high": 1.32,
+      "low": 1.25,
+      "close": 1.29,
+      "volume": 7900
     }
   ]
 }

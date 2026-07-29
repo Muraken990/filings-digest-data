@@ -1,18 +1,10 @@
 {
   "code": "PAI",
   "ticker": "PAI",
-  "last_updated": "2026-07-28 10:07:27",
+  "last_updated": "2026-07-29 10:09:41",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-28",
-      "open": 12.2,
-      "high": 12.37,
-      "low": 12.2,
-      "close": 12.37,
-      "volume": 25200
-    },
     {
       "date": "2021-07-29",
       "open": 12.37,
@@ -10023,11 +10015,11 @@
     },
     {
       "date": "2026-07-24",
-      "open": 11.84,
-      "high": 11.92,
-      "low": 11.84,
-      "close": 11.86,
-      "volume": 24700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2026-07-27",
@@ -10036,6 +10028,14 @@
       "low": 11.87,
       "close": 11.91,
       "volume": 11500
+    },
+    {
+      "date": "2026-07-28",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 4169
     }
   ]
 }

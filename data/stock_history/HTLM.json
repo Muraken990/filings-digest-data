@@ -1,9 +1,9 @@
 {
   "code": "HTLM",
   "ticker": "HTLM",
-  "last_updated": "2026-07-28 09:40:08",
+  "last_updated": "2026-07-29 09:42:23",
   "period": "5y",
-  "data_points": 454,
+  "data_points": 456,
   "data": [
     {
       "date": "2024-10-01",
@@ -3630,12 +3630,28 @@
       "volume": 17700
     },
     {
+      "date": "2026-07-24",
+      "open": 1.82,
+      "high": 1.82,
+      "low": 1.82,
+      "close": 1.82,
+      "volume": 1600
+    },
+    {
       "date": "2026-07-27",
       "open": 1.83,
       "high": 1.97,
       "low": 1.83,
       "close": 1.87,
       "volume": 8800
+    },
+    {
+      "date": "2026-07-28",
+      "open": 1.87,
+      "high": 1.87,
+      "low": 1.8,
+      "close": 1.8,
+      "volume": 3900
     }
   ]
 }

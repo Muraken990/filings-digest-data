@@ -1,9 +1,9 @@
 {
   "code": "LPBB",
   "ticker": "LPBB",
-  "last_updated": "2026-07-28 09:51:15",
+  "last_updated": "2026-07-29 09:53:29",
   "period": "5y",
-  "data_points": 412,
+  "data_points": 414,
   "data": [
     {
       "date": "2024-11-29",
@@ -3294,12 +3294,28 @@
       "volume": 1700
     },
     {
+      "date": "2026-07-24",
+      "open": 10.74,
+      "high": 10.76,
+      "low": 10.74,
+      "close": 10.75,
+      "volume": 42200
+    },
+    {
       "date": "2026-07-27",
       "open": 10.76,
       "high": 10.76,
       "low": 10.75,
       "close": 10.76,
       "volume": 230300
+    },
+    {
+      "date": "2026-07-28",
+      "open": 10.76,
+      "high": 10.77,
+      "low": 10.76,
+      "close": 10.76,
+      "volume": 378000
     }
   ]
 }
