@@ -1,9 +1,9 @@
 {
   "code": "CON",
   "ticker": "CON",
-  "last_updated": "2026-07-28 07:27:26",
+  "last_updated": "2026-07-29 07:26:38",
   "period": "5y",
-  "data_points": 501,
+  "data_points": 503,
   "data": [
     {
       "date": "2024-07-25",
@@ -4006,12 +4006,28 @@
       "volume": 690600
     },
     {
+      "date": "2026-07-24",
+      "open": 32.0,
+      "high": 32.51,
+      "low": 31.53,
+      "close": 31.61,
+      "volume": 1254200
+    },
+    {
       "date": "2026-07-27",
       "open": 31.33,
       "high": 32.28,
       "low": 31.33,
       "close": 31.89,
       "volume": 519400
+    },
+    {
+      "date": "2026-07-28",
+      "open": 32.22,
+      "high": 32.82,
+      "low": 32.1,
+      "close": 32.69,
+      "volume": 646200
     }
   ]
 }

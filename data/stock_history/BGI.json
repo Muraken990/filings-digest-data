@@ -1,18 +1,10 @@
 {
   "code": "BGI",
   "ticker": "BGI",
-  "last_updated": "2026-07-28 07:16:18",
+  "last_updated": "2026-07-29 07:15:36",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-07-28",
-      "open": 2.84,
-      "high": 2.84,
-      "low": 2.69,
-      "close": 2.75,
-      "volume": 179000
-    },
     {
       "date": "2021-07-29",
       "open": 2.75,
@@ -10022,20 +10014,20 @@
       "volume": 61200
     },
     {
-      "date": "2026-07-24",
-      "open": 0.53,
-      "high": 0.54,
-      "low": 0.52,
-      "close": 0.52,
-      "volume": 42300
-    },
-    {
       "date": "2026-07-27",
       "open": 0.54,
       "high": 0.54,
       "low": 0.45,
       "close": 0.45,
       "volume": 201400
+    },
+    {
+      "date": "2026-07-28",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 107395
     }
   ]
 }

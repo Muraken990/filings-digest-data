@@ -1,18 +1,10 @@
 {
   "code": "AUB",
   "ticker": "AUB",
-  "last_updated": "2026-07-28 07:12:52",
+  "last_updated": "2026-07-29 07:12:12",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-07-28",
-      "open": 29.7,
-      "high": 30.04,
-      "low": 29.2,
-      "close": 29.73,
-      "volume": 403700
-    },
     {
       "date": "2021-07-29",
       "open": 29.97,
@@ -10022,20 +10014,20 @@
       "volume": 1689900
     },
     {
-      "date": "2026-07-24",
-      "open": 42.43,
-      "high": 42.66,
-      "low": 42.06,
-      "close": 42.23,
-      "volume": 820600
-    },
-    {
       "date": "2026-07-27",
       "open": 42.53,
       "high": 42.74,
       "low": 42.16,
       "close": 42.17,
       "volume": 860300
+    },
+    {
+      "date": "2026-07-28",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 631381
     }
   ]
 }

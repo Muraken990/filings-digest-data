@@ -1,18 +1,10 @@
 {
   "code": "DECK",
   "ticker": "DECK",
-  "last_updated": "2026-07-28 07:30:58",
+  "last_updated": "2026-07-29 07:30:08",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-07-28",
-      "open": 66.36,
-      "high": 67.71,
-      "low": 65.05,
-      "close": 67.41,
-      "volume": 2050800
-    },
     {
       "date": "2021-07-29",
       "open": 67.86,
@@ -10022,20 +10014,20 @@
       "volume": 4776200
     },
     {
-      "date": "2026-07-24",
-      "open": 94.01,
-      "high": 97.11,
-      "low": 91.8,
-      "close": 96.04,
-      "volume": 5138000
-    },
-    {
       "date": "2026-07-27",
       "open": 98.69,
       "high": 100.0,
       "low": 97.7,
       "close": 97.73,
       "volume": 3053400
+    },
+    {
+      "date": "2026-07-28",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2997490
     }
   ]
 }

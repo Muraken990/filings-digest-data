@@ -1,18 +1,10 @@
 {
   "code": "CHSCL",
   "ticker": "CHSCL",
-  "last_updated": "2026-07-28 07:24:03",
+  "last_updated": "2026-07-29 07:23:18",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-07-28",
-      "open": 20.42,
-      "high": 20.42,
-      "low": 20.31,
-      "close": 20.42,
-      "volume": 12100
-    },
     {
       "date": "2021-07-29",
       "open": 20.36,
@@ -1185,7 +1177,7 @@
       "date": "2022-02-25",
       "open": 20.31,
       "high": 20.42,
-      "low": 20.02,
+      "low": 20.01,
       "close": 20.38,
       "volume": 9900
     },
@@ -10022,20 +10014,20 @@
       "volume": 16600
     },
     {
-      "date": "2026-07-24",
-      "open": 25.35,
-      "high": 25.4,
-      "low": 25.34,
-      "close": 25.35,
-      "volume": 24200
-    },
-    {
       "date": "2026-07-27",
       "open": 25.35,
       "high": 25.46,
       "low": 25.28,
       "close": 25.35,
       "volume": 19600
+    },
+    {
+      "date": "2026-07-28",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 25333
     }
   ]
 }

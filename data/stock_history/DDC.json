@@ -1,9 +1,9 @@
 {
   "code": "DDC",
   "ticker": "DDC",
-  "last_updated": "2026-07-28 07:30:56",
+  "last_updated": "2026-07-29 07:30:07",
   "period": "5y",
-  "data_points": 671,
+  "data_points": 673,
   "data": [
     {
       "date": "2023-11-17",
@@ -5366,12 +5366,28 @@
       "volume": 169200
     },
     {
+      "date": "2026-07-24",
+      "open": 0.48,
+      "high": 0.48,
+      "low": 0.45,
+      "close": 0.46,
+      "volume": 101900
+    },
+    {
       "date": "2026-07-27",
       "open": 0.48,
       "high": 0.5,
       "low": 0.47,
       "close": 0.48,
       "volume": 83300
+    },
+    {
+      "date": "2026-07-28",
+      "open": 0.47,
+      "high": 0.48,
+      "low": 0.44,
+      "close": 0.47,
+      "volume": 148400
     }
   ]
 }

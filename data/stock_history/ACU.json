@@ -1,18 +1,10 @@
 {
   "code": "ACU",
   "ticker": "ACU",
-  "last_updated": "2026-07-28 07:05:07",
+  "last_updated": "2026-07-29 07:04:31",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-07-28",
-      "open": 38.84,
-      "high": 39.38,
-      "low": 38.44,
-      "close": 38.44,
-      "volume": 3900
-    },
     {
       "date": "2021-07-29",
       "open": 38.54,
@@ -10022,20 +10014,20 @@
       "volume": 33000
     },
     {
-      "date": "2026-07-24",
-      "open": 46.17,
-      "high": 55.43,
-      "low": 46.17,
-      "close": 53.94,
-      "volume": 58200
-    },
-    {
       "date": "2026-07-27",
       "open": 54.51,
       "high": 57.51,
       "low": 53.67,
       "close": 56.83,
       "volume": 54400
+    },
+    {
+      "date": "2026-07-28",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 46488
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "DSAC",
   "ticker": "DSAC",
-  "last_updated": "2026-07-28 07:32:42",
+  "last_updated": "2026-07-29 07:31:51",
   "period": "5y",
-  "data_points": 123,
+  "data_points": 124,
   "data": [
     {
       "date": "2026-01-29",
@@ -988,6 +988,14 @@
       "low": 10.16,
       "close": 10.17,
       "volume": 60300
+    },
+    {
+      "date": "2026-07-28",
+      "open": 10.17,
+      "high": 10.18,
+      "low": 10.16,
+      "close": 10.18,
+      "volume": 82500
     }
   ]
 }
