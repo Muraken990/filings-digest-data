@@ -1,18 +1,10 @@
 {
   "code": "SNES",
   "ticker": "SNES",
-  "last_updated": "2026-07-28 12:15:52",
+  "last_updated": "2026-07-29 12:17:13",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-07-28",
-      "open": 3624.0,
-      "high": 3720.0,
-      "low": 3624.0,
-      "close": 3648.0,
-      "volume": 38
-    },
     {
       "date": "2021-07-29",
       "open": 3672.0,
@@ -10022,20 +10014,20 @@
       "volume": 95900
     },
     {
-      "date": "2026-07-24",
-      "open": 1.43,
-      "high": 1.43,
-      "low": 1.37,
-      "close": 1.39,
-      "volume": 39500
-    },
-    {
       "date": "2026-07-27",
       "open": 1.4,
       "high": 1.4,
       "low": 1.32,
       "close": 1.33,
       "volume": 52500
+    },
+    {
+      "date": "2026-07-28",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 12375
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "PLPC",
   "ticker": "PLPC",
-  "last_updated": "2026-07-28 12:03:43",
+  "last_updated": "2026-07-29 12:05:07",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-07-28",
-      "open": 67.08,
-      "high": 67.08,
-      "low": 66.09,
-      "close": 66.41,
-      "volume": 4700
-    },
     {
       "date": "2021-07-29",
       "open": 67.05,
@@ -10022,20 +10014,20 @@
       "volume": 69700
     },
     {
-      "date": "2026-07-24",
-      "open": 326.01,
-      "high": 326.01,
-      "low": 310.0,
-      "close": 311.22,
-      "volume": 71100
-    },
-    {
       "date": "2026-07-27",
       "open": 315.15,
       "high": 322.21,
       "low": 300.0,
       "close": 311.81,
       "volume": 107300
+    },
+    {
+      "date": "2026-07-28",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 95442
     }
   ]
 }

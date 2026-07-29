@@ -1,9 +1,9 @@
 {
   "code": "SMRT",
   "ticker": "SMRT",
-  "last_updated": "2026-07-28 12:15:49",
+  "last_updated": "2026-07-29 12:17:10",
   "period": "5y",
-  "data_points": 1234,
+  "data_points": 1235,
   "data": [
     {
       "date": "2021-08-25",
@@ -9876,6 +9876,14 @@
       "low": 0.94,
       "close": 0.96,
       "volume": 1629100
+    },
+    {
+      "date": "2026-07-28",
+      "open": 0.97,
+      "high": 1.02,
+      "low": 0.96,
+      "close": 1.0,
+      "volume": 1814300
     }
   ]
 }

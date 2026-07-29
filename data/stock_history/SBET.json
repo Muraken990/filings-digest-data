@@ -1,17 +1,17 @@
 {
   "code": "SBET",
   "ticker": "SBET",
-  "last_updated": "2026-07-28 12:12:21",
+  "last_updated": "2026-07-29 12:13:43",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-28",
-      "open": 702.0,
-      "high": 714.0,
-      "low": 661.2,
-      "close": 691.2,
-      "volume": 1981
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-29",
@@ -10035,7 +10035,15 @@
       "high": 6.4,
       "low": 6.01,
       "close": 6.38,
-      "volume": 10124900
+      "volume": 10171000
+    },
+    {
+      "date": "2026-07-28",
+      "open": 6.11,
+      "high": 6.53,
+      "low": 5.99,
+      "close": 6.44,
+      "volume": 11336100
     }
   ]
 }

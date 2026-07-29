@@ -1,18 +1,10 @@
 {
   "code": "PRPO",
   "ticker": "PRPO",
-  "last_updated": "2026-07-28 12:05:26",
+  "last_updated": "2026-07-29 12:06:51",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-07-28",
-      "open": 59.6,
-      "high": 65.6,
-      "low": 58.8,
-      "close": 60.6,
-      "volume": 70450
-    },
     {
       "date": "2021-07-29",
       "open": 60.6,
@@ -10022,20 +10014,20 @@
       "volume": 94200
     },
     {
-      "date": "2026-07-24",
-      "open": 22.89,
-      "high": 23.92,
-      "low": 22.5,
-      "close": 23.68,
-      "volume": 38500
-    },
-    {
       "date": "2026-07-27",
       "open": 23.76,
       "high": 24.1,
       "low": 22.55,
       "close": 22.92,
       "volume": 187200
+    },
+    {
+      "date": "2026-07-28",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 85890
     }
   ]
 }

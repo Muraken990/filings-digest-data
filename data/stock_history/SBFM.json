@@ -1,9 +1,9 @@
 {
   "code": "SBFM",
   "ticker": "SBFM",
-  "last_updated": "2026-07-28 12:12:22",
+  "last_updated": "2026-07-29 12:13:43",
   "period": "5y",
-  "data_points": 1113,
+  "data_points": 1115,
   "data": [
     {
       "date": "2022-02-15",
@@ -8902,12 +8902,28 @@
       "volume": 29400
     },
     {
+      "date": "2026-07-24",
+      "open": 1.71,
+      "high": 1.76,
+      "low": 1.66,
+      "close": 1.66,
+      "volume": 23400
+    },
+    {
       "date": "2026-07-27",
       "open": 1.69,
       "high": 1.69,
       "low": 1.44,
       "close": 1.53,
       "volume": 80500
+    },
+    {
+      "date": "2026-07-28",
+      "open": 1.55,
+      "high": 1.57,
+      "low": 1.41,
+      "close": 1.43,
+      "volume": 85600
     }
   ]
 }

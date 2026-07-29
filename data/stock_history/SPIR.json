@@ -1,18 +1,10 @@
 {
   "code": "SPIR",
   "ticker": "SPIR",
-  "last_updated": "2026-07-28 12:16:44",
+  "last_updated": "2026-07-29 12:18:06",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-07-28",
-      "open": 79.76,
-      "high": 79.76,
-      "low": 79.6,
-      "close": 79.6,
-      "volume": 29675
-    },
     {
       "date": "2021-07-29",
       "open": 79.6,
@@ -10022,20 +10014,20 @@
       "volume": 423000
     },
     {
-      "date": "2026-07-24",
-      "open": 11.56,
-      "high": 11.6,
-      "low": 10.93,
-      "close": 10.99,
-      "volume": 479800
-    },
-    {
       "date": "2026-07-27",
       "open": 11.11,
       "high": 11.66,
       "low": 10.85,
       "close": 11.17,
       "volume": 510500
+    },
+    {
+      "date": "2026-07-28",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 609499
     }
   ]
 }

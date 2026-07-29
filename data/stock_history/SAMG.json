@@ -1,18 +1,10 @@
 {
   "code": "SAMG",
   "ticker": "SAMG",
-  "last_updated": "2026-07-28 12:11:34",
+  "last_updated": "2026-07-29 12:12:55",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-07-28",
-      "open": 12.17,
-      "high": 12.32,
-      "low": 12.04,
-      "close": 12.1,
-      "volume": 10100
-    },
     {
       "date": "2021-07-29",
       "open": 12.13,
@@ -665,8 +657,8 @@
       "date": "2021-11-22",
       "open": 13.22,
       "high": 13.22,
-      "low": 12.98,
-      "close": 12.98,
+      "low": 12.97,
+      "close": 12.97,
       "volume": 7300
     },
     {
@@ -10022,20 +10014,20 @@
       "volume": 70400
     },
     {
-      "date": "2026-07-24",
-      "open": 10.23,
-      "high": 10.25,
-      "low": 9.93,
-      "close": 9.95,
-      "volume": 43000
-    },
-    {
       "date": "2026-07-27",
       "open": 10.07,
       "high": 10.63,
       "low": 10.07,
       "close": 10.44,
       "volume": 54900
+    },
+    {
+      "date": "2026-07-28",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 56850
     }
   ]
 }

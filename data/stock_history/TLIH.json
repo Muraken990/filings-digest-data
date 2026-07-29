@@ -1,9 +1,9 @@
 {
   "code": "TLIH",
   "ticker": "TLIH",
-  "last_updated": "2026-07-28 12:21:55",
+  "last_updated": "2026-07-29 12:23:15",
   "period": "5y",
-  "data_points": 264,
+  "data_points": 266,
   "data": [
     {
       "date": "2025-07-08",
@@ -2110,12 +2110,28 @@
       "volume": 5900
     },
     {
+      "date": "2026-07-24",
+      "open": 5.8,
+      "high": 5.8,
+      "low": 5.7,
+      "close": 5.8,
+      "volume": 1500
+    },
+    {
       "date": "2026-07-27",
       "open": 5.96,
       "high": 5.96,
       "low": 5.7,
       "close": 5.8,
       "volume": 12800
+    },
+    {
+      "date": "2026-07-28",
+      "open": 5.86,
+      "high": 5.86,
+      "low": 5.7,
+      "close": 5.75,
+      "volume": 3900
     }
   ]
 }

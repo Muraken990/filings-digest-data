@@ -1,18 +1,10 @@
 {
   "code": "TAK",
   "ticker": "TAK",
-  "last_updated": "2026-07-28 12:20:08",
+  "last_updated": "2026-07-29 12:21:28",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-07-28",
-      "open": 15.77,
-      "high": 16.1,
-      "low": 15.72,
-      "close": 16.04,
-      "volume": 2460400
-    },
     {
       "date": "2021-07-29",
       "open": 16.04,
@@ -10022,20 +10014,20 @@
       "volume": 3511400
     },
     {
-      "date": "2026-07-24",
-      "open": 17.3,
-      "high": 17.36,
-      "low": 17.22,
-      "close": 17.24,
-      "volume": 3266500
-    },
-    {
       "date": "2026-07-27",
       "open": 17.52,
       "high": 17.65,
       "low": 17.42,
       "close": 17.44,
       "volume": 3887700
+    },
+    {
+      "date": "2026-07-28",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3756385
     }
   ]
 }
