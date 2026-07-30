@@ -1,18 +1,10 @@
 {
   "code": "GDRX",
   "ticker": "GDRX",
-  "last_updated": "2026-07-29 09:36:19",
+  "last_updated": "2026-07-30 09:33:23",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 32.77,
-      "high": 33.18,
-      "low": 32.25,
-      "close": 32.52,
-      "volume": 1045800
-    },
     {
       "date": "2021-07-30",
       "open": 32.08,
@@ -10014,6 +10006,14 @@
       "volume": 677900
     },
     {
+      "date": "2026-07-24",
+      "open": 2.89,
+      "high": 2.96,
+      "low": 2.84,
+      "close": 2.96,
+      "volume": 530400
+    },
+    {
       "date": "2026-07-27",
       "open": 3.0,
       "high": 3.1,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 785005
+      "open": 3.06,
+      "high": 3.15,
+      "low": 3.05,
+      "close": 3.12,
+      "volume": 789100
+    },
+    {
+      "date": "2026-07-29",
+      "open": 3.1,
+      "high": 3.31,
+      "low": 3.1,
+      "close": 3.22,
+      "volume": 1548100
     }
   ]
 }

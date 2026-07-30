@@ -1,18 +1,10 @@
 {
   "code": "NGNE",
   "ticker": "NGNE",
-  "last_updated": "2026-07-29 10:02:50",
+  "last_updated": "2026-07-30 10:00:03",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 148.4,
-      "high": 150.6,
-      "low": 144.2,
-      "close": 144.8,
-      "volume": 4775
-    },
     {
       "date": "2021-07-30",
       "open": 144.0,
@@ -10014,6 +10006,14 @@
       "volume": 155500
     },
     {
+      "date": "2026-07-24",
+      "open": 35.62,
+      "high": 36.12,
+      "low": 33.52,
+      "close": 34.9,
+      "volume": 161700
+    },
+    {
       "date": "2026-07-27",
       "open": 35.18,
       "high": 35.92,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 135553
+      "open": 34.59,
+      "high": 34.59,
+      "low": 32.87,
+      "close": 33.22,
+      "volume": 157400
+    },
+    {
+      "date": "2026-07-29",
+      "open": 32.59,
+      "high": 34.19,
+      "low": 32.21,
+      "close": 33.66,
+      "volume": 132000
     }
   ]
 }

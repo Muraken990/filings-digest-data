@@ -1,18 +1,10 @@
 {
   "code": "FTDR",
   "ticker": "FTDR",
-  "last_updated": "2026-07-29 09:34:38",
+  "last_updated": "2026-07-30 09:31:41",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 50.03,
-      "high": 50.14,
-      "low": 49.08,
-      "close": 49.19,
-      "volume": 284500
-    },
     {
       "date": "2021-07-30",
       "open": 48.94,
@@ -10014,6 +10006,14 @@
       "volume": 470000
     },
     {
+      "date": "2026-07-24",
+      "open": 70.8,
+      "high": 72.57,
+      "low": 70.76,
+      "close": 71.49,
+      "volume": 440800
+    },
+    {
       "date": "2026-07-27",
       "open": 71.54,
       "high": 72.97,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 473590
+      "open": 73.03,
+      "high": 74.53,
+      "low": 72.19,
+      "close": 74.28,
+      "volume": 484900
+    },
+    {
+      "date": "2026-07-29",
+      "open": 73.47,
+      "high": 75.33,
+      "low": 73.47,
+      "close": 75.0,
+      "volume": 559500
     }
   ]
 }

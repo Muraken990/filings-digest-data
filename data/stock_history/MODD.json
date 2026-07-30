@@ -1,9 +1,9 @@
 {
   "code": "MODD",
   "ticker": "MODD",
-  "last_updated": "2026-07-29 09:58:36",
+  "last_updated": "2026-07-30 09:55:47",
   "period": "5y",
-  "data_points": 1117,
+  "data_points": 1119,
   "data": [
     {
       "date": "2022-02-10",
@@ -8926,6 +8926,14 @@
       "volume": 546200
     },
     {
+      "date": "2026-07-24",
+      "open": 2.95,
+      "high": 3.05,
+      "low": 2.44,
+      "close": 2.51,
+      "volume": 457100
+    },
+    {
       "date": "2026-07-27",
       "open": 2.47,
       "high": 2.47,
@@ -8935,11 +8943,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 59316
+      "open": 2.46,
+      "high": 2.46,
+      "low": 2.11,
+      "close": 2.34,
+      "volume": 59300
+    },
+    {
+      "date": "2026-07-29",
+      "open": 2.34,
+      "high": 2.38,
+      "low": 2.04,
+      "close": 2.08,
+      "volume": 126900
     }
   ]
 }

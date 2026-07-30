@@ -1,9 +1,9 @@
 {
   "code": "NNNN",
   "ticker": "NNNN",
-  "last_updated": "2026-07-29 10:03:43",
+  "last_updated": "2026-07-30 10:00:55",
   "period": "5y",
-  "data_points": 361,
+  "data_points": 362,
   "data": [
     {
       "date": "2025-02-19",
@@ -2892,6 +2892,14 @@
       "low": 9.08,
       "close": 10.15,
       "volume": 30600
+    },
+    {
+      "date": "2026-07-29",
+      "open": 9.88,
+      "high": 12.9,
+      "low": 9.88,
+      "close": 11.59,
+      "volume": 53200
     }
   ]
 }

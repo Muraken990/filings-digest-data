@@ -1,9 +1,9 @@
 {
   "code": "MFI",
   "ticker": "MFI",
-  "last_updated": "2026-07-29 09:56:52",
+  "last_updated": "2026-07-30 09:54:03",
   "period": "5y",
-  "data_points": 566,
+  "data_points": 569,
   "data": [
     {
       "date": "2024-04-22",
@@ -4526,12 +4526,36 @@
       "volume": 3900
     },
     {
+      "date": "2026-07-24",
+      "open": 8.8,
+      "high": 8.8,
+      "low": 8.29,
+      "close": 8.3,
+      "volume": 4800
+    },
+    {
       "date": "2026-07-27",
       "open": 8.4,
       "high": 8.45,
       "low": 8.3,
       "close": 8.3,
       "volume": 1800
+    },
+    {
+      "date": "2026-07-28",
+      "open": 8.3,
+      "high": 8.3,
+      "low": 8.3,
+      "close": 8.3,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-29",
+      "open": 8.5,
+      "high": 8.54,
+      "low": 7.21,
+      "close": 8.54,
+      "volume": 2500
     }
   ]
 }

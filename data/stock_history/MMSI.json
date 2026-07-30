@@ -1,18 +1,10 @@
 {
   "code": "MMSI",
   "ticker": "MMSI",
-  "last_updated": "2026-07-29 09:58:33",
+  "last_updated": "2026-07-30 09:55:43",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 65.1,
-      "high": 66.78,
-      "low": 64.82,
-      "close": 64.92,
-      "volume": 314400
-    },
     {
       "date": "2021-07-30",
       "open": 65.63,
@@ -10014,6 +10006,14 @@
       "volume": 444800
     },
     {
+      "date": "2026-07-24",
+      "open": 73.64,
+      "high": 74.64,
+      "low": 72.89,
+      "close": 74.32,
+      "volume": 655200
+    },
+    {
       "date": "2026-07-27",
       "open": 75.1,
       "high": 76.8,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 829838
+      "open": 77.23,
+      "high": 78.71,
+      "low": 76.56,
+      "close": 78.29,
+      "volume": 840300
+    },
+    {
+      "date": "2026-07-29",
+      "open": 77.59,
+      "high": 80.9,
+      "low": 76.28,
+      "close": 80.84,
+      "volume": 1334500
     }
   ]
 }

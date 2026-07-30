@@ -1,9 +1,9 @@
 {
   "code": "OPTX",
   "ticker": "OPTX",
-  "last_updated": "2026-07-29 10:08:01",
+  "last_updated": "2026-07-30 10:05:16",
   "period": "5y",
-  "data_points": 1128,
+  "data_points": 1130,
   "data": [
     {
       "date": "2022-01-26",
@@ -9014,6 +9014,14 @@
       "volume": 442900
     },
     {
+      "date": "2026-07-24",
+      "open": 7.55,
+      "high": 7.55,
+      "low": 7.0,
+      "close": 7.05,
+      "volume": 244700
+    },
+    {
       "date": "2026-07-27",
       "open": 7.05,
       "high": 7.27,
@@ -9023,11 +9031,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1092109
+      "open": 6.95,
+      "high": 6.99,
+      "low": 5.83,
+      "close": 6.38,
+      "volume": 1092500
+    },
+    {
+      "date": "2026-07-29",
+      "open": 6.42,
+      "high": 6.58,
+      "low": 5.72,
+      "close": 5.88,
+      "volume": 518400
     }
   ]
 }

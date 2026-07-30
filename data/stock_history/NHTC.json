@@ -1,18 +1,10 @@
 {
   "code": "NHTC",
   "ticker": "NHTC",
-  "last_updated": "2026-07-29 10:02:52",
+  "last_updated": "2026-07-30 10:00:04",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 3.58,
-      "high": 3.6,
-      "low": 3.53,
-      "close": 3.6,
-      "volume": 8100
-    },
     {
       "date": "2021-07-30",
       "open": 3.61,
@@ -10014,6 +10006,14 @@
       "volume": 14400
     },
     {
+      "date": "2026-07-24",
+      "open": 1.79,
+      "high": 1.85,
+      "low": 1.77,
+      "close": 1.8,
+      "volume": 30800
+    },
+    {
       "date": "2026-07-27",
       "open": 1.84,
       "high": 1.93,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 22733
+      "open": 1.89,
+      "high": 1.95,
+      "low": 1.81,
+      "close": 1.82,
+      "volume": 23700
+    },
+    {
+      "date": "2026-07-29",
+      "open": 1.86,
+      "high": 1.88,
+      "low": 1.55,
+      "close": 1.73,
+      "volume": 79000
     }
   ]
 }

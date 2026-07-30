@@ -1,9 +1,9 @@
 {
   "code": "HAWK",
   "ticker": "HAWK",
-  "last_updated": "2026-07-29 09:39:48",
+  "last_updated": "2026-07-30 09:36:54",
   "period": "5y",
-  "data_points": 56,
+  "data_points": 57,
   "data": [
     {
       "date": "2026-05-07",
@@ -452,6 +452,14 @@
       "low": 19.26,
       "close": 20.23,
       "volume": 714000
+    },
+    {
+      "date": "2026-07-29",
+      "open": 20.01,
+      "high": 20.19,
+      "low": 18.8,
+      "close": 19.0,
+      "volume": 775800
     }
   ]
 }

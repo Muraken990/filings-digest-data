@@ -1,18 +1,10 @@
 {
   "code": "LIND",
   "ticker": "LIND",
-  "last_updated": "2026-07-29 09:52:37",
+  "last_updated": "2026-07-30 09:49:48",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 14.01,
-      "high": 14.34,
-      "low": 13.7,
-      "close": 14.27,
-      "volume": 159600
-    },
     {
       "date": "2021-07-30",
       "open": 14.07,
@@ -10014,6 +10006,14 @@
       "volume": 803900
     },
     {
+      "date": "2026-07-24",
+      "open": 27.48,
+      "high": 27.92,
+      "low": 26.81,
+      "close": 26.85,
+      "volume": 545200
+    },
+    {
       "date": "2026-07-27",
       "open": 27.33,
       "high": 28.13,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1006610
+      "open": 28.32,
+      "high": 29.77,
+      "low": 28.02,
+      "close": 29.74,
+      "volume": 1006600
+    },
+    {
+      "date": "2026-07-29",
+      "open": 29.29,
+      "high": 30.44,
+      "low": 29.19,
+      "close": 29.75,
+      "volume": 1097800
     }
   ]
 }

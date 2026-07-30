@@ -1,18 +1,10 @@
 {
   "code": "MFM",
   "ticker": "MFM",
-  "last_updated": "2026-07-29 09:56:53",
+  "last_updated": "2026-07-30 09:54:04",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 5.78,
-      "high": 5.82,
-      "low": 5.73,
-      "close": 5.82,
-      "volume": 49900
-    },
     {
       "date": "2021-07-30",
       "open": 5.84,
@@ -10014,6 +10006,14 @@
       "volume": 237300
     },
     {
+      "date": "2026-07-24",
+      "open": 5.45,
+      "high": 5.45,
+      "low": 5.36,
+      "close": 5.38,
+      "volume": 242600
+    },
+    {
       "date": "2026-07-27",
       "open": 5.44,
       "high": 5.46,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 207258
+      "open": 5.38,
+      "high": 5.4,
+      "low": 5.35,
+      "close": 5.37,
+      "volume": 209500
+    },
+    {
+      "date": "2026-07-29",
+      "open": 5.38,
+      "high": 5.42,
+      "low": 5.36,
+      "close": 5.36,
+      "volume": 309200
     }
   ]
 }

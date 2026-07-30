@@ -1,9 +1,9 @@
 {
   "code": "PEW",
   "ticker": "PEW",
-  "last_updated": "2026-07-29 10:11:23",
+  "last_updated": "2026-07-30 10:08:39",
   "period": "5y",
-  "data_points": 637,
+  "data_points": 638,
   "data": [
     {
       "date": "2024-01-11",
@@ -5095,11 +5095,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 261250
+      "open": 2.54,
+      "high": 2.6,
+      "low": 2.48,
+      "close": 2.53,
+      "volume": 270500
+    },
+    {
+      "date": "2026-07-29",
+      "open": 2.55,
+      "high": 2.57,
+      "low": 2.45,
+      "close": 2.47,
+      "volume": 123400
     }
   ]
 }

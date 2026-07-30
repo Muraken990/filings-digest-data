@@ -1,18 +1,10 @@
 {
   "code": "NWFL",
   "ticker": "NWFL",
-  "last_updated": "2026-07-29 10:05:28",
+  "last_updated": "2026-07-30 10:02:41",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 20.45,
-      "high": 20.48,
-      "low": 20.11,
-      "close": 20.28,
-      "volume": 4500
-    },
     {
       "date": "2021-07-30",
       "open": 20.12,
@@ -10014,6 +10006,14 @@
       "volume": 68200
     },
     {
+      "date": "2026-07-24",
+      "open": 31.99,
+      "high": 32.97,
+      "low": 31.99,
+      "close": 32.63,
+      "volume": 52900
+    },
+    {
       "date": "2026-07-27",
       "open": 32.96,
       "high": 33.85,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 36674
+      "open": 33.73,
+      "high": 34.55,
+      "low": 33.73,
+      "close": 34.05,
+      "volume": 37400
+    },
+    {
+      "date": "2026-07-29",
+      "open": 34.1,
+      "high": 34.34,
+      "low": 33.61,
+      "close": 33.62,
+      "volume": 27600
     }
   ]
 }

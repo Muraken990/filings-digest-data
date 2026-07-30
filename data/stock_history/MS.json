@@ -1,17 +1,17 @@
 {
   "code": "MS",
   "ticker": "MS",
-  "last_updated": "2026-07-29 09:59:27",
+  "last_updated": "2026-07-30 09:56:38",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-29",
-      "open": 82.46,
-      "high": 83.05,
-      "low": 81.92,
-      "close": 82.56,
-      "volume": 9016200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-30",
@@ -2327,7 +2327,7 @@
     },
     {
       "date": "2022-09-22",
-      "open": 76.94,
+      "open": 76.93,
       "high": 77.24,
       "low": 74.6,
       "close": 75.04,
@@ -4728,7 +4728,7 @@
     {
       "date": "2023-12-01",
       "open": 73.42,
-      "high": 75.19,
+      "high": 75.18,
       "low": 73.11,
       "close": 75.1,
       "volume": 9617100
@@ -10036,6 +10036,14 @@
       "low": 207.29,
       "close": 211.58,
       "volume": 6021000
+    },
+    {
+      "date": "2026-07-29",
+      "open": 212.09,
+      "high": 212.35,
+      "low": 202.94,
+      "close": 203.13,
+      "volume": 6722300
     }
   ]
 }

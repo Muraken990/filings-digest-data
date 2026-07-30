@@ -1,18 +1,10 @@
 {
   "code": "PBFS",
   "ticker": "PBFS",
-  "last_updated": "2026-07-29 10:09:45",
+  "last_updated": "2026-07-30 10:07:00",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 11.59,
-      "high": 11.6,
-      "low": 11.56,
-      "close": 11.57,
-      "volume": 5000
-    },
     {
       "date": "2021-07-30",
       "open": 11.65,
@@ -10014,6 +10006,14 @@
       "volume": 19100
     },
     {
+      "date": "2026-07-24",
+      "open": 17.86,
+      "high": 17.86,
+      "low": 17.67,
+      "close": 17.74,
+      "volume": 9200
+    },
+    {
       "date": "2026-07-27",
       "open": 17.93,
       "high": 17.94,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10399
+      "open": 17.94,
+      "high": 18.41,
+      "low": 17.94,
+      "close": 18.02,
+      "volume": 10800
+    },
+    {
+      "date": "2026-07-29",
+      "open": 17.77,
+      "high": 17.84,
+      "low": 17.61,
+      "close": 17.76,
+      "volume": 8500
     }
   ]
 }
