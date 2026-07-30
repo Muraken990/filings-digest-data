@@ -1,9 +1,9 @@
 {
   "code": "ADAMI",
   "ticker": "ADAMI",
-  "last_updated": "2026-07-29 07:04:31",
+  "last_updated": "2026-07-30 07:04:14",
   "period": "5y",
-  "data_points": 518,
+  "data_points": 520,
   "data": [
     {
       "date": "2024-07-02",
@@ -4134,6 +4134,14 @@
       "volume": 6600
     },
     {
+      "date": "2026-07-24",
+      "open": 25.06,
+      "high": 25.1,
+      "low": 25.06,
+      "close": 25.1,
+      "volume": 4200
+    },
+    {
       "date": "2026-07-27",
       "open": 25.09,
       "high": 25.14,
@@ -4143,11 +4151,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7952
+      "open": 25.09,
+      "high": 25.11,
+      "low": 25.05,
+      "close": 25.05,
+      "volume": 8000
+    },
+    {
+      "date": "2026-07-29",
+      "open": 25.16,
+      "high": 25.17,
+      "low": 25.11,
+      "close": 25.11,
+      "volume": 4100
     }
   ]
 }

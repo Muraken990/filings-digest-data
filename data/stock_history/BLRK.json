@@ -1,9 +1,9 @@
 {
   "code": "BLRK",
   "ticker": "BLRK",
-  "last_updated": "2026-07-29 07:17:17",
+  "last_updated": "2026-07-30 07:17:04",
   "period": "5y",
-  "data_points": 121,
+  "data_points": 123,
   "data": [
     {
       "date": "2026-02-02",
@@ -958,6 +958,14 @@
       "volume": 0
     },
     {
+      "date": "2026-07-24",
+      "open": 10.04,
+      "high": 10.68,
+      "low": 10.04,
+      "close": 10.1,
+      "volume": 152900
+    },
+    {
       "date": "2026-07-27",
       "open": 10.1,
       "high": 10.1,
@@ -967,11 +975,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3785
+      "open": 10.1,
+      "high": 10.1,
+      "low": 10.07,
+      "close": 10.1,
+      "volume": 3800
+    },
+    {
+      "date": "2026-07-29",
+      "open": 10.1,
+      "high": 10.1,
+      "low": 10.07,
+      "close": 10.07,
+      "volume": 2600
     }
   ]
 }

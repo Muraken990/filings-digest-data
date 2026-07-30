@@ -1,17 +1,17 @@
 {
   "code": "ATLO",
   "ticker": "ATLO",
-  "last_updated": "2026-07-29 07:12:09",
+  "last_updated": "2026-07-30 07:11:56",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-29",
-      "open": 19.12,
-      "high": 19.12,
-      "low": 18.84,
-      "close": 18.91,
-      "volume": 22500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-30",
@@ -5280,7 +5280,7 @@
     {
       "date": "2024-03-13",
       "open": 17.39,
-      "high": 17.76,
+      "high": 17.75,
       "low": 17.39,
       "close": 17.75,
       "volume": 7100
@@ -10014,6 +10014,14 @@
       "volume": 43100
     },
     {
+      "date": "2026-07-24",
+      "open": 29.97,
+      "high": 30.46,
+      "low": 29.97,
+      "close": 30.05,
+      "volume": 33500
+    },
+    {
       "date": "2026-07-27",
       "open": 30.23,
       "high": 30.39,
@@ -10023,11 +10031,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 25622
+      "open": 30.27,
+      "high": 30.87,
+      "low": 30.27,
+      "close": 30.59,
+      "volume": 26700
+    },
+    {
+      "date": "2026-07-29",
+      "open": 30.75,
+      "high": 30.93,
+      "low": 30.29,
+      "close": 30.58,
+      "volume": 22700
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "ADPT",
   "ticker": "ADPT",
-  "last_updated": "2026-07-29 07:05:19",
+  "last_updated": "2026-07-30 07:05:02",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 37.0,
-      "high": 37.7,
-      "low": 36.56,
-      "close": 36.61,
-      "volume": 362100
-    },
     {
       "date": "2021-07-30",
       "open": 36.36,
@@ -10014,6 +10006,14 @@
       "volume": 2763900
     },
     {
+      "date": "2026-07-24",
+      "open": 22.56,
+      "high": 22.77,
+      "low": 21.83,
+      "close": 22.27,
+      "volume": 2819900
+    },
+    {
       "date": "2026-07-27",
       "open": 22.7,
       "high": 23.0,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1678721
+      "open": 22.72,
+      "high": 22.99,
+      "low": 21.93,
+      "close": 22.52,
+      "volume": 1678800
+    },
+    {
+      "date": "2026-07-29",
+      "open": 22.48,
+      "high": 23.08,
+      "low": 21.74,
+      "close": 22.56,
+      "volume": 3147300
     }
   ]
 }

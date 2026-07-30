@@ -1,18 +1,10 @@
 {
   "code": "AFGB",
   "ticker": "AFGB",
-  "last_updated": "2026-07-29 07:05:24",
+  "last_updated": "2026-07-30 07:05:07",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 20.26,
-      "high": 20.36,
-      "low": 20.2,
-      "close": 20.36,
-      "volume": 6800
-    },
     {
       "date": "2021-07-30",
       "open": 20.35,
@@ -10014,6 +10006,14 @@
       "volume": 10100
     },
     {
+      "date": "2026-07-24",
+      "open": 20.64,
+      "high": 20.64,
+      "low": 20.46,
+      "close": 20.51,
+      "volume": 7600
+    },
+    {
       "date": "2026-07-27",
       "open": 20.61,
       "high": 20.62,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 12798
+      "open": 20.63,
+      "high": 20.63,
+      "low": 20.48,
+      "close": 20.63,
+      "volume": 12800
+    },
+    {
+      "date": "2026-07-29",
+      "open": 20.6,
+      "high": 20.65,
+      "low": 20.46,
+      "close": 20.58,
+      "volume": 7300
     }
   ]
 }

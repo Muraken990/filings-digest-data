@@ -1,18 +1,10 @@
 {
   "code": "FORR",
   "ticker": "FORR",
-  "last_updated": "2026-07-29 07:40:23",
+  "last_updated": "2026-07-30 07:40:26",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 44.95,
-      "high": 48.66,
-      "low": 44.95,
-      "close": 48.42,
-      "volume": 99800
-    },
     {
       "date": "2021-07-30",
       "open": 48.06,
@@ -10014,6 +10006,14 @@
       "volume": 135700
     },
     {
+      "date": "2026-07-24",
+      "open": 8.88,
+      "high": 9.11,
+      "low": 8.74,
+      "close": 8.87,
+      "volume": 89500
+    },
+    {
       "date": "2026-07-27",
       "open": 9.0,
       "high": 9.65,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 107928
+      "open": 9.51,
+      "high": 10.36,
+      "low": 9.51,
+      "close": 10.31,
+      "volume": 109800
+    },
+    {
+      "date": "2026-07-29",
+      "open": 10.28,
+      "high": 10.45,
+      "low": 10.0,
+      "close": 10.26,
+      "volume": 93900
     }
   ]
 }

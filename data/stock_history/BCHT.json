@@ -1,18 +1,10 @@
 {
   "code": "BCHT",
   "ticker": "BCHT",
-  "last_updated": "2026-07-29 07:14:44",
+  "last_updated": "2026-07-30 07:14:31",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 4.6,
-      "high": 5.0,
-      "low": 4.6,
-      "close": 4.9,
-      "volume": 34500
-    },
     {
       "date": "2021-07-30",
       "open": 4.85,
@@ -10014,6 +10006,14 @@
       "volume": 79100
     },
     {
+      "date": "2026-07-24",
+      "open": 1.53,
+      "high": 1.59,
+      "low": 1.39,
+      "close": 1.4,
+      "volume": 140200
+    },
+    {
       "date": "2026-07-27",
       "open": 1.45,
       "high": 1.55,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 41710
+      "open": 1.43,
+      "high": 1.43,
+      "low": 1.37,
+      "close": 1.4,
+      "volume": 41900
+    },
+    {
+      "date": "2026-07-29",
+      "open": 1.4,
+      "high": 1.44,
+      "low": 1.37,
+      "close": 1.38,
+      "volume": 31800
     }
   ]
 }

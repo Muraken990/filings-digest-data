@@ -1,18 +1,10 @@
 {
   "code": "CGC",
   "ticker": "CGC",
-  "last_updated": "2026-07-29 07:23:14",
+  "last_updated": "2026-07-30 07:23:06",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 198.1,
-      "high": 201.0,
-      "low": 192.8,
-      "close": 195.4,
-      "volume": 288240
-    },
     {
       "date": "2021-07-30",
       "open": 194.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2655696
+      "open": 0.92,
+      "high": 0.93,
+      "low": 0.89,
+      "close": 0.89,
+      "volume": 2776300
+    },
+    {
+      "date": "2026-07-29",
+      "open": 0.89,
+      "high": 0.9,
+      "low": 0.86,
+      "close": 0.89,
+      "volume": 3147600
     }
   ]
 }

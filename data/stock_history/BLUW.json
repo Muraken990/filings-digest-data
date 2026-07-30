@@ -1,9 +1,9 @@
 {
   "code": "BLUW",
   "ticker": "BLUW",
-  "last_updated": "2026-07-29 07:17:17",
+  "last_updated": "2026-07-30 07:17:05",
   "period": "5y",
-  "data_points": 248,
+  "data_points": 250,
   "data": [
     {
       "date": "2025-07-31",
@@ -1974,6 +1974,14 @@
       "volume": 25000
     },
     {
+      "date": "2026-07-24",
+      "open": 10.34,
+      "high": 10.34,
+      "low": 10.34,
+      "close": 10.34,
+      "volume": 10800
+    },
+    {
       "date": "2026-07-27",
       "open": 10.34,
       "high": 10.35,
@@ -1983,11 +1991,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 26446
+      "open": 10.35,
+      "high": 10.35,
+      "low": 10.34,
+      "close": 10.35,
+      "volume": 26400
+    },
+    {
+      "date": "2026-07-29",
+      "open": 10.36,
+      "high": 10.36,
+      "low": 10.35,
+      "close": 10.36,
+      "volume": 26000
     }
   ]
 }

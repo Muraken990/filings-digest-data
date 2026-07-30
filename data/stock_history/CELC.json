@@ -1,18 +1,10 @@
 {
   "code": "CELC",
   "ticker": "CELC",
-  "last_updated": "2026-07-29 07:22:25",
+  "last_updated": "2026-07-30 07:22:17",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 20.99,
-      "high": 22.37,
-      "low": 20.99,
-      "close": 21.29,
-      "volume": 66500
-    },
     {
       "date": "2021-07-30",
       "open": 20.97,
@@ -10014,6 +10006,14 @@
       "volume": 1751800
     },
     {
+      "date": "2026-07-24",
+      "open": 89.56,
+      "high": 89.56,
+      "low": 82.23,
+      "close": 82.62,
+      "volume": 1294400
+    },
+    {
       "date": "2026-07-27",
       "open": 83.3,
       "high": 85.05,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1771872
+      "open": 82.09,
+      "high": 82.98,
+      "low": 78.6,
+      "close": 82.46,
+      "volume": 1962100
+    },
+    {
+      "date": "2026-07-29",
+      "open": 82.77,
+      "high": 84.72,
+      "low": 80.3,
+      "close": 83.26,
+      "volume": 1371600
     }
   ]
 }

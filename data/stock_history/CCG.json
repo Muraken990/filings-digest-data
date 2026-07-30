@@ -1,9 +1,9 @@
 {
   "code": "CCG",
   "ticker": "CCG",
-  "last_updated": "2026-07-29 07:21:35",
+  "last_updated": "2026-07-30 07:21:26",
   "period": "5y",
-  "data_points": 715,
+  "data_points": 717,
   "data": [
     {
       "date": "2023-09-18",
@@ -5710,6 +5710,14 @@
       "volume": 14100
     },
     {
+      "date": "2026-07-24",
+      "open": 11.7,
+      "high": 12.73,
+      "low": 10.91,
+      "close": 12.3,
+      "volume": 12200
+    },
+    {
       "date": "2026-07-27",
       "open": 11.97,
       "high": 13.02,
@@ -5719,11 +5727,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 17467
+      "open": 12.05,
+      "high": 12.85,
+      "low": 11.8,
+      "close": 12.04,
+      "volume": 17500
+    },
+    {
+      "date": "2026-07-29",
+      "open": 11.4,
+      "high": 13.08,
+      "low": 11.03,
+      "close": 13.08,
+      "volume": 14500
     }
   ]
 }

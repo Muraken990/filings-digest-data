@@ -1,18 +1,10 @@
 {
   "code": "CHMI",
   "ticker": "CHMI",
-  "last_updated": "2026-07-29 07:23:17",
+  "last_updated": "2026-07-30 07:23:10",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 4.17,
-      "high": 4.23,
-      "low": 4.12,
-      "close": 4.14,
-      "volume": 105400
-    },
     {
       "date": "2021-07-30",
       "open": 4.14,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 158784
+      "open": 2.23,
+      "high": 2.25,
+      "low": 2.23,
+      "close": 2.23,
+      "volume": 159500
+    },
+    {
+      "date": "2026-07-29",
+      "open": 2.25,
+      "high": 2.25,
+      "low": 2.22,
+      "close": 2.24,
+      "volume": 200000
     }
   ]
 }

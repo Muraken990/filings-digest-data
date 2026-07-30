@@ -1,9 +1,9 @@
 {
   "code": "CDLR",
   "ticker": "CDLR",
-  "last_updated": "2026-07-29 07:22:23",
+  "last_updated": "2026-07-30 07:22:15",
   "period": "5y",
-  "data_points": 651,
+  "data_points": 653,
   "data": [
     {
       "date": "2023-12-19",
@@ -5198,6 +5198,14 @@
       "volume": 82100
     },
     {
+      "date": "2026-07-24",
+      "open": 23.05,
+      "high": 23.05,
+      "low": 22.6,
+      "close": 22.63,
+      "volume": 46700
+    },
+    {
       "date": "2026-07-27",
       "open": 22.61,
       "high": 22.61,
@@ -5207,11 +5215,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 77789
+      "open": 21.85,
+      "high": 21.85,
+      "low": 21.48,
+      "close": 21.58,
+      "volume": 85500
+    },
+    {
+      "date": "2026-07-29",
+      "open": 21.58,
+      "high": 21.64,
+      "low": 21.12,
+      "close": 21.17,
+      "volume": 124200
     }
   ]
 }

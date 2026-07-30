@@ -1,18 +1,10 @@
 {
   "code": "CGNT",
   "ticker": "CGNT",
-  "last_updated": "2026-07-29 07:23:14",
+  "last_updated": "2026-07-30 07:23:07",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 25.56,
-      "high": 26.64,
-      "low": 25.56,
-      "close": 26.2,
-      "volume": 365100
-    },
     {
       "date": "2021-07-30",
       "open": 26.05,
@@ -10014,6 +10006,14 @@
       "volume": 459500
     },
     {
+      "date": "2026-07-24",
+      "open": 8.31,
+      "high": 8.42,
+      "low": 8.23,
+      "close": 8.31,
+      "volume": 233900
+    },
+    {
       "date": "2026-07-27",
       "open": 8.5,
       "high": 8.8,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 454110
+      "open": 8.79,
+      "high": 8.98,
+      "low": 8.66,
+      "close": 8.92,
+      "volume": 466200
+    },
+    {
+      "date": "2026-07-29",
+      "open": 8.92,
+      "high": 9.15,
+      "low": 8.83,
+      "close": 8.88,
+      "volume": 288700
     }
   ]
 }

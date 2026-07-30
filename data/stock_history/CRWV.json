@@ -1,9 +1,9 @@
 {
   "code": "CRWV",
   "ticker": "CRWV",
-  "last_updated": "2026-07-29 07:27:34",
+  "last_updated": "2026-07-30 07:27:29",
   "period": "5y",
-  "data_points": 334,
+  "data_points": 335,
   "data": [
     {
       "date": "2025-03-28",
@@ -2671,11 +2671,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 29426827
+      "open": 68.97,
+      "high": 69.18,
+      "low": 64.63,
+      "close": 67.3,
+      "volume": 29855900
+    },
+    {
+      "date": "2026-07-29",
+      "open": 66.67,
+      "high": 66.89,
+      "low": 60.55,
+      "close": 60.82,
+      "volume": 36594400
     }
   ]
 }

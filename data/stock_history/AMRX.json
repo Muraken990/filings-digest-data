@@ -1,18 +1,10 @@
 {
   "code": "AMRX",
   "ticker": "AMRX",
-  "last_updated": "2026-07-29 07:08:46",
+  "last_updated": "2026-07-30 07:08:31",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 5.02,
-      "high": 5.07,
-      "low": 4.86,
-      "close": 4.93,
-      "volume": 665200
-    },
     {
       "date": "2021-07-30",
       "open": 4.88,
@@ -10014,6 +10006,14 @@
       "volume": 2423800
     },
     {
+      "date": "2026-07-24",
+      "open": 18.08,
+      "high": 18.19,
+      "low": 17.83,
+      "close": 17.92,
+      "volume": 1156500
+    },
+    {
       "date": "2026-07-27",
       "open": 18.06,
       "high": 18.19,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1730499
+      "open": 18.59,
+      "high": 18.81,
+      "low": 18.25,
+      "close": 18.76,
+      "volume": 1764200
+    },
+    {
+      "date": "2026-07-29",
+      "open": 18.84,
+      "high": 19.26,
+      "low": 18.8,
+      "close": 19.1,
+      "volume": 1969500
     }
   ]
 }

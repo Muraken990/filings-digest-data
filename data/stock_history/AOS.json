@@ -1,17 +1,17 @@
 {
   "code": "AOS",
   "ticker": "AOS",
-  "last_updated": "2026-07-29 07:09:36",
+  "last_updated": "2026-07-30 07:09:22",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-29",
-      "open": 64.09,
-      "high": 64.71,
-      "low": 62.04,
-      "close": 64.48,
-      "volume": 979100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-30",
@@ -5385,7 +5385,7 @@
       "date": "2024-04-02",
       "open": 84.97,
       "high": 85.15,
-      "low": 84.19,
+      "low": 84.18,
       "close": 84.82,
       "volume": 921100
     },
@@ -7192,7 +7192,7 @@
     {
       "date": "2025-02-26",
       "open": 65.3,
-      "high": 65.72,
+      "high": 65.71,
       "low": 64.41,
       "close": 64.47,
       "volume": 1091100
@@ -10036,6 +10036,14 @@
       "low": 62.96,
       "close": 64.01,
       "volume": 1634300
+    },
+    {
+      "date": "2026-07-29",
+      "open": 63.36,
+      "high": 63.61,
+      "low": 61.47,
+      "close": 62.04,
+      "volume": 2500400
     }
   ]
 }

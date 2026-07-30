@@ -1,9 +1,9 @@
 {
   "code": "AEAQ",
   "ticker": "AEAQ",
-  "last_updated": "2026-07-29 07:05:20",
+  "last_updated": "2026-07-30 07:05:03",
   "period": "5y",
-  "data_points": 126,
+  "data_points": 128,
   "data": [
     {
       "date": "2026-01-26",
@@ -998,6 +998,14 @@
       "volume": 0
     },
     {
+      "date": "2026-07-24",
+      "open": 10.01,
+      "high": 10.01,
+      "low": 10.01,
+      "close": 10.01,
+      "volume": 0
+    },
+    {
       "date": "2026-07-27",
       "open": 10.01,
       "high": 10.01,
@@ -1007,11 +1015,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6914
+      "open": 10.01,
+      "high": 10.01,
+      "low": 10.01,
+      "close": 10.01,
+      "volume": 6900
+    },
+    {
+      "date": "2026-07-29",
+      "open": 10.02,
+      "high": 10.03,
+      "low": 10.02,
+      "close": 10.03,
+      "volume": 652000
     }
   ]
 }

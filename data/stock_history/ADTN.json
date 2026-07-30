@@ -1,18 +1,10 @@
 {
   "code": "ADTN",
   "ticker": "ADTN",
-  "last_updated": "2026-07-29 07:05:19",
+  "last_updated": "2026-07-30 07:05:02",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 21.16,
-      "high": 21.65,
-      "low": 21.07,
-      "close": 21.45,
-      "volume": 200300
-    },
     {
       "date": "2021-07-30",
       "open": 21.24,
@@ -10014,6 +10006,14 @@
       "volume": 1967800
     },
     {
+      "date": "2026-07-24",
+      "open": 10.17,
+      "high": 10.22,
+      "low": 9.79,
+      "close": 9.85,
+      "volume": 2001500
+    },
+    {
       "date": "2026-07-27",
       "open": 9.8,
       "high": 9.86,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2207684
+      "open": 9.27,
+      "high": 9.28,
+      "low": 8.47,
+      "close": 9.01,
+      "volume": 2209300
+    },
+    {
+      "date": "2026-07-29",
+      "open": 8.94,
+      "high": 9.04,
+      "low": 8.19,
+      "close": 8.33,
+      "volume": 2601100
     }
   ]
 }

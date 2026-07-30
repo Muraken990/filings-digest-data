@@ -1,18 +1,10 @@
 {
   "code": "ADMA",
   "ticker": "ADMA",
-  "last_updated": "2026-07-29 07:05:18",
+  "last_updated": "2026-07-30 07:05:01",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 1.61,
-      "high": 1.63,
-      "low": 1.57,
-      "close": 1.61,
-      "volume": 725900
-    },
     {
       "date": "2021-07-30",
       "open": 1.59,
@@ -10014,6 +10006,14 @@
       "volume": 2617500
     },
     {
+      "date": "2026-07-24",
+      "open": 8.4,
+      "high": 8.47,
+      "low": 8.16,
+      "close": 8.27,
+      "volume": 2340900
+    },
+    {
       "date": "2026-07-27",
       "open": 8.38,
       "high": 8.62,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2108073
+      "open": 8.57,
+      "high": 8.8,
+      "low": 8.49,
+      "close": 8.79,
+      "volume": 2171900
+    },
+    {
+      "date": "2026-07-29",
+      "open": 8.71,
+      "high": 8.88,
+      "low": 8.6,
+      "close": 8.71,
+      "volume": 2185300
     }
   ]
 }

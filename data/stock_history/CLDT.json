@@ -1,18 +1,10 @@
 {
   "code": "CLDT",
   "ticker": "CLDT",
-  "last_updated": "2026-07-29 07:24:09",
+  "last_updated": "2026-07-30 07:24:02",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 10.68,
-      "high": 10.88,
-      "low": 10.59,
-      "close": 10.75,
-      "volume": 228700
-    },
     {
       "date": "2021-07-30",
       "open": 10.72,
@@ -10014,6 +10006,14 @@
       "volume": 390500
     },
     {
+      "date": "2026-07-24",
+      "open": 13.4,
+      "high": 13.59,
+      "low": 13.3,
+      "close": 13.5,
+      "volume": 392500
+    },
+    {
       "date": "2026-07-27",
       "open": 13.34,
       "high": 13.84,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 245112
+      "open": 13.85,
+      "high": 13.88,
+      "low": 13.43,
+      "close": 13.67,
+      "volume": 307900
+    },
+    {
+      "date": "2026-07-29",
+      "open": 13.69,
+      "high": 13.83,
+      "low": 13.46,
+      "close": 13.54,
+      "volume": 232900
     }
   ]
 }

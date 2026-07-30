@@ -1,9 +1,9 @@
 {
   "code": "AACB",
   "ticker": "AACB",
-  "last_updated": "2026-07-29 07:03:35",
+  "last_updated": "2026-07-30 07:03:18",
   "period": "5y",
-  "data_points": 327,
+  "data_points": 329,
   "data": [
     {
       "date": "2025-04-07",
@@ -2606,6 +2606,14 @@
       "volume": 5400
     },
     {
+      "date": "2026-07-24",
+      "open": 10.5,
+      "high": 10.54,
+      "low": 10.49,
+      "close": 10.51,
+      "volume": 21000
+    },
+    {
       "date": "2026-07-27",
       "open": 10.51,
       "high": 10.51,
@@ -2615,11 +2623,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 33300
+      "open": 10.56,
+      "high": 10.56,
+      "low": 10.51,
+      "close": 10.55,
+      "volume": 33500
+    },
+    {
+      "date": "2026-07-29",
+      "open": 10.58,
+      "high": 10.58,
+      "low": 10.51,
+      "close": 10.53,
+      "volume": 155600
     }
   ]
 }

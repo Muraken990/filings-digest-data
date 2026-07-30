@@ -1,18 +1,10 @@
 {
   "code": "CAAP",
   "ticker": "CAAP",
-  "last_updated": "2026-07-29 07:19:54",
+  "last_updated": "2026-07-30 07:19:44",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 5.57,
-      "high": 5.61,
-      "low": 5.45,
-      "close": 5.58,
-      "volume": 38600
-    },
     {
       "date": "2021-07-30",
       "open": 5.58,
@@ -10014,6 +10006,14 @@
       "volume": 120000
     },
     {
+      "date": "2026-07-24",
+      "open": 25.04,
+      "high": 25.39,
+      "low": 24.8,
+      "close": 25.17,
+      "volume": 95100
+    },
+    {
       "date": "2026-07-27",
       "open": 25.55,
       "high": 26.46,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 117561
+      "open": 26.04,
+      "high": 26.46,
+      "low": 25.6,
+      "close": 26.1,
+      "volume": 129900
+    },
+    {
+      "date": "2026-07-29",
+      "open": 25.85,
+      "high": 26.23,
+      "low": 25.42,
+      "close": 25.53,
+      "volume": 88900
     }
   ]
 }

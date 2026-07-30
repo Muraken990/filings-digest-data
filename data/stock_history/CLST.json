@@ -1,9 +1,9 @@
 {
   "code": "CLST",
   "ticker": "CLST",
-  "last_updated": "2026-07-29 07:24:57",
+  "last_updated": "2026-07-30 07:24:50",
   "period": "5y",
-  "data_points": 1200,
+  "data_points": 1202,
   "data": [
     {
       "date": "2021-10-13",
@@ -9590,6 +9590,14 @@
       "volume": 700
     },
     {
+      "date": "2026-07-24",
+      "open": 16.6,
+      "high": 16.6,
+      "low": 16.6,
+      "close": 16.6,
+      "volume": 500
+    },
+    {
       "date": "2026-07-27",
       "open": 17.28,
       "high": 17.34,
@@ -9599,11 +9607,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3155
+      "open": 17.3,
+      "high": 17.4,
+      "low": 16.7,
+      "close": 16.9,
+      "volume": 3100
+    },
+    {
+      "date": "2026-07-29",
+      "open": 16.76,
+      "high": 16.8,
+      "low": 16.7,
+      "close": 16.7,
+      "volume": 4000
     }
   ]
 }

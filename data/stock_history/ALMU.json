@@ -1,9 +1,9 @@
 {
   "code": "ALMU",
   "ticker": "ALMU",
-  "last_updated": "2026-07-29 07:07:54",
+  "last_updated": "2026-07-30 07:07:38",
   "period": "5y",
-  "data_points": 855,
+  "data_points": 857,
   "data": [
     {
       "date": "2023-02-28",
@@ -6830,6 +6830,14 @@
       "volume": 268100
     },
     {
+      "date": "2026-07-24",
+      "open": 15.7,
+      "high": 15.7,
+      "low": 14.03,
+      "close": 14.22,
+      "volume": 396700
+    },
+    {
       "date": "2026-07-27",
       "open": 14.61,
       "high": 15.0,
@@ -6839,11 +6847,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 591925
+      "open": 14.81,
+      "high": 14.81,
+      "low": 13.26,
+      "close": 14.19,
+      "volume": 592000
+    },
+    {
+      "date": "2026-07-29",
+      "open": 15.38,
+      "high": 16.24,
+      "low": 14.35,
+      "close": 15.06,
+      "volume": 806700
     }
   ]
 }

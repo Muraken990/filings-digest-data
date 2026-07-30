@@ -1,9 +1,9 @@
 {
   "code": "ALF",
   "ticker": "ALF",
-  "last_updated": "2026-07-29 07:07:06",
+  "last_updated": "2026-07-30 07:06:50",
   "period": "5y",
-  "data_points": 497,
+  "data_points": 499,
   "data": [
     {
       "date": "2024-08-01",
@@ -3966,6 +3966,14 @@
       "volume": 0
     },
     {
+      "date": "2026-07-24",
+      "open": 10.88,
+      "high": 10.88,
+      "low": 10.88,
+      "close": 10.88,
+      "volume": 0
+    },
+    {
       "date": "2026-07-27",
       "open": 10.81,
       "high": 10.81,
@@ -3975,11 +3983,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 766
+      "open": 10.84,
+      "high": 10.84,
+      "low": 10.84,
+      "close": 10.84,
+      "volume": 800
+    },
+    {
+      "date": "2026-07-29",
+      "open": 10.84,
+      "high": 10.84,
+      "low": 10.84,
+      "close": 10.84,
+      "volume": 800
     }
   ]
 }

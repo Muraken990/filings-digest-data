@@ -1,18 +1,10 @@
 {
   "code": "BLKB",
   "ticker": "BLKB",
-  "last_updated": "2026-07-29 07:17:16",
+  "last_updated": "2026-07-30 07:17:04",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 71.82,
-      "high": 72.8,
-      "low": 71.82,
-      "close": 71.85,
-      "volume": 90800
-    },
     {
       "date": "2021-07-30",
       "open": 71.39,
@@ -10014,6 +10006,14 @@
       "volume": 678300
     },
     {
+      "date": "2026-07-24",
+      "open": 31.75,
+      "high": 33.25,
+      "low": 31.28,
+      "close": 32.71,
+      "volume": 630600
+    },
+    {
       "date": "2026-07-27",
       "open": 33.03,
       "high": 35.59,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1154431
+      "open": 35.0,
+      "high": 36.53,
+      "low": 34.87,
+      "close": 35.93,
+      "volume": 1216700
+    },
+    {
+      "date": "2026-07-29",
+      "open": 36.97,
+      "high": 44.34,
+      "low": 36.61,
+      "close": 42.18,
+      "volume": 1782300
     }
   ]
 }
