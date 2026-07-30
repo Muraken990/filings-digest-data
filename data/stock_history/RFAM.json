@@ -1,9 +1,9 @@
 {
   "code": "RFAM",
   "ticker": "RFAM",
-  "last_updated": "2026-07-29 12:10:15",
+  "last_updated": "2026-07-30 12:08:42",
   "period": "5y",
-  "data_points": 104,
+  "data_points": 106,
   "data": [
     {
       "date": "2026-02-26",
@@ -822,6 +822,14 @@
       "volume": 0
     },
     {
+      "date": "2026-07-24",
+      "open": 9.9,
+      "high": 9.9,
+      "low": 9.9,
+      "close": 9.9,
+      "volume": 0
+    },
+    {
       "date": "2026-07-27",
       "open": 9.9,
       "high": 9.9,
@@ -831,11 +839,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 116
+      "open": 9.89,
+      "high": 9.89,
+      "low": 9.89,
+      "close": 9.89,
+      "volume": 100
+    },
+    {
+      "date": "2026-07-29",
+      "open": 9.89,
+      "high": 9.89,
+      "low": 9.89,
+      "close": 9.89,
+      "volume": 0
     }
   ]
 }

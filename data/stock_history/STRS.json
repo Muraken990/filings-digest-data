@@ -1,18 +1,10 @@
 {
   "code": "STRS",
   "ticker": "STRS",
-  "last_updated": "2026-07-29 12:19:49",
+  "last_updated": "2026-07-30 12:18:19",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 21.55,
-      "high": 21.79,
-      "low": 21.3,
-      "close": 21.52,
-      "volume": 13300
-    },
     {
       "date": "2021-07-30",
       "open": 21.35,
@@ -10014,6 +10006,14 @@
       "volume": 97600
     },
     {
+      "date": "2026-07-24",
+      "open": 19.89,
+      "high": 19.93,
+      "low": 19.57,
+      "close": 19.82,
+      "volume": 73400
+    },
+    {
       "date": "2026-07-27",
       "open": 19.82,
       "high": 20.1,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 32540
+      "open": 20.2,
+      "high": 20.2,
+      "low": 19.58,
+      "close": 19.58,
+      "volume": 32800
+    },
+    {
+      "date": "2026-07-29",
+      "open": 19.5,
+      "high": 19.78,
+      "low": 18.85,
+      "close": 19.4,
+      "volume": 113200
     }
   ]
 }

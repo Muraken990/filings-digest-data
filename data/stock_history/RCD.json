@@ -1,9 +1,9 @@
 {
   "code": "RCD",
   "ticker": "RCD",
-  "last_updated": "2026-07-29 12:08:37",
+  "last_updated": "2026-07-30 12:07:03",
   "period": "5y",
-  "data_points": 399,
+  "data_points": 401,
   "data": [
     {
       "date": "2024-12-19",
@@ -903,8 +903,8 @@
     },
     {
       "date": "2025-06-04",
-      "open": 20.81,
-      "high": 20.81,
+      "open": 20.8,
+      "high": 20.8,
       "low": 20.71,
       "close": 20.75,
       "volume": 5100
@@ -3182,6 +3182,14 @@
       "volume": 15600
     },
     {
+      "date": "2026-07-24",
+      "open": 23.15,
+      "high": 23.24,
+      "low": 23.14,
+      "close": 23.2,
+      "volume": 4600
+    },
+    {
       "date": "2026-07-27",
       "open": 23.29,
       "high": 23.29,
@@ -3191,11 +3199,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 16026
+      "open": 23.25,
+      "high": 23.25,
+      "low": 23.08,
+      "close": 23.18,
+      "volume": 16000
+    },
+    {
+      "date": "2026-07-29",
+      "open": 23.05,
+      "high": 23.23,
+      "low": 22.95,
+      "close": 23.03,
+      "volume": 36800
     }
   ]
 }

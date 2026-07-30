@@ -1,18 +1,10 @@
 {
   "code": "PRE",
   "ticker": "PRE",
-  "last_updated": "2026-07-29 12:06:02",
+  "last_updated": "2026-07-30 12:04:26",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 112.21,
-      "high": 112.21,
-      "low": 112.21,
-      "close": 112.21,
-      "volume": 0
-    },
     {
       "date": "2021-07-30",
       "open": 112.21,
@@ -10014,6 +10006,14 @@
       "volume": 258900
     },
     {
+      "date": "2026-07-24",
+      "open": 19.16,
+      "high": 19.99,
+      "low": 18.51,
+      "close": 18.74,
+      "volume": 149200
+    },
+    {
       "date": "2026-07-27",
       "open": 18.91,
       "high": 20.69,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 118014
+      "open": 18.68,
+      "high": 18.68,
+      "low": 17.5,
+      "close": 18.26,
+      "volume": 119100
+    },
+    {
+      "date": "2026-07-29",
+      "open": 18.25,
+      "high": 19.2,
+      "low": 17.78,
+      "close": 18.02,
+      "volume": 77600
     }
   ]
 }

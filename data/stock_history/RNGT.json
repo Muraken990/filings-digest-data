@@ -1,9 +1,9 @@
 {
   "code": "RNGT",
   "ticker": "RNGT",
-  "last_updated": "2026-07-29 12:11:11",
+  "last_updated": "2026-07-30 12:09:38",
   "period": "5y",
-  "data_points": 167,
+  "data_points": 169,
   "data": [
     {
       "date": "2025-11-24",
@@ -1326,6 +1326,14 @@
       "volume": 0
     },
     {
+      "date": "2026-07-24",
+      "open": 10.12,
+      "high": 10.12,
+      "low": 10.12,
+      "close": 10.12,
+      "volume": 0
+    },
+    {
       "date": "2026-07-27",
       "open": 10.12,
       "high": 10.12,
@@ -1335,11 +1343,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 867
+      "open": 10.11,
+      "high": 10.11,
+      "low": 10.11,
+      "close": 10.11,
+      "volume": 900
+    },
+    {
+      "date": "2026-07-29",
+      "open": 10.11,
+      "high": 10.11,
+      "low": 10.11,
+      "close": 10.11,
+      "volume": 0
     }
   ]
 }

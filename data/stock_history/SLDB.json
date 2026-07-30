@@ -1,18 +1,10 @@
 {
   "code": "SLDB",
   "ticker": "SLDB",
-  "last_updated": "2026-07-29 12:16:19",
+  "last_updated": "2026-07-30 12:14:50",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 42.9,
-      "high": 44.7,
-      "low": 41.03,
-      "close": 41.7,
-      "volume": 30173
-    },
     {
       "date": "2021-07-30",
       "open": 41.1,
@@ -10014,6 +10006,14 @@
       "volume": 957300
     },
     {
+      "date": "2026-07-24",
+      "open": 8.07,
+      "high": 8.09,
+      "low": 7.7,
+      "close": 7.83,
+      "volume": 1088300
+    },
+    {
       "date": "2026-07-27",
       "open": 8.01,
       "high": 8.4,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1233408
+      "open": 7.89,
+      "high": 8.03,
+      "low": 7.65,
+      "close": 7.97,
+      "volume": 1235100
+    },
+    {
+      "date": "2026-07-29",
+      "open": 7.96,
+      "high": 8.38,
+      "low": 7.86,
+      "close": 8.04,
+      "volume": 905000
     }
   ]
 }

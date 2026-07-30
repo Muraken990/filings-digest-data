@@ -1,9 +1,9 @@
 {
   "code": "Q",
   "ticker": "Q",
-  "last_updated": "2026-07-29 12:07:43",
+  "last_updated": "2026-07-30 12:06:09",
   "period": "5y",
-  "data_points": 187,
+  "data_points": 189,
   "data": [
     {
       "date": "2025-10-27",
@@ -1486,6 +1486,14 @@
       "volume": 1040500
     },
     {
+      "date": "2026-07-24",
+      "open": 137.5,
+      "high": 139.71,
+      "low": 134.09,
+      "close": 135.06,
+      "volume": 1627800
+    },
+    {
       "date": "2026-07-27",
       "open": 136.0,
       "high": 136.07,
@@ -1495,11 +1503,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2784301
+      "open": 127.18,
+      "high": 128.88,
+      "low": 123.72,
+      "close": 127.89,
+      "volume": 3075400
+    },
+    {
+      "date": "2026-07-29",
+      "open": 127.55,
+      "high": 129.14,
+      "low": 122.67,
+      "close": 123.39,
+      "volume": 3296100
     }
   ]
 }

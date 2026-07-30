@@ -1,18 +1,10 @@
 {
   "code": "VYNE",
   "ticker": "VYNE",
-  "last_updated": "2026-07-29 12:30:59",
+  "last_updated": "2026-07-30 12:29:30",
   "period": "5y",
-  "data_points": 1249,
+  "data_points": 1250,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 49.68,
-      "high": 51.03,
-      "low": 48.06,
-      "close": 50.22,
-      "volume": 30857
-    },
     {
       "date": "2021-07-30",
       "open": 49.32,
@@ -9990,12 +9982,28 @@
       "volume": 0
     },
     {
+      "date": "2026-07-23",
+      "open": 43.72,
+      "high": 46.95,
+      "low": 40.91,
+      "close": 46.17,
+      "volume": 19759
+    },
+    {
+      "date": "2026-07-24",
+      "open": 24.33,
+      "high": 27.44,
+      "low": 23.5,
+      "close": 25.45,
+      "volume": 59063
+    },
+    {
       "date": "2026-07-27",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
+      "open": 25.5,
+      "high": 28.4,
+      "low": 23.37,
+      "close": 27.85,
+      "volume": 93251
     }
   ]
 }

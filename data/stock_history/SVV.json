@@ -1,9 +1,9 @@
 {
   "code": "SVV",
   "ticker": "SVV",
-  "last_updated": "2026-07-29 12:20:38",
+  "last_updated": "2026-07-30 12:19:09",
   "period": "5y",
-  "data_points": 771,
+  "data_points": 773,
   "data": [
     {
       "date": "2023-06-29",
@@ -6158,6 +6158,14 @@
       "volume": 866600
     },
     {
+      "date": "2026-07-24",
+      "open": 9.03,
+      "high": 9.24,
+      "low": 8.93,
+      "close": 9.11,
+      "volume": 768800
+    },
+    {
       "date": "2026-07-27",
       "open": 9.05,
       "high": 9.66,
@@ -6167,11 +6175,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 726579
+      "open": 9.77,
+      "high": 10.28,
+      "low": 9.6,
+      "close": 10.25,
+      "volume": 955900
+    },
+    {
+      "date": "2026-07-29",
+      "open": 10.14,
+      "high": 10.17,
+      "low": 9.84,
+      "close": 9.95,
+      "volume": 602000
     }
   ]
 }

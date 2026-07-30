@@ -1,18 +1,10 @@
 {
   "code": "TCMD",
   "ticker": "TCMD",
-  "last_updated": "2026-07-29 12:21:32",
+  "last_updated": "2026-07-30 12:20:03",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 48.6,
-      "high": 49.93,
-      "low": 48.58,
-      "close": 49.22,
-      "volume": 63500
-    },
     {
       "date": "2021-07-30",
       "open": 49.11,
@@ -10014,6 +10006,14 @@
       "volume": 170500
     },
     {
+      "date": "2026-07-24",
+      "open": 27.85,
+      "high": 27.99,
+      "low": 27.37,
+      "close": 27.48,
+      "volume": 197000
+    },
+    {
       "date": "2026-07-27",
       "open": 27.78,
       "high": 28.15,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 294014
+      "open": 27.96,
+      "high": 28.38,
+      "low": 27.62,
+      "close": 27.74,
+      "volume": 299300
+    },
+    {
+      "date": "2026-07-29",
+      "open": 27.56,
+      "high": 28.56,
+      "low": 27.28,
+      "close": 27.4,
+      "volume": 272200
     }
   ]
 }

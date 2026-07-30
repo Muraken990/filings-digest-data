@@ -1,17 +1,17 @@
 {
   "code": "SQFTP",
   "ticker": "SQFTP",
-  "last_updated": "2026-07-29 12:18:53",
+  "last_updated": "2026-07-30 12:17:24",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-29",
-      "open": 13.75,
-      "high": 13.88,
-      "low": 13.75,
-      "close": 13.83,
-      "volume": 4900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-30",
@@ -10036,6 +10036,14 @@
       "low": 5.83,
       "close": 5.83,
       "volume": 600
+    },
+    {
+      "date": "2026-07-29",
+      "open": 5.83,
+      "high": 5.83,
+      "low": 5.83,
+      "close": 5.83,
+      "volume": 0
     }
   ]
 }

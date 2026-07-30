@@ -1,18 +1,10 @@
 {
   "code": "SMC",
   "ticker": "SMC",
-  "last_updated": "2026-07-29 12:17:09",
+  "last_updated": "2026-07-30 12:15:39",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 38.42,
-      "high": 38.49,
-      "low": 37.08,
-      "close": 37.99,
-      "volume": 24200
-    },
     {
       "date": "2021-07-30",
       "open": 37.86,
@@ -10014,6 +10006,14 @@
       "volume": 30800
     },
     {
+      "date": "2026-07-24",
+      "open": 30.37,
+      "high": 30.88,
+      "low": 30.27,
+      "close": 30.5,
+      "volume": 32700
+    },
+    {
       "date": "2026-07-27",
       "open": 30.52,
       "high": 30.52,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 35389
+      "open": 29.7,
+      "high": 29.98,
+      "low": 29.61,
+      "close": 29.85,
+      "volume": 40200
+    },
+    {
+      "date": "2026-07-29",
+      "open": 30.32,
+      "high": 32.0,
+      "low": 29.72,
+      "close": 30.37,
+      "volume": 133300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "PMTR",
   "ticker": "PMTR",
-  "last_updated": "2026-07-29 12:05:10",
+  "last_updated": "2026-07-30 12:03:34",
   "period": "5y",
-  "data_points": 276,
+  "data_points": 278,
   "data": [
     {
       "date": "2025-06-20",
@@ -2198,6 +2198,14 @@
       "volume": 0
     },
     {
+      "date": "2026-07-24",
+      "open": 10.43,
+      "high": 10.43,
+      "low": 10.41,
+      "close": 10.43,
+      "volume": 60600
+    },
+    {
       "date": "2026-07-27",
       "open": 10.4,
       "high": 10.42,
@@ -2207,11 +2215,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 11779
+      "open": 10.39,
+      "high": 10.4,
+      "low": 10.39,
+      "close": 10.4,
+      "volume": 11800
+    },
+    {
+      "date": "2026-07-29",
+      "open": 10.44,
+      "high": 10.44,
+      "low": 10.39,
+      "close": 10.4,
+      "volume": 74600
     }
   ]
 }

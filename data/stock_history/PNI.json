@@ -1,18 +1,10 @@
 {
   "code": "PNI",
   "ticker": "PNI",
-  "last_updated": "2026-07-29 12:05:12",
+  "last_updated": "2026-07-30 12:03:36",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": 9.35,
-      "high": 9.44,
-      "low": 9.35,
-      "close": 9.42,
-      "volume": 14500
-    },
     {
       "date": "2021-07-30",
       "open": 9.36,
@@ -81,8 +73,8 @@
       "date": "2021-08-11",
       "open": 9.45,
       "high": 9.46,
-      "low": 9.32,
-      "close": 9.32,
+      "low": 9.31,
+      "close": 9.31,
       "volume": 23900
     },
     {
@@ -167,16 +159,16 @@
     },
     {
       "date": "2021-08-26",
-      "open": 9.32,
+      "open": 9.31,
       "high": 9.35,
       "low": 9.27,
-      "close": 9.32,
+      "close": 9.31,
       "volume": 22900
     },
     {
       "date": "2021-08-27",
       "open": 9.29,
-      "high": 9.31,
+      "high": 9.32,
       "low": 9.25,
       "close": 9.25,
       "volume": 19200
@@ -10014,6 +10006,14 @@
       "volume": 33100
     },
     {
+      "date": "2026-07-24",
+      "open": 6.86,
+      "high": 6.91,
+      "low": 6.82,
+      "close": 6.85,
+      "volume": 32700
+    },
+    {
       "date": "2026-07-27",
       "open": 6.88,
       "high": 6.88,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 34139
+      "open": 6.83,
+      "high": 6.86,
+      "low": 6.82,
+      "close": 6.85,
+      "volume": 34400
+    },
+    {
+      "date": "2026-07-29",
+      "open": 6.87,
+      "high": 6.87,
+      "low": 6.82,
+      "close": 6.85,
+      "volume": 67500
     }
   ]
 }

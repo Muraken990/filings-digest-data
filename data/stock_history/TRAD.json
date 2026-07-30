@@ -1,9 +1,9 @@
 {
   "code": "TRAD",
   "ticker": "TRAD",
-  "last_updated": "2026-07-29 12:24:07",
+  "last_updated": "2026-07-30 12:22:38",
   "period": "5y",
-  "data_points": 68,
+  "data_points": 70,
   "data": [
     {
       "date": "2026-04-20",
@@ -534,6 +534,14 @@
       "volume": 100
     },
     {
+      "date": "2026-07-24",
+      "open": 9.94,
+      "high": 9.94,
+      "low": 9.94,
+      "close": 9.94,
+      "volume": 5100
+    },
+    {
       "date": "2026-07-27",
       "open": 9.99,
       "high": 9.99,
@@ -543,11 +551,19 @@
     },
     {
       "date": "2026-07-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 956
+      "open": 9.93,
+      "high": 9.97,
+      "low": 9.93,
+      "close": 9.94,
+      "volume": 1000
+    },
+    {
+      "date": "2026-07-29",
+      "open": 9.94,
+      "high": 9.94,
+      "low": 9.94,
+      "close": 9.94,
+      "volume": 0
     }
   ]
 }

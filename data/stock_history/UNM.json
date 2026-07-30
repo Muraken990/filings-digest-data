@@ -1,17 +1,17 @@
 {
   "code": "UNM",
   "ticker": "UNM",
-  "last_updated": "2026-07-29 12:27:30",
+  "last_updated": "2026-07-30 12:26:01",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-29",
-      "open": 23.95,
-      "high": 24.2,
-      "low": 23.67,
-      "close": 23.78,
-      "volume": 1887100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-07-30",
@@ -9217,7 +9217,7 @@
       "date": "2026-03-02",
       "open": 70.66,
       "high": 71.84,
-      "low": 70.39,
+      "low": 70.4,
       "close": 71.26,
       "volume": 1654800
     },
@@ -10036,6 +10036,14 @@
       "low": 86.6,
       "close": 87.93,
       "volume": 1933600
+    },
+    {
+      "date": "2026-07-29",
+      "open": 83.5,
+      "high": 84.99,
+      "low": 82.12,
+      "close": 83.63,
+      "volume": 2760600
     }
   ]
 }
