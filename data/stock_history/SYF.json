@@ -1,17 +1,17 @@
 {
   "code": "SYF",
   "ticker": "SYF",
-  "last_updated": "2026-07-30 12:19:11",
+  "last_updated": "2026-07-31 12:20:32",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-30",
-      "open": 42.96,
-      "high": 43.84,
-      "low": 42.06,
-      "close": 42.25,
-      "volume": 9100400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-02",
@@ -24,7 +24,7 @@
     {
       "date": "2021-08-03",
       "open": 42.28,
-      "high": 42.43,
+      "high": 42.42,
       "low": 40.56,
       "close": 42.34,
       "volume": 5024000
@@ -6874,7 +6874,7 @@
       "open": 64.53,
       "high": 65.12,
       "low": 63.78,
-      "close": 64.24,
+      "close": 64.25,
       "volume": 1321600
     },
     {
@@ -7359,7 +7359,7 @@
     },
     {
       "date": "2025-03-28",
-      "open": 52.56,
+      "open": 52.57,
       "high": 53.01,
       "low": 50.77,
       "close": 51.28,
@@ -10036,6 +10036,14 @@
       "low": 74.86,
       "close": 74.97,
       "volume": 3605800
+    },
+    {
+      "date": "2026-07-30",
+      "open": 75.43,
+      "high": 77.39,
+      "low": 74.68,
+      "close": 77.17,
+      "volume": 4195200
     }
   ]
 }

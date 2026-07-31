@@ -1,9 +1,9 @@
 {
   "code": "QRED",
   "ticker": "QRED",
-  "last_updated": "2026-07-30 12:06:11",
+  "last_updated": "2026-07-31 12:07:39",
   "period": "5y",
-  "data_points": 57,
+  "data_points": 58,
   "data": [
     {
       "date": "2026-05-07",
@@ -460,6 +460,14 @@
       "low": 9.99,
       "close": 10.0,
       "volume": 9500
+    },
+    {
+      "date": "2026-07-30",
+      "open": 10.0,
+      "high": 10.0,
+      "low": 9.99,
+      "close": 10.0,
+      "volume": 85400
     }
   ]
 }

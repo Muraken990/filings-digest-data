@@ -1,9 +1,9 @@
 {
   "code": "UCAR",
   "ticker": "UCAR",
-  "last_updated": "2026-07-30 12:25:10",
+  "last_updated": "2026-07-31 12:26:31",
   "period": "5y",
-  "data_points": 821,
+  "data_points": 822,
   "data": [
     {
       "date": "2023-04-20",
@@ -6572,6 +6572,14 @@
       "low": 0.99,
       "close": 1.01,
       "volume": 65300
+    },
+    {
+      "date": "2026-07-30",
+      "open": 0.95,
+      "high": 1.04,
+      "low": 0.9,
+      "close": 1.01,
+      "volume": 213500
     }
   ]
 }

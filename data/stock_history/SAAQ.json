@@ -1,9 +1,9 @@
 {
   "code": "SAAQ",
   "ticker": "SAAQ",
-  "last_updated": "2026-07-30 12:11:22",
+  "last_updated": "2026-07-31 12:12:45",
   "period": "5y",
-  "data_points": 90,
+  "data_points": 91,
   "data": [
     {
       "date": "2026-03-20",
@@ -724,6 +724,14 @@
       "low": 10.15,
       "close": 10.2,
       "volume": 1800
+    },
+    {
+      "date": "2026-07-30",
+      "open": 10.2,
+      "high": 10.2,
+      "low": 10.2,
+      "close": 10.2,
+      "volume": 0
     }
   ]
 }
