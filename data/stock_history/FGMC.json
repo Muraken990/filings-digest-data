@@ -1,9 +1,9 @@
 {
   "code": "FGMC",
   "ticker": "FGMC",
-  "last_updated": "2026-07-30 07:39:29",
+  "last_updated": "2026-07-31 07:40:03",
   "period": "5y",
-  "data_points": 9,
+  "data_points": 10,
   "data": [
     {
       "date": "2026-07-17",
@@ -76,6 +76,14 @@
       "low": 4.08,
       "close": 4.98,
       "volume": 555500
+    },
+    {
+      "date": "2026-07-30",
+      "open": 4.79,
+      "high": 4.97,
+      "low": 4.48,
+      "close": 4.67,
+      "volume": 200300
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "AFBI",
   "ticker": "AFBI",
-  "last_updated": "2026-07-30 07:05:07",
+  "last_updated": "2026-07-31 07:05:51",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-30",
-      "open": 12.06,
-      "high": 12.15,
-      "low": 12.03,
-      "close": 12.15,
-      "volume": 6100
-    },
     {
       "date": "2021-08-02",
       "open": 12.15,
@@ -10036,6 +10028,14 @@
       "low": 22.98,
       "close": 22.99,
       "volume": 6000
+    },
+    {
+      "date": "2026-07-30",
+      "open": 22.99,
+      "high": 23.0,
+      "low": 22.98,
+      "close": 23.0,
+      "volume": 14500
     }
   ]
 }

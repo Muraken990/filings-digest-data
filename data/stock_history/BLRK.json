@@ -1,9 +1,9 @@
 {
   "code": "BLRK",
   "ticker": "BLRK",
-  "last_updated": "2026-07-30 07:17:04",
+  "last_updated": "2026-07-31 07:17:46",
   "period": "5y",
-  "data_points": 123,
+  "data_points": 124,
   "data": [
     {
       "date": "2026-02-02",
@@ -988,6 +988,14 @@
       "low": 10.07,
       "close": 10.07,
       "volume": 2600
+    },
+    {
+      "date": "2026-07-30",
+      "open": 10.1,
+      "high": 10.11,
+      "low": 10.1,
+      "close": 10.11,
+      "volume": 56700
     }
   ]
 }

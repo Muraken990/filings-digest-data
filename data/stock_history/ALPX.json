@@ -1,9 +1,9 @@
 {
   "code": "ALPX",
   "ticker": "ALPX",
-  "last_updated": "2026-07-30 07:07:39",
+  "last_updated": "2026-07-31 07:08:22",
   "period": "5y",
-  "data_points": 17,
+  "data_points": 18,
   "data": [
     {
       "date": "2026-07-07",
@@ -140,6 +140,14 @@
       "low": 9.85,
       "close": 9.87,
       "volume": 61000
+    },
+    {
+      "date": "2026-07-30",
+      "open": 9.89,
+      "high": 9.89,
+      "low": 9.88,
+      "close": 9.88,
+      "volume": 192700
     }
   ]
 }
