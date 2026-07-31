@@ -1,9 +1,9 @@
 {
   "code": "NBRG",
   "ticker": "NBRG",
-  "last_updated": "2026-07-30 09:58:24",
+  "last_updated": "2026-07-31 10:02:57",
   "period": "5y",
-  "data_points": 89,
+  "data_points": 90,
   "data": [
     {
       "date": "2026-03-23",
@@ -716,6 +716,14 @@
       "low": 9.97,
       "close": 9.97,
       "volume": 4000
+    },
+    {
+      "date": "2026-07-30",
+      "open": 9.98,
+      "high": 10.0,
+      "low": 9.98,
+      "close": 10.0,
+      "volume": 8400
     }
   ]
 }

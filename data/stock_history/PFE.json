@@ -1,26 +1,10 @@
 {
   "code": "PFE",
   "ticker": "PFE",
-  "last_updated": "2026-07-30 10:08:40",
+  "last_updated": "2026-07-31 10:13:11",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-07-29",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-07-30",
-      "open": 32.91,
-      "high": 33.15,
-      "low": 32.77,
-      "close": 32.86,
-      "volume": 24763300
-    },
     {
       "date": "2021-08-02",
       "open": 33.23,
@@ -399,7 +383,7 @@
     },
     {
       "date": "2021-10-07",
-      "open": 32.64,
+      "open": 32.63,
       "high": 32.97,
       "low": 32.4,
       "close": 32.8,
@@ -10043,7 +10027,15 @@
       "high": 25.37,
       "low": 25.06,
       "close": 25.15,
-      "volume": 30368900
+      "volume": 30395000
+    },
+    {
+      "date": "2026-07-30",
+      "open": 24.84,
+      "high": 24.98,
+      "low": 24.55,
+      "close": 24.91,
+      "volume": 44924600
     }
   ]
 }

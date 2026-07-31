@@ -1,9 +1,9 @@
 {
   "code": "LGPS",
   "ticker": "LGPS",
-  "last_updated": "2026-07-30 09:49:46",
+  "last_updated": "2026-07-31 09:54:19",
   "period": "5y",
-  "data_points": 338,
+  "data_points": 339,
   "data": [
     {
       "date": "2025-03-25",
@@ -2708,6 +2708,14 @@
       "low": 1.02,
       "close": 1.02,
       "volume": 29500
+    },
+    {
+      "date": "2026-07-30",
+      "open": 1.05,
+      "high": 1.06,
+      "low": 0.96,
+      "close": 1.0,
+      "volume": 69000
     }
   ]
 }

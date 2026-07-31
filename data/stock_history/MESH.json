@@ -1,9 +1,9 @@
 {
   "code": "MESH",
   "ticker": "MESH",
-  "last_updated": "2026-07-30 09:54:01",
+  "last_updated": "2026-07-31 09:58:35",
   "period": "5y",
-  "data_points": 124,
+  "data_points": 125,
   "data": [
     {
       "date": "2026-01-30",
@@ -996,6 +996,14 @@
       "low": 10.01,
       "close": 10.01,
       "volume": 6900
+    },
+    {
+      "date": "2026-07-30",
+      "open": 10.01,
+      "high": 10.02,
+      "low": 10.01,
+      "close": 10.01,
+      "volume": 575900
     }
   ]
 }

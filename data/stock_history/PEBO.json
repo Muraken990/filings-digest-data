@@ -1,17 +1,17 @@
 {
   "code": "PEBO",
   "ticker": "PEBO",
-  "last_updated": "2026-07-30 10:07:52",
+  "last_updated": "2026-07-31 10:12:23",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-30",
-      "open": 22.54,
-      "high": 23.07,
-      "low": 22.54,
-      "close": 22.94,
-      "volume": 179000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-02",
@@ -10036,6 +10036,14 @@
       "low": 41.83,
       "close": 42.0,
       "volume": 390100
+    },
+    {
+      "date": "2026-07-30",
+      "open": 41.87,
+      "high": 42.13,
+      "low": 41.51,
+      "close": 41.56,
+      "volume": 251000
     }
   ]
 }

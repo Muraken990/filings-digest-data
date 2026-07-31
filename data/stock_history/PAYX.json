@@ -1,17 +1,17 @@
 {
   "code": "PAYX",
   "ticker": "PAYX",
-  "last_updated": "2026-07-30 10:07:00",
+  "last_updated": "2026-07-31 10:11:31",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-07-30",
-      "open": 96.48,
-      "high": 97.62,
-      "low": 96.48,
-      "close": 97.46,
-      "volume": 1290000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-02",
@@ -585,7 +585,7 @@
       "date": "2021-11-10",
       "open": 105.89,
       "high": 106.76,
-      "low": 105.53,
+      "low": 105.54,
       "close": 105.98,
       "volume": 923100
     },
@@ -8552,7 +8552,7 @@
     {
       "date": "2025-10-30",
       "open": 112.8,
-      "high": 113.64,
+      "high": 113.63,
       "low": 111.89,
       "close": 112.28,
       "volume": 2476200
@@ -10036,6 +10036,14 @@
       "low": 118.87,
       "close": 122.13,
       "volume": 4863200
+    },
+    {
+      "date": "2026-07-30",
+      "open": 119.06,
+      "high": 119.29,
+      "low": 113.69,
+      "close": 116.33,
+      "volume": 3646700
     }
   ]
 }
