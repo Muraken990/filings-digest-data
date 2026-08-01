@@ -1,9 +1,9 @@
 {
   "code": "OIM",
   "ticker": "OIM",
-  "last_updated": "2026-07-31 10:08:55",
+  "last_updated": "2026-08-01 10:07:41",
   "period": "5y",
-  "data_points": 100,
+  "data_points": 101,
   "data": [
     {
       "date": "2026-03-09",
@@ -803,6 +803,14 @@
       "high": 10.13,
       "low": 10.12,
       "close": 10.12,
+      "volume": 400
+    },
+    {
+      "date": "2026-07-31",
+      "open": 10.11,
+      "high": 10.11,
+      "low": 10.11,
+      "close": 10.11,
       "volume": 400
     }
   ]

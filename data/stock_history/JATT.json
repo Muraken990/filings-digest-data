@@ -1,9 +1,9 @@
 {
   "code": "JATT",
   "ticker": "JATT",
-  "last_updated": "2026-07-31 09:49:11",
+  "last_updated": "2026-08-01 09:48:01",
   "period": "5y",
-  "data_points": 72,
+  "data_points": 73,
   "data": [
     {
       "date": "2026-04-17",
@@ -580,6 +580,14 @@
       "low": 11.52,
       "close": 12.3,
       "volume": 22400
+    },
+    {
+      "date": "2026-07-31",
+      "open": 12.2,
+      "high": 12.4,
+      "low": 12.06,
+      "close": 12.06,
+      "volume": 1400
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "OHI",
   "ticker": "OHI",
-  "last_updated": "2026-07-31 10:08:55",
+  "last_updated": "2026-08-01 10:07:41",
   "period": "5y",
   "data_points": 1255,
   "data": [
-    {
-      "date": "2021-07-30",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-08-02",
       "open": 24.95,
@@ -10044,6 +10036,14 @@
       "low": 49.76,
       "close": 50.4,
       "volume": 2291600
+    },
+    {
+      "date": "2026-07-31",
+      "open": 50.25,
+      "high": 50.86,
+      "low": 49.49,
+      "close": 50.63,
+      "volume": 2429200
     }
   ]
 }

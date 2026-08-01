@@ -1,9 +1,9 @@
 {
   "code": "LIFE",
   "ticker": "LIFE",
-  "last_updated": "2026-07-31 09:54:20",
+  "last_updated": "2026-08-01 09:53:09",
   "period": "5y",
-  "data_points": 126,
+  "data_points": 127,
   "data": [
     {
       "date": "2026-01-29",
@@ -1012,6 +1012,14 @@
       "low": 19.3,
       "close": 20.27,
       "volume": 802000
+    },
+    {
+      "date": "2026-07-31",
+      "open": 19.9,
+      "high": 20.91,
+      "low": 19.18,
+      "close": 20.42,
+      "volume": 1020400
     }
   ]
 }
