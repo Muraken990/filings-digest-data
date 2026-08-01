@@ -1,9 +1,9 @@
 {
   "code": "ADAC",
   "ticker": "ADAC",
-  "last_updated": "2026-07-31 07:04:59",
+  "last_updated": "2026-08-01 07:06:39",
   "period": "5y",
-  "data_points": 119,
+  "data_points": 120,
   "data": [
     {
       "date": "2026-02-09",
@@ -955,6 +955,14 @@
       "high": 10.1,
       "low": 10.1,
       "close": 10.1,
+      "volume": 200
+    },
+    {
+      "date": "2026-07-31",
+      "open": 10.04,
+      "high": 10.09,
+      "low": 10.04,
+      "close": 10.09,
       "volume": 200
     }
   ]

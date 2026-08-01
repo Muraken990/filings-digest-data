@@ -1,9 +1,9 @@
 {
   "code": "DETX",
   "ticker": "DETX",
-  "last_updated": "2026-07-31 07:30:42",
+  "last_updated": "2026-08-01 07:32:21",
   "period": "5y",
-  "data_points": 70,
+  "data_points": 71,
   "data": [
     {
       "date": "2026-04-21",
@@ -564,6 +564,14 @@
       "low": 3.06,
       "close": 3.11,
       "volume": 6900
+    },
+    {
+      "date": "2026-07-31",
+      "open": 3.12,
+      "high": 3.27,
+      "low": 3.03,
+      "close": 3.04,
+      "volume": 13800
     }
   ]
 }
