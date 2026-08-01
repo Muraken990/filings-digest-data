@@ -1,18 +1,10 @@
 {
   "code": "SPFI",
   "ticker": "SPFI",
-  "last_updated": "2026-07-31 12:17:56",
+  "last_updated": "2026-08-01 12:16:00",
   "period": "5y",
   "data_points": 1255,
   "data": [
-    {
-      "date": "2021-07-30",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-08-02",
       "open": 21.38,
@@ -10044,6 +10036,14 @@
       "low": 44.63,
       "close": 44.68,
       "volume": 118200
+    },
+    {
+      "date": "2026-07-31",
+      "open": 44.5,
+      "high": 45.02,
+      "low": 43.99,
+      "close": 44.84,
+      "volume": 100700
     }
   ]
 }

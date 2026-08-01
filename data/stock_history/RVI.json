@@ -1,9 +1,9 @@
 {
   "code": "RVI",
   "ticker": "RVI",
-  "last_updated": "2026-07-31 12:11:55",
+  "last_updated": "2026-08-01 12:09:58",
   "period": "5y",
-  "data_points": 101,
+  "data_points": 102,
   "data": [
     {
       "date": "2026-03-06",
@@ -812,6 +812,14 @@
       "low": 24.2,
       "close": 24.9,
       "volume": 339400
+    },
+    {
+      "date": "2026-07-31",
+      "open": 25.31,
+      "high": 25.43,
+      "low": 24.26,
+      "close": 24.81,
+      "volume": 185800
     }
   ]
 }

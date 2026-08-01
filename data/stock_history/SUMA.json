@@ -1,9 +1,9 @@
 {
   "code": "SUMA",
   "ticker": "SUMA",
-  "last_updated": "2026-07-31 12:20:27",
+  "last_updated": "2026-08-01 12:18:32",
   "period": "5y",
-  "data_points": 71,
+  "data_points": 72,
   "data": [
     {
       "date": "2026-04-20",
@@ -572,6 +572,14 @@
       "low": 9.91,
       "close": 9.92,
       "volume": 3000
+    },
+    {
+      "date": "2026-07-31",
+      "open": 9.92,
+      "high": 9.92,
+      "low": 9.87,
+      "close": 9.88,
+      "volume": 600
     }
   ]
 }

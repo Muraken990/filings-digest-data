@@ -1,9 +1,9 @@
 {
   "code": "YMAT",
   "ticker": "YMAT",
-  "last_updated": "2026-07-31 12:34:20",
+  "last_updated": "2026-08-01 12:32:27",
   "period": "5y",
-  "data_points": 252,
+  "data_points": 253,
   "data": [
     {
       "date": "2025-07-30",
@@ -2020,6 +2020,14 @@
       "low": 1.61,
       "close": 1.78,
       "volume": 42600
+    },
+    {
+      "date": "2026-07-31",
+      "open": 1.75,
+      "high": 2.15,
+      "low": 1.75,
+      "close": 1.88,
+      "volume": 532600
     }
   ]
 }

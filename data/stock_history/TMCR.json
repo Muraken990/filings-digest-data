@@ -1,9 +1,9 @@
 {
   "code": "TMCR",
   "ticker": "TMCR",
-  "last_updated": "2026-07-31 12:23:08",
+  "last_updated": "2026-08-01 12:21:13",
   "period": "5y",
-  "data_points": 79,
+  "data_points": 80,
   "data": [
     {
       "date": "2026-04-08",
@@ -636,6 +636,14 @@
       "low": 6.1,
       "close": 6.2,
       "volume": 76400
+    },
+    {
+      "date": "2026-07-31",
+      "open": 6.24,
+      "high": 6.55,
+      "low": 5.55,
+      "close": 5.85,
+      "volume": 148600
     }
   ]
 }
