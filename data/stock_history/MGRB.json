@@ -1,26 +1,10 @@
 {
   "code": "MGRB",
   "ticker": "MGRB",
-  "last_updated": "2026-08-03 09:55:51",
+  "last_updated": "2026-08-04 09:54:53",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 19.43,
-      "high": 19.49,
-      "low": 19.41,
-      "close": 19.43,
-      "volume": 12000
-    },
-    {
-      "date": "2021-08-03",
-      "open": 19.44,
-      "high": 19.51,
-      "low": 19.44,
-      "close": 19.5,
-      "volume": 26900
-    },
     {
       "date": "2021-08-04",
       "open": 19.47,
@@ -7616,7 +7600,7 @@
     {
       "date": "2025-05-15",
       "open": 15.52,
-      "high": 15.63,
+      "high": 15.62,
       "low": 15.41,
       "close": 15.51,
       "volume": 27400
@@ -10044,6 +10028,14 @@
       "low": 16.69,
       "close": 16.76,
       "volume": 59200
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 4222
     }
   ]
 }

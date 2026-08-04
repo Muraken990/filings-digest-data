@@ -1,26 +1,10 @@
 {
   "code": "ONCY",
   "ticker": "ONCY",
-  "last_updated": "2026-08-03 10:06:52",
+  "last_updated": "2026-08-04 10:05:57",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 2.31,
-      "high": 2.36,
-      "low": 2.27,
-      "close": 2.27,
-      "volume": 123000
-    },
-    {
-      "date": "2021-08-03",
-      "open": 2.28,
-      "high": 2.32,
-      "low": 2.21,
-      "close": 2.27,
-      "volume": 154900
-    },
     {
       "date": "2021-08-04",
       "open": 2.28,
@@ -10043,7 +10027,15 @@
       "high": 0.77,
       "low": 0.74,
       "close": 0.75,
-      "volume": 834300
+      "volume": 834900
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 742856
     }
   ]
 }

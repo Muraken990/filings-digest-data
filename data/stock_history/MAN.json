@@ -1,26 +1,10 @@
 {
   "code": "MAN",
   "ticker": "MAN",
-  "last_updated": "2026-08-03 09:54:07",
+  "last_updated": "2026-08-04 09:53:08",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 98.26,
-      "high": 99.09,
-      "low": 96.27,
-      "close": 96.49,
-      "volume": 422300
-    },
-    {
-      "date": "2021-08-03",
-      "open": 96.45,
-      "high": 96.98,
-      "low": 95.65,
-      "close": 96.58,
-      "volume": 296700
-    },
     {
       "date": "2021-08-04",
       "open": 95.65,
@@ -3393,7 +3377,7 @@
       "date": "2023-04-06",
       "open": 67.98,
       "high": 67.98,
-      "low": 67.02,
+      "low": 67.01,
       "close": 67.1,
       "volume": 383100
     },
@@ -10043,7 +10027,15 @@
       "high": 52.6,
       "low": 50.43,
       "close": 52.42,
-      "volume": 1470200
+      "volume": 1470700
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 864365
     }
   ]
 }

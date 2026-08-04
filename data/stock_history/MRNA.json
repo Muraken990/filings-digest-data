@@ -1,26 +1,10 @@
 {
   "code": "MRNA",
   "ticker": "MRNA",
-  "last_updated": "2026-08-03 09:58:22",
+  "last_updated": "2026-08-04 09:57:24",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 360.0,
-      "high": 365.6,
-      "low": 343.2,
-      "close": 346.61,
-      "volume": 13685900
-    },
-    {
-      "date": "2021-08-03",
-      "open": 348.5,
-      "high": 386.98,
-      "low": 344.5,
-      "close": 386.51,
-      "volume": 20424100
-    },
     {
       "date": "2021-08-04",
       "open": 385.0,
@@ -10043,7 +10027,15 @@
       "high": 59.49,
       "low": 54.71,
       "close": 54.82,
-      "volume": 7758700
+      "volume": 7764500
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 5172140
     }
   ]
 }

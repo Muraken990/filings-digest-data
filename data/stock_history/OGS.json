@@ -1,26 +1,10 @@
 {
   "code": "OGS",
   "ticker": "OGS",
-  "last_updated": "2026-08-03 10:06:02",
+  "last_updated": "2026-08-04 10:05:07",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 62.22,
-      "high": 63.0,
-      "low": 62.09,
-      "close": 62.41,
-      "volume": 179000
-    },
-    {
-      "date": "2021-08-03",
-      "open": 62.41,
-      "high": 63.26,
-      "low": 61.73,
-      "close": 62.89,
-      "volume": 186500
-    },
     {
       "date": "2021-08-04",
       "open": 61.71,
@@ -592,7 +576,7 @@
     {
       "date": "2021-11-12",
       "open": 57.22,
-      "high": 57.68,
+      "high": 57.69,
       "low": 56.98,
       "close": 57.11,
       "volume": 228600
@@ -10044,6 +10028,14 @@
       "low": 77.37,
       "close": 77.65,
       "volume": 580400
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 347469
     }
   ]
 }

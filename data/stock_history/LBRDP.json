@@ -1,26 +1,10 @@
 {
   "code": "LBRDP",
   "ticker": "LBRDP",
-  "last_updated": "2026-08-03 09:50:41",
+  "last_updated": "2026-08-04 09:49:42",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 19.55,
-      "high": 19.62,
-      "low": 19.47,
-      "close": 19.53,
-      "volume": 8300
-    },
-    {
-      "date": "2021-08-03",
-      "open": 19.67,
-      "high": 19.67,
-      "low": 19.47,
-      "close": 19.56,
-      "volume": 10700
-    },
     {
       "date": "2021-08-04",
       "open": 19.41,
@@ -10044,6 +10028,14 @@
       "low": 21.52,
       "close": 21.69,
       "volume": 12300
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3825
     }
   ]
 }

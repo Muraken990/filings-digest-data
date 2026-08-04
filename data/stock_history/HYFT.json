@@ -1,26 +1,10 @@
 {
   "code": "HYFT",
   "ticker": "HYFT",
-  "last_updated": "2026-08-03 09:42:10",
+  "last_updated": "2026-08-04 09:41:10",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 6.81,
-      "high": 7.1,
-      "low": 6.51,
-      "close": 6.66,
-      "volume": 455900
-    },
-    {
-      "date": "2021-08-03",
-      "open": 6.56,
-      "high": 7.62,
-      "low": 6.56,
-      "close": 7.12,
-      "volume": 1548100
-    },
     {
       "date": "2021-08-04",
       "open": 7.09,
@@ -10043,7 +10027,15 @@
       "high": 1.37,
       "low": 1.26,
       "close": 1.29,
-      "volume": 178600
+      "volume": 179200
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 136071
     }
   ]
 }

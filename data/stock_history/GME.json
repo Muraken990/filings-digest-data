@@ -1,26 +1,10 @@
 {
   "code": "GME",
   "ticker": "GME",
-  "last_updated": "2026-08-03 09:37:00",
+  "last_updated": "2026-08-04 09:35:58",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 40.5,
-      "high": 40.9,
-      "low": 38.76,
-      "close": 39.41,
-      "volume": 10131600
-    },
-    {
-      "date": "2021-08-03",
-      "open": 39.19,
-      "high": 39.72,
-      "low": 37.05,
-      "close": 38.19,
-      "volume": 57802400
-    },
     {
       "date": "2021-08-04",
       "open": 38.18,
@@ -10043,7 +10027,15 @@
       "high": 21.99,
       "low": 21.66,
       "close": 21.72,
-      "volume": 2496500
+      "volume": 2509300
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 41598573
     }
   ]
 }

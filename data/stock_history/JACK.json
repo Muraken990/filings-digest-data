@@ -1,26 +1,10 @@
 {
   "code": "JACK",
   "ticker": "JACK",
-  "last_updated": "2026-08-03 09:46:26",
+  "last_updated": "2026-08-04 09:45:26",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 98.8,
-      "high": 100.54,
-      "low": 97.38,
-      "close": 97.41,
-      "volume": 231900
-    },
-    {
-      "date": "2021-08-03",
-      "open": 97.55,
-      "high": 97.55,
-      "low": 93.37,
-      "close": 94.9,
-      "volume": 397300
-    },
     {
       "date": "2021-08-04",
       "open": 94.24,
@@ -1143,7 +1127,7 @@
     },
     {
       "date": "2022-02-23",
-      "open": 80.07,
+      "open": 80.06,
       "high": 82.16,
       "low": 78.54,
       "close": 79.24,
@@ -10044,6 +10028,14 @@
       "low": 16.08,
       "close": 16.37,
       "volume": 605200
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1245277
     }
   ]
 }

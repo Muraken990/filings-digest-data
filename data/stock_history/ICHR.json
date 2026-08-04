@@ -1,26 +1,10 @@
 {
   "code": "ICHR",
   "ticker": "ICHR",
-  "last_updated": "2026-08-03 09:43:00",
+  "last_updated": "2026-08-04 09:42:00",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 52.0,
-      "high": 53.2,
-      "low": 50.1,
-      "close": 50.23,
-      "volume": 269600
-    },
-    {
-      "date": "2021-08-03",
-      "open": 50.23,
-      "high": 50.5,
-      "low": 46.78,
-      "close": 47.57,
-      "volume": 637100
-    },
     {
       "date": "2021-08-04",
       "open": 47.59,
@@ -10043,7 +10027,15 @@
       "high": 83.18,
       "low": 75.17,
       "close": 75.27,
-      "volume": 1225400
+      "volume": 1234100
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1298296
     }
   ]
 }

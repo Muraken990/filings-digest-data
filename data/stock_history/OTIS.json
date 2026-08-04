@@ -1,26 +1,10 @@
 {
   "code": "OTIS",
   "ticker": "OTIS",
-  "last_updated": "2026-08-03 10:07:45",
+  "last_updated": "2026-08-04 10:06:50",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 82.81,
-      "high": 83.73,
-      "low": 82.81,
-      "close": 83.04,
-      "volume": 1441000
-    },
-    {
-      "date": "2021-08-03",
-      "open": 83.21,
-      "high": 84.79,
-      "low": 83.2,
-      "close": 84.29,
-      "volume": 1683700
-    },
     {
       "date": "2021-08-04",
       "open": 84.03,
@@ -418,7 +402,7 @@
       "open": 76.14,
       "high": 76.19,
       "low": 75.07,
-      "close": 75.26,
+      "close": 75.25,
       "volume": 1519300
     },
     {
@@ -2592,7 +2576,7 @@
     {
       "date": "2022-11-10",
       "open": 69.93,
-      "high": 71.43,
+      "high": 71.42,
       "low": 69.93,
       "close": 70.95,
       "volume": 2643400
@@ -10043,7 +10027,15 @@
       "high": 72.11,
       "low": 70.83,
       "close": 71.95,
-      "volume": 3383900
+      "volume": 3384500
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2223981
     }
   ]
 }

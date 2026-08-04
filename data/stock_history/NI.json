@@ -1,26 +1,10 @@
 {
   "code": "NI",
   "ticker": "NI",
-  "last_updated": "2026-08-03 10:01:47",
+  "last_updated": "2026-08-04 10:00:50",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 21.1,
-      "high": 21.47,
-      "low": 21.07,
-      "close": 21.36,
-      "volume": 3218200
-    },
-    {
-      "date": "2021-08-03",
-      "open": 21.47,
-      "high": 21.66,
-      "low": 21.28,
-      "close": 21.51,
-      "volume": 2861300
-    },
     {
       "date": "2021-08-04",
       "open": 21.43,
@@ -10043,7 +10027,15 @@
       "high": 44.96,
       "low": 44.43,
       "close": 44.43,
-      "volume": 4496800
+      "volume": 4497600
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3415451
     }
   ]
 }

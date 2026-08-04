@@ -1,26 +1,10 @@
 {
   "code": "HGV",
   "ticker": "HGV",
-  "last_updated": "2026-08-03 09:39:38",
+  "last_updated": "2026-08-04 09:38:37",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 41.14,
-      "high": 41.96,
-      "low": 39.99,
-      "close": 40.27,
-      "volume": 1136700
-    },
-    {
-      "date": "2021-08-03",
-      "open": 39.99,
-      "high": 40.24,
-      "low": 39.19,
-      "close": 39.98,
-      "volume": 2328600
-    },
     {
       "date": "2021-08-04",
       "open": 39.32,
@@ -10043,7 +10027,15 @@
       "high": 46.63,
       "low": 45.36,
       "close": 46.14,
-      "volume": 1417900
+      "volume": 1418800
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1554073
     }
   ]
 }

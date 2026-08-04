@@ -1,26 +1,10 @@
 {
   "code": "GRAB",
   "ticker": "GRAB",
-  "last_updated": "2026-08-03 09:37:51",
+  "last_updated": "2026-08-04 09:36:50",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 10.89,
-      "high": 10.96,
-      "low": 10.82,
-      "close": 10.86,
-      "volume": 267900
-    },
-    {
-      "date": "2021-08-03",
-      "open": 11.12,
-      "high": 11.16,
-      "low": 10.71,
-      "close": 10.82,
-      "volume": 284600
-    },
     {
       "date": "2021-08-04",
       "open": 10.92,
@@ -10043,7 +10027,15 @@
       "high": 3.51,
       "low": 3.4,
       "close": 3.5,
-      "volume": 42166700
+      "volume": 42223500
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 62819864
     }
   ]
 }

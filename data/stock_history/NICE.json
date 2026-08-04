@@ -1,26 +1,10 @@
 {
   "code": "NICE",
   "ticker": "NICE",
-  "last_updated": "2026-08-03 10:01:47",
+  "last_updated": "2026-08-04 10:00:50",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 277.56,
-      "high": 280.15,
-      "low": 274.77,
-      "close": 275.3,
-      "volume": 160500
-    },
-    {
-      "date": "2021-08-03",
-      "open": 276.11,
-      "high": 277.94,
-      "low": 274.28,
-      "close": 275.15,
-      "volume": 191200
-    },
     {
       "date": "2021-08-04",
       "open": 275.19,
@@ -10044,6 +10028,14 @@
       "low": 97.31,
       "close": 98.79,
       "volume": 389400
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 626779
     }
   ]
 }

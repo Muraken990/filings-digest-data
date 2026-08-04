@@ -1,26 +1,10 @@
 {
   "code": "PLAY",
   "ticker": "PLAY",
-  "last_updated": "2026-08-03 10:11:11",
+  "last_updated": "2026-08-04 10:10:17",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 33.99,
-      "high": 34.92,
-      "low": 32.9,
-      "close": 33.0,
-      "volume": 651700
-    },
-    {
-      "date": "2021-08-03",
-      "open": 33.4,
-      "high": 33.4,
-      "low": 31.45,
-      "close": 32.84,
-      "volume": 1216300
-    },
     {
       "date": "2021-08-04",
       "open": 32.83,
@@ -10044,6 +10028,14 @@
       "low": 10.55,
       "close": 10.84,
       "volume": 1089800
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2138922
     }
   ]
 }

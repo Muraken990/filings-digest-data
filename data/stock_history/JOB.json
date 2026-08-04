@@ -1,26 +1,10 @@
 {
   "code": "JOB",
   "ticker": "JOB",
-  "last_updated": "2026-08-03 09:47:18",
+  "last_updated": "2026-08-04 09:46:18",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 0.47,
-      "high": 0.47,
-      "low": 0.46,
-      "close": 0.46,
-      "volume": 1499800
-    },
-    {
-      "date": "2021-08-03",
-      "open": 0.46,
-      "high": 0.46,
-      "low": 0.44,
-      "close": 0.44,
-      "volume": 4508000
-    },
     {
       "date": "2021-08-04",
       "open": 0.44,
@@ -10043,7 +10027,15 @@
       "high": 0.21,
       "low": 0.21,
       "close": 0.21,
-      "volume": 61600
+      "volume": 62700
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 118951
     }
   ]
 }

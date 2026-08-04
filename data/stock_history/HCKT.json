@@ -1,26 +1,10 @@
 {
   "code": "HCKT",
   "ticker": "HCKT",
-  "last_updated": "2026-08-03 09:39:34",
+  "last_updated": "2026-08-04 09:38:33",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 16.02,
-      "high": 16.3,
-      "low": 15.97,
-      "close": 16.01,
-      "volume": 51400
-    },
-    {
-      "date": "2021-08-03",
-      "open": 16.05,
-      "high": 16.28,
-      "low": 15.84,
-      "close": 15.92,
-      "volume": 52100
-    },
     {
       "date": "2021-08-04",
       "open": 15.82,
@@ -5040,7 +5024,7 @@
     {
       "date": "2024-02-01",
       "open": 21.81,
-      "high": 21.99,
+      "high": 21.98,
       "low": 21.66,
       "close": 21.96,
       "volume": 68200
@@ -10044,6 +10028,14 @@
       "low": 10.52,
       "close": 10.72,
       "volume": 330300
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 301358
     }
   ]
 }

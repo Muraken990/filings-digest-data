@@ -1,26 +1,10 @@
 {
   "code": "NXTS",
   "ticker": "NXTS",
-  "last_updated": "2026-08-03 10:05:11",
+  "last_updated": "2026-08-04 10:04:15",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 14980.53,
-      "high": 16121.0,
-      "low": 14980.53,
-      "close": 16121.0,
-      "volume": 1
-    },
-    {
-      "date": "2021-08-03",
-      "open": 15435.0,
-      "high": 15778.0,
-      "low": 15435.0,
-      "close": 15435.0,
-      "volume": 2
-    },
     {
       "date": "2021-08-04",
       "open": 15435.0,
@@ -10043,7 +10027,15 @@
       "high": 1.86,
       "low": 1.52,
       "close": 1.71,
-      "volume": 150900
+      "volume": 151400
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 90430
     }
   ]
 }

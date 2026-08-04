@@ -1,26 +1,10 @@
 {
   "code": "INTA",
   "ticker": "INTA",
-  "last_updated": "2026-08-03 09:44:45",
+  "last_updated": "2026-08-04 09:43:45",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 34.22,
-      "high": 35.88,
-      "low": 33.23,
-      "close": 35.14,
-      "volume": 215600
-    },
-    {
-      "date": "2021-08-03",
-      "open": 35.33,
-      "high": 35.6,
-      "low": 34.24,
-      "close": 34.44,
-      "volume": 158000
-    },
     {
       "date": "2021-08-04",
       "open": 34.19,
@@ -10044,6 +10028,14 @@
       "low": 31.34,
       "close": 32.69,
       "volume": 831000
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 905781
     }
   ]
 }

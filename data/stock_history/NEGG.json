@@ -1,26 +1,10 @@
 {
   "code": "NEGG",
   "ticker": "NEGG",
-  "last_updated": "2026-08-03 10:00:56",
+  "last_updated": "2026-08-04 10:00:00",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 347.6,
-      "high": 382.4,
-      "low": 330.0,
-      "close": 368.4,
-      "volume": 152615
-    },
-    {
-      "date": "2021-08-03",
-      "open": 366.2,
-      "high": 368.6,
-      "low": 345.2,
-      "close": 362.0,
-      "volume": 36465
-    },
     {
       "date": "2021-08-04",
       "open": 361.8,
@@ -10044,6 +10028,14 @@
       "low": 12.54,
       "close": 13.28,
       "volume": 56900
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 67483
     }
   ]
 }

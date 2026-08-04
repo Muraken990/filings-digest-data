@@ -1,26 +1,10 @@
 {
   "code": "HIMS",
   "ticker": "HIMS",
-  "last_updated": "2026-08-03 09:40:24",
+  "last_updated": "2026-08-04 09:39:23",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 8.0,
-      "high": 8.41,
-      "low": 7.99,
-      "close": 8.07,
-      "volume": 3021500
-    },
-    {
-      "date": "2021-08-03",
-      "open": 8.17,
-      "high": 8.53,
-      "low": 8.02,
-      "close": 8.17,
-      "volume": 3063800
-    },
     {
       "date": "2021-08-04",
       "open": 8.09,
@@ -10043,7 +10027,15 @@
       "high": 28.94,
       "low": 26.86,
       "close": 27.77,
-      "volume": 12560200
+      "volume": 12585300
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 14754598
     }
   ]
 }

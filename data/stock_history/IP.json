@@ -1,26 +1,10 @@
 {
   "code": "IP",
   "ticker": "IP",
-  "last_updated": "2026-08-03 09:45:33",
+  "last_updated": "2026-08-04 09:44:33",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 43.95,
-      "high": 44.83,
-      "low": 43.52,
-      "close": 43.61,
-      "volume": 2282544
-    },
-    {
-      "date": "2021-08-03",
-      "open": 43.78,
-      "high": 44.7,
-      "low": 43.37,
-      "close": 44.52,
-      "volume": 2199965
-    },
     {
       "date": "2021-08-04",
       "open": 44.3,
@@ -4345,7 +4329,7 @@
       "date": "2023-09-27",
       "open": 31.35,
       "high": 31.5,
-      "low": 30.79,
+      "low": 30.78,
       "close": 30.95,
       "volume": 3175600
     },
@@ -10043,7 +10027,15 @@
       "high": 43.99,
       "low": 40.79,
       "close": 40.83,
-      "volume": 7392700
+      "volume": 7396500
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3315063
     }
   ]
 }

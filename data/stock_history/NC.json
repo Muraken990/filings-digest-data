@@ -1,26 +1,10 @@
 {
   "code": "NC",
   "ticker": "NC",
-  "last_updated": "2026-08-03 10:00:53",
+  "last_updated": "2026-08-04 09:59:56",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 22.23,
-      "high": 22.7,
-      "low": 22.12,
-      "close": 22.7,
-      "volume": 3000
-    },
-    {
-      "date": "2021-08-03",
-      "open": 22.73,
-      "high": 23.61,
-      "low": 22.56,
-      "close": 23.41,
-      "volume": 9300
-    },
     {
       "date": "2021-08-04",
       "open": 23.07,
@@ -2775,7 +2759,7 @@
     },
     {
       "date": "2022-12-14",
-      "open": 36.81,
+      "open": 36.8,
       "high": 36.89,
       "low": 36.22,
       "close": 36.22,
@@ -10044,6 +10028,14 @@
       "low": 46.51,
       "close": 47.4,
       "volume": 13100
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 6731
     }
   ]
 }

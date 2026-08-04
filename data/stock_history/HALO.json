@@ -1,26 +1,10 @@
 {
   "code": "HALO",
   "ticker": "HALO",
-  "last_updated": "2026-08-03 09:38:45",
+  "last_updated": "2026-08-04 09:37:45",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 41.48,
-      "high": 41.53,
-      "low": 40.4,
-      "close": 40.55,
-      "volume": 660800
-    },
-    {
-      "date": "2021-08-03",
-      "open": 40.5,
-      "high": 40.67,
-      "low": 39.96,
-      "close": 40.3,
-      "volume": 530000
-    },
     {
       "date": "2021-08-04",
       "open": 40.0,
@@ -10044,6 +10028,14 @@
       "low": 81.5,
       "close": 82.54,
       "volume": 1564600
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1367255
     }
   ]
 }

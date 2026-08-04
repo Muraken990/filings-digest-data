@@ -1,26 +1,10 @@
 {
   "code": "NBB",
   "ticker": "NBB",
-  "last_updated": "2026-08-03 10:00:06",
+  "last_updated": "2026-08-04 09:59:09",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 16.55,
-      "high": 16.64,
-      "low": 16.4,
-      "close": 16.46,
-      "volume": 123100
-    },
-    {
-      "date": "2021-08-03",
-      "open": 16.51,
-      "high": 16.52,
-      "low": 16.5,
-      "close": 16.51,
-      "volume": 30600
-    },
     {
       "date": "2021-08-04",
       "open": 16.51,
@@ -1992,7 +1976,7 @@
     {
       "date": "2022-07-27",
       "open": 13.42,
-      "high": 13.49,
+      "high": 13.48,
       "low": 13.19,
       "close": 13.25,
       "volume": 81100
@@ -10044,6 +10028,14 @@
       "low": 15.12,
       "close": 15.21,
       "volume": 100600
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 72139
     }
   ]
 }

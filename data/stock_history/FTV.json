@@ -1,26 +1,10 @@
 {
   "code": "FTV",
   "ticker": "FTV",
-  "last_updated": "2026-08-03 09:33:38",
+  "last_updated": "2026-08-04 09:32:34",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 54.08,
-      "high": 55.25,
-      "low": 53.83,
-      "close": 54.23,
-      "volume": 7286026
-    },
-    {
-      "date": "2021-08-03",
-      "open": 54.35,
-      "high": 55.17,
-      "low": 54.17,
-      "close": 55.02,
-      "volume": 3345898
-    },
     {
       "date": "2021-08-04",
       "open": 54.71,
@@ -994,7 +978,7 @@
       "open": 52.15,
       "high": 52.8,
       "low": 51.01,
-      "close": 51.47,
+      "close": 51.46,
       "volume": 2819212
     },
     {
@@ -10043,7 +10027,15 @@
       "high": 59.41,
       "low": 57.61,
       "close": 59.21,
-      "volume": 3559800
+      "volume": 3560300
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2092356
     }
   ]
 }

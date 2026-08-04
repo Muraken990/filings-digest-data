@@ -1,26 +1,10 @@
 {
   "code": "MKSI",
   "ticker": "MKSI",
-  "last_updated": "2026-08-03 09:56:41",
+  "last_updated": "2026-08-04 09:55:43",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 152.25,
-      "high": 154.85,
-      "low": 150.57,
-      "close": 150.59,
-      "volume": 508000
-    },
-    {
-      "date": "2021-08-03",
-      "open": 151.54,
-      "high": 151.54,
-      "low": 147.72,
-      "close": 149.98,
-      "volume": 322200
-    },
     {
       "date": "2021-08-04",
       "open": 151.19,
@@ -3512,7 +3496,7 @@
     {
       "date": "2023-04-28",
       "open": 80.55,
-      "high": 82.37,
+      "high": 82.36,
       "low": 79.71,
       "close": 81.81,
       "volume": 566300
@@ -10044,6 +10028,14 @@
       "low": 294.15,
       "close": 297.45,
       "volume": 1143000
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1398847
     }
   ]
 }

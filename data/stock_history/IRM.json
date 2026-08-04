@@ -1,26 +1,10 @@
 {
   "code": "IRM",
   "ticker": "IRM",
-  "last_updated": "2026-08-03 09:45:36",
+  "last_updated": "2026-08-04 09:44:36",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 36.28,
-      "high": 36.54,
-      "low": 35.94,
-      "close": 36.01,
-      "volume": 1024600
-    },
-    {
-      "date": "2021-08-03",
-      "open": 36.17,
-      "high": 36.32,
-      "low": 35.76,
-      "close": 36.14,
-      "volume": 815700
-    },
     {
       "date": "2021-08-04",
       "open": 36.23,
@@ -3872,7 +3856,7 @@
     {
       "date": "2023-07-05",
       "open": 51.86,
-      "high": 53.02,
+      "high": 53.01,
       "low": 51.39,
       "close": 52.77,
       "volume": 1595500
@@ -3896,7 +3880,7 @@
     {
       "date": "2023-07-10",
       "open": 52.51,
-      "high": 53.3,
+      "high": 53.31,
       "low": 52.27,
       "close": 53.26,
       "volume": 1590300
@@ -10043,7 +10027,15 @@
       "high": 126.27,
       "low": 122.13,
       "close": 122.32,
-      "volume": 2938900
+      "volume": 2939400
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1805115
     }
   ]
 }

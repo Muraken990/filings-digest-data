@@ -1,26 +1,10 @@
 {
   "code": "MGM",
   "ticker": "MGM",
-  "last_updated": "2026-08-03 09:55:50",
+  "last_updated": "2026-08-04 09:54:52",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 37.95,
-      "high": 39.07,
-      "low": 37.23,
-      "close": 37.35,
-      "volume": 6779300
-    },
-    {
-      "date": "2021-08-03",
-      "open": 37.35,
-      "high": 37.48,
-      "low": 36.08,
-      "close": 36.93,
-      "volume": 8330300
-    },
     {
       "date": "2021-08-04",
       "open": 37.78,
@@ -1105,7 +1089,7 @@
       "date": "2022-02-15",
       "open": 45.41,
       "high": 45.88,
-      "low": 44.61,
+      "low": 44.62,
       "close": 45.06,
       "volume": 6286700
     },
@@ -10044,6 +10028,14 @@
       "low": 43.94,
       "close": 44.57,
       "volume": 3656300
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3209033
     }
   ]
 }

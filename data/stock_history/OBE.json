@@ -1,26 +1,10 @@
 {
   "code": "OBE",
   "ticker": "OBE",
-  "last_updated": "2026-08-03 10:05:13",
+  "last_updated": "2026-08-04 10:04:17",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 2.7,
-      "high": 3.16,
-      "low": 2.7,
-      "close": 3.13,
-      "volume": 96800
-    },
-    {
-      "date": "2021-08-03",
-      "open": 3.13,
-      "high": 3.17,
-      "low": 2.83,
-      "close": 3.11,
-      "volume": 178800
-    },
     {
       "date": "2021-08-04",
       "open": 3.18,
@@ -10043,7 +10027,15 @@
       "high": 10.75,
       "low": 10.11,
       "close": 10.72,
-      "volume": 762400
+      "volume": 776800
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 569600
     }
   ]
 }

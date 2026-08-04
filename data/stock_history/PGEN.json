@@ -1,26 +1,10 @@
 {
   "code": "PGEN",
   "ticker": "PGEN",
-  "last_updated": "2026-08-03 10:10:21",
+  "last_updated": "2026-08-04 10:09:27",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 5.51,
-      "high": 5.71,
-      "low": 5.46,
-      "close": 5.61,
-      "volume": 502300
-    },
-    {
-      "date": "2021-08-03",
-      "open": 5.58,
-      "high": 5.58,
-      "low": 5.31,
-      "close": 5.47,
-      "volume": 590200
-    },
     {
       "date": "2021-08-04",
       "open": 5.47,
@@ -10043,7 +10027,15 @@
       "high": 6.28,
       "low": 5.92,
       "close": 6.27,
-      "volume": 5618800
+      "volume": 5624100
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 7368490
     }
   ]
 }

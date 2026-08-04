@@ -1,26 +1,10 @@
 {
   "code": "HR",
   "ticker": "HR",
-  "last_updated": "2026-08-03 09:41:18",
+  "last_updated": "2026-08-04 09:40:17",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 18.04,
-      "high": 18.15,
-      "low": 17.71,
-      "close": 17.77,
-      "volume": 805000
-    },
-    {
-      "date": "2021-08-03",
-      "open": 17.71,
-      "high": 17.76,
-      "low": 17.56,
-      "close": 17.65,
-      "volume": 502200
-    },
     {
       "date": "2021-08-04",
       "open": 17.47,
@@ -8649,7 +8633,7 @@
       "date": "2025-11-18",
       "open": 17.66,
       "high": 17.86,
-      "low": 17.56,
+      "low": 17.55,
       "close": 17.8,
       "volume": 2251800
     },
@@ -10044,6 +10028,14 @@
       "low": 20.96,
       "close": 21.01,
       "volume": 5050500
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3541449
     }
   ]
 }

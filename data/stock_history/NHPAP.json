@@ -1,26 +1,10 @@
 {
   "code": "NHPAP",
   "ticker": "NHPAP",
-  "last_updated": "2026-08-03 10:01:49",
+  "last_updated": "2026-08-04 10:00:50",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 15.35,
-      "high": 15.35,
-      "low": 15.29,
-      "close": 15.32,
-      "volume": 28100
-    },
-    {
-      "date": "2021-08-03",
-      "open": 15.34,
-      "high": 15.37,
-      "low": 15.29,
-      "close": 15.31,
-      "volume": 18700
-    },
     {
       "date": "2021-08-04",
       "open": 15.3,
@@ -1039,7 +1023,7 @@
     },
     {
       "date": "2022-02-03",
-      "open": 16.04,
+      "open": 16.05,
       "high": 16.08,
       "low": 15.93,
       "close": 15.97,
@@ -10044,6 +10028,14 @@
       "low": 23.14,
       "close": 23.22,
       "volume": 10600
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2149
     }
   ]
 }

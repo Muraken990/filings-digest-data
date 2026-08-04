@@ -1,26 +1,10 @@
 {
   "code": "HTLD",
   "ticker": "HTLD",
-  "last_updated": "2026-08-03 09:41:21",
+  "last_updated": "2026-08-04 09:40:21",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 16.12,
-      "high": 16.32,
-      "low": 15.98,
-      "close": 16.02,
-      "volume": 674500
-    },
-    {
-      "date": "2021-08-03",
-      "open": 16.11,
-      "high": 16.21,
-      "low": 15.97,
-      "close": 16.06,
-      "volume": 473200
-    },
     {
       "date": "2021-08-04",
       "open": 15.96,
@@ -10043,7 +10027,15 @@
       "high": 12.77,
       "low": 12.16,
       "close": 12.23,
-      "volume": 856900
+      "volume": 861900
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 641712
     }
   ]
 }

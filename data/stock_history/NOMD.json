@@ -1,26 +1,10 @@
 {
   "code": "NOMD",
   "ticker": "NOMD",
-  "last_updated": "2026-08-03 10:02:40",
+  "last_updated": "2026-08-04 10:01:43",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 23.44,
-      "high": 23.7,
-      "low": 23.34,
-      "close": 23.57,
-      "volume": 990500
-    },
-    {
-      "date": "2021-08-03",
-      "open": 23.69,
-      "high": 23.69,
-      "low": 23.23,
-      "close": 23.34,
-      "volume": 725200
-    },
     {
       "date": "2021-08-04",
       "open": 23.36,
@@ -791,7 +775,7 @@
     },
     {
       "date": "2021-12-20",
-      "open": 22.09,
+      "open": 22.1,
       "high": 22.42,
       "low": 21.95,
       "close": 21.97,
@@ -10044,6 +10028,14 @@
       "low": 11.9,
       "close": 11.9,
       "volume": 1158200
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 705722
     }
   ]
 }

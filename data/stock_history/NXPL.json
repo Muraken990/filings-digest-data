@@ -1,26 +1,10 @@
 {
   "code": "NXPL",
   "ticker": "NXPL",
-  "last_updated": "2026-08-03 10:05:10",
+  "last_updated": "2026-08-04 10:04:14",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 79.0,
-      "high": 79.9,
-      "low": 73.0,
-      "close": 77.5,
-      "volume": 76410
-    },
-    {
-      "date": "2021-08-03",
-      "open": 76.0,
-      "high": 78.7,
-      "low": 65.8,
-      "close": 66.6,
-      "volume": 81830
-    },
     {
       "date": "2021-08-04",
       "open": 65.9,
@@ -10043,7 +10027,15 @@
       "high": 6.48,
       "low": 5.91,
       "close": 6.05,
-      "volume": 50500
+      "volume": 51500
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 18663
     }
   ]
 }

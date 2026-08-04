@@ -1,26 +1,10 @@
 {
   "code": "GNLN",
   "ticker": "GNLN",
-  "last_updated": "2026-08-03 09:37:01",
+  "last_updated": "2026-08-04 09:35:59",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 48048000.0,
-      "high": 48708000.0,
-      "low": 44484000.0,
-      "close": 44880000.0,
-      "volume": 0
-    },
-    {
-      "date": "2021-08-03",
-      "open": 44616000.0,
-      "high": 45540000.0,
-      "low": 43956000.0,
-      "close": 44220000.0,
-      "volume": 0
-    },
     {
       "date": "2021-08-04",
       "open": 43956000.0,
@@ -10043,7 +10027,15 @@
       "high": 2.1,
       "low": 1.82,
       "close": 1.93,
-      "volume": 124400
+      "volume": 125800
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 16393
     }
   ]
 }

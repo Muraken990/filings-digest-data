@@ -1,26 +1,10 @@
 {
   "code": "LITS",
   "ticker": "LITS",
-  "last_updated": "2026-08-03 09:51:36",
+  "last_updated": "2026-08-04 09:50:36",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 41.79,
-      "high": 42.26,
-      "low": 40.39,
-      "close": 40.55,
-      "volume": 22850
-    },
-    {
-      "date": "2021-08-03",
-      "open": 40.55,
-      "high": 40.7,
-      "low": 39.15,
-      "close": 39.46,
-      "volume": 19665
-    },
     {
       "date": "2021-08-04",
       "open": 39.31,
@@ -10043,7 +10027,15 @@
       "high": 0.99,
       "low": 0.9,
       "close": 0.96,
-      "volume": 64600
+      "volume": 65100
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 92662
     }
   ]
 }

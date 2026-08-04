@@ -1,26 +1,10 @@
 {
   "code": "MD",
   "ticker": "MD",
-  "last_updated": "2026-08-03 09:54:59",
+  "last_updated": "2026-08-04 09:54:00",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 29.1,
-      "high": 29.85,
-      "low": 29.1,
-      "close": 29.69,
-      "volume": 430800
-    },
-    {
-      "date": "2021-08-03",
-      "open": 29.89,
-      "high": 30.21,
-      "low": 29.5,
-      "close": 30.21,
-      "volume": 439900
-    },
     {
       "date": "2021-08-04",
       "open": 29.84,
@@ -10044,6 +10028,14 @@
       "low": 26.02,
       "close": 26.51,
       "volume": 453600
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 555856
     }
   ]
 }

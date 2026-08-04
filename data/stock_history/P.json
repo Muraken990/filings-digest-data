@@ -1,26 +1,10 @@
 {
   "code": "P",
   "ticker": "P",
-  "last_updated": "2026-08-03 10:07:49",
+  "last_updated": "2026-08-04 10:06:54",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 19.65,
-      "high": 20.17,
-      "low": 19.55,
-      "close": 20.04,
-      "volume": 4948400
-    },
-    {
-      "date": "2021-08-03",
-      "open": 20.17,
-      "high": 20.33,
-      "low": 19.73,
-      "close": 20.32,
-      "volume": 3174400
-    },
     {
       "date": "2021-08-04",
       "open": 20.27,
@@ -10043,7 +10027,15 @@
       "high": 79.4,
       "low": 75.22,
       "close": 77.17,
-      "volume": 1971600
+      "volume": 1972100
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1905771
     }
   ]
 }

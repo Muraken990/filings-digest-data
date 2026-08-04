@@ -1,26 +1,10 @@
 {
   "code": "KEEL",
   "ticker": "KEEL",
-  "last_updated": "2026-08-03 09:48:08",
+  "last_updated": "2026-08-04 09:47:09",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 4.61,
-      "high": 4.84,
-      "low": 4.27,
-      "close": 4.37,
-      "volume": 4810600
-    },
-    {
-      "date": "2021-08-03",
-      "open": 4.22,
-      "high": 4.52,
-      "low": 4.06,
-      "close": 4.37,
-      "volume": 2962500
-    },
     {
       "date": "2021-08-04",
       "open": 4.55,
@@ -10043,7 +10027,15 @@
       "high": 4.34,
       "low": 3.88,
       "close": 3.97,
-      "volume": 38671600
+      "volume": 38732400
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 28911111
     }
   ]
 }

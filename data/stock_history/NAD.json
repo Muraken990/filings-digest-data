@@ -1,26 +1,10 @@
 {
   "code": "NAD",
   "ticker": "NAD",
-  "last_updated": "2026-08-03 10:00:04",
+  "last_updated": "2026-08-04 09:59:07",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 12.14,
-      "high": 12.18,
-      "low": 12.13,
-      "close": 12.17,
-      "volume": 279200
-    },
-    {
-      "date": "2021-08-03",
-      "open": 12.17,
-      "high": 12.21,
-      "low": 12.14,
-      "close": 12.19,
-      "volume": 257100
-    },
     {
       "date": "2021-08-04",
       "open": 12.19,
@@ -10044,6 +10028,14 @@
       "low": 11.62,
       "close": 11.71,
       "volume": 651900
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 561362
     }
   ]
 }

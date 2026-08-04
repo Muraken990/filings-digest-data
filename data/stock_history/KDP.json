@@ -1,26 +1,10 @@
 {
   "code": "KDP",
   "ticker": "KDP",
-  "last_updated": "2026-08-03 09:48:08",
+  "last_updated": "2026-08-04 09:47:09",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 30.09,
-      "high": 30.29,
-      "low": 29.79,
-      "close": 30.17,
-      "volume": 10144800
-    },
-    {
-      "date": "2021-08-03",
-      "open": 30.29,
-      "high": 30.58,
-      "low": 30.11,
-      "close": 30.54,
-      "volume": 5675500
-    },
     {
       "date": "2021-08-04",
       "open": 30.57,
@@ -2272,7 +2256,7 @@
     {
       "date": "2022-09-15",
       "open": 33.85,
-      "high": 34.09,
+      "high": 34.1,
       "low": 33.28,
       "close": 33.34,
       "volume": 8293500
@@ -3200,7 +3184,7 @@
     {
       "date": "2023-03-03",
       "open": 31.3,
-      "high": 31.4,
+      "high": 31.41,
       "low": 31.04,
       "close": 31.29,
       "volume": 8223900
@@ -10043,7 +10027,15 @@
       "high": 31.5,
       "low": 30.89,
       "close": 31.12,
-      "volume": 11455200
+      "volume": 11457400
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 12185898
     }
   ]
 }

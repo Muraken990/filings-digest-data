@@ -1,26 +1,10 @@
 {
   "code": "KSS",
   "ticker": "KSS",
-  "last_updated": "2026-08-03 09:49:49",
+  "last_updated": "2026-08-04 09:48:50",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 37.4,
-      "high": 38.37,
-      "low": 36.79,
-      "close": 36.82,
-      "volume": 3003200
-    },
-    {
-      "date": "2021-08-03",
-      "open": 37.13,
-      "high": 37.84,
-      "low": 35.67,
-      "close": 37.57,
-      "volume": 2349900
-    },
     {
       "date": "2021-08-04",
       "open": 37.31,
@@ -889,7 +873,7 @@
       "date": "2022-01-06",
       "open": 35.99,
       "high": 36.77,
-      "low": 35.11,
+      "low": 35.12,
       "close": 36.28,
       "volume": 3357800
     },
@@ -10044,6 +10028,14 @@
       "low": 19.13,
       "close": 19.14,
       "volume": 3531500
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2955426
     }
   ]
 }

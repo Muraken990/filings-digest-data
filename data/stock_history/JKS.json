@@ -1,26 +1,10 @@
 {
   "code": "JKS",
   "ticker": "JKS",
-  "last_updated": "2026-08-03 09:47:17",
+  "last_updated": "2026-08-04 09:46:17",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 42.27,
-      "high": 43.18,
-      "low": 41.58,
-      "close": 42.03,
-      "volume": 825100
-    },
-    {
-      "date": "2021-08-03",
-      "open": 42.19,
-      "high": 43.84,
-      "low": 41.42,
-      "close": 43.83,
-      "volume": 1109900
-    },
     {
       "date": "2021-08-04",
       "open": 44.81,
@@ -2584,7 +2568,7 @@
     {
       "date": "2022-11-09",
       "open": 37.53,
-      "high": 38.88,
+      "high": 38.89,
       "low": 36.81,
       "close": 36.81,
       "volume": 469600
@@ -10043,7 +10027,15 @@
       "high": 15.24,
       "low": 14.64,
       "close": 15.14,
-      "volume": 457100
+      "volume": 458200
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1010176
     }
   ]
 }

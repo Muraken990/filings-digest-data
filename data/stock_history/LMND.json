@@ -1,26 +1,10 @@
 {
   "code": "LMND",
   "ticker": "LMND",
-  "last_updated": "2026-08-03 09:52:23",
+  "last_updated": "2026-08-04 09:51:23",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 88.01,
-      "high": 91.35,
-      "low": 87.26,
-      "close": 88.98,
-      "volume": 920300
-    },
-    {
-      "date": "2021-08-03",
-      "open": 88.98,
-      "high": 88.98,
-      "low": 84.53,
-      "close": 86.93,
-      "volume": 1018400
-    },
     {
       "date": "2021-08-04",
       "open": 86.06,
@@ -10043,7 +10027,15 @@
       "high": 50.25,
       "low": 47.85,
       "close": 48.31,
-      "volume": 2059700
+      "volume": 2065500
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1961117
     }
   ]
 }

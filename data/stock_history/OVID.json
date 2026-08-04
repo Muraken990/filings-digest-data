@@ -1,26 +1,10 @@
 {
   "code": "OVID",
   "ticker": "OVID",
-  "last_updated": "2026-08-03 10:07:46",
+  "last_updated": "2026-08-04 10:06:51",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 3.78,
-      "high": 3.78,
-      "low": 3.71,
-      "close": 3.73,
-      "volume": 218100
-    },
-    {
-      "date": "2021-08-03",
-      "open": 3.76,
-      "high": 3.81,
-      "low": 3.65,
-      "close": 3.7,
-      "volume": 374200
-    },
     {
       "date": "2021-08-04",
       "open": 3.73,
@@ -10043,7 +10027,15 @@
       "high": 2.36,
       "low": 2.2,
       "close": 2.22,
-      "volume": 1742200
+      "volume": 1745400
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1676375
     }
   ]
 }

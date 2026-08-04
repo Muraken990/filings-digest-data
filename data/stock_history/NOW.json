@@ -1,26 +1,10 @@
 {
   "code": "NOW",
   "ticker": "NOW",
-  "last_updated": "2026-08-03 10:02:41",
+  "last_updated": "2026-08-04 10:01:44",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 117.58,
-      "high": 118.34,
-      "low": 115.8,
-      "close": 116.93,
-      "volume": 4505500
-    },
-    {
-      "date": "2021-08-03",
-      "open": 116.98,
-      "high": 118.16,
-      "low": 115.47,
-      "close": 116.93,
-      "volume": 4023000
-    },
     {
       "date": "2021-08-04",
       "open": 117.0,
@@ -10043,7 +10027,15 @@
       "high": 112.39,
       "low": 106.05,
       "close": 111.23,
-      "volume": 20455600
+      "volume": 20525300
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 22545076
     }
   ]
 }

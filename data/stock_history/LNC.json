@@ -1,26 +1,10 @@
 {
   "code": "LNC",
   "ticker": "LNC",
-  "last_updated": "2026-08-03 09:52:23",
+  "last_updated": "2026-08-04 09:51:24",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 48.16,
-      "high": 49.4,
-      "low": 46.1,
-      "close": 46.97,
-      "volume": 1721300
-    },
-    {
-      "date": "2021-08-03",
-      "open": 47.26,
-      "high": 48.08,
-      "low": 45.58,
-      "close": 47.94,
-      "volume": 1113900
-    },
     {
       "date": "2021-08-04",
       "open": 46.98,
@@ -367,7 +351,7 @@
     },
     {
       "date": "2021-10-05",
-      "open": 54.33,
+      "open": 54.32,
       "high": 55.48,
       "low": 53.53,
       "close": 55.28,
@@ -10044,6 +10028,14 @@
       "low": 44.98,
       "close": 45.61,
       "volume": 2554800
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2296024
     }
   ]
 }

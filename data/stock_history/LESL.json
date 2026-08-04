@@ -1,26 +1,10 @@
 {
   "code": "LESL",
   "ticker": "LESL",
-  "last_updated": "2026-08-03 09:50:45",
+  "last_updated": "2026-08-04 09:49:45",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 488.0,
-      "high": 496.6,
-      "low": 482.7,
-      "close": 486.6,
-      "volume": 39135
-    },
-    {
-      "date": "2021-08-03",
-      "open": 487.2,
-      "high": 495.6,
-      "low": 483.6,
-      "close": 485.6,
-      "volume": 51865
-    },
     {
       "date": "2021-08-04",
       "open": 484.8,
@@ -10043,7 +10027,15 @@
       "high": 1.1,
       "low": 0.84,
       "close": 0.95,
-      "volume": 2336900
+      "volume": 2355500
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 698436
     }
   ]
 }

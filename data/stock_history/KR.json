@@ -1,26 +1,10 @@
 {
   "code": "KR",
   "ticker": "KR",
-  "last_updated": "2026-08-03 09:49:02",
+  "last_updated": "2026-08-04 09:48:02",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 36.63,
-      "high": 36.98,
-      "low": 36.16,
-      "close": 36.87,
-      "volume": 5233800
-    },
-    {
-      "date": "2021-08-03",
-      "open": 36.81,
-      "high": 38.43,
-      "low": 36.7,
-      "close": 38.31,
-      "volume": 10302000
-    },
     {
       "date": "2021-08-04",
       "open": 38.21,
@@ -2960,7 +2944,7 @@
     {
       "date": "2023-01-19",
       "open": 41.95,
-      "high": 42.06,
+      "high": 42.07,
       "low": 40.72,
       "close": 40.73,
       "volume": 4422200
@@ -5864,7 +5848,7 @@
     {
       "date": "2024-07-01",
       "open": 47.91,
-      "high": 48.51,
+      "high": 48.5,
       "low": 47.7,
       "close": 48.49,
       "volume": 7877400
@@ -10043,7 +10027,15 @@
       "high": 58.2,
       "low": 56.91,
       "close": 57.74,
-      "volume": 5916100
+      "volume": 5917300
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 5859508
     }
   ]
 }

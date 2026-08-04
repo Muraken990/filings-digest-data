@@ -1,26 +1,10 @@
 {
   "code": "HST",
   "ticker": "HST",
-  "last_updated": "2026-08-03 09:41:20",
+  "last_updated": "2026-08-04 09:40:19",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 12.67,
-      "high": 13.03,
-      "low": 12.42,
-      "close": 12.44,
-      "volume": 6920300
-    },
-    {
-      "date": "2021-08-03",
-      "open": 12.47,
-      "high": 12.51,
-      "low": 12.07,
-      "close": 12.44,
-      "volume": 9834000
-    },
     {
       "date": "2021-08-04",
       "open": 12.18,
@@ -10043,7 +10027,15 @@
       "high": 25.39,
       "low": 25.01,
       "close": 25.13,
-      "volume": 10036600
+      "volume": 10037600
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 9354446
     }
   ]
 }
