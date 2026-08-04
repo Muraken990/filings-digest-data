@@ -1,26 +1,10 @@
 {
   "code": "TXMD",
   "ticker": "TXMD",
-  "last_updated": "2026-08-03 12:25:11",
+  "last_updated": "2026-08-04 12:25:18",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 51.0,
-      "high": 51.0,
-      "low": 50.0,
-      "close": 50.5,
-      "volume": 60900
-    },
-    {
-      "date": "2021-08-03",
-      "open": 50.0,
-      "high": 51.0,
-      "low": 48.5,
-      "close": 49.0,
-      "volume": 74430
-    },
     {
       "date": "2021-08-04",
       "open": 50.5,
@@ -10044,6 +10028,14 @@
       "low": 2.02,
       "close": 2.03,
       "volume": 9500
+    },
+    {
+      "date": "2026-08-03",
+      "open": 2.03,
+      "high": 2.09,
+      "low": 2.02,
+      "close": 2.04,
+      "volume": 15600
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "POLA",
   "ticker": "POLA",
-  "last_updated": "2026-08-03 12:04:47",
+  "last_updated": "2026-08-04 12:04:41",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 51.03,
-      "high": 51.87,
-      "low": 48.65,
-      "close": 49.35,
-      "volume": 12086
-    },
-    {
-      "date": "2021-08-03",
-      "open": 49.07,
-      "high": 49.49,
-      "low": 47.6,
-      "close": 48.72,
-      "volume": 9957
-    },
     {
       "date": "2021-08-04",
       "open": 49.14,
@@ -10043,7 +10027,15 @@
       "high": 1.78,
       "low": 1.61,
       "close": 1.63,
-      "volume": 262700
+      "volume": 266600
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 193904
     }
   ]
 }

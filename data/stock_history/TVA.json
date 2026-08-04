@@ -1,9 +1,9 @@
 {
   "code": "TVA",
   "ticker": "TVA",
-  "last_updated": "2026-08-03 12:25:08",
+  "last_updated": "2026-08-04 12:25:15",
   "period": "5y",
-  "data_points": 303,
+  "data_points": 304,
   "data": [
     {
       "date": "2025-05-16",
@@ -2428,6 +2428,14 @@
       "low": 10.47,
       "close": 10.49,
       "volume": 30100
+    },
+    {
+      "date": "2026-08-03",
+      "open": 10.47,
+      "high": 10.53,
+      "low": 10.45,
+      "close": 10.49,
+      "volume": 2800
     }
   ]
 }

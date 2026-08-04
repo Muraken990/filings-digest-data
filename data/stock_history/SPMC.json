@@ -1,9 +1,9 @@
 {
   "code": "SPMC",
   "ticker": "SPMC",
-  "last_updated": "2026-08-03 12:17:32",
+  "last_updated": "2026-08-04 12:17:33",
   "period": "5y",
-  "data_points": 533,
+  "data_points": 534,
   "data": [
     {
       "date": "2024-06-14",
@@ -4268,6 +4268,14 @@
       "low": 10.26,
       "close": 10.36,
       "volume": 13900
+    },
+    {
+      "date": "2026-08-03",
+      "open": 10.25,
+      "high": 10.55,
+      "low": 10.2,
+      "close": 10.47,
+      "volume": 43000
     }
   ]
 }

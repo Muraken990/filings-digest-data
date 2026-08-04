@@ -1,26 +1,10 @@
 {
   "code": "PRAX",
   "ticker": "PRAX",
-  "last_updated": "2026-08-03 12:05:36",
+  "last_updated": "2026-08-04 12:05:30",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 238.65,
-      "high": 239.18,
-      "low": 231.0,
-      "close": 233.7,
-      "volume": 7520
-    },
-    {
-      "date": "2021-08-03",
-      "open": 234.75,
-      "high": 235.05,
-      "low": 218.25,
-      "close": 222.3,
-      "volume": 10407
-    },
     {
       "date": "2021-08-04",
       "open": 219.75,
@@ -10044,6 +10028,14 @@
       "low": 293.22,
       "close": 307.83,
       "volume": 385200
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 315002
     }
   ]
 }

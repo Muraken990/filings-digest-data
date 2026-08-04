@@ -1,26 +1,10 @@
 {
   "code": "SYM",
   "ticker": "SYM",
-  "last_updated": "2026-08-03 12:20:05",
+  "last_updated": "2026-08-04 12:20:08",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 9.8,
-      "high": 9.86,
-      "low": 9.74,
-      "close": 9.79,
-      "volume": 1062700
-    },
-    {
-      "date": "2021-08-03",
-      "open": 9.78,
-      "high": 9.83,
-      "low": 9.78,
-      "close": 9.8,
-      "volume": 10300
-    },
     {
       "date": "2021-08-04",
       "open": 9.79,
@@ -10043,7 +10027,15 @@
       "high": 43.75,
       "low": 41.58,
       "close": 43.05,
-      "volume": 1071900
+      "volume": 1072400
+    },
+    {
+      "date": "2026-08-03",
+      "open": 43.21,
+      "high": 46.28,
+      "low": 43.0,
+      "close": 45.85,
+      "volume": 1697000
     }
   ]
 }

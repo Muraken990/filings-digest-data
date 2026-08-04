@@ -1,9 +1,9 @@
 {
   "code": "SEG",
   "ticker": "SEG",
-  "last_updated": "2026-08-03 12:14:05",
+  "last_updated": "2026-08-04 12:14:03",
   "period": "5y",
-  "data_points": 503,
+  "data_points": 504,
   "data": [
     {
       "date": "2024-07-30",
@@ -4028,6 +4028,14 @@
       "low": 25.7,
       "close": 26.23,
       "volume": 83900
+    },
+    {
+      "date": "2026-08-03",
+      "open": 26.23,
+      "high": 26.61,
+      "low": 25.96,
+      "close": 26.06,
+      "volume": 61600
     }
   ]
 }

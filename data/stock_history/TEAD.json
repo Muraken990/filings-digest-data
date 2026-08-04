@@ -1,26 +1,10 @@
 {
   "code": "TEAD",
   "ticker": "TEAD",
-  "last_updated": "2026-08-03 12:21:43",
+  "last_updated": "2026-08-04 12:21:47",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 19.57,
-      "high": 19.83,
-      "low": 19.37,
-      "close": 19.43,
-      "volume": 67200
-    },
-    {
-      "date": "2021-08-03",
-      "open": 19.5,
-      "high": 19.51,
-      "low": 19.0,
-      "close": 19.0,
-      "volume": 89500
-    },
     {
       "date": "2021-08-04",
       "open": 19.01,
@@ -10043,7 +10027,15 @@
       "high": 0.74,
       "low": 0.68,
       "close": 0.71,
-      "volume": 139400
+      "volume": 141400
+    },
+    {
+      "date": "2026-08-03",
+      "open": 0.73,
+      "high": 0.82,
+      "low": 0.72,
+      "close": 0.81,
+      "volume": 116500
     }
   ]
 }

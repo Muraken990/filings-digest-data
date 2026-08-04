@@ -1,26 +1,10 @@
 {
   "code": "SEED",
   "ticker": "SEED",
-  "last_updated": "2026-08-03 12:14:04",
+  "last_updated": "2026-08-04 12:14:03",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 10.64,
-      "high": 11.14,
-      "low": 10.36,
-      "close": 10.64,
-      "volume": 251600
-    },
-    {
-      "date": "2021-08-03",
-      "open": 11.13,
-      "high": 12.79,
-      "low": 10.75,
-      "close": 12.72,
-      "volume": 1347000
-    },
     {
       "date": "2021-08-04",
       "open": 12.58,
@@ -10044,6 +10028,14 @@
       "low": 0.98,
       "close": 1.0,
       "volume": 10700
+    },
+    {
+      "date": "2026-08-03",
+      "open": 1.03,
+      "high": 1.03,
+      "low": 0.98,
+      "close": 0.98,
+      "volume": 3700
     }
   ]
 }

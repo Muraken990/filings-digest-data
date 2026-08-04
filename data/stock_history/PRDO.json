@@ -1,26 +1,10 @@
 {
   "code": "PRDO",
   "ticker": "PRDO",
-  "last_updated": "2026-08-03 12:05:36",
+  "last_updated": "2026-08-04 12:05:31",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 11.14,
-      "high": 11.38,
-      "low": 11.07,
-      "close": 11.28,
-      "volume": 483500
-    },
-    {
-      "date": "2021-08-03",
-      "open": 11.31,
-      "high": 11.44,
-      "low": 11.19,
-      "close": 11.31,
-      "volume": 392800
-    },
     {
       "date": "2021-08-04",
       "open": 11.27,
@@ -5312,7 +5296,7 @@
     {
       "date": "2024-03-21",
       "open": 17.02,
-      "high": 17.17,
+      "high": 17.16,
       "low": 16.82,
       "close": 17.14,
       "volume": 599200
@@ -10044,6 +10028,14 @@
       "low": 30.87,
       "close": 31.81,
       "volume": 1015900
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 559216
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "POWI",
   "ticker": "POWI",
-  "last_updated": "2026-08-03 12:05:33",
+  "last_updated": "2026-08-04 12:05:28",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 92.7,
-      "high": 94.34,
-      "low": 90.6,
-      "close": 90.98,
-      "volume": 559600
-    },
-    {
-      "date": "2021-08-03",
-      "open": 91.3,
-      "high": 92.65,
-      "low": 90.14,
-      "close": 91.74,
-      "volume": 460700
-    },
     {
       "date": "2021-08-04",
       "open": 91.88,
@@ -4226,7 +4210,7 @@
       "open": 81.08,
       "high": 81.69,
       "low": 79.45,
-      "close": 80.29,
+      "close": 80.3,
       "volume": 188500
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 60.48,
       "close": 60.71,
       "volume": 578500
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 685241
     }
   ]
 }
