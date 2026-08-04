@@ -1,26 +1,10 @@
 {
   "code": "ABM",
   "ticker": "ABM",
-  "last_updated": "2026-08-03 07:04:38",
+  "last_updated": "2026-08-04 07:04:10",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 42.05,
-      "high": 42.84,
-      "low": 40.74,
-      "close": 40.82,
-      "volume": 592700
-    },
-    {
-      "date": "2021-08-03",
-      "open": 41.04,
-      "high": 42.59,
-      "low": 40.57,
-      "close": 42.52,
-      "volume": 662600
-    },
     {
       "date": "2021-08-04",
       "open": 42.07,
@@ -178,7 +162,7 @@
       "open": 44.23,
       "high": 44.73,
       "low": 44.09,
-      "close": 44.61,
+      "close": 44.62,
       "volume": 731900
     },
     {
@@ -4919,7 +4903,7 @@
     },
     {
       "date": "2024-01-10",
-      "open": 39.79,
+      "open": 39.8,
       "high": 40.5,
       "low": 39.6,
       "close": 40.44,
@@ -10044,6 +10028,14 @@
       "low": 46.94,
       "close": 47.91,
       "volume": 550200
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 261062
     }
   ]
 }

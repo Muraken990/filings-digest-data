@@ -1,26 +1,10 @@
 {
   "code": "BV",
   "ticker": "BV",
-  "last_updated": "2026-08-03 07:20:48",
+  "last_updated": "2026-08-04 07:20:23",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 16.08,
-      "high": 16.42,
-      "low": 15.77,
-      "close": 15.87,
-      "volume": 111500
-    },
-    {
-      "date": "2021-08-03",
-      "open": 15.88,
-      "high": 16.29,
-      "low": 15.69,
-      "close": 16.11,
-      "volume": 182700
-    },
     {
       "date": "2021-08-04",
       "open": 15.95,
@@ -10044,6 +10028,14 @@
       "low": 12.87,
       "close": 13.04,
       "volume": 775500
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 460717
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "ES",
   "ticker": "ES",
-  "last_updated": "2026-08-03 07:37:10",
+  "last_updated": "2026-08-04 07:36:45",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 70.71,
-      "high": 71.58,
-      "low": 70.43,
-      "close": 71.54,
-      "volume": 1267400
-    },
-    {
-      "date": "2021-08-03",
-      "open": 71.48,
-      "high": 72.9,
-      "low": 71.25,
-      "close": 71.95,
-      "volume": 1671400
-    },
     {
       "date": "2021-08-04",
       "open": 71.55,
@@ -561,7 +545,7 @@
       "date": "2021-11-08",
       "open": 69.66,
       "high": 69.66,
-      "low": 67.87,
+      "low": 67.86,
       "close": 68.18,
       "volume": 1222400
     },
@@ -10043,7 +10027,15 @@
       "high": 72.87,
       "low": 71.33,
       "close": 71.59,
-      "volume": 5275400
+      "volume": 5276700
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1747978
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "CASS",
   "ticker": "CASS",
-  "last_updated": "2026-08-03 07:21:44",
+  "last_updated": "2026-08-04 07:21:18",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 38.24,
-      "high": 38.57,
-      "low": 35.75,
-      "close": 36.05,
-      "volume": 51500
-    },
-    {
-      "date": "2021-08-03",
-      "open": 36.16,
-      "high": 36.6,
-      "low": 35.62,
-      "close": 36.45,
-      "volume": 35200
-    },
     {
       "date": "2021-08-04",
       "open": 36.26,
@@ -7823,7 +7807,7 @@
     },
     {
       "date": "2025-06-24",
-      "open": 41.31,
+      "open": 41.32,
       "high": 41.77,
       "low": 41.03,
       "close": 41.48,
@@ -10044,6 +10028,14 @@
       "low": 54.9,
       "close": 55.92,
       "volume": 146900
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 55725
     }
   ]
 }

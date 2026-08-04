@@ -1,26 +1,10 @@
 {
   "code": "BCX",
   "ticker": "BCX",
-  "last_updated": "2026-08-03 07:15:44",
+  "last_updated": "2026-08-04 07:15:18",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 6.63,
-      "high": 6.63,
-      "low": 6.5,
-      "close": 6.52,
-      "volume": 227300
-    },
-    {
-      "date": "2021-08-03",
-      "open": 6.5,
-      "high": 6.53,
-      "low": 6.45,
-      "close": 6.5,
-      "volume": 214900
-    },
     {
       "date": "2021-08-04",
       "open": 6.48,
@@ -6623,7 +6607,7 @@
     },
     {
       "date": "2024-11-13",
-      "open": 7.99,
+      "open": 7.98,
       "high": 8.01,
       "low": 7.93,
       "close": 7.98,
@@ -10044,6 +10028,14 @@
       "low": 11.83,
       "close": 12.05,
       "volume": 180700
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 183369
     }
   ]
 }

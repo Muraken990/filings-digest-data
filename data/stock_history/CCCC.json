@@ -1,26 +1,10 @@
 {
   "code": "CCCC",
   "ticker": "CCCC",
-  "last_updated": "2026-08-03 07:22:33",
+  "last_updated": "2026-08-04 07:22:07",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 43.49,
-      "high": 45.15,
-      "low": 43.36,
-      "close": 44.8,
-      "volume": 305000
-    },
-    {
-      "date": "2021-08-03",
-      "open": 44.79,
-      "high": 47.5,
-      "low": 44.25,
-      "close": 45.94,
-      "volume": 856200
-    },
     {
       "date": "2021-08-04",
       "open": 45.6,
@@ -10043,7 +10027,15 @@
       "high": 3.66,
       "low": 3.45,
       "close": 3.48,
-      "volume": 1949000
+      "volume": 1949800
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2243051
     }
   ]
 }

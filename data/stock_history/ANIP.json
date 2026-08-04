@@ -1,26 +1,10 @@
 {
   "code": "ANIP",
   "ticker": "ANIP",
-  "last_updated": "2026-08-03 07:10:33",
+  "last_updated": "2026-08-04 07:10:06",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 34.01,
-      "high": 34.09,
-      "low": 33.1,
-      "close": 33.37,
-      "volume": 46000
-    },
-    {
-      "date": "2021-08-03",
-      "open": 33.37,
-      "high": 34.2,
-      "low": 33.0,
-      "close": 34.01,
-      "volume": 51500
-    },
     {
       "date": "2021-08-04",
       "open": 33.63,
@@ -10044,6 +10028,14 @@
       "low": 78.24,
       "close": 79.24,
       "volume": 205200
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 421652
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "DLB",
   "ticker": "DLB",
-  "last_updated": "2026-08-03 07:32:00",
+  "last_updated": "2026-08-04 07:31:35",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 91.23,
-      "high": 93.28,
-      "low": 91.02,
-      "close": 92.35,
-      "volume": 500300
-    },
-    {
-      "date": "2021-08-03",
-      "open": 92.88,
-      "high": 93.06,
-      "low": 91.7,
-      "close": 92.24,
-      "volume": 363400
-    },
     {
       "date": "2021-08-04",
       "open": 91.79,
@@ -7809,7 +7793,7 @@
       "date": "2025-06-20",
       "open": 72.01,
       "high": 72.06,
-      "low": 70.51,
+      "low": 70.5,
       "close": 70.73,
       "volume": 1043200
     },
@@ -10043,7 +10027,15 @@
       "high": 59.45,
       "low": 54.61,
       "close": 58.81,
-      "volume": 1792800
+      "volume": 1793600
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1158223
     }
   ]
 }

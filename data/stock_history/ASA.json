@@ -1,26 +1,10 @@
 {
   "code": "ASA",
   "ticker": "ASA",
-  "last_updated": "2026-08-03 07:12:16",
+  "last_updated": "2026-08-04 07:11:50",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 21.74,
-      "high": 21.77,
-      "low": 21.5,
-      "close": 21.72,
-      "volume": 117300
-    },
-    {
-      "date": "2021-08-03",
-      "open": 21.64,
-      "high": 21.98,
-      "low": 21.64,
-      "close": 21.93,
-      "volume": 39800
-    },
     {
       "date": "2021-08-04",
       "open": 22.08,
@@ -3400,7 +3384,7 @@
     {
       "date": "2023-04-10",
       "open": 16.34,
-      "high": 16.43,
+      "high": 16.44,
       "low": 16.09,
       "close": 16.29,
       "volume": 23900
@@ -3498,7 +3482,7 @@
       "open": 16.51,
       "high": 16.64,
       "low": 16.4,
-      "close": 16.44,
+      "close": 16.43,
       "volume": 32100
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 48.65,
       "close": 48.93,
       "volume": 81900
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 50539
     }
   ]
 }

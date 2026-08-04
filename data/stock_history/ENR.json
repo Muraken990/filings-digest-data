@@ -1,26 +1,10 @@
 {
   "code": "ENR",
   "ticker": "ENR",
-  "last_updated": "2026-08-03 07:36:18",
+  "last_updated": "2026-08-04 07:35:53",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 34.98,
-      "high": 35.05,
-      "low": 34.16,
-      "close": 34.29,
-      "volume": 525300
-    },
-    {
-      "date": "2021-08-03",
-      "open": 34.29,
-      "high": 34.7,
-      "low": 33.77,
-      "close": 34.58,
-      "volume": 482800
-    },
     {
       "date": "2021-08-04",
       "open": 34.24,
@@ -2945,7 +2929,7 @@
       "date": "2023-01-17",
       "open": 31.85,
       "high": 32.22,
-      "low": 31.62,
+      "low": 31.63,
       "close": 31.71,
       "volume": 392800
     },
@@ -10044,6 +10028,14 @@
       "low": 20.73,
       "close": 20.97,
       "volume": 1463700
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1013758
     }
   ]
 }

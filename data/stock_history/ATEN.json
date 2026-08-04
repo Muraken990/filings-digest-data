@@ -1,26 +1,10 @@
 {
   "code": "ATEN",
   "ticker": "ATEN",
-  "last_updated": "2026-08-03 07:13:06",
+  "last_updated": "2026-08-04 07:12:40",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 11.93,
-      "high": 12.33,
-      "low": 11.81,
-      "close": 12.31,
-      "volume": 773400
-    },
-    {
-      "date": "2021-08-03",
-      "open": 12.32,
-      "high": 12.37,
-      "low": 11.86,
-      "close": 12.14,
-      "volume": 798700
-    },
     {
       "date": "2021-08-04",
       "open": 12.11,
@@ -4233,7 +4217,7 @@
       "date": "2023-09-07",
       "open": 13.85,
       "high": 14.13,
-      "low": 13.64,
+      "low": 13.63,
       "close": 13.98,
       "volume": 484600
     },
@@ -10044,6 +10028,14 @@
       "low": 29.47,
       "close": 29.57,
       "volume": 1701900
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1015242
     }
   ]
 }

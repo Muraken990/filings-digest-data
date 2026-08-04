@@ -1,26 +1,10 @@
 {
   "code": "CASH",
   "ticker": "CASH",
-  "last_updated": "2026-08-03 07:21:44",
+  "last_updated": "2026-08-04 07:21:18",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 49.09,
-      "high": 49.4,
-      "low": 47.64,
-      "close": 47.86,
-      "volume": 216500
-    },
-    {
-      "date": "2021-08-03",
-      "open": 46.06,
-      "high": 48.45,
-      "low": 46.06,
-      "close": 48.16,
-      "volume": 204200
-    },
     {
       "date": "2021-08-04",
       "open": 47.66,
@@ -512,7 +496,7 @@
     {
       "date": "2021-10-29",
       "open": 54.62,
-      "high": 55.18,
+      "high": 55.17,
       "low": 53.06,
       "close": 54.51,
       "volume": 470300
@@ -8714,7 +8698,7 @@
       "open": 71.08,
       "high": 72.71,
       "low": 71.08,
-      "close": 72.56,
+      "close": 72.57,
       "volume": 178100
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 87.31,
       "close": 88.24,
       "volume": 202900
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 140523
     }
   ]
 }

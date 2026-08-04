@@ -1,26 +1,10 @@
 {
   "code": "ABTC",
   "ticker": "ABTC",
-  "last_updated": "2026-08-03 07:04:38",
+  "last_updated": "2026-08-04 07:04:11",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 105000.0,
-      "high": 108600.0,
-      "low": 102000.0,
-      "close": 106200.0,
-      "volume": 10
-    },
-    {
-      "date": "2021-08-03",
-      "open": 108300.0,
-      "high": 108300.0,
-      "low": 101100.0,
-      "close": 104100.0,
-      "volume": 10
-    },
     {
       "date": "2021-08-04",
       "open": 104100.0,
@@ -10044,6 +10028,14 @@
       "low": 5.41,
       "close": 5.52,
       "volume": 1405100
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1842827
     }
   ]
 }

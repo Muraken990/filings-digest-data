@@ -1,26 +1,10 @@
 {
   "code": "CELZ",
   "ticker": "CELZ",
-  "last_updated": "2026-08-03 07:23:25",
+  "last_updated": "2026-08-04 07:22:59",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 136.5,
-      "high": 140.0,
-      "low": 131.0,
-      "close": 134.5,
-      "volume": 1038
-    },
-    {
-      "date": "2021-08-03",
-      "open": 132.5,
-      "high": 135.0,
-      "low": 125.0,
-      "close": 134.5,
-      "volume": 1481
-    },
     {
       "date": "2021-08-04",
       "open": 126.5,
@@ -10043,7 +10027,15 @@
       "high": 0.76,
       "low": 0.66,
       "close": 0.66,
-      "volume": 224200
+      "volume": 225500
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 238314
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "APO",
   "ticker": "APO",
-  "last_updated": "2026-08-03 07:10:37",
+  "last_updated": "2026-08-04 07:10:11",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 53.59,
-      "high": 54.19,
-      "low": 52.78,
-      "close": 53.5,
-      "volume": 1665100
-    },
-    {
-      "date": "2021-08-03",
-      "open": 53.74,
-      "high": 55.06,
-      "low": 53.62,
-      "close": 54.82,
-      "volume": 3036700
-    },
     {
       "date": "2021-08-04",
       "open": 54.14,
@@ -5256,7 +5240,7 @@
     {
       "date": "2024-03-12",
       "open": 105.43,
-      "high": 106.75,
+      "high": 106.76,
       "low": 104.75,
       "close": 106.34,
       "volume": 1545500
@@ -10044,6 +10028,14 @@
       "low": 119.89,
       "close": 125.59,
       "volume": 4656000
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3676353
     }
   ]
 }

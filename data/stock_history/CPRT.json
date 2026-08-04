@@ -1,26 +1,10 @@
 {
   "code": "CPRT",
   "ticker": "CPRT",
-  "last_updated": "2026-08-03 07:27:43",
+  "last_updated": "2026-08-04 07:27:17",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 36.79,
-      "high": 37.08,
-      "low": 36.39,
-      "close": 36.51,
-      "volume": 3694000
-    },
-    {
-      "date": "2021-08-03",
-      "open": 36.67,
-      "high": 37.21,
-      "low": 36.57,
-      "close": 37.05,
-      "volume": 2994800
-    },
     {
       "date": "2021-08-04",
       "open": 36.88,
@@ -10043,7 +10027,15 @@
       "high": 29.24,
       "low": 28.78,
       "close": 29.12,
-      "volume": 8532000
+      "volume": 8533600
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 10711529
     }
   ]
 }

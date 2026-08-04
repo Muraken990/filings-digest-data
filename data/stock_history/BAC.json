@@ -1,26 +1,10 @@
 {
   "code": "BAC",
   "ticker": "BAC",
-  "last_updated": "2026-08-03 07:14:50",
+  "last_updated": "2026-08-04 07:14:24",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 33.97,
-      "high": 34.46,
-      "low": 33.54,
-      "close": 33.59,
-      "volume": 49894000
-    },
-    {
-      "date": "2021-08-03",
-      "open": 33.67,
-      "high": 34.18,
-      "low": 33.22,
-      "close": 34.11,
-      "volume": 39680600
-    },
     {
       "date": "2021-08-04",
       "open": 33.65,
@@ -4913,7 +4897,7 @@
       "date": "2024-01-09",
       "open": 31.89,
       "high": 31.91,
-      "low": 31.6,
+      "low": 31.59,
       "close": 31.71,
       "volume": 39268800
     },
@@ -10044,6 +10028,14 @@
       "low": 61.54,
       "close": 61.95,
       "volume": 27282600
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 18813868
     }
   ]
 }

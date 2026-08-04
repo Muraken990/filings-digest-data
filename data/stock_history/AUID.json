@@ -1,26 +1,10 @@
 {
   "code": "AUID",
   "ticker": "AUID",
-  "last_updated": "2026-08-03 07:13:11",
+  "last_updated": "2026-08-04 07:12:45",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 80.0,
-      "high": 80.0,
-      "low": 73.28,
-      "close": 76.24,
-      "volume": 725
-    },
-    {
-      "date": "2021-08-03",
-      "open": 76.24,
-      "high": 77.2,
-      "low": 72.08,
-      "close": 77.04,
-      "volume": 1325
-    },
     {
       "date": "2021-08-04",
       "open": 72.08,
@@ -10044,6 +10028,14 @@
       "low": 0.66,
       "close": 0.73,
       "volume": 92300
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 112899
     }
   ]
 }

@@ -1,25 +1,17 @@
 {
   "code": "EIG",
   "ticker": "EIG",
-  "last_updated": "2026-08-03 07:35:26",
+  "last_updated": "2026-08-04 07:35:01",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-08-02",
-      "open": 34.47,
-      "high": 35.32,
-      "low": 34.37,
-      "close": 34.63,
-      "volume": 111000
-    },
-    {
       "date": "2021-08-03",
-      "open": 34.66,
-      "high": 34.9,
-      "low": 34.39,
-      "close": 34.62,
-      "volume": 109300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-04",
@@ -5967,8 +5959,8 @@
     },
     {
       "date": "2024-07-19",
-      "open": 44.15,
-      "high": 44.15,
+      "open": 44.14,
+      "high": 44.14,
       "low": 42.43,
       "close": 42.48,
       "volume": 115200
@@ -10044,6 +10036,14 @@
       "low": 49.66,
       "close": 50.55,
       "volume": 264700
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 130378
     }
   ]
 }

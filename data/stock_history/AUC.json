@@ -1,26 +1,10 @@
 {
   "code": "AUC",
   "ticker": "AUC",
-  "last_updated": "2026-08-03 07:13:10",
+  "last_updated": "2026-08-04 07:12:44",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 14.04,
-      "high": 14.31,
-      "low": 13.55,
-      "close": 14.02,
-      "volume": 3706
-    },
-    {
-      "date": "2021-08-03",
-      "open": 14.09,
-      "high": 14.31,
-      "low": 13.5,
-      "close": 13.86,
-      "volume": 11711
-    },
     {
       "date": "2021-08-04",
       "open": 14.06,
@@ -10044,6 +10028,14 @@
       "low": 6.0,
       "close": 7.19,
       "volume": 15400
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 764
     }
   ]
 }

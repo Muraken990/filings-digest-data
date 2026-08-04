@@ -1,26 +1,10 @@
 {
   "code": "DTW",
   "ticker": "DTW",
-  "last_updated": "2026-08-03 07:33:43",
+  "last_updated": "2026-08-04 07:33:17",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 19.97,
-      "high": 20.03,
-      "low": 19.93,
-      "close": 19.93,
-      "volume": 15100
-    },
-    {
-      "date": "2021-08-03",
-      "open": 19.97,
-      "high": 19.98,
-      "low": 19.9,
-      "close": 19.95,
-      "volume": 41200
-    },
     {
       "date": "2021-08-04",
       "open": 19.95,
@@ -10044,6 +10028,14 @@
       "low": 20.12,
       "close": 20.21,
       "volume": 51500
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 18702
     }
   ]
 }

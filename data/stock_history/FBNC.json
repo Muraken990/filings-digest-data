@@ -1,26 +1,10 @@
 {
   "code": "FBNC",
   "ticker": "FBNC",
-  "last_updated": "2026-08-03 07:38:54",
+  "last_updated": "2026-08-04 07:38:29",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 36.03,
-      "high": 36.8,
-      "low": 35.67,
-      "close": 35.9,
-      "volume": 182900
-    },
-    {
-      "date": "2021-08-03",
-      "open": 35.9,
-      "high": 36.19,
-      "low": 35.49,
-      "close": 36.08,
-      "volume": 144300
-    },
     {
       "date": "2021-08-04",
       "open": 35.57,
@@ -5505,7 +5489,7 @@
       "date": "2024-04-25",
       "open": 32.32,
       "high": 32.32,
-      "low": 30.06,
+      "low": 30.07,
       "close": 30.16,
       "volume": 256200
     },
@@ -10044,6 +10028,14 @@
       "low": 62.47,
       "close": 62.87,
       "volume": 193900
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 191299
     }
   ]
 }

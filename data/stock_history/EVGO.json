@@ -1,26 +1,10 @@
 {
   "code": "EVGO",
   "ticker": "EVGO",
-  "last_updated": "2026-08-03 07:38:01",
+  "last_updated": "2026-08-04 07:37:36",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 11.54,
-      "high": 11.6,
-      "low": 9.95,
-      "close": 9.96,
-      "volume": 10747900
-    },
-    {
-      "date": "2021-08-03",
-      "open": 10.14,
-      "high": 10.19,
-      "low": 9.02,
-      "close": 9.11,
-      "volume": 7923100
-    },
     {
       "date": "2021-08-04",
       "open": 9.11,
@@ -10043,7 +10027,15 @@
       "high": 1.69,
       "low": 1.55,
       "close": 1.58,
-      "volume": 2768600
+      "volume": 2780500
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1844875
     }
   ]
 }

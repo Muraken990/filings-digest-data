@@ -1,26 +1,10 @@
 {
   "code": "CBRE",
   "ticker": "CBRE",
-  "last_updated": "2026-08-03 07:22:31",
+  "last_updated": "2026-08-04 07:22:06",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 97.38,
-      "high": 97.96,
-      "low": 95.36,
-      "close": 95.65,
-      "volume": 1032800
-    },
-    {
-      "date": "2021-08-03",
-      "open": 96.18,
-      "high": 96.29,
-      "low": 94.82,
-      "close": 96.21,
-      "volume": 1166600
-    },
     {
       "date": "2021-08-04",
       "open": 96.5,
@@ -10043,7 +10027,15 @@
       "high": 150.49,
       "low": 144.87,
       "close": 146.81,
-      "volume": 1830800
+      "volume": 1831300
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1496967
     }
   ]
 }

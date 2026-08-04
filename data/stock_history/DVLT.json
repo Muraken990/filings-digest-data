@@ -1,26 +1,10 @@
 {
   "code": "DVLT",
   "ticker": "DVLT",
-  "last_updated": "2026-08-03 07:33:44",
+  "last_updated": "2026-08-04 07:33:18",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 54000.0,
-      "high": 56250.0,
-      "low": 53550.0,
-      "close": 55500.0,
-      "volume": 22
-    },
-    {
-      "date": "2021-08-03",
-      "open": 55350.0,
-      "high": 56700.0,
-      "low": 51300.0,
-      "close": 51900.0,
-      "volume": 30
-    },
     {
       "date": "2021-08-04",
       "open": 51450.0,
@@ -10043,7 +10027,15 @@
       "high": 0.36,
       "low": 0.33,
       "close": 0.34,
-      "volume": 8772000
+      "volume": 8834800
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 9567866
     }
   ]
 }

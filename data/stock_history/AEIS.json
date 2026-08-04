@@ -1,26 +1,10 @@
 {
   "code": "AEIS",
   "ticker": "AEIS",
-  "last_updated": "2026-08-03 07:06:20",
+  "last_updated": "2026-08-04 07:05:52",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 102.95,
-      "high": 104.71,
-      "low": 101.06,
-      "close": 101.16,
-      "volume": 113100
-    },
-    {
-      "date": "2021-08-03",
-      "open": 101.91,
-      "high": 102.65,
-      "low": 98.48,
-      "close": 101.01,
-      "volume": 195600
-    },
     {
       "date": "2021-08-04",
       "open": 90.21,
@@ -289,7 +273,7 @@
       "date": "2021-09-21",
       "open": 83.46,
       "high": 84.15,
-      "low": 81.45,
+      "low": 81.46,
       "close": 83.34,
       "volume": 182900
     },
@@ -10044,6 +10028,14 @@
       "low": 283.42,
       "close": 289.52,
       "volume": 991800
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1117274
     }
   ]
 }

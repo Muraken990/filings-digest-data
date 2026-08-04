@@ -1,26 +1,10 @@
 {
   "code": "ETX",
   "ticker": "ETX",
-  "last_updated": "2026-08-03 07:37:59",
+  "last_updated": "2026-08-04 07:37:34",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 18.44,
-      "high": 18.68,
-      "low": 18.28,
-      "close": 18.28,
-      "volume": 18600
-    },
-    {
-      "date": "2021-08-03",
-      "open": 18.38,
-      "high": 18.56,
-      "low": 18.21,
-      "close": 18.25,
-      "volume": 10700
-    },
     {
       "date": "2021-08-04",
       "open": 18.3,
@@ -3488,7 +3472,7 @@
     {
       "date": "2023-04-25",
       "open": 15.86,
-      "high": 15.89,
+      "high": 15.88,
       "low": 15.83,
       "close": 15.83,
       "volume": 7200
@@ -10044,6 +10028,14 @@
       "low": 18.12,
       "close": 18.2,
       "volume": 15300
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 10886
     }
   ]
 }

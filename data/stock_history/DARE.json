@@ -1,26 +1,10 @@
 {
   "code": "DARE",
   "ticker": "DARE",
-  "last_updated": "2026-08-03 07:31:05",
+  "last_updated": "2026-08-04 07:30:39",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 18.72,
-      "high": 19.56,
-      "low": 18.24,
-      "close": 19.2,
-      "volume": 291800
-    },
-    {
-      "date": "2021-08-03",
-      "open": 19.08,
-      "high": 19.19,
-      "low": 18.12,
-      "close": 18.36,
-      "volume": 297258
-    },
     {
       "date": "2021-08-04",
       "open": 18.24,
@@ -10043,7 +10027,15 @@
       "high": 1.27,
       "low": 1.21,
       "close": 1.22,
-      "volume": 72200
+      "volume": 73300
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 126320
     }
   ]
 }

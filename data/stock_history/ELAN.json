@@ -1,26 +1,10 @@
 {
   "code": "ELAN",
   "ticker": "ELAN",
-  "last_updated": "2026-08-03 07:35:27",
+  "last_updated": "2026-08-04 07:35:01",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 36.71,
-      "high": 36.73,
-      "low": 36.3,
-      "close": 36.5,
-      "volume": 1466000
-    },
-    {
-      "date": "2021-08-03",
-      "open": 36.57,
-      "high": 36.76,
-      "low": 36.2,
-      "close": 36.72,
-      "volume": 1581700
-    },
     {
       "date": "2021-08-04",
       "open": 36.38,
@@ -10043,7 +10027,15 @@
       "high": 26.47,
       "low": 25.77,
       "close": 26.37,
-      "volume": 5193000
+      "volume": 5193900
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 4657115
     }
   ]
 }

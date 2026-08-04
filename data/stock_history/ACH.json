@@ -1,26 +1,10 @@
 {
   "code": "ACH",
   "ticker": "ACH",
-  "last_updated": "2026-08-03 07:05:26",
+  "last_updated": "2026-08-04 07:04:59",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 46.11,
-      "high": 46.9,
-      "low": 43.87,
-      "close": 46.89,
-      "volume": 1159800
-    },
-    {
-      "date": "2021-08-03",
-      "open": 42.44,
-      "high": 43.21,
-      "low": 39.61,
-      "close": 42.75,
-      "volume": 2982700
-    },
     {
       "date": "2021-08-04",
       "open": 42.11,
@@ -10044,6 +10028,14 @@
       "low": 3.0,
       "close": 3.09,
       "volume": 610900
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 483423
     }
   ]
 }

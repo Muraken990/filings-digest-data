@@ -1,26 +1,10 @@
 {
   "code": "CMS",
   "ticker": "CMS",
-  "last_updated": "2026-08-03 07:26:01",
+  "last_updated": "2026-08-04 07:25:35",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 53.16,
-      "high": 53.85,
-      "low": 52.99,
-      "close": 53.71,
-      "volume": 1386500
-    },
-    {
-      "date": "2021-08-03",
-      "open": 53.81,
-      "high": 54.61,
-      "low": 53.47,
-      "close": 54.21,
-      "volume": 1617300
-    },
     {
       "date": "2021-08-04",
       "open": 54.0,
@@ -440,7 +424,7 @@
     {
       "date": "2021-10-18",
       "open": 51.49,
-      "high": 51.49,
+      "high": 51.5,
       "low": 51.01,
       "close": 51.4,
       "volume": 2546900
@@ -3711,7 +3695,7 @@
     },
     {
       "date": "2023-06-05",
-      "open": 53.09,
+      "open": 53.1,
       "high": 53.9,
       "low": 53.04,
       "close": 53.63,
@@ -10043,7 +10027,15 @@
       "high": 72.56,
       "low": 71.54,
       "close": 71.99,
-      "volume": 4537100
+      "volume": 4537600
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2098648
     }
   ]
 }

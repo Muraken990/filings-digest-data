@@ -1,26 +1,10 @@
 {
   "code": "BILL",
   "ticker": "BILL",
-  "last_updated": "2026-08-03 07:17:25",
+  "last_updated": "2026-08-04 07:16:59",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 207.18,
-      "high": 209.65,
-      "low": 201.98,
-      "close": 207.05,
-      "volume": 362600
-    },
-    {
-      "date": "2021-08-03",
-      "open": 206.02,
-      "high": 208.3,
-      "low": 203.74,
-      "close": 207.45,
-      "volume": 451300
-    },
     {
       "date": "2021-08-04",
       "open": 208.01,
@@ -10044,6 +10028,14 @@
       "low": 44.6,
       "close": 45.13,
       "volume": 2206000
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2988107
     }
   ]
 }

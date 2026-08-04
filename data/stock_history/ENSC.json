@@ -1,26 +1,10 @@
 {
   "code": "ENSC",
   "ticker": "ENSC",
-  "last_updated": "2026-08-03 07:36:18",
+  "last_updated": "2026-08-04 07:35:53",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 20880.0,
-      "high": 21600.0,
-      "low": 19440.0,
-      "close": 19584.0,
-      "volume": 792
-    },
-    {
-      "date": "2021-08-03",
-      "open": 19584.0,
-      "high": 20520.0,
-      "low": 16596.0,
-      "close": 17280.0,
-      "volume": 620
-    },
     {
       "date": "2021-08-04",
       "open": 17208.0,
@@ -10044,6 +10028,14 @@
       "low": 0.25,
       "close": 0.25,
       "volume": 278900
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 60825816
     }
   ]
 }

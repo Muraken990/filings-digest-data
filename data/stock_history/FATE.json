@@ -1,26 +1,10 @@
 {
   "code": "FATE",
   "ticker": "FATE",
-  "last_updated": "2026-08-03 07:38:52",
+  "last_updated": "2026-08-04 07:38:28",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 83.54,
-      "high": 86.08,
-      "low": 82.81,
-      "close": 85.08,
-      "volume": 627800
-    },
-    {
-      "date": "2021-08-03",
-      "open": 86.11,
-      "high": 86.11,
-      "low": 80.25,
-      "close": 83.25,
-      "volume": 774700
-    },
     {
       "date": "2021-08-04",
       "open": 82.36,
@@ -10043,7 +10027,15 @@
       "high": 2.56,
       "low": 2.39,
       "close": 2.45,
-      "volume": 1458700
+      "volume": 1459200
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1250945
     }
   ]
 }

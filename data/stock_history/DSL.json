@@ -1,26 +1,10 @@
 {
   "code": "DSL",
   "ticker": "DSL",
-  "last_updated": "2026-08-03 07:33:39",
+  "last_updated": "2026-08-04 07:33:14",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 10.19,
-      "high": 10.2,
-      "low": 10.13,
-      "close": 10.16,
-      "volume": 266400
-    },
-    {
-      "date": "2021-08-03",
-      "open": 10.17,
-      "high": 10.24,
-      "low": 10.17,
-      "close": 10.21,
-      "volume": 225500
-    },
     {
       "date": "2021-08-04",
       "open": 10.23,
@@ -2634,7 +2618,7 @@
       "open": 7.52,
       "high": 7.55,
       "low": 7.41,
-      "close": 7.44,
+      "close": 7.43,
       "volume": 358800
     },
     {
@@ -5737,7 +5721,7 @@
       "date": "2024-06-06",
       "open": 9.9,
       "high": 9.92,
-      "low": 9.78,
+      "low": 9.77,
       "close": 9.84,
       "volume": 345800
     },
@@ -10044,6 +10028,14 @@
       "low": 10.65,
       "close": 10.67,
       "volume": 443800
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 485474
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "DIN",
   "ticker": "DIN",
-  "last_updated": "2026-08-03 07:31:59",
+  "last_updated": "2026-08-04 07:31:33",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 63.35,
-      "high": 65.84,
-      "low": 62.97,
-      "close": 63.69,
-      "volume": 232100
-    },
-    {
-      "date": "2021-08-03",
-      "open": 64.28,
-      "high": 64.31,
-      "low": 61.49,
-      "close": 63.49,
-      "volume": 325700
-    },
     {
       "date": "2021-08-04",
       "open": 62.19,
@@ -1497,7 +1481,7 @@
       "date": "2022-04-27",
       "open": 59.61,
       "high": 60.52,
-      "low": 58.82,
+      "low": 58.83,
       "close": 59.56,
       "volume": 120100
     },
@@ -10044,6 +10028,14 @@
       "low": 35.24,
       "close": 35.94,
       "volume": 173800
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 212623
     }
   ]
 }

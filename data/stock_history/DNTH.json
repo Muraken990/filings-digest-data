@@ -1,26 +1,10 @@
 {
   "code": "DNTH",
   "ticker": "DNTH",
-  "last_updated": "2026-08-03 07:32:49",
+  "last_updated": "2026-08-04 07:32:23",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 115.52,
-      "high": 117.28,
-      "low": 112.96,
-      "close": 113.76,
-      "volume": 12719
-    },
-    {
-      "date": "2021-08-03",
-      "open": 106.56,
-      "high": 107.52,
-      "low": 97.92,
-      "close": 101.28,
-      "volume": 28319
-    },
     {
       "date": "2021-08-04",
       "open": 100.16,
@@ -10043,7 +10027,15 @@
       "high": 114.55,
       "low": 105.66,
       "close": 106.92,
-      "volume": 1052500
+      "volume": 1075500
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 772470
     }
   ]
 }

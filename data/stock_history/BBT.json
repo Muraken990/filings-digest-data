@@ -1,26 +1,10 @@
 {
   "code": "BBT",
   "ticker": "BBT",
-  "last_updated": "2026-08-03 07:15:40",
+  "last_updated": "2026-08-04 07:15:14",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 23.66,
-      "high": 24.3,
-      "low": 23.43,
-      "close": 23.5,
-      "volume": 311400
-    },
-    {
-      "date": "2021-08-03",
-      "open": 23.6,
-      "high": 24.29,
-      "low": 23.11,
-      "close": 24.17,
-      "volume": 288700
-    },
     {
       "date": "2021-08-04",
       "open": 23.76,
@@ -2560,9 +2544,9 @@
     {
       "date": "2022-11-04",
       "open": 24.93,
-      "high": 25.21,
+      "high": 25.2,
       "low": 24.59,
-      "close": 25.21,
+      "close": 25.2,
       "volume": 352500
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 30.28,
       "close": 31.51,
       "volume": 1059900
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 698971
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "ATNI",
   "ticker": "ATNI",
-  "last_updated": "2026-08-03 07:13:08",
+  "last_updated": "2026-08-04 07:12:42",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 36.5,
-      "high": 37.0,
-      "low": 35.79,
-      "close": 36.1,
-      "volume": 40400
-    },
-    {
-      "date": "2021-08-03",
-      "open": 36.05,
-      "high": 37.0,
-      "low": 35.92,
-      "close": 36.84,
-      "volume": 40900
-    },
     {
       "date": "2021-08-04",
       "open": 36.86,
@@ -4121,7 +4105,7 @@
       "date": "2023-08-17",
       "open": 32.5,
       "high": 32.86,
-      "low": 32.36,
+      "low": 32.35,
       "close": 32.54,
       "volume": 31400
     },
@@ -10044,6 +10028,14 @@
       "low": 23.2,
       "close": 23.81,
       "volume": 76400
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 70379
     }
   ]
 }

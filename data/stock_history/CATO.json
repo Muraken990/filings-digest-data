@@ -1,26 +1,10 @@
 {
   "code": "CATO",
   "ticker": "CATO",
-  "last_updated": "2026-08-03 07:21:44",
+  "last_updated": "2026-08-04 07:21:18",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-02",
-      "open": 12.65,
-      "high": 13.03,
-      "low": 12.61,
-      "close": 12.65,
-      "volume": 97000
-    },
-    {
-      "date": "2021-08-03",
-      "open": 12.7,
-      "high": 13.13,
-      "low": 12.48,
-      "close": 12.93,
-      "volume": 139600
-    },
     {
       "date": "2021-08-04",
       "open": 12.87,
@@ -10044,6 +10028,14 @@
       "low": 3.33,
       "close": 3.42,
       "volume": 58700
+    },
+    {
+      "date": "2026-08-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 47843
     }
   ]
 }
