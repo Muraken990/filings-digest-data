@@ -1,18 +1,10 @@
 {
   "code": "GJS",
   "ticker": "GJS",
-  "last_updated": "2026-08-04 09:35:08",
+  "last_updated": "2026-08-05 09:39:18",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 16.5,
-      "high": 16.5,
-      "low": 16.5,
-      "close": 16.5,
-      "volume": 1400
-    },
     {
       "date": "2021-08-05",
       "open": 16.5,
@@ -6425,16 +6417,16 @@
       "date": "2024-10-11",
       "open": 21.0,
       "high": 21.0,
-      "low": 21.0,
-      "close": 21.0,
+      "low": 20.99,
+      "close": 20.99,
       "volume": 1500
     },
     {
       "date": "2024-10-14",
-      "open": 21.0,
-      "high": 21.0,
-      "low": 21.0,
-      "close": 21.0,
+      "open": 20.99,
+      "high": 20.99,
+      "low": 20.99,
+      "close": 20.99,
       "volume": 0
     },
     {
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1154
+      "open": 23.41,
+      "high": 23.65,
+      "low": 23.41,
+      "close": 23.64,
+      "volume": 1200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 23.64,
+      "high": 23.64,
+      "low": 23.64,
+      "close": 23.64,
+      "volume": 0
     }
   ]
 }

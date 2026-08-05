@@ -1,9 +1,9 @@
 {
   "code": "JCAP",
   "ticker": "JCAP",
-  "last_updated": "2026-08-04 09:45:28",
+  "last_updated": "2026-08-05 09:49:37",
   "period": "5y",
-  "data_points": 277,
+  "data_points": 278,
   "data": [
     {
       "date": "2025-06-26",
@@ -2215,11 +2215,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 290059
+      "open": 20.31,
+      "high": 20.72,
+      "low": 20.17,
+      "close": 20.64,
+      "volume": 290500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 20.57,
+      "high": 20.75,
+      "low": 20.35,
+      "close": 20.47,
+      "volume": 221600
     }
   ]
 }

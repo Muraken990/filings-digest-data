@@ -1,9 +1,9 @@
 {
   "code": "HMR",
   "ticker": "HMR",
-  "last_updated": "2026-08-04 09:39:27",
+  "last_updated": "2026-08-05 09:43:36",
   "period": "5y",
-  "data_points": 364,
+  "data_points": 365,
   "data": [
     {
       "date": "2025-02-20",
@@ -2911,11 +2911,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 27239
+      "open": 1.1,
+      "high": 1.13,
+      "low": 1.09,
+      "close": 1.11,
+      "volume": 27700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.1,
+      "high": 1.24,
+      "low": 1.1,
+      "close": 1.24,
+      "volume": 82900
     }
   ]
 }

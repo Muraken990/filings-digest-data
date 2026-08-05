@@ -1,18 +1,10 @@
 {
   "code": "GAIN",
   "ticker": "GAIN",
-  "last_updated": "2026-08-04 09:33:24",
+  "last_updated": "2026-08-05 09:37:35",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 8.34,
-      "high": 8.36,
-      "low": 8.3,
-      "close": 8.3,
-      "volume": 98700
-    },
     {
       "date": "2021-08-05",
       "open": 8.3,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 311791
+      "open": 16.14,
+      "high": 16.84,
+      "low": 16.11,
+      "close": 16.62,
+      "volume": 312600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 16.66,
+      "high": 16.88,
+      "low": 16.61,
+      "close": 16.85,
+      "volume": 199500
     }
   ]
 }

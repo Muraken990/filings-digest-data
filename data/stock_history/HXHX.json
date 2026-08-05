@@ -1,9 +1,9 @@
 {
   "code": "HXHX",
   "ticker": "HXHX",
-  "last_updated": "2026-08-04 09:41:10",
+  "last_updated": "2026-08-05 09:45:18",
   "period": "5y",
-  "data_points": 326,
+  "data_points": 327,
   "data": [
     {
       "date": "2025-04-15",
@@ -2607,11 +2607,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 58389
+      "open": 0.48,
+      "high": 0.5,
+      "low": 0.45,
+      "close": 0.48,
+      "volume": 58400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.47,
+      "high": 0.48,
+      "low": 0.43,
+      "close": 0.48,
+      "volume": 18300
     }
   ]
 }

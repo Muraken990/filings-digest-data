@@ -1,18 +1,10 @@
 {
   "code": "GDEV",
   "ticker": "GDEV",
-  "last_updated": "2026-08-04 09:33:28",
+  "last_updated": "2026-08-05 09:37:39",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 82.43,
-      "high": 82.51,
-      "low": 82.43,
-      "close": 82.51,
-      "volume": 8000
-    },
     {
       "date": "2021-08-05",
       "open": 82.51,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2770
+      "open": 12.5,
+      "high": 12.59,
+      "low": 12.5,
+      "close": 12.5,
+      "volume": 2800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 12.45,
+      "high": 12.69,
+      "low": 12.45,
+      "close": 12.69,
+      "volume": 500
     }
   ]
 }

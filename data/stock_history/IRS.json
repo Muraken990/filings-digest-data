@@ -1,18 +1,10 @@
 {
   "code": "IRS",
   "ticker": "IRS",
-  "last_updated": "2026-08-04 09:44:37",
+  "last_updated": "2026-08-05 09:48:45",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 3.35,
-      "high": 3.35,
-      "low": 3.27,
-      "close": 3.31,
-      "volume": 15872
-    },
     {
       "date": "2021-08-05",
       "open": 3.32,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 93301
+      "open": 15.25,
+      "high": 15.5,
+      "low": 15.16,
+      "close": 15.23,
+      "volume": 95300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 15.38,
+      "high": 15.39,
+      "low": 14.9,
+      "close": 14.97,
+      "volume": 90100
     }
   ]
 }

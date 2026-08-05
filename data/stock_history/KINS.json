@@ -1,18 +1,10 @@
 {
   "code": "KINS",
   "ticker": "KINS",
-  "last_updated": "2026-08-04 09:47:12",
+  "last_updated": "2026-08-05 09:51:20",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 7.31,
-      "high": 7.44,
-      "low": 7.31,
-      "close": 7.44,
-      "volume": 2500
-    },
     {
       "date": "2021-08-05",
       "open": 7.35,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 75742
+      "open": 20.13,
+      "high": 20.65,
+      "low": 20.06,
+      "close": 20.16,
+      "volume": 75700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 20.17,
+      "high": 20.47,
+      "low": 19.97,
+      "close": 20.31,
+      "volume": 68300
     }
   ]
 }

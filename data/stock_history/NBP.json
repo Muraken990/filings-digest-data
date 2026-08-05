@@ -1,18 +1,10 @@
 {
   "code": "NBP",
   "ticker": "NBP",
-  "last_updated": "2026-08-04 09:59:10",
+  "last_updated": "2026-08-05 10:03:19",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 78.36,
-      "high": 81.0,
-      "low": 76.2,
-      "close": 76.85,
-      "volume": 412000
-    },
     {
       "date": "2021-08-05",
       "open": 75.87,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 168048
+      "open": 1.63,
+      "high": 1.63,
+      "low": 1.59,
+      "close": 1.61,
+      "volume": 168600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.6,
+      "high": 1.67,
+      "low": 1.6,
+      "close": 1.65,
+      "volume": 250200
     }
   ]
 }

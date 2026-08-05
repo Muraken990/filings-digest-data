@@ -1,9 +1,9 @@
 {
   "code": "MAIR",
   "ticker": "MAIR",
-  "last_updated": "2026-08-04 09:53:08",
+  "last_updated": "2026-08-05 09:57:17",
   "period": "5y",
-  "data_points": 75,
+  "data_points": 76,
   "data": [
     {
       "date": "2026-04-16",
@@ -599,11 +599,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1609440
+      "open": 29.19,
+      "high": 30.0,
+      "low": 28.66,
+      "close": 29.18,
+      "volume": 1609400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 29.97,
+      "high": 32.53,
+      "low": 29.79,
+      "close": 31.75,
+      "volume": 3237700
     }
   ]
 }

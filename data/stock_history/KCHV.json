@@ -1,9 +1,9 @@
 {
   "code": "KCHV",
   "ticker": "KCHV",
-  "last_updated": "2026-08-04 09:47:08",
+  "last_updated": "2026-08-05 09:51:16",
   "period": "5y",
-  "data_points": 261,
+  "data_points": 262,
   "data": [
     {
       "date": "2025-07-21",
@@ -2087,11 +2087,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 60017
+      "open": 10.4,
+      "high": 10.4,
+      "low": 10.4,
+      "close": 10.4,
+      "volume": 60000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.4,
+      "high": 10.4,
+      "low": 10.39,
+      "close": 10.4,
+      "volume": 35800
     }
   ]
 }

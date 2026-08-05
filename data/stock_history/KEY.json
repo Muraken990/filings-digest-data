@@ -1,18 +1,10 @@
 {
   "code": "KEY",
   "ticker": "KEY",
-  "last_updated": "2026-08-04 09:47:10",
+  "last_updated": "2026-08-05 09:51:18",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 15.43,
-      "high": 15.77,
-      "low": 15.37,
-      "close": 15.4,
-      "volume": 7512400
-    },
     {
       "date": "2021-08-05",
       "open": 15.51,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6025979
+      "open": 22.56,
+      "high": 22.87,
+      "low": 22.55,
+      "close": 22.81,
+      "volume": 8006900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 22.79,
+      "high": 23.27,
+      "low": 22.76,
+      "close": 23.1,
+      "volume": 7935200
     }
   ]
 }

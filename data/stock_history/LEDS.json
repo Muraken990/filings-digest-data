@@ -1,18 +1,10 @@
 {
   "code": "LEDS",
   "ticker": "LEDS",
-  "last_updated": "2026-08-04 09:49:44",
+  "last_updated": "2026-08-05 09:53:53",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 8.28,
-      "high": 9.6,
-      "low": 7.99,
-      "close": 9.06,
-      "volume": 2204200
-    },
     {
       "date": "2021-08-05",
       "open": 8.99,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 62450
+      "open": 2.12,
+      "high": 2.33,
+      "low": 2.1,
+      "close": 2.2,
+      "volume": 65000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.21,
+      "high": 2.3,
+      "low": 2.06,
+      "close": 2.1,
+      "volume": 107300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "KRMN",
   "ticker": "KRMN",
-  "last_updated": "2026-08-04 09:48:49",
+  "last_updated": "2026-08-05 09:52:56",
   "period": "5y",
-  "data_points": 368,
+  "data_points": 369,
   "data": [
     {
       "date": "2025-02-13",
@@ -2943,11 +2943,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2318790
+      "open": 47.84,
+      "high": 50.97,
+      "low": 47.59,
+      "close": 50.44,
+      "volume": 2674700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 51.96,
+      "high": 54.71,
+      "low": 51.13,
+      "close": 53.99,
+      "volume": 4187000
     }
   ]
 }

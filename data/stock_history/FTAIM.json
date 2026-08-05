@@ -1,9 +1,9 @@
 {
   "code": "FTAIM",
   "ticker": "FTAIM",
-  "last_updated": "2026-08-04 09:32:32",
+  "last_updated": "2026-08-05 09:36:44",
   "period": "5y",
-  "data_points": 853,
+  "data_points": 854,
   "data": [
     {
       "date": "2023-03-09",
@@ -6823,11 +6823,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 831
+      "open": 27.5,
+      "high": 27.55,
+      "low": 27.5,
+      "close": 27.55,
+      "volume": 500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 27.59,
+      "high": 27.59,
+      "low": 27.52,
+      "close": 27.55,
+      "volume": 700
     }
   ]
 }

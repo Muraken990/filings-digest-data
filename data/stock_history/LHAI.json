@@ -1,9 +1,9 @@
 {
   "code": "LHAI",
   "ticker": "LHAI",
-  "last_updated": "2026-08-04 09:50:34",
+  "last_updated": "2026-08-05 09:54:42",
   "period": "5y",
-  "data_points": 258,
+  "data_points": 259,
   "data": [
     {
       "date": "2025-07-24",
@@ -2063,11 +2063,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 196580
+      "open": 0.88,
+      "high": 0.93,
+      "low": 0.82,
+      "close": 0.85,
+      "volume": 198600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.84,
+      "high": 0.86,
+      "low": 0.82,
+      "close": 0.82,
+      "volume": 65900
     }
   ]
 }

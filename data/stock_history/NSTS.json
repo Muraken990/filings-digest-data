@@ -1,9 +1,9 @@
 {
   "code": "NSTS",
   "ticker": "NSTS",
-  "last_updated": "2026-08-04 10:02:34",
+  "last_updated": "2026-08-05 10:06:43",
   "period": "5y",
-  "data_points": 1138,
+  "data_points": 1139,
   "data": [
     {
       "date": "2022-01-19",
@@ -9103,11 +9103,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 986
+      "open": 13.81,
+      "high": 13.81,
+      "low": 13.8,
+      "close": 13.8,
+      "volume": 1100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 13.81,
+      "high": 13.81,
+      "low": 13.8,
+      "close": 13.8,
+      "volume": 3700
     }
   ]
 }

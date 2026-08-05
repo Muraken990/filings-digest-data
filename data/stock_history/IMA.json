@@ -1,18 +1,10 @@
 {
   "code": "IMA",
   "ticker": "IMA",
-  "last_updated": "2026-08-04 09:42:51",
+  "last_updated": "2026-08-05 09:47:00",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 117.84,
-      "high": 121.3,
-      "low": 116.66,
-      "close": 120.0,
-      "volume": 1850
-    },
     {
       "date": "2021-08-05",
       "open": 120.12,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3813
+      "open": 5.54,
+      "high": 5.73,
+      "low": 5.53,
+      "close": 5.64,
+      "volume": 3800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 5.69,
+      "high": 5.81,
+      "low": 5.69,
+      "close": 5.71,
+      "volume": 7200
     }
   ]
 }

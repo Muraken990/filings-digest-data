@@ -1,9 +1,9 @@
 {
   "code": "IGAC",
   "ticker": "IGAC",
-  "last_updated": "2026-08-04 09:42:03",
+  "last_updated": "2026-08-05 09:46:11",
   "period": "5y",
-  "data_points": 153,
+  "data_points": 154,
   "data": [
     {
       "date": "2025-12-22",
@@ -1223,11 +1223,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 508
+      "open": 10.02,
+      "high": 10.02,
+      "low": 10.02,
+      "close": 10.02,
+      "volume": 500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.02,
+      "high": 10.02,
+      "low": 10.02,
+      "close": 10.02,
+      "volume": 0
     }
   ]
 }

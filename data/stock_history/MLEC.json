@@ -1,18 +1,10 @@
 {
   "code": "MLEC",
   "ticker": "MLEC",
-  "last_updated": "2026-08-04 09:55:44",
+  "last_updated": "2026-08-05 09:59:53",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 1464.0,
-      "high": 1470.0,
-      "low": 1464.0,
-      "close": 1470.0,
-      "volume": 55
-    },
     {
       "date": "2021-08-05",
       "open": 1470.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7457
+      "open": 6.94,
+      "high": 6.97,
+      "low": 6.59,
+      "close": 6.97,
+      "volume": 7600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 7.2,
+      "high": 7.2,
+      "low": 7.2,
+      "close": 7.2,
+      "volume": 600
     }
   ]
 }

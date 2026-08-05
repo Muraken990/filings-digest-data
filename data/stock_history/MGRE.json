@@ -1,9 +1,9 @@
 {
   "code": "MGRE",
   "ticker": "MGRE",
-  "last_updated": "2026-08-04 09:55:39",
+  "last_updated": "2026-08-05 09:59:47",
   "period": "5y",
-  "data_points": 589,
+  "data_points": 590,
   "data": [
     {
       "date": "2024-03-27",
@@ -4711,11 +4711,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 12580
+      "open": 23.0,
+      "high": 23.11,
+      "low": 23.0,
+      "close": 23.07,
+      "volume": 12600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 23.15,
+      "high": 23.16,
+      "low": 23.06,
+      "close": 23.11,
+      "volume": 18100
     }
   ]
 }

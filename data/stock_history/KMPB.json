@@ -1,9 +1,9 @@
 {
   "code": "KMPB",
   "ticker": "KMPB",
-  "last_updated": "2026-08-04 09:47:59",
+  "last_updated": "2026-08-05 09:52:07",
   "period": "5y",
-  "data_points": 1099,
+  "data_points": 1100,
   "data": [
     {
       "date": "2022-03-16",
@@ -8791,11 +8791,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 13355
+      "open": 24.79,
+      "high": 24.79,
+      "low": 24.65,
+      "close": 24.7,
+      "volume": 13900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 24.8,
+      "high": 24.8,
+      "low": 24.65,
+      "close": 24.65,
+      "volume": 12500
     }
   ]
 }

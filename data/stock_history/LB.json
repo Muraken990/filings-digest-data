@@ -1,9 +1,9 @@
 {
   "code": "LB",
   "ticker": "LB",
-  "last_updated": "2026-08-04 09:49:41",
+  "last_updated": "2026-08-05 09:53:50",
   "period": "5y",
-  "data_points": 525,
+  "data_points": 526,
   "data": [
     {
       "date": "2024-06-28",
@@ -4199,11 +4199,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 212632
+      "open": 76.18,
+      "high": 76.56,
+      "low": 74.85,
+      "close": 75.06,
+      "volume": 212600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 74.5,
+      "high": 74.94,
+      "low": 72.85,
+      "close": 73.68,
+      "volume": 263400
     }
   ]
 }

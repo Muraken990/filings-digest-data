@@ -1,18 +1,10 @@
 {
   "code": "MYO",
   "ticker": "MYO",
-  "last_updated": "2026-08-04 09:59:05",
+  "last_updated": "2026-08-05 10:03:15",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 8.02,
-      "high": 8.18,
-      "low": 7.75,
-      "close": 7.81,
-      "volume": 31500
-    },
     {
       "date": "2021-08-05",
       "open": 7.83,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 295579
+      "open": 1.05,
+      "high": 1.09,
+      "low": 1.03,
+      "close": 1.04,
+      "volume": 301700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.05,
+      "high": 1.12,
+      "low": 1.05,
+      "close": 1.08,
+      "volume": 311800
     }
   ]
 }

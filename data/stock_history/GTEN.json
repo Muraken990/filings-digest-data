@@ -1,9 +1,9 @@
 {
   "code": "GTEN",
   "ticker": "GTEN",
-  "last_updated": "2026-08-04 09:37:41",
+  "last_updated": "2026-08-05 09:41:49",
   "period": "5y",
-  "data_points": 280,
+  "data_points": 281,
   "data": [
     {
       "date": "2025-06-23",
@@ -2239,11 +2239,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1805
+      "open": 10.43,
+      "high": 10.48,
+      "low": 10.43,
+      "close": 10.48,
+      "volume": 1800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.45,
+      "high": 10.48,
+      "low": 10.45,
+      "close": 10.45,
+      "volume": 1800
     }
   ]
 }

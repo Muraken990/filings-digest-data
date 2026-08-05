@@ -1,18 +1,10 @@
 {
   "code": "IRON",
   "ticker": "IRON",
-  "last_updated": "2026-08-04 09:44:36",
+  "last_updated": "2026-08-05 09:48:44",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 117.6,
-      "high": 118.8,
-      "low": 116.1,
-      "close": 118.2,
-      "volume": 7003
-    },
     {
       "date": "2021-08-05",
       "open": 118.65,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 294005
+      "open": 76.79,
+      "high": 77.34,
+      "low": 75.15,
+      "close": 76.31,
+      "volume": 294000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 76.58,
+      "high": 78.69,
+      "low": 76.34,
+      "close": 77.8,
+      "volume": 380000
     }
   ]
 }

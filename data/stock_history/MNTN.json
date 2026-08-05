@@ -1,9 +1,9 @@
 {
   "code": "MNTN",
   "ticker": "MNTN",
-  "last_updated": "2026-08-04 09:56:34",
+  "last_updated": "2026-08-05 10:00:42",
   "period": "5y",
-  "data_points": 300,
+  "data_points": 301,
   "data": [
     {
       "date": "2025-05-22",
@@ -2399,11 +2399,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 774289
+      "open": 9.47,
+      "high": 9.89,
+      "low": 9.44,
+      "close": 9.53,
+      "volume": 913400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 9.56,
+      "high": 10.2,
+      "low": 9.55,
+      "close": 10.05,
+      "volume": 1875600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "OXLCZ",
   "ticker": "OXLCZ",
-  "last_updated": "2026-08-04 10:06:53",
+  "last_updated": "2026-08-05 10:11:01",
   "period": "5y",
-  "data_points": 1140,
+  "data_points": 1141,
   "data": [
     {
       "date": "2022-01-14",
@@ -9119,11 +9119,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2483
+      "open": 24.93,
+      "high": 24.93,
+      "low": 24.92,
+      "close": 24.92,
+      "volume": 2500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 24.92,
+      "high": 24.94,
+      "low": 24.92,
+      "close": 24.94,
+      "volume": 1700
     }
   ]
 }

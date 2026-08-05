@@ -1,9 +1,9 @@
 {
   "code": "HOLO",
   "ticker": "HOLO",
-  "last_updated": "2026-08-04 09:39:28",
+  "last_updated": "2026-08-05 09:43:37",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1253,
   "data": [
     {
       "date": "2021-08-06",
@@ -10015,11 +10015,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 178012
+      "open": 1.5,
+      "high": 1.52,
+      "low": 1.47,
+      "close": 1.5,
+      "volume": 184200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.52,
+      "high": 1.6,
+      "low": 1.49,
+      "close": 1.57,
+      "volume": 304700
     }
   ]
 }

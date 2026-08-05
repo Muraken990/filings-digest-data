@@ -1,18 +1,10 @@
 {
   "code": "PETS",
   "ticker": "PETS",
-  "last_updated": "2026-08-04 10:09:23",
+  "last_updated": "2026-08-05 10:13:30",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 26.23,
-      "high": 26.45,
-      "low": 25.38,
-      "close": 25.76,
-      "volume": 313100
-    },
     {
       "date": "2021-08-05",
       "open": 25.36,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 58832
+      "open": 1.95,
+      "high": 1.99,
+      "low": 1.95,
+      "close": 1.98,
+      "volume": 58800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.96,
+      "high": 2.0,
+      "low": 1.96,
+      "close": 1.99,
+      "volume": 52900
     }
   ]
 }

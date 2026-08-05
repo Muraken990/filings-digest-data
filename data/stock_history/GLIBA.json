@@ -1,9 +1,9 @@
 {
   "code": "GLIBA",
   "ticker": "GLIBA",
-  "last_updated": "2026-08-04 09:35:10",
+  "last_updated": "2026-08-05 09:39:20",
   "period": "5y",
-  "data_points": 267,
+  "data_points": 268,
   "data": [
     {
       "date": "2025-07-11",
@@ -2135,11 +2135,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 36107
+      "open": 23.88,
+      "high": 24.68,
+      "low": 23.88,
+      "close": 24.24,
+      "volume": 36100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 23.89,
+      "high": 24.68,
+      "low": 23.89,
+      "close": 24.58,
+      "volume": 39600
     }
   ]
 }

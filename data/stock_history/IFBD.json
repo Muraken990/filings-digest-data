@@ -1,18 +1,10 @@
 {
   "code": "IFBD",
   "ticker": "IFBD",
-  "last_updated": "2026-08-04 09:42:02",
+  "last_updated": "2026-08-05 09:46:10",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 11680.0,
-      "high": 11712.0,
-      "low": 11200.0,
-      "close": 11240.0,
-      "volume": 85
-    },
     {
       "date": "2021-08-05",
       "open": 11320.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5827
+      "open": 1.01,
+      "high": 1.11,
+      "low": 1.01,
+      "close": 1.08,
+      "volume": 5900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.1,
+      "high": 1.1,
+      "low": 1.0,
+      "close": 1.0,
+      "volume": 8400
     }
   ]
 }

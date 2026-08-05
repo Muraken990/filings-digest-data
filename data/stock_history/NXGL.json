@@ -1,9 +1,9 @@
 {
   "code": "NXGL",
   "ticker": "NXGL",
-  "last_updated": "2026-08-04 10:04:14",
+  "last_updated": "2026-08-05 10:08:23",
   "period": "5y",
-  "data_points": 1156,
+  "data_points": 1157,
   "data": [
     {
       "date": "2021-12-22",
@@ -9247,11 +9247,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 13485
+      "open": 0.43,
+      "high": 0.43,
+      "low": 0.42,
+      "close": 0.42,
+      "volume": 15800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.44,
+      "high": 0.45,
+      "low": 0.41,
+      "close": 0.42,
+      "volume": 30300
     }
   ]
 }

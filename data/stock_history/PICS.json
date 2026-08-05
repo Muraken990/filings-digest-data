@@ -1,9 +1,9 @@
 {
   "code": "PICS",
   "ticker": "PICS",
-  "last_updated": "2026-08-04 10:10:15",
+  "last_updated": "2026-08-05 10:14:21",
   "period": "5y",
-  "data_points": 128,
+  "data_points": 129,
   "data": [
     {
       "date": "2026-01-29",
@@ -1023,11 +1023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 225879
+      "open": 13.27,
+      "high": 13.48,
+      "low": 12.56,
+      "close": 12.8,
+      "volume": 225900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 13.23,
+      "high": 13.75,
+      "low": 12.94,
+      "close": 13.12,
+      "volume": 299100
     }
   ]
 }

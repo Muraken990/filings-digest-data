@@ -1,18 +1,10 @@
 {
   "code": "KPRX",
   "ticker": "KPRX",
-  "last_updated": "2026-08-04 09:48:02",
+  "last_updated": "2026-08-05 09:52:10",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 903.6,
-      "high": 914.4,
-      "low": 820.8,
-      "close": 838.8,
-      "volume": 5427
-    },
     {
       "date": "2021-08-05",
       "open": 820.8,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
+      "open": 2.54,
+      "high": 2.61,
+      "low": 2.52,
+      "close": 2.59,
       "volume": 6500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.57,
+      "high": 2.6,
+      "low": 2.42,
+      "close": 2.47,
+      "volume": 40500
     }
   ]
 }

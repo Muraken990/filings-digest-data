@@ -1,9 +1,9 @@
 {
   "code": "KNF",
   "ticker": "KNF",
-  "last_updated": "2026-08-04 09:48:00",
+  "last_updated": "2026-08-05 09:52:08",
   "period": "5y",
-  "data_points": 792,
+  "data_points": 793,
   "data": [
     {
       "date": "2023-06-06",
@@ -6335,11 +6335,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 713764
+      "open": 74.1,
+      "high": 79.21,
+      "low": 74.1,
+      "close": 78.84,
+      "volume": 851300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 71.15,
+      "high": 72.04,
+      "low": 65.78,
+      "close": 69.51,
+      "volume": 3314100
     }
   ]
 }

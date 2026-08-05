@@ -1,18 +1,10 @@
 {
   "code": "MOVE",
   "ticker": "MOVE",
-  "last_updated": "2026-08-04 09:56:36",
+  "last_updated": "2026-08-05 10:00:44",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 492.64,
-      "high": 492.64,
-      "low": 460.6,
-      "close": 477.17,
-      "volume": 86
-    },
     {
       "date": "2021-08-05",
       "open": 476.07,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7639
+      "open": 11.49,
+      "high": 11.49,
+      "low": 10.74,
+      "close": 10.76,
+      "volume": 7600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 18.78,
+      "high": 18.89,
+      "low": 13.5,
+      "close": 13.73,
+      "volume": 7384600
     }
   ]
 }

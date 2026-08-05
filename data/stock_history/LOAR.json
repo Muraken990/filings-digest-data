@@ -1,9 +1,9 @@
 {
   "code": "LOAR",
   "ticker": "LOAR",
-  "last_updated": "2026-08-04 09:51:25",
+  "last_updated": "2026-08-05 09:55:34",
   "period": "5y",
-  "data_points": 569,
+  "data_points": 570,
   "data": [
     {
       "date": "2024-04-25",
@@ -4551,11 +4551,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 317931
+      "open": 69.46,
+      "high": 72.08,
+      "low": 69.16,
+      "close": 71.96,
+      "volume": 426400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 73.63,
+      "high": 75.78,
+      "low": 72.75,
+      "close": 75.52,
+      "volume": 631700
     }
   ]
 }

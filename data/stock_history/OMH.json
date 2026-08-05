@@ -1,9 +1,9 @@
 {
   "code": "OMH",
   "ticker": "OMH",
-  "last_updated": "2026-08-04 10:05:11",
+  "last_updated": "2026-08-05 10:09:19",
   "period": "5y",
-  "data_points": 844,
+  "data_points": 845,
   "data": [
     {
       "date": "2023-03-22",
@@ -6751,11 +6751,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 30977460
+      "open": 0.11,
+      "high": 0.12,
+      "low": 0.11,
+      "close": 0.12,
+      "volume": 31448800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.11,
+      "high": 0.12,
+      "low": 0.11,
+      "close": 0.11,
+      "volume": 4320900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "NEWTI",
   "ticker": "NEWTI",
-  "last_updated": "2026-08-04 10:00:01",
+  "last_updated": "2026-08-05 10:04:11",
   "period": "5y",
-  "data_points": 731,
+  "data_points": 732,
   "data": [
     {
       "date": "2023-09-01",
@@ -5847,11 +5847,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 207
+      "open": 25.37,
+      "high": 25.37,
+      "low": 25.37,
+      "close": 25.37,
+      "volume": 300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 25.37,
+      "high": 25.37,
+      "low": 25.37,
+      "close": 25.37,
+      "volume": 0
     }
   ]
 }

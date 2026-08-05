@@ -1,9 +1,9 @@
 {
   "code": "MSGE",
   "ticker": "MSGE",
-  "last_updated": "2026-08-04 09:57:26",
+  "last_updated": "2026-08-05 10:01:35",
   "period": "5y",
-  "data_points": 827,
+  "data_points": 828,
   "data": [
     {
       "date": "2023-04-17",
@@ -6615,11 +6615,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 229997
+      "open": 77.41,
+      "high": 78.68,
+      "low": 76.72,
+      "close": 76.97,
+      "volume": 331700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 77.53,
+      "high": 79.24,
+      "low": 77.09,
+      "close": 78.01,
+      "volume": 445700
     }
   ]
 }

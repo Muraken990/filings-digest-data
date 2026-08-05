@@ -1,9 +1,9 @@
 {
   "code": "FWRG",
   "ticker": "FWRG",
-  "last_updated": "2026-08-04 09:33:23",
+  "last_updated": "2026-08-05 09:37:34",
   "period": "5y",
-  "data_points": 1213,
+  "data_points": 1214,
   "data": [
     {
       "date": "2021-10-01",
@@ -9703,11 +9703,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2215727
+      "open": 13.0,
+      "high": 13.24,
+      "low": 12.4,
+      "close": 12.5,
+      "volume": 2223100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 12.52,
+      "high": 13.19,
+      "low": 11.77,
+      "close": 12.8,
+      "volume": 3839500
     }
   ]
 }

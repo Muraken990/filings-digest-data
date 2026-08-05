@@ -1,18 +1,10 @@
 {
   "code": "OBDC",
   "ticker": "OBDC",
-  "last_updated": "2026-08-04 10:04:17",
+  "last_updated": "2026-08-05 10:08:26",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 8.28,
-      "high": 8.28,
-      "low": 8.19,
-      "close": 8.21,
-      "volume": 802000
-    },
     {
       "date": "2021-08-05",
       "open": 8.29,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4187827
+      "open": 10.84,
+      "high": 11.05,
+      "low": 10.81,
+      "close": 11.0,
+      "volume": 4972700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 11.02,
+      "high": 11.24,
+      "low": 10.97,
+      "close": 11.2,
+      "volume": 6978400
     }
   ]
 }

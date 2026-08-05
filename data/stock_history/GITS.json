@@ -1,9 +1,9 @@
 {
   "code": "GITS",
   "ticker": "GITS",
-  "last_updated": "2026-08-04 09:35:07",
+  "last_updated": "2026-08-05 09:39:18",
   "period": "5y",
-  "data_points": 754,
+  "data_points": 755,
   "data": [
     {
       "date": "2023-08-01",
@@ -6031,11 +6031,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 34722
+      "open": 2.24,
+      "high": 2.24,
+      "low": 1.95,
+      "close": 2.0,
+      "volume": 35100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.0,
+      "high": 2.11,
+      "low": 1.99,
+      "close": 2.11,
+      "volume": 12900
     }
   ]
 }

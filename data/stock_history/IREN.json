@@ -1,9 +1,9 @@
 {
   "code": "IREN",
   "ticker": "IREN",
-  "last_updated": "2026-08-04 09:44:36",
+  "last_updated": "2026-08-05 09:48:44",
   "period": "5y",
-  "data_points": 1180,
+  "data_points": 1181,
   "data": [
     {
       "date": "2021-11-17",
@@ -9439,11 +9439,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 42726166
+      "open": 36.52,
+      "high": 40.21,
+      "low": 35.46,
+      "close": 39.75,
+      "volume": 43898300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 39.22,
+      "high": 42.24,
+      "low": 39.2,
+      "close": 40.85,
+      "volume": 41042000
     }
   ]
 }

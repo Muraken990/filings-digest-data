@@ -1,9 +1,9 @@
 {
   "code": "LINE",
   "ticker": "LINE",
-  "last_updated": "2026-08-04 09:50:36",
+  "last_updated": "2026-08-05 09:54:44",
   "period": "5y",
-  "data_points": 507,
+  "data_points": 508,
   "data": [
     {
       "date": "2024-07-25",
@@ -4055,11 +4055,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 680773
+      "open": 42.5,
+      "high": 42.69,
+      "low": 41.47,
+      "close": 41.88,
+      "volume": 721000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 41.6,
+      "high": 42.15,
+      "low": 41.03,
+      "close": 41.94,
+      "volume": 1032600
     }
   ]
 }

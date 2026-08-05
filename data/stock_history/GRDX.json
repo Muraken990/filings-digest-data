@@ -1,18 +1,10 @@
 {
   "code": "GRDX",
   "ticker": "GRDX",
-  "last_updated": "2026-08-04 09:36:51",
+  "last_updated": "2026-08-05 09:41:00",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 71190.0,
-      "high": 81144.0,
-      "low": 70056.0,
-      "close": 72828.0,
-      "volume": 50
-    },
     {
       "date": "2021-08-05",
       "open": 73080.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 24981
+      "open": 2.96,
+      "high": 3.09,
+      "low": 2.82,
+      "close": 2.91,
+      "volume": 25000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.91,
+      "high": 3.05,
+      "low": 2.73,
+      "close": 2.75,
+      "volume": 55600
     }
   ]
 }

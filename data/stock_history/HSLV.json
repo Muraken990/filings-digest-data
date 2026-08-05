@@ -1,9 +1,9 @@
 {
   "code": "HSLV",
   "ticker": "HSLV",
-  "last_updated": "2026-08-04 09:40:19",
+  "last_updated": "2026-08-05 09:44:27",
   "period": "5y",
-  "data_points": 100,
+  "data_points": 101,
   "data": [
     {
       "date": "2026-03-11",
@@ -799,11 +799,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 107152
+      "open": 4.25,
+      "high": 4.4,
+      "low": 4.11,
+      "close": 4.34,
+      "volume": 112100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 4.48,
+      "high": 4.67,
+      "low": 4.46,
+      "close": 4.59,
+      "volume": 223700
     }
   ]
 }

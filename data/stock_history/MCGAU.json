@@ -1,9 +1,9 @@
 {
   "code": "MCGAU",
   "ticker": "MCGAU",
-  "last_updated": "2026-08-04 09:53:58",
+  "last_updated": "2026-08-05 09:58:07",
   "period": "5y",
-  "data_points": 277,
+  "data_points": 278,
   "data": [
     {
       "date": "2025-06-26",
@@ -2215,11 +2215,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 762
+      "open": 10.28,
+      "high": 10.28,
+      "low": 10.28,
+      "close": 10.28,
+      "volume": 800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.28,
+      "high": 10.28,
+      "low": 10.27,
+      "close": 10.27,
+      "volume": 1100
     }
   ]
 }

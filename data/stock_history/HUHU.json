@@ -1,9 +1,9 @@
 {
   "code": "HUHU",
   "ticker": "HUHU",
-  "last_updated": "2026-08-04 09:41:07",
+  "last_updated": "2026-08-05 09:45:16",
   "period": "5y",
-  "data_points": 445,
+  "data_points": 446,
   "data": [
     {
       "date": "2024-10-22",
@@ -3559,11 +3559,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 24609
+      "open": 5.62,
+      "high": 5.96,
+      "low": 4.87,
+      "close": 5.26,
+      "volume": 24800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 5.17,
+      "high": 6.0,
+      "low": 5.17,
+      "close": 5.58,
+      "volume": 31000
     }
   ]
 }

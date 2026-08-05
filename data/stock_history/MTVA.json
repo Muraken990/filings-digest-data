@@ -1,18 +1,10 @@
 {
   "code": "MTVA",
   "ticker": "MTVA",
-  "last_updated": "2026-08-04 09:58:16",
+  "last_updated": "2026-08-05 10:02:25",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 8844.0,
-      "high": 9900.0,
-      "low": 8804.4,
-      "close": 9556.8,
-      "volume": 253
-    },
     {
       "date": "2021-08-05",
       "open": 9451.2,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 31621
+      "open": 1.48,
+      "high": 1.56,
+      "low": 1.45,
+      "close": 1.48,
+      "volume": 35400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.48,
+      "high": 1.53,
+      "low": 1.46,
+      "close": 1.46,
+      "volume": 64000
     }
   ]
 }

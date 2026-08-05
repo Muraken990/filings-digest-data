@@ -1,18 +1,10 @@
 {
   "code": "MOMO",
   "ticker": "MOMO",
-  "last_updated": "2026-08-04 09:56:35",
+  "last_updated": "2026-08-05 10:00:43",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 8.46,
-      "high": 8.73,
-      "low": 8.36,
-      "close": 8.45,
-      "volume": 1530500
-    },
     {
       "date": "2021-08-05",
       "open": 8.37,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 456711
+      "open": 6.01,
+      "high": 6.03,
+      "low": 5.9,
+      "close": 5.95,
+      "volume": 473400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 5.93,
+      "high": 5.98,
+      "low": 5.88,
+      "close": 5.97,
+      "volume": 501400
     }
   ]
 }

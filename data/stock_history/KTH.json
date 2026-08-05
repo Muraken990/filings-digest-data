@@ -1,18 +1,10 @@
 {
   "code": "KTH",
   "ticker": "KTH",
-  "last_updated": "2026-08-04 09:48:51",
+  "last_updated": "2026-08-05 09:52:59",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 24.57,
-      "high": 24.79,
-      "low": 24.57,
-      "close": 24.79,
-      "volume": 500
-    },
     {
       "date": "2021-08-05",
       "open": 24.79,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 550
+      "open": 28.54,
+      "high": 28.54,
+      "low": 28.39,
+      "close": 28.39,
+      "volume": 600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 28.39,
+      "high": 28.39,
+      "low": 28.39,
+      "close": 28.39,
+      "volume": 0
     }
   ]
 }

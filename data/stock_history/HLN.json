@@ -1,9 +1,9 @@
 {
   "code": "HLN",
   "ticker": "HLN",
-  "last_updated": "2026-08-04 09:39:26",
+  "last_updated": "2026-08-05 09:43:35",
   "period": "5y",
-  "data_points": 1010,
+  "data_points": 1011,
   "data": [
     {
       "date": "2022-07-25",
@@ -8079,11 +8079,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 12619510
+      "open": 9.97,
+      "high": 10.02,
+      "low": 9.77,
+      "close": 9.8,
+      "volume": 13100400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 9.73,
+      "high": 9.8,
+      "low": 9.64,
+      "close": 9.78,
+      "volume": 9146900
     }
   ]
 }

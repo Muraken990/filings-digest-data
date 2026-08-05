@@ -1,9 +1,9 @@
 {
   "code": "GCL",
   "ticker": "GCL",
-  "last_updated": "2026-08-04 09:33:27",
+  "last_updated": "2026-08-05 09:37:38",
   "period": "5y",
-  "data_points": 1075,
+  "data_points": 1076,
   "data": [
     {
       "date": "2022-04-20",
@@ -8599,11 +8599,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 129243
+      "open": 0.44,
+      "high": 0.46,
+      "low": 0.44,
+      "close": 0.45,
+      "volume": 129300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.45,
+      "high": 0.49,
+      "low": 0.45,
+      "close": 0.49,
+      "volume": 194000
     }
   ]
 }

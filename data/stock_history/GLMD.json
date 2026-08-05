@@ -1,18 +1,10 @@
 {
   "code": "GLMD",
   "ticker": "GLMD",
-  "last_updated": "2026-08-04 09:35:10",
+  "last_updated": "2026-08-05 09:39:20",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 505.8,
-      "high": 506.16,
-      "low": 482.4,
-      "close": 493.2,
-      "volume": 1547
-    },
     {
       "date": "2021-08-05",
       "open": 493.2,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 69272
+      "open": 0.61,
+      "high": 0.61,
+      "low": 0.57,
+      "close": 0.58,
+      "volume": 72800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.57,
+      "high": 0.58,
+      "low": 0.56,
+      "close": 0.57,
+      "volume": 43400
     }
   ]
 }

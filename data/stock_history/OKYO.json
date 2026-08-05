@@ -1,9 +1,9 @@
 {
   "code": "OKYO",
   "ticker": "OKYO",
-  "last_updated": "2026-08-04 10:05:08",
+  "last_updated": "2026-08-05 10:09:17",
   "period": "5y",
-  "data_points": 1056,
+  "data_points": 1057,
   "data": [
     {
       "date": "2022-05-17",
@@ -8447,11 +8447,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 17766
+      "open": 1.69,
+      "high": 1.69,
+      "low": 1.65,
+      "close": 1.67,
+      "volume": 18100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.69,
+      "high": 1.73,
+      "low": 1.64,
+      "close": 1.64,
+      "volume": 48100
     }
   ]
 }

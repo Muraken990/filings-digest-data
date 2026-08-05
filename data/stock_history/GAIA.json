@@ -1,18 +1,10 @@
 {
   "code": "GAIA",
   "ticker": "GAIA",
-  "last_updated": "2026-08-04 09:33:24",
+  "last_updated": "2026-08-05 09:37:35",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 11.17,
-      "high": 11.46,
-      "low": 10.95,
-      "close": 10.97,
-      "volume": 55900
-    },
     {
       "date": "2021-08-05",
       "open": 11.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 15716
+      "open": 1.85,
+      "high": 1.88,
+      "low": 1.83,
+      "close": 1.87,
+      "volume": 15700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.87,
+      "high": 1.94,
+      "low": 1.87,
+      "close": 1.91,
+      "volume": 36400
     }
   ]
 }

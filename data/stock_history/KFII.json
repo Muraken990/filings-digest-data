@@ -1,9 +1,9 @@
 {
   "code": "KFII",
   "ticker": "KFII",
-  "last_updated": "2026-08-04 09:47:10",
+  "last_updated": "2026-08-05 09:51:19",
   "period": "5y",
-  "data_points": 349,
+  "data_points": 350,
   "data": [
     {
       "date": "2025-03-13",
@@ -2791,11 +2791,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2007
+      "open": 10.6,
+      "high": 10.6,
+      "low": 10.6,
+      "close": 10.6,
+      "volume": 2000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.61,
+      "high": 10.61,
+      "low": 10.61,
+      "close": 10.61,
+      "volume": 100
     }
   ]
 }

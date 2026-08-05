@@ -1,9 +1,9 @@
 {
   "code": "MSDL",
   "ticker": "MSDL",
-  "last_updated": "2026-08-04 09:57:26",
+  "last_updated": "2026-08-05 10:01:35",
   "period": "5y",
-  "data_points": 633,
+  "data_points": 634,
   "data": [
     {
       "date": "2024-01-24",
@@ -5063,11 +5063,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 287038
+      "open": 14.62,
+      "high": 15.06,
+      "low": 14.62,
+      "close": 15.01,
+      "volume": 307300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 14.95,
+      "high": 15.3,
+      "low": 14.9,
+      "close": 15.2,
+      "volume": 400800
     }
   ]
 }

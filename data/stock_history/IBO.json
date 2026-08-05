@@ -1,9 +1,9 @@
 {
   "code": "IBO",
   "ticker": "IBO",
-  "last_updated": "2026-08-04 09:41:58",
+  "last_updated": "2026-08-05 09:46:07",
   "period": "5y",
-  "data_points": 471,
+  "data_points": 472,
   "data": [
     {
       "date": "2024-09-16",
@@ -3767,11 +3767,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 20710
+      "open": 0.44,
+      "high": 0.45,
+      "low": 0.41,
+      "close": 0.44,
+      "volume": 20800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.45,
+      "high": 0.45,
+      "low": 0.41,
+      "close": 0.44,
+      "volume": 140700
     }
   ]
 }

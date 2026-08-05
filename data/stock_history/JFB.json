@@ -1,9 +1,9 @@
 {
   "code": "JFB",
   "ticker": "JFB",
-  "last_updated": "2026-08-04 09:46:15",
+  "last_updated": "2026-08-05 09:50:23",
   "period": "5y",
-  "data_points": 354,
+  "data_points": 355,
   "data": [
     {
       "date": "2025-03-06",
@@ -2831,11 +2831,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 263443
+      "open": 4.03,
+      "high": 4.24,
+      "low": 3.83,
+      "close": 4.06,
+      "volume": 263900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 4.14,
+      "high": 4.57,
+      "low": 4.14,
+      "close": 4.36,
+      "volume": 290800
     }
   ]
 }

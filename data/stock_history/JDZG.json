@@ -1,9 +1,9 @@
 {
   "code": "JDZG",
   "ticker": "JDZG",
-  "last_updated": "2026-08-04 09:46:14",
+  "last_updated": "2026-08-05 09:50:23",
   "period": "5y",
-  "data_points": 555,
+  "data_points": 556,
   "data": [
     {
       "date": "2024-05-15",
@@ -4439,11 +4439,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 405855
+      "open": 3.88,
+      "high": 4.75,
+      "low": 3.5,
+      "close": 3.86,
+      "volume": 419100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.29,
+      "high": 4.2,
+      "low": 3.2,
+      "close": 3.23,
+      "volume": 412100
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "GABC",
   "ticker": "GABC",
-  "last_updated": "2026-08-04 09:33:24",
+  "last_updated": "2026-08-05 09:37:35",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 32.5,
-      "high": 33.05,
-      "low": 32.42,
-      "close": 32.56,
-      "volume": 23100
-    },
     {
       "date": "2021-08-05",
       "open": 32.61,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 204872
+      "open": 51.54,
+      "high": 51.95,
+      "low": 51.0,
+      "close": 51.1,
+      "volume": 213800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 51.09,
+      "high": 51.61,
+      "low": 50.58,
+      "close": 51.19,
+      "volume": 195900
     }
   ]
 }

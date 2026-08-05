@@ -1,9 +1,9 @@
 {
   "code": "OMDA",
   "ticker": "OMDA",
-  "last_updated": "2026-08-04 10:05:10",
+  "last_updated": "2026-08-05 10:09:18",
   "period": "5y",
-  "data_points": 290,
+  "data_points": 291,
   "data": [
     {
       "date": "2025-06-06",
@@ -2319,11 +2319,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 853687
+      "open": 20.29,
+      "high": 20.6,
+      "low": 20.15,
+      "close": 20.51,
+      "volume": 861400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 20.53,
+      "high": 20.67,
+      "low": 20.02,
+      "close": 20.18,
+      "volume": 889400
     }
   ]
 }

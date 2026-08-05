@@ -1,9 +1,9 @@
 {
   "code": "MSIF",
   "ticker": "MSIF",
-  "last_updated": "2026-08-04 09:57:27",
+  "last_updated": "2026-08-05 10:01:36",
   "period": "5y",
-  "data_points": 379,
+  "data_points": 380,
   "data": [
     {
       "date": "2025-01-29",
@@ -3031,11 +3031,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 333126
+      "open": 11.13,
+      "high": 11.56,
+      "low": 11.13,
+      "close": 11.48,
+      "volume": 354100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 11.53,
+      "high": 11.67,
+      "low": 11.43,
+      "close": 11.59,
+      "volume": 299900
     }
   ]
 }

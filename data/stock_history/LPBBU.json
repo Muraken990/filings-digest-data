@@ -1,9 +1,9 @@
 {
   "code": "LPBBU",
   "ticker": "LPBBU",
-  "last_updated": "2026-08-04 09:51:27",
+  "last_updated": "2026-08-05 09:55:36",
   "period": "5y",
-  "data_points": 455,
+  "data_points": 456,
   "data": [
     {
       "date": "2024-10-08",
@@ -3639,11 +3639,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2645
+      "open": 11.1,
+      "high": 11.1,
+      "low": 10.84,
+      "close": 10.85,
+      "volume": 2600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.85,
+      "high": 10.85,
+      "low": 10.85,
+      "close": 10.85,
+      "volume": 0
     }
   ]
 }

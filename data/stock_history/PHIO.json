@@ -1,18 +1,10 @@
 {
   "code": "PHIO",
   "ticker": "PHIO",
-  "last_updated": "2026-08-04 10:09:29",
+  "last_updated": "2026-08-05 10:13:35",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 213.84,
-      "high": 216.86,
-      "low": 192.24,
-      "close": 195.48,
-      "volume": 4595
-    },
     {
       "date": "2021-08-05",
       "open": 195.48,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 66709
+      "open": 1.03,
+      "high": 1.04,
+      "low": 1.0,
+      "close": 1.03,
+      "volume": 67900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.0,
+      "high": 1.12,
+      "low": 1.0,
+      "close": 1.06,
+      "volume": 293900
     }
   ]
 }

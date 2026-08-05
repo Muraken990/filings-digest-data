@@ -1,9 +1,9 @@
 {
   "code": "OZKAP",
   "ticker": "OZKAP",
-  "last_updated": "2026-08-04 10:06:54",
+  "last_updated": "2026-08-05 10:11:02",
   "period": "5y",
-  "data_points": 1193,
+  "data_points": 1194,
   "data": [
     {
       "date": "2021-10-29",
@@ -9543,11 +9543,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 29210
+      "open": 16.1,
+      "high": 16.2,
+      "low": 16.04,
+      "close": 16.1,
+      "volume": 29300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 16.1,
+      "high": 16.2,
+      "low": 16.09,
+      "close": 16.13,
+      "volume": 31400
     }
   ]
 }

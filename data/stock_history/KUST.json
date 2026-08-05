@@ -1,18 +1,10 @@
 {
   "code": "KUST",
   "ticker": "KUST",
-  "last_updated": "2026-08-04 09:48:52",
+  "last_updated": "2026-08-05 09:53:00",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 942000.0,
-      "high": 948000.0,
-      "low": 906000.0,
-      "close": 924000.0,
-      "volume": 1
-    },
     {
       "date": "2021-08-05",
       "open": 924000.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3778136
+      "open": 1.18,
+      "high": 1.51,
+      "low": 1.18,
+      "close": 1.45,
+      "volume": 3861700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.6,
+      "high": 1.63,
+      "low": 1.39,
+      "close": 1.6,
+      "volume": 6199900
     }
   ]
 }

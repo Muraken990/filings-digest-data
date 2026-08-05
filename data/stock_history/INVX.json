@@ -1,18 +1,10 @@
 {
   "code": "INVX",
   "ticker": "INVX",
-  "last_updated": "2026-08-04 09:43:46",
+  "last_updated": "2026-08-05 09:47:54",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 28.99,
-      "high": 28.99,
-      "low": 26.78,
-      "close": 27.08,
-      "volume": 205500
-    },
     {
       "date": "2021-08-05",
       "open": 27.27,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 401058
+      "open": 27.45,
+      "high": 28.64,
+      "low": 27.08,
+      "close": 28.3,
+      "volume": 401500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 28.78,
+      "high": 33.71,
+      "low": 28.78,
+      "close": 31.63,
+      "volume": 1317500
     }
   ]
 }

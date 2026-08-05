@@ -1,9 +1,9 @@
 {
   "code": "NBRGU",
   "ticker": "NBRGU",
-  "last_updated": "2026-08-04 09:59:10",
+  "last_updated": "2026-08-05 10:03:19",
   "period": "5y",
-  "data_points": 127,
+  "data_points": 128,
   "data": [
     {
       "date": "2026-01-30",
@@ -1015,11 +1015,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
+      "open": 9.93,
+      "high": 9.93,
+      "low": 9.93,
+      "close": 9.93,
       "volume": 100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 9.93,
+      "high": 9.93,
+      "low": 9.93,
+      "close": 9.93,
+      "volume": 0
     }
   ]
 }

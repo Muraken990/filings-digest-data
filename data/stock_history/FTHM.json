@@ -1,18 +1,10 @@
 {
   "code": "FTHM",
   "ticker": "FTHM",
-  "last_updated": "2026-08-04 09:32:33",
+  "last_updated": "2026-08-05 09:36:45",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 26.54,
-      "high": 27.85,
-      "low": 25.99,
-      "close": 26.5,
-      "volume": 46500
-    },
     {
       "date": "2021-08-05",
       "open": 26.76,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 154024
+      "open": 0.78,
+      "high": 0.86,
+      "low": 0.78,
+      "close": 0.83,
+      "volume": 154000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.81,
+      "high": 0.93,
+      "low": 0.81,
+      "close": 0.87,
+      "volume": 260500
     }
   ]
 }

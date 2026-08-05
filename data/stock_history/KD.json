@@ -1,9 +1,9 @@
 {
   "code": "KD",
   "ticker": "KD",
-  "last_updated": "2026-08-04 09:47:08",
+  "last_updated": "2026-08-05 09:51:17",
   "period": "5y",
-  "data_points": 1198,
+  "data_points": 1199,
   "data": [
     {
       "date": "2021-10-22",
@@ -9583,11 +9583,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4419467
+      "open": 13.94,
+      "high": 14.19,
+      "low": 13.89,
+      "close": 13.92,
+      "volume": 4420800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 14.06,
+      "high": 14.71,
+      "low": 13.58,
+      "close": 14.69,
+      "volume": 6522800
     }
   ]
 }

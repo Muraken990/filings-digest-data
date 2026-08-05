@@ -1,9 +1,9 @@
 {
   "code": "MWC",
   "ticker": "MWC",
-  "last_updated": "2026-08-04 09:58:18",
+  "last_updated": "2026-08-05 10:02:27",
   "period": "5y",
-  "data_points": 55,
+  "data_points": 56,
   "data": [
     {
       "date": "2026-05-14",
@@ -439,11 +439,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 179824
+      "open": 1.43,
+      "high": 1.64,
+      "low": 1.4,
+      "close": 1.58,
+      "volume": 182100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.54,
+      "high": 1.64,
+      "low": 1.52,
+      "close": 1.57,
+      "volume": 54000
     }
   ]
 }

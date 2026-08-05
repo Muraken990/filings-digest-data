@@ -1,18 +1,10 @@
 {
   "code": "PLCE",
   "ticker": "PLCE",
-  "last_updated": "2026-08-04 10:10:17",
+  "last_updated": "2026-08-05 10:14:24",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 85.88,
-      "high": 87.27,
-      "low": 82.27,
-      "close": 82.55,
-      "volume": 532800
-    },
     {
       "date": "2021-08-05",
       "open": 82.64,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 91295
+      "open": 2.45,
+      "high": 2.6,
+      "low": 2.45,
+      "close": 2.53,
+      "volume": 91300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.57,
+      "high": 2.68,
+      "low": 2.54,
+      "close": 2.66,
+      "volume": 210700
     }
   ]
 }

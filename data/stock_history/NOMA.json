@@ -1,9 +1,9 @@
 {
   "code": "NOMA",
   "ticker": "NOMA",
-  "last_updated": "2026-08-04 10:01:43",
+  "last_updated": "2026-08-05 10:05:52",
   "period": "5y",
-  "data_points": 187,
+  "data_points": 188,
   "data": [
     {
       "date": "2025-11-03",
@@ -1495,11 +1495,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2751
+      "open": 3.31,
+      "high": 3.31,
+      "low": 2.9,
+      "close": 2.97,
+      "volume": 3600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.02,
+      "high": 3.05,
+      "low": 2.85,
+      "close": 2.89,
+      "volume": 4900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "GLOO",
   "ticker": "GLOO",
-  "last_updated": "2026-08-04 09:35:11",
+  "last_updated": "2026-08-05 09:39:20",
   "period": "5y",
-  "data_points": 176,
+  "data_points": 177,
   "data": [
     {
       "date": "2025-11-18",
@@ -1407,11 +1407,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 236595
+      "open": 3.29,
+      "high": 3.62,
+      "low": 3.29,
+      "close": 3.53,
+      "volume": 239800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.57,
+      "high": 3.65,
+      "low": 3.45,
+      "close": 3.46,
+      "volume": 145900
     }
   ]
 }

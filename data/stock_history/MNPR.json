@@ -1,18 +1,10 @@
 {
   "code": "MNPR",
   "ticker": "MNPR",
-  "last_updated": "2026-08-04 09:56:33",
+  "last_updated": "2026-08-05 10:00:41",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 27.25,
-      "high": 27.72,
-      "low": 25.0,
-      "close": 25.5,
-      "volume": 8480
-    },
     {
       "date": "2021-08-05",
       "open": 26.5,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 488278
+      "open": 108.35,
+      "high": 114.5,
+      "low": 104.75,
+      "close": 111.64,
+      "volume": 489200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 112.61,
+      "high": 120.28,
+      "low": 112.06,
+      "close": 118.46,
+      "volume": 215100
     }
   ]
 }

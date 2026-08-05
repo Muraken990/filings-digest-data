@@ -1,18 +1,10 @@
 {
   "code": "MTD",
   "ticker": "MTD",
-  "last_updated": "2026-08-04 09:58:14",
+  "last_updated": "2026-08-05 10:02:22",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 1500.0,
-      "high": 1525.07,
-      "low": 1498.69,
-      "close": 1515.26,
-      "volume": 96400
-    },
     {
       "date": "2021-08-05",
       "open": 1519.99,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 155459
+      "open": 1409.61,
+      "high": 1455.4,
+      "low": 1409.61,
+      "close": 1445.0,
+      "volume": 216300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1445.0,
+      "high": 1457.56,
+      "low": 1421.68,
+      "close": 1437.0,
+      "volume": 178100
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "MFAN",
   "ticker": "MFAN",
-  "last_updated": "2026-08-04 09:54:50",
+  "last_updated": "2026-08-05 09:58:59",
   "period": "5y",
-  "data_points": 633,
+  "data_points": 634,
   "data": [
     {
       "date": "2024-01-24",
@@ -5063,11 +5063,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 15840
+      "open": 24.92,
+      "high": 25.02,
+      "low": 24.92,
+      "close": 24.95,
+      "volume": 16200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 24.92,
+      "high": 25.01,
+      "low": 24.91,
+      "close": 24.99,
+      "volume": 18100
     }
   ]
 }

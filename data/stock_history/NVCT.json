@@ -1,9 +1,9 @@
 {
   "code": "NVCT",
   "ticker": "NVCT",
-  "last_updated": "2026-08-04 10:03:24",
+  "last_updated": "2026-08-05 10:07:33",
   "period": "5y",
-  "data_points": 1126,
+  "data_points": 1127,
   "data": [
     {
       "date": "2022-02-04",
@@ -9007,11 +9007,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 204255
+      "open": 21.57,
+      "high": 22.87,
+      "low": 21.5,
+      "close": 21.6,
+      "volume": 204600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 19.26,
+      "high": 21.12,
+      "low": 17.89,
+      "close": 20.1,
+      "volume": 592200
     }
   ]
 }

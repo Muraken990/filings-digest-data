@@ -1,9 +1,9 @@
 {
   "code": "ONFO",
   "ticker": "ONFO",
-  "last_updated": "2026-08-04 10:05:57",
+  "last_updated": "2026-08-05 10:10:05",
   "period": "5y",
-  "data_points": 986,
+  "data_points": 987,
   "data": [
     {
       "date": "2022-08-26",
@@ -7887,11 +7887,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 64985979
+      "open": 0.08,
+      "high": 0.09,
+      "low": 0.06,
+      "close": 0.09,
+      "volume": 67101000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.09,
+      "high": 0.09,
+      "low": 0.08,
+      "close": 0.08,
+      "volume": 14371500
     }
   ]
 }

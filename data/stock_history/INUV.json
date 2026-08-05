@@ -1,18 +1,10 @@
 {
   "code": "INUV",
   "ticker": "INUV",
-  "last_updated": "2026-08-04 09:43:46",
+  "last_updated": "2026-08-05 09:47:54",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 8.0,
-      "high": 8.7,
-      "low": 7.9,
-      "close": 8.1,
-      "volume": 232600
-    },
     {
       "date": "2021-08-05",
       "open": 8.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 366098
+      "open": 0.96,
+      "high": 1.02,
+      "low": 0.92,
+      "close": 0.96,
+      "volume": 384700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.98,
+      "high": 1.12,
+      "low": 0.96,
+      "close": 1.09,
+      "volume": 431600
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "FURY",
   "ticker": "FURY",
-  "last_updated": "2026-08-04 09:32:36",
+  "last_updated": "2026-08-05 09:36:47",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 1.0,
-      "high": 1.02,
-      "low": 0.97,
-      "close": 0.98,
-      "volume": 202900
-    },
     {
       "date": "2021-08-05",
       "open": 1.01,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 53346
+      "open": 0.52,
+      "high": 0.55,
+      "low": 0.52,
+      "close": 0.53,
+      "volume": 54800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.54,
+      "high": 0.56,
+      "low": 0.53,
+      "close": 0.55,
+      "volume": 156000
     }
   ]
 }

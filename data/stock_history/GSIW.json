@@ -1,9 +1,9 @@
 {
   "code": "GSIW",
   "ticker": "GSIW",
-  "last_updated": "2026-08-04 09:36:54",
+  "last_updated": "2026-08-05 09:41:03",
   "period": "5y",
-  "data_points": 668,
+  "data_points": 669,
   "data": [
     {
       "date": "2023-12-01",
@@ -5343,11 +5343,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1974
+      "open": 19.65,
+      "high": 19.65,
+      "low": 19.65,
+      "close": 19.65,
+      "volume": 2100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 19.65,
+      "high": 19.65,
+      "low": 18.56,
+      "close": 18.56,
+      "volume": 3200
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "NATL",
   "ticker": "NATL",
-  "last_updated": "2026-08-04 09:59:08",
+  "last_updated": "2026-08-05 10:03:17",
   "period": "5y",
-  "data_points": 704,
+  "data_points": 705,
   "data": [
     {
       "date": "2023-10-11",
@@ -5631,11 +5631,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 808470
+      "open": 47.05,
+      "high": 47.66,
+      "low": 46.47,
+      "close": 46.61,
+      "volume": 889900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 46.55,
+      "high": 47.11,
+      "low": 46.27,
+      "close": 47.0,
+      "volume": 488300
     }
   ]
 }

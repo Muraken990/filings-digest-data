@@ -1,9 +1,9 @@
 {
   "code": "GSUN",
   "ticker": "GSUN",
-  "last_updated": "2026-08-04 09:36:55",
+  "last_updated": "2026-08-05 09:41:04",
   "period": "5y",
-  "data_points": 1032,
+  "data_points": 1033,
   "data": [
     {
       "date": "2022-06-22",
@@ -8255,11 +8255,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7967064
+      "open": 0.38,
+      "high": 0.57,
+      "low": 0.36,
+      "close": 0.56,
+      "volume": 8121200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.47,
+      "high": 0.55,
+      "low": 0.47,
+      "close": 0.53,
+      "volume": 1209500
     }
   ]
 }

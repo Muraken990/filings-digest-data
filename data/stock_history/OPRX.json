@@ -1,18 +1,10 @@
 {
   "code": "OPRX",
   "ticker": "OPRX",
-  "last_updated": "2026-08-04 10:06:00",
+  "last_updated": "2026-08-05 10:10:08",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 55.37,
-      "high": 59.38,
-      "low": 55.28,
-      "close": 57.47,
-      "volume": 216700
-    },
     {
       "date": "2021-08-05",
       "open": 63.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 105976
+      "open": 6.16,
+      "high": 6.59,
+      "low": 6.16,
+      "close": 6.55,
+      "volume": 107000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 6.59,
+      "high": 6.92,
+      "low": 6.59,
+      "close": 6.85,
+      "volume": 176900
     }
   ]
 }

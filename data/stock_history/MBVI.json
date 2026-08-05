@@ -1,9 +1,9 @@
 {
   "code": "MBVI",
   "ticker": "MBVI",
-  "last_updated": "2026-08-04 09:53:57",
+  "last_updated": "2026-08-05 09:58:06",
   "period": "5y",
-  "data_points": 198,
+  "data_points": 199,
   "data": [
     {
       "date": "2025-10-17",
@@ -1583,11 +1583,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 148
+      "open": 10.2,
+      "high": 10.2,
+      "low": 10.2,
+      "close": 10.2,
+      "volume": 100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.2,
+      "high": 10.2,
+      "low": 10.2,
+      "close": 10.2,
+      "volume": 100
     }
   ]
 }

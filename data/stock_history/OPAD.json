@@ -1,18 +1,10 @@
 {
   "code": "OPAD",
   "ticker": "OPAD",
-  "last_updated": "2026-08-04 10:05:58",
+  "last_updated": "2026-08-05 10:10:06",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 148.2,
-      "high": 148.5,
-      "low": 148.2,
-      "close": 148.5,
-      "volume": 4207
-    },
     {
       "date": "2021-08-05",
       "open": 148.5,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 86282
+      "open": 4.0,
+      "high": 4.31,
+      "low": 3.52,
+      "close": 3.65,
+      "volume": 105900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.49,
+      "high": 4.97,
+      "low": 3.49,
+      "close": 4.97,
+      "volume": 253600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "NCDL",
   "ticker": "NCDL",
-  "last_updated": "2026-08-04 09:59:56",
+  "last_updated": "2026-08-05 10:04:05",
   "period": "5y",
-  "data_points": 632,
+  "data_points": 633,
   "data": [
     {
       "date": "2024-01-25",
@@ -5055,11 +5055,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 127039
+      "open": 12.23,
+      "high": 12.52,
+      "low": 12.23,
+      "close": 12.46,
+      "volume": 127000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 12.48,
+      "high": 12.8,
+      "low": 12.44,
+      "close": 12.73,
+      "volume": 189600
     }
   ]
 }

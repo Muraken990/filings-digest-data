@@ -1,18 +1,10 @@
 {
   "code": "MYPS",
   "ticker": "MYPS",
-  "last_updated": "2026-08-04 09:59:06",
+  "last_updated": "2026-08-05 10:03:15",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 5.8,
-      "high": 5.92,
-      "low": 5.59,
-      "close": 5.65,
-      "volume": 720700
-    },
     {
       "date": "2021-08-05",
       "open": 5.64,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 171186
+      "open": 0.63,
+      "high": 0.67,
+      "low": 0.63,
+      "close": 0.65,
+      "volume": 171200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.65,
+      "high": 0.72,
+      "low": 0.65,
+      "close": 0.7,
+      "volume": 260400
     }
   ]
 }

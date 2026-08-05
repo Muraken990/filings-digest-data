@@ -1,9 +1,9 @@
 {
   "code": "OXLCN",
   "ticker": "OXLCN",
-  "last_updated": "2026-08-04 10:06:53",
+  "last_updated": "2026-08-05 10:11:00",
   "period": "5y",
-  "data_points": 1039,
+  "data_points": 1040,
   "data": [
     {
       "date": "2022-06-10",
@@ -8311,11 +8311,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6431
+      "open": 24.71,
+      "high": 24.83,
+      "low": 24.7,
+      "close": 24.78,
+      "volume": 6400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 24.8,
+      "high": 24.8,
+      "low": 24.73,
+      "close": 24.76,
+      "volume": 1600
     }
   ]
 }

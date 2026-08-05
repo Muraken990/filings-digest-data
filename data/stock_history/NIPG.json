@@ -1,9 +1,9 @@
 {
   "code": "NIPG",
   "ticker": "NIPG",
-  "last_updated": "2026-08-04 10:00:51",
+  "last_updated": "2026-08-05 10:05:00",
   "period": "5y",
-  "data_points": 506,
+  "data_points": 507,
   "data": [
     {
       "date": "2024-07-26",
@@ -4047,11 +4047,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 11097
+      "open": 9.63,
+      "high": 10.97,
+      "low": 9.01,
+      "close": 9.01,
+      "volume": 11700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 9.12,
+      "high": 10.49,
+      "low": 9.01,
+      "close": 9.34,
+      "volume": 18100
     }
   ]
 }

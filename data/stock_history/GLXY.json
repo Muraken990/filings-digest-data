@@ -1,9 +1,9 @@
 {
   "code": "GLXY",
   "ticker": "GLXY",
-  "last_updated": "2026-08-04 09:35:12",
+  "last_updated": "2026-08-05 09:39:22",
   "period": "5y",
-  "data_points": 304,
+  "data_points": 305,
   "data": [
     {
       "date": "2025-05-16",
@@ -2431,11 +2431,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5180004
+      "open": 20.43,
+      "high": 22.1,
+      "low": 20.15,
+      "close": 21.88,
+      "volume": 5189400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 21.54,
+      "high": 22.65,
+      "low": 21.5,
+      "close": 22.14,
+      "volume": 7027100
     }
   ]
 }

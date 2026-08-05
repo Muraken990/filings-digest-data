@@ -1,18 +1,10 @@
 {
   "code": "NYC",
   "ticker": "NYC",
-  "last_updated": "2026-08-04 10:04:15",
+  "last_updated": "2026-08-05 10:08:24",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 10.18,
-      "high": 10.23,
-      "low": 10.1,
-      "close": 10.18,
-      "volume": 8900
-    },
     {
       "date": "2021-08-05",
       "open": 10.11,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 72314
+      "open": 9.13,
+      "high": 9.56,
+      "low": 8.93,
+      "close": 8.93,
+      "volume": 72600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 8.66,
+      "high": 9.8,
+      "low": 8.5,
+      "close": 9.39,
+      "volume": 107700
     }
   ]
 }

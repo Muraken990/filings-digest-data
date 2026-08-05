@@ -1,9 +1,9 @@
 {
   "code": "GAINI",
   "ticker": "GAINI",
-  "last_updated": "2026-08-04 09:33:24",
+  "last_updated": "2026-08-05 09:37:35",
   "period": "5y",
-  "data_points": 405,
+  "data_points": 406,
   "data": [
     {
       "date": "2024-12-18",
@@ -3239,11 +3239,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2040
+      "open": 25.35,
+      "high": 25.36,
+      "low": 25.3,
+      "close": 25.36,
+      "volume": 2000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 25.44,
+      "high": 25.44,
+      "low": 25.4,
+      "close": 25.4,
+      "volume": 3400
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "PACB",
   "ticker": "PACB",
-  "last_updated": "2026-08-04 10:07:40",
+  "last_updated": "2026-08-05 10:11:47",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 29.36,
-      "high": 32.16,
-      "low": 27.73,
-      "close": 32.13,
-      "volume": 3261900
-    },
     {
       "date": "2021-08-05",
       "open": 32.13,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3494635
+      "open": 1.43,
+      "high": 1.47,
+      "low": 1.4,
+      "close": 1.42,
+      "volume": 3553600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.44,
+      "high": 1.47,
+      "low": 1.41,
+      "close": 1.44,
+      "volume": 6394600
     }
   ]
 }

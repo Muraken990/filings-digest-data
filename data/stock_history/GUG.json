@@ -1,9 +1,9 @@
 {
   "code": "GUG",
   "ticker": "GUG",
-  "last_updated": "2026-08-04 09:37:42",
+  "last_updated": "2026-08-05 09:41:51",
   "period": "5y",
-  "data_points": 1175,
+  "data_points": 1176,
   "data": [
     {
       "date": "2021-11-24",
@@ -9399,11 +9399,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 80133
+      "open": 15.49,
+      "high": 15.54,
+      "low": 15.41,
+      "close": 15.44,
+      "volume": 80500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 15.44,
+      "high": 15.57,
+      "low": 15.43,
+      "close": 15.51,
+      "volume": 98800
     }
   ]
 }

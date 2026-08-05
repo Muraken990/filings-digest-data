@@ -1,18 +1,10 @@
 {
   "code": "MT",
   "ticker": "MT",
-  "last_updated": "2026-08-04 09:58:13",
+  "last_updated": "2026-08-05 10:02:22",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 32.6,
-      "high": 32.64,
-      "low": 31.91,
-      "close": 31.94,
-      "volume": 3587200
-    },
     {
       "date": "2021-08-05",
       "open": 32.01,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1385004
+      "open": 70.69,
+      "high": 71.93,
+      "low": 69.79,
+      "close": 71.83,
+      "volume": 1385000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 73.87,
+      "high": 75.43,
+      "low": 73.53,
+      "close": 75.21,
+      "volume": 1395700
     }
   ]
 }

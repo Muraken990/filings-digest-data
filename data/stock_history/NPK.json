@@ -1,18 +1,10 @@
 {
   "code": "NPK",
   "ticker": "NPK",
-  "last_updated": "2026-08-04 10:01:45",
+  "last_updated": "2026-08-05 10:05:53",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 76.57,
-      "high": 76.57,
-      "low": 74.77,
-      "close": 74.81,
-      "volume": 11400
-    },
     {
       "date": "2021-08-05",
       "open": 75.12,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 209712
+      "open": 123.33,
+      "high": 137.42,
+      "low": 123.26,
+      "close": 134.91,
+      "volume": 224100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 136.97,
+      "high": 138.55,
+      "low": 131.66,
+      "close": 136.06,
+      "volume": 109400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "KBON",
   "ticker": "KBON",
-  "last_updated": "2026-08-04 09:47:08",
+  "last_updated": "2026-08-05 09:51:16",
   "period": "5y",
-  "data_points": 130,
+  "data_points": 131,
   "data": [
     {
       "date": "2026-01-27",
@@ -1039,11 +1039,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 69534
+      "open": 10.08,
+      "high": 10.08,
+      "low": 10.08,
+      "close": 10.08,
+      "volume": 69500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.08,
+      "high": 10.08,
+      "low": 10.08,
+      "close": 10.08,
+      "volume": 0
     }
   ]
 }

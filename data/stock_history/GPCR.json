@@ -1,9 +1,9 @@
 {
   "code": "GPCR",
   "ticker": "GPCR",
-  "last_updated": "2026-08-04 09:36:03",
+  "last_updated": "2026-08-05 09:40:12",
   "period": "5y",
-  "data_points": 876,
+  "data_points": 877,
   "data": [
     {
       "date": "2023-02-03",
@@ -7007,11 +7007,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 303183
+      "open": 48.03,
+      "high": 48.71,
+      "low": 46.58,
+      "close": 48.36,
+      "volume": 326400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 49.4,
+      "high": 50.51,
+      "low": 48.3,
+      "close": 49.64,
+      "volume": 876800
     }
   ]
 }

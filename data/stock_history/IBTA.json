@@ -1,9 +1,9 @@
 {
   "code": "IBTA",
   "ticker": "IBTA",
-  "last_updated": "2026-08-04 09:41:59",
+  "last_updated": "2026-08-05 09:46:07",
   "period": "5y",
-  "data_points": 573,
+  "data_points": 574,
   "data": [
     {
       "date": "2024-04-19",
@@ -4583,11 +4583,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 403706
+      "open": 24.25,
+      "high": 25.33,
+      "low": 23.99,
+      "close": 24.58,
+      "volume": 408300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 30.61,
+      "high": 38.0,
+      "low": 30.47,
+      "close": 37.34,
+      "volume": 1248800
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "JF",
   "ticker": "JF",
-  "last_updated": "2026-08-04 09:46:15",
+  "last_updated": "2026-08-05 09:50:23",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 4.65,
-      "high": 4.65,
-      "low": 4.5,
-      "close": 4.6,
-      "volume": 24600
-    },
     {
       "date": "2021-08-05",
       "open": 4.6,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 13983
+      "open": 0.95,
+      "high": 0.97,
+      "low": 0.85,
+      "close": 0.95,
+      "volume": 14600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.92,
+      "high": 0.97,
+      "low": 0.89,
+      "close": 0.9,
+      "volume": 16500
     }
   ]
 }

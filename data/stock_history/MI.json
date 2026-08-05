@@ -1,18 +1,10 @@
 {
   "code": "MI",
   "ticker": "MI",
-  "last_updated": "2026-08-04 09:55:41",
+  "last_updated": "2026-08-05 09:59:49",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 346.5,
-      "high": 373.75,
-      "low": 311.5,
-      "close": 324.5,
-      "volume": 53412
-    },
     {
       "date": "2021-08-05",
       "open": 325.5,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 9055
+      "open": 8.22,
+      "high": 8.22,
+      "low": 7.15,
+      "close": 7.84,
+      "volume": 9100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 7.92,
+      "high": 8.1,
+      "low": 7.92,
+      "close": 7.96,
+      "volume": 4900
     }
   ]
 }

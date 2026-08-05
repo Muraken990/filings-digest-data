@@ -1,9 +1,9 @@
 {
   "code": "LXEO",
   "ticker": "LXEO",
-  "last_updated": "2026-08-04 09:52:19",
+  "last_updated": "2026-08-05 09:56:28",
   "period": "5y",
-  "data_points": 687,
+  "data_points": 688,
   "data": [
     {
       "date": "2023-11-03",
@@ -5495,11 +5495,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 656910
+      "open": 4.15,
+      "high": 4.2,
+      "low": 3.99,
+      "close": 4.2,
+      "volume": 667200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 4.22,
+      "high": 4.49,
+      "low": 4.22,
+      "close": 4.41,
+      "volume": 916800
     }
   ]
 }

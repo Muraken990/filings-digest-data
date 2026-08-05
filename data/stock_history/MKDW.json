@@ -1,9 +1,9 @@
 {
   "code": "MKDW",
   "ticker": "MKDW",
-  "last_updated": "2026-08-04 09:55:43",
+  "last_updated": "2026-08-05 09:59:51",
   "period": "5y",
-  "data_points": 840,
+  "data_points": 841,
   "data": [
     {
       "date": "2023-03-28",
@@ -6719,11 +6719,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1028
+      "open": 11.94,
+      "high": 11.95,
+      "low": 11.16,
+      "close": 11.16,
+      "volume": 1100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 11.63,
+      "high": 11.63,
+      "low": 11.63,
+      "close": 11.63,
+      "volume": 800
     }
   ]
 }

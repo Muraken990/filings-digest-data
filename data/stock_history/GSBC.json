@@ -1,18 +1,10 @@
 {
   "code": "GSBC",
   "ticker": "GSBC",
-  "last_updated": "2026-08-04 09:36:54",
+  "last_updated": "2026-08-05 09:41:03",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 45.21,
-      "high": 45.84,
-      "low": 44.98,
-      "close": 44.98,
-      "volume": 29200
-    },
     {
       "date": "2021-08-05",
       "open": 45.41,
@@ -1472,7 +1464,7 @@
     {
       "date": "2022-04-26",
       "open": 51.63,
-      "high": 52.24,
+      "high": 52.23,
       "low": 50.62,
       "close": 50.71,
       "volume": 43300
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 151742
+      "open": 81.5,
+      "high": 82.91,
+      "low": 80.92,
+      "close": 81.36,
+      "volume": 152200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 81.41,
+      "high": 82.11,
+      "low": 80.47,
+      "close": 82.02,
+      "volume": 64800
     }
   ]
 }

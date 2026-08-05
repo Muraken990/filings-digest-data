@@ -1,9 +1,9 @@
 {
   "code": "KVUE",
   "ticker": "KVUE",
-  "last_updated": "2026-08-04 09:48:52",
+  "last_updated": "2026-08-05 09:53:00",
   "period": "5y",
-  "data_points": 814,
+  "data_points": 815,
   "data": [
     {
       "date": "2023-05-04",
@@ -6511,11 +6511,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 34355370
+      "open": 19.38,
+      "high": 19.68,
+      "low": 18.77,
+      "close": 19.01,
+      "volume": 35167400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 19.0,
+      "high": 19.61,
+      "low": 18.68,
+      "close": 19.55,
+      "volume": 23593000
     }
   ]
 }

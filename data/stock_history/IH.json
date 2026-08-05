@@ -1,18 +1,10 @@
 {
   "code": "IH",
   "ticker": "IH",
-  "last_updated": "2026-08-04 09:42:49",
+  "last_updated": "2026-08-05 09:46:57",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 6.34,
-      "high": 6.61,
-      "low": 6.34,
-      "close": 6.45,
-      "volume": 63600
-    },
     {
       "date": "2021-08-05",
       "open": 6.44,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1426
+      "open": 1.36,
+      "high": 1.36,
+      "low": 1.35,
+      "close": 1.35,
+      "volume": 1500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.35,
+      "high": 1.35,
+      "low": 1.28,
+      "close": 1.29,
+      "volume": 8200
     }
   ]
 }

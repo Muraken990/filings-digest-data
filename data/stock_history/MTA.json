@@ -1,18 +1,10 @@
 {
   "code": "MTA",
   "ticker": "MTA",
-  "last_updated": "2026-08-04 09:58:13",
+  "last_updated": "2026-08-05 10:02:22",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 8.2,
-      "high": 8.25,
-      "low": 7.87,
-      "close": 7.94,
-      "volume": 122800
-    },
     {
       "date": "2021-08-05",
       "open": 8.09,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 312453
+      "open": 7.34,
+      "high": 7.56,
+      "low": 7.25,
+      "close": 7.5,
+      "volume": 312500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 7.63,
+      "high": 7.99,
+      "low": 7.63,
+      "close": 7.85,
+      "volume": 411500
     }
   ]
 }

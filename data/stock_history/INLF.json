@@ -1,9 +1,9 @@
 {
   "code": "INLF",
   "ticker": "INLF",
-  "last_updated": "2026-08-04 09:43:43",
+  "last_updated": "2026-08-05 09:47:51",
   "period": "5y",
-  "data_points": 396,
+  "data_points": 397,
   "data": [
     {
       "date": "2025-01-02",
@@ -3167,11 +3167,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 163792
+      "open": 4.19,
+      "high": 4.19,
+      "low": 3.63,
+      "close": 3.73,
+      "volume": 174800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.71,
+      "high": 3.71,
+      "low": 3.1,
+      "close": 3.18,
+      "volume": 3697400
     }
   ]
 }

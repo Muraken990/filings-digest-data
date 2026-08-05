@@ -1,9 +1,9 @@
 {
   "code": "KTWO",
   "ticker": "KTWO",
-  "last_updated": "2026-08-04 09:48:51",
+  "last_updated": "2026-08-05 09:53:00",
   "period": "5y",
-  "data_points": 109,
+  "data_points": 110,
   "data": [
     {
       "date": "2026-02-26",
@@ -871,11 +871,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3114
+      "open": 10.0,
+      "high": 10.0,
+      "low": 9.98,
+      "close": 9.98,
+      "volume": 3100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 9.96,
+      "high": 9.96,
+      "low": 9.96,
+      "close": 9.96,
+      "volume": 400
     }
   ]
 }

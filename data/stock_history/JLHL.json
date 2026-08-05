@@ -1,9 +1,9 @@
 {
   "code": "JLHL",
   "ticker": "JLHL",
-  "last_updated": "2026-08-04 09:46:17",
+  "last_updated": "2026-08-05 09:50:25",
   "period": "5y",
-  "data_points": 277,
+  "data_points": 278,
   "data": [
     {
       "date": "2025-06-26",
@@ -2215,11 +2215,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 84256
+      "open": 6.12,
+      "high": 6.55,
+      "low": 6.12,
+      "close": 6.21,
+      "volume": 85800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 6.26,
+      "high": 6.35,
+      "low": 5.17,
+      "close": 5.42,
+      "volume": 126300
     }
   ]
 }

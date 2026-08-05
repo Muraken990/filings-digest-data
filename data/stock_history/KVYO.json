@@ -1,9 +1,9 @@
 {
   "code": "KVYO",
   "ticker": "KVYO",
-  "last_updated": "2026-08-04 09:48:52",
+  "last_updated": "2026-08-05 09:53:01",
   "period": "5y",
-  "data_points": 719,
+  "data_points": 720,
   "data": [
     {
       "date": "2023-09-20",
@@ -5751,11 +5751,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7937918
+      "open": 18.29,
+      "high": 19.09,
+      "low": 17.39,
+      "close": 18.1,
+      "volume": 8429600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 17.83,
+      "high": 19.18,
+      "low": 17.83,
+      "close": 19.1,
+      "volume": 6497900
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "PDEX",
   "ticker": "PDEX",
-  "last_updated": "2026-08-04 10:08:34",
+  "last_updated": "2026-08-05 10:12:41",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 30.25,
-      "high": 30.25,
-      "low": 30.25,
-      "close": 30.25,
-      "volume": 800
-    },
     {
       "date": "2021-08-05",
       "open": 29.77,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 80468
+      "open": 59.5,
+      "high": 64.34,
+      "low": 59.5,
+      "close": 63.61,
+      "volume": 81100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 63.62,
+      "high": 68.79,
+      "low": 63.62,
+      "close": 68.44,
+      "volume": 81900
     }
   ]
 }

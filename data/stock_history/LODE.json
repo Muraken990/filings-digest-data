@@ -1,18 +1,10 @@
 {
   "code": "LODE",
   "ticker": "LODE",
-  "last_updated": "2026-08-04 09:51:26",
+  "last_updated": "2026-08-05 09:55:35",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 30.1,
-      "high": 30.6,
-      "low": 28.6,
-      "close": 29.0,
-      "volume": 46050
-    },
     {
       "date": "2021-08-05",
       "open": 28.9,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1056218
+      "open": 2.75,
+      "high": 3.03,
+      "low": 2.73,
+      "close": 3.02,
+      "volume": 1131800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.03,
+      "high": 3.2,
+      "low": 2.96,
+      "close": 3.18,
+      "volume": 907900
     }
   ]
 }

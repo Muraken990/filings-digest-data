@@ -1,9 +1,9 @@
 {
   "code": "KBSX",
   "ticker": "KBSX",
-  "last_updated": "2026-08-04 09:47:08",
+  "last_updated": "2026-08-05 09:51:16",
   "period": "5y",
-  "data_points": 1096,
+  "data_points": 1097,
   "data": [
     {
       "date": "2022-03-21",
@@ -8767,11 +8767,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 28804
+      "open": 0.85,
+      "high": 1.07,
+      "low": 0.85,
+      "close": 0.93,
+      "volume": 28800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.98,
+      "high": 1.13,
+      "low": 0.9,
+      "close": 1.13,
+      "volume": 26400
     }
   ]
 }

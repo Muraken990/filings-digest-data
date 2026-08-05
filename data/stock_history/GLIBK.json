@@ -1,9 +1,9 @@
 {
   "code": "GLIBK",
   "ticker": "GLIBK",
-  "last_updated": "2026-08-04 09:35:10",
+  "last_updated": "2026-08-05 09:39:20",
   "period": "5y",
-  "data_points": 267,
+  "data_points": 268,
   "data": [
     {
       "date": "2025-07-11",
@@ -2135,11 +2135,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 399737
+      "open": 23.17,
+      "high": 23.97,
+      "low": 23.17,
+      "close": 23.68,
+      "volume": 406000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 23.47,
+      "high": 24.02,
+      "low": 23.36,
+      "close": 23.93,
+      "volume": 326700
     }
   ]
 }

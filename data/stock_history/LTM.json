@@ -1,9 +1,9 @@
 {
   "code": "LTM",
   "ticker": "LTM",
-  "last_updated": "2026-08-04 09:52:16",
+  "last_updated": "2026-08-05 09:56:25",
   "period": "5y",
-  "data_points": 507,
+  "data_points": 508,
   "data": [
     {
       "date": "2024-07-25",
@@ -4055,11 +4055,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 575097
+      "open": 54.44,
+      "high": 54.99,
+      "low": 54.31,
+      "close": 54.51,
+      "volume": 576800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 56.37,
+      "high": 56.68,
+      "low": 55.33,
+      "close": 55.66,
+      "volume": 820000
     }
   ]
 }

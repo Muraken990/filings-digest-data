@@ -1,9 +1,9 @@
 {
   "code": "NLOP",
   "ticker": "NLOP",
-  "last_updated": "2026-08-04 10:00:53",
+  "last_updated": "2026-08-05 10:05:02",
   "period": "5y",
-  "data_points": 692,
+  "data_points": 693,
   "data": [
     {
       "date": "2023-10-27",
@@ -5535,11 +5535,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 100616
+      "open": 11.68,
+      "high": 12.12,
+      "low": 11.68,
+      "close": 12.03,
+      "volume": 127400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 11.93,
+      "high": 12.01,
+      "low": 11.75,
+      "close": 11.93,
+      "volume": 136700
     }
   ]
 }

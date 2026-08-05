@@ -1,9 +1,9 @@
 {
   "code": "MGIH",
   "ticker": "MGIH",
-  "last_updated": "2026-08-04 09:54:52",
+  "last_updated": "2026-08-05 09:59:01",
   "period": "5y",
-  "data_points": 835,
+  "data_points": 836,
   "data": [
     {
       "date": "2023-04-04",
@@ -6679,11 +6679,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8540
+      "open": 1.51,
+      "high": 1.56,
+      "low": 1.48,
+      "close": 1.52,
+      "volume": 9100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.56,
+      "high": 1.56,
+      "low": 1.51,
+      "close": 1.55,
+      "volume": 9400
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "PCRX",
   "ticker": "PCRX",
-  "last_updated": "2026-08-04 10:08:32",
+  "last_updated": "2026-08-05 10:12:40",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 60.05,
-      "high": 61.38,
-      "low": 58.54,
-      "close": 60.28,
-      "volume": 493800
-    },
     {
       "date": "2021-08-05",
       "open": 60.71,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1166543
+      "open": 26.09,
+      "high": 26.92,
+      "low": 25.92,
+      "close": 26.92,
+      "volume": 1166500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 26.68,
+      "high": 27.66,
+      "low": 26.37,
+      "close": 27.62,
+      "volume": 1130100
     }
   ]
 }

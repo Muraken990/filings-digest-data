@@ -1,18 +1,10 @@
 {
   "code": "LAND",
   "ticker": "LAND",
-  "last_updated": "2026-08-04 09:49:40",
+  "last_updated": "2026-08-05 09:53:48",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 18.8,
-      "high": 18.96,
-      "low": 18.5,
-      "close": 18.66,
-      "volume": 130500
-    },
     {
       "date": "2021-08-05",
       "open": 18.84,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 750128
+      "open": 8.12,
+      "high": 8.2,
+      "low": 8.06,
+      "close": 8.06,
+      "volume": 750800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 8.07,
+      "high": 8.19,
+      "low": 7.92,
+      "close": 8.16,
+      "volume": 924400
     }
   ]
 }

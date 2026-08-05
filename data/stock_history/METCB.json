@@ -1,9 +1,9 @@
 {
   "code": "METCB",
   "ticker": "METCB",
-  "last_updated": "2026-08-04 09:54:50",
+  "last_updated": "2026-08-05 09:58:58",
   "period": "5y",
-  "data_points": 784,
+  "data_points": 785,
   "data": [
     {
       "date": "2023-06-16",
@@ -6271,11 +6271,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 67804
+      "open": 6.31,
+      "high": 6.99,
+      "low": 6.31,
+      "close": 6.89,
+      "volume": 67800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 6.89,
+      "high": 7.0,
+      "low": 6.2,
+      "close": 6.43,
+      "volume": 120700
     }
   ]
 }

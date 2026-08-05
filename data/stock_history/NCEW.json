@@ -1,9 +1,9 @@
 {
   "code": "NCEW",
   "ticker": "NCEW",
-  "last_updated": "2026-08-04 09:59:56",
+  "last_updated": "2026-08-05 10:04:06",
   "period": "5y",
-  "data_points": 405,
+  "data_points": 406,
   "data": [
     {
       "date": "2024-12-18",
@@ -3239,11 +3239,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 731
+      "open": 18.0,
+      "high": 18.0,
+      "low": 17.1,
+      "close": 17.1,
+      "volume": 800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 17.1,
+      "high": 17.1,
+      "low": 17.1,
+      "close": 17.1,
+      "volume": 0
     }
   ]
 }

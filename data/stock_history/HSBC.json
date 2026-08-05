@@ -1,18 +1,10 @@
 {
   "code": "HSBC",
   "ticker": "HSBC",
-  "last_updated": "2026-08-04 09:40:18",
+  "last_updated": "2026-08-05 09:44:27",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 20.34,
-      "high": 20.51,
-      "low": 20.31,
-      "close": 20.42,
-      "volume": 2189200
-    },
     {
       "date": "2021-08-05",
       "open": 20.46,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1334397
+      "open": 107.47,
+      "high": 107.92,
+      "low": 106.78,
+      "close": 107.86,
+      "volume": 1336400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 106.7,
+      "high": 107.85,
+      "low": 105.91,
+      "close": 106.04,
+      "volume": 2126400
     }
   ]
 }

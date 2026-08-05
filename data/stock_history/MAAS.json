@@ -1,18 +1,10 @@
 {
   "code": "MAAS",
   "ticker": "MAAS",
-  "last_updated": "2026-08-04 09:53:07",
+  "last_updated": "2026-08-05 09:57:16",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 311.4,
-      "high": 312.0,
-      "low": 303.18,
-      "close": 303.78,
-      "volume": 27
-    },
     {
       "date": "2021-08-05",
       "open": 292.5,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 98453
+      "open": 17.77,
+      "high": 18.98,
+      "low": 17.0,
+      "close": 18.49,
+      "volume": 99700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 18.49,
+      "high": 20.17,
+      "low": 17.9,
+      "close": 19.51,
+      "volume": 58300
     }
   ]
 }

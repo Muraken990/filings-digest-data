@@ -1,18 +1,10 @@
 {
   "code": "LINC",
   "ticker": "LINC",
-  "last_updated": "2026-08-04 09:50:35",
+  "last_updated": "2026-08-05 09:54:44",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 7.32,
-      "high": 7.32,
-      "low": 7.13,
-      "close": 7.23,
-      "volume": 59500
-    },
     {
       "date": "2021-08-05",
       "open": 7.21,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 315000
+      "open": 41.47,
+      "high": 43.46,
+      "low": 41.33,
+      "close": 43.15,
+      "volume": 325800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 43.67,
+      "high": 44.35,
+      "low": 42.33,
+      "close": 43.15,
+      "volume": 532600
     }
   ]
 }

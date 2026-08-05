@@ -1,9 +1,9 @@
 {
   "code": "HNVR",
   "ticker": "HNVR",
-  "last_updated": "2026-08-04 09:39:28",
+  "last_updated": "2026-08-05 09:43:37",
   "period": "5y",
-  "data_points": 1060,
+  "data_points": 1061,
   "data": [
     {
       "date": "2022-05-11",
@@ -8479,11 +8479,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 67210
+      "open": 26.35,
+      "high": 27.08,
+      "low": 26.35,
+      "close": 26.41,
+      "volume": 67700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 26.42,
+      "high": 27.42,
+      "low": 26.41,
+      "close": 27.12,
+      "volume": 103700
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "IMMX",
   "ticker": "IMMX",
-  "last_updated": "2026-08-04 09:42:53",
+  "last_updated": "2026-08-05 09:47:01",
   "period": "5y",
-  "data_points": 1160,
+  "data_points": 1161,
   "data": [
     {
       "date": "2021-12-16",
@@ -9279,11 +9279,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1604253
+      "open": 8.27,
+      "high": 8.43,
+      "low": 7.83,
+      "close": 8.42,
+      "volume": 1618100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 8.53,
+      "high": 9.38,
+      "low": 8.53,
+      "close": 9.33,
+      "volume": 1868900
     }
   ]
 }

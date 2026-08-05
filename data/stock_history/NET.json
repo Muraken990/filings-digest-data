@@ -1,18 +1,10 @@
 {
   "code": "NET",
   "ticker": "NET",
-  "last_updated": "2026-08-04 10:00:01",
+  "last_updated": "2026-08-05 10:04:10",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 119.9,
-      "high": 121.25,
-      "low": 118.82,
-      "close": 120.0,
-      "volume": 2451600
-    },
     {
       "date": "2021-08-05",
       "open": 118.98,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3093053
+      "open": 278.85,
+      "high": 288.69,
+      "low": 276.07,
+      "close": 282.74,
+      "volume": 3095200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 280.0,
+      "high": 303.76,
+      "low": 278.51,
+      "close": 301.33,
+      "volume": 5451000
     }
   ]
 }

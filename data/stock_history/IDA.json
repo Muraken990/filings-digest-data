@@ -1,17 +1,17 @@
 {
   "code": "IDA",
   "ticker": "IDA",
-  "last_updated": "2026-08-04 09:42:01",
+  "last_updated": "2026-08-05 09:46:09",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-04",
-      "open": 91.59,
-      "high": 92.48,
-      "low": 91.34,
-      "close": 92.12,
-      "volume": 173800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-05",
@@ -802,7 +802,7 @@
       "open": 96.12,
       "high": 96.4,
       "low": 95.1,
-      "close": 95.43,
+      "close": 95.42,
       "volume": 128700
     },
     {
@@ -976,7 +976,7 @@
     {
       "date": "2022-01-26",
       "open": 93.93,
-      "high": 95.43,
+      "high": 95.42,
       "low": 92.93,
       "close": 93.58,
       "volume": 276400
@@ -3407,7 +3407,7 @@
     },
     {
       "date": "2023-04-13",
-      "open": 100.79,
+      "open": 100.8,
       "high": 101.37,
       "low": 99.17,
       "close": 101.1,
@@ -6641,7 +6641,7 @@
       "date": "2024-11-19",
       "open": 113.17,
       "high": 113.21,
-      "low": 112.05,
+      "low": 112.04,
       "close": 112.99,
       "volume": 426300
     },
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 243614
+      "open": 141.74,
+      "high": 145.52,
+      "low": 141.57,
+      "close": 143.79,
+      "volume": 395900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 143.72,
+      "high": 145.44,
+      "low": 141.63,
+      "close": 144.57,
+      "volume": 410000
     }
   ]
 }

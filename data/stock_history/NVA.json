@@ -1,9 +1,9 @@
 {
   "code": "NVA",
   "ticker": "NVA",
-  "last_updated": "2026-08-04 10:03:23",
+  "last_updated": "2026-08-05 10:07:32",
   "period": "5y",
-  "data_points": 508,
+  "data_points": 509,
   "data": [
     {
       "date": "2024-07-24",
@@ -4063,11 +4063,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 180826
+      "open": 4.39,
+      "high": 4.68,
+      "low": 4.38,
+      "close": 4.6,
+      "volume": 185500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 4.63,
+      "high": 5.1,
+      "low": 4.63,
+      "close": 5.1,
+      "volume": 251900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "MPLT",
   "ticker": "MPLT",
-  "last_updated": "2026-08-04 09:57:21",
+  "last_updated": "2026-08-05 10:01:30",
   "period": "5y",
-  "data_points": 192,
+  "data_points": 193,
   "data": [
     {
       "date": "2025-10-27",
@@ -1535,11 +1535,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 985011
+      "open": 12.85,
+      "high": 13.14,
+      "low": 12.08,
+      "close": 12.55,
+      "volume": 999900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 12.57,
+      "high": 13.03,
+      "low": 12.37,
+      "close": 12.94,
+      "volume": 847600
     }
   ]
 }

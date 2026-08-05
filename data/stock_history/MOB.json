@@ -1,9 +1,9 @@
 {
   "code": "MOB",
   "ticker": "MOB",
-  "last_updated": "2026-08-04 09:56:34",
+  "last_updated": "2026-08-05 10:00:42",
   "period": "5y",
-  "data_points": 987,
+  "data_points": 988,
   "data": [
     {
       "date": "2022-08-25",
@@ -7895,11 +7895,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 42221
+      "open": 4.84,
+      "high": 5.18,
+      "low": 4.84,
+      "close": 5.15,
+      "volume": 42200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 5.25,
+      "high": 5.74,
+      "low": 5.25,
+      "close": 5.62,
+      "volume": 218400
     }
   ]
 }

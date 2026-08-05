@@ -1,9 +1,9 @@
 {
   "code": "GRML",
   "ticker": "GRML",
-  "last_updated": "2026-08-04 09:36:52",
+  "last_updated": "2026-08-05 09:41:00",
   "period": "5y",
-  "data_points": 1068,
+  "data_points": 1069,
   "data": [
     {
       "date": "2022-04-29",
@@ -8543,11 +8543,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1948021
+      "open": 0.19,
+      "high": 0.2,
+      "low": 0.19,
+      "close": 0.2,
+      "volume": 1989100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.19,
+      "high": 0.21,
+      "low": 0.19,
+      "close": 0.19,
+      "volume": 3118800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "GEGGL",
   "ticker": "GEGGL",
-  "last_updated": "2026-08-04 09:34:16",
+  "last_updated": "2026-08-05 09:38:26",
   "period": "5y",
-  "data_points": 1033,
+  "data_points": 1034,
   "data": [
     {
       "date": "2022-06-21",
@@ -943,9 +943,9 @@
     },
     {
       "date": "2022-12-06",
-      "open": 11.19,
+      "open": 11.18,
       "high": 11.21,
-      "low": 11.19,
+      "low": 11.18,
       "close": 11.21,
       "volume": 600
     },
@@ -8263,11 +8263,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 381
+      "open": 24.78,
+      "high": 24.78,
+      "low": 24.78,
+      "close": 24.78,
+      "volume": 400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 24.69,
+      "high": 24.72,
+      "low": 24.69,
+      "close": 24.72,
+      "volume": 300
     }
   ]
 }

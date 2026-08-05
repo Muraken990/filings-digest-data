@@ -1,18 +1,10 @@
 {
   "code": "GGRP",
   "ticker": "GGRP",
-  "last_updated": "2026-08-04 09:34:19",
+  "last_updated": "2026-08-05 09:38:30",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 9.17,
-      "high": 10.25,
-      "low": 8.85,
-      "close": 9.61,
-      "volume": 1396800
-    },
     {
       "date": "2021-08-05",
       "open": 9.54,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 32913
+      "open": 0.92,
+      "high": 0.95,
+      "low": 0.87,
+      "close": 0.9,
+      "volume": 32900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.88,
+      "high": 0.94,
+      "low": 0.85,
+      "close": 0.9,
+      "volume": 54100
     }
   ]
 }

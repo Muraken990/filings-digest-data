@@ -1,9 +1,9 @@
 {
   "code": "MCGA",
   "ticker": "MCGA",
-  "last_updated": "2026-08-04 09:53:58",
+  "last_updated": "2026-08-05 09:58:07",
   "period": "5y",
-  "data_points": 257,
+  "data_points": 258,
   "data": [
     {
       "date": "2025-07-25",
@@ -2055,11 +2055,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 18680
+      "open": 10.23,
+      "high": 10.24,
+      "low": 10.23,
+      "close": 10.23,
+      "volume": 18700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.23,
+      "high": 10.24,
+      "low": 10.23,
+      "close": 10.23,
+      "volume": 19900
     }
   ]
 }

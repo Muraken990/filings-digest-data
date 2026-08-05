@@ -1,18 +1,10 @@
 {
   "code": "PFBC",
   "ticker": "PFBC",
-  "last_updated": "2026-08-04 10:09:24",
+  "last_updated": "2026-08-05 10:13:31",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 49.1,
-      "high": 49.54,
-      "low": 48.88,
-      "close": 48.9,
-      "volume": 50000
-    },
     {
       "date": "2021-08-05",
       "open": 48.92,
@@ -3089,7 +3081,7 @@
       "date": "2023-02-14",
       "open": 64.34,
       "high": 64.34,
-      "low": 62.96,
+      "low": 62.95,
       "close": 63.49,
       "volume": 47500
     },
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 132963
+      "open": 106.13,
+      "high": 107.18,
+      "low": 105.27,
+      "close": 106.1,
+      "volume": 134000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 105.81,
+      "high": 107.26,
+      "low": 104.96,
+      "close": 106.93,
+      "volume": 109200
     }
   ]
 }

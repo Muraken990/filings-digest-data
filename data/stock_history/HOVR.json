@@ -1,9 +1,9 @@
 {
   "code": "HOVR",
   "ticker": "HOVR",
-  "last_updated": "2026-08-04 09:40:14",
+  "last_updated": "2026-08-05 09:44:23",
   "period": "5y",
-  "data_points": 836,
+  "data_points": 837,
   "data": [
     {
       "date": "2023-04-03",
@@ -6687,11 +6687,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1103829
+      "open": 1.74,
+      "high": 1.83,
+      "low": 1.72,
+      "close": 1.78,
+      "volume": 1108400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.84,
+      "high": 1.84,
+      "low": 1.76,
+      "close": 1.79,
+      "volume": 1756600
     }
   ]
 }

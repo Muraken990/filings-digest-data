@@ -1,9 +1,9 @@
 {
   "code": "MIMI",
   "ticker": "MIMI",
-  "last_updated": "2026-08-04 09:55:41",
+  "last_updated": "2026-08-05 09:59:49",
   "period": "5y",
-  "data_points": 391,
+  "data_points": 392,
   "data": [
     {
       "date": "2025-01-10",
@@ -3127,11 +3127,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 123006
+      "open": 1.73,
+      "high": 1.85,
+      "low": 1.6,
+      "close": 1.66,
+      "volume": 124000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.68,
+      "high": 1.73,
+      "low": 1.6,
+      "close": 1.68,
+      "volume": 66900
     }
   ]
 }

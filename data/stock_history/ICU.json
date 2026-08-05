@@ -1,18 +1,10 @@
 {
   "code": "ICU",
   "ticker": "ICU",
-  "last_updated": "2026-08-04 09:42:00",
+  "last_updated": "2026-08-05 09:46:08",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 2467.5,
-      "high": 2471.25,
-      "low": 2467.5,
-      "close": 2471.25,
-      "volume": 12
-    },
     {
       "date": "2021-08-05",
       "open": 2474.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 45467
+      "open": 3.15,
+      "high": 3.29,
+      "low": 3.12,
+      "close": 3.19,
+      "volume": 47000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.22,
+      "high": 3.37,
+      "low": 3.07,
+      "close": 3.19,
+      "volume": 66000
     }
   ]
 }

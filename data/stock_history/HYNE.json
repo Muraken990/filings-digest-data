@@ -1,9 +1,9 @@
 {
   "code": "HYNE",
   "ticker": "HYNE",
-  "last_updated": "2026-08-04 09:41:11",
+  "last_updated": "2026-08-05 09:45:19",
   "period": "5y",
-  "data_points": 165,
+  "data_points": 166,
   "data": [
     {
       "date": "2025-12-04",
@@ -1319,11 +1319,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5754
+      "open": 16.26,
+      "high": 16.38,
+      "low": 16.26,
+      "close": 16.29,
+      "volume": 5800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 16.31,
+      "high": 16.35,
+      "low": 16.31,
+      "close": 16.31,
+      "volume": 5900
     }
   ]
 }

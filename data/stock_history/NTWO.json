@@ -1,9 +1,9 @@
 {
   "code": "NTWO",
   "ticker": "NTWO",
-  "last_updated": "2026-08-04 10:02:36",
+  "last_updated": "2026-08-05 10:06:45",
   "period": "5y",
-  "data_points": 399,
+  "data_points": 400,
   "data": [
     {
       "date": "2024-12-27",
@@ -3191,11 +3191,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3593
+      "open": 10.71,
+      "high": 10.71,
+      "low": 10.71,
+      "close": 10.71,
+      "volume": 3600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.71,
+      "high": 10.71,
+      "low": 10.71,
+      "close": 10.71,
+      "volume": 0
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "MZYX",
   "ticker": "MZYX",
-  "last_updated": "2026-08-04 09:59:06",
+  "last_updated": "2026-08-05 10:03:15",
   "period": "5y",
-  "data_points": 72,
+  "data_points": 73,
   "data": [
     {
       "date": "2026-04-21",
@@ -575,11 +575,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 215
+      "open": 9.94,
+      "high": 9.94,
+      "low": 9.94,
+      "close": 9.94,
+      "volume": 200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 9.95,
+      "high": 9.96,
+      "low": 9.95,
+      "close": 9.96,
+      "volume": 1800
     }
   ]
 }

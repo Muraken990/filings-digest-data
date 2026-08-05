@@ -1,18 +1,10 @@
 {
   "code": "IPAR",
   "ticker": "IPAR",
-  "last_updated": "2026-08-04 09:44:33",
+  "last_updated": "2026-08-05 09:48:41",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 68.48,
-      "high": 69.18,
-      "low": 67.79,
-      "close": 68.71,
-      "volume": 74300
-    },
     {
       "date": "2021-08-05",
       "open": 69.0,
@@ -3618,7 +3610,7 @@
       "open": 123.43,
       "high": 124.11,
       "low": 122.2,
-      "close": 123.44,
+      "close": 123.43,
       "volume": 82400
     },
     {
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 287360
+      "open": 126.5,
+      "high": 128.06,
+      "low": 124.36,
+      "close": 124.92,
+      "volume": 292200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 124.54,
+      "high": 129.0,
+      "low": 123.64,
+      "close": 128.55,
+      "volume": 368200
     }
   ]
 }

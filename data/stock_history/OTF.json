@@ -1,9 +1,9 @@
 {
   "code": "OTF",
   "ticker": "OTF",
-  "last_updated": "2026-08-04 10:06:50",
+  "last_updated": "2026-08-05 10:10:58",
   "period": "5y",
-  "data_points": 286,
+  "data_points": 287,
   "data": [
     {
       "date": "2025-06-12",
@@ -2287,11 +2287,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4789322
+      "open": 10.02,
+      "high": 10.37,
+      "low": 10.02,
+      "close": 10.31,
+      "volume": 4925400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.29,
+      "high": 10.72,
+      "low": 10.25,
+      "close": 10.7,
+      "volume": 5055000
     }
   ]
 }

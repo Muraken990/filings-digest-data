@@ -1,18 +1,10 @@
 {
   "code": "MYSZ",
   "ticker": "MYSZ",
-  "last_updated": "2026-08-04 09:59:06",
+  "last_updated": "2026-08-05 10:03:15",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 236.0,
-      "high": 236.0,
-      "low": 226.0,
-      "close": 232.0,
-      "volume": 471
-    },
     {
       "date": "2021-08-05",
       "open": 234.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 19615
+      "open": 0.4,
+      "high": 0.4,
+      "low": 0.38,
+      "close": 0.38,
+      "volume": 19800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.41,
+      "high": 0.41,
+      "low": 0.37,
+      "close": 0.37,
+      "volume": 21600
     }
   ]
 }

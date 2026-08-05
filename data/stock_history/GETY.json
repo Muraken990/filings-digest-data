@@ -1,18 +1,10 @@
 {
   "code": "GETY",
   "ticker": "GETY",
-  "last_updated": "2026-08-04 09:34:17",
+  "last_updated": "2026-08-05 09:38:27",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 9.76,
-      "high": 9.79,
-      "low": 9.75,
-      "close": 9.77,
-      "volume": 1775400
-    },
     {
       "date": "2021-08-05",
       "open": 9.77,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4495657
+      "open": 0.36,
+      "high": 0.43,
+      "low": 0.36,
+      "close": 0.42,
+      "volume": 4605000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.43,
+      "high": 0.48,
+      "low": 0.42,
+      "close": 0.48,
+      "volume": 6817900
     }
   ]
 }

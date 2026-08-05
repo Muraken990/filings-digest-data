@@ -1,9 +1,9 @@
 {
   "code": "LFMDP",
   "ticker": "LFMDP",
-  "last_updated": "2026-08-04 09:50:31",
+  "last_updated": "2026-08-05 09:54:40",
   "period": "5y",
-  "data_points": 1211,
+  "data_points": 1212,
   "data": [
     {
       "date": "2021-10-05",
@@ -9687,11 +9687,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2136
+      "open": 23.46,
+      "high": 23.46,
+      "low": 23.46,
+      "close": 23.46,
+      "volume": 2100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 23.5,
+      "high": 23.5,
+      "low": 23.43,
+      "close": 23.49,
+      "volume": 5000
     }
   ]
 }

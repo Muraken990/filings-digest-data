@@ -1,9 +1,9 @@
 {
   "code": "LCFY",
   "ticker": "LCFY",
-  "last_updated": "2026-08-04 09:49:43",
+  "last_updated": "2026-08-05 09:53:51",
   "period": "5y",
-  "data_points": 1092,
+  "data_points": 1093,
   "data": [
     {
       "date": "2022-03-25",
@@ -8735,11 +8735,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7465
+      "open": 2.22,
+      "high": 2.29,
+      "low": 2.1,
+      "close": 2.27,
+      "volume": 7100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.49,
+      "high": 2.51,
+      "low": 2.29,
+      "close": 2.41,
+      "volume": 18000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "NAVN",
   "ticker": "NAVN",
-  "last_updated": "2026-08-04 09:59:09",
+  "last_updated": "2026-08-05 10:03:18",
   "period": "5y",
-  "data_points": 189,
+  "data_points": 190,
   "data": [
     {
       "date": "2025-10-30",
@@ -1511,11 +1511,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2322284
+      "open": 27.28,
+      "high": 28.0,
+      "low": 27.0,
+      "close": 27.48,
+      "volume": 2451800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 27.08,
+      "high": 28.07,
+      "low": 26.6,
+      "close": 27.87,
+      "volume": 3232600
     }
   ]
 }

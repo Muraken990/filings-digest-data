@@ -1,9 +1,9 @@
 {
   "code": "HCTI",
   "ticker": "HCTI",
-  "last_updated": "2026-08-04 09:38:34",
+  "last_updated": "2026-08-05 09:42:42",
   "period": "5y",
-  "data_points": 1205,
+  "data_points": 1206,
   "data": [
     {
       "date": "2021-10-13",
@@ -9639,11 +9639,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 243634
+      "open": 1.1,
+      "high": 1.13,
+      "low": 1.0,
+      "close": 1.02,
+      "volume": 248400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.02,
+      "high": 1.14,
+      "low": 1.01,
+      "close": 1.09,
+      "volume": 214600
     }
   ]
 }

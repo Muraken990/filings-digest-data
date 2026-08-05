@@ -1,18 +1,10 @@
 {
   "code": "LPSN",
   "ticker": "LPSN",
-  "last_updated": "2026-08-04 09:52:13",
+  "last_updated": "2026-08-05 09:56:23",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 870.0,
-      "high": 942.0,
-      "low": 847.65,
-      "close": 934.65,
-      "volume": 223620
-    },
     {
       "date": "2021-08-05",
       "open": 924.6,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 83033
+      "open": 1.78,
+      "high": 1.82,
+      "low": 1.77,
+      "close": 1.79,
+      "volume": 83200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.86,
+      "high": 2.29,
+      "low": 1.86,
+      "close": 2.19,
+      "volume": 616200
     }
   ]
 }

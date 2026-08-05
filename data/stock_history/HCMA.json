@@ -1,9 +1,9 @@
 {
   "code": "HCMA",
   "ticker": "HCMA",
-  "last_updated": "2026-08-04 09:38:34",
+  "last_updated": "2026-08-05 09:42:42",
   "period": "5y",
-  "data_points": 217,
+  "data_points": 218,
   "data": [
     {
       "date": "2025-09-22",
@@ -1735,11 +1735,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1154
+      "open": 10.27,
+      "high": 10.27,
+      "low": 10.27,
+      "close": 10.27,
+      "volume": 1100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.27,
+      "high": 10.27,
+      "low": 10.27,
+      "close": 10.27,
+      "volume": 50000
     }
   ]
 }

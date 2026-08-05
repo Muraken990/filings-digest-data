@@ -1,9 +1,9 @@
 {
   "code": "GBFH",
   "ticker": "GBFH",
-  "last_updated": "2026-08-04 09:33:26",
+  "last_updated": "2026-08-05 09:37:37",
   "period": "5y",
-  "data_points": 519,
+  "data_points": 520,
   "data": [
     {
       "date": "2024-07-09",
@@ -4151,11 +4151,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 148196
+      "open": 21.08,
+      "high": 22.4,
+      "low": 20.88,
+      "close": 21.9,
+      "volume": 150300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 22.08,
+      "high": 22.16,
+      "low": 20.72,
+      "close": 21.45,
+      "volume": 236000
     }
   ]
 }

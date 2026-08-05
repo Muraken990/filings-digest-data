@@ -1,9 +1,9 @@
 {
   "code": "MRT",
   "ticker": "MRT",
-  "last_updated": "2026-08-04 09:57:24",
+  "last_updated": "2026-08-05 10:01:33",
   "period": "5y",
-  "data_points": 1236,
+  "data_points": 1237,
   "data": [
     {
       "date": "2021-08-30",
@@ -9887,11 +9887,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 32761
+      "open": 1.81,
+      "high": 1.87,
+      "low": 1.76,
+      "close": 1.86,
+      "volume": 34400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.8,
+      "high": 1.84,
+      "low": 1.77,
+      "close": 1.77,
+      "volume": 28500
     }
   ]
 }

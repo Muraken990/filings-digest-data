@@ -1,9 +1,9 @@
 {
   "code": "PFAI",
   "ticker": "PFAI",
-  "last_updated": "2026-08-04 10:09:24",
+  "last_updated": "2026-08-05 10:13:31",
   "period": "5y",
-  "data_points": 323,
+  "data_points": 324,
   "data": [
     {
       "date": "2025-04-21",
@@ -2583,11 +2583,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 253997
+      "open": 2.79,
+      "high": 4.92,
+      "low": 2.05,
+      "close": 2.49,
+      "volume": 254900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.14,
+      "high": 2.37,
+      "low": 2.05,
+      "close": 2.24,
+      "volume": 14100
     }
   ]
 }

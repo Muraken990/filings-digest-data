@@ -1,9 +1,9 @@
 {
   "code": "KIDZ",
   "ticker": "KIDZ",
-  "last_updated": "2026-08-04 09:47:12",
+  "last_updated": "2026-08-05 09:51:20",
   "period": "5y",
-  "data_points": 332,
+  "data_points": 333,
   "data": [
     {
       "date": "2025-04-07",
@@ -2655,11 +2655,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 33604132
+      "open": 0.58,
+      "high": 0.62,
+      "low": 0.52,
+      "close": 0.56,
+      "volume": 34026000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.47,
+      "high": 0.52,
+      "low": 0.41,
+      "close": 0.45,
+      "volume": 5210200
     }
   ]
 }

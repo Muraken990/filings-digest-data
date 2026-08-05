@@ -1,9 +1,9 @@
 {
   "code": "KBDC",
   "ticker": "KBDC",
-  "last_updated": "2026-08-04 09:47:07",
+  "last_updated": "2026-08-05 09:51:16",
   "period": "5y",
-  "data_points": 550,
+  "data_points": 551,
   "data": [
     {
       "date": "2024-05-22",
@@ -4399,11 +4399,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 315202
+      "open": 13.47,
+      "high": 13.72,
+      "low": 13.33,
+      "close": 13.67,
+      "volume": 323400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 13.84,
+      "high": 13.98,
+      "low": 13.71,
+      "close": 13.9,
+      "volume": 407400
     }
   ]
 }

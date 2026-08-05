@@ -1,18 +1,10 @@
 {
   "code": "HFBL",
   "ticker": "HFBL",
-  "last_updated": "2026-08-04 09:38:36",
+  "last_updated": "2026-08-05 09:42:45",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 15.43,
-      "high": 15.43,
-      "low": 15.43,
-      "close": 15.43,
-      "volume": 0
-    },
     {
       "date": "2021-08-05",
       "open": 15.32,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5339
+      "open": 23.45,
+      "high": 23.45,
+      "low": 22.9,
+      "close": 23.0,
+      "volume": 5600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 21.12,
+      "high": 23.0,
+      "low": 21.12,
+      "close": 23.0,
+      "volume": 1200
     }
   ]
 }

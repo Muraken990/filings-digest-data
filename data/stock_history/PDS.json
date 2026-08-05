@@ -1,18 +1,10 @@
 {
   "code": "PDS",
   "ticker": "PDS",
-  "last_updated": "2026-08-04 10:08:35",
+  "last_updated": "2026-08-05 10:12:42",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 32.82,
-      "high": 33.06,
-      "low": 31.67,
-      "close": 31.75,
-      "volume": 39900
-    },
     {
       "date": "2021-08-05",
       "open": 32.06,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 101124
+      "open": 75.56,
+      "high": 77.79,
+      "low": 75.45,
+      "close": 77.49,
+      "volume": 107800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 75.97,
+      "high": 77.88,
+      "low": 75.8,
+      "close": 76.15,
+      "volume": 197100
     }
   ]
 }

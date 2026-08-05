@@ -1,9 +1,9 @@
 {
   "code": "IE",
   "ticker": "IE",
-  "last_updated": "2026-08-04 09:42:02",
+  "last_updated": "2026-08-05 09:46:10",
   "period": "5y",
-  "data_points": 1028,
+  "data_points": 1029,
   "data": [
     {
       "date": "2022-06-28",
@@ -8223,11 +8223,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1306491
+      "open": 9.1,
+      "high": 9.73,
+      "low": 9.01,
+      "close": 9.7,
+      "volume": 1307900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 9.95,
+      "high": 10.75,
+      "low": 9.95,
+      "close": 10.51,
+      "volume": 3033400
     }
   ]
 }

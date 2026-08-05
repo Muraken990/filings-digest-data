@@ -1,9 +1,9 @@
 {
   "code": "GENK",
   "ticker": "GENK",
-  "last_updated": "2026-08-04 09:34:17",
+  "last_updated": "2026-08-05 09:38:27",
   "period": "5y",
-  "data_points": 777,
+  "data_points": 778,
   "data": [
     {
       "date": "2023-06-28",
@@ -6215,11 +6215,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 17096
+      "open": 2.06,
+      "high": 2.06,
+      "low": 1.97,
+      "close": 1.97,
+      "volume": 17100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.97,
+      "high": 2.04,
+      "low": 1.95,
+      "close": 1.98,
+      "volume": 41400
     }
   ]
 }

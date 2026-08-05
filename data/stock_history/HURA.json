@@ -1,18 +1,10 @@
 {
   "code": "HURA",
   "ticker": "HURA",
-  "last_updated": "2026-08-04 09:41:08",
+  "last_updated": "2026-08-05 09:45:16",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 2625.0,
-      "high": 2710.75,
-      "low": 2555.0,
-      "close": 2590.0,
-      "volume": 70
-    },
     {
       "date": "2021-08-05",
       "open": 2590.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 200541
+      "open": 2.2,
+      "high": 2.22,
+      "low": 2.12,
+      "close": 2.14,
+      "volume": 208000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.15,
+      "high": 2.18,
+      "low": 2.08,
+      "close": 2.09,
+      "volume": 199600
     }
   ]
 }

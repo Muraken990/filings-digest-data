@@ -1,9 +1,9 @@
 {
   "code": "FVN",
   "ticker": "FVN",
-  "last_updated": "2026-08-04 09:32:37",
+  "last_updated": "2026-08-05 09:36:48",
   "period": "5y",
-  "data_points": 436,
+  "data_points": 437,
   "data": [
     {
       "date": "2024-11-04",
@@ -3487,11 +3487,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 29840
+      "open": 10.5,
+      "high": 11.41,
+      "low": 10.07,
+      "close": 10.57,
+      "volume": 29800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.5,
+      "high": 12.0,
+      "low": 10.5,
+      "close": 10.91,
+      "volume": 72300
     }
   ]
 }

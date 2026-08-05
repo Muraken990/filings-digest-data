@@ -1,9 +1,9 @@
 {
   "code": "MTEN",
   "ticker": "MTEN",
-  "last_updated": "2026-08-04 09:58:14",
+  "last_updated": "2026-08-05 10:02:23",
   "period": "5y",
-  "data_points": 573,
+  "data_points": 574,
   "data": [
     {
       "date": "2024-04-19",
@@ -4583,11 +4583,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 97409
+      "open": 0.98,
+      "high": 1.02,
+      "low": 0.96,
+      "close": 1.02,
+      "volume": 105600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.99,
+      "high": 1.07,
+      "low": 0.98,
+      "close": 1.06,
+      "volume": 194400
     }
   ]
 }

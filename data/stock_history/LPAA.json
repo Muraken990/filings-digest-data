@@ -1,9 +1,9 @@
 {
   "code": "LPAA",
   "ticker": "LPAA",
-  "last_updated": "2026-08-04 09:51:27",
+  "last_updated": "2026-08-05 09:55:36",
   "period": "5y",
-  "data_points": 480,
+  "data_points": 481,
   "data": [
     {
       "date": "2024-09-03",
@@ -3839,11 +3839,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 31013
+      "open": 10.75,
+      "high": 10.75,
+      "low": 10.74,
+      "close": 10.74,
+      "volume": 96000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.75,
+      "high": 10.75,
+      "low": 10.74,
+      "close": 10.74,
+      "volume": 500
     }
   ]
 }

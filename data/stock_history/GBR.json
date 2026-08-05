@@ -1,18 +1,10 @@
 {
   "code": "GBR",
   "ticker": "GBR",
-  "last_updated": "2026-08-04 09:33:26",
+  "last_updated": "2026-08-05 09:37:37",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 4.43,
-      "high": 4.49,
-      "low": 4.25,
-      "close": 4.33,
-      "volume": 76400
-    },
     {
       "date": "2021-08-05",
       "open": 4.28,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10450
+      "open": 0.67,
+      "high": 0.7,
+      "low": 0.67,
+      "close": 0.68,
+      "volume": 12500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.69,
+      "high": 0.7,
+      "low": 0.66,
+      "close": 0.67,
+      "volume": 16600
     }
   ]
 }

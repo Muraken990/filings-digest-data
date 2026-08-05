@@ -1,9 +1,9 @@
 {
   "code": "GNS",
   "ticker": "GNS",
-  "last_updated": "2026-08-04 09:36:00",
+  "last_updated": "2026-08-05 09:40:09",
   "period": "5y",
-  "data_points": 1080,
+  "data_points": 1081,
   "data": [
     {
       "date": "2022-04-12",
@@ -8639,11 +8639,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2284220
+      "open": 0.15,
+      "high": 0.16,
+      "low": 0.15,
+      "close": 0.15,
+      "volume": 2398500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.16,
+      "high": 0.17,
+      "low": 0.15,
+      "close": 0.16,
+      "volume": 6246600
     }
   ]
 }

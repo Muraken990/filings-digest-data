@@ -1,9 +1,9 @@
 {
   "code": "MGRT",
   "ticker": "MGRT",
-  "last_updated": "2026-08-04 09:55:39",
+  "last_updated": "2026-08-05 09:59:47",
   "period": "5y",
-  "data_points": 264,
+  "data_points": 265,
   "data": [
     {
       "date": "2025-07-16",
@@ -2111,11 +2111,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 31557
+      "open": 95.98,
+      "high": 95.98,
+      "low": 91.9,
+      "close": 92.4,
+      "volume": 31600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 94.0,
+      "high": 96.57,
+      "low": 91.99,
+      "close": 95.5,
+      "volume": 17500
     }
   ]
 }

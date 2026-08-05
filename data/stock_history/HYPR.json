@@ -1,18 +1,10 @@
 {
   "code": "HYPR",
   "ticker": "HYPR",
-  "last_updated": "2026-08-04 09:41:11",
+  "last_updated": "2026-08-05 09:45:19",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 9.86,
-      "high": 9.88,
-      "low": 9.84,
-      "close": 9.88,
-      "volume": 30900
-    },
     {
       "date": "2021-08-05",
       "open": 9.86,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 399440
+      "open": 0.94,
+      "high": 1.02,
+      "low": 0.94,
+      "close": 0.98,
+      "volume": 403700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.97,
+      "high": 1.05,
+      "low": 0.97,
+      "close": 1.02,
+      "volume": 575800
     }
   ]
 }

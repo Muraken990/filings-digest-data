@@ -1,18 +1,10 @@
 {
   "code": "IRIX",
   "ticker": "IRIX",
-  "last_updated": "2026-08-04 09:44:36",
+  "last_updated": "2026-08-05 09:48:44",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 6.69,
-      "high": 6.71,
-      "low": 6.53,
-      "close": 6.58,
-      "volume": 46500
-    },
     {
       "date": "2021-08-05",
       "open": 6.57,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 118276
+      "open": 0.81,
+      "high": 0.87,
+      "low": 0.81,
+      "close": 0.83,
+      "volume": 118300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.84,
+      "high": 0.86,
+      "low": 0.82,
+      "close": 0.82,
+      "volume": 51300
     }
   ]
 }

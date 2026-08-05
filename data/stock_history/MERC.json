@@ -1,18 +1,10 @@
 {
   "code": "MERC",
   "ticker": "MERC",
-  "last_updated": "2026-08-04 09:54:49",
+  "last_updated": "2026-08-05 09:58:58",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 10.21,
-      "high": 10.3,
-      "low": 9.98,
-      "close": 10.05,
-      "volume": 165600
-    },
     {
       "date": "2021-08-05",
       "open": 10.08,
@@ -2929,7 +2921,7 @@
       "date": "2023-01-17",
       "open": 11.1,
       "high": 11.18,
-      "low": 10.74,
+      "low": 10.73,
       "close": 11.0,
       "volume": 429900
     },
@@ -3392,7 +3384,7 @@
     {
       "date": "2023-04-11",
       "open": 8.65,
-      "high": 8.75,
+      "high": 8.76,
       "low": 8.56,
       "close": 8.65,
       "volume": 218800
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 604563
+      "open": 0.64,
+      "high": 0.7,
+      "low": 0.64,
+      "close": 0.67,
+      "volume": 608800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.68,
+      "high": 0.75,
+      "low": 0.67,
+      "close": 0.71,
+      "volume": 550600
     }
   ]
 }

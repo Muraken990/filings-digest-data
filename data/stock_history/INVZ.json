@@ -1,18 +1,10 @@
 {
   "code": "INVZ",
   "ticker": "INVZ",
-  "last_updated": "2026-08-04 09:43:47",
+  "last_updated": "2026-08-05 09:47:54",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 8.65,
-      "high": 8.78,
-      "low": 8.52,
-      "close": 8.72,
-      "volume": 77900
-    },
     {
       "date": "2021-08-05",
       "open": 8.72,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3394487
+      "open": 0.43,
+      "high": 0.43,
+      "low": 0.4,
+      "close": 0.41,
+      "volume": 3403200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.43,
+      "high": 0.44,
+      "low": 0.35,
+      "close": 0.42,
+      "volume": 9269800
     }
   ]
 }

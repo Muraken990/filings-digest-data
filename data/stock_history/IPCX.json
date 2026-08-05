@@ -1,9 +1,9 @@
 {
   "code": "IPCX",
   "ticker": "IPCX",
-  "last_updated": "2026-08-04 09:44:33",
+  "last_updated": "2026-08-05 09:48:41",
   "period": "5y",
-  "data_points": 284,
+  "data_points": 285,
   "data": [
     {
       "date": "2025-06-16",
@@ -2271,11 +2271,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 250125
+      "open": 8.0,
+      "high": 8.01,
+      "low": 3.77,
+      "close": 4.45,
+      "volume": 254500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 4.39,
+      "high": 5.72,
+      "low": 4.31,
+      "close": 4.65,
+      "volume": 191200
     }
   ]
 }

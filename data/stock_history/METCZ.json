@@ -1,9 +1,9 @@
 {
   "code": "METCZ",
   "ticker": "METCZ",
-  "last_updated": "2026-08-04 09:54:50",
+  "last_updated": "2026-08-05 09:58:59",
   "period": "5y",
-  "data_points": 416,
+  "data_points": 417,
   "data": [
     {
       "date": "2024-12-03",
@@ -3327,11 +3327,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2275
+      "open": 25.23,
+      "high": 25.32,
+      "low": 25.23,
+      "close": 25.28,
+      "volume": 2200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 25.16,
+      "high": 25.18,
+      "low": 25.15,
+      "close": 25.18,
+      "volume": 3200
     }
   ]
 }

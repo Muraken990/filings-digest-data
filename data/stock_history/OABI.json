@@ -1,9 +1,9 @@
 {
   "code": "OABI",
   "ticker": "OABI",
-  "last_updated": "2026-08-04 10:04:16",
+  "last_updated": "2026-08-05 10:08:25",
   "period": "5y",
-  "data_points": 1214,
+  "data_points": 1215,
   "data": [
     {
       "date": "2021-09-30",
@@ -9711,11 +9711,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 224309
+      "open": 2.01,
+      "high": 2.01,
+      "low": 1.95,
+      "close": 1.96,
+      "volume": 228600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.96,
+      "high": 2.04,
+      "low": 1.94,
+      "close": 2.0,
+      "volume": 352500
     }
   ]
 }

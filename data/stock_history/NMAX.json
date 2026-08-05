@@ -1,9 +1,9 @@
 {
   "code": "NMAX",
   "ticker": "NMAX",
-  "last_updated": "2026-08-04 10:00:53",
+  "last_updated": "2026-08-05 10:05:02",
   "period": "5y",
-  "data_points": 337,
+  "data_points": 338,
   "data": [
     {
       "date": "2025-03-31",
@@ -2695,11 +2695,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 673979
+      "open": 7.84,
+      "high": 8.09,
+      "low": 7.74,
+      "close": 7.89,
+      "volume": 762400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 7.9,
+      "high": 8.4,
+      "low": 7.9,
+      "close": 8.36,
+      "volume": 832900
     }
   ]
 }

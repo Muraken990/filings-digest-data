@@ -1,18 +1,10 @@
 {
   "code": "PDD",
   "ticker": "PDD",
-  "last_updated": "2026-08-04 10:08:34",
+  "last_updated": "2026-08-05 10:12:41",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 90.0,
-      "high": 93.19,
-      "low": 89.0,
-      "close": 89.28,
-      "volume": 8212600
-    },
     {
       "date": "2021-08-05",
       "open": 88.65,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6321163
+      "open": 90.0,
+      "high": 90.5,
+      "low": 89.15,
+      "close": 90.15,
+      "volume": 6429500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 89.44,
+      "high": 91.28,
+      "low": 89.2,
+      "close": 91.03,
+      "volume": 6311600
     }
   ]
 }

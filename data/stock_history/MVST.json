@@ -1,18 +1,10 @@
 {
   "code": "MVST",
   "ticker": "MVST",
-  "last_updated": "2026-08-04 09:58:18",
+  "last_updated": "2026-08-05 10:02:27",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 7.98,
-      "high": 9.3,
-      "low": 7.83,
-      "close": 8.68,
-      "volume": 4038000
-    },
     {
       "date": "2021-08-05",
       "open": 9.14,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7333004
+      "open": 0.82,
+      "high": 0.85,
+      "low": 0.81,
+      "close": 0.82,
+      "volume": 7358700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.84,
+      "high": 0.9,
+      "low": 0.84,
+      "close": 0.86,
+      "volume": 5791000
     }
   ]
 }

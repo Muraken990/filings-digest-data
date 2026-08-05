@@ -1,9 +1,9 @@
 {
   "code": "MRNO",
   "ticker": "MRNO",
-  "last_updated": "2026-08-04 09:57:24",
+  "last_updated": "2026-08-05 10:01:32",
   "period": "5y",
-  "data_points": 1099,
+  "data_points": 1100,
   "data": [
     {
       "date": "2022-03-16",
@@ -8791,11 +8791,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 65631
+      "open": 0.21,
+      "high": 0.23,
+      "low": 0.21,
+      "close": 0.22,
+      "volume": 78300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.22,
+      "high": 0.23,
+      "low": 0.22,
+      "close": 0.22,
+      "volume": 104300
     }
   ]
 }

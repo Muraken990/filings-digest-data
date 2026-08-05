@@ -1,9 +1,9 @@
 {
   "code": "GRDN",
   "ticker": "GRDN",
-  "last_updated": "2026-08-04 09:36:51",
+  "last_updated": "2026-08-05 09:41:00",
   "period": "5y",
-  "data_points": 463,
+  "data_points": 464,
   "data": [
     {
       "date": "2024-09-26",
@@ -3703,11 +3703,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 246980
+      "open": 39.88,
+      "high": 40.94,
+      "low": 39.88,
+      "close": 40.81,
+      "volume": 247000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 41.35,
+      "high": 41.64,
+      "low": 40.48,
+      "close": 40.53,
+      "volume": 199400
     }
   ]
 }

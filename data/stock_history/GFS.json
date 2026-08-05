@@ -1,9 +1,9 @@
 {
   "code": "GFS",
   "ticker": "GFS",
-  "last_updated": "2026-08-04 09:34:19",
+  "last_updated": "2026-08-05 09:38:29",
   "period": "5y",
-  "data_points": 1194,
+  "data_points": 1195,
   "data": [
     {
       "date": "2021-10-28",
@@ -9551,11 +9551,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3987537
+      "open": 48.05,
+      "high": 50.73,
+      "low": 48.0,
+      "close": 50.01,
+      "volume": 4079500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 53.18,
+      "high": 53.18,
+      "low": 51.46,
+      "close": 52.02,
+      "volume": 6869800
     }
   ]
 }

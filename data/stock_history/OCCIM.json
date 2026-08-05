@@ -1,9 +1,9 @@
 {
   "code": "OCCIM",
   "ticker": "OCCIM",
-  "last_updated": "2026-08-04 10:04:18",
+  "last_updated": "2026-08-05 10:08:26",
   "period": "5y",
-  "data_points": 458,
+  "data_points": 459,
   "data": [
     {
       "date": "2024-10-03",
@@ -3663,11 +3663,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1003
+      "open": 25.1,
+      "high": 25.15,
+      "low": 25.05,
+      "close": 25.15,
+      "volume": 1100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 25.11,
+      "high": 25.24,
+      "low": 25.07,
+      "close": 25.07,
+      "volume": 15600
     }
   ]
 }

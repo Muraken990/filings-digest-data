@@ -1,9 +1,9 @@
 {
   "code": "NSRX",
   "ticker": "NSRX",
-  "last_updated": "2026-08-04 10:02:33",
+  "last_updated": "2026-08-05 10:06:42",
   "period": "5y",
-  "data_points": 244,
+  "data_points": 245,
   "data": [
     {
       "date": "2025-08-13",
@@ -1951,11 +1951,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8218
+      "open": 3.04,
+      "high": 3.19,
+      "low": 2.97,
+      "close": 3.19,
+      "volume": 8200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.2,
+      "high": 3.6,
+      "low": 3.15,
+      "close": 3.5,
+      "volume": 70100
     }
   ]
 }

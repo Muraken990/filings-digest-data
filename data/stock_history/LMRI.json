@@ -1,9 +1,9 @@
 {
   "code": "LMRI",
   "ticker": "LMRI",
-  "last_updated": "2026-08-04 09:51:23",
+  "last_updated": "2026-08-05 09:55:32",
   "period": "5y",
-  "data_points": 160,
+  "data_points": 161,
   "data": [
     {
       "date": "2025-12-11",
@@ -1279,11 +1279,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 424358
+      "open": 10.61,
+      "high": 11.35,
+      "low": 9.93,
+      "close": 11.26,
+      "volume": 424400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 11.41,
+      "high": 11.59,
+      "low": 10.75,
+      "close": 11.35,
+      "volume": 653900
     }
   ]
 }

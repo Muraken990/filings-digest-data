@@ -1,9 +1,9 @@
 {
   "code": "GSHR",
   "ticker": "GSHR",
-  "last_updated": "2026-08-04 09:36:54",
+  "last_updated": "2026-08-05 09:41:03",
   "period": "5y",
-  "data_points": 308,
+  "data_points": 309,
   "data": [
     {
       "date": "2025-05-12",
@@ -2463,11 +2463,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 138
+      "open": 10.52,
+      "high": 10.52,
+      "low": 10.52,
+      "close": 10.52,
+      "volume": 100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.52,
+      "high": 10.52,
+      "low": 10.52,
+      "close": 10.52,
+      "volume": 0
     }
   ]
 }

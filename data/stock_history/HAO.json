@@ -1,9 +1,9 @@
 {
   "code": "HAO",
   "ticker": "HAO",
-  "last_updated": "2026-08-04 09:37:45",
+  "last_updated": "2026-08-05 09:41:53",
   "period": "5y",
-  "data_points": 631,
+  "data_points": 632,
   "data": [
     {
       "date": "2024-01-26",
@@ -5047,11 +5047,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 32287405
+      "open": 0.14,
+      "high": 0.17,
+      "low": 0.14,
+      "close": 0.16,
+      "volume": 32528800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.15,
+      "high": 0.17,
+      "low": 0.15,
+      "close": 0.16,
+      "volume": 1742600
     }
   ]
 }

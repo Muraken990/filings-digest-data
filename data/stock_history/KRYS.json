@@ -1,18 +1,10 @@
 {
   "code": "KRYS",
   "ticker": "KRYS",
-  "last_updated": "2026-08-04 09:48:50",
+  "last_updated": "2026-08-05 09:52:58",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 57.8,
-      "high": 59.03,
-      "low": 55.87,
-      "close": 56.66,
-      "volume": 48200
-    },
     {
       "date": "2021-08-05",
       "open": 57.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1171845
+      "open": 320.7,
+      "high": 332.3,
+      "low": 297.02,
+      "close": 312.57,
+      "volume": 1172000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 314.73,
+      "high": 328.83,
+      "low": 313.76,
+      "close": 324.77,
+      "volume": 534600
     }
   ]
 }

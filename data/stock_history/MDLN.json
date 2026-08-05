@@ -1,9 +1,9 @@
 {
   "code": "MDLN",
   "ticker": "MDLN",
-  "last_updated": "2026-08-04 09:54:01",
+  "last_updated": "2026-08-05 09:58:10",
   "period": "5y",
-  "data_points": 156,
+  "data_points": 157,
   "data": [
     {
       "date": "2025-12-17",
@@ -1247,11 +1247,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4997171
+      "open": 39.5,
+      "high": 41.0,
+      "low": 39.49,
+      "close": 40.47,
+      "volume": 5246500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 40.53,
+      "high": 42.19,
+      "low": 40.47,
+      "close": 42.04,
+      "volume": 7725500
     }
   ]
 }

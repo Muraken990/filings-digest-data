@@ -1,9 +1,9 @@
 {
   "code": "LCCC",
   "ticker": "LCCC",
-  "last_updated": "2026-08-04 09:49:42",
+  "last_updated": "2026-08-05 09:53:51",
   "period": "5y",
-  "data_points": 280,
+  "data_points": 281,
   "data": [
     {
       "date": "2025-06-23",
@@ -2239,11 +2239,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 30720
+      "open": 10.48,
+      "high": 10.48,
+      "low": 10.48,
+      "close": 10.48,
+      "volume": 30700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.48,
+      "high": 10.48,
+      "low": 10.48,
+      "close": 10.48,
+      "volume": 0
     }
   ]
 }

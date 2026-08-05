@@ -1,9 +1,9 @@
 {
   "code": "IHS",
   "ticker": "IHS",
-  "last_updated": "2026-08-04 09:42:50",
+  "last_updated": "2026-08-05 09:46:58",
   "period": "5y",
-  "data_points": 1204,
+  "data_points": 1205,
   "data": [
     {
       "date": "2021-10-14",
@@ -9631,11 +9631,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 225393
+      "open": 8.22,
+      "high": 8.26,
+      "low": 8.22,
+      "close": 8.26,
+      "volume": 263900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 8.22,
+      "high": 8.25,
+      "low": 8.21,
+      "close": 8.21,
+      "volume": 386400
     }
   ]
 }

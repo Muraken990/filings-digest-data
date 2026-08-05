@@ -1,9 +1,9 @@
 {
   "code": "HSAI",
   "ticker": "HSAI",
-  "last_updated": "2026-08-04 09:40:18",
+  "last_updated": "2026-08-05 09:44:26",
   "period": "5y",
-  "data_points": 872,
+  "data_points": 873,
   "data": [
     {
       "date": "2023-02-09",
@@ -6975,11 +6975,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2133397
+      "open": 17.08,
+      "high": 17.9,
+      "low": 16.8,
+      "close": 17.79,
+      "volume": 2170500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 17.89,
+      "high": 18.55,
+      "low": 17.8,
+      "close": 18.31,
+      "volume": 1993300
     }
   ]
 }

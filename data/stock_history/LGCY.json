@@ -1,9 +1,9 @@
 {
   "code": "LGCY",
   "ticker": "LGCY",
-  "last_updated": "2026-08-04 09:50:32",
+  "last_updated": "2026-08-05 09:54:41",
   "period": "5y",
-  "data_points": 463,
+  "data_points": 464,
   "data": [
     {
       "date": "2024-09-26",
@@ -3703,11 +3703,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 41215
+      "open": 11.97,
+      "high": 12.2,
+      "low": 11.7,
+      "close": 12.2,
+      "volume": 41200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 12.05,
+      "high": 12.4,
+      "low": 11.95,
+      "close": 11.95,
+      "volume": 41600
     }
   ]
 }

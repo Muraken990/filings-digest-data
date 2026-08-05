@@ -1,18 +1,10 @@
 {
   "code": "LGHL",
   "ticker": "LGHL",
-  "last_updated": "2026-08-04 09:50:33",
+  "last_updated": "2026-08-05 09:54:41",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 576225.0,
-      "high": 593775.0,
-      "low": 573300.0,
-      "close": 590850.0,
-      "volume": 1
-    },
     {
       "date": "2021-08-05",
       "open": 576225.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 309719
+      "open": 0.92,
+      "high": 0.97,
+      "low": 0.87,
+      "close": 0.93,
+      "volume": 362900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.9,
+      "high": 0.96,
+      "low": 0.9,
+      "close": 0.93,
+      "volume": 215500
     }
   ]
 }

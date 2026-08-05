@@ -1,18 +1,10 @@
 {
   "code": "MBIO",
   "ticker": "MBIO",
-  "last_updated": "2026-08-04 09:53:57",
+  "last_updated": "2026-08-05 09:58:06",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 2032.5,
-      "high": 2088.75,
-      "low": 2002.5,
-      "close": 2025.0,
-      "volume": 1101
-    },
     {
       "date": "2021-08-05",
       "open": 2010.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 72336
+      "open": 0.6,
+      "high": 0.6,
+      "low": 0.55,
+      "close": 0.58,
+      "volume": 72400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.56,
+      "high": 0.6,
+      "low": 0.56,
+      "close": 0.59,
+      "volume": 27000
     }
   ]
 }

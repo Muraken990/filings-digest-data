@@ -1,18 +1,10 @@
 {
   "code": "MLSS",
   "ticker": "MLSS",
-  "last_updated": "2026-08-04 09:56:31",
+  "last_updated": "2026-08-05 10:00:39",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 2.02,
-      "high": 2.02,
-      "low": 1.81,
-      "close": 1.84,
-      "volume": 155200
-    },
     {
       "date": "2021-08-05",
       "open": 1.83,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 425564
+      "open": 0.4,
+      "high": 0.47,
+      "low": 0.4,
+      "close": 0.44,
+      "volume": 434000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.45,
+      "high": 0.48,
+      "low": 0.42,
+      "close": 0.46,
+      "volume": 241700
     }
   ]
 }

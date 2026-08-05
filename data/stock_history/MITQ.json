@@ -1,18 +1,10 @@
 {
   "code": "MITQ",
   "ticker": "MITQ",
-  "last_updated": "2026-08-04 09:55:42",
+  "last_updated": "2026-08-05 09:59:51",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 3.51,
-      "high": 3.55,
-      "low": 3.28,
-      "close": 3.38,
-      "volume": 463600
-    },
     {
       "date": "2021-08-05",
       "open": 3.31,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 9007
+      "open": 0.52,
+      "high": 0.55,
+      "low": 0.52,
+      "close": 0.54,
+      "volume": 9100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.52,
+      "high": 0.58,
+      "low": 0.52,
+      "close": 0.53,
+      "volume": 24800
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "ONBPO",
   "ticker": "ONBPO",
-  "last_updated": "2026-08-04 10:05:11",
+  "last_updated": "2026-08-05 10:09:19",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-04",
-      "open": 20.4,
-      "high": 20.42,
-      "low": 20.24,
-      "close": 20.38,
-      "volume": 4400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-05",
@@ -3671,7 +3671,7 @@
     },
     {
       "date": "2023-05-31",
-      "open": 17.54,
+      "open": 17.55,
       "high": 18.31,
       "low": 17.29,
       "close": 18.14,
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4513
+      "open": 25.15,
+      "high": 25.18,
+      "low": 25.11,
+      "close": 25.14,
+      "volume": 4500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 25.17,
+      "high": 25.2,
+      "low": 25.17,
+      "close": 25.2,
+      "volume": 5400
     }
   ]
 }

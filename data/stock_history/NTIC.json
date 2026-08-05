@@ -1,26 +1,10 @@
 {
   "code": "NTIC",
   "ticker": "NTIC",
-  "last_updated": "2026-08-04 10:02:35",
+  "last_updated": "2026-08-05 10:06:44",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-08-04",
-      "open": 17.46,
-      "high": 18.37,
-      "low": 16.92,
-      "close": 17.94,
-      "volume": 12700
-    },
     {
       "date": "2021-08-05",
       "open": 17.8,
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5715
+      "open": 8.09,
+      "high": 8.41,
+      "low": 7.99,
+      "close": 8.41,
+      "volume": 5700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 8.42,
+      "high": 8.6,
+      "low": 8.36,
+      "close": 8.51,
+      "volume": 10900
     }
   ]
 }

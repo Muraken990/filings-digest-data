@@ -1,9 +1,9 @@
 {
   "code": "LION",
   "ticker": "LION",
-  "last_updated": "2026-08-04 09:50:36",
+  "last_updated": "2026-08-05 09:54:45",
   "period": "5y",
-  "data_points": 1110,
+  "data_points": 1111,
   "data": [
     {
       "date": "2022-03-01",
@@ -8879,11 +8879,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5022199
+      "open": 13.3,
+      "high": 13.77,
+      "low": 13.14,
+      "close": 13.24,
+      "volume": 5022200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 13.35,
+      "high": 13.42,
+      "low": 12.96,
+      "close": 13.02,
+      "volume": 3593800
     }
   ]
 }

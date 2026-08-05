@@ -1,9 +1,9 @@
 {
   "code": "KSCP",
   "ticker": "KSCP",
-  "last_updated": "2026-08-04 09:48:50",
+  "last_updated": "2026-08-05 09:52:58",
   "period": "5y",
-  "data_points": 1132,
+  "data_points": 1133,
   "data": [
     {
       "date": "2022-01-27",
@@ -9055,11 +9055,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1503516
+      "open": 1.67,
+      "high": 1.7,
+      "low": 1.55,
+      "close": 1.57,
+      "volume": 1531600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.61,
+      "high": 1.65,
+      "low": 1.58,
+      "close": 1.62,
+      "volume": 1552400
     }
   ]
 }

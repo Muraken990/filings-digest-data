@@ -1,18 +1,10 @@
 {
   "code": "IMNN",
   "ticker": "IMNN",
-  "last_updated": "2026-08-04 09:42:53",
+  "last_updated": "2026-08-05 09:47:01",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 213.26,
-      "high": 215.22,
-      "low": 203.48,
-      "close": 205.43,
-      "volume": 4556
-    },
     {
       "date": "2021-08-05",
       "open": 205.43,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 36315
+      "open": 1.57,
+      "high": 1.63,
+      "low": 1.55,
+      "close": 1.58,
+      "volume": 36400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.58,
+      "high": 1.72,
+      "low": 1.57,
+      "close": 1.67,
+      "volume": 98500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "OFRM",
   "ticker": "OFRM",
-  "last_updated": "2026-08-04 10:05:05",
+  "last_updated": "2026-08-05 10:09:14",
   "period": "5y",
-  "data_points": 122,
+  "data_points": 123,
   "data": [
     {
       "date": "2026-02-06",
@@ -975,11 +975,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 609247
+      "open": 15.26,
+      "high": 16.49,
+      "low": 15.26,
+      "close": 16.31,
+      "volume": 609300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 15.91,
+      "high": 17.52,
+      "low": 15.91,
+      "close": 17.21,
+      "volume": 813800
     }
   ]
 }
