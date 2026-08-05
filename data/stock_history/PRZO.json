@@ -1,9 +1,9 @@
 {
   "code": "PRZO",
   "ticker": "PRZO",
-  "last_updated": "2026-08-04 12:06:20",
+  "last_updated": "2026-08-05 12:08:39",
   "period": "5y",
-  "data_points": 757,
+  "data_points": 758,
   "data": [
     {
       "date": "2023-07-27",
@@ -6055,11 +6055,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 15530817
+      "open": 0.51,
+      "high": 0.59,
+      "low": 0.48,
+      "close": 0.53,
+      "volume": 16687000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.53,
+      "high": 0.59,
+      "low": 0.52,
+      "close": 0.56,
+      "volume": 968200
     }
   ]
 }

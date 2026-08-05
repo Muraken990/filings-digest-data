@@ -1,9 +1,9 @@
 {
   "code": "POLE",
   "ticker": "POLE",
-  "last_updated": "2026-08-04 12:04:42",
+  "last_updated": "2026-08-05 12:07:00",
   "period": "5y",
-  "data_points": 441,
+  "data_points": 442,
   "data": [
     {
       "date": "2024-10-28",
@@ -3527,11 +3527,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3941
+      "open": 10.81,
+      "high": 10.81,
+      "low": 10.81,
+      "close": 10.81,
+      "volume": 6400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.81,
+      "high": 10.81,
+      "low": 10.81,
+      "close": 10.81,
+      "volume": 53600
     }
   ]
 }

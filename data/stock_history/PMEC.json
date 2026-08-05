@@ -1,9 +1,9 @@
 {
   "code": "PMEC",
   "ticker": "PMEC",
-  "last_updated": "2026-08-04 12:04:38",
+  "last_updated": "2026-08-05 12:06:56",
   "period": "5y",
-  "data_points": 706,
+  "data_points": 707,
   "data": [
     {
       "date": "2023-10-09",
@@ -5647,11 +5647,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3068514
+      "open": 0.46,
+      "high": 0.7,
+      "low": 0.31,
+      "close": 0.4,
+      "volume": 3294900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.4,
+      "high": 0.47,
+      "low": 0.37,
+      "close": 0.46,
+      "volume": 189200
     }
   ]
 }

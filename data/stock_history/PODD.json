@@ -1,18 +1,10 @@
 {
   "code": "PODD",
   "ticker": "PODD",
-  "last_updated": "2026-08-04 12:04:41",
+  "last_updated": "2026-08-05 12:07:00",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 278.55,
-      "high": 281.54,
-      "low": 276.01,
-      "close": 279.18,
-      "volume": 285500
-    },
     {
       "date": "2021-08-05",
       "open": 278.93,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1408003
+      "open": 168.56,
+      "high": 172.11,
+      "low": 166.66,
+      "close": 169.7,
+      "volume": 1408000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 166.34,
+      "high": 170.99,
+      "low": 164.31,
+      "close": 166.82,
+      "volume": 1749000
     }
   ]
 }

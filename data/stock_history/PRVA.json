@@ -1,18 +1,10 @@
 {
   "code": "PRVA",
   "ticker": "PRVA",
-  "last_updated": "2026-08-04 12:06:20",
+  "last_updated": "2026-08-05 12:08:39",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 38.85,
-      "high": 40.38,
-      "low": 37.26,
-      "close": 37.41,
-      "volume": 269700
-    },
     {
       "date": "2021-08-05",
       "open": 37.23,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 642940
+      "open": 23.84,
+      "high": 24.28,
+      "low": 23.74,
+      "close": 23.79,
+      "volume": 642900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 23.41,
+      "high": 24.07,
+      "low": 23.36,
+      "close": 23.79,
+      "volume": 1125900
     }
   ]
 }

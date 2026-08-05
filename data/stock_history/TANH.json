@@ -1,18 +1,10 @@
 {
   "code": "TANH",
   "ticker": "TANH",
-  "last_updated": "2026-08-04 12:20:55",
+  "last_updated": "2026-08-05 12:23:15",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 8544.0,
-      "high": 8640.0,
-      "low": 8352.0,
-      "close": 8515.2,
-      "volume": 16
-    },
     {
       "date": "2021-08-05",
       "open": 8448.0,
@@ -10036,6 +10028,14 @@
       "low": 0.4,
       "close": 0.42,
       "volume": 175000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.44,
+      "high": 0.44,
+      "low": 0.41,
+      "close": 0.43,
+      "volume": 66900
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "PLRX",
   "ticker": "PLRX",
-  "last_updated": "2026-08-04 12:04:36",
+  "last_updated": "2026-08-05 12:06:54",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 21.26,
-      "high": 21.92,
-      "low": 21.23,
-      "close": 21.59,
-      "volume": 49700
-    },
     {
       "date": "2021-08-05",
       "open": 21.53,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 161717
+      "open": 1.06,
+      "high": 1.06,
+      "low": 1.03,
+      "close": 1.04,
+      "volume": 161700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.05,
+      "high": 1.07,
+      "low": 1.03,
+      "close": 1.05,
+      "volume": 259700
     }
   ]
 }

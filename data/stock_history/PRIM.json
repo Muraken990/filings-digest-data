@@ -1,18 +1,10 @@
 {
   "code": "PRIM",
   "ticker": "PRIM",
-  "last_updated": "2026-08-04 12:05:32",
+  "last_updated": "2026-08-05 12:07:51",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 27.66,
-      "high": 28.09,
-      "low": 25.53,
-      "close": 25.68,
-      "volume": 983600
-    },
     {
       "date": "2021-08-05",
       "open": 25.63,
@@ -1050,7 +1042,7 @@
       "open": 25.1,
       "high": 25.9,
       "low": 25.1,
-      "close": 25.78,
+      "close": 25.79,
       "volume": 346900
     },
     {
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1178409
+      "open": 83.19,
+      "high": 88.52,
+      "low": 82.47,
+      "close": 87.84,
+      "volume": 1178400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 89.16,
+      "high": 91.35,
+      "low": 88.15,
+      "close": 90.85,
+      "volume": 1463300
     }
   ]
 }

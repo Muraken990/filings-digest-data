@@ -1,18 +1,10 @@
 {
   "code": "PMTS",
   "ticker": "PMTS",
-  "last_updated": "2026-08-04 12:04:39",
+  "last_updated": "2026-08-05 12:06:57",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 16.33,
-      "high": 18.2,
-      "low": 14.7,
-      "close": 18.02,
-      "volume": 39600
-    },
     {
       "date": "2021-08-05",
       "open": 18.84,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 40819
+      "open": 21.27,
+      "high": 22.0,
+      "low": 21.2,
+      "close": 21.96,
+      "volume": 40800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 22.05,
+      "high": 23.32,
+      "low": 22.05,
+      "close": 22.92,
+      "volume": 42100
     }
   ]
 }

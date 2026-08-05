@@ -1,18 +1,10 @@
 {
   "code": "PLUR",
   "ticker": "PLUR",
-  "last_updated": "2026-08-04 12:04:37",
+  "last_updated": "2026-08-05 12:06:55",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 26.0,
-      "high": 26.24,
-      "low": 25.2,
-      "close": 25.2,
-      "volume": 32150
-    },
     {
       "date": "2021-08-05",
       "open": 25.28,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2933
+      "open": 1.58,
+      "high": 1.58,
+      "low": 1.55,
+      "close": 1.58,
+      "volume": 3000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.63,
+      "high": 1.63,
+      "low": 1.54,
+      "close": 1.56,
+      "volume": 35700
     }
   ]
 }
