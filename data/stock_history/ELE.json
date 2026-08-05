@@ -1,18 +1,10 @@
 {
   "code": "ELE",
   "ticker": "ELE",
-  "last_updated": "2026-08-04 07:35:02",
+  "last_updated": "2026-08-05 07:35:40",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 10.76,
-      "high": 10.76,
-      "low": 10.66,
-      "close": 10.66,
-      "volume": 750
-    },
     {
       "date": "2021-08-05",
       "open": 10.67,
@@ -8152,7 +8144,7 @@
     {
       "date": "2025-08-25",
       "open": 15.05,
-      "high": 15.14,
+      "high": 15.15,
       "low": 14.75,
       "close": 14.87,
       "volume": 5670
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 150131
+      "open": 15.6,
+      "high": 16.08,
+      "low": 15.51,
+      "close": 16.06,
+      "volume": 150100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 16.27,
+      "high": 16.81,
+      "low": 16.07,
+      "close": 16.62,
+      "volume": 221700
     }
   ]
 }

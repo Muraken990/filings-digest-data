@@ -1,18 +1,10 @@
 {
   "code": "APVO",
   "ticker": "APVO",
-  "last_updated": "2026-08-04 07:10:57",
+  "last_updated": "2026-08-05 07:11:39",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 10463872.0,
-      "high": 10520722.0,
-      "low": 10180210.0,
-      "close": 10408781.0,
-      "volume": 0
-    },
     {
       "date": "2021-08-05",
       "open": 10467389.0,
@@ -10027,15 +10019,23 @@
       "high": 4.11,
       "low": 4.07,
       "close": 4.11,
-      "volume": 3000
+      "volume": 10300
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 11089
+      "open": 4.08,
+      "high": 4.08,
+      "low": 3.9,
+      "close": 3.95,
+      "volume": 11700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.95,
+      "high": 4.18,
+      "low": 3.95,
+      "close": 4.09,
+      "volume": 8500
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "EFOI",
   "ticker": "EFOI",
-  "last_updated": "2026-08-04 07:34:11",
+  "last_updated": "2026-08-05 07:34:50",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 27.09,
-      "high": 28.21,
-      "low": 26.46,
-      "close": 27.02,
-      "volume": 21914
-    },
     {
       "date": "2021-08-05",
       "open": 26.74,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 26247
+      "open": 3.05,
+      "high": 3.17,
+      "low": 2.98,
+      "close": 3.05,
+      "volume": 26200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.08,
+      "high": 3.27,
+      "low": 3.02,
+      "close": 3.13,
+      "volume": 12100
     }
   ]
 }

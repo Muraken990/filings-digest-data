@@ -1,18 +1,10 @@
 {
   "code": "ATLCP",
   "ticker": "ATLCP",
-  "last_updated": "2026-08-04 07:12:42",
+  "last_updated": "2026-08-05 07:13:23",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 16.37,
-      "high": 16.37,
-      "low": 16.31,
-      "close": 16.35,
-      "volume": 29000
-    },
     {
       "date": "2021-08-05",
       "open": 16.38,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3953
+      "open": 24.5,
+      "high": 24.51,
+      "low": 24.48,
+      "close": 24.51,
+      "volume": 4000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 24.5,
+      "high": 24.5,
+      "low": 24.45,
+      "close": 24.5,
+      "volume": 2300
     }
   ]
 }

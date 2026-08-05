@@ -1,18 +1,10 @@
 {
   "code": "FEMY",
   "ticker": "FEMY",
-  "last_updated": "2026-08-04 07:39:19",
+  "last_updated": "2026-08-05 07:39:56",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 145.8,
-      "high": 154.0,
-      "low": 144.0,
-      "close": 154.0,
-      "volume": 645
-    },
     {
       "date": "2021-08-05",
       "open": 153.6,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 19904
+      "open": 2.9,
+      "high": 3.0,
+      "low": 2.8,
+      "close": 2.97,
+      "volume": 19900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.93,
+      "high": 3.21,
+      "low": 2.92,
+      "close": 3.05,
+      "volume": 48700
     }
   ]
 }

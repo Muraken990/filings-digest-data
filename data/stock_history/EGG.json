@@ -1,9 +1,9 @@
 {
   "code": "EGG",
   "ticker": "EGG",
-  "last_updated": "2026-08-04 07:34:58",
+  "last_updated": "2026-08-05 07:35:36",
   "period": "5y",
-  "data_points": 282,
+  "data_points": 283,
   "data": [
     {
       "date": "2025-06-18",
@@ -2255,11 +2255,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 91683
+      "open": 3.69,
+      "high": 3.77,
+      "low": 3.46,
+      "close": 3.52,
+      "volume": 97100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.52,
+      "high": 3.86,
+      "low": 3.52,
+      "close": 3.72,
+      "volume": 58600
     }
   ]
 }

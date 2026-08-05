@@ -1,18 +1,10 @@
 {
   "code": "EVER",
   "ticker": "EVER",
-  "last_updated": "2026-08-04 07:37:35",
+  "last_updated": "2026-08-05 07:38:13",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 26.0,
-      "high": 26.25,
-      "low": 25.16,
-      "close": 25.31,
-      "volume": 461900
-    },
     {
       "date": "2021-08-05",
       "open": 26.06,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1104845
+      "open": 25.61,
+      "high": 25.88,
+      "low": 24.06,
+      "close": 24.1,
+      "volume": 1112000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 22.39,
+      "high": 24.43,
+      "low": 22.0,
+      "close": 23.86,
+      "volume": 1998100
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CCXI",
   "ticker": "CCXI",
-  "last_updated": "2026-08-04 07:22:56",
+  "last_updated": "2026-08-05 07:23:36",
   "period": "5y",
-  "data_points": 121,
+  "data_points": 122,
   "data": [
     {
       "date": "2026-02-09",
@@ -967,11 +967,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4416276
+      "open": 14.18,
+      "high": 15.75,
+      "low": 13.9,
+      "close": 15.47,
+      "volume": 4453200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 15.56,
+      "high": 16.05,
+      "low": 15.05,
+      "close": 15.4,
+      "volume": 3746800
     }
   ]
 }

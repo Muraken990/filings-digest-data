@@ -1,18 +1,10 @@
 {
   "code": "BNC",
   "ticker": "BNC",
-  "last_updated": "2026-08-04 07:17:53",
+  "last_updated": "2026-08-05 07:18:34",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 149.4,
-      "high": 149.4,
-      "low": 127.8,
-      "close": 135.0,
-      "volume": 120
-    },
     {
       "date": "2021-08-05",
       "open": 127.8,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 258660
+      "open": 2.69,
+      "high": 2.76,
+      "low": 2.5,
+      "close": 2.52,
+      "volume": 261000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.56,
+      "high": 2.61,
+      "low": 2.47,
+      "close": 2.49,
+      "volume": 296100
     }
   ]
 }

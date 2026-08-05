@@ -1,9 +1,9 @@
 {
   "code": "CING",
   "ticker": "CING",
-  "last_updated": "2026-08-04 07:24:41",
+  "last_updated": "2026-08-05 07:25:21",
   "period": "5y",
-  "data_points": 1166,
+  "data_points": 1167,
   "data": [
     {
       "date": "2021-12-08",
@@ -9327,11 +9327,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 135219
+      "open": 4.87,
+      "high": 4.95,
+      "low": 4.68,
+      "close": 4.83,
+      "volume": 135200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 4.84,
+      "high": 5.1,
+      "low": 4.81,
+      "close": 4.9,
+      "volume": 228100
     }
   ]
 }

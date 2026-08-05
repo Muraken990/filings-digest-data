@@ -1,18 +1,10 @@
 {
   "code": "EVTC",
   "ticker": "EVTC",
-  "last_updated": "2026-08-04 07:37:38",
+  "last_updated": "2026-08-05 07:38:15",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 44.28,
-      "high": 45.11,
-      "low": 43.04,
-      "close": 43.82,
-      "volume": 424600
-    },
     {
       "date": "2021-08-05",
       "open": 44.14,
@@ -576,7 +568,7 @@
     {
       "date": "2021-11-12",
       "open": 42.58,
-      "high": 43.02,
+      "high": 43.03,
       "low": 42.26,
       "close": 42.65,
       "volume": 194500
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 267072
+      "open": 30.58,
+      "high": 31.67,
+      "low": 30.58,
+      "close": 31.11,
+      "volume": 387000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 30.61,
+      "high": 32.72,
+      "low": 30.61,
+      "close": 32.55,
+      "volume": 616000
     }
   ]
 }

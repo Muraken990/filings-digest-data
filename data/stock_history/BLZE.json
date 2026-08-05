@@ -1,9 +1,9 @@
 {
   "code": "BLZE",
   "ticker": "BLZE",
-  "last_updated": "2026-08-04 07:17:50",
+  "last_updated": "2026-08-05 07:18:31",
   "period": "5y",
-  "data_points": 1184,
+  "data_points": 1185,
   "data": [
     {
       "date": "2021-11-11",
@@ -9467,15 +9467,23 @@
       "high": 14.71,
       "low": 13.4,
       "close": 13.72,
-      "volume": 2413600
+      "volume": 2415400
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3767766
+      "open": 13.76,
+      "high": 15.69,
+      "low": 13.45,
+      "close": 15.59,
+      "volume": 4448500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 20.16,
+      "high": 23.99,
+      "low": 19.65,
+      "close": 19.79,
+      "volume": 11803800
     }
   ]
 }

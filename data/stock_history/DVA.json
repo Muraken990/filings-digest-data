@@ -1,18 +1,10 @@
 {
   "code": "DVA",
   "ticker": "DVA",
-  "last_updated": "2026-08-04 07:33:18",
+  "last_updated": "2026-08-05 07:33:56",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 127.1,
-      "high": 136.48,
-      "low": 127.0,
-      "close": 133.78,
-      "volume": 2133600
-    },
     {
       "date": "2021-08-05",
       "open": 134.07,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1195380
+      "open": 245.0,
+      "high": 247.49,
+      "low": 231.97,
+      "close": 233.68,
+      "volume": 1346600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 228.0,
+      "high": 234.26,
+      "low": 222.8,
+      "close": 227.99,
+      "volume": 2609600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ALIS",
   "ticker": "ALIS",
-  "last_updated": "2026-08-04 07:08:23",
+  "last_updated": "2026-08-05 07:09:07",
   "period": "5y",
-  "data_points": 175,
+  "data_points": 176,
   "data": [
     {
       "date": "2025-11-19",
@@ -1399,11 +1399,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4117
+      "open": 10.17,
+      "high": 10.17,
+      "low": 10.17,
+      "close": 10.17,
+      "volume": 4100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.21,
+      "high": 10.21,
+      "low": 10.19,
+      "close": 10.19,
+      "volume": 5700
     }
   ]
 }

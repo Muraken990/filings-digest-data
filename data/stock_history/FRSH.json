@@ -1,9 +1,9 @@
 {
   "code": "FRSH",
   "ticker": "FRSH",
-  "last_updated": "2026-08-04 07:41:51",
+  "last_updated": "2026-08-05 07:42:27",
   "period": "5y",
-  "data_points": 1220,
+  "data_points": 1221,
   "data": [
     {
       "date": "2021-09-22",
@@ -9759,11 +9759,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7491278
+      "open": 11.75,
+      "high": 12.07,
+      "low": 11.7,
+      "close": 11.77,
+      "volume": 7631100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 11.57,
+      "high": 12.11,
+      "low": 11.55,
+      "close": 12.04,
+      "volume": 8368900
     }
   ]
 }

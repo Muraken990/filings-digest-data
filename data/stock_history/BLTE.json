@@ -1,9 +1,9 @@
 {
   "code": "BLTE",
   "ticker": "BLTE",
-  "last_updated": "2026-08-04 07:17:50",
+  "last_updated": "2026-08-05 07:18:31",
   "period": "5y",
-  "data_points": 1068,
+  "data_points": 1069,
   "data": [
     {
       "date": "2022-04-29",
@@ -8543,11 +8543,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 189221
+      "open": 157.56,
+      "high": 157.56,
+      "low": 152.88,
+      "close": 154.79,
+      "volume": 191500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 157.14,
+      "high": 158.43,
+      "low": 154.54,
+      "close": 157.27,
+      "volume": 105500
     }
   ]
 }

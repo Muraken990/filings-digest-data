@@ -1,9 +1,9 @@
 {
   "code": "BLIV",
   "ticker": "BLIV",
-  "last_updated": "2026-08-04 07:17:49",
+  "last_updated": "2026-08-05 07:18:30",
   "period": "5y",
-  "data_points": 333,
+  "data_points": 334,
   "data": [
     {
       "date": "2025-04-04",
@@ -2663,11 +2663,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1232
+      "open": 2.61,
+      "high": 2.61,
+      "low": 2.12,
+      "close": 2.36,
+      "volume": 1200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.36,
+      "high": 2.36,
+      "low": 2.36,
+      "close": 2.36,
+      "volume": 0
     }
   ]
 }

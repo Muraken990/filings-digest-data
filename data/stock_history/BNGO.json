@@ -1,18 +1,10 @@
 {
   "code": "BNGO",
   "ticker": "BNGO",
-  "last_updated": "2026-08-04 07:17:53",
+  "last_updated": "2026-08-05 07:18:35",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 3540.0,
-      "high": 3696.0,
-      "low": 3504.0,
-      "close": 3516.0,
-      "volume": 21690
-    },
     {
       "date": "2021-08-05",
       "open": 3426.0,
@@ -10027,15 +10019,23 @@
       "high": 1.08,
       "low": 1.0,
       "close": 1.07,
-      "volume": 237400
+      "volume": 239800
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 298037
+      "open": 1.08,
+      "high": 1.14,
+      "low": 1.07,
+      "close": 1.12,
+      "volume": 303600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.13,
+      "high": 1.15,
+      "low": 1.11,
+      "close": 1.12,
+      "volume": 111400
     }
   ]
 }

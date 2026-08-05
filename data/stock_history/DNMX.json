@@ -1,9 +1,9 @@
 {
   "code": "DNMX",
   "ticker": "DNMX",
-  "last_updated": "2026-08-04 07:32:22",
+  "last_updated": "2026-08-05 07:33:02",
   "period": "5y",
-  "data_points": 175,
+  "data_points": 176,
   "data": [
     {
       "date": "2025-11-19",
@@ -1399,11 +1399,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2512
+      "open": 10.03,
+      "high": 10.03,
+      "low": 10.03,
+      "close": 10.03,
+      "volume": 2500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.03,
+      "high": 10.03,
+      "low": 10.02,
+      "close": 10.02,
+      "volume": 12900
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "CLBK",
   "ticker": "CLBK",
-  "last_updated": "2026-08-04 07:24:43",
+  "last_updated": "2026-08-05 07:25:22",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 8.15,
-      "high": 8.25,
-      "low": 8.15,
-      "close": 8.2,
-      "volume": 164340
-    },
     {
       "date": "2021-08-05",
       "open": 8.2,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5661530
+      "open": 10.89,
+      "high": 10.89,
+      "low": 10.6,
+      "close": 10.64,
+      "volume": 5699000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.6,
+      "high": 10.79,
+      "low": 10.51,
+      "close": 10.74,
+      "volume": 5842400
     }
   ]
 }

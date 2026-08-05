@@ -1,9 +1,9 @@
 {
   "code": "ATLCL",
   "ticker": "ATLCL",
-  "last_updated": "2026-08-04 07:12:41",
+  "last_updated": "2026-08-05 07:13:23",
   "period": "5y",
-  "data_points": 1176,
+  "data_points": 1177,
   "data": [
     {
       "date": "2021-11-23",
@@ -9407,11 +9407,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4097
+      "open": 25.1,
+      "high": 25.11,
+      "low": 25.03,
+      "close": 25.03,
+      "volume": 4100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 25.03,
+      "high": 25.09,
+      "low": 25.03,
+      "close": 25.06,
+      "volume": 4400
     }
   ]
 }

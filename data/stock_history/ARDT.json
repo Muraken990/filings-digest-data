@@ -1,9 +1,9 @@
 {
   "code": "ARDT",
   "ticker": "ARDT",
-  "last_updated": "2026-08-04 07:11:00",
+  "last_updated": "2026-08-05 07:11:42",
   "period": "5y",
-  "data_points": 512,
+  "data_points": 513,
   "data": [
     {
       "date": "2024-07-18",
@@ -4095,11 +4095,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 357809
+      "open": 10.77,
+      "high": 10.91,
+      "low": 10.61,
+      "close": 10.75,
+      "volume": 412600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.8,
+      "high": 10.81,
+      "low": 10.42,
+      "close": 10.75,
+      "volume": 413400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "FGSN",
   "ticker": "FGSN",
-  "last_updated": "2026-08-04 07:40:07",
+  "last_updated": "2026-08-05 07:40:44",
   "period": "5y",
-  "data_points": 385,
+  "data_points": 386,
   "data": [
     {
       "date": "2025-01-21",
@@ -3079,11 +3079,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 15229
+      "open": 20.84,
+      "high": 21.1,
+      "low": 20.76,
+      "close": 20.88,
+      "volume": 16600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 20.88,
+      "high": 21.0,
+      "low": 20.72,
+      "close": 20.86,
+      "volume": 30000
     }
   ]
 }

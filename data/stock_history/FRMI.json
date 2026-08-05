@@ -1,9 +1,9 @@
 {
   "code": "FRMI",
   "ticker": "FRMI",
-  "last_updated": "2026-08-04 07:41:50",
+  "last_updated": "2026-08-05 07:42:26",
   "period": "5y",
-  "data_points": 210,
+  "data_points": 211,
   "data": [
     {
       "date": "2025-10-01",
@@ -1679,11 +1679,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 23049493
+      "open": 5.56,
+      "high": 6.06,
+      "low": 5.4,
+      "close": 6.03,
+      "volume": 23422400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 6.03,
+      "high": 6.35,
+      "low": 5.88,
+      "close": 6.31,
+      "volume": 14313700
     }
   ]
 }

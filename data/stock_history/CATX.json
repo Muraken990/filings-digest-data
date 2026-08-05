@@ -1,18 +1,10 @@
 {
   "code": "CATX",
   "ticker": "CATX",
-  "last_updated": "2026-08-04 07:21:18",
+  "last_updated": "2026-08-05 07:21:59",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 6.5,
-      "high": 6.9,
-      "low": 6.5,
-      "close": 6.8,
-      "volume": 52040
-    },
     {
       "date": "2021-08-05",
       "open": 6.8,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 870849
+      "open": 2.92,
+      "high": 3.03,
+      "low": 2.86,
+      "close": 3.01,
+      "volume": 871900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.01,
+      "high": 3.12,
+      "low": 2.98,
+      "close": 3.0,
+      "volume": 2292400
     }
   ]
 }

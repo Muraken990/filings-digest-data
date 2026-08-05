@@ -1,18 +1,10 @@
 {
   "code": "BEPH",
   "ticker": "BEPH",
-  "last_updated": "2026-08-04 07:16:06",
+  "last_updated": "2026-08-05 07:16:48",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 18.27,
-      "high": 18.31,
-      "low": 18.17,
-      "close": 18.31,
-      "volume": 22400
-    },
     {
       "date": "2021-08-05",
       "open": 18.3,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 30923
+      "open": 15.1,
+      "high": 15.17,
+      "low": 15.06,
+      "close": 15.08,
+      "volume": 30900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 15.17,
+      "high": 15.17,
+      "low": 15.09,
+      "close": 15.11,
+      "volume": 17800
     }
   ]
 }

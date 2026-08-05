@@ -1,18 +1,10 @@
 {
   "code": "CCEL",
   "ticker": "CCEL",
-  "last_updated": "2026-08-04 07:22:08",
+  "last_updated": "2026-08-05 07:22:48",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 6.92,
-      "high": 7.34,
-      "low": 6.92,
-      "close": 7.34,
-      "volume": 500
-    },
     {
       "date": "2021-08-05",
       "open": 7.34,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6276
+      "open": 3.59,
+      "high": 3.69,
+      "low": 3.31,
+      "close": 3.48,
+      "volume": 6600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.51,
+      "high": 3.73,
+      "low": 3.51,
+      "close": 3.56,
+      "volume": 10900
     }
   ]
 }

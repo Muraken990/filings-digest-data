@@ -1,9 +1,9 @@
 {
   "code": "CR",
   "ticker": "CR",
-  "last_updated": "2026-08-04 07:27:18",
+  "last_updated": "2026-08-05 07:27:58",
   "period": "5y",
-  "data_points": 839,
+  "data_points": 840,
   "data": [
     {
       "date": "2023-03-29",
@@ -976,7 +976,7 @@
     {
       "date": "2023-09-21",
       "open": 84.03,
-      "high": 85.11,
+      "high": 85.12,
       "low": 83.74,
       "close": 84.53,
       "volume": 127300
@@ -6711,11 +6711,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 330694
+      "open": 212.34,
+      "high": 219.7,
+      "low": 212.34,
+      "close": 219.32,
+      "volume": 467800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 224.0,
+      "high": 225.0,
+      "low": 219.48,
+      "close": 224.1,
+      "volume": 416600
     }
   ]
 }

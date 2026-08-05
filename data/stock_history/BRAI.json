@@ -1,9 +1,9 @@
 {
   "code": "BRAI",
   "ticker": "BRAI",
-  "last_updated": "2026-08-04 07:18:44",
+  "last_updated": "2026-08-05 07:19:25",
   "period": "5y",
-  "data_points": 118,
+  "data_points": 119,
   "data": [
     {
       "date": "2026-02-12",
@@ -939,15 +939,23 @@
       "high": 5.87,
       "low": 5.35,
       "close": 5.54,
-      "volume": 65200
+      "volume": 79600
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 64087
+      "open": 5.49,
+      "high": 5.7,
+      "low": 5.25,
+      "close": 5.67,
+      "volume": 64100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 5.6,
+      "high": 5.88,
+      "low": 5.46,
+      "close": 5.69,
+      "volume": 61000
     }
   ]
 }

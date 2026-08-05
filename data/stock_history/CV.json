@@ -1,9 +1,9 @@
 {
   "code": "CV",
   "ticker": "CV",
-  "last_updated": "2026-08-04 07:29:01",
+  "last_updated": "2026-08-05 07:29:40",
   "period": "5y",
-  "data_points": 273,
+  "data_points": 274,
   "data": [
     {
       "date": "2025-07-02",
@@ -2183,11 +2183,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 113687
+      "open": 6.71,
+      "high": 7.22,
+      "low": 6.71,
+      "close": 7.17,
+      "volume": 114000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 7.16,
+      "high": 7.33,
+      "low": 6.82,
+      "close": 6.94,
+      "volume": 120700
     }
   ]
 }

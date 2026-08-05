@@ -1,18 +1,10 @@
 {
   "code": "AFRI",
   "ticker": "AFRI",
-  "last_updated": "2026-08-04 07:06:41",
+  "last_updated": "2026-08-05 07:07:24",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 10.0,
-      "high": 10.0,
-      "low": 9.99,
-      "close": 10.0,
-      "volume": 2300
-    },
     {
       "date": "2021-08-05",
       "open": 10.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 12491
+      "open": 10.64,
+      "high": 10.85,
+      "low": 10.54,
+      "close": 10.56,
+      "volume": 12700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.46,
+      "high": 10.65,
+      "low": 10.46,
+      "close": 10.52,
+      "volume": 7500
     }
   ]
 }

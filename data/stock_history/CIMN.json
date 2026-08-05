@@ -1,9 +1,9 @@
 {
   "code": "CIMN",
   "ticker": "CIMN",
-  "last_updated": "2026-08-04 07:24:40",
+  "last_updated": "2026-08-05 07:25:20",
   "period": "5y",
-  "data_points": 547,
+  "data_points": 548,
   "data": [
     {
       "date": "2024-05-28",
@@ -4375,11 +4375,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 29685
+      "open": 25.11,
+      "high": 25.11,
+      "low": 24.89,
+      "close": 24.89,
+      "volume": 52600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 24.92,
+      "high": 25.0,
+      "low": 24.92,
+      "close": 24.99,
+      "volume": 7700
     }
   ]
 }

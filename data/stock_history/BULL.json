@@ -1,9 +1,9 @@
 {
   "code": "BULL",
   "ticker": "BULL",
-  "last_updated": "2026-08-04 07:20:22",
+  "last_updated": "2026-08-05 07:21:03",
   "period": "5y",
-  "data_points": 990,
+  "data_points": 991,
   "data": [
     {
       "date": "2022-08-22",
@@ -7915,15 +7915,23 @@
       "high": 7.24,
       "low": 6.95,
       "close": 7.06,
-      "volume": 6050100
+      "volume": 6074900
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7067019
+      "open": 7.08,
+      "high": 7.28,
+      "low": 7.07,
+      "close": 7.26,
+      "volume": 7203000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 7.33,
+      "high": 7.6,
+      "low": 7.29,
+      "close": 7.58,
+      "volume": 8906000
     }
   ]
 }

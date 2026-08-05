@@ -1,18 +1,10 @@
 {
   "code": "DCO",
   "ticker": "DCO",
-  "last_updated": "2026-08-04 07:30:42",
+  "last_updated": "2026-08-05 07:31:21",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 53.24,
-      "high": 53.63,
-      "low": 51.88,
-      "close": 52.56,
-      "volume": 36000
-    },
     {
       "date": "2021-08-05",
       "open": 52.41,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 185933
+      "open": 178.0,
+      "high": 182.91,
+      "low": 176.1,
+      "close": 182.83,
+      "volume": 251200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 183.77,
+      "high": 194.36,
+      "low": 183.6,
+      "close": 191.86,
+      "volume": 270600
     }
   ]
 }

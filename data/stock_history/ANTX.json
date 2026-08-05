@@ -1,9 +1,9 @@
 {
   "code": "ANTX",
   "ticker": "ANTX",
-  "last_updated": "2026-08-04 07:10:07",
+  "last_updated": "2026-08-05 07:10:49",
   "period": "5y",
-  "data_points": 1092,
+  "data_points": 1093,
   "data": [
     {
       "date": "2022-03-25",
@@ -8735,11 +8735,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 303745
+      "open": 5.39,
+      "high": 5.65,
+      "low": 5.35,
+      "close": 5.58,
+      "volume": 305700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 5.65,
+      "high": 6.14,
+      "low": 5.52,
+      "close": 5.94,
+      "volume": 368400
     }
   ]
 }

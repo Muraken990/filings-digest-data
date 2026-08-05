@@ -1,18 +1,10 @@
 {
   "code": "EDTK",
   "ticker": "EDTK",
-  "last_updated": "2026-08-04 07:34:10",
+  "last_updated": "2026-08-05 07:34:48",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 1.63,
-      "high": 1.76,
-      "low": 1.59,
-      "close": 1.64,
-      "volume": 739500
-    },
     {
       "date": "2021-08-05",
       "open": 1.65,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3608
+      "open": 0.93,
+      "high": 0.95,
+      "low": 0.9,
+      "close": 0.9,
+      "volume": 3600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.0,
+      "high": 1.08,
+      "low": 0.95,
+      "close": 0.98,
+      "volume": 100300
     }
   ]
 }

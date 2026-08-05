@@ -1,18 +1,10 @@
 {
   "code": "EHTH",
   "ticker": "EHTH",
-  "last_updated": "2026-08-04 07:35:00",
+  "last_updated": "2026-08-05 07:35:38",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 50.0,
-      "high": 50.6,
-      "low": 49.72,
-      "close": 50.29,
-      "volume": 689200
-    },
     {
       "date": "2021-08-05",
       "open": 50.37,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 149147
+      "open": 1.36,
+      "high": 1.41,
+      "low": 1.36,
+      "close": 1.38,
+      "volume": 152000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.41,
+      "high": 1.5,
+      "low": 1.41,
+      "close": 1.42,
+      "volume": 344500
     }
   ]
 }

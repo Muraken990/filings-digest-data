@@ -1,9 +1,9 @@
 {
   "code": "AMCI",
   "ticker": "AMCI",
-  "last_updated": "2026-08-04 07:09:14",
+  "last_updated": "2026-08-05 07:09:57",
   "period": "5y",
-  "data_points": 883,
+  "data_points": 884,
   "data": [
     {
       "date": "2023-01-25",
@@ -7063,11 +7063,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 44410
+      "open": 4.48,
+      "high": 4.83,
+      "low": 4.48,
+      "close": 4.74,
+      "volume": 44500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 4.88,
+      "high": 4.98,
+      "low": 4.75,
+      "close": 4.77,
+      "volume": 148200
     }
   ]
 }

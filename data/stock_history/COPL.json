@@ -1,9 +1,9 @@
 {
   "code": "COPL",
   "ticker": "COPL",
-  "last_updated": "2026-08-04 07:27:14",
+  "last_updated": "2026-08-05 07:27:54",
   "period": "5y",
-  "data_points": 294,
+  "data_points": 295,
   "data": [
     {
       "date": "2025-06-02",
@@ -2351,11 +2351,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5139
+      "open": 10.48,
+      "high": 10.48,
+      "low": 10.48,
+      "close": 10.48,
+      "volume": 5100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.48,
+      "high": 10.48,
+      "low": 10.48,
+      "close": 10.48,
+      "volume": 0
     }
   ]
 }

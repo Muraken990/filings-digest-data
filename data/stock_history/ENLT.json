@@ -1,9 +1,9 @@
 {
   "code": "ENLT",
   "ticker": "ENLT",
-  "last_updated": "2026-08-04 07:35:52",
+  "last_updated": "2026-08-05 07:36:30",
   "period": "5y",
-  "data_points": 898,
+  "data_points": 899,
   "data": [
     {
       "date": "2023-01-03",
@@ -7183,11 +7183,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 260431
+      "open": 83.0,
+      "high": 83.72,
+      "low": 81.88,
+      "close": 82.7,
+      "volume": 260800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 90.37,
+      "high": 91.89,
+      "low": 87.69,
+      "close": 90.54,
+      "volume": 431900
     }
   ]
 }

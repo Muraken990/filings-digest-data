@@ -1,18 +1,10 @@
 {
   "code": "EGY",
   "ticker": "EGY",
-  "last_updated": "2026-08-04 07:34:59",
+  "last_updated": "2026-08-05 07:35:37",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 2.21,
-      "high": 2.23,
-      "low": 2.1,
-      "close": 2.16,
-      "volume": 225400
-    },
     {
       "date": "2021-08-05",
       "open": 2.2,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 866201
+      "open": 5.12,
+      "high": 5.31,
+      "low": 5.11,
+      "close": 5.27,
+      "volume": 866200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 5.13,
+      "high": 5.2,
+      "low": 5.09,
+      "close": 5.15,
+      "volume": 1418900
     }
   ]
 }

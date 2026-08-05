@@ -1,9 +1,9 @@
 {
   "code": "CAVA",
   "ticker": "CAVA",
-  "last_updated": "2026-08-04 07:21:19",
+  "last_updated": "2026-08-05 07:21:59",
   "period": "5y",
-  "data_points": 785,
+  "data_points": 786,
   "data": [
     {
       "date": "2023-06-15",
@@ -6279,11 +6279,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2916977
+      "open": 65.68,
+      "high": 67.32,
+      "low": 64.14,
+      "close": 64.47,
+      "volume": 3387300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 64.15,
+      "high": 66.06,
+      "low": 63.13,
+      "close": 63.44,
+      "volume": 3411800
     }
   ]
 }

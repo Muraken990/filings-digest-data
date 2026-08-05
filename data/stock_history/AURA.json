@@ -1,9 +1,9 @@
 {
   "code": "AURA",
   "ticker": "AURA",
-  "last_updated": "2026-08-04 07:12:45",
+  "last_updated": "2026-08-05 07:13:27",
   "period": "5y",
-  "data_points": 1193,
+  "data_points": 1194,
   "data": [
     {
       "date": "2021-10-29",
@@ -9543,11 +9543,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 422224
+      "open": 7.01,
+      "high": 7.05,
+      "low": 6.8,
+      "close": 7.04,
+      "volume": 422200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 7.07,
+      "high": 7.23,
+      "low": 7.04,
+      "close": 7.15,
+      "volume": 277500
     }
   ]
 }

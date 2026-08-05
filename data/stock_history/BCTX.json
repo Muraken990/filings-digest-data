@@ -1,18 +1,10 @@
 {
   "code": "BCTX",
   "ticker": "BCTX",
-  "last_updated": "2026-08-04 07:15:18",
+  "last_updated": "2026-08-05 07:15:59",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 53.2,
-      "high": 61.5,
-      "low": 49.3,
-      "close": 50.2,
-      "volume": 1421420
-    },
     {
       "date": "2021-08-05",
       "open": 49.6,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 138154
+      "open": 3.48,
+      "high": 3.61,
+      "low": 3.27,
+      "close": 3.36,
+      "volume": 144600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.41,
+      "high": 3.58,
+      "low": 3.28,
+      "close": 3.37,
+      "volume": 143900
     }
   ]
 }

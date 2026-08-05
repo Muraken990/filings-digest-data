@@ -1,9 +1,9 @@
 {
   "code": "ALDF",
   "ticker": "ALDF",
-  "last_updated": "2026-08-04 07:07:37",
+  "last_updated": "2026-08-05 07:08:20",
   "period": "5y",
-  "data_points": 408,
+  "data_points": 409,
   "data": [
     {
       "date": "2024-12-13",
@@ -3263,11 +3263,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 106
+      "open": 10.73,
+      "high": 10.73,
+      "low": 10.73,
+      "close": 10.73,
+      "volume": 100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.73,
+      "high": 10.73,
+      "low": 10.73,
+      "close": 10.73,
+      "volume": 0
     }
   ]
 }

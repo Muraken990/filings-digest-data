@@ -1,9 +1,9 @@
 {
   "code": "CYAB",
   "ticker": "CYAB",
-  "last_updated": "2026-08-04 07:29:51",
+  "last_updated": "2026-08-05 07:30:31",
   "period": "5y",
-  "data_points": 88,
+  "data_points": 89,
   "data": [
     {
       "date": "2026-03-27",
@@ -703,11 +703,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8121151
+      "open": 0.29,
+      "high": 0.33,
+      "low": 0.25,
+      "close": 0.3,
+      "volume": 46586900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.29,
+      "high": 0.35,
+      "low": 0.26,
+      "close": 0.33,
+      "volume": 9943500
     }
   ]
 }

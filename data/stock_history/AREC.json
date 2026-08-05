@@ -1,18 +1,10 @@
 {
   "code": "AREC",
   "ticker": "AREC",
-  "last_updated": "2026-08-04 07:11:00",
+  "last_updated": "2026-08-05 07:11:42",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 2.01,
-      "high": 2.05,
-      "low": 1.91,
-      "close": 1.94,
-      "volume": 1010100
-    },
     {
       "date": "2021-08-05",
       "open": 1.94,
@@ -10027,15 +10019,23 @@
       "high": 1.87,
       "low": 1.72,
       "close": 1.79,
-      "volume": 1490900
+      "volume": 1491700
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2020773
+      "open": 1.79,
+      "high": 2.04,
+      "low": 1.74,
+      "close": 2.03,
+      "volume": 2062400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.03,
+      "high": 2.09,
+      "low": 1.99,
+      "close": 2.03,
+      "volume": 3282500
     }
   ]
 }

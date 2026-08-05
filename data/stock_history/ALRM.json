@@ -1,18 +1,10 @@
 {
   "code": "ALRM",
   "ticker": "ALRM",
-  "last_updated": "2026-08-04 07:08:26",
+  "last_updated": "2026-08-05 07:09:10",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 85.59,
-      "high": 86.28,
-      "low": 83.92,
-      "close": 84.03,
-      "volume": 112900
-    },
     {
       "date": "2021-08-05",
       "open": 84.2,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 372043
+      "open": 55.45,
+      "high": 56.42,
+      "low": 55.25,
+      "close": 55.54,
+      "volume": 382300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 55.09,
+      "high": 56.1,
+      "low": 54.89,
+      "close": 55.87,
+      "volume": 386900
     }
   ]
 }

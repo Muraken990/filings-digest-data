@@ -1,9 +1,9 @@
 {
   "code": "BUUU",
   "ticker": "BUUU",
-  "last_updated": "2026-08-04 07:20:23",
+  "last_updated": "2026-08-05 07:21:03",
   "period": "5y",
-  "data_points": 243,
+  "data_points": 244,
   "data": [
     {
       "date": "2025-08-14",
@@ -1943,11 +1943,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 112100
+      "open": 22.57,
+      "high": 23.88,
+      "low": 21.3,
+      "close": 21.9,
+      "volume": 112200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 22.19,
+      "high": 23.98,
+      "low": 22.0,
+      "close": 23.98,
+      "volume": 39500
     }
   ]
 }

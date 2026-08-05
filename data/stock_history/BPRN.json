@@ -1,18 +1,10 @@
 {
   "code": "BPRN",
   "ticker": "BPRN",
-  "last_updated": "2026-08-04 07:18:43",
+  "last_updated": "2026-08-05 07:19:24",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 25.22,
-      "high": 25.47,
-      "low": 25.12,
-      "close": 25.25,
-      "volume": 10100
-    },
     {
       "date": "2021-08-05",
       "open": 25.42,
@@ -3617,8 +3609,8 @@
       "date": "2023-05-19",
       "open": 22.6,
       "high": 22.67,
-      "low": 22.03,
-      "close": 22.03,
+      "low": 22.02,
+      "close": 22.02,
       "volume": 10600
     },
     {
@@ -3674,7 +3666,7 @@
       "open": 22.21,
       "high": 22.37,
       "low": 21.99,
-      "close": 22.03,
+      "close": 22.02,
       "volume": 10500
     },
     {
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 44970
+      "open": 42.22,
+      "high": 42.91,
+      "low": 41.53,
+      "close": 42.4,
+      "volume": 45100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 42.48,
+      "high": 42.76,
+      "low": 41.71,
+      "close": 42.24,
+      "volume": 40200
     }
   ]
 }

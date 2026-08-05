@@ -1,18 +1,10 @@
 {
   "code": "COIN",
   "ticker": "COIN",
-  "last_updated": "2026-08-04 07:26:27",
+  "last_updated": "2026-08-05 07:27:07",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 231.06,
-      "high": 245.47,
-      "low": 229.85,
-      "close": 244.36,
-      "volume": 3684700
-    },
     {
       "date": "2021-08-05",
       "open": 239.76,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 9000773
+      "open": 144.15,
+      "high": 152.43,
+      "low": 141.03,
+      "close": 146.5,
+      "volume": 9148500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 147.4,
+      "high": 152.9,
+      "low": 145.6,
+      "close": 150.73,
+      "volume": 7273800
     }
   ]
 }

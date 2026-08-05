@@ -1,18 +1,10 @@
 {
   "code": "CIIT",
   "ticker": "CIIT",
-  "last_updated": "2026-08-04 07:24:40",
+  "last_updated": "2026-08-05 07:25:20",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 4.7,
-      "high": 5.07,
-      "low": 4.55,
-      "close": 4.55,
-      "volume": 1643
-    },
     {
       "date": "2021-08-05",
       "open": 4.55,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 26523
+      "open": 3.67,
+      "high": 3.67,
+      "low": 3.5,
+      "close": 3.53,
+      "volume": 27700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.53,
+      "high": 3.88,
+      "low": 3.53,
+      "close": 3.77,
+      "volume": 43300
     }
   ]
 }

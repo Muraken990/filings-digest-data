@@ -1,9 +1,9 @@
 {
   "code": "COLA",
   "ticker": "COLA",
-  "last_updated": "2026-08-04 07:26:27",
+  "last_updated": "2026-08-05 07:27:07",
   "period": "5y",
-  "data_points": 347,
+  "data_points": 348,
   "data": [
     {
       "date": "2025-03-17",
@@ -2775,11 +2775,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 471
+      "open": 10.7,
+      "high": 10.7,
+      "low": 10.7,
+      "close": 10.7,
+      "volume": 500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.7,
+      "high": 10.7,
+      "low": 10.68,
+      "close": 10.68,
+      "volume": 300
     }
   ]
 }

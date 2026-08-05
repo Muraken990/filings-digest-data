@@ -1,18 +1,10 @@
 {
   "code": "ENIC",
   "ticker": "ENIC",
-  "last_updated": "2026-08-04 07:35:52",
+  "last_updated": "2026-08-05 07:36:30",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 1.71,
-      "high": 1.73,
-      "low": 1.7,
-      "close": 1.71,
-      "volume": 325000
-    },
     {
       "date": "2021-08-05",
       "open": 1.75,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 371568
+      "open": 4.43,
+      "high": 4.52,
+      "low": 4.41,
+      "close": 4.51,
+      "volume": 395100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 4.55,
+      "high": 4.62,
+      "low": 4.5,
+      "close": 4.5,
+      "volume": 526800
     }
   ]
 }

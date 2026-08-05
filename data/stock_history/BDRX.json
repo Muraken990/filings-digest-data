@@ -1,18 +1,10 @@
 {
   "code": "BDRX",
   "ticker": "BDRX",
-  "last_updated": "2026-08-04 07:15:19",
+  "last_updated": "2026-08-05 07:16:01",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 3860000.0,
-      "high": 3900000.0,
-      "low": 3760000.0,
-      "close": 3820000.0,
-      "volume": 0
-    },
     {
       "date": "2021-08-05",
       "open": 3820000.0,
@@ -10027,15 +10019,23 @@
       "high": 1.48,
       "low": 1.26,
       "close": 1.32,
-      "volume": 24400
+      "volume": 25600
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 31670
+      "open": 1.32,
+      "high": 1.47,
+      "low": 1.32,
+      "close": 1.42,
+      "volume": 33300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.42,
+      "high": 1.58,
+      "low": 1.42,
+      "close": 1.49,
+      "volume": 706400
     }
   ]
 }

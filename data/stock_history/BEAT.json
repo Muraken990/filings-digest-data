@@ -1,9 +1,9 @@
 {
   "code": "BEAT",
   "ticker": "BEAT",
-  "last_updated": "2026-08-04 07:16:05",
+  "last_updated": "2026-08-05 07:16:46",
   "period": "5y",
-  "data_points": 1184,
+  "data_points": 1185,
   "data": [
     {
       "date": "2021-11-11",
@@ -9467,15 +9467,23 @@
       "high": 0.52,
       "low": 0.49,
       "close": 0.5,
-      "volume": 363200
+      "volume": 364900
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 500893
+      "open": 0.51,
+      "high": 0.52,
+      "low": 0.48,
+      "close": 0.49,
+      "volume": 525300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.5,
+      "high": 0.51,
+      "low": 0.49,
+      "close": 0.5,
+      "volume": 488900
     }
   ]
 }

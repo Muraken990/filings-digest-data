@@ -1,18 +1,10 @@
 {
   "code": "FR",
   "ticker": "FR",
-  "last_updated": "2026-08-04 07:41:49",
+  "last_updated": "2026-08-05 07:42:25",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 47.9,
-      "high": 48.0,
-      "low": 47.38,
-      "close": 47.56,
-      "volume": 488700
-    },
     {
       "date": "2021-08-05",
       "open": 47.79,
@@ -2039,7 +2031,7 @@
     },
     {
       "date": "2022-08-08",
-      "open": 47.47,
+      "open": 47.46,
       "high": 47.79,
       "low": 47.23,
       "close": 47.36,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 530127
+      "open": 66.81,
+      "high": 67.96,
+      "low": 65.29,
+      "close": 65.52,
+      "volume": 834800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 65.29,
+      "high": 65.85,
+      "low": 64.13,
+      "close": 64.15,
+      "volume": 1611200
     }
   ]
 }

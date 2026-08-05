@@ -1,9 +1,9 @@
 {
   "code": "ASBA",
   "ticker": "ASBA",
-  "last_updated": "2026-08-04 07:11:50",
+  "last_updated": "2026-08-05 07:12:32",
   "period": "5y",
-  "data_points": 857,
+  "data_points": 858,
   "data": [
     {
       "date": "2023-03-03",
@@ -6855,11 +6855,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 13565
+      "open": 24.66,
+      "high": 24.8,
+      "low": 24.62,
+      "close": 24.7,
+      "volume": 13900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 24.75,
+      "high": 24.83,
+      "low": 24.69,
+      "close": 24.71,
+      "volume": 14300
     }
   ]
 }

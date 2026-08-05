@@ -1,9 +1,9 @@
 {
   "code": "CLYM",
   "ticker": "CLYM",
-  "last_updated": "2026-08-04 07:25:32",
+  "last_updated": "2026-08-05 07:26:11",
   "period": "5y",
-  "data_points": 1250,
+  "data_points": 1251,
   "data": [
     {
       "date": "2021-08-10",
@@ -9999,11 +9999,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 836767
+      "open": 11.98,
+      "high": 11.98,
+      "low": 11.36,
+      "close": 11.81,
+      "volume": 847600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 12.1,
+      "high": 12.76,
+      "low": 12.07,
+      "close": 12.56,
+      "volume": 1031600
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "EVO",
   "ticker": "EVO",
-  "last_updated": "2026-08-04 07:37:37",
+  "last_updated": "2026-08-05 07:38:14",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 21.09,
-      "high": 21.35,
-      "low": 21.09,
-      "close": 21.35,
-      "volume": 5200
-    },
     {
       "date": "2021-08-05",
       "open": 21.35,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 78881
+      "open": 1.96,
+      "high": 1.97,
+      "low": 1.94,
+      "close": 1.94,
+      "volume": 79000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.97,
+      "high": 1.98,
+      "low": 1.93,
+      "close": 1.95,
+      "volume": 16200
     }
   ]
 }

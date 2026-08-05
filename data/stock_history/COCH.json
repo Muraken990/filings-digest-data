@@ -1,18 +1,10 @@
 {
   "code": "COCH",
   "ticker": "COCH",
-  "last_updated": "2026-08-04 07:26:25",
+  "last_updated": "2026-08-05 07:27:05",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 9.66,
-      "high": 9.66,
-      "low": 9.65,
-      "close": 9.65,
-      "volume": 3400
-    },
     {
       "date": "2021-08-05",
       "open": 9.66,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 134741
+      "open": 0.68,
+      "high": 0.71,
+      "low": 0.68,
+      "close": 0.69,
+      "volume": 134700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.69,
+      "high": 0.71,
+      "low": 0.68,
+      "close": 0.69,
+      "volume": 121400
     }
   ]
 }

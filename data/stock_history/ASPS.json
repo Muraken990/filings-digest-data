@@ -1,18 +1,10 @@
 {
   "code": "ASPS",
   "ticker": "ASPS",
-  "last_updated": "2026-08-04 07:11:52",
+  "last_updated": "2026-08-05 07:12:34",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 70.88,
-      "high": 71.76,
-      "low": 66.0,
-      "close": 67.2,
-      "volume": 37225
-    },
     {
       "date": "2021-08-05",
       "open": 67.6,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 67319
+      "open": 5.68,
+      "high": 5.98,
+      "low": 5.57,
+      "close": 5.58,
+      "volume": 67300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 5.55,
+      "high": 5.67,
+      "low": 5.05,
+      "close": 5.25,
+      "volume": 32500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "BIAF",
   "ticker": "BIAF",
-  "last_updated": "2026-08-04 07:16:58",
+  "last_updated": "2026-08-05 07:17:40",
   "period": "5y",
-  "data_points": 982,
+  "data_points": 983,
   "data": [
     {
       "date": "2022-09-01",
@@ -7851,15 +7851,23 @@
       "high": 0.64,
       "low": 0.59,
       "close": 0.63,
-      "volume": 108600
+      "volume": 113400
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 163957
+      "open": 0.61,
+      "high": 0.62,
+      "low": 0.58,
+      "close": 0.6,
+      "volume": 177900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.59,
+      "high": 0.6,
+      "low": 0.55,
+      "close": 0.55,
+      "volume": 301300
     }
   ]
 }

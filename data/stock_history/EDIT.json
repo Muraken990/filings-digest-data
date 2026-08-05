@@ -1,18 +1,10 @@
 {
   "code": "EDIT",
   "ticker": "EDIT",
-  "last_updated": "2026-08-04 07:34:10",
+  "last_updated": "2026-08-05 07:34:48",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 41.34,
-      "high": 46.18,
-      "low": 41.25,
-      "close": 46.05,
-      "volume": 2073600
-    },
     {
       "date": "2021-08-05",
       "open": 47.55,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 771014
+      "open": 2.6,
+      "high": 2.65,
+      "low": 2.53,
+      "close": 2.65,
+      "volume": 775100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.69,
+      "high": 2.78,
+      "low": 2.64,
+      "close": 2.77,
+      "volume": 1559400
     }
   ]
 }

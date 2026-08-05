@@ -1,9 +1,9 @@
 {
   "code": "BCG",
   "ticker": "BCG",
-  "last_updated": "2026-08-04 07:15:16",
+  "last_updated": "2026-08-05 07:15:58",
   "period": "5y",
-  "data_points": 589,
+  "data_points": 590,
   "data": [
     {
       "date": "2024-03-27",
@@ -4711,11 +4711,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 11754
+      "open": 1.43,
+      "high": 1.46,
+      "low": 1.41,
+      "close": 1.42,
+      "volume": 12300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.44,
+      "high": 1.55,
+      "low": 1.44,
+      "close": 1.51,
+      "volume": 25000
     }
   ]
 }

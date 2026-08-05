@@ -1,9 +1,9 @@
 {
   "code": "CTNM",
   "ticker": "CTNM",
-  "last_updated": "2026-08-04 07:28:58",
+  "last_updated": "2026-08-05 07:29:37",
   "period": "5y",
-  "data_points": 583,
+  "data_points": 584,
   "data": [
     {
       "date": "2024-04-05",
@@ -4663,11 +4663,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 304336
+      "open": 15.22,
+      "high": 16.37,
+      "low": 15.19,
+      "close": 15.93,
+      "volume": 315000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 15.83,
+      "high": 16.7,
+      "low": 15.31,
+      "close": 15.9,
+      "volume": 430200
     }
   ]
 }

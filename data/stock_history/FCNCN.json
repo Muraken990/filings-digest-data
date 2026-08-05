@@ -1,9 +1,9 @@
 {
   "code": "FCNCN",
   "ticker": "FCNCN",
-  "last_updated": "2026-08-04 07:39:16",
+  "last_updated": "2026-08-05 07:39:53",
   "period": "5y",
-  "data_points": 127,
+  "data_points": 128,
   "data": [
     {
       "date": "2026-01-30",
@@ -1015,11 +1015,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 13406
+      "open": 24.95,
+      "high": 24.95,
+      "low": 24.82,
+      "close": 24.84,
+      "volume": 13300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 24.94,
+      "high": 25.0,
+      "low": 24.8,
+      "close": 24.8,
+      "volume": 10900
     }
   ]
 }

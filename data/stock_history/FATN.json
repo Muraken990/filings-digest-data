@@ -1,9 +1,9 @@
 {
   "code": "FATN",
   "ticker": "FATN",
-  "last_updated": "2026-08-04 07:38:28",
+  "last_updated": "2026-08-05 07:39:05",
   "period": "5y",
-  "data_points": 331,
+  "data_points": 332,
   "data": [
     {
       "date": "2025-04-08",
@@ -2647,11 +2647,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 290649
+      "open": 6.1,
+      "high": 7.0,
+      "low": 6.01,
+      "close": 6.89,
+      "volume": 291700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 6.62,
+      "high": 7.0,
+      "low": 6.4,
+      "close": 6.95,
+      "volume": 236000
     }
   ]
 }

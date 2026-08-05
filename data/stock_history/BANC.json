@@ -1,18 +1,10 @@
 {
   "code": "BANC",
   "ticker": "BANC",
-  "last_updated": "2026-08-04 07:14:25",
+  "last_updated": "2026-08-05 07:15:06",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 15.06,
-      "high": 15.27,
-      "low": 15.01,
-      "close": 15.04,
-      "volume": 190100
-    },
     {
       "date": "2021-08-05",
       "open": 15.16,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2486424
+      "open": 19.01,
+      "high": 19.46,
+      "low": 18.99,
+      "close": 19.24,
+      "volume": 2981400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 19.43,
+      "high": 19.89,
+      "low": 19.29,
+      "close": 19.52,
+      "volume": 3663300
     }
   ]
 }

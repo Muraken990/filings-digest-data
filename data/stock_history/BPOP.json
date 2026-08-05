@@ -1,18 +1,10 @@
 {
   "code": "BPOP",
   "ticker": "BPOP",
-  "last_updated": "2026-08-04 07:18:43",
+  "last_updated": "2026-08-05 07:19:24",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 62.54,
-      "high": 63.52,
-      "low": 62.23,
-      "close": 62.54,
-      "volume": 232600
-    },
     {
       "date": "2021-08-05",
       "open": 62.71,
@@ -3071,7 +3063,7 @@
     },
     {
       "date": "2023-02-10",
-      "open": 62.94,
+      "open": 62.93,
       "high": 63.55,
       "low": 62.74,
       "close": 63.4,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 379473
+      "open": 175.28,
+      "high": 179.0,
+      "low": 173.47,
+      "close": 173.65,
+      "volume": 394900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 173.63,
+      "high": 176.79,
+      "low": 172.69,
+      "close": 175.79,
+      "volume": 385600
     }
   ]
 }

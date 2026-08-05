@@ -1,9 +1,9 @@
 {
   "code": "EUDA",
   "ticker": "EUDA",
-  "last_updated": "2026-08-04 07:37:35",
+  "last_updated": "2026-08-05 07:38:12",
   "period": "5y",
-  "data_points": 1162,
+  "data_points": 1163,
   "data": [
     {
       "date": "2021-12-14",
@@ -9295,11 +9295,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 18632
+      "open": 18.99,
+      "high": 20.09,
+      "low": 17.31,
+      "close": 17.31,
+      "volume": 18600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 16.3,
+      "high": 16.93,
+      "low": 16.19,
+      "close": 16.5,
+      "volume": 2800
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "ENTA",
   "ticker": "ENTA",
-  "last_updated": "2026-08-04 07:35:54",
+  "last_updated": "2026-08-05 07:36:31",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 42.93,
-      "high": 43.69,
-      "low": 42.28,
-      "close": 42.48,
-      "volume": 104600
-    },
     {
       "date": "2021-08-05",
       "open": 42.78,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 161619
+      "open": 12.7,
+      "high": 12.97,
+      "low": 12.34,
+      "close": 12.95,
+      "volume": 168100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 13.05,
+      "high": 13.63,
+      "low": 12.71,
+      "close": 13.32,
+      "volume": 209600
     }
   ]
 }

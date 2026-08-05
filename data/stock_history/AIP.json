@@ -1,9 +1,9 @@
 {
   "code": "AIP",
   "ticker": "AIP",
-  "last_updated": "2026-08-04 07:07:33",
+  "last_updated": "2026-08-05 07:08:16",
   "period": "5y",
-  "data_points": 1195,
+  "data_points": 1196,
   "data": [
     {
       "date": "2021-10-27",
@@ -9555,15 +9555,23 @@
       "high": 31.72,
       "low": 29.02,
       "close": 29.88,
-      "volume": 573100
+      "volume": 574000
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 799636
+      "open": 28.66,
+      "high": 30.61,
+      "low": 28.09,
+      "close": 30.11,
+      "volume": 815200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 32.0,
+      "high": 32.5,
+      "low": 31.13,
+      "close": 32.09,
+      "volume": 958000
     }
   ]
 }

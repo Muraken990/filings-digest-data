@@ -1,9 +1,9 @@
 {
   "code": "ATIIU",
   "ticker": "ATIIU",
-  "last_updated": "2026-08-04 07:12:41",
+  "last_updated": "2026-08-05 07:13:23",
   "period": "5y",
-  "data_points": 370,
+  "data_points": 371,
   "data": [
     {
       "date": "2025-02-11",
@@ -2959,11 +2959,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 537
+      "open": 11.6,
+      "high": 11.6,
+      "low": 11.6,
+      "close": 11.6,
+      "volume": 500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 11.6,
+      "high": 11.6,
+      "low": 11.6,
+      "close": 11.6,
+      "volume": 0
     }
   ]
 }

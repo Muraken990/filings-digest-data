@@ -1,9 +1,9 @@
 {
   "code": "BNRG",
   "ticker": "BNRG",
-  "last_updated": "2026-08-04 07:18:40",
+  "last_updated": "2026-08-05 07:19:21",
   "period": "5y",
-  "data_points": 1050,
+  "data_points": 1051,
   "data": [
     {
       "date": "2022-05-25",
@@ -8395,15 +8395,23 @@
       "high": 0.52,
       "low": 0.46,
       "close": 0.46,
-      "volume": 310900
+      "volume": 322200
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 197764
+      "open": 0.46,
+      "high": 0.47,
+      "low": 0.46,
+      "close": 0.47,
+      "volume": 205200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.46,
+      "high": 0.46,
+      "low": 0.42,
+      "close": 0.43,
+      "volume": 339500
     }
   ]
 }

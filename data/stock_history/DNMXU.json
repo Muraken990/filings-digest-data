@@ -1,9 +1,9 @@
 {
   "code": "DNMXU",
   "ticker": "DNMXU",
-  "last_updated": "2026-08-04 07:32:23",
+  "last_updated": "2026-08-05 07:33:02",
   "period": "5y",
-  "data_points": 189,
+  "data_points": 190,
   "data": [
     {
       "date": "2025-10-30",
@@ -1511,11 +1511,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2632
+      "open": 10.12,
+      "high": 10.13,
+      "low": 10.12,
+      "close": 10.13,
+      "volume": 2600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.12,
+      "high": 10.12,
+      "low": 10.12,
+      "close": 10.12,
+      "volume": 2600
     }
   ]
 }

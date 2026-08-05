@@ -1,9 +1,9 @@
 {
   "code": "ANSC",
   "ticker": "ANSC",
-  "last_updated": "2026-08-04 07:10:07",
+  "last_updated": "2026-08-05 07:10:49",
   "period": "5y",
-  "data_points": 647,
+  "data_points": 648,
   "data": [
     {
       "date": "2024-01-03",
@@ -5175,11 +5175,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 474381
+      "open": 11.46,
+      "high": 11.46,
+      "low": 11.44,
+      "close": 11.45,
+      "volume": 474400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 11.46,
+      "high": 11.46,
+      "low": 11.44,
+      "close": 11.45,
+      "volume": 626600
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "DSS",
   "ticker": "DSS",
-  "last_updated": "2026-08-04 07:33:14",
+  "last_updated": "2026-08-05 07:33:53",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 25.44,
-      "high": 25.44,
-      "low": 23.96,
-      "close": 24.33,
-      "volume": 86591
-    },
     {
       "date": "2021-08-05",
       "open": 24.33,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 14730
+      "open": 0.54,
+      "high": 0.55,
+      "low": 0.51,
+      "close": 0.53,
+      "volume": 122300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.54,
+      "high": 0.58,
+      "low": 0.53,
+      "close": 0.54,
+      "volume": 59200
     }
   ]
 }

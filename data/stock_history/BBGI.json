@@ -1,18 +1,10 @@
 {
   "code": "BBGI",
   "ticker": "BBGI",
-  "last_updated": "2026-08-04 07:14:28",
+  "last_updated": "2026-08-05 07:15:09",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 49.8,
-      "high": 49.8,
-      "low": 46.2,
-      "close": 48.6,
-      "volume": 6185
-    },
     {
       "date": "2021-08-05",
       "open": 47.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 20290
+      "open": 21.13,
+      "high": 22.05,
+      "low": 21.01,
+      "close": 21.61,
+      "volume": 20300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 22.02,
+      "high": 26.04,
+      "low": 22.02,
+      "close": 26.04,
+      "volume": 292100
     }
   ]
 }

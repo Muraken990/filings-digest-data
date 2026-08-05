@@ -1,9 +1,9 @@
 {
   "code": "BUDA",
   "ticker": "BUDA",
-  "last_updated": "2026-08-04 07:20:22",
+  "last_updated": "2026-08-05 07:21:02",
   "period": "5y",
-  "data_points": 142,
+  "data_points": 143,
   "data": [
     {
       "date": "2026-01-08",
@@ -1135,11 +1135,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 27028
+      "open": 7.8,
+      "high": 8.5,
+      "low": 7.8,
+      "close": 8.11,
+      "volume": 27400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 8.19,
+      "high": 8.67,
+      "low": 8.16,
+      "close": 8.21,
+      "volume": 33600
     }
   ]
 }

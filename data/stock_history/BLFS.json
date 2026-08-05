@@ -1,18 +1,10 @@
 {
   "code": "BLFS",
   "ticker": "BLFS",
-  "last_updated": "2026-08-04 07:17:48",
+  "last_updated": "2026-08-05 07:18:29",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 48.36,
-      "high": 49.14,
-      "low": 47.87,
-      "close": 48.2,
-      "volume": 101300
-    },
     {
       "date": "2021-08-05",
       "open": 48.46,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 572087
+      "open": 31.35,
+      "high": 32.19,
+      "low": 31.28,
+      "close": 32.15,
+      "volume": 576000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 32.03,
+      "high": 32.55,
+      "low": 31.46,
+      "close": 32.52,
+      "volume": 598000
     }
   ]
 }

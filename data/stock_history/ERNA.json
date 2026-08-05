@@ -1,18 +1,10 @@
 {
   "code": "ERNA",
   "ticker": "ERNA",
-  "last_updated": "2026-08-04 07:36:45",
+  "last_updated": "2026-08-05 07:37:22",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 93975.0,
-      "high": 94800.0,
-      "low": 81975.0,
-      "close": 82950.0,
-      "volume": 302
-    },
     {
       "date": "2021-08-05",
       "open": 83775.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 35150
+      "open": 3.36,
+      "high": 3.49,
+      "low": 3.28,
+      "close": 3.45,
+      "volume": 41900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.47,
+      "high": 4.42,
+      "low": 3.39,
+      "close": 4.42,
+      "volume": 103000
     }
   ]
 }

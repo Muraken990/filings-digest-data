@@ -1,18 +1,10 @@
 {
   "code": "ARQ",
   "ticker": "ARQ",
-  "last_updated": "2026-08-04 07:11:03",
+  "last_updated": "2026-08-05 07:11:44",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 7.69,
-      "high": 7.89,
-      "low": 7.56,
-      "close": 7.64,
-      "volume": 146300
-    },
     {
       "date": "2021-08-05",
       "open": 7.64,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 365254
+      "open": 1.95,
+      "high": 2.06,
+      "low": 1.93,
+      "close": 2.01,
+      "volume": 365400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.03,
+      "high": 2.12,
+      "low": 2.0,
+      "close": 2.07,
+      "volume": 223600
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "CSTE",
   "ticker": "CSTE",
-  "last_updated": "2026-08-04 07:28:11",
+  "last_updated": "2026-08-05 07:28:50",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 13.67,
-      "high": 14.04,
-      "low": 12.79,
-      "close": 13.34,
-      "volume": 151300
-    },
     {
       "date": "2021-08-05",
       "open": 13.34,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 63241
+      "open": 2.09,
+      "high": 2.19,
+      "low": 1.99,
+      "close": 2.18,
+      "volume": 63300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.2,
+      "high": 2.38,
+      "low": 2.17,
+      "close": 2.31,
+      "volume": 94300
     }
   ]
 }

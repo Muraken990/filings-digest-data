@@ -1,18 +1,10 @@
 {
   "code": "DMB",
   "ticker": "DMB",
-  "last_updated": "2026-08-04 07:31:37",
+  "last_updated": "2026-08-05 07:32:16",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 12.37,
-      "high": 12.42,
-      "low": 12.33,
-      "close": 12.35,
-      "volume": 48200
-    },
     {
       "date": "2021-08-05",
       "open": 12.44,
@@ -2767,7 +2759,7 @@
     },
     {
       "date": "2022-12-15",
-      "open": 9.32,
+      "open": 9.31,
       "high": 9.38,
       "low": 9.16,
       "close": 9.18,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 62154
+      "open": 10.55,
+      "high": 10.67,
+      "low": 10.47,
+      "close": 10.51,
+      "volume": 64200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.57,
+      "high": 10.59,
+      "low": 10.52,
+      "close": 10.55,
+      "volume": 65100
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CBK",
   "ticker": "CBK",
-  "last_updated": "2026-08-04 07:22:05",
+  "last_updated": "2026-08-05 07:22:45",
   "period": "5y",
-  "data_points": 209,
+  "data_points": 210,
   "data": [
     {
       "date": "2025-10-02",
@@ -1671,11 +1671,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 109941
+      "open": 34.44,
+      "high": 35.03,
+      "low": 34.11,
+      "close": 34.7,
+      "volume": 110300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 34.65,
+      "high": 35.33,
+      "low": 34.65,
+      "close": 35.06,
+      "volume": 63600
     }
   ]
 }

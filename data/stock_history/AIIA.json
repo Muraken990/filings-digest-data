@@ -1,9 +1,9 @@
 {
   "code": "AIIA",
   "ticker": "AIIA",
-  "last_updated": "2026-08-04 07:07:32",
+  "last_updated": "2026-08-05 07:08:15",
   "period": "5y",
-  "data_points": 172,
+  "data_points": 173,
   "data": [
     {
       "date": "2025-11-24",
@@ -1375,11 +1375,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 935
+      "open": 10.21,
+      "high": 10.21,
+      "low": 10.2,
+      "close": 10.2,
+      "volume": 900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.25,
+      "high": 10.25,
+      "low": 10.25,
+      "close": 10.25,
+      "volume": 100
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ABLV",
   "ticker": "ABLV",
-  "last_updated": "2026-08-04 07:04:10",
+  "last_updated": "2026-08-05 07:04:53",
   "period": "5y",
-  "data_points": 976,
+  "data_points": 977,
   "data": [
     {
       "date": "2022-09-12",
@@ -7807,11 +7807,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 31425
+      "open": 0.86,
+      "high": 0.87,
+      "low": 0.77,
+      "close": 0.77,
+      "volume": 31500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.81,
+      "high": 0.82,
+      "low": 0.74,
+      "close": 0.74,
+      "volume": 31300
     }
   ]
 }

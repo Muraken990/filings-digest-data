@@ -1,18 +1,10 @@
 {
   "code": "FORM",
   "ticker": "FORM",
-  "last_updated": "2026-08-04 07:41:02",
+  "last_updated": "2026-08-05 07:41:39",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 37.7,
-      "high": 38.57,
-      "low": 37.51,
-      "close": 38.5,
-      "volume": 482900
-    },
     {
       "date": "2021-08-05",
       "open": 38.61,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1476639
+      "open": 101.32,
+      "high": 111.19,
+      "low": 100.75,
+      "close": 108.8,
+      "volume": 1575800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 115.0,
+      "high": 121.58,
+      "low": 114.01,
+      "close": 120.3,
+      "volume": 2095400
     }
   ]
 }

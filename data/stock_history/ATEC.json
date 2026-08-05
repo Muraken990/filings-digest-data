@@ -1,18 +1,10 @@
 {
   "code": "ATEC",
   "ticker": "ATEC",
-  "last_updated": "2026-08-04 07:12:40",
+  "last_updated": "2026-08-05 07:13:21",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 14.76,
-      "high": 15.34,
-      "low": 14.48,
-      "close": 15.23,
-      "volume": 1084700
-    },
     {
       "date": "2021-08-05",
       "open": 13.93,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4524914
+      "open": 10.0,
+      "high": 10.3,
+      "low": 9.86,
+      "close": 10.15,
+      "volume": 4589400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 9.96,
+      "high": 10.39,
+      "low": 9.96,
+      "close": 10.35,
+      "volume": 4379000
     }
   ]
 }

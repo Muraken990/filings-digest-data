@@ -1,9 +1,9 @@
 {
   "code": "BDMD",
   "ticker": "BDMD",
-  "last_updated": "2026-08-04 07:15:19",
+  "last_updated": "2026-08-05 07:16:00",
   "period": "5y",
-  "data_points": 1160,
+  "data_points": 1161,
   "data": [
     {
       "date": "2021-12-16",
@@ -9279,11 +9279,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 57841
+      "open": 1.03,
+      "high": 1.1,
+      "low": 1.0,
+      "close": 1.07,
+      "volume": 58300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.05,
+      "high": 1.17,
+      "low": 1.01,
+      "close": 1.1,
+      "volume": 59300
     }
   ]
 }

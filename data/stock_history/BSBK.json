@@ -1,18 +1,10 @@
 {
   "code": "BSBK",
   "ticker": "BSBK",
-  "last_updated": "2026-08-04 07:19:32",
+  "last_updated": "2026-08-05 07:20:13",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 10.2,
-      "high": 11.1,
-      "low": 10.2,
-      "close": 10.6,
-      "volume": 64200
-    },
     {
       "date": "2021-08-05",
       "open": 10.72,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10560
+      "open": 9.08,
+      "high": 9.08,
+      "low": 8.95,
+      "close": 9.08,
+      "volume": 10800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 9.08,
+      "high": 9.55,
+      "low": 8.99,
+      "close": 9.0,
+      "volume": 16300
     }
   ]
 }

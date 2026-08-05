@@ -1,18 +1,10 @@
 {
   "code": "FRA",
   "ticker": "FRA",
-  "last_updated": "2026-08-04 07:41:49",
+  "last_updated": "2026-08-05 07:42:25",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 8.01,
-      "high": 8.08,
-      "low": 8.01,
-      "close": 8.08,
-      "volume": 126600
-    },
     {
       "date": "2021-08-05",
       "open": 8.09,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 136697
+      "open": 10.8,
+      "high": 10.86,
+      "low": 10.8,
+      "close": 10.84,
+      "volume": 147200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.82,
+      "high": 10.88,
+      "low": 10.8,
+      "close": 10.85,
+      "volume": 151400
     }
   ]
 }

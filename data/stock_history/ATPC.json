@@ -1,9 +1,9 @@
 {
   "code": "ATPC",
   "ticker": "ATPC",
-  "last_updated": "2026-08-04 07:12:43",
+  "last_updated": "2026-08-05 07:13:24",
   "period": "5y",
-  "data_points": 726,
+  "data_points": 727,
   "data": [
     {
       "date": "2023-09-11",
@@ -5803,15 +5803,23 @@
       "high": 2.47,
       "low": 2.31,
       "close": 2.31,
-      "volume": 30200
+      "volume": 30800
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 24588
+      "open": 2.33,
+      "high": 2.4,
+      "low": 2.29,
+      "close": 2.32,
+      "volume": 26800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.3,
+      "high": 2.65,
+      "low": 2.19,
+      "close": 2.59,
+      "volume": 6081700
     }
   ]
 }

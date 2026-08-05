@@ -1,9 +1,9 @@
 {
   "code": "COAG",
   "ticker": "COAG",
-  "last_updated": "2026-08-04 07:26:25",
+  "last_updated": "2026-08-05 07:27:05",
   "period": "5y",
-  "data_points": 64,
+  "data_points": 65,
   "data": [
     {
       "date": "2026-05-01",
@@ -511,11 +511,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 696025
+      "open": 47.72,
+      "high": 47.72,
+      "low": 44.65,
+      "close": 45.0,
+      "volume": 699600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 45.23,
+      "high": 49.48,
+      "low": 45.23,
+      "close": 46.52,
+      "volume": 482700
     }
   ]
 }

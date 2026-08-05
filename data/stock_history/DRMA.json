@@ -1,9 +1,9 @@
 {
   "code": "DRMA",
   "ticker": "DRMA",
-  "last_updated": "2026-08-04 07:32:27",
+  "last_updated": "2026-08-05 07:33:06",
   "period": "5y",
-  "data_points": 1247,
+  "data_points": 1248,
   "data": [
     {
       "date": "2021-08-13",
@@ -9975,11 +9975,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 217539
+      "open": 1.19,
+      "high": 1.2,
+      "low": 0.95,
+      "close": 1.08,
+      "volume": 220600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.09,
+      "high": 1.17,
+      "low": 1.07,
+      "close": 1.1,
+      "volume": 46300
     }
   ]
 }

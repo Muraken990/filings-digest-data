@@ -1,9 +1,9 @@
 {
   "code": "AERO",
   "ticker": "AERO",
-  "last_updated": "2026-08-04 07:05:54",
+  "last_updated": "2026-08-05 07:06:37",
   "period": "5y",
-  "data_points": 184,
+  "data_points": 185,
   "data": [
     {
       "date": "2025-11-06",
@@ -1471,11 +1471,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 196058
+      "open": 15.59,
+      "high": 16.23,
+      "low": 15.5,
+      "close": 16.03,
+      "volume": 204200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 16.1,
+      "high": 16.61,
+      "low": 15.73,
+      "close": 16.13,
+      "volume": 372800
     }
   ]
 }

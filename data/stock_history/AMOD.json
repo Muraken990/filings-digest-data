@@ -1,9 +1,9 @@
 {
   "code": "AMOD",
   "ticker": "AMOD",
-  "last_updated": "2026-08-04 07:09:16",
+  "last_updated": "2026-08-05 07:09:59",
   "period": "5y",
-  "data_points": 1193,
+  "data_points": 1194,
   "data": [
     {
       "date": "2021-10-29",
@@ -9543,11 +9543,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 11818
+      "open": 3.91,
+      "high": 4.16,
+      "low": 3.9,
+      "close": 4.01,
+      "volume": 11800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 4.1,
+      "high": 4.56,
+      "low": 3.93,
+      "close": 4.52,
+      "volume": 27600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "AGMB",
   "ticker": "AGMB",
-  "last_updated": "2026-08-04 07:06:43",
+  "last_updated": "2026-08-05 07:07:26",
   "period": "5y",
-  "data_points": 122,
+  "data_points": 123,
   "data": [
     {
       "date": "2026-02-06",
@@ -975,11 +975,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 125995
+      "open": 12.63,
+      "high": 13.52,
+      "low": 12.41,
+      "close": 13.52,
+      "volume": 126000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 13.75,
+      "high": 14.87,
+      "low": 13.67,
+      "close": 14.73,
+      "volume": 87400
     }
   ]
 }

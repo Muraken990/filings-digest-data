@@ -1,18 +1,10 @@
 {
   "code": "ENVB",
   "ticker": "ENVB",
-  "last_updated": "2026-08-04 07:35:54",
+  "last_updated": "2026-08-05 07:36:32",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 257850.0,
-      "high": 259875.0,
-      "low": 253800.0,
-      "close": 253800.0,
-      "volume": 1
-    },
     {
       "date": "2021-08-05",
       "open": 255150.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 83861
+      "open": 1.56,
+      "high": 1.63,
+      "low": 1.52,
+      "close": 1.6,
+      "volume": 85400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.58,
+      "high": 1.75,
+      "low": 1.56,
+      "close": 1.69,
+      "volume": 147500
     }
   ]
 }

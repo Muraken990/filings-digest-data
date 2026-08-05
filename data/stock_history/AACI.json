@@ -1,9 +1,9 @@
 {
   "code": "AACI",
   "ticker": "AACI",
-  "last_updated": "2026-08-04 07:04:07",
+  "last_updated": "2026-08-05 07:04:50",
   "period": "5y",
-  "data_points": 88,
+  "data_points": 89,
   "data": [
     {
       "date": "2026-03-27",
@@ -703,11 +703,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 50141
+      "open": 9.99,
+      "high": 9.99,
+      "low": 9.99,
+      "close": 9.99,
+      "volume": 50100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 9.99,
+      "high": 9.99,
+      "low": 9.99,
+      "close": 9.99,
+      "volume": 0
     }
   ]
 }

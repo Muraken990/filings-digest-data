@@ -1,26 +1,10 @@
 {
   "code": "BCBP",
   "ticker": "BCBP",
-  "last_updated": "2026-08-04 07:15:16",
+  "last_updated": "2026-08-05 07:15:57",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-08-04",
-      "open": 11.73,
-      "high": 11.94,
-      "low": 11.66,
-      "close": 11.85,
-      "volume": 128700
-    },
     {
       "date": "2021-08-05",
       "open": 11.92,
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 413007
+      "open": 8.95,
+      "high": 9.91,
+      "low": 8.78,
+      "close": 9.79,
+      "volume": 413100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 9.74,
+      "high": 9.76,
+      "low": 9.06,
+      "close": 9.16,
+      "volume": 355400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "APAC",
   "ticker": "APAC",
-  "last_updated": "2026-08-04 07:10:08",
+  "last_updated": "2026-08-05 07:10:51",
   "period": "5y",
-  "data_points": 173,
+  "data_points": 174,
   "data": [
     {
       "date": "2025-11-21",
@@ -1383,11 +1383,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3820
+      "open": 10.2,
+      "high": 10.2,
+      "low": 10.2,
+      "close": 10.2,
+      "volume": 3900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.2,
+      "high": 10.2,
+      "low": 10.2,
+      "close": 10.2,
+      "volume": 11800
     }
   ]
 }

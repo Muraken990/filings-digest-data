@@ -1,18 +1,10 @@
 {
   "code": "CAC",
   "ticker": "CAC",
-  "last_updated": "2026-08-04 07:21:14",
+  "last_updated": "2026-08-05 07:21:54",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 36.04,
-      "high": 36.17,
-      "low": 35.71,
-      "close": 35.71,
-      "volume": 22800
-    },
     {
       "date": "2021-08-05",
       "open": 35.83,
@@ -4520,7 +4512,7 @@
     {
       "date": "2023-10-31",
       "open": 25.73,
-      "high": 26.18,
+      "high": 26.17,
       "low": 24.96,
       "close": 26.0,
       "volume": 105600
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 116720
+      "open": 58.95,
+      "high": 59.82,
+      "low": 57.86,
+      "close": 59.28,
+      "volume": 117400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 59.39,
+      "high": 60.0,
+      "low": 58.93,
+      "close": 59.77,
+      "volume": 103800
     }
   ]
 }

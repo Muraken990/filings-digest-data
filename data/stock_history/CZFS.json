@@ -1,18 +1,10 @@
 {
   "code": "CZFS",
   "ticker": "CZFS",
-  "last_updated": "2026-08-04 07:29:52",
+  "last_updated": "2026-08-05 07:30:32",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 51.54,
-      "high": 51.54,
-      "low": 51.54,
-      "close": 51.54,
-      "volume": 0
-    },
     {
       "date": "2021-08-05",
       "open": 51.54,
@@ -3234,7 +3226,7 @@
       "open": 67.46,
       "high": 67.46,
       "low": 61.66,
-      "close": 62.49,
+      "close": 62.5,
       "volume": 54779
     },
     {
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 18340
+      "open": 78.3,
+      "high": 78.3,
+      "low": 74.52,
+      "close": 76.53,
+      "volume": 18400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 76.83,
+      "high": 83.37,
+      "low": 76.83,
+      "close": 82.63,
+      "volume": 51400
     }
   ]
 }

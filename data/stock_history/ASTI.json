@@ -1,9 +1,9 @@
 {
   "code": "ASTI",
   "ticker": "ASTI",
-  "last_updated": "2026-08-04 07:11:53",
+  "last_updated": "2026-08-05 07:12:35",
   "period": "5y",
-  "data_points": 988,
+  "data_points": 989,
   "data": [
     {
       "date": "2022-08-24",
@@ -7899,15 +7899,23 @@
       "high": 3.23,
       "low": 2.9,
       "close": 2.91,
-      "volume": 304100
+      "volume": 304700
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 498755
+      "open": 2.94,
+      "high": 3.24,
+      "low": 2.87,
+      "close": 3.06,
+      "volume": 499600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.16,
+      "high": 3.61,
+      "low": 3.13,
+      "close": 3.54,
+      "volume": 799600
     }
   ]
 }

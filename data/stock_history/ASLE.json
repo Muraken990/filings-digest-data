@@ -1,18 +1,10 @@
 {
   "code": "ASLE",
   "ticker": "ASLE",
-  "last_updated": "2026-08-04 07:11:51",
+  "last_updated": "2026-08-05 07:12:33",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 11.73,
-      "high": 11.73,
-      "low": 11.34,
-      "close": 11.4,
-      "volume": 6900
-    },
     {
       "date": "2021-08-05",
       "open": 11.57,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 233775
+      "open": 6.27,
+      "high": 6.49,
+      "low": 6.27,
+      "close": 6.49,
+      "volume": 237200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 6.53,
+      "high": 6.62,
+      "low": 6.4,
+      "close": 6.51,
+      "volume": 275400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "APC",
   "ticker": "APC",
-  "last_updated": "2026-08-04 07:10:09",
+  "last_updated": "2026-08-05 07:10:51",
   "period": "5y",
-  "data_points": 118,
+  "data_points": 119,
   "data": [
     {
       "date": "2026-02-12",
@@ -943,11 +943,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 75855
+      "open": 20.33,
+      "high": 20.49,
+      "low": 19.92,
+      "close": 20.08,
+      "volume": 76800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 19.96,
+      "high": 20.72,
+      "low": 19.49,
+      "close": 20.64,
+      "volume": 117700
     }
   ]
 }

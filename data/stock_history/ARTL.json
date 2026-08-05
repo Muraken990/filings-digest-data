@@ -1,18 +1,10 @@
 {
   "code": "ARTL",
   "ticker": "ARTL",
-  "last_updated": "2026-08-04 07:11:49",
+  "last_updated": "2026-08-05 07:12:31",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 248.4,
-      "high": 265.68,
-      "low": 246.78,
-      "close": 259.2,
-      "volume": 2210
-    },
     {
       "date": "2021-08-05",
       "open": 254.34,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 126285
+      "open": 0.76,
+      "high": 0.8,
+      "low": 0.74,
+      "close": 0.74,
+      "volume": 128800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.75,
+      "high": 0.77,
+      "low": 0.74,
+      "close": 0.76,
+      "volume": 119200
     }
   ]
 }

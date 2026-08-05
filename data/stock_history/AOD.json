@@ -1,18 +1,10 @@
 {
   "code": "AOD",
   "ticker": "AOD",
-  "last_updated": "2026-08-04 07:10:07",
+  "last_updated": "2026-08-05 07:10:50",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 6.19,
-      "high": 6.21,
-      "low": 6.17,
-      "close": 6.18,
-      "volume": 171800
-    },
     {
       "date": "2021-08-05",
       "open": 6.2,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 575701
+      "open": 10.58,
+      "high": 10.59,
+      "low": 10.48,
+      "close": 10.5,
+      "volume": 576000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.52,
+      "high": 10.69,
+      "low": 10.48,
+      "close": 10.67,
+      "volume": 559800
     }
   ]
 }

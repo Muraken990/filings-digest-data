@@ -1,18 +1,10 @@
 {
   "code": "CAR",
   "ticker": "CAR",
-  "last_updated": "2026-08-04 07:21:17",
+  "last_updated": "2026-08-05 07:21:57",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 83.61,
-      "high": 84.87,
-      "low": 70.55,
-      "close": 71.21,
-      "volume": 5750200
-    },
     {
       "date": "2021-08-05",
       "open": 73.58,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 520038
+      "open": 136.57,
+      "high": 140.29,
+      "low": 135.0,
+      "close": 138.88,
+      "volume": 520300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 139.75,
+      "high": 141.79,
+      "low": 133.56,
+      "close": 141.13,
+      "volume": 641100
     }
   ]
 }

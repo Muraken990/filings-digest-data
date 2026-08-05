@@ -1,18 +1,10 @@
 {
   "code": "CHGG",
   "ticker": "CHGG",
-  "last_updated": "2026-08-04 07:23:50",
+  "last_updated": "2026-08-05 07:24:30",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 88.88,
-      "high": 89.69,
-      "low": 87.41,
-      "close": 88.56,
-      "volume": 667700
-    },
     {
       "date": "2021-08-05",
       "open": 88.8,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 963792
+      "open": 0.97,
+      "high": 1.06,
+      "low": 0.97,
+      "close": 1.02,
+      "volume": 965100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.98,
+      "high": 1.06,
+      "low": 0.98,
+      "close": 1.03,
+      "volume": 819400
     }
   ]
 }

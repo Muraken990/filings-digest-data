@@ -1,18 +1,10 @@
 {
   "code": "EP",
   "ticker": "EP",
-  "last_updated": "2026-08-04 07:36:41",
+  "last_updated": "2026-08-05 07:37:18",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 6.56,
-      "high": 6.56,
-      "low": 6.48,
-      "close": 6.48,
-      "volume": 2550
-    },
     {
       "date": "2021-08-05",
       "open": 6.48,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 36695
+      "open": 2.46,
+      "high": 2.53,
+      "low": 2.46,
+      "close": 2.52,
+      "volume": 38600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.46,
+      "high": 2.6,
+      "low": 2.46,
+      "close": 2.47,
+      "volume": 25400
     }
   ]
 }

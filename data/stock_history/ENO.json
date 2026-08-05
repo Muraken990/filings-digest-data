@@ -1,18 +1,10 @@
 {
   "code": "ENO",
   "ticker": "ENO",
-  "last_updated": "2026-08-04 07:35:53",
+  "last_updated": "2026-08-05 07:36:30",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 23.99,
-      "high": 24.0,
-      "low": 23.98,
-      "close": 24.0,
-      "volume": 3600
-    },
     {
       "date": "2021-08-05",
       "open": 24.06,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1241
+      "open": 21.12,
+      "high": 21.12,
+      "low": 21.08,
+      "close": 21.08,
+      "volume": 1200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 21.17,
+      "high": 21.17,
+      "low": 21.1,
+      "close": 21.14,
+      "volume": 7300
     }
   ]
 }

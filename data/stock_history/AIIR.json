@@ -1,9 +1,9 @@
 {
   "code": "AIIR",
   "ticker": "AIIR",
-  "last_updated": "2026-08-04 07:07:32",
+  "last_updated": "2026-08-05 07:08:15",
   "period": "5y",
-  "data_points": 277,
+  "data_points": 278,
   "data": [
     {
       "date": "2025-06-26",
@@ -2215,11 +2215,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7527
+      "open": 5.79,
+      "high": 6.62,
+      "low": 5.79,
+      "close": 6.62,
+      "volume": 7600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 6.29,
+      "high": 6.55,
+      "low": 6.01,
+      "close": 6.12,
+      "volume": 8500
     }
   ]
 }

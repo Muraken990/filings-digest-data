@@ -1,18 +1,10 @@
 {
   "code": "CZWI",
   "ticker": "CZWI",
-  "last_updated": "2026-08-04 07:29:53",
+  "last_updated": "2026-08-05 07:30:32",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 12.46,
-      "high": 12.49,
-      "low": 12.22,
-      "close": 12.49,
-      "volume": 8000
-    },
     {
       "date": "2021-08-05",
       "open": 12.48,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 64212
+      "open": 22.06,
+      "high": 22.42,
+      "low": 21.56,
+      "close": 21.9,
+      "volume": 64900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 21.81,
+      "high": 22.12,
+      "low": 21.55,
+      "close": 21.87,
+      "volume": 41000
     }
   ]
 }

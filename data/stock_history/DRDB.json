@@ -1,9 +1,9 @@
 {
   "code": "DRDB",
   "ticker": "DRDB",
-  "last_updated": "2026-08-04 07:32:26",
+  "last_updated": "2026-08-05 07:33:05",
   "period": "5y",
-  "data_points": 376,
+  "data_points": 377,
   "data": [
     {
       "date": "2025-02-03",
@@ -3007,11 +3007,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 938
+      "open": 10.59,
+      "high": 10.64,
+      "low": 10.59,
+      "close": 10.64,
+      "volume": 900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.65,
+      "high": 10.65,
+      "low": 10.59,
+      "close": 10.59,
+      "volume": 3500
     }
   ]
 }

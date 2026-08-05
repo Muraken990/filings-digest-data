@@ -1,18 +1,10 @@
 {
   "code": "AYTU",
   "ticker": "AYTU",
-  "last_updated": "2026-08-04 07:14:22",
+  "last_updated": "2026-08-05 07:15:03",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 78.0,
-      "high": 78.2,
-      "low": 75.2,
-      "close": 76.6,
-      "volume": 26345
-    },
     {
       "date": "2021-08-05",
       "open": 77.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 23371
+      "open": 2.25,
+      "high": 2.28,
+      "low": 2.23,
+      "close": 2.25,
+      "volume": 23400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.26,
+      "high": 2.3,
+      "low": 2.2,
+      "close": 2.21,
+      "volume": 22200
     }
   ]
 }

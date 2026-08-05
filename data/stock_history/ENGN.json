@@ -1,9 +1,9 @@
 {
   "code": "ENGN",
   "ticker": "ENGN",
-  "last_updated": "2026-08-04 07:35:52",
+  "last_updated": "2026-08-05 07:36:29",
   "period": "5y",
-  "data_points": 1129,
+  "data_points": 1130,
   "data": [
     {
       "date": "2022-02-01",
@@ -9031,11 +9031,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 525372
+      "open": 1.79,
+      "high": 1.8,
+      "low": 1.73,
+      "close": 1.77,
+      "volume": 525500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.78,
+      "high": 1.83,
+      "low": 1.77,
+      "close": 1.79,
+      "volume": 640800
     }
   ]
 }

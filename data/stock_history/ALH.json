@@ -1,9 +1,9 @@
 {
   "code": "ALH",
   "ticker": "ALH",
-  "last_updated": "2026-08-04 07:08:23",
+  "last_updated": "2026-08-05 07:09:07",
   "period": "5y",
-  "data_points": 204,
+  "data_points": 205,
   "data": [
     {
       "date": "2025-10-09",
@@ -1631,11 +1631,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 332908
+      "open": 26.68,
+      "high": 27.07,
+      "low": 26.14,
+      "close": 26.58,
+      "volume": 339400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 26.98,
+      "high": 28.16,
+      "low": 26.65,
+      "close": 27.92,
+      "volume": 782800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ANL",
   "ticker": "ANL",
-  "last_updated": "2026-08-04 07:10:06",
+  "last_updated": "2026-08-05 07:10:49",
   "period": "5y",
-  "data_points": 712,
+  "data_points": 713,
   "data": [
     {
       "date": "2023-09-29",
@@ -5695,11 +5695,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 216575
+      "open": 12.99,
+      "high": 13.41,
+      "low": 12.7,
+      "close": 12.99,
+      "volume": 216600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 12.87,
+      "high": 13.88,
+      "low": 12.1,
+      "close": 13.0,
+      "volume": 179100
     }
   ]
 }

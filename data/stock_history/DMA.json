@@ -1,9 +1,9 @@
 {
   "code": "DMA",
   "ticker": "DMA",
-  "last_updated": "2026-08-04 07:31:36",
+  "last_updated": "2026-08-05 07:32:15",
   "period": "5y",
-  "data_points": 1141,
+  "data_points": 1142,
   "data": [
     {
       "date": "2022-01-13",
@@ -9127,11 +9127,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 13518
+      "open": 7.54,
+      "high": 7.54,
+      "low": 7.47,
+      "close": 7.5,
+      "volume": 14300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 7.51,
+      "high": 7.59,
+      "low": 7.5,
+      "close": 7.51,
+      "volume": 14500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "DXST",
   "ticker": "DXST",
-  "last_updated": "2026-08-04 07:33:19",
+  "last_updated": "2026-08-05 07:33:58",
   "period": "5y",
-  "data_points": 384,
+  "data_points": 385,
   "data": [
     {
       "date": "2025-01-22",
@@ -3071,11 +3071,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 14893
+      "open": 2.33,
+      "high": 2.42,
+      "low": 2.25,
+      "close": 2.26,
+      "volume": 4341400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.99,
+      "high": 3.23,
+      "low": 2.66,
+      "close": 2.71,
+      "volume": 11909000
     }
   ]
 }

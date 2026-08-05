@@ -1,9 +1,9 @@
 {
   "code": "AAUC",
   "ticker": "AAUC",
-  "last_updated": "2026-08-04 07:04:09",
+  "last_updated": "2026-08-05 07:04:52",
   "period": "5y",
-  "data_points": 492,
+  "data_points": 493,
   "data": [
     {
       "date": "2024-08-15",
@@ -3935,11 +3935,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 760762
+      "open": 18.15,
+      "high": 19.37,
+      "low": 18.06,
+      "close": 19.1,
+      "volume": 799000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 19.41,
+      "high": 19.41,
+      "low": 18.28,
+      "close": 18.82,
+      "volume": 1626500
     }
   ]
 }

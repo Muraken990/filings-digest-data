@@ -1,9 +1,9 @@
 {
   "code": "CEPF",
   "ticker": "CEPF",
-  "last_updated": "2026-08-04 07:23:00",
+  "last_updated": "2026-08-05 07:23:40",
   "period": "5y",
-  "data_points": 238,
+  "data_points": 239,
   "data": [
     {
       "date": "2025-08-21",
@@ -1903,11 +1903,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 9738
+      "open": 10.4,
+      "high": 10.41,
+      "low": 10.4,
+      "close": 10.4,
+      "volume": 9700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.39,
+      "high": 10.48,
+      "low": 10.39,
+      "close": 10.41,
+      "volume": 7900
     }
   ]
 }

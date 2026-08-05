@@ -1,9 +1,9 @@
 {
   "code": "CPBI",
   "ticker": "CPBI",
-  "last_updated": "2026-08-04 07:27:16",
+  "last_updated": "2026-08-05 07:27:56",
   "period": "5y",
-  "data_points": 697,
+  "data_points": 698,
   "data": [
     {
       "date": "2023-10-20",
@@ -5575,11 +5575,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2279
+      "open": 20.19,
+      "high": 20.5,
+      "low": 20.19,
+      "close": 20.3,
+      "volume": 2400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 20.45,
+      "high": 20.91,
+      "low": 20.45,
+      "close": 20.73,
+      "volume": 6300
     }
   ]
 }

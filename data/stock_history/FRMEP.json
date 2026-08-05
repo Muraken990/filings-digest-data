@@ -1,18 +1,10 @@
 {
   "code": "FRMEP",
   "ticker": "FRMEP",
-  "last_updated": "2026-08-04 07:41:50",
+  "last_updated": "2026-08-05 07:42:26",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 18.96,
-      "high": 19.38,
-      "low": 18.96,
-      "close": 19.1,
-      "volume": 2400
-    },
     {
       "date": "2021-08-05",
       "open": 19.04,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2840
+      "open": 25.05,
+      "high": 25.05,
+      "low": 25.05,
+      "close": 25.05,
+      "volume": 2800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 25.05,
+      "high": 25.05,
+      "low": 25.05,
+      "close": 25.05,
+      "volume": 0
     }
   ]
 }

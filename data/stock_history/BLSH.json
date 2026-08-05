@@ -1,9 +1,9 @@
 {
   "code": "BLSH",
   "ticker": "BLSH",
-  "last_updated": "2026-08-04 07:17:50",
+  "last_updated": "2026-08-05 07:18:31",
   "period": "5y",
-  "data_points": 244,
+  "data_points": 245,
   "data": [
     {
       "date": "2025-08-13",
@@ -1947,15 +1947,23 @@
       "high": 22.21,
       "low": 20.55,
       "close": 21.79,
-      "volume": 3253400
+      "volume": 3256300
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1335586
+      "open": 21.52,
+      "high": 23.27,
+      "low": 21.35,
+      "close": 22.93,
+      "volume": 1509700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 23.06,
+      "high": 23.85,
+      "low": 22.64,
+      "close": 23.8,
+      "volume": 892900
     }
   ]
 }

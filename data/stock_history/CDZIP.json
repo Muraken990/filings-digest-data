@@ -1,18 +1,10 @@
 {
   "code": "CDZIP",
   "ticker": "CDZIP",
-  "last_updated": "2026-08-04 07:22:58",
+  "last_updated": "2026-08-05 07:23:38",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 12.96,
-      "high": 12.99,
-      "low": 12.96,
-      "close": 12.96,
-      "volume": 6400
-    },
     {
       "date": "2021-08-05",
       "open": 13.01,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5764
+      "open": 22.38,
+      "high": 22.38,
+      "low": 22.28,
+      "close": 22.3,
+      "volume": 5800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 22.38,
+      "high": 22.38,
+      "low": 22.21,
+      "close": 22.3,
+      "volume": 6800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CURB",
   "ticker": "CURB",
-  "last_updated": "2026-08-04 07:29:00",
+  "last_updated": "2026-08-05 07:29:40",
   "period": "5y",
-  "data_points": 463,
+  "data_points": 464,
   "data": [
     {
       "date": "2024-09-26",
@@ -3703,11 +3703,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1061801
+      "open": 30.52,
+      "high": 30.91,
+      "low": 30.25,
+      "close": 30.25,
+      "volume": 1488800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 30.03,
+      "high": 30.5,
+      "low": 29.57,
+      "close": 30.05,
+      "volume": 1206200
     }
   ]
 }

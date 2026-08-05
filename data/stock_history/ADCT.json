@@ -1,18 +1,10 @@
 {
   "code": "ADCT",
   "ticker": "ADCT",
-  "last_updated": "2026-08-04 07:05:04",
+  "last_updated": "2026-08-05 07:05:47",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 22.1,
-      "high": 24.23,
-      "low": 22.1,
-      "close": 23.81,
-      "volume": 462200
-    },
     {
       "date": "2021-08-05",
       "open": 24.33,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 665094
+      "open": 1.07,
+      "high": 1.08,
+      "low": 1.03,
+      "close": 1.05,
+      "volume": 866400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.05,
+      "high": 1.12,
+      "low": 1.04,
+      "close": 1.1,
+      "volume": 1368000
     }
   ]
 }

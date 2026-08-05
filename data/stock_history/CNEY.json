@@ -1,18 +1,10 @@
 {
   "code": "CNEY",
   "ticker": "CNEY",
-  "last_updated": "2026-08-04 07:26:22",
+  "last_updated": "2026-08-05 07:27:01",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 4837.5,
-      "high": 5032.5,
-      "low": 4657.5,
-      "close": 4792.5,
-      "volume": 16
-    },
     {
       "date": "2021-08-05",
       "open": 4725.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 62968
+      "open": 0.61,
+      "high": 0.61,
+      "low": 0.55,
+      "close": 0.58,
+      "volume": 67700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 0.56,
+      "high": 0.64,
+      "low": 0.55,
+      "close": 0.61,
+      "volume": 104100
     }
   ]
 }

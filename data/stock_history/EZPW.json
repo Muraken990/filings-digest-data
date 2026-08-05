@@ -1,18 +1,10 @@
 {
   "code": "EZPW",
   "ticker": "EZPW",
-  "last_updated": "2026-08-04 07:38:26",
+  "last_updated": "2026-08-05 07:39:03",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 5.52,
-      "high": 5.68,
-      "low": 5.51,
-      "close": 5.64,
-      "volume": 515400
-    },
     {
       "date": "2021-08-05",
       "open": 5.58,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 466414
+      "open": 29.57,
+      "high": 30.46,
+      "low": 29.57,
+      "close": 30.24,
+      "volume": 466500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 30.42,
+      "high": 31.36,
+      "low": 30.38,
+      "close": 31.0,
+      "volume": 879300
     }
   ]
 }

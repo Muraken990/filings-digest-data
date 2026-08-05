@@ -1,18 +1,10 @@
 {
   "code": "ELLO",
   "ticker": "ELLO",
-  "last_updated": "2026-08-04 07:35:02",
+  "last_updated": "2026-08-05 07:35:40",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 28.15,
-      "high": 28.4,
-      "low": 28.15,
-      "close": 28.4,
-      "volume": 1400
-    },
     {
       "date": "2021-08-05",
       "open": 28.37,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6233
+      "open": 20.0,
+      "high": 20.75,
+      "low": 19.8,
+      "close": 20.75,
+      "volume": 6200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 20.05,
+      "high": 20.1,
+      "low": 19.41,
+      "close": 19.41,
+      "volume": 5500
     }
   ]
 }

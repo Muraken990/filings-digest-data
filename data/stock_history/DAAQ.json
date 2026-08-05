@@ -1,9 +1,9 @@
 {
   "code": "DAAQ",
   "ticker": "DAAQ",
-  "last_updated": "2026-08-04 07:29:53",
+  "last_updated": "2026-08-05 07:30:32",
   "period": "5y",
-  "data_points": 294,
+  "data_points": 295,
   "data": [
     {
       "date": "2025-06-02",
@@ -2351,11 +2351,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 39622
+      "open": 8.7,
+      "high": 9.15,
+      "low": 7.85,
+      "close": 8.8,
+      "volume": 39600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 9.0,
+      "high": 9.38,
+      "low": 9.0,
+      "close": 9.0,
+      "volume": 4900
     }
   ]
 }

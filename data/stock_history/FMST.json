@@ -1,9 +1,9 @@
 {
   "code": "FMST",
   "ticker": "FMST",
-  "last_updated": "2026-08-04 07:41:00",
+  "last_updated": "2026-08-05 07:41:36",
   "period": "5y",
-  "data_points": 773,
+  "data_points": 774,
   "data": [
     {
       "date": "2023-07-05",
@@ -6183,11 +6183,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 183798
+      "open": 1.39,
+      "high": 1.39,
+      "low": 1.27,
+      "close": 1.32,
+      "volume": 184400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.33,
+      "high": 1.45,
+      "low": 1.33,
+      "close": 1.43,
+      "volume": 114500
     }
   ]
 }

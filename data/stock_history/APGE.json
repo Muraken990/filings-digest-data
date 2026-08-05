@@ -1,9 +1,9 @@
 {
   "code": "APGE",
   "ticker": "APGE",
-  "last_updated": "2026-08-04 07:10:09",
+  "last_updated": "2026-08-05 07:10:52",
   "period": "5y",
-  "data_points": 766,
+  "data_points": 767,
   "data": [
     {
       "date": "2023-07-14",
@@ -6127,11 +6127,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1054832
+      "open": 134.12,
+      "high": 134.17,
+      "low": 134.03,
+      "close": 134.11,
+      "volume": 1059800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 134.17,
+      "high": 134.33,
+      "low": 134.09,
+      "close": 134.19,
+      "volume": 2377900
     }
   ]
 }

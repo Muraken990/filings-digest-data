@@ -1,9 +1,9 @@
 {
   "code": "CBLL",
   "ticker": "CBLL",
-  "last_updated": "2026-08-04 07:22:05",
+  "last_updated": "2026-08-05 07:22:45",
   "period": "5y",
-  "data_points": 452,
+  "data_points": 453,
   "data": [
     {
       "date": "2024-10-11",
@@ -3615,11 +3615,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 530672
+      "open": 18.0,
+      "high": 18.72,
+      "low": 18.0,
+      "close": 18.31,
+      "volume": 536700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 18.31,
+      "high": 18.66,
+      "low": 18.01,
+      "close": 18.52,
+      "volume": 326800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CLDI",
   "ticker": "CLDI",
-  "last_updated": "2026-08-04 07:24:43",
+  "last_updated": "2026-08-05 07:25:23",
   "period": "5y",
-  "data_points": 1192,
+  "data_points": 1193,
   "data": [
     {
       "date": "2021-11-01",
@@ -9535,11 +9535,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 248578
+      "open": 1.62,
+      "high": 1.69,
+      "low": 1.53,
+      "close": 1.68,
+      "volume": 264500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.63,
+      "high": 1.91,
+      "low": 1.63,
+      "close": 1.89,
+      "volume": 271400
     }
   ]
 }

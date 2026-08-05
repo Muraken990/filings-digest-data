@@ -1,9 +1,9 @@
 {
   "code": "ADAMH",
   "ticker": "ADAMH",
-  "last_updated": "2026-08-04 07:05:03",
+  "last_updated": "2026-08-05 07:05:46",
   "period": "5y",
-  "data_points": 269,
+  "data_points": 270,
   "data": [
     {
       "date": "2025-07-09",
@@ -2151,11 +2151,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 17994
+      "open": 25.37,
+      "high": 25.39,
+      "low": 25.33,
+      "close": 25.33,
+      "volume": 18000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 25.36,
+      "high": 25.38,
+      "low": 25.35,
+      "close": 25.35,
+      "volume": 23700
     }
   ]
 }

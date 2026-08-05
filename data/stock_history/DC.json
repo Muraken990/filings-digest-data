@@ -1,9 +1,9 @@
 {
   "code": "DC",
   "ticker": "DC",
-  "last_updated": "2026-08-04 07:30:41",
+  "last_updated": "2026-08-05 07:31:20",
   "period": "5y",
-  "data_points": 1085,
+  "data_points": 1086,
   "data": [
     {
       "date": "2022-04-05",
@@ -8679,11 +8679,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1289402
+      "open": 4.55,
+      "high": 4.78,
+      "low": 4.52,
+      "close": 4.7,
+      "volume": 1439700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 4.79,
+      "high": 5.03,
+      "low": 4.79,
+      "close": 5.02,
+      "volume": 1448700
     }
   ]
 }

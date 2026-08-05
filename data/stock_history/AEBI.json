@@ -1,9 +1,9 @@
 {
   "code": "AEBI",
   "ticker": "AEBI",
-  "last_updated": "2026-08-04 07:05:51",
+  "last_updated": "2026-08-05 07:06:35",
   "period": "5y",
-  "data_points": 273,
+  "data_points": 274,
   "data": [
     {
       "date": "2025-07-02",
@@ -2183,11 +2183,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 255083
+      "open": 13.12,
+      "high": 13.41,
+      "low": 13.02,
+      "close": 13.31,
+      "volume": 258800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 13.49,
+      "high": 13.63,
+      "low": 13.18,
+      "close": 13.37,
+      "volume": 237400
     }
   ]
 }

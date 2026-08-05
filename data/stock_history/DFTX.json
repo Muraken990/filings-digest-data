@@ -1,18 +1,10 @@
 {
   "code": "DFTX",
   "ticker": "DFTX",
-  "last_updated": "2026-08-04 07:31:31",
+  "last_updated": "2026-08-05 07:32:10",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 44.55,
-      "high": 45.0,
-      "low": 43.2,
-      "close": 43.8,
-      "volume": 266300
-    },
     {
       "date": "2021-08-05",
       "open": 44.85,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1899994
+      "open": 42.87,
+      "high": 43.52,
+      "low": 41.51,
+      "close": 41.79,
+      "volume": 1902500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 42.65,
+      "high": 43.08,
+      "low": 41.86,
+      "close": 42.32,
+      "volume": 1862100
     }
   ]
 }

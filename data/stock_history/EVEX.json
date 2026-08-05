@@ -1,9 +1,9 @@
 {
   "code": "EVEX",
   "ticker": "EVEX",
-  "last_updated": "2026-08-04 07:37:36",
+  "last_updated": "2026-08-05 07:38:13",
   "period": "5y",
-  "data_points": 1061,
+  "data_points": 1062,
   "data": [
     {
       "date": "2022-05-10",
@@ -8487,11 +8487,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 592598
+      "open": 2.35,
+      "high": 2.43,
+      "low": 2.35,
+      "close": 2.4,
+      "volume": 729900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.58,
+      "high": 2.9,
+      "low": 2.58,
+      "close": 2.86,
+      "volume": 2618600
     }
   ]
 }

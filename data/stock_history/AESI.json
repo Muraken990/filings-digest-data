@@ -1,9 +1,9 @@
 {
   "code": "AESI",
   "ticker": "AESI",
-  "last_updated": "2026-08-04 07:05:54",
+  "last_updated": "2026-08-05 07:06:37",
   "period": "5y",
-  "data_points": 853,
+  "data_points": 854,
   "data": [
     {
       "date": "2023-03-09",
@@ -6819,15 +6819,23 @@
       "high": 10.88,
       "low": 10.01,
       "close": 10.79,
-      "volume": 3313600
+      "volume": 3315000
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3510967
+      "open": 10.44,
+      "high": 11.06,
+      "low": 10.3,
+      "close": 10.93,
+      "volume": 3979300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 9.91,
+      "high": 11.21,
+      "low": 9.53,
+      "close": 10.93,
+      "volume": 9409400
     }
   ]
 }

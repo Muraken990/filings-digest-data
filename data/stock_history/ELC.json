@@ -1,9 +1,9 @@
 {
   "code": "ELC",
   "ticker": "ELC",
-  "last_updated": "2026-08-04 07:35:02",
+  "last_updated": "2026-08-05 07:35:39",
   "period": "5y",
-  "data_points": 1145,
+  "data_points": 1146,
   "data": [
     {
       "date": "2022-01-07",
@@ -5767,10 +5767,10 @@
     },
     {
       "date": "2024-11-19",
-      "open": 19.77,
+      "open": 19.76,
       "high": 19.84,
       "low": 19.74,
-      "close": 19.77,
+      "close": 19.76,
       "volume": 14700
     },
     {
@@ -9159,11 +9159,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6877
+      "open": 20.02,
+      "high": 20.02,
+      "low": 19.98,
+      "close": 20.0,
+      "volume": 6900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 20.02,
+      "high": 20.02,
+      "low": 20.0,
+      "close": 20.0,
+      "volume": 12200
     }
   ]
 }

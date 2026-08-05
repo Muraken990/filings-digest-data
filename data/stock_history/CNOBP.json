@@ -1,9 +1,9 @@
 {
   "code": "CNOBP",
   "ticker": "CNOBP",
-  "last_updated": "2026-08-04 07:26:24",
+  "last_updated": "2026-08-05 07:27:03",
   "period": "5y",
-  "data_points": 1247,
+  "data_points": 1248,
   "data": [
     {
       "date": "2021-08-13",
@@ -9975,11 +9975,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 22186
+      "open": 25.25,
+      "high": 25.38,
+      "low": 25.25,
+      "close": 25.36,
+      "volume": 22300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 25.34,
+      "high": 25.45,
+      "low": 25.34,
+      "close": 25.37,
+      "volume": 23200
     }
   ]
 }

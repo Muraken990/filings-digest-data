@@ -1,9 +1,9 @@
 {
   "code": "FBLA",
   "ticker": "FBLA",
-  "last_updated": "2026-08-04 07:38:29",
+  "last_updated": "2026-08-05 07:39:06",
   "period": "5y",
-  "data_points": 444,
+  "data_points": 445,
   "data": [
     {
       "date": "2024-10-23",
@@ -3551,11 +3551,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 52495
+      "open": 15.51,
+      "high": 15.75,
+      "low": 15.31,
+      "close": 15.54,
+      "volume": 52600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 15.47,
+      "high": 15.91,
+      "low": 15.4,
+      "close": 15.86,
+      "volume": 112900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "BLLN",
   "ticker": "BLLN",
-  "last_updated": "2026-08-04 07:17:49",
+  "last_updated": "2026-08-05 07:18:30",
   "period": "5y",
-  "data_points": 184,
+  "data_points": 185,
   "data": [
     {
       "date": "2025-11-06",
@@ -1471,11 +1471,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 842228
+      "open": 138.11,
+      "high": 139.88,
+      "low": 132.0,
+      "close": 137.32,
+      "volume": 843200
+    },
+    {
+      "date": "2026-08-04",
+      "open": 138.01,
+      "high": 144.27,
+      "low": 136.32,
+      "close": 142.25,
+      "volume": 657300
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "EAT",
   "ticker": "EAT",
-  "last_updated": "2026-08-04 07:34:06",
+  "last_updated": "2026-08-05 07:34:44",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 52.67,
-      "high": 54.09,
-      "low": 52.32,
-      "close": 52.99,
-      "volume": 810000
-    },
     {
       "date": "2021-08-05",
       "open": 53.64,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1638928
+      "open": 215.75,
+      "high": 225.5,
+      "low": 215.37,
+      "close": 225.3,
+      "volume": 1639400
+    },
+    {
+      "date": "2026-08-04",
+      "open": 222.12,
+      "high": 225.5,
+      "low": 217.09,
+      "close": 218.25,
+      "volume": 1335700
     }
   ]
 }

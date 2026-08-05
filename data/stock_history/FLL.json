@@ -1,18 +1,10 @@
 {
   "code": "FLL",
   "ticker": "FLL",
-  "last_updated": "2026-08-04 07:40:11",
+  "last_updated": "2026-08-05 07:40:48",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 7.98,
-      "high": 8.16,
-      "low": 7.68,
-      "close": 7.71,
-      "volume": 187400
-    },
     {
       "date": "2021-08-05",
       "open": 7.71,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 84025
+      "open": 2.22,
+      "high": 2.34,
+      "low": 2.22,
+      "close": 2.29,
+      "volume": 84000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.25,
+      "high": 2.3,
+      "low": 2.25,
+      "close": 2.28,
+      "volume": 63800
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "BCAT",
   "ticker": "BCAT",
-  "last_updated": "2026-08-04 07:15:16",
+  "last_updated": "2026-08-05 07:15:57",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 10.71,
-      "high": 10.78,
-      "low": 10.69,
-      "close": 10.72,
-      "volume": 90500
-    },
     {
       "date": "2021-08-05",
       "open": 10.74,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 740328
+      "open": 15.8,
+      "high": 15.92,
+      "low": 15.77,
+      "close": 15.86,
+      "volume": 742000
+    },
+    {
+      "date": "2026-08-04",
+      "open": 15.88,
+      "high": 16.07,
+      "low": 15.87,
+      "close": 16.03,
+      "volume": 774200
     }
   ]
 }

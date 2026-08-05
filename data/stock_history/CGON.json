@@ -1,9 +1,9 @@
 {
   "code": "CGON",
   "ticker": "CGON",
-  "last_updated": "2026-08-04 07:23:49",
+  "last_updated": "2026-08-05 07:24:28",
   "period": "5y",
-  "data_points": 632,
+  "data_points": 633,
   "data": [
     {
       "date": "2024-01-25",
@@ -5055,11 +5055,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 626074
+      "open": 71.29,
+      "high": 71.29,
+      "low": 68.08,
+      "close": 69.15,
+      "volume": 626100
+    },
+    {
+      "date": "2026-08-04",
+      "open": 69.62,
+      "high": 72.64,
+      "low": 69.62,
+      "close": 71.4,
+      "volume": 883300
     }
   ]
 }

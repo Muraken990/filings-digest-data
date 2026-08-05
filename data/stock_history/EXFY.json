@@ -1,9 +1,9 @@
 {
   "code": "EXFY",
   "ticker": "EXFY",
-  "last_updated": "2026-08-04 07:38:24",
+  "last_updated": "2026-08-05 07:39:01",
   "period": "5y",
-  "data_points": 1185,
+  "data_points": 1186,
   "data": [
     {
       "date": "2021-11-10",
@@ -9479,11 +9479,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 453766
+      "open": 1.85,
+      "high": 1.88,
+      "low": 1.83,
+      "close": 1.85,
+      "volume": 455600
+    },
+    {
+      "date": "2026-08-04",
+      "open": 1.85,
+      "high": 1.96,
+      "low": 1.84,
+      "close": 1.93,
+      "volume": 1046700
     }
   ]
 }

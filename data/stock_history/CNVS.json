@@ -1,18 +1,10 @@
 {
   "code": "CNVS",
   "ticker": "CNVS",
-  "last_updated": "2026-08-04 07:26:25",
+  "last_updated": "2026-08-05 07:27:04",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 30.8,
-      "high": 31.8,
-      "low": 29.6,
-      "close": 30.0,
-      "volume": 446285
-    },
     {
       "date": "2021-08-05",
       "open": 30.2,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 48507
+      "open": 2.41,
+      "high": 2.55,
+      "low": 2.4,
+      "close": 2.5,
+      "volume": 48500
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.5,
+      "high": 2.71,
+      "low": 2.48,
+      "close": 2.71,
+      "volume": 116400
     }
   ]
 }

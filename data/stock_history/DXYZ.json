@@ -1,9 +1,9 @@
 {
   "code": "DXYZ",
   "ticker": "DXYZ",
-  "last_updated": "2026-08-04 07:33:19",
+  "last_updated": "2026-08-05 07:33:58",
   "period": "5y",
-  "data_points": 590,
+  "data_points": 591,
   "data": [
     {
       "date": "2024-03-26",
@@ -4719,11 +4719,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 723918
+      "open": 22.72,
+      "high": 24.15,
+      "low": 22.5,
+      "close": 23.8,
+      "volume": 747300
+    },
+    {
+      "date": "2026-08-04",
+      "open": 23.9,
+      "high": 24.69,
+      "low": 23.56,
+      "close": 24.2,
+      "volume": 1030600
     }
   ]
 }

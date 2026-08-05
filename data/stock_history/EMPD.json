@@ -1,9 +1,9 @@
 {
   "code": "EMPD",
   "ticker": "EMPD",
-  "last_updated": "2026-08-04 07:35:51",
+  "last_updated": "2026-08-05 07:36:29",
   "period": "5y",
-  "data_points": 1210,
+  "data_points": 1211,
   "data": [
     {
       "date": "2021-10-06",
@@ -9679,11 +9679,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 156905
+      "open": 2.81,
+      "high": 2.91,
+      "low": 2.81,
+      "close": 2.88,
+      "volume": 156900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 2.95,
+      "high": 3.03,
+      "low": 2.91,
+      "close": 2.96,
+      "volume": 321700
     }
   ]
 }

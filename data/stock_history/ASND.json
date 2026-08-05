@@ -1,18 +1,10 @@
 {
   "code": "ASND",
   "ticker": "ASND",
-  "last_updated": "2026-08-04 07:11:52",
+  "last_updated": "2026-08-05 07:12:34",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 123.4,
-      "high": 127.46,
-      "low": 119.26,
-      "close": 123.66,
-      "volume": 209000
-    },
     {
       "date": "2021-08-05",
       "open": 123.65,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 616081
+      "open": 244.68,
+      "high": 245.66,
+      "low": 239.93,
+      "close": 243.45,
+      "volume": 622900
+    },
+    {
+      "date": "2026-08-04",
+      "open": 245.9,
+      "high": 247.98,
+      "low": 239.56,
+      "close": 244.59,
+      "volume": 791800
     }
   ]
 }

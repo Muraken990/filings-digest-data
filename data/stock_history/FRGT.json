@@ -1,18 +1,10 @@
 {
   "code": "FRGT",
   "ticker": "FRGT",
-  "last_updated": "2026-08-04 07:41:50",
+  "last_updated": "2026-08-05 07:42:26",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 1723568.25,
-      "high": 1751101.38,
-      "low": 1653083.75,
-      "close": 1718061.62,
-      "volume": 0
-    },
     {
       "date": "2021-08-05",
       "open": 2334801.75,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 34381
+      "open": 3.07,
+      "high": 3.45,
+      "low": 3.04,
+      "close": 3.25,
+      "volume": 34800
+    },
+    {
+      "date": "2026-08-04",
+      "open": 3.35,
+      "high": 3.5,
+      "low": 3.22,
+      "close": 3.47,
+      "volume": 18000
     }
   ]
 }

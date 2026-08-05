@@ -1,18 +1,10 @@
 {
   "code": "EIC",
   "ticker": "EIC",
-  "last_updated": "2026-08-04 07:35:00",
+  "last_updated": "2026-08-05 07:35:38",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": 8.78,
-      "high": 8.79,
-      "low": 8.77,
-      "close": 8.79,
-      "volume": 3300
-    },
     {
       "date": "2021-08-05",
       "open": 8.8,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 97655
+      "open": 9.99,
+      "high": 10.11,
+      "low": 9.99,
+      "close": 10.04,
+      "volume": 97700
+    },
+    {
+      "date": "2026-08-04",
+      "open": 10.01,
+      "high": 10.09,
+      "low": 10.01,
+      "close": 10.02,
+      "volume": 102700
     }
   ]
 }
