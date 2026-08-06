@@ -1,9 +1,9 @@
 {
   "code": "SAC",
   "ticker": "SAC",
-  "last_updated": "2026-08-05 12:14:41",
+  "last_updated": "2026-08-06 12:10:44",
   "period": "5y",
-  "data_points": 132,
+  "data_points": 133,
   "data": [
     {
       "date": "2026-01-26",
@@ -1060,6 +1060,14 @@
       "low": 10.1,
       "close": 10.1,
       "volume": 1400
+    },
+    {
+      "date": "2026-08-05",
+      "open": 10.11,
+      "high": 10.12,
+      "low": 10.09,
+      "close": 10.1,
+      "volume": 33800
     }
   ]
 }

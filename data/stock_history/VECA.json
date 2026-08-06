@@ -1,9 +1,9 @@
 {
   "code": "VECA",
   "ticker": "VECA",
-  "last_updated": "2026-08-05 12:30:11",
+  "last_updated": "2026-08-06 12:26:24",
   "period": "5y",
-  "data_points": 53,
+  "data_points": 54,
   "data": [
     {
       "date": "2026-05-19",
@@ -428,6 +428,14 @@
       "low": 9.94,
       "close": 9.94,
       "volume": 200
+    },
+    {
+      "date": "2026-08-05",
+      "open": 9.87,
+      "high": 10.0,
+      "low": 9.87,
+      "close": 10.0,
+      "volume": 1900
     }
   ]
 }

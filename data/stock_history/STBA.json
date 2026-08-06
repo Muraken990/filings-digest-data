@@ -1,26 +1,10 @@
 {
   "code": "STBA",
   "ticker": "STBA",
-  "last_updated": "2026-08-05 12:21:30",
+  "last_updated": "2026-08-06 12:17:38",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-04",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-08-05",
-      "open": 24.13,
-      "high": 24.53,
-      "low": 24.1,
-      "close": 24.52,
-      "volume": 107700
-    },
     {
       "date": "2021-08-06",
       "open": 25.01,
@@ -615,7 +599,7 @@
     },
     {
       "date": "2021-11-19",
-      "open": 26.8,
+      "open": 26.81,
       "high": 26.86,
       "low": 26.45,
       "close": 26.75,
@@ -10044,6 +10028,14 @@
       "low": 52.14,
       "close": 52.68,
       "volume": 267400
+    },
+    {
+      "date": "2026-08-05",
+      "open": 52.8,
+      "high": 52.8,
+      "low": 52.28,
+      "close": 52.6,
+      "volume": 156900
     }
   ]
 }
