@@ -1,9 +1,9 @@
 {
   "code": "ECG",
   "ticker": "ECG",
-  "last_updated": "2026-08-05 07:34:46",
+  "last_updated": "2026-08-06 07:35:57",
   "period": "5y",
-  "data_points": 442,
+  "data_points": 443,
   "data": [
     {
       "date": "2024-10-28",
@@ -3540,6 +3540,14 @@
       "low": 132.12,
       "close": 136.16,
       "volume": 967000
+    },
+    {
+      "date": "2026-08-05",
+      "open": 147.16,
+      "high": 155.99,
+      "low": 137.29,
+      "close": 140.75,
+      "volume": 1329400
     }
   ]
 }

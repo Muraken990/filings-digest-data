@@ -1,18 +1,10 @@
 {
   "code": "BLNE",
   "ticker": "BLNE",
-  "last_updated": "2026-08-05 07:18:30",
+  "last_updated": "2026-08-06 07:19:41",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-05",
-      "open": 784.0,
-      "high": 795.8,
-      "low": 770.0,
-      "close": 790.0,
-      "volume": 556
-    },
     {
       "date": "2021-08-06",
       "open": 788.0,
@@ -10035,7 +10027,15 @@
       "high": 1.05,
       "low": 0.98,
       "close": 1.03,
-      "volume": 389100
+      "volume": 391900
+    },
+    {
+      "date": "2026-08-05",
+      "open": 1.03,
+      "high": 1.05,
+      "low": 0.97,
+      "close": 1.01,
+      "volume": 100100
     }
   ]
 }

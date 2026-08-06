@@ -1,9 +1,9 @@
 {
   "code": "CIMP",
   "ticker": "CIMP",
-  "last_updated": "2026-08-05 07:25:20",
+  "last_updated": "2026-08-06 07:26:32",
   "period": "5y",
-  "data_points": 220,
+  "data_points": 221,
   "data": [
     {
       "date": "2025-09-18",
@@ -1764,6 +1764,14 @@
       "low": 25.01,
       "close": 25.04,
       "volume": 3500
+    },
+    {
+      "date": "2026-08-05",
+      "open": 25.05,
+      "high": 25.28,
+      "low": 25.05,
+      "close": 25.2,
+      "volume": 11900
     }
   ]
 }
