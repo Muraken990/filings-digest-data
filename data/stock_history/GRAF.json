@@ -1,9 +1,9 @@
 {
   "code": "GRAF",
   "ticker": "GRAF",
-  "last_updated": "2026-08-05 09:40:59",
+  "last_updated": "2026-08-06 09:39:23",
   "period": "5y",
-  "data_points": 13,
+  "data_points": 14,
   "data": [
     {
       "date": "2026-07-17",
@@ -108,6 +108,14 @@
       "low": 10.9,
       "close": 10.9,
       "volume": 1100
+    },
+    {
+      "date": "2026-08-05",
+      "open": 10.81,
+      "high": 10.83,
+      "low": 10.81,
+      "close": 10.82,
+      "volume": 1000
     }
   ]
 }

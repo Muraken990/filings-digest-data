@@ -1,16 +1,16 @@
 {
   "code": "LSBK",
   "ticker": "LSBK",
-  "last_updated": "2026-08-05 09:56:24",
+  "last_updated": "2026-08-06 09:54:47",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-05",
-      "open": 9.72,
-      "high": 9.72,
-      "low": 9.72,
-      "close": 9.72,
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
       "volume": 0
     },
     {
@@ -10036,6 +10036,14 @@
       "low": 16.97,
       "close": 17.17,
       "volume": 12100
+    },
+    {
+      "date": "2026-08-05",
+      "open": 17.22,
+      "high": 17.25,
+      "low": 17.07,
+      "close": 17.07,
+      "volume": 8100
     }
   ]
 }
