@@ -1,9 +1,9 @@
 {
   "code": "ELMT",
   "ticker": "ELMT",
-  "last_updated": "2026-08-06 07:36:51",
+  "last_updated": "2026-08-07 07:33:29",
   "period": "5y",
-  "data_points": 72,
+  "data_points": 73,
   "data": [
     {
       "date": "2026-04-23",
@@ -579,7 +579,15 @@
       "high": 16.32,
       "low": 15.53,
       "close": 15.81,
-      "volume": 188400
+      "volume": 189000
+    },
+    {
+      "date": "2026-08-06",
+      "open": 15.8,
+      "high": 16.76,
+      "low": 15.49,
+      "close": 16.31,
+      "volume": 155200
     }
   ]
 }

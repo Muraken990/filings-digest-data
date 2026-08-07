@@ -1,26 +1,10 @@
 {
   "code": "CMCO",
   "ticker": "CMCO",
-  "last_updated": "2026-08-06 07:27:24",
+  "last_updated": "2026-08-07 07:24:00",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-05",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-08-06",
-      "open": 43.53,
-      "high": 43.67,
-      "low": 41.97,
-      "close": 43.15,
-      "volume": 72300
-    },
     {
       "date": "2021-08-09",
       "open": 42.64,
@@ -3048,7 +3032,7 @@
     {
       "date": "2023-02-08",
       "open": 36.32,
-      "high": 36.41,
+      "high": 36.4,
       "low": 35.58,
       "close": 35.67,
       "volume": 58000
@@ -3393,7 +3377,7 @@
       "date": "2023-04-12",
       "open": 33.71,
       "high": 34.08,
-      "low": 33.29,
+      "low": 33.28,
       "close": 33.94,
       "volume": 63700
     },
@@ -10044,6 +10028,14 @@
       "low": 20.94,
       "close": 21.5,
       "volume": 801700
+    },
+    {
+      "date": "2026-08-06",
+      "open": 21.5,
+      "high": 22.29,
+      "low": 20.52,
+      "close": 20.76,
+      "volume": 647600
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "COF",
   "ticker": "COF",
-  "last_updated": "2026-08-06 07:28:18",
+  "last_updated": "2026-08-07 07:24:54",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-06",
-      "open": 151.49,
-      "high": 153.93,
-      "low": 150.95,
-      "close": 152.5,
-      "volume": 3394500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-09",
@@ -8087,8 +8087,8 @@
     },
     {
       "date": "2025-08-15",
-      "open": 218.47,
-      "high": 218.47,
+      "open": 218.48,
+      "high": 218.48,
       "low": 211.93,
       "close": 212.88,
       "volume": 4464100
@@ -10036,6 +10036,14 @@
       "low": 216.42,
       "close": 221.63,
       "volume": 3477800
+    },
+    {
+      "date": "2026-08-06",
+      "open": 221.38,
+      "high": 222.32,
+      "low": 219.32,
+      "close": 220.0,
+      "volume": 2589400
     }
   ]
 }
