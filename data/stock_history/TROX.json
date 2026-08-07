@@ -1,17 +1,17 @@
 {
   "code": "TROX",
   "ticker": "TROX",
-  "last_updated": "2026-08-06 12:22:52",
+  "last_updated": "2026-08-07 12:24:52",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-06",
-      "open": 14.92,
-      "high": 15.3,
-      "low": 14.75,
-      "close": 15.03,
-      "volume": 1278600
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-09",
@@ -4281,7 +4281,7 @@
       "date": "2023-09-21",
       "open": 11.63,
       "high": 11.94,
-      "low": 11.55,
+      "low": 11.54,
       "close": 11.81,
       "volume": 1109600
     },
@@ -10036,6 +10036,14 @@
       "low": 5.53,
       "close": 5.85,
       "volume": 4593300
+    },
+    {
+      "date": "2026-08-06",
+      "open": 6.49,
+      "high": 7.11,
+      "low": 6.0,
+      "close": 6.95,
+      "volume": 5291200
     }
   ]
 }

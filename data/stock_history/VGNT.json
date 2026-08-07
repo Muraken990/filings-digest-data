@@ -1,9 +1,9 @@
 {
   "code": "VGNT",
   "ticker": "VGNT",
-  "last_updated": "2026-08-06 12:27:12",
+  "last_updated": "2026-08-07 12:29:06",
   "period": "5y",
-  "data_points": 90,
+  "data_points": 91,
   "data": [
     {
       "date": "2026-03-27",
@@ -724,6 +724,14 @@
       "low": 44.8,
       "close": 45.03,
       "volume": 1234100
+    },
+    {
+      "date": "2026-08-06",
+      "open": 44.66,
+      "high": 44.86,
+      "low": 42.78,
+      "close": 42.82,
+      "volume": 901900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "RYET",
   "ticker": "RYET",
-  "last_updated": "2026-08-06 12:10:42",
+  "last_updated": "2026-08-07 12:12:58",
   "period": "5y",
-  "data_points": 333,
+  "data_points": 334,
   "data": [
     {
       "date": "2025-04-08",
@@ -2667,7 +2667,15 @@
       "high": 1.1,
       "low": 0.99,
       "close": 1.07,
-      "volume": 19400
+      "volume": 20000
+    },
+    {
+      "date": "2026-08-06",
+      "open": 1.08,
+      "high": 1.09,
+      "low": 1.01,
+      "close": 1.05,
+      "volume": 5900
     }
   ]
 }
