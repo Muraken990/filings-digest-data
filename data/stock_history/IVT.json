@@ -1,16 +1,16 @@
 {
   "code": "IVT",
   "ticker": "IVT",
-  "last_updated": "2026-08-06 09:47:58",
+  "last_updated": "2026-08-07 09:47:17",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-06",
-      "open": 1.26,
-      "high": 1.26,
-      "low": 1.26,
-      "close": 1.26,
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
       "volume": 0
     },
     {
@@ -10036,6 +10036,14 @@
       "low": 33.28,
       "close": 33.49,
       "volume": 1015200
+    },
+    {
+      "date": "2026-08-06",
+      "open": 33.71,
+      "high": 33.95,
+      "low": 33.08,
+      "close": 33.3,
+      "volume": 679400
     }
   ]
 }

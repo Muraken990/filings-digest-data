@@ -1,9 +1,9 @@
 {
   "code": "ICON",
   "ticker": "ICON",
-  "last_updated": "2026-08-06 09:44:33",
+  "last_updated": "2026-08-07 09:43:53",
   "period": "5y",
-  "data_points": 518,
+  "data_points": 519,
   "data": [
     {
       "date": "2024-07-12",
@@ -26,13 +26,13 @@
       "open": 627.5,
       "high": 678.59,
       "low": 612.08,
-      "close": 677.69,
+      "close": 677.7,
       "volume": 219
     },
     {
       "date": "2024-07-17",
-      "open": 677.7,
-      "high": 677.7,
+      "open": 677.69,
+      "high": 677.69,
       "low": 641.48,
       "close": 654.39,
       "volume": 160
@@ -4147,7 +4147,15 @@
       "high": 1.08,
       "low": 1.01,
       "close": 1.02,
-      "volume": 27900
+      "volume": 29000
+    },
+    {
+      "date": "2026-08-06",
+      "open": 1.02,
+      "high": 1.05,
+      "low": 0.99,
+      "close": 1.02,
+      "volume": 23600
     }
   ]
 }

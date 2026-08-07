@@ -1,17 +1,17 @@
 {
   "code": "HCC",
   "ticker": "HCC",
-  "last_updated": "2026-08-06 09:41:06",
+  "last_updated": "2026-08-07 09:40:25",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-06",
-      "open": 17.18,
-      "high": 17.55,
-      "low": 16.9,
-      "close": 17.11,
-      "volume": 726500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-09",
@@ -6536,7 +6536,7 @@
     {
       "date": "2024-11-04",
       "open": 64.06,
-      "high": 66.17,
+      "high": 66.18,
       "low": 63.21,
       "close": 64.99,
       "volume": 814300
@@ -10036,6 +10036,14 @@
       "low": 82.46,
       "close": 84.3,
       "volume": 825100
+    },
+    {
+      "date": "2026-08-06",
+      "open": 86.56,
+      "high": 91.27,
+      "low": 83.26,
+      "close": 89.62,
+      "volume": 918400
     }
   ]
 }

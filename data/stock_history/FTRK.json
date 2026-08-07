@@ -1,9 +1,9 @@
 {
   "code": "FTRK",
   "ticker": "FTRK",
-  "last_updated": "2026-08-06 09:35:10",
+  "last_updated": "2026-08-07 09:34:29",
   "period": "5y",
-  "data_points": 301,
+  "data_points": 302,
   "data": [
     {
       "date": "2025-05-23",
@@ -2411,7 +2411,15 @@
       "high": 0.34,
       "low": 0.31,
       "close": 0.31,
-      "volume": 367200
+      "volume": 370500
+    },
+    {
+      "date": "2026-08-06",
+      "open": 0.3,
+      "high": 0.33,
+      "low": 0.29,
+      "close": 0.32,
+      "volume": 148000
     }
   ]
 }
