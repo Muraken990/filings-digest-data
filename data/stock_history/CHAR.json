@@ -1,9 +1,9 @@
 {
   "code": "CHAR",
   "ticker": "CHAR",
-  "last_updated": "2026-08-07 07:22:16",
+  "last_updated": "2026-08-08 07:23:10",
   "period": "5y",
-  "data_points": 423,
+  "data_points": 424,
   "data": [
     {
       "date": "2024-11-26",
@@ -3388,6 +3388,14 @@
       "low": 10.9,
       "close": 10.91,
       "volume": 10400
+    },
+    {
+      "date": "2026-08-07",
+      "open": 10.91,
+      "high": 10.91,
+      "low": 10.91,
+      "close": 10.91,
+      "volume": 0
     }
   ]
 }
