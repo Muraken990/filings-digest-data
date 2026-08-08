@@ -1,9 +1,9 @@
 {
   "code": "TRINI",
   "ticker": "TRINI",
-  "last_updated": "2026-08-07 12:24:50",
+  "last_updated": "2026-08-08 12:23:04",
   "period": "5y",
-  "data_points": 15,
+  "data_points": 16,
   "data": [
     {
       "date": "2026-07-17",
@@ -124,6 +124,14 @@
       "low": 25.26,
       "close": 25.3,
       "volume": 2500
+    },
+    {
+      "date": "2026-08-07",
+      "open": 25.3,
+      "high": 25.3,
+      "low": 25.28,
+      "close": 25.29,
+      "volume": 5200
     }
   ]
 }
