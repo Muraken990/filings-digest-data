@@ -1,9 +1,9 @@
 {
   "code": "NFLX",
   "ticker": "NFLX",
-  "last_updated": "2026-08-07 10:02:41",
+  "last_updated": "2026-08-08 10:00:49",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-09",
@@ -10035,7 +10035,15 @@
       "high": 75.21,
       "low": 73.1,
       "close": 73.69,
-      "volume": 28815600
+      "volume": 28892700
+    },
+    {
+      "date": "2026-08-07",
+      "open": 73.12,
+      "high": 74.5,
+      "low": 73.08,
+      "close": 74.14,
+      "volume": 24783400
     }
   ]
 }

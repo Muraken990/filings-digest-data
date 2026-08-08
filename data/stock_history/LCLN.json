@@ -1,9 +1,9 @@
 {
   "code": "LCLN",
   "ticker": "LCLN",
-  "last_updated": "2026-08-07 09:51:36",
+  "last_updated": "2026-08-08 09:49:45",
   "period": "5y",
-  "data_points": 54,
+  "data_points": 55,
   "data": [
     {
       "date": "2026-05-20",
@@ -435,7 +435,15 @@
       "high": 24.23,
       "low": 21.1,
       "close": 23.41,
-      "volume": 878300
+      "volume": 918000
+    },
+    {
+      "date": "2026-08-07",
+      "open": 23.52,
+      "high": 24.99,
+      "low": 23.52,
+      "close": 24.55,
+      "volume": 445000
     }
   ]
 }
