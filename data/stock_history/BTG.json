@@ -1,26 +1,10 @@
 {
   "code": "BTG",
   "ticker": "BTG",
-  "last_updated": "2026-08-10 07:19:07",
+  "last_updated": "2026-08-11 07:20:03",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 3.16,
-      "high": 3.17,
-      "low": 3.1,
-      "close": 3.12,
-      "volume": 6796200
-    },
-    {
-      "date": "2021-08-10",
-      "open": 3.12,
-      "high": 3.12,
-      "low": 3.06,
-      "close": 3.07,
-      "volume": 5489000
-    },
     {
       "date": "2021-08-11",
       "open": 3.1,
@@ -10043,7 +10027,15 @@
       "high": 5.08,
       "low": 4.35,
       "close": 5.03,
-      "volume": 71351500
+      "volume": 71405400
+    },
+    {
+      "date": "2026-08-10",
+      "open": 5.02,
+      "high": 5.15,
+      "low": 4.93,
+      "close": 5.06,
+      "volume": 32643600
     }
   ]
 }

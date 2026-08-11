@@ -1,9 +1,9 @@
 {
   "code": "DPC",
   "ticker": "DPC",
-  "last_updated": "2026-08-10 07:32:03",
+  "last_updated": "2026-08-11 07:32:53",
   "period": "5y",
-  "data_points": 31,
+  "data_points": 32,
   "data": [
     {
       "date": "2026-06-25",
@@ -252,6 +252,14 @@
       "low": 51.15,
       "close": 52.44,
       "volume": 632100
+    },
+    {
+      "date": "2026-08-10",
+      "open": 54.82,
+      "high": 54.82,
+      "low": 50.76,
+      "close": 51.48,
+      "volume": 911900
     }
   ]
 }

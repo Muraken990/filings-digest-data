@@ -1,26 +1,10 @@
 {
   "code": "EDSA",
   "ticker": "EDSA",
-  "last_updated": "2026-08-10 07:33:48",
+  "last_updated": "2026-08-11 07:34:37",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 33.25,
-      "high": 34.16,
-      "low": 31.99,
-      "close": 32.62,
-      "volume": 5800
-    },
-    {
-      "date": "2021-08-10",
-      "open": 33.04,
-      "high": 33.46,
-      "low": 32.41,
-      "close": 32.55,
-      "volume": 3414
-    },
     {
       "date": "2021-08-11",
       "open": 33.25,
@@ -10043,7 +10027,15 @@
       "high": 5.78,
       "low": 5.1,
       "close": 5.27,
-      "volume": 54000
+      "volume": 54700
+    },
+    {
+      "date": "2026-08-10",
+      "open": 5.37,
+      "high": 5.7,
+      "low": 5.17,
+      "close": 5.24,
+      "volume": 37000
     }
   ]
 }

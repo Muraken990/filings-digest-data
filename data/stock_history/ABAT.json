@@ -1,26 +1,10 @@
 {
   "code": "ABAT",
   "ticker": "ABAT",
-  "last_updated": "2026-08-10 07:03:38",
+  "last_updated": "2026-08-11 07:04:37",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 24.9,
-      "high": 25.05,
-      "low": 24.0,
-      "close": 24.3,
-      "volume": 74227
-    },
-    {
-      "date": "2021-08-10",
-      "open": 24.3,
-      "high": 24.3,
-      "low": 23.4,
-      "close": 23.85,
-      "volume": 104913
-    },
     {
       "date": "2021-08-11",
       "open": 24.15,
@@ -10043,7 +10027,15 @@
       "high": 2.71,
       "low": 2.42,
       "close": 2.61,
-      "volume": 4995200
+      "volume": 5005000
+    },
+    {
+      "date": "2026-08-10",
+      "open": 2.66,
+      "high": 2.69,
+      "low": 2.55,
+      "close": 2.65,
+      "volume": 2513600
     }
   ]
 }

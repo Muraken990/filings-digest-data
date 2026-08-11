@@ -1,26 +1,10 @@
 {
   "code": "CRBU",
   "ticker": "CRBU",
-  "last_updated": "2026-08-10 07:26:54",
+  "last_updated": "2026-08-11 07:27:46",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 23.38,
-      "high": 26.45,
-      "low": 23.38,
-      "close": 26.13,
-      "volume": 1187900
-    },
-    {
-      "date": "2021-08-10",
-      "open": 26.33,
-      "high": 29.0,
-      "low": 26.33,
-      "close": 27.59,
-      "volume": 1421800
-    },
     {
       "date": "2021-08-11",
       "open": 28.2,
@@ -10043,7 +10027,15 @@
       "high": 1.67,
       "low": 1.62,
       "close": 1.65,
-      "volume": 805400
+      "volume": 806000
+    },
+    {
+      "date": "2026-08-10",
+      "open": 1.65,
+      "high": 1.68,
+      "low": 1.63,
+      "close": 1.66,
+      "volume": 758400
     }
   ]
 }

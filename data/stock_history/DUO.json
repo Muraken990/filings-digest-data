@@ -1,26 +1,10 @@
 {
   "code": "DUO",
   "ticker": "DUO",
-  "last_updated": "2026-08-10 07:32:55",
+  "last_updated": "2026-08-11 07:33:45",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 6408.0,
-      "high": 6804.0,
-      "low": 6192.0,
-      "close": 6552.0,
-      "volume": 60
-    },
-    {
-      "date": "2021-08-10",
-      "open": 6660.0,
-      "high": 6804.0,
-      "low": 6328.8,
-      "close": 6552.0,
-      "volume": 46
-    },
     {
       "date": "2021-08-11",
       "open": 6660.0,
@@ -10043,7 +10027,15 @@
       "high": 0.64,
       "low": 0.58,
       "close": 0.63,
-      "volume": 34900
+      "volume": 36400
+    },
+    {
+      "date": "2026-08-10",
+      "open": 0.65,
+      "high": 0.65,
+      "low": 0.62,
+      "close": 0.64,
+      "volume": 10000
     }
   ]
 }

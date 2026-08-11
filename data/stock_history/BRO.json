@@ -1,25 +1,17 @@
 {
   "code": "BRO",
   "ticker": "BRO",
-  "last_updated": "2026-08-10 07:19:03",
+  "last_updated": "2026-08-11 07:19:59",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-08-09",
-      "open": 52.55,
-      "high": 52.94,
-      "low": 52.37,
-      "close": 52.9,
-      "volume": 718200
-    },
-    {
       "date": "2021-08-10",
-      "open": 53.05,
-      "high": 53.38,
-      "low": 52.87,
-      "close": 53.07,
-      "volume": 985300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-11",
@@ -6305,7 +6297,7 @@
       "date": "2024-09-25",
       "open": 102.65,
       "high": 103.22,
-      "low": 101.56,
+      "low": 101.57,
       "close": 102.01,
       "volume": 1523800
     },
@@ -10044,6 +10036,14 @@
       "low": 69.96,
       "close": 71.43,
       "volume": 1665200
+    },
+    {
+      "date": "2026-08-10",
+      "open": 70.68,
+      "high": 71.64,
+      "low": 70.06,
+      "close": 71.6,
+      "volume": 1789100
     }
   ]
 }

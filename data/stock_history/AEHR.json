@@ -1,26 +1,10 @@
 {
   "code": "AEHR",
   "ticker": "AEHR",
-  "last_updated": "2026-08-10 07:05:22",
+  "last_updated": "2026-08-11 07:06:21",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 5.77,
-      "high": 6.75,
-      "low": 5.7,
-      "close": 6.49,
-      "volume": 3636700
-    },
-    {
-      "date": "2021-08-10",
-      "open": 6.5,
-      "high": 6.72,
-      "low": 6.02,
-      "close": 6.11,
-      "volume": 1163000
-    },
     {
       "date": "2021-08-11",
       "open": 6.19,
@@ -10043,7 +10027,15 @@
       "high": 105.87,
       "low": 95.7,
       "close": 103.07,
-      "volume": 1573800
+      "volume": 1578000
+    },
+    {
+      "date": "2026-08-10",
+      "open": 105.38,
+      "high": 112.61,
+      "low": 102.1,
+      "close": 106.2,
+      "volume": 3085200
     }
   ]
 }

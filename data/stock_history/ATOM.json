@@ -1,26 +1,10 @@
 {
   "code": "ATOM",
   "ticker": "ATOM",
-  "last_updated": "2026-08-10 07:12:13",
+  "last_updated": "2026-08-11 07:13:10",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 23.41,
-      "high": 24.17,
-      "low": 22.52,
-      "close": 23.63,
-      "volume": 333200
-    },
-    {
-      "date": "2021-08-10",
-      "open": 23.55,
-      "high": 24.06,
-      "low": 22.7,
-      "close": 24.01,
-      "volume": 302700
-    },
     {
       "date": "2021-08-11",
       "open": 23.89,
@@ -10043,7 +10027,15 @@
       "high": 5.59,
       "low": 5.28,
       "close": 5.48,
-      "volume": 424400
+      "volume": 425500
+    },
+    {
+      "date": "2026-08-10",
+      "open": 5.53,
+      "high": 5.65,
+      "low": 5.36,
+      "close": 5.37,
+      "volume": 389300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "BACC",
   "ticker": "BACC",
-  "last_updated": "2026-08-10 07:13:55",
+  "last_updated": "2026-08-11 07:14:51",
   "period": "5y",
-  "data_points": 255,
+  "data_points": 256,
   "data": [
     {
       "date": "2025-08-04",
@@ -2044,6 +2044,14 @@
       "low": 10.48,
       "close": 10.48,
       "volume": 20000
+    },
+    {
+      "date": "2026-08-10",
+      "open": 10.46,
+      "high": 10.54,
+      "low": 10.45,
+      "close": 10.45,
+      "volume": 9600
     }
   ]
 }
