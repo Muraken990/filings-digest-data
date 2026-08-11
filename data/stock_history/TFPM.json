@@ -1,9 +1,9 @@
 {
   "code": "TFPM",
   "ticker": "TFPM",
-  "last_updated": "2026-08-10 12:21:27",
+  "last_updated": "2026-08-11 12:23:24",
   "period": "5y",
-  "data_points": 988,
+  "data_points": 989,
   "data": [
     {
       "date": "2022-08-30",
@@ -7907,7 +7907,15 @@
       "high": 34.15,
       "low": 32.29,
       "close": 32.62,
-      "volume": 780900
+      "volume": 781500
+    },
+    {
+      "date": "2026-08-10",
+      "open": 32.26,
+      "high": 32.44,
+      "low": 31.58,
+      "close": 32.0,
+      "volume": 1070500
     }
   ]
 }

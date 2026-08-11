@@ -1,26 +1,10 @@
 {
   "code": "RCEL",
   "ticker": "RCEL",
-  "last_updated": "2026-08-10 12:07:35",
+  "last_updated": "2026-08-11 12:09:39",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 19.01,
-      "high": 19.07,
-      "low": 18.64,
-      "close": 18.72,
-      "volume": 29000
-    },
-    {
-      "date": "2021-08-10",
-      "open": 18.66,
-      "high": 18.69,
-      "low": 18.35,
-      "close": 18.4,
-      "volume": 51900
-    },
     {
       "date": "2021-08-11",
       "open": 18.55,
@@ -10043,7 +10027,15 @@
       "high": 8.07,
       "low": 5.99,
       "close": 7.77,
-      "volume": 7249400
+      "volume": 7275000
+    },
+    {
+      "date": "2026-08-10",
+      "open": 7.9,
+      "high": 8.35,
+      "low": 7.39,
+      "close": 7.6,
+      "volume": 956300
     }
   ]
 }

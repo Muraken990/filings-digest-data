@@ -1,9 +1,9 @@
 {
   "code": "SWMR",
   "ticker": "SWMR",
-  "last_updated": "2026-08-10 12:19:42",
+  "last_updated": "2026-08-11 12:21:40",
   "period": "5y",
-  "data_points": 100,
+  "data_points": 101,
   "data": [
     {
       "date": "2026-03-17",
@@ -803,7 +803,15 @@
       "high": 37.47,
       "low": 35.0,
       "close": 36.6,
-      "volume": 217200
+      "volume": 218700
+    },
+    {
+      "date": "2026-08-10",
+      "open": 36.71,
+      "high": 37.39,
+      "low": 35.34,
+      "close": 36.3,
+      "volume": 193900
     }
   ]
 }

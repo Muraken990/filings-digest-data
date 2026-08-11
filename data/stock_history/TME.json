@@ -1,26 +1,10 @@
 {
   "code": "TME",
   "ticker": "TME",
-  "last_updated": "2026-08-10 12:23:07",
+  "last_updated": "2026-08-11 12:25:03",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 9.96,
-      "high": 10.42,
-      "low": 9.88,
-      "close": 10.28,
-      "volume": 7801000
-    },
-    {
-      "date": "2021-08-10",
-      "open": 10.32,
-      "high": 10.45,
-      "low": 10.0,
-      "close": 10.12,
-      "volume": 6760900
-    },
     {
       "date": "2021-08-11",
       "open": 10.2,
@@ -10043,7 +10027,15 @@
       "high": 9.61,
       "low": 9.4,
       "close": 9.53,
-      "volume": 5216200
+      "volume": 5219100
+    },
+    {
+      "date": "2026-08-10",
+      "open": 9.48,
+      "high": 9.93,
+      "low": 9.47,
+      "close": 9.9,
+      "volume": 13960800
     }
   ]
 }

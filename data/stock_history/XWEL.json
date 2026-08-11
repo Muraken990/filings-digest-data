@@ -1,26 +1,10 @@
 {
   "code": "XWEL",
   "ticker": "XWEL",
-  "last_updated": "2026-08-10 12:33:35",
+  "last_updated": "2026-08-11 12:35:30",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 33.2,
-      "high": 34.8,
-      "low": 32.4,
-      "close": 34.0,
-      "volume": 131120
-    },
-    {
-      "date": "2021-08-10",
-      "open": 34.6,
-      "high": 34.6,
-      "low": 33.0,
-      "close": 33.2,
-      "volume": 97105
-    },
     {
       "date": "2021-08-11",
       "open": 34.0,
@@ -10043,7 +10027,15 @@
       "high": 1.09,
       "low": 1.0,
       "close": 1.03,
-      "volume": 36400
+      "volume": 37000
+    },
+    {
+      "date": "2026-08-10",
+      "open": 1.01,
+      "high": 1.04,
+      "low": 0.96,
+      "close": 0.96,
+      "volume": 48100
     }
   ]
 }

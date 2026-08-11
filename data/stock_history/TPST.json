@@ -1,26 +1,10 @@
 {
   "code": "TPST",
   "ticker": "TPST",
-  "last_updated": "2026-08-10 12:23:13",
+  "last_updated": "2026-08-11 12:25:09",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 180.96,
-      "high": 203.45,
-      "low": 172.9,
-      "close": 191.1,
-      "volume": 43500
-    },
-    {
-      "date": "2021-08-10",
-      "open": 188.5,
-      "high": 190.45,
-      "low": 171.99,
-      "close": 177.45,
-      "volume": 50031
-    },
     {
       "date": "2021-08-11",
       "open": 179.79,
@@ -10043,7 +10027,15 @@
       "high": 0.93,
       "low": 0.9,
       "close": 0.92,
-      "volume": 83400
+      "volume": 87500
+    },
+    {
+      "date": "2026-08-10",
+      "open": 0.95,
+      "high": 1.11,
+      "low": 0.94,
+      "close": 1.04,
+      "volume": 447500
     }
   ]
 }

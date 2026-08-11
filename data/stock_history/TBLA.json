@@ -1,26 +1,10 @@
 {
   "code": "TBLA",
   "ticker": "TBLA",
-  "last_updated": "2026-08-10 12:20:34",
+  "last_updated": "2026-08-11 12:22:32",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 9.56,
-      "high": 9.87,
-      "low": 9.56,
-      "close": 9.74,
-      "volume": 244800
-    },
-    {
-      "date": "2021-08-10",
-      "open": 9.71,
-      "high": 10.1,
-      "low": 9.32,
-      "close": 10.04,
-      "volume": 610200
-    },
     {
       "date": "2021-08-11",
       "open": 10.23,
@@ -10043,7 +10027,15 @@
       "high": 4.2,
       "low": 3.98,
       "close": 4.1,
-      "volume": 3187700
+      "volume": 3188300
+    },
+    {
+      "date": "2026-08-10",
+      "open": 4.03,
+      "high": 4.17,
+      "low": 4.0,
+      "close": 4.13,
+      "volume": 3285000
     }
   ]
 }

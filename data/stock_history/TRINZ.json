@@ -1,9 +1,9 @@
 {
   "code": "TRINZ",
   "ticker": "TRINZ",
-  "last_updated": "2026-08-10 12:24:00",
+  "last_updated": "2026-08-11 12:25:56",
   "period": "5y",
-  "data_points": 16,
+  "data_points": 17,
   "data": [
     {
       "date": "2026-07-17",
@@ -132,6 +132,14 @@
       "low": 25.29,
       "close": 25.33,
       "volume": 1500
+    },
+    {
+      "date": "2026-08-10",
+      "open": 25.29,
+      "high": 25.35,
+      "low": 25.24,
+      "close": 25.34,
+      "volume": 13900
     }
   ]
 }

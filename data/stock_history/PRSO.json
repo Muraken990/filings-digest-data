@@ -1,26 +1,10 @@
 {
   "code": "PRSO",
   "ticker": "PRSO",
-  "last_updated": "2026-08-10 12:05:47",
+  "last_updated": "2026-08-11 12:07:51",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 234.4,
-      "high": 242.8,
-      "low": 229.2,
-      "close": 241.2,
-      "volume": 20770
-    },
-    {
-      "date": "2021-08-10",
-      "open": 242.8,
-      "high": 246.4,
-      "low": 225.6,
-      "close": 240.8,
-      "volume": 12135
-    },
     {
       "date": "2021-08-11",
       "open": 220.0,
@@ -10043,7 +10027,15 @@
       "high": 0.75,
       "low": 0.7,
       "close": 0.75,
-      "volume": 213300
+      "volume": 217900
+    },
+    {
+      "date": "2026-08-10",
+      "open": 0.74,
+      "high": 0.79,
+      "low": 0.7,
+      "close": 0.71,
+      "volume": 538800
     }
   ]
 }

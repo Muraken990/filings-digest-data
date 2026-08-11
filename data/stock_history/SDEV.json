@@ -1,26 +1,10 @@
 {
   "code": "SDEV",
   "ticker": "SDEV",
-  "last_updated": "2026-08-10 12:12:49",
+  "last_updated": "2026-08-11 12:14:49",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 2550.7,
-      "high": 2550.7,
-      "low": 2429.24,
-      "close": 2469.72,
-      "volume": 159
-    },
-    {
-      "date": "2021-08-10",
-      "open": 2510.21,
-      "high": 2591.19,
-      "low": 2469.72,
-      "close": 2591.19,
-      "volume": 375
-    },
     {
       "date": "2021-08-11",
       "open": 2550.7,
@@ -10043,7 +10027,15 @@
       "high": 1.05,
       "low": 1.02,
       "close": 1.03,
-      "volume": 55700
+      "volume": 58100
+    },
+    {
+      "date": "2026-08-10",
+      "open": 1.02,
+      "high": 1.03,
+      "low": 1.0,
+      "close": 1.02,
+      "volume": 99100
     }
   ]
 }

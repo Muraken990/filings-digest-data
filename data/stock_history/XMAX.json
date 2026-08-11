@@ -1,26 +1,10 @@
 {
   "code": "XMAX",
   "ticker": "XMAX",
-  "last_updated": "2026-08-10 12:32:46",
+  "last_updated": "2026-08-11 12:34:42",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 12.2,
-      "high": 12.7,
-      "low": 11.9,
-      "close": 12.5,
-      "volume": 56420
-    },
-    {
-      "date": "2021-08-10",
-      "open": 12.7,
-      "high": 13.0,
-      "low": 11.9,
-      "close": 12.15,
-      "volume": 52760
-    },
     {
       "date": "2021-08-11",
       "open": 12.1,
@@ -10043,7 +10027,15 @@
       "high": 9.24,
       "low": 9.06,
       "close": 9.09,
-      "volume": 341000
+      "volume": 341700
+    },
+    {
+      "date": "2026-08-10",
+      "open": 9.09,
+      "high": 9.28,
+      "low": 9.04,
+      "close": 9.2,
+      "volume": 443200
     }
   ]
 }

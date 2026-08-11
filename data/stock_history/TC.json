@@ -1,26 +1,10 @@
 {
   "code": "TC",
   "ticker": "TC",
-  "last_updated": "2026-08-10 12:20:34",
+  "last_updated": "2026-08-11 12:22:32",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 837.0,
-      "high": 837.0,
-      "low": 780.0,
-      "close": 816.0,
-      "volume": 33
-    },
-    {
-      "date": "2021-08-10",
-      "open": 813.0,
-      "high": 837.0,
-      "low": 723.0,
-      "close": 780.0,
-      "volume": 98
-    },
     {
       "date": "2021-08-11",
       "open": 789.0,
@@ -10043,7 +10027,15 @@
       "high": 2.0,
       "low": 1.82,
       "close": 1.91,
-      "volume": 221700
+      "volume": 224400
+    },
+    {
+      "date": "2026-08-10",
+      "open": 1.87,
+      "high": 1.93,
+      "low": 1.82,
+      "close": 1.87,
+      "volume": 96300
     }
   ]
 }

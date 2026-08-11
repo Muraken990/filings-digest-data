@@ -1,9 +1,9 @@
 {
   "code": "SAFX",
   "ticker": "SAFX",
-  "last_updated": "2026-08-10 12:11:54",
+  "last_updated": "2026-08-11 12:13:55",
   "period": "5y",
-  "data_points": 400,
+  "data_points": 401,
   "data": [
     {
       "date": "2025-01-02",
@@ -3203,7 +3203,15 @@
       "high": 0.41,
       "low": 0.37,
       "close": 0.39,
-      "volume": 1866100
+      "volume": 1895600
+    },
+    {
+      "date": "2026-08-10",
+      "open": 0.47,
+      "high": 0.5,
+      "low": 0.44,
+      "close": 0.45,
+      "volume": 25655000
     }
   ]
 }

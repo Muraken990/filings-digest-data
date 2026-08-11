@@ -1,26 +1,10 @@
 {
   "code": "SIM",
   "ticker": "SIM",
-  "last_updated": "2026-08-10 12:14:31",
+  "last_updated": "2026-08-11 12:16:31",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 24.35,
-      "high": 24.35,
-      "low": 24.07,
-      "close": 24.07,
-      "volume": 700
-    },
-    {
-      "date": "2021-08-10",
-      "open": 24.0,
-      "high": 24.0,
-      "low": 23.9,
-      "close": 23.9,
-      "volume": 1300
-    },
     {
       "date": "2021-08-11",
       "open": 24.15,
@@ -10044,6 +10028,14 @@
       "low": 30.81,
       "close": 30.81,
       "volume": 1200
+    },
+    {
+      "date": "2026-08-10",
+      "open": 31.0,
+      "high": 31.0,
+      "low": 30.79,
+      "close": 30.79,
+      "volume": 2100
     }
   ]
 }

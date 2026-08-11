@@ -1,26 +1,10 @@
 {
   "code": "TMDX",
   "ticker": "TMDX",
-  "last_updated": "2026-08-10 12:23:06",
+  "last_updated": "2026-08-11 12:25:03",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 30.45,
-      "high": 32.5,
-      "low": 29.48,
-      "close": 32.04,
-      "volume": 348000
-    },
-    {
-      "date": "2021-08-10",
-      "open": 32.21,
-      "high": 32.21,
-      "low": 29.93,
-      "close": 30.0,
-      "volume": 315300
-    },
     {
       "date": "2021-08-11",
       "open": 29.99,
@@ -10043,7 +10027,15 @@
       "high": 83.98,
       "low": 79.51,
       "close": 83.89,
-      "volume": 771600
+      "volume": 772400
+    },
+    {
+      "date": "2026-08-10",
+      "open": 82.62,
+      "high": 88.5,
+      "low": 81.77,
+      "close": 88.41,
+      "volume": 1354600
     }
   ]
 }
