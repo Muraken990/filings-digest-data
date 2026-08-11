@@ -1,9 +1,9 @@
 {
   "code": "MDA",
   "ticker": "MDA",
-  "last_updated": "2026-08-10 09:53:57",
+  "last_updated": "2026-08-11 09:57:22",
   "period": "5y",
-  "data_points": 103,
+  "data_points": 104,
   "data": [
     {
       "date": "2026-03-12",
@@ -827,7 +827,15 @@
       "high": 35.18,
       "low": 32.76,
       "close": 34.59,
-      "volume": 1804100
+      "volume": 1805200
+    },
+    {
+      "date": "2026-08-10",
+      "open": 34.8,
+      "high": 35.23,
+      "low": 33.41,
+      "close": 33.41,
+      "volume": 2567100
     }
   ]
 }

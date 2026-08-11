@@ -1,26 +1,10 @@
 {
   "code": "OIA",
   "ticker": "OIA",
-  "last_updated": "2026-08-10 10:05:04",
+  "last_updated": "2026-08-11 10:08:30",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 6.36,
-      "high": 6.38,
-      "low": 6.33,
-      "close": 6.35,
-      "volume": 33600
-    },
-    {
-      "date": "2021-08-10",
-      "open": 6.33,
-      "high": 6.38,
-      "low": 6.26,
-      "close": 6.29,
-      "volume": 80900
-    },
     {
       "date": "2021-08-11",
       "open": 6.32,
@@ -5834,7 +5818,7 @@
       "open": 5.58,
       "high": 5.62,
       "low": 5.55,
-      "close": 5.6,
+      "close": 5.61,
       "volume": 118800
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 6.05,
       "close": 6.09,
       "volume": 118800
+    },
+    {
+      "date": "2026-08-10",
+      "open": 6.11,
+      "high": 6.11,
+      "low": 6.03,
+      "close": 6.05,
+      "volume": 90100
     }
   ]
 }

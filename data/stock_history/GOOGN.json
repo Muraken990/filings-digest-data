@@ -1,9 +1,9 @@
 {
   "code": "GOOGN",
   "ticker": "GOOGN",
-  "last_updated": "2026-08-10 09:35:56",
+  "last_updated": "2026-08-11 09:39:19",
   "period": "5y",
-  "data_points": 46,
+  "data_points": 47,
   "data": [
     {
       "date": "2026-06-03",
@@ -372,6 +372,14 @@
       "low": 50.02,
       "close": 50.08,
       "volume": 808300
+    },
+    {
+      "date": "2026-08-10",
+      "open": 50.03,
+      "high": 50.35,
+      "low": 49.87,
+      "close": 50.35,
+      "volume": 253600
     }
   ]
 }

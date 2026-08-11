@@ -1,9 +1,9 @@
 {
   "code": "GV",
   "ticker": "GV",
-  "last_updated": "2026-08-10 09:37:36",
+  "last_updated": "2026-08-11 09:41:00",
   "period": "5y",
-  "data_points": 16,
+  "data_points": 17,
   "data": [
     {
       "date": "2026-07-17",
@@ -132,6 +132,14 @@
       "low": 0.03,
       "close": 0.03,
       "volume": 50800
+    },
+    {
+      "date": "2026-08-10",
+      "open": 0.03,
+      "high": 0.04,
+      "low": 0.02,
+      "close": 0.03,
+      "volume": 80600
     }
   ]
 }

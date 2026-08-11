@@ -1,26 +1,10 @@
 {
   "code": "IPW",
   "ticker": "IPW",
-  "last_updated": "2026-08-10 09:44:29",
+  "last_updated": "2026-08-11 09:47:53",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 1224.0,
-      "high": 1266.0,
-      "low": 1188.0,
-      "close": 1226.4,
-      "volume": 348
-    },
-    {
-      "date": "2021-08-10",
-      "open": 1224.0,
-      "high": 1260.24,
-      "low": 1188.72,
-      "close": 1255.2,
-      "volume": 286
-    },
     {
       "date": "2021-08-11",
       "open": 1243.2,
@@ -10031,11 +10015,19 @@
     },
     {
       "date": "2026-08-07",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
+      "open": 3.55,
+      "high": 4.34,
+      "low": 3.25,
+      "close": 3.71,
       "volume": 571300
+    },
+    {
+      "date": "2026-08-10",
+      "open": 3.33,
+      "high": 3.64,
+      "low": 3.04,
+      "close": 3.64,
+      "volume": 156000
     }
   ]
 }

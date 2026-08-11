@@ -1,26 +1,10 @@
 {
   "code": "IMOS",
   "ticker": "IMOS",
-  "last_updated": "2026-08-10 09:42:48",
+  "last_updated": "2026-08-11 09:46:12",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 30.48,
-      "high": 30.61,
-      "low": 29.87,
-      "close": 30.61,
-      "volume": 64400
-    },
-    {
-      "date": "2021-08-10",
-      "open": 30.46,
-      "high": 33.13,
-      "low": 29.24,
-      "close": 31.11,
-      "volume": 93000
-    },
     {
       "date": "2021-08-11",
       "open": 30.59,
@@ -10044,6 +10028,14 @@
       "low": 52.0,
       "close": 52.54,
       "volume": 65000
+    },
+    {
+      "date": "2026-08-10",
+      "open": 56.9,
+      "high": 56.9,
+      "low": 52.63,
+      "close": 53.05,
+      "volume": 119300
     }
   ]
 }

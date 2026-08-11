@@ -1,26 +1,10 @@
 {
   "code": "LIDR",
   "ticker": "LIDR",
-  "last_updated": "2026-08-10 09:50:31",
+  "last_updated": "2026-08-11 09:53:56",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 295.5,
-      "high": 297.9,
-      "low": 291.0,
-      "close": 296.4,
-      "volume": 16123
-    },
-    {
-      "date": "2021-08-10",
-      "open": 294.3,
-      "high": 300.15,
-      "low": 289.2,
-      "close": 290.1,
-      "volume": 10717
-    },
     {
       "date": "2021-08-11",
       "open": 291.3,
@@ -10043,7 +10027,15 @@
       "high": 1.33,
       "low": 1.14,
       "close": 1.32,
-      "volume": 2218600
+      "volume": 2223000
+    },
+    {
+      "date": "2026-08-10",
+      "open": 1.29,
+      "high": 1.38,
+      "low": 1.26,
+      "close": 1.3,
+      "volume": 951700
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "HELP",
   "ticker": "HELP",
-  "last_updated": "2026-08-10 09:38:30",
+  "last_updated": "2026-08-11 09:41:53",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 109.82,
-      "high": 109.82,
-      "low": 95.0,
-      "close": 95.76,
-      "volume": 38803
-    },
-    {
-      "date": "2021-08-10",
-      "open": 96.9,
-      "high": 97.28,
-      "low": 85.5,
-      "close": 86.26,
-      "volume": 61584
-    },
     {
       "date": "2021-08-11",
       "open": 87.4,
@@ -10043,7 +10027,15 @@
       "high": 11.62,
       "low": 11.05,
       "close": 11.61,
-      "volume": 1733600
+      "volume": 1739900
+    },
+    {
+      "date": "2026-08-10",
+      "open": 11.48,
+      "high": 11.6,
+      "low": 9.84,
+      "close": 10.01,
+      "volume": 3123500
     }
   ]
 }

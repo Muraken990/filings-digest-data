@@ -1,26 +1,10 @@
 {
   "code": "OTLK",
   "ticker": "OTLK",
-  "last_updated": "2026-08-10 10:06:47",
+  "last_updated": "2026-08-11 10:10:13",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 51.6,
-      "high": 57.5,
-      "low": 50.4,
-      "close": 55.0,
-      "volume": 222850
-    },
-    {
-      "date": "2021-08-10",
-      "open": 55.0,
-      "high": 55.8,
-      "low": 50.24,
-      "close": 51.6,
-      "volume": 96400
-    },
     {
       "date": "2021-08-11",
       "open": 51.7,
@@ -10043,7 +10027,15 @@
       "high": 1.04,
       "low": 0.95,
       "close": 1.02,
-      "volume": 4541000
+      "volume": 4560300
+    },
+    {
+      "date": "2026-08-10",
+      "open": 1.0,
+      "high": 1.18,
+      "low": 1.0,
+      "close": 1.15,
+      "volume": 10283500
     }
   ]
 }

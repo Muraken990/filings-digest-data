@@ -1,9 +1,9 @@
 {
   "code": "MGX",
   "ticker": "MGX",
-  "last_updated": "2026-08-10 09:55:35",
+  "last_updated": "2026-08-11 09:59:00",
   "period": "5y",
-  "data_points": 625,
+  "data_points": 626,
   "data": [
     {
       "date": "2024-02-09",
@@ -5004,6 +5004,14 @@
       "low": 1.23,
       "close": 1.23,
       "volume": 143000
+    },
+    {
+      "date": "2026-08-10",
+      "open": 1.23,
+      "high": 1.24,
+      "low": 1.21,
+      "close": 1.23,
+      "volume": 151500
     }
   ]
 }

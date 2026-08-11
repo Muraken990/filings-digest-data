@@ -1,26 +1,10 @@
 {
   "code": "LOCL",
   "ticker": "LOCL",
-  "last_updated": "2026-08-10 09:51:22",
+  "last_updated": "2026-08-11 09:54:47",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 128.7,
-      "high": 128.7,
-      "low": 128.31,
-      "close": 128.31,
-      "volume": 8792
-    },
-    {
-      "date": "2021-08-10",
-      "open": 128.18,
-      "high": 128.48,
-      "low": 128.18,
-      "close": 128.31,
-      "volume": 29885
-    },
     {
       "date": "2021-08-11",
       "open": 128.7,
@@ -10044,6 +10028,14 @@
       "low": 0.98,
       "close": 1.03,
       "volume": 10500
+    },
+    {
+      "date": "2026-08-10",
+      "open": 1.1,
+      "high": 1.2,
+      "low": 1.1,
+      "close": 1.15,
+      "volume": 52800
     }
   ]
 }

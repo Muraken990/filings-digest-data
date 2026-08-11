@@ -1,26 +1,10 @@
 {
   "code": "OIS",
   "ticker": "OIS",
-  "last_updated": "2026-08-10 10:05:05",
+  "last_updated": "2026-08-11 10:08:30",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-09",
-      "open": 5.5,
-      "high": 5.58,
-      "low": 5.3,
-      "close": 5.44,
-      "volume": 673800
-    },
-    {
-      "date": "2021-08-10",
-      "open": 5.5,
-      "high": 5.87,
-      "low": 5.49,
-      "close": 5.83,
-      "volume": 567600
-    },
     {
       "date": "2021-08-11",
       "open": 5.72,
@@ -10044,6 +10028,14 @@
       "low": 8.11,
       "close": 8.14,
       "volume": 455000
+    },
+    {
+      "date": "2026-08-10",
+      "open": 8.27,
+      "high": 8.87,
+      "low": 8.25,
+      "close": 8.85,
+      "volume": 944700
     }
   ]
 }
