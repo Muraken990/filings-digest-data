@@ -1,18 +1,10 @@
 {
   "code": "AEHL",
   "ticker": "AEHL",
-  "last_updated": "2026-08-11 07:06:21",
+  "last_updated": "2026-08-12 07:07:14",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-11",
-      "open": 7032.0,
-      "high": 7272.0,
-      "low": 6792.0,
-      "close": 6792.0,
-      "volume": 230
-    },
     {
       "date": "2021-08-12",
       "open": 6936.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-10",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 599687
+      "open": 5.11,
+      "high": 8.92,
+      "low": 5.05,
+      "close": 5.71,
+      "volume": 610200
+    },
+    {
+      "date": "2026-08-11",
+      "open": 5.76,
+      "high": 6.0,
+      "low": 5.07,
+      "close": 5.4,
+      "volume": 176600
     }
   ]
 }

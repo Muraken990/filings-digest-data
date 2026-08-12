@@ -1,18 +1,10 @@
 {
   "code": "ANY",
   "ticker": "ANY",
-  "last_updated": "2026-08-11 07:10:35",
+  "last_updated": "2026-08-12 07:11:29",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-11",
-      "open": 306.6,
-      "high": 335.3,
-      "low": 282.1,
-      "close": 287.0,
-      "volume": 133811
-    },
     {
       "date": "2021-08-12",
       "open": 278.6,
@@ -10035,7 +10027,15 @@
       "high": 2.15,
       "low": 2.0,
       "close": 2.05,
-      "volume": 162200
+      "volume": 164500
+    },
+    {
+      "date": "2026-08-11",
+      "open": 2.08,
+      "high": 2.22,
+      "low": 2.04,
+      "close": 2.17,
+      "volume": 323000
     }
   ]
 }
