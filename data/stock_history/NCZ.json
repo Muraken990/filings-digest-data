@@ -1,17 +1,17 @@
 {
   "code": "NCZ",
   "ticker": "NCZ",
-  "last_updated": "2026-08-11 10:03:20",
+  "last_updated": "2026-08-12 10:02:07",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-11",
-      "open": 12.08,
-      "high": 12.15,
-      "low": 12.06,
-      "close": 12.1,
-      "volume": 189900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-12",
@@ -10036,6 +10036,14 @@
       "low": 15.82,
       "close": 16.03,
       "volume": 103100
+    },
+    {
+      "date": "2026-08-11",
+      "open": 16.03,
+      "high": 16.07,
+      "low": 15.96,
+      "close": 15.96,
+      "volume": 70600
     }
   ]
 }

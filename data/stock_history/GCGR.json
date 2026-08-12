@@ -1,9 +1,9 @@
 {
   "code": "GCGR",
   "ticker": "GCGR",
-  "last_updated": "2026-08-11 09:36:45",
+  "last_updated": "2026-08-12 09:35:33",
   "period": "5y",
-  "data_points": 35,
+  "data_points": 36,
   "data": [
     {
       "date": "2026-06-22",
@@ -284,6 +284,14 @@
       "low": 10.15,
       "close": 10.15,
       "volume": 0
+    },
+    {
+      "date": "2026-08-11",
+      "open": 10.09,
+      "high": 10.1,
+      "low": 10.09,
+      "close": 10.1,
+      "volume": 5100
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "PCM",
   "ticker": "PCM",
-  "last_updated": "2026-08-11 10:11:55",
+  "last_updated": "2026-08-12 10:10:41",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-11",
-      "open": 6.92,
-      "high": 6.98,
-      "low": 6.92,
-      "close": 6.95,
-      "volume": 21200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-12",
@@ -2665,7 +2665,7 @@
       "date": "2022-12-05",
       "open": 5.92,
       "high": 5.95,
-      "low": 5.79,
+      "low": 5.78,
       "close": 5.84,
       "volume": 20800
     },
@@ -9918,22 +9918,6 @@
       "volume": 36300
     },
     {
-      "date": "2026-07-21",
-      "open": 5.63,
-      "high": 5.84,
-      "low": 5.62,
-      "close": 5.67,
-      "volume": 68000
-    },
-    {
-      "date": "2026-07-22",
-      "open": 5.65,
-      "high": 5.75,
-      "low": 5.6,
-      "close": 5.64,
-      "volume": 39800
-    },
-    {
       "date": "2026-07-23",
       "open": 5.62,
       "high": 5.68,
@@ -9982,14 +9966,6 @@
       "volume": 5200
     },
     {
-      "date": "2026-07-31",
-      "open": 5.6,
-      "high": 5.64,
-      "low": 5.6,
-      "close": 5.61,
-      "volume": 19300
-    },
-    {
       "date": "2026-08-03",
       "open": 5.66,
       "high": 5.7,
@@ -10036,6 +10012,14 @@
       "low": 5.65,
       "close": 5.67,
       "volume": 63700
+    },
+    {
+      "date": "2026-08-11",
+      "open": 5.68,
+      "high": 5.72,
+      "low": 5.66,
+      "close": 5.69,
+      "volume": 14100
     }
   ]
 }

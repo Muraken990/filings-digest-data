@@ -1,18 +1,10 @@
 {
   "code": "INCR",
   "ticker": "INCR",
-  "last_updated": "2026-08-11 09:47:00",
+  "last_updated": "2026-08-12 09:45:47",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-11",
-      "open": 6.25,
-      "high": 6.25,
-      "low": 6.2,
-      "close": 6.2,
-      "volume": 1100
-    },
     {
       "date": "2021-08-12",
       "open": 6.5,
@@ -10036,6 +10028,14 @@
       "low": 0.95,
       "close": 0.96,
       "volume": 3200
+    },
+    {
+      "date": "2026-08-11",
+      "open": 0.94,
+      "high": 0.96,
+      "low": 0.94,
+      "close": 0.96,
+      "volume": 1200
     }
   ]
 }

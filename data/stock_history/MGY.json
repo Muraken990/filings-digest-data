@@ -1,17 +1,17 @@
 {
   "code": "MGY",
   "ticker": "MGY",
-  "last_updated": "2026-08-11 09:59:00",
+  "last_updated": "2026-08-12 09:57:47",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-11",
-      "open": 12.83,
-      "high": 13.32,
-      "low": 12.54,
-      "close": 13.31,
-      "volume": 1242300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-12",
@@ -1639,7 +1639,7 @@
     },
     {
       "date": "2022-06-02",
-      "open": 24.14,
+      "open": 24.13,
       "high": 24.92,
       "low": 23.63,
       "close": 24.85,
@@ -10036,6 +10036,14 @@
       "low": 25.35,
       "close": 26.01,
       "volume": 3990200
+    },
+    {
+      "date": "2026-08-11",
+      "open": 25.97,
+      "high": 26.25,
+      "low": 25.86,
+      "close": 26.01,
+      "volume": 3102100
     }
   ]
 }

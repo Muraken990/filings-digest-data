@@ -1,17 +1,17 @@
 {
   "code": "PDO",
   "ticker": "PDO",
-  "last_updated": "2026-08-11 10:11:58",
+  "last_updated": "2026-08-12 10:10:44",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-11",
-      "open": 11.57,
-      "high": 11.61,
-      "low": 11.55,
-      "close": 11.56,
-      "volume": 118000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-12",
@@ -7752,7 +7752,7 @@
     {
       "date": "2025-06-20",
       "open": 11.82,
-      "high": 11.85,
+      "high": 11.84,
       "low": 11.77,
       "close": 11.77,
       "volume": 239100
@@ -10036,6 +10036,14 @@
       "low": 13.04,
       "close": 13.11,
       "volume": 501800
+    },
+    {
+      "date": "2026-08-11",
+      "open": 13.12,
+      "high": 13.14,
+      "low": 13.04,
+      "close": 13.09,
+      "volume": 462100
     }
   ]
 }

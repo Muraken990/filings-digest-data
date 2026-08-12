@@ -1,18 +1,10 @@
 {
   "code": "NAK",
   "ticker": "NAK",
-  "last_updated": "2026-08-11 10:02:30",
+  "last_updated": "2026-08-12 10:01:16",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-11",
-      "open": 0.41,
-      "high": 0.41,
-      "low": 0.4,
-      "close": 0.41,
-      "volume": 2403400
-    },
     {
       "date": "2021-08-12",
       "open": 0.41,
@@ -10035,7 +10027,15 @@
       "high": 1.77,
       "low": 1.68,
       "close": 1.7,
-      "volume": 4028800
+      "volume": 4041500
+    },
+    {
+      "date": "2026-08-11",
+      "open": 1.7,
+      "high": 1.72,
+      "low": 1.67,
+      "close": 1.7,
+      "volume": 2629700
     }
   ]
 }

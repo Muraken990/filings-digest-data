@@ -1,17 +1,17 @@
 {
   "code": "PCQ",
   "ticker": "PCQ",
-  "last_updated": "2026-08-11 10:11:56",
+  "last_updated": "2026-08-12 10:10:42",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-11",
-      "open": 15.28,
-      "high": 15.28,
-      "low": 15.05,
-      "close": 15.05,
-      "volume": 13400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-12",
@@ -10036,6 +10036,14 @@
       "low": 8.78,
       "close": 8.85,
       "volume": 82200
+    },
+    {
+      "date": "2026-08-11",
+      "open": 8.9,
+      "high": 8.9,
+      "low": 8.81,
+      "close": 8.86,
+      "volume": 144100
     }
   ]
 }
