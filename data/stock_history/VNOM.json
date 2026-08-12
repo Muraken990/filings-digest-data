@@ -1,17 +1,17 @@
 {
   "code": "VNOM",
   "ticker": "VNOM",
-  "last_updated": "2026-08-11 12:31:06",
+  "last_updated": "2026-08-12 12:29:42",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
     {
       "date": "2021-08-11",
-      "open": 13.69,
-      "high": 14.04,
-      "low": 13.58,
-      "close": 13.84,
-      "volume": 505700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-12",
@@ -9926,14 +9926,6 @@
       "volume": 1029400
     },
     {
-      "date": "2026-07-22",
-      "open": 45.11,
-      "high": 45.54,
-      "low": 44.98,
-      "close": 45.27,
-      "volume": 1017500
-    },
-    {
       "date": "2026-07-23",
       "open": 45.99,
       "high": 46.0,
@@ -9982,14 +9974,6 @@
       "volume": 1378900
     },
     {
-      "date": "2026-07-31",
-      "open": 43.53,
-      "high": 44.71,
-      "low": 43.48,
-      "close": 44.61,
-      "volume": 1391100
-    },
-    {
       "date": "2026-08-03",
       "open": 43.32,
       "high": 43.93,
@@ -10035,7 +10019,15 @@
       "high": 42.47,
       "low": 41.5,
       "close": 42.37,
-      "volume": 1798300
+      "volume": 1798800
+    },
+    {
+      "date": "2026-08-11",
+      "open": 42.34,
+      "high": 42.99,
+      "low": 41.97,
+      "close": 42.88,
+      "volume": 1264900
     }
   ]
 }

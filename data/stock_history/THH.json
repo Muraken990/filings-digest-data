@@ -1,9 +1,9 @@
 {
   "code": "THH",
   "ticker": "THH",
-  "last_updated": "2026-08-11 12:24:12",
+  "last_updated": "2026-08-12 12:22:54",
   "period": "5y",
-  "data_points": 239,
+  "data_points": 238,
   "data": [
     {
       "date": "2025-08-27",
@@ -1806,14 +1806,6 @@
       "volume": 148200
     },
     {
-      "date": "2026-07-22",
-      "open": 0.23,
-      "high": 0.24,
-      "low": 0.22,
-      "close": 0.22,
-      "volume": 73500
-    },
-    {
       "date": "2026-07-23",
       "open": 0.22,
       "high": 0.22,
@@ -1862,14 +1854,6 @@
       "volume": 213200
     },
     {
-      "date": "2026-07-31",
-      "open": 0.22,
-      "high": 0.25,
-      "low": 0.2,
-      "close": 0.24,
-      "volume": 227700
-    },
-    {
       "date": "2026-08-03",
       "open": 0.25,
       "high": 0.25,
@@ -1911,11 +1895,19 @@
     },
     {
       "date": "2026-08-10",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3911313
+      "open": 2.31,
+      "high": 4.99,
+      "low": 2.3,
+      "close": 3.11,
+      "volume": 3960700
+    },
+    {
+      "date": "2026-08-11",
+      "open": 2.58,
+      "high": 2.96,
+      "low": 2.44,
+      "close": 2.61,
+      "volume": 198600
     }
   ]
 }

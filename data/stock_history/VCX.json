@@ -1,9 +1,9 @@
 {
   "code": "VCX",
   "ticker": "VCX",
-  "last_updated": "2026-08-11 12:29:26",
+  "last_updated": "2026-08-12 12:28:03",
   "period": "5y",
-  "data_points": 99,
+  "data_points": 100,
   "data": [
     {
       "date": "2026-03-19",
@@ -795,7 +795,15 @@
       "high": 35.47,
       "low": 32.0,
       "close": 32.86,
-      "volume": 278700
+      "volume": 279700
+    },
+    {
+      "date": "2026-08-11",
+      "open": 32.86,
+      "high": 33.7,
+      "low": 31.18,
+      "close": 31.7,
+      "volume": 263400
     }
   ]
 }

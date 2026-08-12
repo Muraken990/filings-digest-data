@@ -1,18 +1,10 @@
 {
   "code": "TLSA",
   "ticker": "TLSA",
-  "last_updated": "2026-08-11 12:24:17",
+  "last_updated": "2026-08-12 12:22:58",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-11",
-      "open": 1.96,
-      "high": 2.0,
-      "low": 1.92,
-      "close": 1.94,
-      "volume": 211300
-    },
     {
       "date": "2021-08-12",
       "open": 1.92,
@@ -10035,7 +10027,15 @@
       "high": 1.05,
       "low": 0.97,
       "close": 1.01,
-      "volume": 749800
+      "volume": 750800
+    },
+    {
+      "date": "2026-08-11",
+      "open": 1.01,
+      "high": 1.01,
+      "low": 0.97,
+      "close": 1.01,
+      "volume": 414700
     }
   ]
 }
