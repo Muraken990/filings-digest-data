@@ -1,17 +1,17 @@
 {
   "code": "JOE",
   "ticker": "JOE",
-  "last_updated": "2026-08-12 09:48:26",
+  "last_updated": "2026-08-13 09:48:40",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-12",
-      "open": 44.93,
-      "high": 44.93,
-      "low": 43.71,
-      "close": 44.14,
-      "volume": 126600
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-13",
@@ -4529,7 +4529,7 @@
       "date": "2023-11-09",
       "open": 48.92,
       "high": 48.92,
-      "low": 46.62,
+      "low": 46.61,
       "close": 46.99,
       "volume": 260100
     },
@@ -10036,6 +10036,14 @@
       "low": 66.84,
       "close": 68.4,
       "volume": 185300
+    },
+    {
+      "date": "2026-08-12",
+      "open": 68.31,
+      "high": 69.11,
+      "low": 67.25,
+      "close": 67.9,
+      "volume": 224200
     }
   ]
 }

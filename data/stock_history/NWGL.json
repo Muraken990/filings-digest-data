@@ -1,9 +1,9 @@
 {
   "code": "NWGL",
   "ticker": "NWGL",
-  "last_updated": "2026-08-12 10:05:36",
+  "last_updated": "2026-08-13 10:05:37",
   "period": "5y",
-  "data_points": 730,
+  "data_points": 732,
   "data": [
     {
       "date": "2023-09-12",
@@ -5726,6 +5726,14 @@
       "volume": 43300
     },
     {
+      "date": "2026-07-21",
+      "open": 0.25,
+      "high": 0.3,
+      "low": 0.25,
+      "close": 0.3,
+      "volume": 604800
+    },
+    {
       "date": "2026-07-22",
       "open": 0.29,
       "high": 0.31,
@@ -5843,7 +5851,15 @@
       "high": 0.34,
       "low": 0.28,
       "close": 0.32,
-      "volume": 1025300
+      "volume": 1054400
+    },
+    {
+      "date": "2026-08-12",
+      "open": 0.31,
+      "high": 0.37,
+      "low": 0.31,
+      "close": 0.35,
+      "volume": 632500
     }
   ]
 }

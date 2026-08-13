@@ -1,17 +1,17 @@
 {
   "code": "ISD",
   "ticker": "ISD",
-  "last_updated": "2026-08-12 09:46:44",
+  "last_updated": "2026-08-13 09:47:00",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-12",
-      "open": 10.17,
-      "high": 10.19,
-      "low": 10.17,
-      "close": 10.17,
-      "volume": 66000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-13",
@@ -2327,7 +2327,7 @@
     },
     {
       "date": "2022-10-06",
-      "open": 8.3,
+      "open": 8.31,
       "high": 8.36,
       "low": 8.24,
       "close": 8.29,
@@ -10036,6 +10036,14 @@
       "low": 12.51,
       "close": 12.54,
       "volume": 110900
+    },
+    {
+      "date": "2026-08-12",
+      "open": 12.6,
+      "high": 12.61,
+      "low": 12.54,
+      "close": 12.58,
+      "volume": 110800
     }
   ]
 }

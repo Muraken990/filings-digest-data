@@ -1,17 +1,17 @@
 {
   "code": "INBKZ",
   "ticker": "INBKZ",
-  "last_updated": "2026-08-12 09:45:02",
+  "last_updated": "2026-08-13 09:45:19",
   "period": "5y",
-  "data_points": 1251,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-12",
-      "open": 18.75,
-      "high": 18.75,
-      "low": 18.75,
-      "close": 18.75,
-      "volume": 200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-13",
@@ -10012,6 +10012,14 @@
       "low": 25.43,
       "close": 25.43,
       "volume": 2500
+    },
+    {
+      "date": "2026-08-12",
+      "open": 25.64,
+      "high": 25.64,
+      "low": 25.64,
+      "close": 25.64,
+      "volume": 800
     }
   ]
 }

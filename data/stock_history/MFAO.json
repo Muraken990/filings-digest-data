@@ -1,9 +1,9 @@
 {
   "code": "MFAO",
   "ticker": "MFAO",
-  "last_updated": "2026-08-12 09:56:58",
+  "last_updated": "2026-08-13 09:57:06",
   "period": "5y",
-  "data_points": 576,
+  "data_points": 575,
   "data": [
     {
       "date": "2024-04-24",
@@ -4486,22 +4486,6 @@
       "volume": 7300
     },
     {
-      "date": "2026-07-21",
-      "open": 24.94,
-      "high": 24.94,
-      "low": 24.84,
-      "close": 24.86,
-      "volume": 10800
-    },
-    {
-      "date": "2026-07-22",
-      "open": 24.86,
-      "high": 24.94,
-      "low": 24.82,
-      "close": 24.91,
-      "volume": 22700
-    },
-    {
       "date": "2026-07-23",
       "open": 24.87,
       "high": 24.87,
@@ -4551,11 +4535,11 @@
     },
     {
       "date": "2026-07-31",
-      "open": 25.17,
-      "high": 25.17,
-      "low": 25.0,
-      "close": 25.04,
-      "volume": 30900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2026-08-03",
@@ -4612,6 +4596,14 @@
       "low": 25.05,
       "close": 25.08,
       "volume": 6100
+    },
+    {
+      "date": "2026-08-12",
+      "open": 25.05,
+      "high": 25.12,
+      "low": 25.05,
+      "close": 25.08,
+      "volume": 5200
     }
   ]
 }

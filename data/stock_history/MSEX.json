@@ -1,17 +1,17 @@
 {
   "code": "MSEX",
   "ticker": "MSEX",
-  "last_updated": "2026-08-12 09:59:35",
+  "last_updated": "2026-08-13 09:59:40",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-12",
-      "open": 96.03,
-      "high": 96.67,
-      "low": 94.77,
-      "close": 96.36,
-      "volume": 95200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-13",
@@ -194,7 +194,7 @@
       "open": 99.24,
       "high": 100.27,
       "low": 97.73,
-      "close": 98.16,
+      "close": 98.15,
       "volume": 112200
     },
     {
@@ -1153,7 +1153,7 @@
       "date": "2022-03-08",
       "open": 98.22,
       "high": 98.23,
-      "low": 94.34,
+      "low": 94.33,
       "close": 95.09,
       "volume": 137300
     },
@@ -1346,7 +1346,7 @@
       "open": 93.25,
       "high": 93.78,
       "low": 91.92,
-      "close": 92.6,
+      "close": 92.61,
       "volume": 63300
     },
     {
@@ -10036,6 +10036,14 @@
       "low": 57.7,
       "close": 58.28,
       "volume": 161700
+    },
+    {
+      "date": "2026-08-12",
+      "open": 58.02,
+      "high": 58.97,
+      "low": 58.02,
+      "close": 58.27,
+      "volume": 84600
     }
   ]
 }

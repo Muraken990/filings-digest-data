@@ -1,9 +1,9 @@
 {
   "code": "GIX",
   "ticker": "GIX",
-  "last_updated": "2026-08-12 09:37:14",
+  "last_updated": "2026-08-13 09:37:39",
   "period": "5y",
-  "data_points": 100,
+  "data_points": 98,
   "data": [
     {
       "date": "2026-03-19",
@@ -678,22 +678,6 @@
       "volume": 0
     },
     {
-      "date": "2026-07-21",
-      "open": 9.94,
-      "high": 9.94,
-      "low": 9.94,
-      "close": 9.94,
-      "volume": 3200
-    },
-    {
-      "date": "2026-07-22",
-      "open": 9.94,
-      "high": 9.94,
-      "low": 9.94,
-      "close": 9.94,
-      "volume": 0
-    },
-    {
       "date": "2026-07-23",
       "open": 9.94,
       "high": 9.94,
@@ -740,14 +724,6 @@
       "low": 9.94,
       "close": 9.95,
       "volume": 21300
-    },
-    {
-      "date": "2026-07-31",
-      "open": 9.95,
-      "high": 9.95,
-      "low": 9.94,
-      "close": 9.94,
-      "volume": 15000
     },
     {
       "date": "2026-08-03",
@@ -799,11 +775,19 @@
     },
     {
       "date": "2026-08-11",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 60394
+      "open": 9.96,
+      "high": 9.97,
+      "low": 9.96,
+      "close": 9.97,
+      "volume": 65900
+    },
+    {
+      "date": "2026-08-12",
+      "open": 9.97,
+      "high": 9.97,
+      "low": 9.97,
+      "close": 9.97,
+      "volume": 0
     }
   ]
 }
