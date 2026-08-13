@@ -1,17 +1,17 @@
 {
   "code": "EAD",
   "ticker": "EAD",
-  "last_updated": "2026-08-12 07:35:32",
+  "last_updated": "2026-08-13 07:33:02",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-12",
-      "open": 5.66,
-      "high": 5.67,
-      "low": 5.62,
-      "close": 5.62,
-      "volume": 388500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-13",
@@ -9910,22 +9910,6 @@
       "volume": 582400
     },
     {
-      "date": "2026-07-21",
-      "open": 6.41,
-      "high": 6.43,
-      "low": 6.39,
-      "close": 6.39,
-      "volume": 180400
-    },
-    {
-      "date": "2026-07-22",
-      "open": 6.39,
-      "high": 6.39,
-      "low": 6.36,
-      "close": 6.36,
-      "volume": 124600
-    },
-    {
       "date": "2026-07-23",
       "open": 6.34,
       "high": 6.35,
@@ -9972,14 +9956,6 @@
       "low": 6.28,
       "close": 6.3,
       "volume": 333800
-    },
-    {
-      "date": "2026-07-31",
-      "open": 6.32,
-      "high": 6.33,
-      "low": 6.29,
-      "close": 6.3,
-      "volume": 423100
     },
     {
       "date": "2026-08-03",
@@ -10036,6 +10012,14 @@
       "low": 6.4,
       "close": 6.44,
       "volume": 185900
+    },
+    {
+      "date": "2026-08-12",
+      "open": 6.42,
+      "high": 6.45,
+      "low": 6.41,
+      "close": 6.41,
+      "volume": 228500
     }
   ]
 }

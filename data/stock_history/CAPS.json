@@ -1,18 +1,10 @@
 {
   "code": "CAPS",
   "ticker": "CAPS",
-  "last_updated": "2026-08-12 07:22:42",
+  "last_updated": "2026-08-13 07:20:22",
   "period": "5y",
   "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-12",
-      "open": 36.01,
-      "high": 36.01,
-      "low": 36.01,
-      "close": 36.01,
-      "volume": 0
-    },
     {
       "date": "2021-08-13",
       "open": 36.01,
@@ -10027,7 +10019,15 @@
       "high": 0.33,
       "low": 0.29,
       "close": 0.32,
-      "volume": 334900
+      "volume": 362400
+    },
+    {
+      "date": "2026-08-12",
+      "open": 0.26,
+      "high": 0.27,
+      "low": 0.21,
+      "close": 0.23,
+      "volume": 9689100
     }
   ]
 }

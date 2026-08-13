@@ -1,9 +1,9 @@
 {
   "code": "CBRS",
   "ticker": "CBRS",
-  "last_updated": "2026-08-12 07:23:31",
+  "last_updated": "2026-08-13 07:21:10",
   "period": "5y",
-  "data_points": 61,
+  "data_points": 62,
   "data": [
     {
       "date": "2026-05-14",
@@ -491,7 +491,15 @@
       "high": 236.75,
       "low": 220.5,
       "close": 234.76,
-      "volume": 3191900
+      "volume": 3203200
+    },
+    {
+      "date": "2026-08-12",
+      "open": 248.82,
+      "high": 265.63,
+      "low": 240.88,
+      "close": 262.06,
+      "volume": 11013600
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "EMR",
   "ticker": "EMR",
-  "last_updated": "2026-08-12 07:37:17",
+  "last_updated": "2026-08-13 07:34:46",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-12",
-      "open": 94.25,
-      "high": 94.75,
-      "low": 93.68,
-      "close": 94.62,
-      "volume": 1920400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-13",
@@ -10036,6 +10036,14 @@
       "low": 159.0,
       "close": 164.38,
       "volume": 2530900
+    },
+    {
+      "date": "2026-08-12",
+      "open": 165.92,
+      "high": 166.35,
+      "low": 162.82,
+      "close": 163.8,
+      "volume": 2457100
     }
   ]
 }
