@@ -1,9 +1,9 @@
 {
   "code": "PTOR",
   "ticker": "PTOR",
-  "last_updated": "2026-08-12 12:06:55",
+  "last_updated": "2026-08-13 12:07:19",
   "period": "5y",
-  "data_points": 100,
+  "data_points": 101,
   "data": [
     {
       "date": "2026-03-16",
@@ -804,6 +804,14 @@
       "low": 9.93,
       "close": 9.96,
       "volume": 553300
+    },
+    {
+      "date": "2026-08-12",
+      "open": 9.98,
+      "high": 9.98,
+      "low": 9.96,
+      "close": 9.97,
+      "volume": 64800
     }
   ]
 }

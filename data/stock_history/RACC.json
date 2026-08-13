@@ -1,9 +1,9 @@
 {
   "code": "RACC",
   "ticker": "RACC",
-  "last_updated": "2026-08-12 12:08:33",
+  "last_updated": "2026-08-13 12:08:57",
   "period": "5y",
-  "data_points": 54,
+  "data_points": 55,
   "data": [
     {
       "date": "2026-05-20",
@@ -436,6 +436,14 @@
       "low": 24.25,
       "close": 26.66,
       "volume": 47500
+    },
+    {
+      "date": "2026-08-12",
+      "open": 26.59,
+      "high": 33.5,
+      "low": 26.59,
+      "close": 29.3,
+      "volume": 90900
     }
   ]
 }

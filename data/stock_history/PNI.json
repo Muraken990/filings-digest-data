@@ -1,26 +1,10 @@
 {
   "code": "PNI",
   "ticker": "PNI",
-  "last_updated": "2026-08-12 12:05:13",
+  "last_updated": "2026-08-13 12:05:37",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-11",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-08-12",
-      "open": 9.39,
-      "high": 9.47,
-      "low": 9.31,
-      "close": 9.47,
-      "volume": 18400
-    },
     {
       "date": "2021-08-13",
       "open": 9.46,
@@ -10020,6 +10004,14 @@
       "low": 6.94,
       "close": 6.96,
       "volume": 29000
+    },
+    {
+      "date": "2026-08-12",
+      "open": 6.98,
+      "high": 6.98,
+      "low": 6.93,
+      "close": 6.95,
+      "volume": 10700
     }
   ]
 }

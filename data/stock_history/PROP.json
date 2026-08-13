@@ -1,18 +1,10 @@
 {
   "code": "PROP",
   "ticker": "PROP",
-  "last_updated": "2026-08-12 12:06:05",
+  "last_updated": "2026-08-13 12:06:29",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-12",
-      "open": 73.82,
-      "high": 73.82,
-      "low": 73.82,
-      "close": 73.82,
-      "volume": 0
-    },
     {
       "date": "2021-08-13",
       "open": 88.24,
@@ -10035,7 +10027,15 @@
       "high": 0.89,
       "low": 0.8,
       "close": 0.89,
-      "volume": 1398600
+      "volume": 1399700
+    },
+    {
+      "date": "2026-08-12",
+      "open": 0.87,
+      "high": 0.88,
+      "low": 0.83,
+      "close": 0.88,
+      "volume": 872100
     }
   ]
 }

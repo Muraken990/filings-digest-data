@@ -1,18 +1,10 @@
 {
   "code": "SCM",
   "ticker": "SCM",
-  "last_updated": "2026-08-12 12:13:40",
+  "last_updated": "2026-08-13 12:14:06",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-12",
-      "open": 7.46,
-      "high": 7.57,
-      "low": 7.44,
-      "close": 7.53,
-      "volume": 39200
-    },
     {
       "date": "2021-08-13",
       "open": 7.58,
@@ -9910,22 +9902,6 @@
       "volume": 901600
     },
     {
-      "date": "2026-07-21",
-      "open": 7.05,
-      "high": 7.42,
-      "low": 7.05,
-      "close": 7.26,
-      "volume": 299400
-    },
-    {
-      "date": "2026-07-22",
-      "open": 7.19,
-      "high": 7.32,
-      "low": 7.03,
-      "close": 7.03,
-      "volume": 212400
-    },
-    {
       "date": "2026-07-23",
       "open": 7.09,
       "high": 7.09,
@@ -9975,11 +9951,11 @@
     },
     {
       "date": "2026-07-31",
-      "open": 7.31,
-      "high": 7.51,
-      "low": 7.25,
-      "close": 7.5,
-      "volume": 255000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2026-08-03",
@@ -10036,6 +10012,14 @@
       "low": 8.5,
       "close": 8.8,
       "volume": 285900
+    },
+    {
+      "date": "2026-08-12",
+      "open": 8.74,
+      "high": 8.8,
+      "low": 8.51,
+      "close": 8.76,
+      "volume": 162600
     }
   ]
 }
