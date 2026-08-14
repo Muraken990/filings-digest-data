@@ -1,17 +1,17 @@
 {
   "code": "BOE",
   "ticker": "BOE",
-  "last_updated": "2026-08-13 07:17:48",
+  "last_updated": "2026-08-14 07:20:37",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-13",
-      "open": 8.63,
-      "high": 8.63,
-      "low": 8.6,
-      "close": 8.63,
-      "volume": 164200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-16",
@@ -9902,22 +9902,6 @@
       "volume": 62600
     },
     {
-      "date": "2026-07-21",
-      "open": 12.09,
-      "high": 12.09,
-      "low": 11.94,
-      "close": 11.96,
-      "volume": 92600
-    },
-    {
-      "date": "2026-07-22",
-      "open": 12.0,
-      "high": 12.03,
-      "low": 11.92,
-      "close": 11.97,
-      "volume": 91600
-    },
-    {
       "date": "2026-07-23",
       "open": 11.93,
       "high": 11.97,
@@ -9964,14 +9948,6 @@
       "low": 11.86,
       "close": 12.14,
       "volume": 92900
-    },
-    {
-      "date": "2026-07-31",
-      "open": 12.21,
-      "high": 12.21,
-      "low": 12.06,
-      "close": 12.11,
-      "volume": 87500
     },
     {
       "date": "2026-08-03",
@@ -10036,6 +10012,14 @@
       "low": 12.42,
       "close": 12.5,
       "volume": 122700
+    },
+    {
+      "date": "2026-08-13",
+      "open": 12.49,
+      "high": 12.58,
+      "low": 12.41,
+      "close": 12.5,
+      "volume": 100700
     }
   ]
 }

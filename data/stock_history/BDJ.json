@@ -1,17 +1,17 @@
 {
   "code": "BDJ",
   "ticker": "BDJ",
-  "last_updated": "2026-08-13 07:14:28",
+  "last_updated": "2026-08-14 07:17:17",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-13",
-      "open": 6.53,
-      "high": 6.53,
-      "low": 6.47,
-      "close": 6.48,
-      "volume": 258300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-16",
@@ -1713,7 +1713,7 @@
       "date": "2022-06-17",
       "open": 6.03,
       "high": 6.1,
-      "low": 5.97,
+      "low": 5.98,
       "close": 6.02,
       "volume": 410200
     },
@@ -10036,6 +10036,14 @@
       "low": 9.86,
       "close": 9.89,
       "volume": 419600
+    },
+    {
+      "date": "2026-08-13",
+      "open": 9.91,
+      "high": 9.95,
+      "low": 9.88,
+      "close": 9.91,
+      "volume": 466200
     }
   ]
 }

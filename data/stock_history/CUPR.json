@@ -1,9 +1,9 @@
 {
   "code": "CUPR",
   "ticker": "CUPR",
-  "last_updated": "2026-08-13 07:27:59",
+  "last_updated": "2026-08-14 07:30:47",
   "period": "5y",
-  "data_points": 335,
+  "data_points": 337,
   "data": [
     {
       "date": "2025-04-10",
@@ -2558,6 +2558,14 @@
       "volume": 10900
     },
     {
+      "date": "2026-07-21",
+      "open": 3.84,
+      "high": 4.0,
+      "low": 3.76,
+      "close": 3.83,
+      "volume": 13600
+    },
+    {
       "date": "2026-07-22",
       "open": 3.72,
       "high": 3.97,
@@ -2684,6 +2692,14 @@
       "low": 2.85,
       "close": 3.0,
       "volume": 93200
+    },
+    {
+      "date": "2026-08-13",
+      "open": 3.13,
+      "high": 3.13,
+      "low": 2.87,
+      "close": 3.1,
+      "volume": 21300
     }
   ]
 }

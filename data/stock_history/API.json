@@ -1,18 +1,10 @@
 {
   "code": "API",
   "ticker": "API",
-  "last_updated": "2026-08-13 07:09:21",
+  "last_updated": "2026-08-14 07:12:14",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-13",
-      "open": 28.4,
-      "high": 29.9,
-      "low": 28.2,
-      "close": 28.51,
-      "volume": 683700
-    },
     {
       "date": "2021-08-16",
       "open": 28.2,
@@ -10011,7 +10003,15 @@
       "high": 4.68,
       "low": 4.46,
       "close": 4.48,
-      "volume": 501100
+      "volume": 504600
+    },
+    {
+      "date": "2026-08-13",
+      "open": 4.5,
+      "high": 4.86,
+      "low": 4.5,
+      "close": 4.83,
+      "volume": 346200
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CDTG",
   "ticker": "CDTG",
-  "last_updated": "2026-08-13 07:22:01",
+  "last_updated": "2026-08-14 07:24:49",
   "period": "5y",
-  "data_points": 579,
+  "data_points": 581,
   "data": [
     {
       "date": "2024-04-19",
@@ -4574,6 +4574,14 @@
       "volume": 42200
     },
     {
+      "date": "2026-07-31",
+      "open": 0.87,
+      "high": 0.9,
+      "low": 0.81,
+      "close": 0.89,
+      "volume": 35100
+    },
+    {
       "date": "2026-08-03",
       "open": 0.92,
       "high": 0.98,
@@ -4636,6 +4644,14 @@
       "low": 1.17,
       "close": 1.22,
       "volume": 60500
+    },
+    {
+      "date": "2026-08-13",
+      "open": 1.24,
+      "high": 1.65,
+      "low": 1.18,
+      "close": 1.6,
+      "volume": 1164300
     }
   ]
 }

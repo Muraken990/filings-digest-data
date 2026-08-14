@@ -1,17 +1,17 @@
 {
   "code": "DTF",
   "ticker": "DTF",
-  "last_updated": "2026-08-13 07:32:12",
+  "last_updated": "2026-08-14 07:34:58",
   "period": "5y",
-  "data_points": 1251,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-13",
-      "open": 12.49,
-      "high": 12.49,
-      "low": 12.43,
-      "close": 12.47,
-      "volume": 5300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-16",
@@ -5416,7 +5416,7 @@
     {
       "date": "2024-04-23",
       "open": 9.87,
-      "high": 9.93,
+      "high": 9.94,
       "low": 9.87,
       "close": 9.93,
       "volume": 7000
@@ -5424,7 +5424,7 @@
     {
       "date": "2024-04-24",
       "open": 9.93,
-      "high": 9.93,
+      "high": 9.94,
       "low": 9.93,
       "close": 9.93,
       "volume": 3700
@@ -10012,6 +10012,14 @@
       "low": 11.53,
       "close": 11.53,
       "volume": 1300
+    },
+    {
+      "date": "2026-08-13",
+      "open": 11.51,
+      "high": 11.54,
+      "low": 11.51,
+      "close": 11.51,
+      "volume": 400
     }
   ]
 }

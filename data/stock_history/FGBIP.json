@@ -1,26 +1,10 @@
 {
   "code": "FGBIP",
   "ticker": "FGBIP",
-  "last_updated": "2026-08-13 07:38:59",
+  "last_updated": "2026-08-14 07:41:42",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-12",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-08-13",
-      "open": 18.23,
-      "high": 18.23,
-      "low": 18.23,
-      "close": 18.23,
-      "volume": 500
-    },
     {
       "date": "2021-08-16",
       "open": 18.11,
@@ -10020,6 +10004,14 @@
       "low": 19.64,
       "close": 19.71,
       "volume": 4800
+    },
+    {
+      "date": "2026-08-13",
+      "open": 19.8,
+      "high": 19.84,
+      "low": 19.71,
+      "close": 19.71,
+      "volume": 3100
     }
   ]
 }
