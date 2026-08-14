@@ -1,9 +1,9 @@
 {
   "code": "GLND",
   "ticker": "GLND",
-  "last_updated": "2026-08-13 09:37:41",
+  "last_updated": "2026-08-14 09:37:25",
   "period": "5y",
-  "data_points": 98,
+  "data_points": 100,
   "data": [
     {
       "date": "2026-03-23",
@@ -662,6 +662,14 @@
       "volume": 454100
     },
     {
+      "date": "2026-07-21",
+      "open": 2.18,
+      "high": 2.23,
+      "low": 2.15,
+      "close": 2.21,
+      "volume": 479500
+    },
+    {
       "date": "2026-07-22",
       "open": 2.24,
       "high": 2.31,
@@ -787,7 +795,15 @@
       "high": 1.46,
       "low": 1.1,
       "close": 1.12,
-      "volume": 13980000
+      "volume": 14081600
+    },
+    {
+      "date": "2026-08-13",
+      "open": 1.13,
+      "high": 1.26,
+      "low": 1.12,
+      "close": 1.25,
+      "volume": 3756600
     }
   ]
 }

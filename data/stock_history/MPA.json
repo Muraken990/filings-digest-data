@@ -1,17 +1,17 @@
 {
   "code": "MPA",
   "ticker": "MPA",
-  "last_updated": "2026-08-13 09:58:51",
+  "last_updated": "2026-08-14 09:58:36",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-13",
-      "open": 12.36,
-      "high": 12.39,
-      "low": 12.36,
-      "close": 12.39,
-      "volume": 10400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-16",
@@ -10036,6 +10036,14 @@
       "low": 11.12,
       "close": 11.15,
       "volume": 11700
+    },
+    {
+      "date": "2026-08-13",
+      "open": 11.18,
+      "high": 11.23,
+      "low": 11.15,
+      "close": 11.18,
+      "volume": 23900
     }
   ]
 }

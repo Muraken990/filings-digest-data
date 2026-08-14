@@ -1,17 +1,17 @@
 {
   "code": "PECO",
   "ticker": "PECO",
-  "last_updated": "2026-08-13 10:10:42",
+  "last_updated": "2026-08-14 10:10:27",
   "period": "5y",
-  "data_points": 1251,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-13",
-      "open": 25.54,
-      "high": 26.11,
-      "low": 25.33,
-      "close": 25.48,
-      "volume": 171500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-16",
@@ -6898,7 +6898,7 @@
       "open": 34.49,
       "high": 34.49,
       "low": 33.88,
-      "close": 33.97,
+      "close": 33.96,
       "volume": 642800
     },
     {
@@ -10012,6 +10012,14 @@
       "low": 39.42,
       "close": 40.14,
       "volume": 537800
+    },
+    {
+      "date": "2026-08-13",
+      "open": 40.23,
+      "high": 40.54,
+      "low": 40.23,
+      "close": 40.43,
+      "volume": 524600
     }
   ]
 }

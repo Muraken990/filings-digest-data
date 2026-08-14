@@ -1,9 +1,9 @@
 {
   "code": "PEPG",
   "ticker": "PEPG",
-  "last_updated": "2026-08-13 10:10:43",
+  "last_updated": "2026-08-14 10:10:28",
   "period": "5y",
-  "data_points": 1069,
+  "data_points": 1071,
   "data": [
     {
       "date": "2022-05-06",
@@ -8494,6 +8494,14 @@
       "volume": 466900
     },
     {
+      "date": "2026-07-31",
+      "open": 1.83,
+      "high": 1.88,
+      "low": 1.71,
+      "close": 1.76,
+      "volume": 296800
+    },
+    {
       "date": "2026-08-03",
       "open": 1.77,
       "high": 1.93,
@@ -8556,6 +8564,14 @@
       "low": 2.86,
       "close": 2.9,
       "volume": 768000
+    },
+    {
+      "date": "2026-08-13",
+      "open": 2.9,
+      "high": 3.05,
+      "low": 2.8,
+      "close": 2.98,
+      "volume": 1392300
     }
   ]
 }

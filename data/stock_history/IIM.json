@@ -1,17 +1,17 @@
 {
   "code": "IIM",
   "ticker": "IIM",
-  "last_updated": "2026-08-13 09:45:15",
+  "last_updated": "2026-08-14 09:45:00",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-13",
-      "open": 12.49,
-      "high": 12.56,
-      "low": 12.47,
-      "close": 12.5,
-      "volume": 100400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-16",
@@ -3464,7 +3464,7 @@
     {
       "date": "2023-05-03",
       "open": 9.58,
-      "high": 9.61,
+      "high": 9.62,
       "low": 9.53,
       "close": 9.55,
       "volume": 103600
@@ -10036,6 +10036,14 @@
       "low": 12.67,
       "close": 12.69,
       "volume": 32300
+    },
+    {
+      "date": "2026-08-13",
+      "open": 12.7,
+      "high": 12.82,
+      "low": 12.68,
+      "close": 12.81,
+      "volume": 69600
     }
   ]
 }

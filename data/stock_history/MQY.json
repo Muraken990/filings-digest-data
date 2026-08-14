@@ -1,17 +1,17 @@
 {
   "code": "MQY",
   "ticker": "MQY",
-  "last_updated": "2026-08-13 09:59:37",
+  "last_updated": "2026-08-14 09:59:22",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1253,
   "data": [
     {
       "date": "2021-08-13",
-      "open": 12.81,
-      "high": 12.99,
-      "low": 12.77,
-      "close": 12.85,
-      "volume": 97700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-16",
@@ -10020,6 +10020,14 @@
       "low": 11.29,
       "close": 11.29,
       "volume": 356800
+    },
+    {
+      "date": "2026-08-13",
+      "open": 11.32,
+      "high": 11.37,
+      "low": 11.3,
+      "close": 11.36,
+      "volume": 637200
     }
   ]
 }

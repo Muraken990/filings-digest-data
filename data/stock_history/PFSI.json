@@ -1,17 +1,17 @@
 {
   "code": "PFSI",
   "ticker": "PFSI",
-  "last_updated": "2026-08-13 10:11:31",
+  "last_updated": "2026-08-14 10:11:16",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-13",
-      "open": 62.95,
-      "high": 64.12,
-      "low": 62.95,
-      "close": 63.42,
-      "volume": 369900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-16",
@@ -458,7 +458,7 @@
       "open": 60.85,
       "high": 61.65,
       "low": 59.97,
-      "close": 61.34,
+      "close": 61.33,
       "volume": 570800
     },
     {
@@ -1575,7 +1575,7 @@
     },
     {
       "date": "2022-05-24",
-      "open": 46.85,
+      "open": 46.86,
       "high": 47.7,
       "low": 46.22,
       "close": 47.25,
@@ -5377,7 +5377,7 @@
       "date": "2024-04-16",
       "open": 84.33,
       "high": 84.83,
-      "low": 83.39,
+      "low": 83.4,
       "close": 83.93,
       "volume": 164900
     },
@@ -10036,6 +10036,14 @@
       "low": 75.63,
       "close": 76.98,
       "volume": 556600
+    },
+    {
+      "date": "2026-08-13",
+      "open": 77.72,
+      "high": 80.38,
+      "low": 77.5,
+      "close": 79.48,
+      "volume": 488500
     }
   ]
 }

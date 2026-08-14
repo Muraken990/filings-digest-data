@@ -1,26 +1,10 @@
 {
   "code": "NPCT",
   "ticker": "NPCT",
-  "last_updated": "2026-08-13 10:03:55",
+  "last_updated": "2026-08-14 10:03:40",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-12",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-08-13",
-      "open": 11.47,
-      "high": 11.53,
-      "low": 11.44,
-      "close": 11.47,
-      "volume": 20100
-    },
     {
       "date": "2021-08-16",
       "open": 11.54,
@@ -10044,6 +10028,14 @@
       "low": 9.8,
       "close": 9.83,
       "volume": 111300
+    },
+    {
+      "date": "2026-08-13",
+      "open": 9.85,
+      "high": 9.89,
+      "low": 9.76,
+      "close": 9.87,
+      "volume": 75300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "LRHC",
   "ticker": "LRHC",
-  "last_updated": "2026-08-13 09:54:32",
+  "last_updated": "2026-08-14 09:54:17",
   "period": "5y",
-  "data_points": 712,
+  "data_points": 714,
   "data": [
     {
       "date": "2023-10-09",
@@ -5638,6 +5638,14 @@
       "volume": 38400
     },
     {
+      "date": "2026-07-31",
+      "open": 1.05,
+      "high": 1.07,
+      "low": 0.98,
+      "close": 0.98,
+      "volume": 40300
+    },
+    {
       "date": "2026-08-03",
       "open": 0.94,
       "high": 1.04,
@@ -5699,7 +5707,15 @@
       "high": 0.63,
       "low": 0.55,
       "close": 0.63,
-      "volume": 617200
+      "volume": 622000
+    },
+    {
+      "date": "2026-08-13",
+      "open": 0.6,
+      "high": 0.63,
+      "low": 0.59,
+      "close": 0.63,
+      "volume": 81800
     }
   ]
 }
