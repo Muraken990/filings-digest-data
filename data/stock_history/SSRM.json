@@ -1,17 +1,17 @@
 {
   "code": "SSRM",
   "ticker": "SSRM",
-  "last_updated": "2026-08-13 12:19:13",
+  "last_updated": "2026-08-14 12:19:28",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-13",
-      "open": 15.31,
-      "high": 15.73,
-      "low": 15.24,
-      "close": 15.69,
-      "volume": 1194200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-16",
@@ -9902,6 +9902,22 @@
       "volume": 2976600
     },
     {
+      "date": "2026-07-21",
+      "open": 25.78,
+      "high": 27.3,
+      "low": 25.64,
+      "close": 27.21,
+      "volume": 3458900
+    },
+    {
+      "date": "2026-07-22",
+      "open": 27.73,
+      "high": 28.74,
+      "low": 27.73,
+      "close": 28.08,
+      "volume": 2570200
+    },
+    {
       "date": "2026-07-23",
       "open": 27.3,
       "high": 27.69,
@@ -10019,7 +10035,15 @@
       "high": 33.08,
       "low": 32.17,
       "close": 32.52,
-      "volume": 2273200
+      "volume": 2274400
+    },
+    {
+      "date": "2026-08-13",
+      "open": 32.14,
+      "high": 32.15,
+      "low": 31.35,
+      "close": 31.83,
+      "volume": 2600000
     }
   ]
 }

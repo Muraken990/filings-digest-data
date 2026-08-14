@@ -1,17 +1,17 @@
 {
   "code": "SMP",
   "ticker": "SMP",
-  "last_updated": "2026-08-13 12:17:28",
+  "last_updated": "2026-08-14 12:17:43",
   "period": "5y",
-  "data_points": 1251,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-13",
-      "open": 38.55,
-      "high": 38.58,
-      "low": 37.46,
-      "close": 37.57,
-      "volume": 82800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-16",
@@ -2352,7 +2352,7 @@
     {
       "date": "2022-10-12",
       "open": 30.18,
-      "high": 30.64,
+      "high": 30.65,
       "low": 29.86,
       "close": 30.47,
       "volume": 93300
@@ -3369,7 +3369,7 @@
       "date": "2023-04-17",
       "open": 32.4,
       "high": 32.65,
-      "low": 32.15,
+      "low": 32.16,
       "close": 32.42,
       "volume": 45100
     },
@@ -10011,7 +10011,15 @@
       "high": 40.06,
       "low": 39.0,
       "close": 39.27,
-      "volume": 106000
+      "volume": 109100
+    },
+    {
+      "date": "2026-08-13",
+      "open": 39.6,
+      "high": 39.7,
+      "low": 38.96,
+      "close": 38.96,
+      "volume": 116800
     }
   ]
 }

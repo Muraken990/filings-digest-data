@@ -1,9 +1,9 @@
 {
   "code": "SSAC",
   "ticker": "SSAC",
-  "last_updated": "2026-08-13 12:19:12",
+  "last_updated": "2026-08-14 12:19:27",
   "period": "5y",
-  "data_points": 112,
+  "data_points": 113,
   "data": [
     {
       "date": "2026-02-27",
@@ -899,7 +899,15 @@
       "high": 10.06,
       "low": 10.05,
       "close": 10.06,
-      "volume": 600
+      "volume": 1700
+    },
+    {
+      "date": "2026-08-13",
+      "open": 10.06,
+      "high": 10.06,
+      "low": 10.05,
+      "close": 10.05,
+      "volume": 34600
     }
   ]
 }

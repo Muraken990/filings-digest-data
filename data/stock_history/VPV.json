@@ -1,17 +1,17 @@
 {
   "code": "VPV",
   "ticker": "VPV",
-  "last_updated": "2026-08-13 12:30:14",
+  "last_updated": "2026-08-14 12:30:27",
   "period": "5y",
-  "data_points": 1251,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-13",
-      "open": 10.31,
-      "high": 10.31,
-      "low": 10.28,
-      "close": 10.31,
-      "volume": 30400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-16",
@@ -10012,6 +10012,14 @@
       "low": 11.15,
       "close": 11.21,
       "volume": 18700
+    },
+    {
+      "date": "2026-08-13",
+      "open": 11.22,
+      "high": 11.3,
+      "low": 11.15,
+      "close": 11.3,
+      "volume": 55800
     }
   ]
 }

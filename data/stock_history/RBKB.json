@@ -1,18 +1,10 @@
 {
   "code": "RBKB",
   "ticker": "RBKB",
-  "last_updated": "2026-08-13 12:09:00",
+  "last_updated": "2026-08-14 12:09:15",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-13",
-      "open": 7.79,
-      "high": 7.79,
-      "low": 7.79,
-      "close": 7.79,
-      "volume": 419
-    },
     {
       "date": "2021-08-16",
       "open": 7.78,
@@ -9911,11 +9903,11 @@
     },
     {
       "date": "2026-07-22",
-      "open": 11.0,
-      "high": 12.2,
-      "low": 11.0,
-      "close": 12.04,
-      "volume": 1362200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2026-07-23",
@@ -10036,6 +10028,14 @@
       "low": 12.48,
       "close": 12.76,
       "volume": 135600
+    },
+    {
+      "date": "2026-08-13",
+      "open": 12.8,
+      "high": 12.87,
+      "low": 12.51,
+      "close": 12.73,
+      "volume": 60300
     }
   ]
 }

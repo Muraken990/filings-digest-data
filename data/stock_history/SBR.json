@@ -1,17 +1,17 @@
 {
   "code": "SBR",
   "ticker": "SBR",
-  "last_updated": "2026-08-13 12:14:04",
+  "last_updated": "2026-08-14 12:14:19",
   "period": "5y",
-  "data_points": 1251,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-13",
-      "open": 24.95,
-      "high": 25.42,
-      "low": 24.95,
-      "close": 25.01,
-      "volume": 39400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-16",
@@ -2522,7 +2522,7 @@
       "open": 64.25,
       "high": 64.78,
       "low": 62.88,
-      "close": 64.13,
+      "close": 64.14,
       "volume": 80900
     },
     {
@@ -3698,7 +3698,7 @@
       "open": 52.65,
       "high": 53.16,
       "low": 52.2,
-      "close": 52.45,
+      "close": 52.44,
       "volume": 63400
     },
     {
@@ -4600,7 +4600,7 @@
     {
       "date": "2023-11-24",
       "open": 50.13,
-      "high": 51.3,
+      "high": 51.31,
       "low": 49.96,
       "close": 50.45,
       "volume": 37900
@@ -10012,6 +10012,14 @@
       "low": 72.22,
       "close": 72.98,
       "volume": 23400
+    },
+    {
+      "date": "2026-08-13",
+      "open": 72.56,
+      "high": 73.12,
+      "low": 72.5,
+      "close": 72.75,
+      "volume": 21500
     }
   ]
 }

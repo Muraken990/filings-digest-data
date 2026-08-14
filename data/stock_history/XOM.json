@@ -1,26 +1,10 @@
 {
   "code": "XOM",
   "ticker": "XOM",
-  "last_updated": "2026-08-13 12:33:42",
+  "last_updated": "2026-08-14 12:33:55",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-12",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-08-13",
-      "open": 48.17,
-      "high": 48.2,
-      "low": 47.55,
-      "close": 47.95,
-      "volume": 20063000
-    },
     {
       "date": "2021-08-16",
       "open": 47.32,
@@ -6306,7 +6290,7 @@
       "open": 108.99,
       "high": 110.82,
       "low": 108.52,
-      "close": 110.66,
+      "close": 110.65,
       "volume": 13247600
     },
     {
@@ -10043,7 +10027,15 @@
       "high": 160.23,
       "low": 157.56,
       "close": 159.75,
-      "volume": 12975800
+      "volume": 13219500
+    },
+    {
+      "date": "2026-08-13",
+      "open": 158.03,
+      "high": 159.76,
+      "low": 157.43,
+      "close": 158.61,
+      "volume": 10539000
     }
   ]
 }

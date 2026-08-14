@@ -1,17 +1,17 @@
 {
   "code": "PZZA",
   "ticker": "PZZA",
-  "last_updated": "2026-08-13 12:08:07",
+  "last_updated": "2026-08-14 12:08:22",
   "period": "5y",
-  "data_points": 1251,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-13",
-      "open": 107.12,
-      "high": 110.3,
-      "low": 106.62,
-      "close": 109.99,
-      "volume": 511500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-16",
@@ -2441,7 +2441,7 @@
       "date": "2022-10-27",
       "open": 62.3,
       "high": 63.4,
-      "low": 61.77,
+      "low": 61.78,
       "close": 61.96,
       "volume": 378700
     },
@@ -4082,7 +4082,7 @@
       "open": 67.87,
       "high": 68.31,
       "low": 67.47,
-      "close": 67.55,
+      "close": 67.56,
       "volume": 436000
     },
     {
@@ -6095,7 +6095,7 @@
     },
     {
       "date": "2024-08-23",
-      "open": 41.98,
+      "open": 41.99,
       "high": 42.51,
       "low": 41.35,
       "close": 42.35,
@@ -10012,6 +10012,14 @@
       "low": 23.79,
       "close": 24.09,
       "volume": 1326200
+    },
+    {
+      "date": "2026-08-13",
+      "open": 24.33,
+      "high": 24.98,
+      "low": 24.31,
+      "close": 24.43,
+      "volume": 1392500
     }
   ]
 }

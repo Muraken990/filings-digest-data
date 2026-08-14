@@ -1,18 +1,10 @@
 {
   "code": "PLUS",
   "ticker": "PLUS",
-  "last_updated": "2026-08-13 12:05:34",
+  "last_updated": "2026-08-14 12:05:49",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-13",
-      "open": 50.31,
-      "high": 50.46,
-      "low": 49.43,
-      "close": 50.17,
-      "volume": 75200
-    },
     {
       "date": "2021-08-16",
       "open": 50.19,
@@ -10011,7 +10003,15 @@
       "high": 89.53,
       "low": 87.11,
       "close": 88.74,
-      "volume": 171700
+      "volume": 275700
+    },
+    {
+      "date": "2026-08-13",
+      "open": 88.9,
+      "high": 89.1,
+      "low": 87.41,
+      "close": 88.72,
+      "volume": 171200
     }
   ]
 }

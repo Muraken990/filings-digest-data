@@ -1,17 +1,17 @@
 {
   "code": "WWD",
   "ticker": "WWD",
-  "last_updated": "2026-08-13 12:33:38",
+  "last_updated": "2026-08-14 12:33:51",
   "period": "5y",
-  "data_points": 1251,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-13",
-      "open": 114.23,
-      "high": 114.96,
-      "low": 113.12,
-      "close": 113.39,
-      "volume": 127700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-16",
@@ -5057,7 +5057,7 @@
       "date": "2024-02-16",
       "open": 136.42,
       "high": 137.77,
-      "low": 135.98,
+      "low": 135.99,
       "close": 136.17,
       "volume": 248500
     },
@@ -10012,6 +10012,14 @@
       "low": 358.36,
       "close": 362.7,
       "volume": 510900
+    },
+    {
+      "date": "2026-08-13",
+      "open": 364.17,
+      "high": 365.66,
+      "low": 356.69,
+      "close": 358.54,
+      "volume": 461400
     }
   ]
 }
