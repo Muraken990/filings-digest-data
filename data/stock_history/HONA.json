@@ -1,9 +1,9 @@
 {
   "code": "HONA",
   "ticker": "HONA",
-  "last_updated": "2026-08-14 09:41:40",
+  "last_updated": "2026-08-15 09:41:37",
   "period": "5y",
-  "data_points": 42,
+  "data_points": 43,
   "data": [
     {
       "date": "2026-06-15",
@@ -339,7 +339,15 @@
       "high": 171.2,
       "low": 165.11,
       "close": 169.81,
-      "volume": 2506900
+      "volume": 2508000
+    },
+    {
+      "date": "2026-08-14",
+      "open": 169.69,
+      "high": 171.49,
+      "low": 165.03,
+      "close": 166.36,
+      "volume": 3417400
     }
   ]
 }

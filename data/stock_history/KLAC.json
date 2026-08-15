@@ -1,18 +1,10 @@
 {
   "code": "KLAC",
   "ticker": "KLAC",
-  "last_updated": "2026-08-14 09:50:03",
+  "last_updated": "2026-08-15 09:50:11",
   "period": "5y",
   "data_points": 1255,
   "data": [
-    {
-      "date": "2021-08-13",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-08-16",
       "open": 31.19,
@@ -433,7 +425,7 @@
       "date": "2021-10-28",
       "open": 34.94,
       "high": 37.09,
-      "low": 33.62,
+      "low": 33.61,
       "close": 33.89,
       "volume": 23508000
     },
@@ -2562,7 +2554,7 @@
       "open": 35.04,
       "high": 36.46,
       "low": 34.87,
-      "close": 36.41,
+      "close": 36.42,
       "volume": 9875000
     },
     {
@@ -10043,7 +10035,15 @@
       "high": 214.8,
       "low": 207.0,
       "close": 209.37,
-      "volume": 8537000
+      "volume": 8543100
+    },
+    {
+      "date": "2026-08-14",
+      "open": 206.8,
+      "high": 208.87,
+      "low": 200.86,
+      "close": 203.72,
+      "volume": 7349600
     }
   ]
 }
