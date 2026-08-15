@@ -1,18 +1,10 @@
 {
   "code": "VLT",
   "ticker": "VLT",
-  "last_updated": "2026-08-14 12:29:39",
+  "last_updated": "2026-08-15 12:30:23",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-13",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-08-16",
       "open": 8.94,
@@ -10020,6 +10012,14 @@
       "low": 10.12,
       "close": 10.12,
       "volume": 18000
+    },
+    {
+      "date": "2026-08-14",
+      "open": 10.16,
+      "high": 10.17,
+      "low": 10.11,
+      "close": 10.13,
+      "volume": 9100
     }
   ]
 }

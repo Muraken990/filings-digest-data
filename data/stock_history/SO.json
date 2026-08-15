@@ -1,18 +1,10 @@
 {
   "code": "SO",
   "ticker": "SO",
-  "last_updated": "2026-08-14 12:17:47",
+  "last_updated": "2026-08-15 12:18:32",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1255,
   "data": [
-    {
-      "date": "2021-08-13",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-08-16",
       "open": 55.12,
@@ -9902,6 +9894,22 @@
       "volume": 4963800
     },
     {
+      "date": "2026-07-21",
+      "open": 94.01,
+      "high": 94.44,
+      "low": 93.21,
+      "close": 93.85,
+      "volume": 4622300
+    },
+    {
+      "date": "2026-07-22",
+      "open": 94.81,
+      "high": 95.85,
+      "low": 94.4,
+      "close": 95.8,
+      "volume": 4510800
+    },
+    {
       "date": "2026-07-23",
       "open": 95.01,
       "high": 96.67,
@@ -10028,6 +10036,14 @@
       "low": 92.44,
       "close": 92.79,
       "volume": 3447800
+    },
+    {
+      "date": "2026-08-14",
+      "open": 92.59,
+      "high": 93.39,
+      "low": 92.54,
+      "close": 92.8,
+      "volume": 4185100
     }
   ]
 }

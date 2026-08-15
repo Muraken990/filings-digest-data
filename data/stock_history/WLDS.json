@@ -1,9 +1,9 @@
 {
   "code": "WLDS",
   "ticker": "WLDS",
-  "last_updated": "2026-08-14 12:32:13",
+  "last_updated": "2026-08-15 12:32:56",
   "period": "5y",
-  "data_points": 981,
+  "data_points": 984,
   "data": [
     {
       "date": "2022-09-13",
@@ -7726,6 +7726,22 @@
       "volume": 50100
     },
     {
+      "date": "2026-07-21",
+      "open": 1.44,
+      "high": 1.56,
+      "low": 1.39,
+      "close": 1.51,
+      "volume": 58700
+    },
+    {
+      "date": "2026-07-22",
+      "open": 1.5,
+      "high": 1.59,
+      "low": 1.4,
+      "close": 1.48,
+      "volume": 41200
+    },
+    {
       "date": "2026-07-23",
       "open": 1.72,
       "high": 2.58,
@@ -7851,7 +7867,15 @@
       "high": 3.09,
       "low": 2.76,
       "close": 2.85,
-      "volume": 196400
+      "volume": 201300
+    },
+    {
+      "date": "2026-08-14",
+      "open": 2.88,
+      "high": 2.95,
+      "low": 2.71,
+      "close": 2.9,
+      "volume": 422400
     }
   ]
 }

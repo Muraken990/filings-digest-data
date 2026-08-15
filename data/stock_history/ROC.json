@@ -1,9 +1,9 @@
 {
   "code": "ROC",
   "ticker": "ROC",
-  "last_updated": "2026-08-14 12:11:48",
+  "last_updated": "2026-08-15 12:12:36",
   "period": "5y",
-  "data_points": 120,
+  "data_points": 121,
   "data": [
     {
       "date": "2026-02-23",
@@ -963,7 +963,15 @@
       "high": 4.62,
       "low": 4.29,
       "close": 4.49,
-      "volume": 43600
+      "volume": 44500
+    },
+    {
+      "date": "2026-08-14",
+      "open": 4.2,
+      "high": 4.6,
+      "low": 4.2,
+      "close": 4.34,
+      "volume": 62000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "PRS",
   "ticker": "PRS",
-  "last_updated": "2026-08-14 12:07:29",
+  "last_updated": "2026-08-15 12:08:18",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
     {
       "date": "2021-08-16",
@@ -9894,22 +9894,6 @@
       "volume": 42200
     },
     {
-      "date": "2026-07-21",
-      "open": 21.67,
-      "high": 21.81,
-      "low": 21.54,
-      "close": 21.58,
-      "volume": 33300
-    },
-    {
-      "date": "2026-07-22",
-      "open": 21.47,
-      "high": 21.59,
-      "low": 21.45,
-      "close": 21.47,
-      "volume": 37200
-    },
-    {
       "date": "2026-07-23",
       "open": 21.45,
       "high": 21.5,
@@ -9959,11 +9943,11 @@
     },
     {
       "date": "2026-07-31",
-      "open": 21.49,
-      "high": 21.65,
-      "low": 21.47,
-      "close": 21.58,
-      "volume": 55100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2026-08-03",
@@ -10036,6 +10020,14 @@
       "low": 20.91,
       "close": 20.92,
       "volume": 36500
+    },
+    {
+      "date": "2026-08-14",
+      "open": 20.9,
+      "high": 20.93,
+      "low": 20.79,
+      "close": 20.86,
+      "volume": 28800
     }
   ]
 }

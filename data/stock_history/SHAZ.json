@@ -1,9 +1,9 @@
 {
   "code": "SHAZ",
   "ticker": "SHAZ",
-  "last_updated": "2026-08-14 12:16:00",
+  "last_updated": "2026-08-15 12:16:46",
   "period": "5y",
-  "data_points": 123,
+  "data_points": 124,
   "data": [
     {
       "date": "2026-02-18",
@@ -987,7 +987,15 @@
       "high": 74.14,
       "low": 67.61,
       "close": 72.02,
-      "volume": 1789100
+      "volume": 1791000
+    },
+    {
+      "date": "2026-08-14",
+      "open": 70.01,
+      "high": 76.9,
+      "low": 69.0,
+      "close": 76.47,
+      "volume": 1424700
     }
   ]
 }
