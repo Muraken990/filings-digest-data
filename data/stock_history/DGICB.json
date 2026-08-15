@@ -1,9 +1,9 @@
 {
   "code": "DGICB",
   "ticker": "DGICB",
-  "last_updated": "2026-08-14 07:33:16",
+  "last_updated": "2026-08-15 07:33:40",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
     {
       "date": "2021-08-16",
@@ -9894,22 +9894,6 @@
       "volume": 3300
     },
     {
-      "date": "2026-07-21",
-      "open": 24.29,
-      "high": 24.29,
-      "low": 21.64,
-      "close": 21.64,
-      "volume": 4300
-    },
-    {
-      "date": "2026-07-22",
-      "open": 23.59,
-      "high": 23.59,
-      "low": 21.48,
-      "close": 22.8,
-      "volume": 15600
-    },
-    {
       "date": "2026-07-23",
       "open": 22.42,
       "high": 22.42,
@@ -9959,11 +9943,11 @@
     },
     {
       "date": "2026-07-31",
-      "open": 20.5,
-      "high": 22.4,
-      "low": 20.5,
-      "close": 22.4,
-      "volume": 800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2026-08-03",
@@ -10036,6 +10020,14 @@
       "low": 23.0,
       "close": 24.49,
       "volume": 5400
+    },
+    {
+      "date": "2026-08-14",
+      "open": 23.75,
+      "high": 24.1,
+      "low": 23.75,
+      "close": 24.1,
+      "volume": 1200
     }
   ]
 }
