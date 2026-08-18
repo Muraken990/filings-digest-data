@@ -1,26 +1,10 @@
 {
   "code": "EPC",
   "ticker": "EPC",
-  "last_updated": "2026-08-17 07:37:30",
+  "last_updated": "2026-08-18 07:38:31",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 40.24,
-      "high": 40.73,
-      "low": 40.01,
-      "close": 40.44,
-      "volume": 224700
-    },
-    {
-      "date": "2021-08-17",
-      "open": 40.26,
-      "high": 40.68,
-      "low": 40.05,
-      "close": 40.52,
-      "volume": 269100
-    },
     {
       "date": "2021-08-18",
       "open": 40.35,
@@ -3288,7 +3272,7 @@
     {
       "date": "2023-04-03",
       "open": 39.36,
-      "high": 40.88,
+      "high": 40.87,
       "low": 39.36,
       "close": 40.81,
       "volume": 390500
@@ -6242,7 +6226,7 @@
       "open": 34.87,
       "high": 34.91,
       "low": 34.44,
-      "close": 34.72,
+      "close": 34.73,
       "volume": 1063700
     },
     {
@@ -10020,6 +10004,14 @@
       "low": 27.93,
       "close": 28.42,
       "volume": 381700
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 297336
     }
   ]
 }

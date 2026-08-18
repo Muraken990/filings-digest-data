@@ -1,26 +1,10 @@
 {
   "code": "DDOG",
   "ticker": "DDOG",
-  "last_updated": "2026-08-17 07:31:36",
+  "last_updated": "2026-08-18 07:32:36",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 135.51,
-      "high": 136.22,
-      "low": 129.29,
-      "close": 133.52,
-      "volume": 2893900
-    },
-    {
-      "date": "2021-08-17",
-      "open": 132.62,
-      "high": 134.19,
-      "low": 131.04,
-      "close": 133.0,
-      "volume": 1622800
-    },
     {
       "date": "2021-08-18",
       "open": 133.0,
@@ -10043,7 +10027,15 @@
       "high": 257.96,
       "low": 248.39,
       "close": 255.46,
-      "volume": 4421900
+      "volume": 4423300
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3765036
     }
   ]
 }

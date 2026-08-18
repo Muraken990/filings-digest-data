@@ -1,26 +1,10 @@
 {
   "code": "BBD",
   "ticker": "BBD",
-  "last_updated": "2026-08-17 07:15:33",
+  "last_updated": "2026-08-18 07:16:28",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 3.24,
-      "high": 3.25,
-      "low": 3.16,
-      "close": 3.17,
-      "volume": 17581000
-    },
-    {
-      "date": "2021-08-17",
-      "open": 3.13,
-      "high": 3.22,
-      "low": 3.11,
-      "close": 3.16,
-      "volume": 26145600
-    },
     {
       "date": "2021-08-18",
       "open": 3.15,
@@ -9225,7 +9209,7 @@
       "date": "2026-03-19",
       "open": 3.29,
       "high": 3.43,
-      "low": 3.27,
+      "low": 3.28,
       "close": 3.4,
       "volume": 34826100
     },
@@ -10044,6 +10028,14 @@
       "low": 3.08,
       "close": 3.14,
       "volume": 27752900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 31731910
     }
   ]
 }

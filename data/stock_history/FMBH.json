@@ -1,25 +1,17 @@
 {
   "code": "FMBH",
   "ticker": "FMBH",
-  "last_updated": "2026-08-17 07:41:44",
+  "last_updated": "2026-08-18 07:42:49",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1255,
   "data": [
     {
-      "date": "2021-08-16",
-      "open": 35.53,
-      "high": 36.32,
-      "low": 35.51,
-      "close": 35.85,
-      "volume": 14900
-    },
-    {
       "date": "2021-08-17",
-      "open": 35.55,
-      "high": 35.72,
-      "low": 35.11,
-      "close": 35.4,
-      "volume": 15000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-18",
@@ -256,7 +248,7 @@
     {
       "date": "2021-09-29",
       "open": 35.92,
-      "high": 36.44,
+      "high": 36.45,
       "low": 35.92,
       "close": 36.22,
       "volume": 12700
@@ -9894,6 +9886,22 @@
       "volume": 177400
     },
     {
+      "date": "2026-07-21",
+      "open": 49.27,
+      "high": 49.61,
+      "low": 48.91,
+      "close": 49.31,
+      "volume": 186700
+    },
+    {
+      "date": "2026-07-22",
+      "open": 49.31,
+      "high": 49.41,
+      "low": 48.23,
+      "close": 48.5,
+      "volume": 126900
+    },
+    {
       "date": "2026-07-23",
       "open": 48.42,
       "high": 50.25,
@@ -9940,6 +9948,14 @@
       "low": 51.92,
       "close": 51.92,
       "volume": 114500
+    },
+    {
+      "date": "2026-07-31",
+      "open": 51.71,
+      "high": 52.42,
+      "low": 50.3,
+      "close": 52.09,
+      "volume": 124600
     },
     {
       "date": "2026-08-03",
@@ -10020,6 +10036,14 @@
       "low": 51.75,
       "close": 52.01,
       "volume": 92500
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 104403
     }
   ]
 }

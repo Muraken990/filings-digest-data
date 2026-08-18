@@ -1,26 +1,10 @@
 {
   "code": "DGXX",
   "ticker": "DGXX",
-  "last_updated": "2026-08-17 07:32:25",
+  "last_updated": "2026-08-18 07:33:25",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 5.67,
-      "high": 5.85,
-      "low": 5.49,
-      "close": 5.7,
-      "volume": 54100
-    },
-    {
-      "date": "2021-08-17",
-      "open": 5.5,
-      "high": 5.59,
-      "low": 4.86,
-      "close": 4.92,
-      "volume": 99267
-    },
     {
       "date": "2021-08-18",
       "open": 4.86,
@@ -10043,7 +10027,15 @@
       "high": 3.98,
       "low": 3.72,
       "close": 3.97,
-      "volume": 6729200
+      "volume": 6783300
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2889078
     }
   ]
 }

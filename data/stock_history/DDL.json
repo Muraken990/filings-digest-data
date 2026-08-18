@@ -1,26 +1,10 @@
 {
   "code": "DDL",
   "ticker": "DDL",
-  "last_updated": "2026-08-17 07:31:36",
+  "last_updated": "2026-08-18 07:32:36",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 18.96,
-      "high": 18.97,
-      "low": 17.3,
-      "close": 18.22,
-      "volume": 84300
-    },
-    {
-      "date": "2021-08-17",
-      "open": 17.81,
-      "high": 19.72,
-      "low": 17.81,
-      "close": 19.52,
-      "volume": 53900
-    },
     {
       "date": "2021-08-18",
       "open": 19.92,
@@ -10035,7 +10019,15 @@
       "high": 2.43,
       "low": 2.33,
       "close": 2.39,
-      "volume": 231700
+      "volume": 241700
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 712565
     }
   ]
 }

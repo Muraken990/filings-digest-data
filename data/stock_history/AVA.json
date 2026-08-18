@@ -1,26 +1,10 @@
 {
   "code": "AVA",
   "ticker": "AVA",
-  "last_updated": "2026-08-17 07:14:38",
+  "last_updated": "2026-08-18 07:15:32",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 32.95,
-      "high": 33.44,
-      "low": 32.86,
-      "close": 33.35,
-      "volume": 329700
-    },
-    {
-      "date": "2021-08-17",
-      "open": 33.2,
-      "high": 33.95,
-      "low": 33.09,
-      "close": 33.93,
-      "volume": 291600
-    },
     {
       "date": "2021-08-18",
       "open": 33.87,
@@ -2207,7 +2191,7 @@
     },
     {
       "date": "2022-09-19",
-      "open": 33.67,
+      "open": 33.68,
       "high": 33.92,
       "low": 33.44,
       "close": 33.89,
@@ -10020,6 +10004,14 @@
       "low": 38.55,
       "close": 39.15,
       "volume": 461700
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 399633
     }
   ]
 }

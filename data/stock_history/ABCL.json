@@ -1,26 +1,10 @@
 {
   "code": "ABCL",
   "ticker": "ABCL",
-  "last_updated": "2026-08-17 07:05:24",
+  "last_updated": "2026-08-18 07:06:14",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 17.83,
-      "high": 17.94,
-      "low": 16.68,
-      "close": 17.66,
-      "volume": 2011700
-    },
-    {
-      "date": "2021-08-17",
-      "open": 16.66,
-      "high": 17.22,
-      "low": 15.5,
-      "close": 16.59,
-      "volume": 3084100
-    },
     {
       "date": "2021-08-18",
       "open": 16.98,
@@ -10043,7 +10027,15 @@
       "high": 11.5,
       "low": 10.47,
       "close": 11.38,
-      "volume": 12332100
+      "volume": 12375100
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 7706678
     }
   ]
 }

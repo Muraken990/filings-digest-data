@@ -1,26 +1,10 @@
 {
   "code": "AX",
   "ticker": "AX",
-  "last_updated": "2026-08-17 07:14:42",
+  "last_updated": "2026-08-18 07:15:35",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 49.54,
-      "high": 50.24,
-      "low": 48.93,
-      "close": 49.84,
-      "volume": 142200
-    },
-    {
-      "date": "2021-08-17",
-      "open": 49.29,
-      "high": 49.51,
-      "low": 48.19,
-      "close": 48.76,
-      "volume": 148700
-    },
     {
       "date": "2021-08-18",
       "open": 48.7,
@@ -10020,6 +10004,14 @@
       "low": 100.66,
       "close": 102.16,
       "volume": 368800
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 255042
     }
   ]
 }

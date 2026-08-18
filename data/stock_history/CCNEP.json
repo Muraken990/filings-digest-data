@@ -1,25 +1,17 @@
 {
   "code": "CCNEP",
   "ticker": "CCNEP",
-  "last_updated": "2026-08-17 07:23:09",
+  "last_updated": "2026-08-18 07:24:05",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1255,
   "data": [
     {
-      "date": "2021-08-16",
-      "open": 19.01,
-      "high": 19.67,
-      "low": 19.01,
-      "close": 19.67,
-      "volume": 1000
-    },
-    {
       "date": "2021-08-17",
-      "open": 19.38,
-      "high": 19.55,
-      "low": 18.92,
-      "close": 19.38,
-      "volume": 6800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-18",
@@ -9894,6 +9886,22 @@
       "volume": 900
     },
     {
+      "date": "2026-07-21",
+      "open": 24.46,
+      "high": 24.63,
+      "low": 24.41,
+      "close": 24.53,
+      "volume": 7800
+    },
+    {
+      "date": "2026-07-22",
+      "open": 24.61,
+      "high": 24.61,
+      "low": 24.61,
+      "close": 24.61,
+      "volume": 600
+    },
+    {
       "date": "2026-07-23",
       "open": 24.54,
       "high": 24.54,
@@ -9940,6 +9948,14 @@
       "low": 24.59,
       "close": 24.59,
       "volume": 200
+    },
+    {
+      "date": "2026-07-31",
+      "open": 24.68,
+      "high": 24.69,
+      "low": 24.64,
+      "close": 24.67,
+      "volume": 2300
     },
     {
       "date": "2026-08-03",
@@ -10020,6 +10036,14 @@
       "low": 24.98,
       "close": 24.98,
       "volume": 1000
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3252
     }
   ]
 }

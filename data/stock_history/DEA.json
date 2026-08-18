@@ -1,26 +1,10 @@
 {
   "code": "DEA",
   "ticker": "DEA",
-  "last_updated": "2026-08-17 07:31:37",
+  "last_updated": "2026-08-18 07:32:36",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 37.54,
-      "high": 38.1,
-      "low": 37.54,
-      "close": 37.67,
-      "volume": 290720
-    },
-    {
-      "date": "2021-08-17",
-      "open": 37.54,
-      "high": 37.85,
-      "low": 37.26,
-      "close": 37.74,
-      "volume": 240920
-    },
     {
       "date": "2021-08-18",
       "open": 37.91,
@@ -10020,6 +10004,14 @@
       "low": 24.68,
       "close": 24.79,
       "volume": 372600
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 202959
     }
   ]
 }

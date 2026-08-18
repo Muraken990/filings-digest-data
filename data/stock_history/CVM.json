@@ -1,26 +1,10 @@
 {
   "code": "CVM",
   "ticker": "CVM",
-  "last_updated": "2026-08-17 07:30:42",
+  "last_updated": "2026-08-18 07:31:41",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 267.0,
-      "high": 282.9,
-      "low": 256.8,
-      "close": 271.8,
-      "volume": 23157
-    },
-    {
-      "date": "2021-08-17",
-      "open": 265.8,
-      "high": 284.4,
-      "low": 264.0,
-      "close": 283.8,
-      "volume": 33150
-    },
     {
       "date": "2021-08-18",
       "open": 281.7,
@@ -10027,7 +10011,15 @@
       "high": 1.64,
       "low": 1.52,
       "close": 1.54,
-      "volume": 217300
+      "volume": 218400
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 129420
     }
   ]
 }

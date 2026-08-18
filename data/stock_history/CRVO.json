@@ -1,26 +1,10 @@
 {
   "code": "CRVO",
   "ticker": "CRVO",
-  "last_updated": "2026-08-17 07:29:04",
+  "last_updated": "2026-08-18 07:30:02",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 38.25,
-      "high": 38.25,
-      "low": 36.0,
-      "close": 36.75,
-      "volume": 12543
-    },
-    {
-      "date": "2021-08-17",
-      "open": 36.75,
-      "high": 39.0,
-      "low": 34.5,
-      "close": 37.5,
-      "volume": 19099
-    },
     {
       "date": "2021-08-18",
       "open": 37.5,
@@ -10035,7 +10019,15 @@
       "high": 2.99,
       "low": 2.68,
       "close": 2.73,
-      "volume": 606200
+      "volume": 608500
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 434874
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "F",
   "ticker": "F",
-  "last_updated": "2026-08-17 07:39:13",
+  "last_updated": "2026-08-18 07:40:16",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 9.9,
-      "high": 9.94,
-      "low": 9.77,
-      "close": 9.87,
-      "volume": 38664300
-    },
-    {
-      "date": "2021-08-17",
-      "open": 9.77,
-      "high": 9.78,
-      "low": 9.39,
-      "close": 9.53,
-      "volume": 74625300
-    },
     {
       "date": "2021-08-18",
       "open": 9.5,
@@ -7993,7 +7977,7 @@
       "date": "2025-08-07",
       "open": 10.65,
       "high": 10.74,
-      "low": 10.46,
+      "low": 10.47,
       "close": 10.63,
       "volume": 71775000
     },
@@ -10043,7 +10027,15 @@
       "high": 14.44,
       "low": 13.93,
       "close": 14.37,
-      "volume": 49520600
+      "volume": 49580800
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 27863054
     }
   ]
 }

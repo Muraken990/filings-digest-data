@@ -1,26 +1,10 @@
 {
   "code": "AIM",
   "ticker": "AIM",
-  "last_updated": "2026-08-17 07:08:45",
+  "last_updated": "2026-08-18 07:09:36",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 193.99,
-      "high": 194.96,
-      "low": 189.14,
-      "close": 193.99,
-      "volume": 3589
-    },
-    {
-      "date": "2021-08-17",
-      "open": 189.14,
-      "high": 193.02,
-      "low": 188.17,
-      "close": 189.14,
-      "volume": 2853
-    },
     {
       "date": "2021-08-18",
       "open": 188.17,
@@ -10043,7 +10027,15 @@
       "high": 0.26,
       "low": 0.19,
       "close": 0.22,
-      "volume": 1822200
+      "volume": 1848200
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2069072
     }
   ]
 }

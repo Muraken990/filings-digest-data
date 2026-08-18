@@ -1,26 +1,10 @@
 {
   "code": "BW",
   "ticker": "BW",
-  "last_updated": "2026-08-17 07:21:24",
+  "last_updated": "2026-08-18 07:22:20",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 7.75,
-      "high": 7.88,
-      "low": 7.48,
-      "close": 7.55,
-      "volume": 551400
-    },
-    {
-      "date": "2021-08-17",
-      "open": 7.46,
-      "high": 7.46,
-      "low": 6.95,
-      "close": 7.14,
-      "volume": 633300
-    },
     {
       "date": "2021-08-18",
       "open": 7.11,
@@ -10027,7 +10011,15 @@
       "high": 10.6,
       "low": 9.6,
       "close": 10.29,
-      "volume": 7478300
+      "volume": 7500300
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 4497777
     }
   ]
 }

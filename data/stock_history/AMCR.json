@@ -1,26 +1,10 @@
 {
   "code": "AMCR",
   "ticker": "AMCR",
-  "last_updated": "2026-08-17 07:10:26",
+  "last_updated": "2026-08-18 07:11:17",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 49.01,
-      "high": 49.49,
-      "low": 48.56,
-      "close": 49.29,
-      "volume": 1146360
-    },
-    {
-      "date": "2021-08-17",
-      "open": 49.13,
-      "high": 49.17,
-      "low": 48.48,
-      "close": 48.81,
-      "volume": 1031860
-    },
     {
       "date": "2021-08-18",
       "open": 48.04,
@@ -10035,7 +10019,15 @@
       "high": 46.3,
       "low": 45.69,
       "close": 46.03,
-      "volume": 3547700
+      "volume": 3548500
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2148124
     }
   ]
 }

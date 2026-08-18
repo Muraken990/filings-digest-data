@@ -1,26 +1,10 @@
 {
   "code": "CMPX",
   "ticker": "CMPX",
-  "last_updated": "2026-08-17 07:26:31",
+  "last_updated": "2026-08-18 07:27:29",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 4.2,
-      "high": 4.2,
-      "low": 3.75,
-      "close": 3.75,
-      "volume": 15800
-    },
-    {
-      "date": "2021-08-17",
-      "open": 3.89,
-      "high": 3.89,
-      "low": 3.7,
-      "close": 3.7,
-      "volume": 5200
-    },
     {
       "date": "2021-08-18",
       "open": 3.58,
@@ -10035,7 +10019,15 @@
       "high": 2.3,
       "low": 2.23,
       "close": 2.25,
-      "volume": 1360700
+      "volume": 1362200
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2358134
     }
   ]
 }

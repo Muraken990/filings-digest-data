@@ -1,26 +1,10 @@
 {
   "code": "BCIC",
   "ticker": "BCIC",
-  "last_updated": "2026-08-17 07:16:22",
+  "last_updated": "2026-08-18 07:17:17",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 12.8,
-      "high": 12.8,
-      "low": 12.34,
-      "close": 12.49,
-      "volume": 30800
-    },
-    {
-      "date": "2021-08-17",
-      "open": 12.49,
-      "high": 12.49,
-      "low": 12.34,
-      "close": 12.39,
-      "volume": 22330
-    },
     {
       "date": "2021-08-18",
       "open": 12.39,
@@ -10020,6 +10004,14 @@
       "low": 7.44,
       "close": 7.65,
       "volume": 58700
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 36351
     }
   ]
 }

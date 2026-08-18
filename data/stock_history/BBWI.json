@@ -1,26 +1,10 @@
 {
   "code": "BBWI",
   "ticker": "BBWI",
-  "last_updated": "2026-08-17 07:16:20",
+  "last_updated": "2026-08-18 07:17:15",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 54.12,
-      "high": 55.38,
-      "low": 52.93,
-      "close": 55.0,
-      "volume": 3425400
-    },
-    {
-      "date": "2021-08-17",
-      "open": 54.26,
-      "high": 54.75,
-      "low": 51.74,
-      "close": 52.53,
-      "volume": 3738200
-    },
     {
       "date": "2021-08-18",
       "open": 52.66,
@@ -570,7 +554,7 @@
       "open": 66.88,
       "high": 67.54,
       "low": 65.05,
-      "close": 67.36,
+      "close": 67.35,
       "volume": 3308000
     },
     {
@@ -10020,6 +10004,14 @@
       "low": 18.76,
       "close": 19.41,
       "volume": 6479200
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 5082793
     }
   ]
 }

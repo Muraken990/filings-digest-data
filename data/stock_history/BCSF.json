@@ -1,26 +1,10 @@
 {
   "code": "BCSF",
   "ticker": "BCSF",
-  "last_updated": "2026-08-17 07:16:23",
+  "last_updated": "2026-08-18 07:17:18",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 8.71,
-      "high": 8.77,
-      "low": 8.57,
-      "close": 8.66,
-      "volume": 149700
-    },
-    {
-      "date": "2021-08-17",
-      "open": 8.66,
-      "high": 8.66,
-      "low": 8.45,
-      "close": 8.61,
-      "volume": 250400
-    },
     {
       "date": "2021-08-18",
       "open": 8.61,
@@ -1279,7 +1263,7 @@
     },
     {
       "date": "2022-04-01",
-      "open": 9.44,
+      "open": 9.45,
       "high": 9.58,
       "low": 9.43,
       "close": 9.55,
@@ -10020,6 +10004,14 @@
       "low": 12.38,
       "close": 12.55,
       "volume": 313900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 897344
     }
   ]
 }

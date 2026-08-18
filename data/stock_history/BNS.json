@@ -1,26 +1,10 @@
 {
   "code": "BNS",
   "ticker": "BNS",
-  "last_updated": "2026-08-17 07:19:42",
+  "last_updated": "2026-08-18 07:20:37",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 50.4,
-      "high": 50.53,
-      "low": 50.04,
-      "close": 50.47,
-      "volume": 825000
-    },
-    {
-      "date": "2021-08-17",
-      "open": 50.18,
-      "high": 50.25,
-      "low": 49.71,
-      "close": 49.94,
-      "volume": 1450000
-    },
     {
       "date": "2021-08-18",
       "open": 49.88,
@@ -3473,7 +3457,7 @@
       "date": "2023-05-05",
       "open": 42.29,
       "high": 43.08,
-      "low": 42.21,
+      "low": 42.22,
       "close": 43.05,
       "volume": 1963600
     },
@@ -10020,6 +10004,14 @@
       "low": 90.78,
       "close": 91.54,
       "volume": 1018600
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 875283
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "CDP",
   "ticker": "CDP",
-  "last_updated": "2026-08-17 07:23:56",
+  "last_updated": "2026-08-18 07:24:53",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 22.68,
-      "high": 23.02,
-      "low": 22.67,
-      "close": 22.85,
-      "volume": 850500
-    },
-    {
-      "date": "2021-08-17",
-      "open": 22.65,
-      "high": 23.12,
-      "low": 22.58,
-      "close": 23.09,
-      "volume": 643600
-    },
     {
       "date": "2021-08-18",
       "open": 23.09,
@@ -1351,7 +1335,7 @@
     },
     {
       "date": "2022-04-14",
-      "open": 23.51,
+      "open": 23.5,
       "high": 23.67,
       "low": 23.27,
       "close": 23.36,
@@ -10020,6 +10004,14 @@
       "low": 36.9,
       "close": 36.95,
       "volume": 478200
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 818622
     }
   ]
 }

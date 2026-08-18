@@ -1,26 +1,10 @@
 {
   "code": "ENPH",
   "ticker": "ENPH",
-  "last_updated": "2026-08-17 07:36:42",
+  "last_updated": "2026-08-18 07:37:43",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 173.61,
-      "high": 174.23,
-      "low": 166.6,
-      "close": 167.54,
-      "volume": 1733100
-    },
-    {
-      "date": "2021-08-17",
-      "open": 166.14,
-      "high": 167.4,
-      "low": 159.84,
-      "close": 163.48,
-      "volume": 2029500
-    },
     {
       "date": "2021-08-18",
       "open": 164.75,
@@ -10043,7 +10027,15 @@
       "high": 41.65,
       "low": 40.13,
       "close": 40.48,
-      "volume": 2797500
+      "volume": 2801900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3451807
     }
   ]
 }

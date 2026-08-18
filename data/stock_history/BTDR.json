@@ -1,26 +1,10 @@
 {
   "code": "BTDR",
   "ticker": "BTDR",
-  "last_updated": "2026-08-17 07:20:36",
+  "last_updated": "2026-08-18 07:21:31",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 9.78,
-      "high": 9.79,
-      "low": 9.72,
-      "close": 9.78,
-      "volume": 56200
-    },
-    {
-      "date": "2021-08-17",
-      "open": 9.8,
-      "high": 9.82,
-      "low": 9.76,
-      "close": 9.78,
-      "volume": 76700
-    },
     {
       "date": "2021-08-18",
       "open": 9.77,
@@ -10043,7 +10027,15 @@
       "high": 9.19,
       "low": 8.66,
       "close": 9.13,
-      "volume": 15777200
+      "volume": 15853600
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 14885004
     }
   ]
 }

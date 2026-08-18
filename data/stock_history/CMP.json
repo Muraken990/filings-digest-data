@@ -1,26 +1,10 @@
 {
   "code": "CMP",
   "ticker": "CMP",
-  "last_updated": "2026-08-17 07:26:31",
+  "last_updated": "2026-08-18 07:27:29",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 63.4,
-      "high": 65.25,
-      "low": 60.82,
-      "close": 64.2,
-      "volume": 420500
-    },
-    {
-      "date": "2021-08-17",
-      "open": 63.93,
-      "high": 63.93,
-      "low": 62.0,
-      "close": 63.21,
-      "volume": 337600
-    },
     {
       "date": "2021-08-18",
       "open": 62.49,
@@ -3401,7 +3385,7 @@
       "date": "2023-04-24",
       "open": 31.23,
       "high": 31.73,
-      "low": 31.12,
+      "low": 31.13,
       "close": 31.57,
       "volume": 179600
     },
@@ -10020,6 +10004,14 @@
       "low": 26.15,
       "close": 26.37,
       "volume": 250500
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 332604
     }
   ]
 }

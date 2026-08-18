@@ -1,26 +1,10 @@
 {
   "code": "ESTA",
   "ticker": "ESTA",
-  "last_updated": "2026-08-17 07:38:20",
+  "last_updated": "2026-08-18 07:39:22",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 68.0,
-      "high": 69.38,
-      "low": 66.13,
-      "close": 68.78,
-      "volume": 87100
-    },
-    {
-      "date": "2021-08-17",
-      "open": 68.33,
-      "high": 69.99,
-      "low": 66.14,
-      "close": 68.45,
-      "volume": 134600
-    },
     {
       "date": "2021-08-18",
       "open": 67.89,
@@ -10020,6 +10004,14 @@
       "low": 75.8,
       "close": 79.47,
       "volume": 497000
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 406424
     }
   ]
 }

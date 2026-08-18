@@ -1,9 +1,9 @@
 {
   "code": "BANL",
   "ticker": "BANL",
-  "last_updated": "2026-08-17 07:15:31",
+  "last_updated": "2026-08-18 07:16:26",
   "period": "5y",
-  "data_points": 850,
+  "data_points": 853,
   "data": [
     {
       "date": "2023-03-23",
@@ -6670,6 +6670,14 @@
       "volume": 113600
     },
     {
+      "date": "2026-07-21",
+      "open": 4.2,
+      "high": 5.25,
+      "low": 4.2,
+      "close": 5.16,
+      "volume": 149500
+    },
+    {
       "date": "2026-07-22",
       "open": 5.14,
       "high": 5.18,
@@ -6724,6 +6732,14 @@
       "low": 4.48,
       "close": 4.56,
       "volume": 8000
+    },
+    {
+      "date": "2026-07-31",
+      "open": 4.6,
+      "high": 4.75,
+      "low": 4.2,
+      "close": 4.54,
+      "volume": 16600
     },
     {
       "date": "2026-08-03",
@@ -6803,7 +6819,15 @@
       "high": 12.1,
       "low": 7.12,
       "close": 10.93,
-      "volume": 514300
+      "volume": 516000
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 75200
     }
   ]
 }

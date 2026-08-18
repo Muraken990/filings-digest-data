@@ -1,26 +1,10 @@
 {
   "code": "CRNX",
   "ticker": "CRNX",
-  "last_updated": "2026-08-17 07:29:03",
+  "last_updated": "2026-08-18 07:30:01",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 21.81,
-      "high": 23.58,
-      "low": 21.69,
-      "close": 23.1,
-      "volume": 151400
-    },
-    {
-      "date": "2021-08-17",
-      "open": 23.11,
-      "high": 23.46,
-      "low": 21.76,
-      "close": 21.97,
-      "volume": 221700
-    },
     {
       "date": "2021-08-18",
       "open": 21.78,
@@ -9894,22 +9878,6 @@
       "volume": 3602000
     },
     {
-      "date": "2026-07-21",
-      "open": 83.93,
-      "high": 84.0,
-      "low": 83.87,
-      "close": 83.9,
-      "volume": 2734900
-    },
-    {
-      "date": "2026-07-22",
-      "open": 83.92,
-      "high": 83.93,
-      "low": 83.65,
-      "close": 83.72,
-      "volume": 4935000
-    },
-    {
       "date": "2026-07-23",
       "open": 83.78,
       "high": 83.79,
@@ -10044,6 +10012,14 @@
       "low": 84.36,
       "close": 84.7,
       "volume": 2279100
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1620745
     }
   ]
 }

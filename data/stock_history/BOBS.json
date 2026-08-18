@@ -1,9 +1,9 @@
 {
   "code": "BOBS",
   "ticker": "BOBS",
-  "last_updated": "2026-08-17 07:19:43",
+  "last_updated": "2026-08-18 07:20:38",
   "period": "5y",
-  "data_points": 129,
+  "data_points": 133,
   "data": [
     {
       "date": "2026-02-05",
@@ -910,6 +910,22 @@
       "volume": 586500
     },
     {
+      "date": "2026-07-21",
+      "open": 16.12,
+      "high": 16.41,
+      "low": 15.45,
+      "close": 15.52,
+      "volume": 740200
+    },
+    {
+      "date": "2026-07-22",
+      "open": 15.55,
+      "high": 15.69,
+      "low": 15.28,
+      "close": 15.5,
+      "volume": 468900
+    },
+    {
       "date": "2026-07-23",
       "open": 15.24,
       "high": 15.31,
@@ -956,6 +972,14 @@
       "low": 16.35,
       "close": 16.42,
       "volume": 1023400
+    },
+    {
+      "date": "2026-07-31",
+      "open": 16.41,
+      "high": 16.96,
+      "low": 16.18,
+      "close": 16.67,
+      "volume": 752800
     },
     {
       "date": "2026-08-03",
@@ -1036,6 +1060,14 @@
       "low": 18.67,
       "close": 18.92,
       "volume": 947600
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 459085
     }
   ]
 }

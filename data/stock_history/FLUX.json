@@ -1,26 +1,10 @@
 {
   "code": "FLUX",
   "ticker": "FLUX",
-  "last_updated": "2026-08-17 07:41:43",
+  "last_updated": "2026-08-18 07:42:48",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 9.72,
-      "high": 9.72,
-      "low": 8.7,
-      "close": 8.7,
-      "volume": 47800
-    },
-    {
-      "date": "2021-08-17",
-      "open": 8.66,
-      "high": 8.66,
-      "low": 8.2,
-      "close": 8.3,
-      "volume": 81900
-    },
     {
       "date": "2021-08-18",
       "open": 8.28,
@@ -9894,6 +9878,22 @@
       "volume": 78500
     },
     {
+      "date": "2026-07-21",
+      "open": 0.62,
+      "high": 0.67,
+      "low": 0.62,
+      "close": 0.64,
+      "volume": 55400
+    },
+    {
+      "date": "2026-07-22",
+      "open": 0.65,
+      "high": 0.67,
+      "low": 0.65,
+      "close": 0.65,
+      "volume": 20200
+    },
+    {
       "date": "2026-07-23",
       "open": 0.66,
       "high": 0.67,
@@ -9940,6 +9940,14 @@
       "low": 0.47,
       "close": 0.54,
       "volume": 159300
+    },
+    {
+      "date": "2026-07-31",
+      "open": 0.55,
+      "high": 0.56,
+      "low": 0.52,
+      "close": 0.52,
+      "volume": 47500
     },
     {
       "date": "2026-08-03",
@@ -10020,6 +10028,14 @@
       "low": 0.57,
       "close": 0.6,
       "volume": 64000
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 153849
     }
   ]
 }

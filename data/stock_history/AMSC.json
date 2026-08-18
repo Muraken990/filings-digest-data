@@ -1,26 +1,10 @@
 {
   "code": "AMSC",
   "ticker": "AMSC",
-  "last_updated": "2026-08-17 07:10:29",
+  "last_updated": "2026-08-18 07:11:20",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 12.51,
-      "high": 12.6,
-      "low": 12.05,
-      "close": 12.22,
-      "volume": 177600
-    },
-    {
-      "date": "2021-08-17",
-      "open": 12.0,
-      "high": 12.08,
-      "low": 11.71,
-      "close": 11.85,
-      "volume": 164700
-    },
     {
       "date": "2021-08-18",
       "open": 11.91,
@@ -10043,7 +10027,15 @@
       "high": 32.75,
       "low": 31.59,
       "close": 31.92,
-      "volume": 532200
+      "volume": 535000
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 550130
     }
   ]
 }

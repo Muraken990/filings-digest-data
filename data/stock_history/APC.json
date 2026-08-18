@@ -1,9 +1,9 @@
 {
   "code": "APC",
   "ticker": "APC",
-  "last_updated": "2026-08-17 07:11:19",
+  "last_updated": "2026-08-18 07:12:11",
   "period": "5y",
-  "data_points": 124,
+  "data_points": 128,
   "data": [
     {
       "date": "2026-02-12",
@@ -870,6 +870,22 @@
       "volume": 65900
     },
     {
+      "date": "2026-07-21",
+      "open": 20.7,
+      "high": 21.24,
+      "low": 20.66,
+      "close": 21.21,
+      "volume": 62200
+    },
+    {
+      "date": "2026-07-22",
+      "open": 21.32,
+      "high": 21.53,
+      "low": 20.55,
+      "close": 20.71,
+      "volume": 162700
+    },
+    {
       "date": "2026-07-23",
       "open": 20.42,
       "high": 20.89,
@@ -916,6 +932,14 @@
       "low": 19.98,
       "close": 20.18,
       "volume": 99100
+    },
+    {
+      "date": "2026-07-31",
+      "open": 20.24,
+      "high": 20.41,
+      "low": 19.91,
+      "close": 20.3,
+      "volume": 90300
     },
     {
       "date": "2026-08-03",
@@ -996,6 +1020,14 @@
       "low": 18.92,
       "close": 19.25,
       "volume": 218000
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 174272
     }
   ]
 }

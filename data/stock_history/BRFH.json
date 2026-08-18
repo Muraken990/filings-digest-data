@@ -1,26 +1,10 @@
 {
   "code": "BRFH",
   "ticker": "BRFH",
-  "last_updated": "2026-08-17 07:19:47",
+  "last_updated": "2026-08-18 07:20:42",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 6.24,
-      "high": 6.24,
-      "low": 6.24,
-      "close": 6.24,
-      "volume": 0
-    },
-    {
-      "date": "2021-08-17",
-      "open": 6.5,
-      "high": 7.28,
-      "low": 6.5,
-      "close": 6.5,
-      "volume": 4354
-    },
     {
       "date": "2021-08-18",
       "open": 6.5,
@@ -10019,7 +10003,15 @@
       "high": 1.93,
       "low": 1.74,
       "close": 1.92,
-      "volume": 35800
+      "volume": 57000
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 171924
     }
   ]
 }

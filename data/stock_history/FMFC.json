@@ -1,9 +1,9 @@
 {
   "code": "FMFC",
   "ticker": "FMFC",
-  "last_updated": "2026-08-17 07:41:44",
+  "last_updated": "2026-08-18 07:42:49",
   "period": "5y",
-  "data_points": 285,
+  "data_points": 288,
   "data": [
     {
       "date": "2025-06-25",
@@ -2150,6 +2150,22 @@
       "volume": 75100
     },
     {
+      "date": "2026-07-21",
+      "open": 0.26,
+      "high": 0.26,
+      "low": 0.24,
+      "close": 0.26,
+      "volume": 118700
+    },
+    {
+      "date": "2026-07-22",
+      "open": 0.25,
+      "high": 0.26,
+      "low": 0.25,
+      "close": 0.26,
+      "volume": 61500
+    },
+    {
       "date": "2026-07-23",
       "open": 0.25,
       "high": 0.26,
@@ -2283,7 +2299,15 @@
       "high": 0.25,
       "low": 0.23,
       "close": 0.24,
-      "volume": 339700
+      "volume": 342200
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 270027
     }
   ]
 }

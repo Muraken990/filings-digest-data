@@ -1,26 +1,10 @@
 {
   "code": "ACNT",
   "ticker": "ACNT",
-  "last_updated": "2026-08-17 07:06:14",
+  "last_updated": "2026-08-18 07:07:05",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 10.91,
-      "high": 10.91,
-      "low": 10.57,
-      "close": 10.75,
-      "volume": 7700
-    },
-    {
-      "date": "2021-08-17",
-      "open": 10.65,
-      "high": 11.0,
-      "low": 10.6,
-      "close": 10.62,
-      "volume": 33200
-    },
     {
       "date": "2021-08-18",
       "open": 10.6,
@@ -10020,6 +10004,14 @@
       "low": 14.57,
       "close": 15.05,
       "volume": 63400
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 44595
     }
   ]
 }

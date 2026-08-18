@@ -1,25 +1,17 @@
 {
   "code": "AMAL",
   "ticker": "AMAL",
-  "last_updated": "2026-08-17 07:09:40",
+  "last_updated": "2026-08-18 07:10:31",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1255,
   "data": [
     {
-      "date": "2021-08-16",
-      "open": 14.12,
-      "high": 14.17,
-      "low": 13.91,
-      "close": 14.08,
-      "volume": 41700
-    },
-    {
       "date": "2021-08-17",
-      "open": 14.16,
-      "high": 14.26,
-      "low": 14.07,
-      "close": 14.18,
-      "volume": 31200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-18",
@@ -9894,6 +9886,22 @@
       "volume": 148500
     },
     {
+      "date": "2026-07-21",
+      "open": 46.88,
+      "high": 47.42,
+      "low": 46.63,
+      "close": 47.4,
+      "volume": 178500
+    },
+    {
+      "date": "2026-07-22",
+      "open": 47.23,
+      "high": 47.34,
+      "low": 46.49,
+      "close": 46.8,
+      "volume": 154200
+    },
+    {
       "date": "2026-07-23",
       "open": 48.33,
       "high": 48.91,
@@ -9940,6 +9948,14 @@
       "low": 48.94,
       "close": 49.22,
       "volume": 176800
+    },
+    {
+      "date": "2026-07-31",
+      "open": 49.23,
+      "high": 49.56,
+      "low": 48.34,
+      "close": 49.21,
+      "volume": 119700
     },
     {
       "date": "2026-08-03",
@@ -10020,6 +10036,14 @@
       "low": 50.59,
       "close": 51.06,
       "volume": 146400
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 131640
     }
   ]
 }

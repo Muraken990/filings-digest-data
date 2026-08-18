@@ -1,26 +1,10 @@
 {
   "code": "ALLO",
   "ticker": "ALLO",
-  "last_updated": "2026-08-17 07:09:36",
+  "last_updated": "2026-08-18 07:10:27",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 21.34,
-      "high": 21.44,
-      "low": 20.8,
-      "close": 21.15,
-      "volume": 442200
-    },
-    {
-      "date": "2021-08-17",
-      "open": 20.86,
-      "high": 23.24,
-      "low": 20.61,
-      "close": 22.17,
-      "volume": 1224500
-    },
     {
       "date": "2021-08-18",
       "open": 22.24,
@@ -10043,7 +10027,15 @@
       "high": 2.08,
       "low": 1.92,
       "close": 2.05,
-      "volume": 4604600
+      "volume": 4605100
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 4623517
     }
   ]
 }

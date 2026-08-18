@@ -1,26 +1,10 @@
 {
   "code": "BRBR",
   "ticker": "BRBR",
-  "last_updated": "2026-08-17 07:19:46",
+  "last_updated": "2026-08-18 07:20:41",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 32.02,
-      "high": 32.71,
-      "low": 31.53,
-      "close": 31.59,
-      "volume": 263400
-    },
-    {
-      "date": "2021-08-17",
-      "open": 31.35,
-      "high": 32.31,
-      "low": 31.1,
-      "close": 32.0,
-      "volume": 278700
-    },
     {
       "date": "2021-08-18",
       "open": 31.91,
@@ -9894,6 +9878,22 @@
       "volume": 2698100
     },
     {
+      "date": "2026-07-21",
+      "open": 12.02,
+      "high": 12.85,
+      "low": 12.02,
+      "close": 12.66,
+      "volume": 2997500
+    },
+    {
+      "date": "2026-07-22",
+      "open": 13.03,
+      "high": 13.08,
+      "low": 12.45,
+      "close": 12.78,
+      "volume": 4558300
+    },
+    {
       "date": "2026-07-23",
       "open": 12.71,
       "high": 12.91,
@@ -10028,6 +10028,14 @@
       "low": 10.67,
       "close": 10.75,
       "volume": 2377300
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3826505
     }
   ]
 }

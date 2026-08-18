@@ -1,26 +1,10 @@
 {
   "code": "AMZN",
   "ticker": "AMZN",
-  "last_updated": "2026-08-17 07:10:30",
+  "last_updated": "2026-08-18 07:11:21",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 164.15,
-      "high": 165.0,
-      "low": 160.56,
-      "close": 164.95,
-      "volume": 66394000
-    },
-    {
-      "date": "2021-08-17",
-      "open": 163.88,
-      "high": 164.02,
-      "low": 161.28,
-      "close": 162.1,
-      "volume": 67758000
-    },
     {
       "date": "2021-08-18",
       "open": 162.1,
@@ -10043,7 +10027,15 @@
       "high": 265.81,
       "low": 262.42,
       "close": 262.65,
-      "volume": 27184900
+      "volume": 27251700
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 41504334
     }
   ]
 }

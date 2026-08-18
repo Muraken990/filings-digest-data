@@ -1,9 +1,9 @@
 {
   "code": "CNTN",
   "ticker": "CNTN",
-  "last_updated": "2026-08-17 07:27:21",
+  "last_updated": "2026-08-18 07:28:19",
   "period": "5y",
-  "data_points": 1150,
+  "data_points": 1152,
   "data": [
     {
       "date": "2022-01-12",
@@ -9070,6 +9070,14 @@
       "volume": 681400
     },
     {
+      "date": "2026-07-22",
+      "open": 2.15,
+      "high": 2.21,
+      "low": 2.05,
+      "close": 2.09,
+      "volume": 597400
+    },
+    {
       "date": "2026-07-23",
       "open": 2.07,
       "high": 2.11,
@@ -9203,7 +9211,15 @@
       "high": 2.09,
       "low": 1.9,
       "close": 2.02,
-      "volume": 742800
+      "volume": 747900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 494809
     }
   ]
 }
