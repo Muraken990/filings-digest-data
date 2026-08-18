@@ -1,26 +1,10 @@
 {
   "code": "GTE",
   "ticker": "GTE",
-  "last_updated": "2026-08-17 09:41:32",
+  "last_updated": "2026-08-18 09:40:42",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 5.0,
-      "high": 5.1,
-      "low": 4.7,
-      "close": 4.9,
-      "volume": 676600
-    },
-    {
-      "date": "2021-08-17",
-      "open": 4.8,
-      "high": 4.9,
-      "low": 4.8,
-      "close": 4.9,
-      "volume": 245950
-    },
     {
       "date": "2021-08-18",
       "open": 5.0,
@@ -10043,7 +10027,15 @@
       "high": 9.6,
       "low": 9.19,
       "close": 9.19,
-      "volume": 798200
+      "volume": 803900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 479370
     }
   ]
 }

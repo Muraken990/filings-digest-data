@@ -1,9 +1,9 @@
 {
   "code": "MYX",
   "ticker": "MYX",
-  "last_updated": "2026-08-17 10:02:42",
+  "last_updated": "2026-08-18 10:01:58",
   "period": "5y",
-  "data_points": 60,
+  "data_points": 64,
   "data": [
     {
       "date": "2026-05-15",
@@ -358,6 +358,22 @@
       "volume": 0
     },
     {
+      "date": "2026-07-21",
+      "open": 9.92,
+      "high": 9.93,
+      "low": 9.92,
+      "close": 9.93,
+      "volume": 8800
+    },
+    {
+      "date": "2026-07-22",
+      "open": 9.93,
+      "high": 9.93,
+      "low": 9.93,
+      "close": 9.93,
+      "volume": 0
+    },
+    {
       "date": "2026-07-23",
       "open": 9.93,
       "high": 9.93,
@@ -399,6 +415,14 @@
     },
     {
       "date": "2026-07-30",
+      "open": 9.96,
+      "high": 9.96,
+      "low": 9.96,
+      "close": 9.96,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-31",
       "open": 9.96,
       "high": 9.96,
       "low": 9.96,
@@ -484,6 +508,14 @@
       "low": 9.98,
       "close": 9.98,
       "volume": 0
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 707
     }
   ]
 }

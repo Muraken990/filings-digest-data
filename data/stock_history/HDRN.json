@@ -1,9 +1,9 @@
 {
   "code": "HDRN",
   "ticker": "HDRN",
-  "last_updated": "2026-08-17 09:42:25",
+  "last_updated": "2026-08-18 09:41:36",
   "period": "5y",
-  "data_points": 481,
+  "data_points": 484,
   "data": [
     {
       "date": "2024-09-11",
@@ -3726,6 +3726,14 @@
       "volume": 62500
     },
     {
+      "date": "2026-07-22",
+      "open": 1.92,
+      "high": 2.04,
+      "low": 1.92,
+      "close": 1.95,
+      "volume": 48900
+    },
+    {
       "date": "2026-07-23",
       "open": 1.96,
       "high": 2.04,
@@ -3772,6 +3780,14 @@
       "low": 1.19,
       "close": 1.51,
       "volume": 260100
+    },
+    {
+      "date": "2026-07-31",
+      "open": 1.5,
+      "high": 1.54,
+      "low": 1.48,
+      "close": 1.53,
+      "volume": 72500
     },
     {
       "date": "2026-08-03",
@@ -3852,6 +3868,14 @@
       "low": 1.83,
       "close": 1.89,
       "volume": 53800
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 49614
     }
   ]
 }

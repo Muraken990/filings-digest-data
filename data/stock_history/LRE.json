@@ -1,9 +1,9 @@
 {
   "code": "LRE",
   "ticker": "LRE",
-  "last_updated": "2026-08-17 09:55:55",
+  "last_updated": "2026-08-18 09:55:09",
   "period": "5y",
-  "data_points": 720,
+  "data_points": 724,
   "data": [
     {
       "date": "2023-09-27",
@@ -5638,6 +5638,22 @@
       "volume": 15300
     },
     {
+      "date": "2026-07-21",
+      "open": 1.41,
+      "high": 1.44,
+      "low": 1.4,
+      "close": 1.43,
+      "volume": 5100
+    },
+    {
+      "date": "2026-07-22",
+      "open": 1.43,
+      "high": 1.43,
+      "low": 1.43,
+      "close": 1.43,
+      "volume": 0
+    },
+    {
       "date": "2026-07-23",
       "open": 1.43,
       "high": 1.43,
@@ -5684,6 +5700,14 @@
       "low": 1.24,
       "close": 1.27,
       "volume": 5100
+    },
+    {
+      "date": "2026-07-31",
+      "open": 1.27,
+      "high": 1.31,
+      "low": 1.24,
+      "close": 1.26,
+      "volume": 16000
     },
     {
       "date": "2026-08-03",
@@ -5763,7 +5787,15 @@
       "high": 1.44,
       "low": 1.32,
       "close": 1.33,
-      "volume": 50600
+      "volume": 52000
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2183
     }
   ]
 }

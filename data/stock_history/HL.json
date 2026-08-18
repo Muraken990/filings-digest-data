@@ -1,26 +1,10 @@
 {
   "code": "HL",
   "ticker": "HL",
-  "last_updated": "2026-08-17 09:43:14",
+  "last_updated": "2026-08-18 09:42:26",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 5.98,
-      "high": 6.0,
-      "low": 5.87,
-      "close": 5.91,
-      "volume": 4398800
-    },
-    {
-      "date": "2021-08-17",
-      "open": 5.86,
-      "high": 5.94,
-      "low": 5.68,
-      "close": 5.74,
-      "volume": 5140600
-    },
     {
       "date": "2021-08-18",
       "open": 5.74,
@@ -10043,7 +10027,15 @@
       "high": 18.83,
       "low": 17.98,
       "close": 18.37,
-      "volume": 41151000
+      "volume": 41165400
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 44115033
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "FUTU",
   "ticker": "FUTU",
-  "last_updated": "2026-08-17 09:36:33",
+  "last_updated": "2026-08-18 09:35:40",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 94.8,
-      "high": 94.81,
-      "low": 85.58,
-      "close": 87.58,
-      "volume": 7601500
-    },
-    {
-      "date": "2021-08-17",
-      "open": 81.84,
-      "high": 90.71,
-      "low": 80.82,
-      "close": 86.96,
-      "volume": 9243900
-    },
     {
       "date": "2021-08-18",
       "open": 89.42,
@@ -3784,7 +3768,7 @@
     {
       "date": "2023-07-03",
       "open": 38.98,
-      "high": 40.76,
+      "high": 40.75,
       "low": 37.55,
       "close": 39.54,
       "volume": 3185800
@@ -10043,7 +10027,15 @@
       "high": 105.67,
       "low": 104.03,
       "close": 105.23,
-      "volume": 443200
+      "volume": 444000
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1069402
     }
   ]
 }

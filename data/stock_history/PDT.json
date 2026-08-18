@@ -1,26 +1,10 @@
 {
   "code": "PDT",
   "ticker": "PDT",
-  "last_updated": "2026-08-17 10:12:06",
+  "last_updated": "2026-08-18 10:11:22",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 11.46,
-      "high": 11.46,
-      "low": 11.33,
-      "close": 11.33,
-      "volume": 64700
-    },
-    {
-      "date": "2021-08-17",
-      "open": 11.28,
-      "high": 11.32,
-      "low": 11.21,
-      "close": 11.25,
-      "volume": 66900
-    },
     {
       "date": "2021-08-18",
       "open": 11.22,
@@ -4743,7 +4727,7 @@
     },
     {
       "date": "2023-12-21",
-      "open": 8.62,
+      "open": 8.61,
       "high": 8.65,
       "low": 8.5,
       "close": 8.51,
@@ -4783,10 +4767,10 @@
     },
     {
       "date": "2023-12-29",
-      "open": 8.61,
+      "open": 8.62,
       "high": 8.64,
       "low": 8.61,
-      "close": 8.61,
+      "close": 8.62,
       "volume": 252200
     },
     {
@@ -10020,6 +10004,14 @@
       "low": 12.7,
       "close": 12.77,
       "volume": 108900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 83884
     }
   ]
 }

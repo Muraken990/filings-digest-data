@@ -1,17 +1,25 @@
 {
   "code": "GTLS",
   "ticker": "GTLS",
-  "last_updated": "2026-08-17 09:41:32",
+  "last_updated": "2026-08-18 09:40:43",
   "period": "5y",
-  "data_points": 1,
+  "data_points": 2,
   "data": [
     {
       "date": "2026-07-15",
       "open": 209.94,
       "high": 209.96,
+      "low": 209.81,
+      "close": 209.9,
+      "volume": 4653026
+    },
+    {
+      "date": "2026-07-16",
+      "open": 209.9,
+      "high": 209.9,
       "low": 209.9,
       "close": 209.9,
-      "volume": 1271817
+      "volume": 0
     }
   ]
 }

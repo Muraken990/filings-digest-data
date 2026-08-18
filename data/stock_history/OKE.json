@@ -1,26 +1,10 @@
 {
   "code": "OKE",
   "ticker": "OKE",
-  "last_updated": "2026-08-17 10:08:41",
+  "last_updated": "2026-08-18 10:07:56",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 39.65,
-      "high": 40.14,
-      "low": 39.32,
-      "close": 39.49,
-      "volume": 1976000
-    },
-    {
-      "date": "2021-08-17",
-      "open": 39.11,
-      "high": 39.74,
-      "low": 38.48,
-      "close": 39.13,
-      "volume": 2137300
-    },
     {
       "date": "2021-08-18",
       "open": 38.92,
@@ -1383,7 +1367,7 @@
     },
     {
       "date": "2022-04-21",
-      "open": 58.2,
+      "open": 58.19,
       "high": 59.04,
       "low": 56.1,
       "close": 56.21,
@@ -10028,6 +10012,14 @@
       "low": 92.82,
       "close": 94.99,
       "volume": 2479100
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2516400
     }
   ]
 }

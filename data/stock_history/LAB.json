@@ -1,26 +1,10 @@
 {
   "code": "LAB",
   "ticker": "LAB",
-  "last_updated": "2026-08-17 09:52:36",
+  "last_updated": "2026-08-18 09:51:50",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 6.67,
-      "high": 6.89,
-      "low": 6.49,
-      "close": 6.73,
-      "volume": 482800
-    },
-    {
-      "date": "2021-08-17",
-      "open": 6.67,
-      "high": 6.76,
-      "low": 6.55,
-      "close": 6.74,
-      "volume": 583000
-    },
     {
       "date": "2021-08-18",
       "open": 6.77,
@@ -10027,7 +10011,15 @@
       "high": 0.76,
       "low": 0.71,
       "close": 0.71,
-      "volume": 1302900
+      "volume": 1305400
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1551930
     }
   ]
 }

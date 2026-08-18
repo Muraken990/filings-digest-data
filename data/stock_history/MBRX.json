@@ -1,26 +1,10 @@
 {
   "code": "MBRX",
   "ticker": "MBRX",
-  "last_updated": "2026-08-17 09:57:36",
+  "last_updated": "2026-08-18 09:56:51",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 1113.75,
-      "high": 1115.62,
-      "low": 1038.75,
-      "close": 1050.0,
-      "volume": 691
-    },
-    {
-      "date": "2021-08-17",
-      "open": 1035.0,
-      "high": 1050.0,
-      "low": 1020.0,
-      "close": 1023.75,
-      "volume": 484
-    },
     {
       "date": "2021-08-18",
       "open": 1031.25,
@@ -9902,14 +9886,6 @@
       "volume": 28400
     },
     {
-      "date": "2026-07-22",
-      "open": 2.19,
-      "high": 2.21,
-      "low": 2.05,
-      "close": 2.1,
-      "volume": 75100
-    },
-    {
       "date": "2026-07-23",
       "open": 2.08,
       "high": 2.12,
@@ -10043,7 +10019,15 @@
       "high": 0.64,
       "low": 0.58,
       "close": 0.61,
-      "volume": 1539200
+      "volume": 1544800
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 850440
     }
   ]
 }

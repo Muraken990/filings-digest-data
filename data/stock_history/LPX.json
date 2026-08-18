@@ -1,26 +1,10 @@
 {
   "code": "LPX",
   "ticker": "LPX",
-  "last_updated": "2026-08-17 09:55:55",
+  "last_updated": "2026-08-18 09:55:09",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 54.38,
-      "high": 54.67,
-      "low": 53.27,
-      "close": 54.01,
-      "volume": 1526800
-    },
-    {
-      "date": "2021-08-17",
-      "open": 53.08,
-      "high": 53.43,
-      "low": 51.86,
-      "close": 52.32,
-      "volume": 1485900
-    },
     {
       "date": "2021-08-18",
       "open": 52.21,
@@ -5616,7 +5600,7 @@
     {
       "date": "2024-05-30",
       "open": 86.6,
-      "high": 88.3,
+      "high": 88.29,
       "low": 86.6,
       "close": 88.11,
       "volume": 980000
@@ -10020,6 +10004,14 @@
       "low": 73.15,
       "close": 73.89,
       "volume": 828100
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1232931
     }
   ]
 }

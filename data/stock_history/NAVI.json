@@ -1,26 +1,10 @@
 {
   "code": "NAVI",
   "ticker": "NAVI",
-  "last_updated": "2026-08-17 10:02:44",
+  "last_updated": "2026-08-18 10:02:00",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 17.31,
-      "high": 17.61,
-      "low": 17.3,
-      "close": 17.52,
-      "volume": 892700
-    },
-    {
-      "date": "2021-08-17",
-      "open": 17.4,
-      "high": 17.66,
-      "low": 17.37,
-      "close": 17.65,
-      "volume": 1913900
-    },
     {
       "date": "2021-08-18",
       "open": 17.6,
@@ -3921,7 +3905,7 @@
       "date": "2023-07-27",
       "open": 16.14,
       "high": 16.41,
-      "low": 15.88,
+      "low": 15.87,
       "close": 16.19,
       "volume": 944200
     },
@@ -10020,6 +10004,14 @@
       "low": 8.9,
       "close": 9.17,
       "volume": 1183200
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1186235
     }
   ]
 }

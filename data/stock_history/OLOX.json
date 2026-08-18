@@ -1,26 +1,10 @@
 {
   "code": "OLOX",
   "ticker": "OLOX",
-  "last_updated": "2026-08-17 10:08:42",
+  "last_updated": "2026-08-18 10:07:57",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 20403.19,
-      "high": 21381.34,
-      "low": 20403.19,
-      "close": 20763.24,
-      "volume": 15
-    },
-    {
-      "date": "2021-08-17",
-      "open": 20763.24,
-      "high": 21297.33,
-      "low": 19203.0,
-      "close": 20043.13,
-      "volume": 34
-    },
     {
       "date": "2021-08-18",
       "open": 19683.08,
@@ -10043,7 +10027,15 @@
       "high": 3.08,
       "low": 2.61,
       "close": 2.62,
-      "volume": 73300
+      "volume": 75000
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 74265
     }
   ]
 }

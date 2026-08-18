@@ -1,26 +1,10 @@
 {
   "code": "KRKR",
   "ticker": "KRKR",
-  "last_updated": "2026-08-17 09:51:46",
+  "last_updated": "2026-08-18 09:51:00",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 37.6,
-      "high": 37.6,
-      "low": 35.2,
-      "close": 35.8,
-      "volume": 2840
-    },
-    {
-      "date": "2021-08-17",
-      "open": 35.0,
-      "high": 35.2,
-      "low": 34.0,
-      "close": 34.0,
-      "volume": 4355
-    },
     {
       "date": "2021-08-18",
       "open": 34.0,
@@ -10043,7 +10027,15 @@
       "high": 3.1,
       "low": 2.88,
       "close": 3.0,
-      "volume": 3200
+      "volume": 5000
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 13979
     }
   ]
 }

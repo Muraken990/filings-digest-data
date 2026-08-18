@@ -1,25 +1,17 @@
 {
   "code": "PAMT",
   "ticker": "PAMT",
-  "last_updated": "2026-08-17 10:11:13",
+  "last_updated": "2026-08-18 10:10:29",
   "period": "5y",
   "data_points": 1252,
   "data": [
     {
-      "date": "2021-08-16",
-      "open": 17.1,
-      "high": 17.1,
-      "low": 16.72,
-      "close": 16.95,
-      "volume": 44000
-    },
-    {
       "date": "2021-08-17",
-      "open": 16.79,
-      "high": 17.48,
-      "low": 16.79,
-      "close": 17.1,
-      "volume": 46000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-18",
@@ -10020,6 +10012,14 @@
       "low": 12.67,
       "close": 12.76,
       "volume": 22200
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 31288
     }
   ]
 }

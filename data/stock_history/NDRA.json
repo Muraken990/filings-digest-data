@@ -1,26 +1,10 @@
 {
   "code": "NDRA",
   "ticker": "NDRA",
-  "last_updated": "2026-08-17 10:03:33",
+  "last_updated": "2026-08-18 10:02:49",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 56700.0,
-      "high": 56700.0,
-      "low": 47250.0,
-      "close": 51800.0,
-      "volume": 22
-    },
-    {
-      "date": "2021-08-17",
-      "open": 50400.0,
-      "high": 50400.0,
-      "low": 43750.0,
-      "close": 48300.0,
-      "volume": 40
-    },
     {
       "date": "2021-08-18",
       "open": 49000.0,
@@ -9894,6 +9878,22 @@
       "volume": 2000
     },
     {
+      "date": "2026-07-21",
+      "open": 5.05,
+      "high": 5.62,
+      "low": 5.05,
+      "close": 5.36,
+      "volume": 23000
+    },
+    {
+      "date": "2026-07-22",
+      "open": 5.42,
+      "high": 5.89,
+      "low": 5.28,
+      "close": 5.61,
+      "volume": 25500
+    },
+    {
       "date": "2026-07-23",
       "open": 5.55,
       "high": 5.55,
@@ -10028,6 +10028,14 @@
       "low": 4.26,
       "close": 4.47,
       "volume": 51800
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 24418
     }
   ]
 }

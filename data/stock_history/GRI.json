@@ -1,26 +1,10 @@
 {
   "code": "GRI",
   "ticker": "GRI",
-  "last_updated": "2026-08-17 09:40:43",
+  "last_updated": "2026-08-18 09:39:53",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 5340863.0,
-      "high": 5572170.0,
-      "low": 5002998.0,
-      "close": 5002998.0,
-      "volume": 0
-    },
-    {
-      "date": "2021-08-17",
-      "open": 5028987.5,
-      "high": 5509795.0,
-      "low": 4977008.5,
-      "close": 5249899.0,
-      "volume": 0
-    },
     {
       "date": "2021-08-18",
       "open": 5366852.5,
@@ -10027,7 +10011,15 @@
       "high": 1.82,
       "low": 1.66,
       "close": 1.67,
-      "volume": 105200
+      "volume": 106500
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 56767
     }
   ]
 }

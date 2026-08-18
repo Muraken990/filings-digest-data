@@ -1,26 +1,10 @@
 {
   "code": "LND",
   "ticker": "LND",
-  "last_updated": "2026-08-17 09:55:05",
+  "last_updated": "2026-08-18 09:54:20",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 3.46,
-      "high": 3.49,
-      "low": 3.27,
-      "close": 3.3,
-      "volume": 47800
-    },
-    {
-      "date": "2021-08-17",
-      "open": 3.28,
-      "high": 3.28,
-      "low": 3.13,
-      "close": 3.17,
-      "volume": 78200
-    },
     {
       "date": "2021-08-18",
       "open": 3.13,
@@ -10020,6 +10004,14 @@
       "low": 3.51,
       "close": 3.58,
       "volume": 133000
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 75690
     }
   ]
 }

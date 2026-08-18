@@ -1,26 +1,10 @@
 {
   "code": "PATH",
   "ticker": "PATH",
-  "last_updated": "2026-08-17 10:11:14",
+  "last_updated": "2026-08-18 10:10:30",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 61.2,
-      "high": 61.38,
-      "low": 58.74,
-      "close": 60.03,
-      "volume": 2434500
-    },
-    {
-      "date": "2021-08-17",
-      "open": 59.05,
-      "high": 60.38,
-      "low": 58.53,
-      "close": 59.92,
-      "volume": 1952300
-    },
     {
       "date": "2021-08-18",
       "open": 60.0,
@@ -10043,7 +10027,15 @@
       "high": 16.82,
       "low": 15.84,
       "close": 16.01,
-      "volume": 52093600
+      "volume": 52115600
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 70009557
     }
   ]
 }

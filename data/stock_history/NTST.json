@@ -1,26 +1,10 @@
 {
   "code": "NTST",
   "ticker": "NTST",
-  "last_updated": "2026-08-17 10:06:10",
+  "last_updated": "2026-08-18 10:05:25",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 20.66,
-      "high": 20.75,
-      "low": 20.35,
-      "close": 20.43,
-      "volume": 109300
-    },
-    {
-      "date": "2021-08-17",
-      "open": 20.39,
-      "high": 20.53,
-      "low": 20.0,
-      "close": 20.25,
-      "volume": 224300
-    },
     {
       "date": "2021-08-18",
       "open": 20.17,
@@ -10020,6 +10004,14 @@
       "low": 20.64,
       "close": 20.71,
       "volume": 917500
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 576379
     }
   ]
 }

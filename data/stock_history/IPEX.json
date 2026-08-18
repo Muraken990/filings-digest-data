@@ -1,9 +1,9 @@
 {
   "code": "IPEX",
   "ticker": "IPEX",
-  "last_updated": "2026-08-17 09:48:18",
+  "last_updated": "2026-08-18 09:47:32",
   "period": "5y",
-  "data_points": 362,
+  "data_points": 360,
   "data": [
     {
       "date": "2025-03-07",
@@ -2750,22 +2750,6 @@
       "volume": 0
     },
     {
-      "date": "2026-07-21",
-      "open": 10.54,
-      "high": 10.55,
-      "low": 10.54,
-      "close": 10.54,
-      "volume": 367600
-    },
-    {
-      "date": "2026-07-22",
-      "open": 10.55,
-      "high": 10.55,
-      "low": 10.55,
-      "close": 10.55,
-      "volume": 200
-    },
-    {
       "date": "2026-07-23",
       "open": 10.55,
       "high": 10.55,
@@ -2812,14 +2796,6 @@
       "low": 10.55,
       "close": 10.56,
       "volume": 155800
-    },
-    {
-      "date": "2026-07-31",
-      "open": 10.54,
-      "high": 10.54,
-      "low": 10.54,
-      "close": 10.54,
-      "volume": 109700
     },
     {
       "date": "2026-08-03",
@@ -2900,6 +2876,14 @@
       "low": 10.5,
       "close": 10.52,
       "volume": 11400
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1440
     }
   ]
 }

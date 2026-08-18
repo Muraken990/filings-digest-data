@@ -1,26 +1,10 @@
 {
   "code": "IIF",
   "ticker": "IIF",
-  "last_updated": "2026-08-17 09:46:36",
+  "last_updated": "2026-08-18 09:45:49",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 15.47,
-      "high": 15.57,
-      "low": 15.44,
-      "close": 15.57,
-      "volume": 22800
-    },
-    {
-      "date": "2021-08-17",
-      "open": 15.46,
-      "high": 15.55,
-      "low": 15.44,
-      "close": 15.46,
-      "volume": 15500
-    },
     {
       "date": "2021-08-18",
       "open": 15.55,
@@ -10020,6 +10004,14 @@
       "low": 22.88,
       "close": 23.15,
       "volume": 31500
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 41238
     }
   ]
 }

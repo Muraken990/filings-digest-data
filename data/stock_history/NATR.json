@@ -1,26 +1,10 @@
 {
   "code": "NATR",
   "ticker": "NATR",
-  "last_updated": "2026-08-17 10:02:44",
+  "last_updated": "2026-08-18 10:02:00",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 16.44,
-      "high": 16.62,
-      "low": 16.22,
-      "close": 16.59,
-      "volume": 32700
-    },
-    {
-      "date": "2021-08-17",
-      "open": 16.57,
-      "high": 16.84,
-      "low": 16.33,
-      "close": 16.75,
-      "volume": 41900
-    },
     {
       "date": "2021-08-18",
       "open": 16.7,
@@ -10020,6 +10004,14 @@
       "low": 14.98,
       "close": 15.12,
       "volume": 242100
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 230901
     }
   ]
 }

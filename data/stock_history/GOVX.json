@@ -1,26 +1,10 @@
 {
   "code": "GOVX",
   "ticker": "GOVX",
-  "last_updated": "2026-08-17 09:39:54",
+  "last_updated": "2026-08-18 09:39:05",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 1518.75,
-      "high": 1556.25,
-      "low": 1466.25,
-      "close": 1522.5,
-      "volume": 410
-    },
-    {
-      "date": "2021-08-17",
-      "open": 1522.5,
-      "high": 1537.5,
-      "low": 1402.5,
-      "close": 1410.0,
-      "volume": 535
-    },
     {
       "date": "2021-08-18",
       "open": 1406.25,
@@ -10035,7 +10019,15 @@
       "high": 0.74,
       "low": 0.69,
       "close": 0.72,
-      "volume": 197200
+      "volume": 203500
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 197755
     }
   ]
 }

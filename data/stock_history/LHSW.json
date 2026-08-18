@@ -1,9 +1,9 @@
 {
   "code": "LHSW",
   "ticker": "LHSW",
-  "last_updated": "2026-08-17 09:54:15",
+  "last_updated": "2026-08-18 09:53:30",
   "period": "5y",
-  "data_points": 342,
+  "data_points": 344,
   "data": [
     {
       "date": "2025-04-03",
@@ -2598,6 +2598,14 @@
       "volume": 24200
     },
     {
+      "date": "2026-07-21",
+      "open": 2.16,
+      "high": 2.34,
+      "low": 2.16,
+      "close": 2.22,
+      "volume": 33400
+    },
+    {
       "date": "2026-07-22",
       "open": 2.23,
       "high": 2.95,
@@ -2740,6 +2748,14 @@
       "low": 2.75,
       "close": 2.94,
       "volume": 35700
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 155622
     }
   ]
 }

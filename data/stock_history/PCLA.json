@@ -1,9 +1,9 @@
 {
   "code": "PCLA",
   "ticker": "PCLA",
-  "last_updated": "2026-08-17 10:12:03",
+  "last_updated": "2026-08-18 10:11:19",
   "period": "5y",
-  "data_points": 395,
+  "data_points": 397,
   "data": [
     {
       "date": "2025-01-16",
@@ -3022,6 +3022,14 @@
       "volume": 24300
     },
     {
+      "date": "2026-07-21",
+      "open": 4.61,
+      "high": 5.3,
+      "low": 4.61,
+      "close": 4.86,
+      "volume": 48900
+    },
+    {
       "date": "2026-07-22",
       "open": 5.06,
       "high": 5.13,
@@ -3163,7 +3171,15 @@
       "high": 7.9,
       "low": 6.25,
       "close": 6.76,
-      "volume": 265500
+      "volume": 268800
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 60087
     }
   ]
 }

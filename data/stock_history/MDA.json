@@ -1,9 +1,9 @@
 {
   "code": "MDA",
   "ticker": "MDA",
-  "last_updated": "2026-08-17 09:57:39",
+  "last_updated": "2026-08-18 09:56:54",
   "period": "5y",
-  "data_points": 106,
+  "data_points": 109,
   "data": [
     {
       "date": "2026-03-12",
@@ -726,6 +726,14 @@
       "volume": 1300600
     },
     {
+      "date": "2026-07-22",
+      "open": 31.36,
+      "high": 31.87,
+      "low": 30.55,
+      "close": 31.61,
+      "volume": 1002700
+    },
+    {
       "date": "2026-07-23",
       "open": 31.09,
       "high": 31.94,
@@ -772,6 +780,14 @@
       "low": 29.44,
       "close": 30.28,
       "volume": 831800
+    },
+    {
+      "date": "2026-07-31",
+      "open": 30.84,
+      "high": 31.12,
+      "low": 29.69,
+      "close": 30.25,
+      "volume": 983100
     },
     {
       "date": "2026-08-03",
@@ -852,6 +868,14 @@
       "low": 34.55,
       "close": 35.21,
       "volume": 669100
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 492550
     }
   ]
 }

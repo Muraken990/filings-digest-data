@@ -1,26 +1,10 @@
 {
   "code": "GROV",
   "ticker": "GROV",
-  "last_updated": "2026-08-17 09:40:44",
+  "last_updated": "2026-08-18 09:39:54",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 48.55,
-      "high": 48.55,
-      "low": 48.35,
-      "close": 48.35,
-      "volume": 280
-    },
-    {
-      "date": "2021-08-17",
-      "open": 48.85,
-      "high": 48.85,
-      "low": 48.4,
-      "close": 48.4,
-      "volume": 260
-    },
     {
       "date": "2021-08-18",
       "open": 48.3,
@@ -9894,22 +9878,6 @@
       "volume": 19900
     },
     {
-      "date": "2026-07-21",
-      "open": 1.06,
-      "high": 1.13,
-      "low": 1.06,
-      "close": 1.11,
-      "volume": 15300
-    },
-    {
-      "date": "2026-07-22",
-      "open": 1.1,
-      "high": 1.13,
-      "low": 1.08,
-      "close": 1.09,
-      "volume": 16300
-    },
-    {
       "date": "2026-07-23",
       "open": 1.1,
       "high": 1.13,
@@ -9956,14 +9924,6 @@
       "low": 1.08,
       "close": 1.08,
       "volume": 23800
-    },
-    {
-      "date": "2026-07-31",
-      "open": 1.11,
-      "high": 1.11,
-      "low": 1.08,
-      "close": 1.1,
-      "volume": 19700
     },
     {
       "date": "2026-08-03",
@@ -10044,6 +10004,14 @@
       "low": 1.02,
       "close": 1.03,
       "volume": 60200
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 22914
     }
   ]
 }

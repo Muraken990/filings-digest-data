@@ -1,26 +1,10 @@
 {
   "code": "PAGP",
   "ticker": "PAGP",
-  "last_updated": "2026-08-17 10:11:12",
+  "last_updated": "2026-08-18 10:10:28",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 7.17,
-      "high": 7.19,
-      "low": 7.06,
-      "close": 7.09,
-      "volume": 1515400
-    },
-    {
-      "date": "2021-08-17",
-      "open": 7.01,
-      "high": 7.19,
-      "low": 6.99,
-      "close": 7.08,
-      "volume": 1107900
-    },
     {
       "date": "2021-08-18",
       "open": 7.07,
@@ -9894,6 +9878,22 @@
       "volume": 1080400
     },
     {
+      "date": "2026-07-21",
+      "open": 25.52,
+      "high": 25.8,
+      "low": 25.39,
+      "close": 25.57,
+      "volume": 1283100
+    },
+    {
+      "date": "2026-07-22",
+      "open": 25.86,
+      "high": 25.89,
+      "low": 25.67,
+      "close": 25.8,
+      "volume": 772900
+    },
+    {
       "date": "2026-07-23",
       "open": 26.08,
       "high": 26.12,
@@ -10028,6 +10028,14 @@
       "low": 25.48,
       "close": 25.84,
       "volume": 1934800
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1509279
     }
   ]
 }

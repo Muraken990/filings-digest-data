@@ -1,26 +1,10 @@
 {
   "code": "NIXX",
   "ticker": "NIXX",
-  "last_updated": "2026-08-17 10:04:27",
+  "last_updated": "2026-08-18 10:03:42",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 65.1,
-      "high": 65.1,
-      "low": 57.3,
-      "close": 61.35,
-      "volume": 4020
-    },
-    {
-      "date": "2021-08-17",
-      "open": 63.75,
-      "high": 63.75,
-      "low": 59.29,
-      "close": 61.8,
-      "volume": 4420
-    },
     {
       "date": "2021-08-18",
       "open": 62.25,
@@ -10043,7 +10027,15 @@
       "high": 0.74,
       "low": 0.65,
       "close": 0.68,
-      "volume": 1060600
+      "volume": 1099800
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2426859
     }
   ]
 }

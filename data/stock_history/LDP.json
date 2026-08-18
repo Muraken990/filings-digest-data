@@ -1,25 +1,17 @@
 {
   "code": "LDP",
   "ticker": "LDP",
-  "last_updated": "2026-08-17 09:53:26",
+  "last_updated": "2026-08-18 09:52:40",
   "period": "5y",
   "data_points": 1252,
   "data": [
     {
-      "date": "2021-08-16",
-      "open": 17.99,
-      "high": 18.12,
-      "low": 17.99,
-      "close": 18.03,
-      "volume": 36200
-    },
-    {
       "date": "2021-08-17",
-      "open": 17.99,
-      "high": 18.25,
-      "low": 17.98,
-      "close": 18.11,
-      "volume": 31100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-18",
@@ -10020,6 +10012,14 @@
       "low": 20.58,
       "close": 20.63,
       "volume": 56700
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 51162
     }
   ]
 }

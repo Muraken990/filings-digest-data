@@ -1,26 +1,10 @@
 {
   "code": "GLOB",
   "ticker": "GLOB",
-  "last_updated": "2026-08-17 09:39:04",
+  "last_updated": "2026-08-18 09:38:13",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 270.82,
-      "high": 276.35,
-      "low": 268.71,
-      "close": 275.81,
-      "volume": 284600
-    },
-    {
-      "date": "2021-08-17",
-      "open": 275.16,
-      "high": 287.3,
-      "low": 274.12,
-      "close": 285.18,
-      "volume": 586100
-    },
     {
       "date": "2021-08-18",
       "open": 282.55,
@@ -10028,6 +10012,14 @@
       "low": 35.51,
       "close": 37.38,
       "volume": 6224900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3141761
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "PBT",
   "ticker": "PBT",
-  "last_updated": "2026-08-17 10:11:17",
+  "last_updated": "2026-08-18 10:10:33",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 4.33,
-      "high": 4.38,
-      "low": 4.32,
-      "close": 4.36,
-      "volume": 46400
-    },
-    {
-      "date": "2021-08-17",
-      "open": 4.27,
-      "high": 4.35,
-      "low": 4.24,
-      "close": 4.33,
-      "volume": 70400
-    },
     {
       "date": "2021-08-18",
       "open": 4.36,
@@ -9894,22 +9878,6 @@
       "volume": 56400
     },
     {
-      "date": "2026-07-21",
-      "open": 28.66,
-      "high": 29.54,
-      "low": 28.29,
-      "close": 28.71,
-      "volume": 90600
-    },
-    {
-      "date": "2026-07-22",
-      "open": 29.35,
-      "high": 29.86,
-      "low": 29.18,
-      "close": 29.41,
-      "volume": 56300
-    },
-    {
       "date": "2026-07-23",
       "open": 29.48,
       "high": 29.86,
@@ -9959,11 +9927,11 @@
     },
     {
       "date": "2026-07-31",
-      "open": 29.8,
-      "high": 30.7,
-      "low": 29.19,
-      "close": 29.61,
-      "volume": 179100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2026-08-03",
@@ -10044,6 +10012,14 @@
       "low": 32.29,
       "close": 32.69,
       "volume": 141400
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 130328
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "PIII",
   "ticker": "PIII",
-  "last_updated": "2026-08-17 10:13:44",
+  "last_updated": "2026-08-18 10:13:01",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 492.5,
-      "high": 492.5,
-      "low": 491.0,
-      "close": 492.5,
-      "volume": 890
-    },
-    {
-      "date": "2021-08-17",
-      "open": 491.5,
-      "high": 491.5,
-      "low": 490.5,
-      "close": 490.5,
-      "volume": 136
-    },
     {
       "date": "2021-08-18",
       "open": 491.75,
@@ -10027,7 +10011,15 @@
       "high": 11.1,
       "low": 10.63,
       "close": 10.69,
-      "volume": 27200
+      "volume": 30400
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 42146
     }
   ]
 }

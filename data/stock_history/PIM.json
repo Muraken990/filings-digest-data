@@ -1,26 +1,10 @@
 {
   "code": "PIM",
   "ticker": "PIM",
-  "last_updated": "2026-08-17 10:13:44",
+  "last_updated": "2026-08-18 10:13:02",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 2.77,
-      "high": 2.78,
-      "low": 2.76,
-      "close": 2.77,
-      "volume": 167800
-    },
-    {
-      "date": "2021-08-17",
-      "open": 2.76,
-      "high": 2.78,
-      "low": 2.76,
-      "close": 2.76,
-      "volume": 114600
-    },
     {
       "date": "2021-08-18",
       "open": 2.77,
@@ -9894,22 +9878,6 @@
       "volume": 69000
     },
     {
-      "date": "2026-07-21",
-      "open": 3.12,
-      "high": 3.2,
-      "low": 3.12,
-      "close": 3.18,
-      "volume": 107500
-    },
-    {
-      "date": "2026-07-22",
-      "open": 3.16,
-      "high": 3.17,
-      "low": 3.14,
-      "close": 3.14,
-      "volume": 22700
-    },
-    {
       "date": "2026-07-23",
       "open": 3.15,
       "high": 3.16,
@@ -9956,14 +9924,6 @@
       "low": 3.08,
       "close": 3.09,
       "volume": 96000
-    },
-    {
-      "date": "2026-07-31",
-      "open": 3.12,
-      "high": 3.14,
-      "low": 3.09,
-      "close": 3.12,
-      "volume": 45400
     },
     {
       "date": "2026-08-03",
@@ -10044,6 +10004,14 @@
       "low": 3.17,
       "close": 3.17,
       "volume": 47100
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 56703
     }
   ]
 }

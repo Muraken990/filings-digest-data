@@ -1,26 +1,10 @@
 {
   "code": "IVF",
   "ticker": "IVF",
-  "last_updated": "2026-08-17 09:49:10",
+  "last_updated": "2026-08-18 09:48:23",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 122112.0,
-      "high": 122400.0,
-      "low": 117936.0,
-      "close": 122400.0,
-      "volume": 1
-    },
-    {
-      "date": "2021-08-17",
-      "open": 122112.0,
-      "high": 122112.0,
-      "low": 110880.0,
-      "close": 114336.0,
-      "volume": 3
-    },
     {
       "date": "2021-08-18",
       "open": 115056.0,
@@ -10043,7 +10027,15 @@
       "high": 1.01,
       "low": 0.95,
       "close": 0.97,
-      "volume": 48600
+      "volume": 51900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 113750838
     }
   ]
 }

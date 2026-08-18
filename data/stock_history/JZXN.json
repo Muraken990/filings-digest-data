@@ -1,26 +1,10 @@
 {
   "code": "JZXN",
   "ticker": "JZXN",
-  "last_updated": "2026-08-17 09:50:50",
+  "last_updated": "2026-08-18 09:50:04",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 33134.4,
-      "high": 33274.8,
-      "low": 30981.6,
-      "close": 31449.6,
-      "volume": 20
-    },
-    {
-      "date": "2021-08-17",
-      "open": 31449.6,
-      "high": 32572.8,
-      "low": 30139.2,
-      "close": 30420.0,
-      "volume": 26
-    },
     {
       "date": "2021-08-18",
       "open": 31543.2,
@@ -10043,7 +10027,15 @@
       "high": 1.41,
       "low": 1.37,
       "close": 1.39,
-      "volume": 89000
+      "volume": 89500
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 70982
     }
   ]
 }

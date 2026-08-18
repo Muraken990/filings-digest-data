@@ -1,26 +1,10 @@
 {
   "code": "KMI",
   "ticker": "KMI",
-  "last_updated": "2026-08-17 09:51:42",
+  "last_updated": "2026-08-18 09:50:56",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 13.06,
-      "high": 13.12,
-      "low": 12.95,
-      "close": 12.97,
-      "volume": 12991500
-    },
-    {
-      "date": "2021-08-17",
-      "open": 12.91,
-      "high": 13.03,
-      "low": 12.7,
-      "close": 12.78,
-      "volume": 12805500
-    },
     {
       "date": "2021-08-18",
       "open": 12.73,
@@ -1383,7 +1367,7 @@
     },
     {
       "date": "2022-04-21",
-      "open": 15.75,
+      "open": 15.74,
       "high": 15.89,
       "low": 15.51,
       "close": 15.58,
@@ -10043,7 +10027,15 @@
       "high": 32.84,
       "low": 32.13,
       "close": 32.82,
-      "volume": 8662500
+      "volume": 8663100
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 7130816
     }
   ]
 }

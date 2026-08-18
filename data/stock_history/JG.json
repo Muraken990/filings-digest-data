@@ -1,26 +1,10 @@
 {
   "code": "JG",
   "ticker": "JG",
-  "last_updated": "2026-08-17 09:50:00",
+  "last_updated": "2026-08-18 09:49:14",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 41.0,
-      "high": 41.0,
-      "low": 37.2,
-      "close": 38.8,
-      "volume": 22295
-    },
-    {
-      "date": "2021-08-17",
-      "open": 38.0,
-      "high": 38.6,
-      "low": 37.0,
-      "close": 37.8,
-      "volume": 14125
-    },
     {
       "date": "2021-08-18",
       "open": 38.0,
@@ -9894,6 +9878,22 @@
       "volume": 900
     },
     {
+      "date": "2026-07-21",
+      "open": 3.81,
+      "high": 4.07,
+      "low": 3.66,
+      "close": 3.89,
+      "volume": 6000
+    },
+    {
+      "date": "2026-07-22",
+      "open": 3.89,
+      "high": 4.4,
+      "low": 3.63,
+      "close": 4.15,
+      "volume": 11500
+    },
+    {
       "date": "2026-07-23",
       "open": 4.49,
       "high": 4.69,
@@ -9940,6 +9940,14 @@
       "low": 5.07,
       "close": 5.28,
       "volume": 9700
+    },
+    {
+      "date": "2026-07-31",
+      "open": 5.6,
+      "high": 5.62,
+      "low": 5.45,
+      "close": 5.6,
+      "volume": 5900
     },
     {
       "date": "2026-08-03",
@@ -10020,6 +10028,14 @@
       "low": 5.25,
       "close": 5.73,
       "volume": 12900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1837
     }
   ]
 }

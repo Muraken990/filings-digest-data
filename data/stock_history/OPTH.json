@@ -1,9 +1,9 @@
 {
   "code": "OPTH",
   "ticker": "OPTH",
-  "last_updated": "2026-08-17 10:09:33",
+  "last_updated": "2026-08-18 10:08:48",
   "period": "5y",
-  "data_points": 60,
+  "data_points": 58,
   "data": [
     {
       "date": "2026-05-20",
@@ -334,22 +334,6 @@
       "volume": 39100
     },
     {
-      "date": "2026-07-21",
-      "open": 4.8,
-      "high": 4.8,
-      "low": 4.6,
-      "close": 4.75,
-      "volume": 14000
-    },
-    {
-      "date": "2026-07-22",
-      "open": 4.61,
-      "high": 4.7,
-      "low": 4.4,
-      "close": 4.54,
-      "volume": 16300
-    },
-    {
       "date": "2026-07-23",
       "open": 4.59,
       "high": 4.87,
@@ -396,14 +380,6 @@
       "low": 4.46,
       "close": 4.69,
       "volume": 23000
-    },
-    {
-      "date": "2026-07-31",
-      "open": 4.56,
-      "high": 4.93,
-      "low": 4.52,
-      "close": 4.85,
-      "volume": 28900
     },
     {
       "date": "2026-08-03",
@@ -484,6 +460,14 @@
       "low": 4.66,
       "close": 4.79,
       "volume": 23300
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 21182
     }
   ]
 }
