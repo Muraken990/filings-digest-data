@@ -1,26 +1,10 @@
 {
   "code": "VERX",
   "ticker": "VERX",
-  "last_updated": "2026-08-17 12:30:06",
+  "last_updated": "2026-08-18 12:29:25",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 19.18,
-      "high": 19.18,
-      "low": 18.31,
-      "close": 18.96,
-      "volume": 104900
-    },
-    {
-      "date": "2021-08-17",
-      "open": 18.72,
-      "high": 19.19,
-      "low": 18.44,
-      "close": 19.17,
-      "volume": 131400
-    },
     {
       "date": "2021-08-18",
       "open": 19.17,
@@ -10019,7 +10003,15 @@
       "high": 13.31,
       "low": 12.65,
       "close": 12.72,
-      "volume": 1447400
+      "volume": 1448000
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1125968
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SYNX",
   "ticker": "SYNX",
-  "last_updated": "2026-08-17 12:23:11",
+  "last_updated": "2026-08-18 12:22:25",
   "period": "5y",
-  "data_points": 646,
+  "data_points": 650,
   "data": [
     {
       "date": "2024-01-12",
@@ -5046,6 +5046,22 @@
       "volume": 27200
     },
     {
+      "date": "2026-07-21",
+      "open": 1.07,
+      "high": 1.09,
+      "low": 1.05,
+      "close": 1.06,
+      "volume": 42800
+    },
+    {
+      "date": "2026-07-22",
+      "open": 1.1,
+      "high": 1.1,
+      "low": 1.05,
+      "close": 1.05,
+      "volume": 26600
+    },
+    {
       "date": "2026-07-23",
       "open": 1.06,
       "high": 1.08,
@@ -5092,6 +5108,14 @@
       "low": 1.0,
       "close": 1.02,
       "volume": 18400
+    },
+    {
+      "date": "2026-07-31",
+      "open": 1.01,
+      "high": 1.01,
+      "low": 1.0,
+      "close": 1.01,
+      "volume": 6900
     },
     {
       "date": "2026-08-03",
@@ -5172,6 +5196,14 @@
       "low": 1.03,
       "close": 1.07,
       "volume": 21500
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 18099
     }
   ]
 }

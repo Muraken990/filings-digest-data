@@ -1,26 +1,10 @@
 {
   "code": "SHEN",
   "ticker": "SHEN",
-  "last_updated": "2026-08-17 12:17:14",
+  "last_updated": "2026-08-18 12:16:22",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 29.45,
-      "high": 29.63,
-      "low": 28.53,
-      "close": 28.59,
-      "volume": 244500
-    },
-    {
-      "date": "2021-08-17",
-      "open": 28.3,
-      "high": 28.5,
-      "low": 27.98,
-      "close": 28.45,
-      "volume": 207400
-    },
     {
       "date": "2021-08-18",
       "open": 29.16,
@@ -5905,7 +5889,7 @@
       "date": "2024-07-23",
       "open": 19.15,
       "high": 19.62,
-      "low": 19.12,
+      "low": 19.11,
       "close": 19.28,
       "volume": 182200
     },
@@ -10044,6 +10028,14 @@
       "low": 13.23,
       "close": 13.27,
       "volume": 277200
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 333629
     }
   ]
 }

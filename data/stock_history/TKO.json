@@ -1,26 +1,10 @@
 {
   "code": "TKO",
   "ticker": "TKO",
-  "last_updated": "2026-08-17 12:24:57",
+  "last_updated": "2026-08-18 12:24:13",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 46.67,
-      "high": 46.76,
-      "low": 45.82,
-      "close": 46.3,
-      "volume": 418300
-    },
-    {
-      "date": "2021-08-17",
-      "open": 45.85,
-      "high": 46.44,
-      "low": 45.34,
-      "close": 45.51,
-      "volume": 255600
-    },
     {
       "date": "2021-08-18",
       "open": 45.54,
@@ -2816,7 +2800,7 @@
     {
       "date": "2023-01-06",
       "open": 75.34,
-      "high": 84.16,
+      "high": 84.17,
       "low": 75.34,
       "close": 79.31,
       "volume": 8427200
@@ -10020,6 +10004,14 @@
       "low": 197.49,
       "close": 201.28,
       "volume": 955700
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1024261
     }
   ]
 }

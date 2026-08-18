@@ -1,26 +1,10 @@
 {
   "code": "TRST",
   "ticker": "TRST",
-  "last_updated": "2026-08-17 12:26:38",
+  "last_updated": "2026-08-18 12:25:56",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 27.35,
-      "high": 27.52,
-      "low": 26.97,
-      "close": 27.2,
-      "volume": 100100
-    },
-    {
-      "date": "2021-08-17",
-      "open": 27.07,
-      "high": 27.24,
-      "low": 26.74,
-      "close": 27.0,
-      "volume": 55000
-    },
     {
       "date": "2021-08-18",
       "open": 26.89,
@@ -2721,7 +2705,7 @@
       "date": "2022-12-19",
       "open": 31.93,
       "high": 32.53,
-      "low": 31.8,
+      "low": 31.81,
       "close": 32.12,
       "volume": 102200
     },
@@ -3080,7 +3064,7 @@
     {
       "date": "2023-02-24",
       "open": 31.53,
-      "high": 31.81,
+      "high": 31.8,
       "low": 31.47,
       "close": 31.64,
       "volume": 51500
@@ -10020,6 +10004,14 @@
       "low": 57.04,
       "close": 57.35,
       "volume": 120000
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 120177
     }
   ]
 }

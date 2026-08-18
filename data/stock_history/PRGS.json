@@ -1,26 +1,10 @@
 {
   "code": "PRGS",
   "ticker": "PRGS",
-  "last_updated": "2026-08-17 12:07:52",
+  "last_updated": "2026-08-18 12:06:56",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 43.3,
-      "high": 43.32,
-      "low": 42.85,
-      "close": 43.06,
-      "volume": 332800
-    },
-    {
-      "date": "2021-08-17",
-      "open": 42.79,
-      "high": 42.86,
-      "low": 42.41,
-      "close": 42.79,
-      "volume": 206700
-    },
     {
       "date": "2021-08-18",
       "open": 42.63,
@@ -3873,7 +3857,7 @@
       "date": "2023-07-19",
       "open": 58.57,
       "high": 58.78,
-      "low": 57.06,
+      "low": 57.07,
       "close": 57.09,
       "volume": 497800
     },
@@ -10020,6 +10004,14 @@
       "low": 43.62,
       "close": 43.73,
       "volume": 261900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 275127
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "SAFE",
   "ticker": "SAFE",
-  "last_updated": "2026-08-17 12:14:42",
+  "last_updated": "2026-08-18 12:13:47",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 105.38,
-      "high": 105.42,
-      "low": 102.85,
-      "close": 103.5,
-      "volume": 121292
-    },
-    {
-      "date": "2021-08-17",
-      "open": 102.89,
-      "high": 102.89,
-      "low": 99.25,
-      "close": 101.33,
-      "volume": 146890
-    },
     {
       "date": "2021-08-18",
       "open": 101.29,
@@ -7250,7 +7234,7 @@
       "open": 17.15,
       "high": 17.16,
       "low": 16.49,
-      "close": 16.6,
+      "close": 16.59,
       "volume": 502700
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 15.22,
       "close": 15.25,
       "volume": 234300
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 280570
     }
   ]
 }

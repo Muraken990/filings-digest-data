@@ -1,26 +1,10 @@
 {
   "code": "STEP",
   "ticker": "STEP",
-  "last_updated": "2026-08-17 12:21:30",
+  "last_updated": "2026-08-18 12:20:44",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 39.64,
-      "high": 40.88,
-      "low": 39.5,
-      "close": 40.65,
-      "volume": 165600
-    },
-    {
-      "date": "2021-08-17",
-      "open": 40.23,
-      "high": 40.31,
-      "low": 38.95,
-      "close": 39.82,
-      "volume": 111100
-    },
     {
       "date": "2021-08-18",
       "open": 39.74,
@@ -242,7 +226,7 @@
       "open": 38.92,
       "high": 39.14,
       "low": 38.5,
-      "close": 38.73,
+      "close": 38.74,
       "volume": 117500
     },
     {
@@ -3384,7 +3368,7 @@
     {
       "date": "2023-04-20",
       "open": 20.23,
-      "high": 20.42,
+      "high": 20.41,
       "low": 20.17,
       "close": 20.33,
       "volume": 304800
@@ -10020,6 +10004,14 @@
       "low": 50.05,
       "close": 50.4,
       "volume": 1109500
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1101384
     }
   ]
 }

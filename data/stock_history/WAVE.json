@@ -1,26 +1,10 @@
 {
   "code": "WAVE",
   "ticker": "WAVE",
-  "last_updated": "2026-08-17 12:32:38",
+  "last_updated": "2026-08-18 12:31:58",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 8.19,
-      "high": 8.3,
-      "low": 8.06,
-      "close": 8.12,
-      "volume": 33300
-    },
-    {
-      "date": "2021-08-17",
-      "open": 8.22,
-      "high": 11.01,
-      "low": 8.22,
-      "close": 9.59,
-      "volume": 1318800
-    },
     {
       "date": "2021-08-18",
       "open": 9.3,
@@ -9894,22 +9878,6 @@
       "volume": 18100
     },
     {
-      "date": "2026-07-21",
-      "open": 8.5,
-      "high": 8.5,
-      "low": 8.23,
-      "close": 8.26,
-      "volume": 14200
-    },
-    {
-      "date": "2026-07-22",
-      "open": 8.26,
-      "high": 8.84,
-      "low": 8.22,
-      "close": 8.44,
-      "volume": 17000
-    },
-    {
       "date": "2026-07-23",
       "open": 8.32,
       "high": 8.51,
@@ -9956,14 +9924,6 @@
       "low": 7.08,
       "close": 7.45,
       "volume": 50800
-    },
-    {
-      "date": "2026-07-31",
-      "open": 7.47,
-      "high": 7.5,
-      "low": 7.1,
-      "close": 7.3,
-      "volume": 16400
     },
     {
       "date": "2026-08-03",
@@ -10044,6 +10004,14 @@
       "low": 7.01,
       "close": 7.15,
       "volume": 8800
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 4929
     }
   ]
 }

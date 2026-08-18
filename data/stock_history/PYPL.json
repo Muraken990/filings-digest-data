@@ -1,26 +1,10 @@
 {
   "code": "PYPL",
   "ticker": "PYPL",
-  "last_updated": "2026-08-17 12:09:32",
+  "last_updated": "2026-08-18 12:08:36",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 271.38,
-      "high": 276.79,
-      "low": 271.21,
-      "close": 275.89,
-      "volume": 5283700
-    },
-    {
-      "date": "2021-08-17",
-      "open": 272.89,
-      "high": 273.18,
-      "low": 266.77,
-      "close": 268.77,
-      "volume": 7966100
-    },
     {
       "date": "2021-08-18",
       "open": 268.68,
@@ -10043,7 +10027,15 @@
       "high": 62.31,
       "low": 59.34,
       "close": 61.66,
-      "volume": 15627600
+      "volume": 15707800
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 8604953
     }
   ]
 }

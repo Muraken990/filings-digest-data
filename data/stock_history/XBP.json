@@ -1,26 +1,10 @@
 {
   "code": "XBP",
   "ticker": "XBP",
-  "last_updated": "2026-08-17 12:35:11",
+  "last_updated": "2026-08-18 12:34:32",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 98.0,
-      "high": 99.0,
-      "low": 97.7,
-      "close": 98.9,
-      "volume": 7800
-    },
-    {
-      "date": "2021-08-17",
-      "open": 98.1,
-      "high": 99.7,
-      "low": 98.1,
-      "close": 98.5,
-      "volume": 140
-    },
     {
       "date": "2021-08-18",
       "open": 98.5,
@@ -9894,22 +9878,6 @@
       "volume": 12300
     },
     {
-      "date": "2026-07-21",
-      "open": 2.66,
-      "high": 3.3,
-      "low": 2.66,
-      "close": 2.85,
-      "volume": 76900
-    },
-    {
-      "date": "2026-07-22",
-      "open": 2.87,
-      "high": 2.93,
-      "low": 2.69,
-      "close": 2.69,
-      "volume": 10100
-    },
-    {
       "date": "2026-07-23",
       "open": 2.75,
       "high": 3.12,
@@ -9956,14 +9924,6 @@
       "low": 2.87,
       "close": 3.08,
       "volume": 21700
-    },
-    {
-      "date": "2026-07-31",
-      "open": 3.15,
-      "high": 3.15,
-      "low": 2.82,
-      "close": 2.86,
-      "volume": 6500
     },
     {
       "date": "2026-08-03",
@@ -10044,6 +10004,14 @@
       "low": 2.67,
       "close": 2.82,
       "volume": 5200
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 54560
     }
   ]
 }

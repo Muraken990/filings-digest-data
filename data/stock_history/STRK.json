@@ -1,9 +1,9 @@
 {
   "code": "STRK",
   "ticker": "STRK",
-  "last_updated": "2026-08-17 12:21:33",
+  "last_updated": "2026-08-18 12:20:46",
   "period": "5y",
-  "data_points": 385,
+  "data_points": 383,
   "data": [
     {
       "date": "2025-02-03",
@@ -2934,22 +2934,6 @@
       "volume": 88600
     },
     {
-      "date": "2026-07-21",
-      "open": 61.8,
-      "high": 63.11,
-      "low": 61.8,
-      "close": 62.77,
-      "volume": 45100
-    },
-    {
-      "date": "2026-07-22",
-      "open": 62.72,
-      "high": 63.1,
-      "low": 62.29,
-      "close": 62.29,
-      "volume": 37800
-    },
-    {
       "date": "2026-07-23",
       "open": 61.71,
       "high": 62.7,
@@ -2996,14 +2980,6 @@
       "low": 62.1,
       "close": 63.02,
       "volume": 70700
-    },
-    {
-      "date": "2026-07-31",
-      "open": 63.02,
-      "high": 63.02,
-      "low": 58.91,
-      "close": 59.56,
-      "volume": 246800
     },
     {
       "date": "2026-08-03",
@@ -3084,6 +3060,14 @@
       "low": 66.47,
       "close": 68.6,
       "volume": 115400
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 61164
     }
   ]
 }

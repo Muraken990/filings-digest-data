@@ -1,9 +1,9 @@
 {
   "code": "SEZL",
   "ticker": "SEZL",
-  "last_updated": "2026-08-17 12:16:25",
+  "last_updated": "2026-08-18 12:15:32",
   "period": "5y",
-  "data_points": 731,
+  "data_points": 734,
   "data": [
     {
       "date": "2023-09-13",
@@ -5718,6 +5718,14 @@
       "volume": 451400
     },
     {
+      "date": "2026-07-21",
+      "open": 175.37,
+      "high": 179.98,
+      "low": 173.3,
+      "close": 179.35,
+      "volume": 355500
+    },
+    {
       "date": "2026-07-22",
       "open": 176.66,
       "high": 178.7,
@@ -5772,6 +5780,14 @@
       "low": 147.58,
       "close": 155.11,
       "volume": 410700
+    },
+    {
+      "date": "2026-07-31",
+      "open": 156.18,
+      "high": 158.24,
+      "low": 149.85,
+      "close": 154.75,
+      "volume": 286700
     },
     {
       "date": "2026-08-03",
@@ -5851,7 +5867,15 @@
       "high": 136.59,
       "low": 128.68,
       "close": 128.96,
-      "volume": 745300
+      "volume": 747600
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1055459
     }
   ]
 }

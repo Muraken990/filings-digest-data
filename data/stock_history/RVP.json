@@ -1,26 +1,10 @@
 {
   "code": "RVP",
   "ticker": "RVP",
-  "last_updated": "2026-08-17 12:13:52",
+  "last_updated": "2026-08-18 12:12:57",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 12.51,
-      "high": 12.57,
-      "low": 11.88,
-      "close": 12.27,
-      "volume": 202800
-    },
-    {
-      "date": "2021-08-17",
-      "open": 11.67,
-      "high": 11.82,
-      "low": 10.18,
-      "close": 10.72,
-      "volume": 1359900
-    },
     {
       "date": "2021-08-18",
       "open": 10.89,
@@ -10019,7 +10003,15 @@
       "high": 0.69,
       "low": 0.67,
       "close": 0.69,
-      "volume": 40500
+      "volume": 46800
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 249430
     }
   ]
 }

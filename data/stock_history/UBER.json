@@ -1,26 +1,10 @@
 {
   "code": "UBER",
   "ticker": "UBER",
-  "last_updated": "2026-08-17 12:28:19",
+  "last_updated": "2026-08-18 12:27:37",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 41.76,
-      "high": 41.79,
-      "low": 40.86,
-      "close": 41.5,
-      "volume": 19223500
-    },
-    {
-      "date": "2021-08-17",
-      "open": 41.0,
-      "high": 41.48,
-      "low": 40.58,
-      "close": 41.0,
-      "volume": 20364400
-    },
     {
       "date": "2021-08-18",
       "open": 40.97,
@@ -10043,7 +10027,15 @@
       "high": 77.44,
       "low": 75.37,
       "close": 75.95,
-      "volume": 10180400
+      "volume": 10195700
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 17994415
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "USA",
   "ticker": "USA",
-  "last_updated": "2026-08-17 12:29:12",
+  "last_updated": "2026-08-18 12:28:31",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 5.1,
-      "high": 5.38,
-      "low": 5.09,
-      "close": 5.31,
-      "volume": 2731700
-    },
-    {
-      "date": "2021-08-17",
-      "open": 5.3,
-      "high": 5.35,
-      "low": 5.26,
-      "close": 5.32,
-      "volume": 1182800
-    },
     {
       "date": "2021-08-18",
       "open": 5.3,
@@ -10043,7 +10027,15 @@
       "high": 6.12,
       "low": 6.07,
       "close": 6.07,
-      "volume": 703500
+      "volume": 706900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1565812
     }
   ]
 }

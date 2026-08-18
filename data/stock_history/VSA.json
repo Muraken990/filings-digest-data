@@ -1,26 +1,10 @@
 {
   "code": "VSA",
   "ticker": "VSA",
-  "last_updated": "2026-08-17 12:31:47",
+  "last_updated": "2026-08-18 12:31:07",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 3475.0,
-      "high": 3825.0,
-      "low": 3300.0,
-      "close": 3450.0,
-      "volume": 334
-    },
-    {
-      "date": "2021-08-17",
-      "open": 3400.0,
-      "high": 3400.0,
-      "low": 3125.0,
-      "close": 3200.0,
-      "volume": 403
-    },
     {
       "date": "2021-08-18",
       "open": 3375.0,
@@ -10035,7 +10019,15 @@
       "high": 3.52,
       "low": 3.32,
       "close": 3.32,
-      "volume": 29900
+      "volume": 30400
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 21745
     }
   ]
 }

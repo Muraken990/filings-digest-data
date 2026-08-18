@@ -1,9 +1,9 @@
 {
   "code": "XCH",
   "ticker": "XCH",
-  "last_updated": "2026-08-17 12:35:11",
+  "last_updated": "2026-08-18 12:34:33",
   "period": "5y",
-  "data_points": 479,
+  "data_points": 480,
   "data": [
     {
       "date": "2024-09-10",
@@ -3831,11 +3831,19 @@
     },
     {
       "date": "2026-08-14",
+      "open": 0.28,
+      "high": 0.28,
+      "low": 0.25,
+      "close": 0.25,
+      "volume": 5262800
+    },
+    {
+      "date": "2026-08-17",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 5262834
+      "volume": 673667
     }
   ]
 }

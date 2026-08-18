@@ -1,26 +1,10 @@
 {
   "code": "TULP",
   "ticker": "TULP",
-  "last_updated": "2026-08-17 12:27:28",
+  "last_updated": "2026-08-18 12:26:46",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 7.57,
-      "high": 7.7,
-      "low": 7.36,
-      "close": 7.36,
-      "volume": 4400
-    },
-    {
-      "date": "2021-08-17",
-      "open": 7.53,
-      "high": 7.85,
-      "low": 7.35,
-      "close": 7.35,
-      "volume": 2500
-    },
     {
       "date": "2021-08-18",
       "open": 7.42,
@@ -9894,22 +9878,6 @@
       "volume": 2100
     },
     {
-      "date": "2026-07-21",
-      "open": 3.82,
-      "high": 3.82,
-      "low": 3.82,
-      "close": 3.82,
-      "volume": 0
-    },
-    {
-      "date": "2026-07-22",
-      "open": 3.82,
-      "high": 3.82,
-      "low": 3.82,
-      "close": 3.82,
-      "volume": 0
-    },
-    {
       "date": "2026-07-23",
       "open": 3.82,
       "high": 3.82,
@@ -9956,14 +9924,6 @@
       "low": 3.27,
       "close": 3.27,
       "volume": 2900
-    },
-    {
-      "date": "2026-07-31",
-      "open": 3.27,
-      "high": 3.27,
-      "low": 3.27,
-      "close": 3.27,
-      "volume": 0
     },
     {
       "date": "2026-08-03",
@@ -10044,6 +10004,14 @@
       "low": 3.61,
       "close": 3.61,
       "volume": 0
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 900
     }
   ]
 }

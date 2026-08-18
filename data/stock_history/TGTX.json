@@ -1,26 +1,10 @@
 {
   "code": "TGTX",
   "ticker": "TGTX",
-  "last_updated": "2026-08-17 12:24:53",
+  "last_updated": "2026-08-18 12:24:09",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 22.81,
-      "high": 23.22,
-      "low": 22.18,
-      "close": 22.3,
-      "volume": 1743900
-    },
-    {
-      "date": "2021-08-17",
-      "open": 22.0,
-      "high": 22.35,
-      "low": 21.06,
-      "close": 22.3,
-      "volume": 2178900
-    },
     {
       "date": "2021-08-18",
       "open": 22.39,
@@ -10035,7 +10019,15 @@
       "high": 48.92,
       "low": 47.27,
       "close": 48.74,
-      "volume": 1072500
+      "volume": 1073500
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 986033
     }
   ]
 }

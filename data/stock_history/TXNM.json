@@ -1,26 +1,10 @@
 {
   "code": "TXNM",
   "ticker": "TXNM",
-  "last_updated": "2026-08-17 12:27:31",
+  "last_updated": "2026-08-18 12:26:50",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 41.55,
-      "high": 41.6,
-      "low": 41.3,
-      "close": 41.55,
-      "volume": 430900
-    },
-    {
-      "date": "2021-08-17",
-      "open": 41.46,
-      "high": 41.76,
-      "low": 41.39,
-      "close": 41.74,
-      "volume": 522600
-    },
     {
       "date": "2021-08-18",
       "open": 41.77,
@@ -7121,7 +7105,7 @@
       "date": "2025-03-03",
       "open": 50.39,
       "high": 50.53,
-      "low": 49.85,
+      "low": 49.86,
       "close": 50.36,
       "volume": 725500
     },
@@ -10020,6 +10004,14 @@
       "low": 57.32,
       "close": 57.4,
       "volume": 467900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 361174
     }
   ]
 }

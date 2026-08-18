@@ -1,26 +1,10 @@
 {
   "code": "TKNO",
   "ticker": "TKNO",
-  "last_updated": "2026-08-17 12:24:56",
+  "last_updated": "2026-08-18 12:24:13",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 19.49,
-      "high": 21.45,
-      "low": 18.76,
-      "close": 20.79,
-      "volume": 66100
-    },
-    {
-      "date": "2021-08-17",
-      "open": 20.36,
-      "high": 21.49,
-      "low": 19.15,
-      "close": 19.42,
-      "volume": 78600
-    },
     {
       "date": "2021-08-18",
       "open": 20.0,
@@ -10019,7 +10003,15 @@
       "high": 7.56,
       "low": 6.61,
       "close": 7.29,
-      "volume": 552700
+      "volume": 553400
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 460014
     }
   ]
 }

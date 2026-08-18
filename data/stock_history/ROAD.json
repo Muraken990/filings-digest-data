@@ -1,26 +1,10 @@
 {
   "code": "ROAD",
   "ticker": "ROAD",
-  "last_updated": "2026-08-17 12:13:00",
+  "last_updated": "2026-08-18 12:12:05",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 34.14,
-      "high": 34.14,
-      "low": 32.96,
-      "close": 33.08,
-      "volume": 187900
-    },
-    {
-      "date": "2021-08-17",
-      "open": 32.77,
-      "high": 33.32,
-      "low": 32.45,
-      "close": 33.02,
-      "volume": 161700
-    },
     {
       "date": "2021-08-18",
       "open": 32.93,
@@ -10020,6 +10004,14 @@
       "low": 116.76,
       "close": 121.55,
       "volume": 484700
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 554366
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "RAIL",
   "ticker": "RAIL",
-  "last_updated": "2026-08-17 12:10:24",
+  "last_updated": "2026-08-18 12:09:28",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 5.25,
-      "high": 6.09,
-      "low": 5.23,
-      "close": 5.55,
-      "volume": 2962900
-    },
-    {
-      "date": "2021-08-17",
-      "open": 5.37,
-      "high": 5.47,
-      "low": 5.11,
-      "close": 5.29,
-      "volume": 919300
-    },
     {
       "date": "2021-08-18",
       "open": 5.31,
@@ -10019,7 +10003,15 @@
       "high": 7.5,
       "low": 7.28,
       "close": 7.32,
-      "volume": 168300
+      "volume": 168900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 132513
     }
   ]
 }

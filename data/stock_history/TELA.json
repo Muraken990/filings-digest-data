@@ -1,26 +1,10 @@
 {
   "code": "TELA",
   "ticker": "TELA",
-  "last_updated": "2026-08-17 12:24:05",
+  "last_updated": "2026-08-18 12:23:21",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 13.35,
-      "high": 14.91,
-      "low": 13.11,
-      "close": 13.9,
-      "volume": 38000
-    },
-    {
-      "date": "2021-08-17",
-      "open": 13.52,
-      "high": 13.64,
-      "low": 13.38,
-      "close": 13.62,
-      "volume": 11900
-    },
     {
       "date": "2021-08-18",
       "open": 13.62,
@@ -10019,7 +10003,15 @@
       "high": 0.7,
       "low": 0.63,
       "close": 0.64,
-      "volume": 247800
+      "volume": 252900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 240883
     }
   ]
 }

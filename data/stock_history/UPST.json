@@ -1,26 +1,10 @@
 {
   "code": "UPST",
   "ticker": "UPST",
-  "last_updated": "2026-08-17 12:29:11",
+  "last_updated": "2026-08-18 12:28:30",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 198.2,
-      "high": 213.9,
-      "low": 188.28,
-      "close": 200.89,
-      "volume": 10637000
-    },
-    {
-      "date": "2021-08-17",
-      "open": 190.65,
-      "high": 208.49,
-      "low": 190.16,
-      "close": 200.18,
-      "volume": 7450200
-    },
     {
       "date": "2021-08-18",
       "open": 204.6,
@@ -10043,7 +10027,15 @@
       "high": 31.36,
       "low": 30.25,
       "close": 30.43,
-      "volume": 2960400
+      "volume": 2968800
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3969389
     }
   ]
 }

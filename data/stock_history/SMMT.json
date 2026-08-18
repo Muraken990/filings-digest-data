@@ -1,26 +1,10 @@
 {
   "code": "SMMT",
   "ticker": "SMMT",
-  "last_updated": "2026-08-17 12:18:56",
+  "last_updated": "2026-08-18 12:18:05",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 7.93,
-      "high": 7.93,
-      "low": 7.33,
-      "close": 7.46,
-      "volume": 117900
-    },
-    {
-      "date": "2021-08-17",
-      "open": 7.46,
-      "high": 7.56,
-      "low": 7.1,
-      "close": 7.23,
-      "volume": 111300
-    },
     {
       "date": "2021-08-18",
       "open": 7.25,
@@ -10043,7 +10027,15 @@
       "high": 13.7,
       "low": 12.99,
       "close": 13.35,
-      "volume": 9744900
+      "volume": 9748900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 9842168
     }
   ]
 }

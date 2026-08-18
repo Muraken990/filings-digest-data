@@ -1,26 +1,10 @@
 {
   "code": "PMO",
   "ticker": "PMO",
-  "last_updated": "2026-08-17 12:07:00",
+  "last_updated": "2026-08-18 12:06:04",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 11.61,
-      "high": 11.64,
-      "low": 11.57,
-      "close": 11.64,
-      "volume": 28300
-    },
-    {
-      "date": "2021-08-17",
-      "open": 11.64,
-      "high": 11.73,
-      "low": 11.61,
-      "close": 11.7,
-      "volume": 47800
-    },
     {
       "date": "2021-08-18",
       "open": 11.7,
@@ -6641,7 +6625,7 @@
       "date": "2024-12-02",
       "open": 10.04,
       "high": 10.06,
-      "low": 9.9,
+      "low": 9.89,
       "close": 9.93,
       "volume": 132300
     },
@@ -10020,6 +10004,14 @@
       "low": 10.53,
       "close": 10.59,
       "volume": 63200
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 44389
     }
   ]
 }

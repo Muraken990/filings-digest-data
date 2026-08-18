@@ -1,26 +1,10 @@
 {
   "code": "SPXX",
   "ticker": "SPXX",
-  "last_updated": "2026-08-17 12:20:38",
+  "last_updated": "2026-08-18 12:19:52",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 12.6,
-      "high": 12.6,
-      "low": 12.56,
-      "close": 12.6,
-      "volume": 46300
-    },
-    {
-      "date": "2021-08-17",
-      "open": 12.51,
-      "high": 12.6,
-      "low": 12.51,
-      "close": 12.58,
-      "volume": 29700
-    },
     {
       "date": "2021-08-18",
       "open": 12.51,
@@ -10028,6 +10012,14 @@
       "low": 19.09,
       "close": 19.15,
       "volume": 221700
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 229656
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "TCPC",
   "ticker": "TCPC",
-  "last_updated": "2026-08-17 12:24:01",
+  "last_updated": "2026-08-18 12:23:18",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 7.16,
-      "high": 7.19,
-      "low": 7.12,
-      "close": 7.18,
-      "volume": 186200
-    },
-    {
-      "date": "2021-08-17",
-      "open": 7.17,
-      "high": 7.17,
-      "low": 7.06,
-      "close": 7.12,
-      "volume": 157000
-    },
     {
       "date": "2021-08-18",
       "open": 7.1,
@@ -5160,7 +5144,7 @@
     {
       "date": "2024-03-08",
       "open": 7.02,
-      "high": 7.04,
+      "high": 7.05,
       "low": 6.96,
       "close": 7.0,
       "volume": 506500
@@ -10028,6 +10012,14 @@
       "low": 4.07,
       "close": 4.08,
       "volume": 647000
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 483286
     }
   ]
 }

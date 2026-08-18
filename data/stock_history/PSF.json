@@ -1,25 +1,17 @@
 {
   "code": "PSF",
   "ticker": "PSF",
-  "last_updated": "2026-08-17 12:08:41",
+  "last_updated": "2026-08-18 12:07:46",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1255,
   "data": [
     {
-      "date": "2021-08-16",
-      "open": 21.05,
-      "high": 21.13,
-      "low": 20.55,
-      "close": 20.78,
-      "volume": 27200
-    },
-    {
       "date": "2021-08-17",
-      "open": 20.68,
-      "high": 20.84,
-      "low": 20.56,
-      "close": 20.62,
-      "volume": 12400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-18",
@@ -1159,8 +1151,8 @@
     },
     {
       "date": "2022-03-11",
-      "open": 15.65,
-      "high": 15.65,
+      "open": 15.66,
+      "high": 15.66,
       "low": 15.44,
       "close": 15.46,
       "volume": 41400
@@ -9894,6 +9886,22 @@
       "volume": 20300
     },
     {
+      "date": "2026-07-21",
+      "open": 19.72,
+      "high": 19.85,
+      "low": 19.72,
+      "close": 19.75,
+      "volume": 16500
+    },
+    {
+      "date": "2026-07-22",
+      "open": 19.75,
+      "high": 19.87,
+      "low": 19.68,
+      "close": 19.71,
+      "volume": 20500
+    },
+    {
       "date": "2026-07-23",
       "open": 19.67,
       "high": 19.69,
@@ -9940,6 +9948,14 @@
       "low": 19.23,
       "close": 19.31,
       "volume": 33400
+    },
+    {
+      "date": "2026-07-31",
+      "open": 19.33,
+      "high": 19.37,
+      "low": 19.28,
+      "close": 19.35,
+      "volume": 43700
     },
     {
       "date": "2026-08-03",
@@ -10020,6 +10036,14 @@
       "low": 19.5,
       "close": 19.51,
       "volume": 24400
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 30009
     }
   ]
 }

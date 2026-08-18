@@ -1,9 +1,9 @@
 {
   "code": "RWTS",
   "ticker": "RWTS",
-  "last_updated": "2026-08-17 12:13:53",
+  "last_updated": "2026-08-18 12:12:59",
   "period": "5y",
-  "data_points": 54,
+  "data_points": 52,
   "data": [
     {
       "date": "2026-05-29",
@@ -286,22 +286,6 @@
       "volume": 8100
     },
     {
-      "date": "2026-07-21",
-      "open": 24.3,
-      "high": 24.3,
-      "low": 24.13,
-      "close": 24.18,
-      "volume": 9300
-    },
-    {
-      "date": "2026-07-22",
-      "open": 24.16,
-      "high": 24.18,
-      "low": 24.08,
-      "close": 24.08,
-      "volume": 7400
-    },
-    {
       "date": "2026-07-23",
       "open": 24.08,
       "high": 24.13,
@@ -348,14 +332,6 @@
       "low": 23.91,
       "close": 23.95,
       "volume": 7500
-    },
-    {
-      "date": "2026-07-31",
-      "open": 24.11,
-      "high": 24.11,
-      "low": 23.95,
-      "close": 23.95,
-      "volume": 5700
     },
     {
       "date": "2026-08-03",
@@ -436,6 +412,14 @@
       "low": 23.97,
       "close": 24.11,
       "volume": 14800
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 5755
     }
   ]
 }

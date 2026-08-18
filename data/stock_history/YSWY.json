@@ -1,9 +1,9 @@
 {
   "code": "YSWY",
   "ticker": "YSWY",
-  "last_updated": "2026-08-17 12:36:50",
+  "last_updated": "2026-08-18 12:36:12",
   "period": "5y",
-  "data_points": 78,
+  "data_points": 81,
   "data": [
     {
       "date": "2026-04-22",
@@ -502,6 +502,14 @@
       "volume": 242300
     },
     {
+      "date": "2026-07-22",
+      "open": 19.87,
+      "high": 20.27,
+      "low": 19.2,
+      "close": 19.94,
+      "volume": 160700
+    },
+    {
       "date": "2026-07-23",
       "open": 19.81,
       "high": 20.1,
@@ -548,6 +556,14 @@
       "low": 20.0,
       "close": 20.9,
       "volume": 179300
+    },
+    {
+      "date": "2026-07-31",
+      "open": 20.36,
+      "high": 21.06,
+      "low": 20.05,
+      "close": 20.92,
+      "volume": 163900
     },
     {
       "date": "2026-08-03",
@@ -628,6 +644,14 @@
       "low": 24.18,
       "close": 25.17,
       "volume": 477400
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 424599
     }
   ]
 }

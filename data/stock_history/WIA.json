@@ -1,26 +1,10 @@
 {
   "code": "WIA",
   "ticker": "WIA",
-  "last_updated": "2026-08-17 12:33:30",
+  "last_updated": "2026-08-18 12:32:50",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 8.29,
-      "high": 8.33,
-      "low": 8.29,
-      "close": 8.29,
-      "volume": 18800
-    },
-    {
-      "date": "2021-08-17",
-      "open": 8.31,
-      "high": 8.36,
-      "low": 8.26,
-      "close": 8.29,
-      "volume": 30600
-    },
     {
       "date": "2021-08-18",
       "open": 8.32,
@@ -9894,22 +9878,6 @@
       "volume": 19200
     },
     {
-      "date": "2026-07-21",
-      "open": 7.97,
-      "high": 7.99,
-      "low": 7.95,
-      "close": 7.95,
-      "volume": 44200
-    },
-    {
-      "date": "2026-07-22",
-      "open": 7.95,
-      "high": 7.98,
-      "low": 7.94,
-      "close": 7.94,
-      "volume": 30800
-    },
-    {
       "date": "2026-07-23",
       "open": 7.96,
       "high": 7.96,
@@ -9956,14 +9924,6 @@
       "low": 7.9,
       "close": 7.92,
       "volume": 39100
-    },
-    {
-      "date": "2026-07-31",
-      "open": 7.94,
-      "high": 7.95,
-      "low": 7.9,
-      "close": 7.92,
-      "volume": 37000
     },
     {
       "date": "2026-08-03",
@@ -10044,6 +10004,14 @@
       "low": 7.99,
       "close": 8.0,
       "volume": 18200
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 14680
     }
   ]
 }

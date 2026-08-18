@@ -1,9 +1,9 @@
 {
   "code": "PUSA",
   "ticker": "PUSA",
-  "last_updated": "2026-08-17 12:09:30",
+  "last_updated": "2026-08-18 12:08:35",
   "period": "5y",
-  "data_points": 376,
+  "data_points": 379,
   "data": [
     {
       "date": "2025-02-12",
@@ -2886,6 +2886,14 @@
       "volume": 580400
     },
     {
+      "date": "2026-07-22",
+      "open": 3.45,
+      "high": 3.54,
+      "low": 3.35,
+      "close": 3.37,
+      "volume": 235800
+    },
+    {
       "date": "2026-07-23",
       "open": 3.37,
       "high": 3.47,
@@ -2932,6 +2940,14 @@
       "low": 2.75,
       "close": 3.0,
       "volume": 239700
+    },
+    {
+      "date": "2026-07-31",
+      "open": 3.06,
+      "high": 3.2,
+      "low": 3.0,
+      "close": 3.02,
+      "volume": 231000
     },
     {
       "date": "2026-08-03",
@@ -3011,7 +3027,15 @@
       "high": 3.8,
       "low": 3.58,
       "close": 3.64,
-      "volume": 969100
+      "volume": 980100
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 512761
     }
   ]
 }

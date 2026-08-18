@@ -1,9 +1,9 @@
 {
   "code": "RWAYI",
   "ticker": "RWAYI",
-  "last_updated": "2026-08-17 12:13:53",
+  "last_updated": "2026-08-18 12:12:58",
   "period": "5y",
-  "data_points": 130,
+  "data_points": 134,
   "data": [
     {
       "date": "2026-02-04",
@@ -918,6 +918,22 @@
       "volume": 1200
     },
     {
+      "date": "2026-07-21",
+      "open": 24.55,
+      "high": 24.57,
+      "low": 24.37,
+      "close": 24.55,
+      "volume": 7900
+    },
+    {
+      "date": "2026-07-22",
+      "open": 24.55,
+      "high": 24.57,
+      "low": 24.4,
+      "close": 24.5,
+      "volume": 10300
+    },
+    {
       "date": "2026-07-23",
       "open": 24.5,
       "high": 24.54,
@@ -964,6 +980,14 @@
       "low": 24.23,
       "close": 24.33,
       "volume": 4900
+    },
+    {
+      "date": "2026-07-31",
+      "open": 24.21,
+      "high": 24.42,
+      "low": 24.17,
+      "close": 24.35,
+      "volume": 12300
     },
     {
       "date": "2026-08-03",
@@ -1044,6 +1068,14 @@
       "low": 24.5,
       "close": 24.55,
       "volume": 6200
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 17372
     }
   ]
 }

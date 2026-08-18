@@ -1,26 +1,10 @@
 {
   "code": "RAVE",
   "ticker": "RAVE",
-  "last_updated": "2026-08-17 12:10:25",
+  "last_updated": "2026-08-18 12:09:29",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 1.21,
-      "high": 1.21,
-      "low": 1.14,
-      "close": 1.16,
-      "volume": 240400
-    },
-    {
-      "date": "2021-08-17",
-      "open": 1.17,
-      "high": 1.18,
-      "low": 1.13,
-      "close": 1.14,
-      "volume": 125000
-    },
     {
       "date": "2021-08-18",
       "open": 1.17,
@@ -10020,6 +10004,14 @@
       "low": 3.0,
       "close": 3.04,
       "volume": 25900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 36211
     }
   ]
 }

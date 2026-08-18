@@ -1,26 +1,10 @@
 {
   "code": "RNAC",
   "ticker": "RNAC",
-  "last_updated": "2026-08-17 12:12:59",
+  "last_updated": "2026-08-18 12:12:04",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 129.6,
-      "high": 130.8,
-      "low": 121.8,
-      "close": 122.7,
-      "volume": 28390
-    },
-    {
-      "date": "2021-08-17",
-      "open": 121.5,
-      "high": 126.6,
-      "low": 119.1,
-      "close": 124.8,
-      "volume": 29557
-    },
     {
       "date": "2021-08-18",
       "open": 124.5,
@@ -10020,6 +10004,14 @@
       "low": 8.5,
       "close": 8.84,
       "volume": 86400
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 108472
     }
   ]
 }

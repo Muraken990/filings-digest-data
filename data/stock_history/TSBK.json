@@ -1,26 +1,10 @@
 {
   "code": "TSBK",
   "ticker": "TSBK",
-  "last_updated": "2026-08-17 12:26:40",
+  "last_updated": "2026-08-18 12:25:57",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 24.88,
-      "high": 25.06,
-      "low": 24.64,
-      "close": 25.06,
-      "volume": 8700
-    },
-    {
-      "date": "2021-08-17",
-      "open": 24.88,
-      "high": 24.88,
-      "low": 24.37,
-      "close": 24.62,
-      "volume": 4800
-    },
     {
       "date": "2021-08-18",
       "open": 24.69,
@@ -2808,7 +2792,7 @@
     {
       "date": "2023-01-05",
       "open": 29.78,
-      "high": 29.94,
+      "high": 29.93,
       "low": 29.55,
       "close": 29.87,
       "volume": 9800
@@ -10020,6 +10004,14 @@
       "low": 45.98,
       "close": 46.05,
       "volume": 19500
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 27833
     }
   ]
 }

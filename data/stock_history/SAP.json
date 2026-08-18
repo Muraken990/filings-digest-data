@@ -1,26 +1,10 @@
 {
   "code": "SAP",
   "ticker": "SAP",
-  "last_updated": "2026-08-17 12:14:44",
+  "last_updated": "2026-08-18 12:13:49",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 135.55,
-      "high": 136.49,
-      "low": 135.2,
-      "close": 135.99,
-      "volume": 644100
-    },
-    {
-      "date": "2021-08-17",
-      "open": 135.87,
-      "high": 136.97,
-      "low": 135.74,
-      "close": 136.9,
-      "volume": 497000
-    },
     {
       "date": "2021-08-18",
       "open": 136.71,
@@ -714,7 +698,7 @@
       "open": 125.21,
       "high": 125.8,
       "low": 124.66,
-      "close": 125.37,
+      "close": 125.38,
       "volume": 773600
     },
     {
@@ -10043,7 +10027,15 @@
       "high": 214.39,
       "low": 207.57,
       "close": 207.97,
-      "volume": 2521100
+      "volume": 2562800
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2528935
     }
   ]
 }

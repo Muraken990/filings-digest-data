@@ -1,26 +1,10 @@
 {
   "code": "RKTO",
   "ticker": "RKTO",
-  "last_updated": "2026-08-17 12:12:56",
+  "last_updated": "2026-08-18 12:12:00",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 31.5,
-      "high": 31.88,
-      "low": 30.25,
-      "close": 30.25,
-      "volume": 18904
-    },
-    {
-      "date": "2021-08-17",
-      "open": 30.0,
-      "high": 30.25,
-      "low": 28.5,
-      "close": 29.0,
-      "volume": 16688
-    },
     {
       "date": "2021-08-18",
       "open": 29.0,
@@ -10043,7 +10027,15 @@
       "high": 0.77,
       "low": 0.75,
       "close": 0.76,
-      "volume": 361500
+      "volume": 376200
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 675467
     }
   ]
 }

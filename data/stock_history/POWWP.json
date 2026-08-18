@@ -1,26 +1,10 @@
 {
   "code": "POWWP",
   "ticker": "POWWP",
-  "last_updated": "2026-08-17 12:07:49",
+  "last_updated": "2026-08-18 12:06:53",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 17.97,
-      "high": 18.06,
-      "low": 17.95,
-      "close": 18.06,
-      "volume": 3100
-    },
-    {
-      "date": "2021-08-17",
-      "open": 18.03,
-      "high": 18.05,
-      "low": 17.93,
-      "close": 17.99,
-      "volume": 9000
-    },
     {
       "date": "2021-08-18",
       "open": 17.99,
@@ -9894,6 +9878,22 @@
       "volume": 800
     },
     {
+      "date": "2026-07-21",
+      "open": 24.2,
+      "high": 24.45,
+      "low": 24.09,
+      "close": 24.09,
+      "volume": 5500
+    },
+    {
+      "date": "2026-07-22",
+      "open": 24.35,
+      "high": 24.42,
+      "low": 24.35,
+      "close": 24.4,
+      "volume": 1600
+    },
+    {
       "date": "2026-07-23",
       "open": 24.5,
       "high": 24.6,
@@ -9940,6 +9940,14 @@
       "low": 24.35,
       "close": 24.35,
       "volume": 300
+    },
+    {
+      "date": "2026-07-31",
+      "open": 24.35,
+      "high": 24.35,
+      "low": 24.35,
+      "close": 24.35,
+      "volume": 0
     },
     {
       "date": "2026-08-03",
@@ -10020,6 +10028,14 @@
       "low": 24.02,
       "close": 24.39,
       "volume": 5100
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1973
     }
   ]
 }

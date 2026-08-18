@@ -1,26 +1,10 @@
 {
   "code": "WOOF",
   "ticker": "WOOF",
-  "last_updated": "2026-08-17 12:34:19",
+  "last_updated": "2026-08-18 12:33:40",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 19.62,
-      "high": 20.37,
-      "low": 19.36,
-      "close": 20.24,
-      "volume": 1444700
-    },
-    {
-      "date": "2021-08-17",
-      "open": 20.0,
-      "high": 20.17,
-      "low": 19.55,
-      "close": 19.68,
-      "volume": 1819300
-    },
     {
       "date": "2021-08-18",
       "open": 19.75,
@@ -10028,6 +10012,14 @@
       "low": 2.77,
       "close": 2.82,
       "volume": 1346300
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1378478
     }
   ]
 }

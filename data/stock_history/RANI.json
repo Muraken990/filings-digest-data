@@ -1,26 +1,10 @@
 {
   "code": "RANI",
   "ticker": "RANI",
-  "last_updated": "2026-08-17 12:10:25",
+  "last_updated": "2026-08-18 12:09:29",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 18.3,
-      "high": 18.3,
-      "low": 15.0,
-      "close": 15.48,
-      "volume": 333600
-    },
-    {
-      "date": "2021-08-17",
-      "open": 15.39,
-      "high": 18.7,
-      "low": 15.01,
-      "close": 17.98,
-      "volume": 346600
-    },
     {
       "date": "2021-08-18",
       "open": 17.73,
@@ -10043,7 +10027,15 @@
       "high": 0.82,
       "low": 0.77,
       "close": 0.8,
-      "volume": 885900
+      "volume": 889200
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 469350
     }
   ]
 }

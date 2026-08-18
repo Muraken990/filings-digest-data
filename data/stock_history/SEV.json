@@ -1,9 +1,9 @@
 {
   "code": "SEV",
   "ticker": "SEV",
-  "last_updated": "2026-08-17 12:16:24",
+  "last_updated": "2026-08-18 12:15:32",
   "period": "5y",
-  "data_points": 208,
+  "data_points": 207,
   "data": [
     {
       "date": "2025-10-16",
@@ -1526,14 +1526,6 @@
       "volume": 230700
     },
     {
-      "date": "2026-07-22",
-      "open": 1.82,
-      "high": 1.88,
-      "low": 1.76,
-      "close": 1.79,
-      "volume": 196200
-    },
-    {
       "date": "2026-07-23",
       "open": 1.79,
       "high": 1.8,
@@ -1580,14 +1572,6 @@
       "low": 1.67,
       "close": 1.78,
       "volume": 281000
-    },
-    {
-      "date": "2026-07-31",
-      "open": 1.78,
-      "high": 1.8,
-      "low": 1.74,
-      "close": 1.75,
-      "volume": 74800
     },
     {
       "date": "2026-08-03",
@@ -1668,6 +1652,14 @@
       "low": 2.12,
       "close": 2.18,
       "volume": 57900
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 65474
     }
   ]
 }

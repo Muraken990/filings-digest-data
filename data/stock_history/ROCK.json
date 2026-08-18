@@ -1,26 +1,10 @@
 {
   "code": "ROCK",
   "ticker": "ROCK",
-  "last_updated": "2026-08-17 12:13:01",
+  "last_updated": "2026-08-18 12:12:05",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 72.39,
-      "high": 73.54,
-      "low": 71.73,
-      "close": 73.24,
-      "volume": 106000
-    },
-    {
-      "date": "2021-08-17",
-      "open": 72.78,
-      "high": 72.78,
-      "low": 69.78,
-      "close": 70.96,
-      "volume": 122200
-    },
     {
       "date": "2021-08-18",
       "open": 70.93,
@@ -10020,6 +10004,14 @@
       "low": 47.48,
       "close": 47.88,
       "volume": 172400
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 197889
     }
   ]
 }

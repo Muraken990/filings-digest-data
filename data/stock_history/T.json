@@ -1,26 +1,10 @@
 {
   "code": "T",
   "ticker": "T",
-  "last_updated": "2026-08-17 12:23:12",
+  "last_updated": "2026-08-18 12:22:26",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-16",
-      "open": 15.72,
-      "high": 15.8,
-      "low": 15.63,
-      "close": 15.75,
-      "volume": 27148223
-    },
-    {
-      "date": "2021-08-17",
-      "open": 15.68,
-      "high": 15.79,
-      "low": 15.65,
-      "close": 15.75,
-      "volume": 26361502
-    },
     {
       "date": "2021-08-18",
       "open": 15.67,
@@ -5529,7 +5513,7 @@
       "date": "2024-05-14",
       "open": 15.53,
       "high": 15.58,
-      "low": 15.48,
+      "low": 15.47,
       "close": 15.55,
       "volume": 23545300
     },
@@ -10043,7 +10027,15 @@
       "high": 24.97,
       "low": 24.58,
       "close": 24.89,
-      "volume": 27103200
+      "volume": 27109300
+    },
+    {
+      "date": "2026-08-17",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 25063767
     }
   ]
 }
