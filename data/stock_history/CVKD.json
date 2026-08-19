@@ -1,9 +1,9 @@
 {
   "code": "CVKD",
   "ticker": "CVKD",
-  "last_updated": "2026-08-18 07:31:40",
+  "last_updated": "2026-08-19 07:30:23",
   "period": "5y",
-  "data_points": 896,
+  "data_points": 897,
   "data": [
     {
       "date": "2023-01-20",
@@ -7167,11 +7167,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 37199
+      "open": 1.88,
+      "high": 1.88,
+      "low": 1.71,
+      "close": 1.76,
+      "volume": 37200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.76,
+      "high": 1.82,
+      "low": 1.64,
+      "close": 1.71,
+      "volume": 59400
     }
   ]
 }

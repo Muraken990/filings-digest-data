@@ -1,9 +1,9 @@
 {
   "code": "CRDO",
   "ticker": "CRDO",
-  "last_updated": "2026-08-18 07:29:59",
+  "last_updated": "2026-08-19 07:28:43",
   "period": "5y",
-  "data_points": 1142,
+  "data_points": 1143,
   "data": [
     {
       "date": "2022-01-27",
@@ -9135,11 +9135,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5747881
+      "open": 274.44,
+      "high": 286.24,
+      "low": 272.3,
+      "close": 282.82,
+      "volume": 5762800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 266.92,
+      "high": 269.33,
+      "low": 240.0,
+      "close": 245.97,
+      "volume": 7723300
     }
   ]
 }

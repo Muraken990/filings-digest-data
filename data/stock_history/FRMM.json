@@ -1,18 +1,10 @@
 {
   "code": "FRMM",
   "ticker": "FRMM",
-  "last_updated": "2026-08-18 07:43:40",
+  "last_updated": "2026-08-19 07:42:17",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 26790.0,
-      "high": 27360.0,
-      "low": 26068.0,
-      "close": 26144.0,
-      "volume": 72
-    },
     {
       "date": "2021-08-19",
       "open": 20102.0,
@@ -9878,6 +9870,14 @@
       "volume": 440800
     },
     {
+      "date": "2026-07-21",
+      "open": 5.98,
+      "high": 6.44,
+      "low": 5.89,
+      "close": 6.13,
+      "volume": 668600
+    },
+    {
       "date": "2026-07-22",
       "open": 6.18,
       "high": 6.3,
@@ -9932,6 +9932,14 @@
       "low": 5.16,
       "close": 5.37,
       "volume": 135100
+    },
+    {
+      "date": "2026-07-31",
+      "open": 5.46,
+      "high": 5.64,
+      "low": 5.16,
+      "close": 5.16,
+      "volume": 87000
     },
     {
       "date": "2026-08-03",
@@ -10015,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 98732
+      "open": 5.94,
+      "high": 6.15,
+      "low": 5.8,
+      "close": 5.89,
+      "volume": 98700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 5.83,
+      "high": 6.03,
+      "low": 5.33,
+      "close": 5.46,
+      "volume": 78100
     }
   ]
 }

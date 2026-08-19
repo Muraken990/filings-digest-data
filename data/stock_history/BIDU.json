@@ -1,18 +1,10 @@
 {
   "code": "BIDU",
   "ticker": "BIDU",
-  "last_updated": "2026-08-18 07:18:57",
+  "last_updated": "2026-08-19 07:17:44",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 144.1,
-      "high": 145.58,
-      "low": 141.58,
-      "close": 142.96,
-      "volume": 5022600
-    },
     {
       "date": "2021-08-19",
       "open": 137.98,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 102.83,
+      "high": 104.28,
+      "low": 101.84,
+      "close": 104.12,
+      "volume": 3737400
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 3681278
+      "volume": 16110614
     }
   ]
 }

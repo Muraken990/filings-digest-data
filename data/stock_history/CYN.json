@@ -1,9 +1,9 @@
 {
   "code": "CYN",
   "ticker": "CYN",
-  "last_updated": "2026-08-18 07:31:44",
+  "last_updated": "2026-08-19 07:30:27",
   "period": "5y",
-  "data_points": 1208,
+  "data_points": 1209,
   "data": [
     {
       "date": "2021-10-20",
@@ -9663,11 +9663,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 151652
+      "open": 1.07,
+      "high": 1.1,
+      "low": 1.04,
+      "close": 1.06,
+      "volume": 153000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.06,
+      "high": 1.08,
+      "low": 1.04,
+      "close": 1.06,
+      "volume": 92900
     }
   ]
 }

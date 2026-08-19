@@ -1,9 +1,9 @@
 {
   "code": "CCAQ",
   "ticker": "CCAQ",
-  "last_updated": "2026-08-18 07:24:03",
+  "last_updated": "2026-08-19 07:22:49",
   "period": "5y",
-  "data_points": 293,
+  "data_points": 294,
   "data": [
     {
       "date": "2025-06-12",
@@ -2343,11 +2343,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4525
+      "open": 10.48,
+      "high": 10.52,
+      "low": 10.48,
+      "close": 10.52,
+      "volume": 4500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.52,
+      "high": 10.52,
+      "low": 10.52,
+      "close": 10.52,
+      "volume": 0
     }
   ]
 }

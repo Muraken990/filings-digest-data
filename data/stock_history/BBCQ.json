@@ -1,9 +1,9 @@
 {
   "code": "BBCQ",
   "ticker": "BBCQ",
-  "last_updated": "2026-08-18 07:16:28",
+  "last_updated": "2026-08-19 07:15:14",
   "period": "5y",
-  "data_points": 136,
+  "data_points": 137,
   "data": [
     {
       "date": "2026-01-28",
@@ -1087,11 +1087,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 10.17,
+      "high": 10.17,
+      "low": 10.15,
+      "close": 10.16,
+      "volume": 212600
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 212192
+      "volume": 216162
     }
   ]
 }

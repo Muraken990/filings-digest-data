@@ -1,9 +1,9 @@
 {
   "code": "BEBE",
   "ticker": "BEBE",
-  "last_updated": "2026-08-18 07:18:05",
+  "last_updated": "2026-08-19 07:16:51",
   "period": "5y",
-  "data_points": 129,
+  "data_points": 133,
   "data": [
     {
       "date": "2026-02-06",
@@ -902,6 +902,22 @@
       "volume": 13700
     },
     {
+      "date": "2026-07-21",
+      "open": 9.98,
+      "high": 9.98,
+      "low": 9.97,
+      "close": 9.97,
+      "volume": 1400
+    },
+    {
+      "date": "2026-07-22",
+      "open": 9.97,
+      "high": 9.97,
+      "low": 9.97,
+      "close": 9.97,
+      "volume": 1500
+    },
+    {
       "date": "2026-07-23",
       "open": 9.97,
       "high": 9.97,
@@ -943,6 +959,14 @@
     },
     {
       "date": "2026-07-30",
+      "open": 9.98,
+      "high": 9.98,
+      "low": 9.98,
+      "close": 9.98,
+      "volume": 200
+    },
+    {
+      "date": "2026-07-31",
       "open": 9.98,
       "high": 9.98,
       "low": 9.98,
@@ -1031,11 +1055,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 529
+      "open": 10.0,
+      "high": 10.0,
+      "low": 10.0,
+      "close": 10.0,
+      "volume": 500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.0,
+      "high": 10.0,
+      "low": 10.0,
+      "close": 10.0,
+      "volume": 0
     }
   ]
 }

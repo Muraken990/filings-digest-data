@@ -1,9 +1,9 @@
 {
   "code": "EMIS",
   "ticker": "EMIS",
-  "last_updated": "2026-08-18 07:37:41",
+  "last_updated": "2026-08-19 07:36:21",
   "period": "5y",
-  "data_points": 202,
+  "data_points": 203,
   "data": [
     {
       "date": "2025-10-22",
@@ -1615,11 +1615,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 106
+      "open": 10.21,
+      "high": 10.21,
+      "low": 10.21,
+      "close": 10.21,
+      "volume": 100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.21,
+      "high": 10.21,
+      "low": 10.21,
+      "close": 10.21,
+      "volume": 0
     }
   ]
 }

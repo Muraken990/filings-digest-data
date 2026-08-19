@@ -1,9 +1,9 @@
 {
   "code": "FACT",
   "ticker": "FACT",
-  "last_updated": "2026-08-18 07:40:17",
+  "last_updated": "2026-08-19 07:38:55",
   "period": "5y",
-  "data_points": 410,
+  "data_points": 411,
   "data": [
     {
       "date": "2024-12-20",
@@ -3279,11 +3279,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 229
+      "open": 10.67,
+      "high": 10.67,
+      "low": 10.67,
+      "close": 10.67,
+      "volume": 200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.68,
+      "high": 10.68,
+      "low": 10.68,
+      "close": 10.68,
+      "volume": 32600
     }
   ]
 }

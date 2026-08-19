@@ -1,18 +1,10 @@
 {
   "code": "ATCH",
   "ticker": "ATCH",
-  "last_updated": "2026-08-18 07:14:41",
+  "last_updated": "2026-08-19 07:13:27",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 586.8,
-      "high": 586.8,
-      "low": 586.8,
-      "close": 586.8,
-      "volume": 0
-    },
     {
       "date": "2021-08-19",
       "open": 586.8,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 832853
+      "open": 0.2,
+      "high": 0.2,
+      "low": 0.19,
+      "close": 0.19,
+      "volume": 850900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.19,
+      "high": 0.2,
+      "low": 0.19,
+      "close": 0.19,
+      "volume": 2053400
     }
   ]
 }

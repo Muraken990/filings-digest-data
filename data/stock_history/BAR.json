@@ -1,18 +1,10 @@
 {
   "code": "BAR",
   "ticker": "BAR",
-  "last_updated": "2026-08-18 07:16:26",
+  "last_updated": "2026-08-19 07:15:13",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 17.74,
-      "high": 17.77,
-      "low": 17.65,
-      "close": 17.75,
-      "volume": 282400
-    },
     {
       "date": "2021-08-19",
       "open": 17.75,
@@ -9942,6 +9934,14 @@
       "volume": 103400
     },
     {
+      "date": "2026-07-31",
+      "open": 39.81,
+      "high": 39.92,
+      "low": 39.6,
+      "close": 39.85,
+      "volume": 445800
+    },
+    {
       "date": "2026-08-03",
       "open": 39.71,
       "high": 39.91,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 202206
+      "open": 43.16,
+      "high": 43.58,
+      "low": 43.16,
+      "close": 43.49,
+      "volume": 202200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 43.19,
+      "high": 43.36,
+      "low": 42.7,
+      "close": 42.79,
+      "volume": 243200
     }
   ]
 }

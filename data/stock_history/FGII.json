@@ -1,9 +1,9 @@
 {
   "code": "FGII",
   "ticker": "FGII",
-  "last_updated": "2026-08-18 07:41:56",
+  "last_updated": "2026-08-19 07:40:34",
   "period": "5y",
-  "data_points": 111,
+  "data_points": 109,
   "data": [
     {
       "date": "2026-03-10",
@@ -734,22 +734,6 @@
       "volume": 22500
     },
     {
-      "date": "2026-07-21",
-      "open": 9.95,
-      "high": 9.95,
-      "low": 9.94,
-      "close": 9.95,
-      "volume": 92700
-    },
-    {
-      "date": "2026-07-22",
-      "open": 9.95,
-      "high": 9.96,
-      "low": 9.95,
-      "close": 9.96,
-      "volume": 19900
-    },
-    {
       "date": "2026-07-23",
       "open": 9.96,
       "high": 9.96,
@@ -796,14 +780,6 @@
       "low": 9.95,
       "close": 9.95,
       "volume": 33100
-    },
-    {
-      "date": "2026-07-31",
-      "open": 9.96,
-      "high": 9.96,
-      "low": 9.96,
-      "close": 9.96,
-      "volume": 100
     },
     {
       "date": "2026-08-03",
@@ -887,11 +863,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 211
+      "open": 9.99,
+      "high": 9.99,
+      "low": 9.99,
+      "close": 9.99,
+      "volume": 200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 9.99,
+      "high": 9.99,
+      "low": 9.99,
+      "close": 9.99,
+      "volume": 0
     }
   ]
 }

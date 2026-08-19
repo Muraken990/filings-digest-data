@@ -1,9 +1,9 @@
 {
   "code": "ENGS",
   "ticker": "ENGS",
-  "last_updated": "2026-08-18 07:37:42",
+  "last_updated": "2026-08-19 07:36:22",
   "period": "5y",
-  "data_points": 344,
+  "data_points": 347,
   "data": [
     {
       "date": "2025-04-01",
@@ -2622,6 +2622,14 @@
       "volume": 742700
     },
     {
+      "date": "2026-07-22",
+      "open": 2.63,
+      "high": 2.75,
+      "low": 2.6,
+      "close": 2.67,
+      "volume": 1049900
+    },
+    {
       "date": "2026-07-23",
       "open": 2.67,
       "high": 2.74,
@@ -2668,6 +2676,14 @@
       "low": 2.4,
       "close": 2.62,
       "volume": 984100
+    },
+    {
+      "date": "2026-07-31",
+      "open": 2.66,
+      "high": 2.68,
+      "low": 2.55,
+      "close": 2.61,
+      "volume": 532200
     },
     {
       "date": "2026-08-03",
@@ -2751,11 +2767,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1820872
+      "open": 2.84,
+      "high": 2.95,
+      "low": 2.84,
+      "close": 2.85,
+      "volume": 1821900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.85,
+      "high": 2.96,
+      "low": 2.8,
+      "close": 2.94,
+      "volume": 146000
     }
   ]
 }

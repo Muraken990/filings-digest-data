@@ -1,18 +1,10 @@
 {
   "code": "BON",
   "ticker": "BON",
-  "last_updated": "2026-08-18 07:20:39",
+  "last_updated": "2026-08-19 07:19:25",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 2837.5,
-      "high": 2899.75,
-      "low": 2725.0,
-      "close": 2727.5,
-      "volume": 877
-    },
     {
       "date": "2021-08-19",
       "open": 2777.5,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 1.13,
+      "high": 1.18,
+      "low": 1.1,
+      "close": 1.14,
+      "volume": 22800
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 22462
+      "volume": 3015
     }
   ]
 }

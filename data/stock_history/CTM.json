@@ -1,9 +1,9 @@
 {
   "code": "CTM",
   "ticker": "CTM",
-  "last_updated": "2026-08-18 07:30:51",
+  "last_updated": "2026-08-19 07:29:34",
   "period": "5y",
-  "data_points": 963,
+  "data_points": 964,
   "data": [
     {
       "date": "2022-10-13",
@@ -7703,11 +7703,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 504015
+      "open": 0.64,
+      "high": 0.65,
+      "low": 0.63,
+      "close": 0.63,
+      "volume": 518500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.62,
+      "high": 0.64,
+      "low": 0.61,
+      "close": 0.62,
+      "volume": 565400
     }
   ]
 }

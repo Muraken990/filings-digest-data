@@ -1,9 +1,9 @@
 {
   "code": "BRCC",
   "ticker": "BRCC",
-  "last_updated": "2026-08-18 07:20:42",
+  "last_updated": "2026-08-19 07:19:28",
   "period": "5y",
-  "data_points": 1130,
+  "data_points": 1131,
   "data": [
     {
       "date": "2022-02-10",
@@ -9039,11 +9039,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 0.8,
+      "high": 0.91,
+      "low": 0.8,
+      "close": 0.82,
+      "volume": 1235800
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 1231566
+      "volume": 858644
     }
   ]
 }

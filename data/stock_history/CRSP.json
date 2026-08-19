@@ -1,18 +1,10 @@
 {
   "code": "CRSP",
   "ticker": "CRSP",
-  "last_updated": "2026-08-18 07:30:01",
+  "last_updated": "2026-08-19 07:28:45",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 121.56,
-      "high": 123.42,
-      "low": 118.8,
-      "close": 119.32,
-      "volume": 832600
-    },
     {
       "date": "2021-08-19",
       "open": 118.16,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 942005
+      "open": 53.08,
+      "high": 54.57,
+      "low": 52.61,
+      "close": 54.28,
+      "volume": 958200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 53.2,
+      "high": 53.88,
+      "low": 51.8,
+      "close": 52.97,
+      "volume": 1313800
     }
   ]
 }

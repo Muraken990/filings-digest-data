@@ -1,9 +1,9 @@
 {
   "code": "FIGX",
   "ticker": "FIGX",
-  "last_updated": "2026-08-18 07:41:59",
+  "last_updated": "2026-08-19 07:40:35",
   "period": "5y",
-  "data_points": 248,
+  "data_points": 249,
   "data": [
     {
       "date": "2025-08-18",
@@ -1983,11 +1983,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4999
+      "open": 10.29,
+      "high": 10.3,
+      "low": 10.29,
+      "close": 10.3,
+      "volume": 3900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.3,
+      "high": 10.3,
+      "low": 10.3,
+      "close": 10.3,
+      "volume": 3000
     }
   ]
 }

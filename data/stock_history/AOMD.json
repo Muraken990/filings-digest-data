@@ -1,9 +1,9 @@
 {
   "code": "AOMD",
   "ticker": "AOMD",
-  "last_updated": "2026-08-18 07:12:09",
+  "last_updated": "2026-08-19 07:10:57",
   "period": "5y",
-  "data_points": 308,
+  "data_points": 309,
   "data": [
     {
       "date": "2025-05-27",
@@ -2463,11 +2463,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 11732
+      "open": 24.98,
+      "high": 25.03,
+      "low": 24.94,
+      "close": 24.95,
+      "volume": 11700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 24.97,
+      "high": 25.01,
+      "low": 24.97,
+      "close": 25.0,
+      "volume": 3900
     }
   ]
 }

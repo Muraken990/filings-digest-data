@@ -1,9 +1,9 @@
 {
   "code": "ESLA",
   "ticker": "ESLA",
-  "last_updated": "2026-08-18 07:38:36",
+  "last_updated": "2026-08-19 07:37:15",
   "period": "5y",
-  "data_points": 1233,
+  "data_points": 1234,
   "data": [
     {
       "date": "2021-09-14",
@@ -9863,11 +9863,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 96833
+      "open": 0.74,
+      "high": 0.85,
+      "low": 0.72,
+      "close": 0.76,
+      "volume": 96800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.77,
+      "high": 0.81,
+      "low": 0.73,
+      "close": 0.73,
+      "volume": 30000
     }
   ]
 }

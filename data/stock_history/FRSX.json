@@ -1,18 +1,10 @@
 {
   "code": "FRSX",
   "ticker": "FRSX",
-  "last_updated": "2026-08-18 07:43:41",
+  "last_updated": "2026-08-19 07:42:18",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 384.3,
-      "high": 405.72,
-      "low": 374.22,
-      "close": 385.56,
-      "volume": 7359
-    },
     {
       "date": "2021-08-19",
       "open": 383.04,
@@ -9878,22 +9870,6 @@
       "volume": 14000
     },
     {
-      "date": "2026-07-21",
-      "open": 1.45,
-      "high": 1.49,
-      "low": 1.41,
-      "close": 1.43,
-      "volume": 27900
-    },
-    {
-      "date": "2026-07-22",
-      "open": 1.46,
-      "high": 1.49,
-      "low": 1.41,
-      "close": 1.43,
-      "volume": 83600
-    },
-    {
       "date": "2026-07-23",
       "open": 1.42,
       "high": 1.43,
@@ -9940,14 +9916,6 @@
       "low": 1.17,
       "close": 1.28,
       "volume": 48400
-    },
-    {
-      "date": "2026-07-31",
-      "open": 1.32,
-      "high": 1.33,
-      "low": 1.23,
-      "close": 1.31,
-      "volume": 11400
     },
     {
       "date": "2026-08-03",
@@ -10031,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 64369
+      "open": 1.28,
+      "high": 1.31,
+      "low": 1.17,
+      "close": 1.19,
+      "volume": 64800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.21,
+      "high": 1.24,
+      "low": 1.12,
+      "close": 1.2,
+      "volume": 34800
     }
   ]
 }

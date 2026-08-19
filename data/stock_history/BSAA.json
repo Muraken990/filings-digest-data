@@ -1,9 +1,9 @@
 {
   "code": "BSAA",
   "ticker": "BSAA",
-  "last_updated": "2026-08-18 07:21:29",
+  "last_updated": "2026-08-19 07:20:15",
   "period": "5y",
-  "data_points": 255,
+  "data_points": 256,
   "data": [
     {
       "date": "2025-08-07",
@@ -2039,11 +2039,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 11.17,
+      "high": 11.17,
+      "low": 11.06,
+      "close": 11.17,
+      "volume": 500
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 400
+      "volume": 6239
     }
   ]
 }

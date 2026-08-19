@@ -1,9 +1,9 @@
 {
   "code": "BMNR",
   "ticker": "BMNR",
-  "last_updated": "2026-08-18 07:19:50",
+  "last_updated": "2026-08-19 07:18:36",
   "period": "5y",
-  "data_points": 301,
+  "data_points": 302,
   "data": [
     {
       "date": "2025-06-05",
@@ -2407,11 +2407,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 18.2,
+      "high": 19.0,
+      "low": 18.11,
+      "close": 18.73,
+      "volume": 30953500
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 27788588
+      "volume": 20431550
     }
   ]
 }

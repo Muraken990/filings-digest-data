@@ -1,18 +1,10 @@
 {
   "code": "AOS",
   "ticker": "AOS",
-  "last_updated": "2026-08-18 07:12:10",
+  "last_updated": "2026-08-19 07:10:58",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 64.27,
-      "high": 64.91,
-      "low": 63.9,
-      "close": 63.99,
-      "volume": 556700
-    },
     {
       "date": "2021-08-19",
       "open": 63.19,
@@ -9878,22 +9870,6 @@
       "volume": 1818400
     },
     {
-      "date": "2026-07-21",
-      "open": 58.61,
-      "high": 59.02,
-      "low": 57.78,
-      "close": 58.41,
-      "volume": 1969100
-    },
-    {
-      "date": "2026-07-22",
-      "open": 58.9,
-      "high": 59.24,
-      "low": 58.47,
-      "close": 58.99,
-      "volume": 1087500
-    },
-    {
       "date": "2026-07-23",
       "open": 59.06,
       "high": 59.61,
@@ -9943,11 +9919,11 @@
     },
     {
       "date": "2026-07-31",
-      "open": 59.14,
-      "high": 60.47,
-      "low": 58.86,
-      "close": 60.13,
-      "volume": 2938600
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2026-08-03",
@@ -10031,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 61.65,
+      "high": 61.84,
+      "low": 60.9,
+      "close": 61.4,
+      "volume": 950000
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 753398
+      "volume": 794990
     }
   ]
 }

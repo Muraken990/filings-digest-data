@@ -1,9 +1,9 @@
 {
   "code": "ECCV",
   "ticker": "ECCV",
-  "last_updated": "2026-08-18 07:35:59",
+  "last_updated": "2026-08-19 07:34:40",
   "period": "5y",
-  "data_points": 1143,
+  "data_points": 1144,
   "data": [
     {
       "date": "2022-01-26",
@@ -9143,11 +9143,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1851
+      "open": 24.15,
+      "high": 24.21,
+      "low": 24.15,
+      "close": 24.21,
+      "volume": 2000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 24.18,
+      "high": 24.26,
+      "low": 24.15,
+      "close": 24.15,
+      "volume": 9800
     }
   ]
 }

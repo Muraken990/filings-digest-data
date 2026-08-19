@@ -1,18 +1,10 @@
 {
   "code": "EVI",
   "ticker": "EVI",
-  "last_updated": "2026-08-18 07:39:26",
+  "last_updated": "2026-08-19 07:38:05",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 23.85,
-      "high": 24.1,
-      "low": 23.38,
-      "close": 23.62,
-      "volume": 13000
-    },
     {
       "date": "2021-08-19",
       "open": 23.47,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 75617
+      "open": 16.64,
+      "high": 16.64,
+      "low": 15.19,
+      "close": 15.5,
+      "volume": 76800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 15.46,
+      "high": 16.07,
+      "low": 15.4,
+      "close": 15.69,
+      "volume": 56100
     }
   ]
 }

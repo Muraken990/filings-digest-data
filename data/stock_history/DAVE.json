@@ -1,18 +1,10 @@
 {
   "code": "DAVE",
   "ticker": "DAVE",
-  "last_updated": "2026-08-18 07:32:33",
+  "last_updated": "2026-08-19 07:31:15",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 315.52,
-      "high": 317.02,
-      "low": 315.52,
-      "close": 316.16,
-      "volume": 2409
-    },
     {
       "date": "2021-08-19",
       "open": 317.44,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 686868
+      "open": 336.94,
+      "high": 342.31,
+      "low": 325.08,
+      "close": 341.43,
+      "volume": 686900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 330.53,
+      "high": 349.0,
+      "low": 330.53,
+      "close": 333.14,
+      "volume": 356500
     }
   ]
 }

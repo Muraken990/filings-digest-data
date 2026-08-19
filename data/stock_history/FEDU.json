@@ -1,18 +1,10 @@
 {
   "code": "FEDU",
   "ticker": "FEDU",
-  "last_updated": "2026-08-18 07:41:09",
+  "last_updated": "2026-08-19 07:39:46",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 11.64,
-      "high": 11.77,
-      "low": 10.92,
-      "close": 11.1,
-      "volume": 22050
-    },
     {
       "date": "2021-08-19",
       "open": 11.46,
@@ -9878,22 +9870,6 @@
       "volume": 100
     },
     {
-      "date": "2026-07-21",
-      "open": 8.9,
-      "high": 8.94,
-      "low": 8.49,
-      "close": 8.49,
-      "volume": 1600
-    },
-    {
-      "date": "2026-07-22",
-      "open": 8.65,
-      "high": 8.65,
-      "low": 7.6,
-      "close": 7.6,
-      "volume": 1800
-    },
-    {
       "date": "2026-07-23",
       "open": 7.89,
       "high": 8.12,
@@ -9940,14 +9916,6 @@
       "low": 7.77,
       "close": 7.77,
       "volume": 1300
-    },
-    {
-      "date": "2026-07-31",
-      "open": 8.52,
-      "high": 8.55,
-      "low": 8.05,
-      "close": 8.05,
-      "volume": 800
     },
     {
       "date": "2026-08-03",
@@ -10031,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 979
+      "open": 8.42,
+      "high": 9.7,
+      "low": 8.42,
+      "close": 9.2,
+      "volume": 1100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 9.95,
+      "high": 9.95,
+      "low": 9.8,
+      "close": 9.8,
+      "volume": 800
     }
   ]
 }

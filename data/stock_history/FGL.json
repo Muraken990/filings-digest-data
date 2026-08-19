@@ -1,9 +1,9 @@
 {
   "code": "FGL",
   "ticker": "FGL",
-  "last_updated": "2026-08-18 07:41:57",
+  "last_updated": "2026-08-19 07:40:34",
   "period": "5y",
-  "data_points": 454,
+  "data_points": 453,
   "data": [
     {
       "date": "2024-10-23",
@@ -3478,22 +3478,6 @@
       "volume": 128500
     },
     {
-      "date": "2026-07-21",
-      "open": 1.01,
-      "high": 1.09,
-      "low": 0.97,
-      "close": 1.03,
-      "volume": 23000
-    },
-    {
-      "date": "2026-07-22",
-      "open": 1.04,
-      "high": 1.09,
-      "low": 1.0,
-      "close": 1.08,
-      "volume": 50000
-    },
-    {
       "date": "2026-07-23",
       "open": 1.05,
       "high": 1.06,
@@ -3631,11 +3615,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1212223
+      "open": 0.39,
+      "high": 0.42,
+      "low": 0.36,
+      "close": 0.41,
+      "volume": 1340800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.4,
+      "high": 0.41,
+      "low": 0.36,
+      "close": 0.38,
+      "volume": 755800
     }
   ]
 }

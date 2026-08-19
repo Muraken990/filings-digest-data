@@ -1,18 +1,10 @@
 {
   "code": "CRDL",
   "ticker": "CRDL",
-  "last_updated": "2026-08-18 07:29:59",
+  "last_updated": "2026-08-19 07:28:42",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 3.03,
-      "high": 3.08,
-      "low": 2.75,
-      "close": 2.95,
-      "volume": 400600
-    },
     {
       "date": "2021-08-19",
       "open": 2.85,
@@ -9878,6 +9870,14 @@
       "volume": 893300
     },
     {
+      "date": "2026-07-21",
+      "open": 1.24,
+      "high": 1.3,
+      "low": 1.22,
+      "close": 1.24,
+      "volume": 732000
+    },
+    {
       "date": "2026-07-22",
       "open": 1.27,
       "high": 1.29,
@@ -9932,6 +9932,14 @@
       "low": 1.14,
       "close": 1.21,
       "volume": 898000
+    },
+    {
+      "date": "2026-07-31",
+      "open": 1.23,
+      "high": 1.29,
+      "low": 1.2,
+      "close": 1.27,
+      "volume": 1147200
     },
     {
       "date": "2026-08-03",
@@ -10015,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2303768
+      "open": 1.73,
+      "high": 1.94,
+      "low": 1.73,
+      "close": 1.8,
+      "volume": 2334800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.82,
+      "high": 1.9,
+      "low": 1.74,
+      "close": 1.89,
+      "volume": 1596800
     }
   ]
 }

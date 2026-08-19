@@ -1,9 +1,9 @@
 {
   "code": "CORZ",
   "ticker": "CORZ",
-  "last_updated": "2026-08-18 07:29:08",
+  "last_updated": "2026-08-19 07:27:53",
   "period": "5y",
-  "data_points": 643,
+  "data_points": 644,
   "data": [
     {
       "date": "2024-01-24",
@@ -5143,11 +5143,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10889762
+      "open": 20.22,
+      "high": 20.5,
+      "low": 19.71,
+      "close": 20.13,
+      "volume": 11367600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 19.5,
+      "high": 19.78,
+      "low": 18.51,
+      "close": 18.85,
+      "volume": 13768400
     }
   ]
 }

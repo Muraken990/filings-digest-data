@@ -1,18 +1,10 @@
 {
   "code": "BTMD",
   "ticker": "BTMD",
-  "last_updated": "2026-08-18 07:21:32",
+  "last_updated": "2026-08-19 07:20:18",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 9.73,
-      "high": 9.73,
-      "low": 9.73,
-      "close": 9.73,
-      "volume": 0
-    },
     {
       "date": "2021-08-19",
       "open": 9.67,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 1.49,
+      "high": 1.51,
+      "low": 1.36,
+      "close": 1.37,
+      "volume": 161400
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 161366
+      "volume": 229904
     }
   ]
 }

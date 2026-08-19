@@ -1,9 +1,9 @@
 {
   "code": "CAQ",
   "ticker": "CAQ",
-  "last_updated": "2026-08-18 07:23:13",
+  "last_updated": "2026-08-19 07:21:59",
   "period": "5y",
-  "data_points": 94,
+  "data_points": 95,
   "data": [
     {
       "date": "2026-03-30",
@@ -751,11 +751,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2090
+      "open": 9.99,
+      "high": 9.99,
+      "low": 9.99,
+      "close": 9.99,
+      "volume": 2100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 9.99,
+      "high": 9.99,
+      "low": 9.99,
+      "close": 9.99,
+      "volume": 0
     }
   ]
 }

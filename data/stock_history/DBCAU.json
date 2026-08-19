@@ -1,9 +1,9 @@
 {
   "code": "DBCAU",
   "ticker": "DBCAU",
-  "last_updated": "2026-08-18 07:32:33",
+  "last_updated": "2026-08-19 07:31:15",
   "period": "5y",
-  "data_points": 128,
+  "data_points": 130,
   "data": [
     {
       "date": "2026-02-11",
@@ -1028,6 +1028,22 @@
       "low": 10.1,
       "close": 10.2,
       "volume": 6200
+    },
+    {
+      "date": "2026-08-17",
+      "open": 10.2,
+      "high": 10.2,
+      "low": 10.2,
+      "close": 10.2,
+      "volume": 0
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.22,
+      "high": 10.22,
+      "low": 10.22,
+      "close": 10.22,
+      "volume": 100
     }
   ]
 }

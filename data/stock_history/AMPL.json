@@ -1,9 +1,9 @@
 {
   "code": "AMPL",
   "ticker": "AMPL",
-  "last_updated": "2026-08-18 07:11:19",
+  "last_updated": "2026-08-19 07:10:07",
   "period": "5y",
-  "data_points": 1225,
+  "data_points": 1227,
   "data": [
     {
       "date": "2021-09-28",
@@ -9718,6 +9718,14 @@
       "volume": 1569200
     },
     {
+      "date": "2026-07-31",
+      "open": 8.5,
+      "high": 8.91,
+      "low": 8.42,
+      "close": 8.88,
+      "volume": 1299000
+    },
+    {
       "date": "2026-08-03",
       "open": 9.16,
       "high": 9.62,
@@ -9799,11 +9807,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1455691
+      "open": 12.92,
+      "high": 12.95,
+      "low": 12.46,
+      "close": 12.61,
+      "volume": 1502100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 12.54,
+      "high": 12.92,
+      "low": 12.52,
+      "close": 12.59,
+      "volume": 2665200
     }
   ]
 }

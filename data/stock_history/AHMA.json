@@ -1,9 +1,9 @@
 {
   "code": "AHMA",
   "ticker": "AHMA",
-  "last_updated": "2026-08-18 07:08:49",
+  "last_updated": "2026-08-19 07:07:37",
   "period": "5y",
-  "data_points": 206,
+  "data_points": 207,
   "data": [
     {
       "date": "2025-10-21",
@@ -1647,11 +1647,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 34727
+      "open": 1.61,
+      "high": 1.67,
+      "low": 1.54,
+      "close": 1.57,
+      "volume": 35800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.55,
+      "high": 1.58,
+      "low": 1.49,
+      "close": 1.5,
+      "volume": 20800
     }
   ]
 }

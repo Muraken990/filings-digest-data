@@ -1,9 +1,9 @@
 {
   "code": "BZAI",
   "ticker": "BZAI",
-  "last_updated": "2026-08-18 07:22:24",
+  "last_updated": "2026-08-19 07:21:10",
   "period": "5y",
-  "data_points": 1140,
+  "data_points": 1141,
   "data": [
     {
       "date": "2022-01-31",
@@ -9119,11 +9119,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 32943417
+      "open": 0.55,
+      "high": 0.56,
+      "low": 0.42,
+      "close": 0.52,
+      "volume": 33134800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.49,
+      "high": 0.58,
+      "low": 0.49,
+      "close": 0.56,
+      "volume": 8842400
     }
   ]
 }

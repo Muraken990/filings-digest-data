@@ -1,9 +1,9 @@
 {
   "code": "ARCLU",
   "ticker": "ARCLU",
-  "last_updated": "2026-08-18 07:13:01",
+  "last_updated": "2026-08-19 07:11:48",
   "period": "5y",
-  "data_points": 72,
+  "data_points": 73,
   "data": [
     {
       "date": "2026-04-30",
@@ -575,11 +575,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 10.2,
+      "high": 10.2,
+      "low": 10.18,
+      "close": 10.19,
+      "volume": 13300
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 13267
+      "volume": 10991
     }
   ]
 }

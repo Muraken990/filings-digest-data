@@ -1,9 +1,9 @@
 {
   "code": "CSAI",
   "ticker": "CSAI",
-  "last_updated": "2026-08-18 07:30:03",
+  "last_updated": "2026-08-19 07:28:46",
   "period": "5y",
-  "data_points": 387,
+  "data_points": 388,
   "data": [
     {
       "date": "2025-01-30",
@@ -3095,11 +3095,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 156318
+      "open": 5.57,
+      "high": 5.85,
+      "low": 5.08,
+      "close": 5.7,
+      "volume": 158000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 5.65,
+      "high": 6.0,
+      "low": 5.2,
+      "close": 5.3,
+      "volume": 37100
     }
   ]
 }

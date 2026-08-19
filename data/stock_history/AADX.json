@@ -1,9 +1,9 @@
 {
   "code": "AADX",
   "ticker": "AADX",
-  "last_updated": "2026-08-18 07:06:12",
+  "last_updated": "2026-08-19 07:05:01",
   "period": "5y",
-  "data_points": 52,
+  "data_points": 53,
   "data": [
     {
       "date": "2026-06-03",
@@ -415,11 +415,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 858239
+      "open": 18.23,
+      "high": 18.5,
+      "low": 17.76,
+      "close": 18.12,
+      "volume": 968800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 17.9,
+      "high": 18.95,
+      "low": 17.32,
+      "close": 17.79,
+      "volume": 1343700
     }
   ]
 }

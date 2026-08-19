@@ -1,9 +1,9 @@
 {
   "code": "EGHA",
   "ticker": "EGHA",
-  "last_updated": "2026-08-18 07:36:49",
+  "last_updated": "2026-08-19 07:35:30",
   "period": "5y",
-  "data_points": 282,
+  "data_points": 283,
   "data": [
     {
       "date": "2025-06-30",
@@ -2255,11 +2255,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 404468
+      "open": 10.35,
+      "high": 10.35,
+      "low": 10.35,
+      "close": 10.35,
+      "volume": 404500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.35,
+      "high": 10.35,
+      "low": 10.35,
+      "close": 10.35,
+      "volume": 0
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "EVGN",
   "ticker": "EVGN",
-  "last_updated": "2026-08-18 07:39:26",
+  "last_updated": "2026-08-19 07:38:05",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 26.9,
-      "high": 28.4,
-      "low": 26.5,
-      "close": 26.7,
-      "volume": 18010
-    },
     {
       "date": "2021-08-19",
       "open": 26.0,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 340567
+      "open": 0.62,
+      "high": 0.63,
+      "low": 0.54,
+      "close": 0.56,
+      "volume": 345900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.56,
+      "high": 0.59,
+      "low": 0.54,
+      "close": 0.58,
+      "volume": 150900
     }
   ]
 }

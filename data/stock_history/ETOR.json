@@ -1,9 +1,9 @@
 {
   "code": "ETOR",
   "ticker": "ETOR",
-  "last_updated": "2026-08-18 07:39:23",
+  "last_updated": "2026-08-19 07:38:02",
   "period": "5y",
-  "data_points": 314,
+  "data_points": 315,
   "data": [
     {
       "date": "2025-05-13",
@@ -2511,11 +2511,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1815837
+      "open": 28.26,
+      "high": 28.72,
+      "low": 27.73,
+      "close": 28.12,
+      "volume": 1824500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 28.02,
+      "high": 28.02,
+      "low": 27.4,
+      "close": 27.77,
+      "volume": 1330900
     }
   ]
 }

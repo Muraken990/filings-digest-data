@@ -1,9 +1,9 @@
 {
   "code": "CCTG",
   "ticker": "CCTG",
-  "last_updated": "2026-08-18 07:24:52",
+  "last_updated": "2026-08-19 07:23:37",
   "period": "5y",
-  "data_points": 646,
+  "data_points": 647,
   "data": [
     {
       "date": "2024-01-18",
@@ -5167,11 +5167,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 150316
+      "open": 0.71,
+      "high": 0.76,
+      "low": 0.63,
+      "close": 0.67,
+      "volume": 152600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.71,
+      "high": 0.71,
+      "low": 0.65,
+      "close": 0.67,
+      "volume": 191000
     }
   ]
 }

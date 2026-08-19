@@ -1,18 +1,10 @@
 {
   "code": "BLX",
   "ticker": "BLX",
-  "last_updated": "2026-08-18 07:19:49",
+  "last_updated": "2026-08-19 07:18:35",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 12.63,
-      "high": 12.85,
-      "low": 12.63,
-      "close": 12.66,
-      "volume": 81300
-    },
     {
       "date": "2021-08-19",
       "open": 12.65,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 55.23,
+      "high": 55.54,
+      "low": 54.41,
+      "close": 55.1,
+      "volume": 127500
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 109083
+      "volume": 126477
     }
   ]
 }

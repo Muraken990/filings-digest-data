@@ -1,9 +1,9 @@
 {
   "code": "BTQ",
   "ticker": "BTQ",
-  "last_updated": "2026-08-18 07:21:32",
+  "last_updated": "2026-08-19 07:20:19",
   "period": "5y",
-  "data_points": 223,
+  "data_points": 224,
   "data": [
     {
       "date": "2025-09-26",
@@ -1783,11 +1783,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 4.0,
+      "high": 4.07,
+      "low": 3.82,
+      "close": 3.85,
+      "volume": 1627800
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 1578503
+      "volume": 2156315
     }
   ]
 }

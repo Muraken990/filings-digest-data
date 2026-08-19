@@ -1,9 +1,9 @@
 {
   "code": "AIRS",
   "ticker": "AIRS",
-  "last_updated": "2026-08-18 07:09:37",
+  "last_updated": "2026-08-19 07:08:25",
   "period": "5y",
-  "data_points": 1203,
+  "data_points": 1204,
   "data": [
     {
       "date": "2021-10-29",
@@ -9623,11 +9623,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1042326
+      "open": 3.39,
+      "high": 3.46,
+      "low": 2.96,
+      "close": 3.09,
+      "volume": 1044400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 3.01,
+      "high": 3.03,
+      "low": 2.69,
+      "close": 2.69,
+      "volume": 1127900
     }
   ]
 }

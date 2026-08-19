@@ -1,18 +1,10 @@
 {
   "code": "ASM",
   "ticker": "ASM",
-  "last_updated": "2026-08-18 07:13:52",
+  "last_updated": "2026-08-19 07:12:39",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 0.98,
-      "high": 0.98,
-      "low": 0.93,
-      "close": 0.93,
-      "volume": 596700
-    },
     {
       "date": "2021-08-19",
       "open": 0.92,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 7.11,
+      "high": 7.25,
+      "low": 6.95,
+      "close": 7.2,
+      "volume": 3960100
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 3900317
+      "volume": 4569336
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "ATLC",
   "ticker": "ATLC",
-  "last_updated": "2026-08-18 07:14:42",
+  "last_updated": "2026-08-19 07:13:29",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 51.0,
-      "high": 51.74,
-      "low": 47.28,
-      "close": 47.59,
-      "volume": 78400
-    },
     {
       "date": "2021-08-19",
       "open": 46.75,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 101.55,
+      "high": 103.0,
+      "low": 99.34,
+      "close": 100.14,
+      "volume": 118800
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 111431
+      "volume": 160063
     }
   ]
 }

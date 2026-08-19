@@ -1,18 +1,10 @@
 {
   "code": "EVAX",
   "ticker": "EVAX",
-  "last_updated": "2026-08-18 07:39:25",
+  "last_updated": "2026-08-19 07:38:04",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 275.0,
-      "high": 290.0,
-      "low": 273.0,
-      "close": 275.5,
-      "volume": 266
-    },
     {
       "date": "2021-08-19",
       "open": 300.0,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 18111
+      "open": 3.35,
+      "high": 3.4,
+      "low": 3.06,
+      "close": 3.13,
+      "volume": 18100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 3.09,
+      "high": 3.18,
+      "low": 3.0,
+      "close": 3.15,
+      "volume": 11000
     }
   ]
 }

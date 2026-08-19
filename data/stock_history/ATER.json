@@ -1,18 +1,10 @@
 {
   "code": "ATER",
   "ticker": "ATER",
-  "last_updated": "2026-08-18 07:14:41",
+  "last_updated": "2026-08-19 07:13:27",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 44.09,
-      "high": 44.39,
-      "low": 41.4,
-      "close": 41.88,
-      "volume": 111242
-    },
     {
       "date": "2021-08-19",
       "open": 41.6,
@@ -9878,6 +9870,14 @@
       "volume": 114500
     },
     {
+      "date": "2026-07-21",
+      "open": 1.2,
+      "high": 1.22,
+      "low": 1.03,
+      "close": 1.03,
+      "volume": 344100
+    },
+    {
       "date": "2026-07-22",
       "open": 1.01,
       "high": 1.03,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 199329
+      "open": 0.55,
+      "high": 0.55,
+      "low": 0.45,
+      "close": 0.46,
+      "volume": 199500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.45,
+      "high": 0.49,
+      "low": 0.44,
+      "close": 0.45,
+      "volume": 280100
     }
   ]
 }

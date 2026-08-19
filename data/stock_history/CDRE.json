@@ -1,9 +1,9 @@
 {
   "code": "CDRE",
   "ticker": "CDRE",
-  "last_updated": "2026-08-18 07:24:53",
+  "last_updated": "2026-08-19 07:23:39",
   "period": "5y",
-  "data_points": 1198,
+  "data_points": 1199,
   "data": [
     {
       "date": "2021-11-04",
@@ -9583,11 +9583,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 391232
+      "open": 34.15,
+      "high": 34.43,
+      "low": 33.02,
+      "close": 33.3,
+      "volume": 448200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 32.89,
+      "high": 33.76,
+      "low": 32.33,
+      "close": 33.45,
+      "volume": 295500
     }
   ]
 }

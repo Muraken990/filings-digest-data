@@ -1,18 +1,10 @@
 {
   "code": "BLDP",
   "ticker": "BLDP",
-  "last_updated": "2026-08-18 07:19:47",
+  "last_updated": "2026-08-19 07:18:33",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 14.98,
-      "high": 15.61,
-      "low": 14.79,
-      "close": 15.31,
-      "volume": 4288900
-    },
     {
       "date": "2021-08-19",
       "open": 15.16,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 2.72,
+      "high": 2.72,
+      "low": 2.55,
+      "close": 2.6,
+      "volume": 3638200
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 3568512
+      "volume": 3295318
     }
   ]
 }

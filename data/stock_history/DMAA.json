@@ -1,9 +1,9 @@
 {
   "code": "DMAA",
   "ticker": "DMAA",
-  "last_updated": "2026-08-18 07:33:29",
+  "last_updated": "2026-08-19 07:32:10",
   "period": "5y",
-  "data_points": 368,
+  "data_points": 369,
   "data": [
     {
       "date": "2025-02-25",
@@ -2943,11 +2943,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 24959
+      "open": 10.72,
+      "high": 10.72,
+      "low": 10.72,
+      "close": 10.72,
+      "volume": 25000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.72,
+      "high": 10.72,
+      "low": 10.72,
+      "close": 10.72,
+      "volume": 300
     }
   ]
 }

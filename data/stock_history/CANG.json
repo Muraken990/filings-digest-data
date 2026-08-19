@@ -1,18 +1,10 @@
 {
   "code": "CANG",
   "ticker": "CANG",
-  "last_updated": "2026-08-18 07:23:13",
+  "last_updated": "2026-08-19 07:21:59",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 5.36,
-      "high": 6.13,
-      "low": 5.31,
-      "close": 5.94,
-      "volume": 182420
-    },
     {
       "date": "2021-08-19",
       "open": 5.65,
@@ -9879,11 +9871,11 @@
     },
     {
       "date": "2026-07-21",
-      "open": 1.84,
-      "high": 1.92,
-      "low": 1.6,
-      "close": 1.76,
-      "volume": 140300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2026-07-22",
@@ -9940,14 +9932,6 @@
       "low": 1.36,
       "close": 1.43,
       "volume": 156900
-    },
-    {
-      "date": "2026-07-31",
-      "open": 1.51,
-      "high": 1.51,
-      "low": 1.38,
-      "close": 1.4,
-      "volume": 84300
     },
     {
       "date": "2026-08-03",
@@ -10031,11 +10015,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 87609
+      "open": 2.04,
+      "high": 2.1,
+      "low": 1.7,
+      "close": 1.79,
+      "volume": 89200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.79,
+      "high": 1.84,
+      "low": 1.61,
+      "close": 1.63,
+      "volume": 59700
     }
   ]
 }

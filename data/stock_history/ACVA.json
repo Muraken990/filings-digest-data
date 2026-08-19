@@ -1,18 +1,10 @@
 {
   "code": "ACVA",
   "ticker": "ACVA",
-  "last_updated": "2026-08-18 07:07:06",
+  "last_updated": "2026-08-19 07:05:55",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 21.05,
-      "high": 21.05,
-      "low": 19.76,
-      "close": 19.81,
-      "volume": 518400
-    },
     {
       "date": "2021-08-19",
       "open": 19.55,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 8.22,
+      "high": 8.24,
+      "low": 7.61,
+      "close": 7.62,
+      "volume": 5370700
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 3667308
+      "volume": 3821582
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CHYM",
   "ticker": "CHYM",
-  "last_updated": "2026-08-18 07:26:34",
+  "last_updated": "2026-08-19 07:25:19",
   "period": "5y",
-  "data_points": 295,
+  "data_points": 296,
   "data": [
     {
       "date": "2025-06-12",
@@ -2359,11 +2359,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6105489
+      "open": 31.88,
+      "high": 31.88,
+      "low": 31.17,
+      "close": 31.45,
+      "volume": 6108200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 31.22,
+      "high": 32.65,
+      "low": 30.38,
+      "close": 31.91,
+      "volume": 8268200
     }
   ]
 }

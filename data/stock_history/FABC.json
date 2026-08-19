@@ -1,18 +1,10 @@
 {
   "code": "FABC",
   "ticker": "FABC",
-  "last_updated": "2026-08-18 07:40:17",
+  "last_updated": "2026-08-19 07:38:55",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 497.92,
-      "high": 527.36,
-      "low": 480.0,
-      "close": 497.92,
-      "volume": 5208
-    },
     {
       "date": "2021-08-19",
       "open": 495.36,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 474339
+      "open": 2.8,
+      "high": 3.02,
+      "low": 2.74,
+      "close": 2.88,
+      "volume": 474400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.79,
+      "high": 3.05,
+      "low": 2.76,
+      "close": 3.04,
+      "volume": 269300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CALC",
   "ticker": "CALC",
-  "last_updated": "2026-08-18 07:23:12",
+  "last_updated": "2026-08-19 07:21:58",
   "period": "5y",
-  "data_points": 796,
+  "data_points": 795,
   "data": [
     {
       "date": "2023-06-14",
@@ -6214,22 +6214,6 @@
       "volume": 164500
     },
     {
-      "date": "2026-07-21",
-      "open": 0.7,
-      "high": 0.73,
-      "low": 0.68,
-      "close": 0.71,
-      "volume": 192500
-    },
-    {
-      "date": "2026-07-22",
-      "open": 0.71,
-      "high": 0.8,
-      "low": 0.7,
-      "close": 0.74,
-      "volume": 529300
-    },
-    {
       "date": "2026-07-23",
       "open": 0.73,
       "high": 0.76,
@@ -6367,11 +6351,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 75884
+      "open": 0.68,
+      "high": 0.69,
+      "low": 0.66,
+      "close": 0.66,
+      "volume": 76000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.67,
+      "high": 0.67,
+      "low": 0.63,
+      "close": 0.64,
+      "volume": 103600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "DXF",
   "ticker": "DXF",
-  "last_updated": "2026-08-18 07:35:10",
+  "last_updated": "2026-08-19 07:33:52",
   "period": "5y",
-  "data_points": 392,
+  "data_points": 393,
   "data": [
     {
       "date": "2025-01-24",
@@ -3135,11 +3135,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 216714
+      "open": 0.5,
+      "high": 0.53,
+      "low": 0.5,
+      "close": 0.51,
+      "volume": 224300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.5,
+      "high": 0.53,
+      "low": 0.49,
+      "close": 0.51,
+      "volume": 126300
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "ABEV",
   "ticker": "ABEV",
-  "last_updated": "2026-08-18 07:06:14",
+  "last_updated": "2026-08-19 07:05:03",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 2.42,
-      "high": 2.47,
-      "low": 2.39,
-      "close": 2.4,
-      "volume": 25630000
-    },
     {
       "date": "2021-08-19",
       "open": 2.39,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 2.79,
+      "high": 2.81,
+      "low": 2.76,
+      "close": 2.78,
+      "volume": 26962100
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 24643427
+      "volume": 11854036
     }
   ]
 }

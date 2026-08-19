@@ -1,9 +1,9 @@
 {
   "code": "ELLA",
   "ticker": "ELLA",
-  "last_updated": "2026-08-18 07:36:53",
+  "last_updated": "2026-08-19 07:35:34",
   "period": "5y",
-  "data_points": 92,
+  "data_points": 90,
   "data": [
     {
       "date": "2026-04-07",
@@ -582,22 +582,6 @@
       "volume": 11500
     },
     {
-      "date": "2026-07-21",
-      "open": 25.08,
-      "high": 25.08,
-      "low": 24.97,
-      "close": 25.06,
-      "volume": 13800
-    },
-    {
-      "date": "2026-07-22",
-      "open": 25.06,
-      "high": 25.06,
-      "low": 24.98,
-      "close": 25.02,
-      "volume": 12400
-    },
-    {
       "date": "2026-07-23",
       "open": 24.98,
       "high": 25.03,
@@ -644,14 +628,6 @@
       "low": 25.05,
       "close": 25.16,
       "volume": 12500
-    },
-    {
-      "date": "2026-07-31",
-      "open": 25.01,
-      "high": 25.17,
-      "low": 25.01,
-      "close": 25.1,
-      "volume": 4400
     },
     {
       "date": "2026-08-03",
@@ -735,11 +711,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1808
+      "open": 25.27,
+      "high": 25.27,
+      "low": 25.23,
+      "close": 25.25,
+      "volume": 1800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.25,
+      "high": 25.25,
+      "low": 25.03,
+      "close": 25.04,
+      "volume": 30100
     }
   ]
 }

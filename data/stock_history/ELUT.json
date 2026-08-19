@@ -1,18 +1,10 @@
 {
   "code": "ELUT",
   "ticker": "ELUT",
-  "last_updated": "2026-08-18 07:37:39",
+  "last_updated": "2026-08-19 07:36:20",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 7.92,
-      "high": 8.15,
-      "low": 7.68,
-      "close": 7.96,
-      "volume": 24000
-    },
     {
       "date": "2021-08-19",
       "open": 7.99,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 84705
+      "open": 0.95,
+      "high": 1.0,
+      "low": 0.92,
+      "close": 0.98,
+      "volume": 84800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.99,
+      "high": 0.99,
+      "low": 0.89,
+      "close": 0.91,
+      "volume": 58400
     }
   ]
 }

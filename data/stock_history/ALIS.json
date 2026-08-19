@@ -1,9 +1,9 @@
 {
   "code": "ALIS",
   "ticker": "ALIS",
-  "last_updated": "2026-08-18 07:10:26",
+  "last_updated": "2026-08-19 07:09:14",
   "period": "5y",
-  "data_points": 185,
+  "data_points": 183,
   "data": [
     {
       "date": "2025-11-19",
@@ -1326,22 +1326,6 @@
       "volume": 300
     },
     {
-      "date": "2026-07-21",
-      "open": 10.19,
-      "high": 10.19,
-      "low": 10.17,
-      "close": 10.17,
-      "volume": 5700
-    },
-    {
-      "date": "2026-07-22",
-      "open": 10.18,
-      "high": 10.18,
-      "low": 10.17,
-      "close": 10.17,
-      "volume": 102200
-    },
-    {
       "date": "2026-07-23",
       "open": 10.15,
       "high": 10.19,
@@ -1388,14 +1372,6 @@
       "low": 10.16,
       "close": 10.16,
       "volume": 5800
-    },
-    {
-      "date": "2026-07-31",
-      "open": 10.16,
-      "high": 10.16,
-      "low": 10.16,
-      "close": 10.16,
-      "volume": 0
     },
     {
       "date": "2026-08-03",
@@ -1479,11 +1455,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 10.21,
+      "high": 10.24,
+      "low": 10.2,
+      "close": 10.2,
+      "volume": 22500
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 22521
+      "volume": 2360
     }
   ]
 }

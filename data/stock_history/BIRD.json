@@ -1,9 +1,9 @@
 {
   "code": "BIRD",
   "ticker": "BIRD",
-  "last_updated": "2026-08-18 07:18:59",
+  "last_updated": "2026-08-19 07:17:45",
   "period": "5y",
-  "data_points": 1199,
+  "data_points": 1200,
   "data": [
     {
       "date": "2021-11-03",
@@ -9591,11 +9591,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 2.56,
+      "high": 2.61,
+      "low": 2.46,
+      "close": 2.48,
+      "volume": 282800
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 260174
+      "volume": 383439
     }
   ]
 }

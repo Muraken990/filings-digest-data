@@ -1,18 +1,10 @@
 {
   "code": "ESP",
   "ticker": "ESP",
-  "last_updated": "2026-08-18 07:38:36",
+  "last_updated": "2026-08-19 07:37:16",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 12.81,
-      "high": 12.9,
-      "low": 12.81,
-      "close": 12.84,
-      "volume": 700
-    },
     {
       "date": "2021-08-19",
       "open": 12.71,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 25002
+      "open": 64.75,
+      "high": 65.8,
+      "low": 64.1,
+      "close": 64.23,
+      "volume": 25000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 65.45,
+      "high": 65.7,
+      "low": 64.01,
+      "close": 64.95,
+      "volume": 25100
     }
   ]
 }

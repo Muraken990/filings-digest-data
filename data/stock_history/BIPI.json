@@ -1,9 +1,9 @@
 {
   "code": "BIPI",
   "ticker": "BIPI",
-  "last_updated": "2026-08-18 07:18:58",
+  "last_updated": "2026-08-19 07:17:45",
   "period": "5y",
-  "data_points": 1143,
+  "data_points": 1144,
   "data": [
     {
       "date": "2022-01-26",
@@ -9143,11 +9143,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4249
+      "open": 16.78,
+      "high": 16.78,
+      "low": 16.68,
+      "close": 16.69,
+      "volume": 4200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 16.65,
+      "high": 16.65,
+      "low": 16.5,
+      "close": 16.56,
+      "volume": 35400
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "EVTL",
   "ticker": "EVTL",
-  "last_updated": "2026-08-18 07:39:27",
+  "last_updated": "2026-08-19 07:38:06",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 98.6,
-      "high": 99.0,
-      "low": 98.4,
-      "close": 98.6,
-      "volume": 520
-    },
     {
       "date": "2021-08-19",
       "open": 98.2,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10218516
+      "open": 0.83,
+      "high": 0.83,
+      "low": 0.76,
+      "close": 0.8,
+      "volume": 10336200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.77,
+      "high": 0.82,
+      "low": 0.77,
+      "close": 0.78,
+      "volume": 3796500
     }
   ]
 }

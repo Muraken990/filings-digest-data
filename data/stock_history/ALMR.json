@@ -1,9 +1,9 @@
 {
   "code": "ALMR",
   "ticker": "ALMR",
-  "last_updated": "2026-08-18 07:10:28",
+  "last_updated": "2026-08-19 07:09:16",
   "period": "5y",
-  "data_points": 81,
+  "data_points": 85,
   "data": [
     {
       "date": "2026-04-17",
@@ -518,6 +518,22 @@
       "volume": 205900
     },
     {
+      "date": "2026-07-21",
+      "open": 23.79,
+      "high": 25.32,
+      "low": 23.5,
+      "close": 25.15,
+      "volume": 190000
+    },
+    {
+      "date": "2026-07-22",
+      "open": 25.1,
+      "high": 25.4,
+      "low": 23.99,
+      "close": 25.12,
+      "volume": 199500
+    },
+    {
       "date": "2026-07-23",
       "open": 25.0,
       "high": 25.96,
@@ -564,6 +580,14 @@
       "low": 24.02,
       "close": 25.07,
       "volume": 142900
+    },
+    {
+      "date": "2026-07-31",
+      "open": 25.22,
+      "high": 26.36,
+      "low": 24.7,
+      "close": 25.36,
+      "volume": 154400
     },
     {
       "date": "2026-08-03",
@@ -647,11 +671,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 193775
+      "open": 33.08,
+      "high": 33.35,
+      "low": 32.01,
+      "close": 32.13,
+      "volume": 193800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 32.13,
+      "high": 35.34,
+      "low": 32.0,
+      "close": 32.96,
+      "volume": 355400
     }
   ]
 }

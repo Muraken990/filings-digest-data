@@ -1,18 +1,10 @@
 {
   "code": "DUKR",
   "ticker": "DUKR",
-  "last_updated": "2026-08-18 07:35:09",
+  "last_updated": "2026-08-19 07:33:50",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 0.32,
-      "high": 0.32,
-      "low": 0.32,
-      "close": 0.32,
-      "volume": 0
-    },
     {
       "date": "2021-08-19",
       "open": 0.33,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 23719
+      "open": 5.36,
+      "high": 5.62,
+      "low": 5.25,
+      "close": 5.62,
+      "volume": 23700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 5.38,
+      "high": 5.43,
+      "low": 5.26,
+      "close": 5.41,
+      "volume": 14700
     }
   ]
 }

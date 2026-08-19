@@ -1,18 +1,10 @@
 {
   "code": "AMBO",
   "ticker": "AMBO",
-  "last_updated": "2026-08-18 07:10:31",
+  "last_updated": "2026-08-19 07:09:19",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 13.7,
-      "high": 14.3,
-      "low": 13.1,
-      "close": 13.6,
-      "volume": 6640
-    },
     {
       "date": "2021-08-19",
       "open": 13.3,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 11686
+      "open": 2.12,
+      "high": 2.17,
+      "low": 1.99,
+      "close": 2.07,
+      "volume": 11800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.06,
+      "high": 2.13,
+      "low": 2.02,
+      "close": 2.09,
+      "volume": 5400
     }
   ]
 }

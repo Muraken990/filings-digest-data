@@ -1,9 +1,9 @@
 {
   "code": "EAI",
   "ticker": "EAI",
-  "last_updated": "2026-08-18 07:35:57",
+  "last_updated": "2026-08-19 07:34:38",
   "period": "5y",
-  "data_points": 136,
+  "data_points": 137,
   "data": [
     {
       "date": "2026-01-28",
@@ -1087,11 +1087,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8711
+      "open": 19.87,
+      "high": 19.87,
+      "low": 19.71,
+      "close": 19.72,
+      "volume": 8700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 19.8,
+      "high": 19.8,
+      "low": 19.7,
+      "close": 19.77,
+      "volume": 13100
     }
   ]
 }

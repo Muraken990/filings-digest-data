@@ -1,18 +1,10 @@
 {
   "code": "AGMH",
   "ticker": "AGMH",
-  "last_updated": "2026-08-18 07:08:47",
+  "last_updated": "2026-08-19 07:07:35",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 388.0,
-      "high": 424.75,
-      "low": 383.25,
-      "close": 418.0,
-      "volume": 2526
-    },
     {
       "date": "2021-08-19",
       "open": 398.5,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 21696
+      "open": 0.99,
+      "high": 0.99,
+      "low": 0.92,
+      "close": 0.97,
+      "volume": 21900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.99,
+      "high": 0.99,
+      "low": 0.94,
+      "close": 0.95,
+      "volume": 13200
     }
   ]
 }

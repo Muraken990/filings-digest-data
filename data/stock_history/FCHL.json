@@ -1,9 +1,9 @@
 {
   "code": "FCHL",
   "ticker": "FCHL",
-  "last_updated": "2026-08-18 07:41:06",
+  "last_updated": "2026-08-19 07:39:43",
   "period": "5y",
-  "data_points": 239,
+  "data_points": 238,
   "data": [
     {
       "date": "2025-09-04",
@@ -1758,22 +1758,6 @@
       "volume": 17500
     },
     {
-      "date": "2026-07-21",
-      "open": 1.24,
-      "high": 1.24,
-      "low": 1.14,
-      "close": 1.16,
-      "volume": 11800
-    },
-    {
-      "date": "2026-07-22",
-      "open": 1.17,
-      "high": 1.21,
-      "low": 1.12,
-      "close": 1.17,
-      "volume": 34500
-    },
-    {
       "date": "2026-07-23",
       "open": 1.18,
       "high": 1.18,
@@ -1911,11 +1895,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 30842
+      "open": 1.13,
+      "high": 1.14,
+      "low": 1.08,
+      "close": 1.12,
+      "volume": 31000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.07,
+      "high": 1.08,
+      "low": 1.03,
+      "close": 1.07,
+      "volume": 53300
     }
   ]
 }

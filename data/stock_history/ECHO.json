@@ -1,18 +1,10 @@
 {
   "code": "ECHO",
   "ticker": "ECHO",
-  "last_updated": "2026-08-18 07:35:59",
+  "last_updated": "2026-08-19 07:34:40",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 24.58,
-      "high": 25.31,
-      "low": 24.58,
-      "close": 24.71,
-      "volume": 369800
-    },
     {
       "date": "2021-08-19",
       "open": 24.51,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3199103
+      "open": 92.41,
+      "high": 94.95,
+      "low": 91.73,
+      "close": 92.51,
+      "volume": 3199300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 90.48,
+      "high": 91.97,
+      "low": 89.62,
+      "close": 90.0,
+      "volume": 2258200
     }
   ]
 }

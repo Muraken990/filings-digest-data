@@ -1,9 +1,9 @@
 {
   "code": "BXDC",
   "ticker": "BXDC",
-  "last_updated": "2026-08-18 07:22:22",
+  "last_updated": "2026-08-19 07:21:09",
   "period": "5y",
-  "data_points": 65,
+  "data_points": 64,
   "data": [
     {
       "date": "2026-05-14",
@@ -366,14 +366,6 @@
       "volume": 693800
     },
     {
-      "date": "2026-07-21",
-      "open": 20.25,
-      "high": 20.45,
-      "low": 19.86,
-      "close": 20.02,
-      "volume": 906200
-    },
-    {
       "date": "2026-07-22",
       "open": 20.24,
       "high": 20.42,
@@ -428,14 +420,6 @@
       "low": 20.12,
       "close": 20.62,
       "volume": 702300
-    },
-    {
-      "date": "2026-07-31",
-      "open": 20.83,
-      "high": 20.97,
-      "low": 20.47,
-      "close": 20.81,
-      "volume": 808900
     },
     {
       "date": "2026-08-03",
@@ -519,11 +503,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 255189
+      "open": 20.97,
+      "high": 21.04,
+      "low": 20.32,
+      "close": 20.33,
+      "volume": 337700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 20.37,
+      "high": 20.91,
+      "low": 20.37,
+      "close": 20.67,
+      "volume": 652900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "BIPJ",
   "ticker": "BIPJ",
-  "last_updated": "2026-08-18 07:18:58",
+  "last_updated": "2026-08-19 07:17:45",
   "period": "5y",
-  "data_points": 552,
+  "data_points": 553,
   "data": [
     {
       "date": "2024-05-30",
@@ -4415,11 +4415,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 24.73,
+      "high": 24.77,
+      "low": 24.42,
+      "close": 24.69,
+      "volume": 9700
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 9732
+      "volume": 7940
     }
   ]
 }

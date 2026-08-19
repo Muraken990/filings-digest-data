@@ -1,9 +1,9 @@
 {
   "code": "CGTL",
   "ticker": "CGTL",
-  "last_updated": "2026-08-18 07:25:44",
+  "last_updated": "2026-08-19 07:24:30",
   "period": "5y",
-  "data_points": 427,
+  "data_points": 431,
   "data": [
     {
       "date": "2024-11-26",
@@ -3286,6 +3286,22 @@
       "volume": 25800
     },
     {
+      "date": "2026-07-21",
+      "open": 4.45,
+      "high": 4.7,
+      "low": 4.4,
+      "close": 4.45,
+      "volume": 19000
+    },
+    {
+      "date": "2026-07-22",
+      "open": 4.41,
+      "high": 4.6,
+      "low": 4.25,
+      "close": 4.6,
+      "volume": 11300
+    },
+    {
       "date": "2026-07-23",
       "open": 4.38,
       "high": 5.0,
@@ -3332,6 +3348,14 @@
       "low": 4.11,
       "close": 4.11,
       "volume": 3300
+    },
+    {
+      "date": "2026-07-31",
+      "open": 4.11,
+      "high": 4.26,
+      "low": 4.01,
+      "close": 4.01,
+      "volume": 5700
     },
     {
       "date": "2026-08-03",
@@ -3415,11 +3439,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 276451
+      "open": 4.0,
+      "high": 5.0,
+      "low": 3.94,
+      "close": 4.79,
+      "volume": 281100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.79,
+      "high": 5.0,
+      "low": 4.58,
+      "close": 4.88,
+      "volume": 99400
     }
   ]
 }

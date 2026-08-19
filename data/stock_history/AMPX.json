@@ -1,9 +1,9 @@
 {
   "code": "AMPX",
   "ticker": "AMPX",
-  "last_updated": "2026-08-18 07:11:19",
+  "last_updated": "2026-08-19 07:10:07",
   "period": "5y",
-  "data_points": 983,
+  "data_points": 984,
   "data": [
     {
       "date": "2022-09-15",
@@ -7863,11 +7863,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 12.25,
+      "high": 12.45,
+      "low": 11.45,
+      "close": 11.58,
+      "volume": 6540900
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 6514098
+      "volume": 5229147
     }
   ]
 }

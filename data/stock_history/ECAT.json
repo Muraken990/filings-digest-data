@@ -1,9 +1,9 @@
 {
   "code": "ECAT",
   "ticker": "ECAT",
-  "last_updated": "2026-08-18 07:35:58",
+  "last_updated": "2026-08-19 07:34:40",
   "period": "5y",
-  "data_points": 1225,
+  "data_points": 1227,
   "data": [
     {
       "date": "2021-09-28",
@@ -9662,6 +9662,14 @@
       "volume": 361700
     },
     {
+      "date": "2026-07-22",
+      "open": 15.23,
+      "high": 15.25,
+      "low": 15.12,
+      "close": 15.14,
+      "volume": 368900
+    },
+    {
       "date": "2026-07-23",
       "open": 15.06,
       "high": 15.1,
@@ -9799,11 +9807,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 349329
+      "open": 15.5,
+      "high": 15.52,
+      "low": 15.38,
+      "close": 15.41,
+      "volume": 356100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 15.38,
+      "high": 15.39,
+      "low": 15.21,
+      "close": 15.21,
+      "volume": 581200
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "BCAX",
   "ticker": "BCAX",
-  "last_updated": "2026-08-18 07:17:16",
+  "last_updated": "2026-08-19 07:16:02",
   "period": "5y",
-  "data_points": 479,
+  "data_points": 480,
   "data": [
     {
       "date": "2024-09-13",
@@ -3831,11 +3831,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 24.28,
+      "high": 25.0,
+      "low": 24.13,
+      "close": 24.94,
+      "volume": 434600
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 428773
+      "volume": 396234
     }
   ]
 }

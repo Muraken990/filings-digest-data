@@ -1,9 +1,9 @@
 {
   "code": "CFND",
   "ticker": "CFND",
-  "last_updated": "2026-08-18 07:25:43",
+  "last_updated": "2026-08-19 07:24:28",
   "period": "5y",
-  "data_points": 258,
+  "data_points": 259,
   "data": [
     {
       "date": "2025-08-07",
@@ -2063,11 +2063,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 23239
+      "open": 2.75,
+      "high": 2.81,
+      "low": 2.62,
+      "close": 2.71,
+      "volume": 23800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.69,
+      "high": 2.77,
+      "low": 2.09,
+      "close": 2.18,
+      "volume": 417900
     }
   ]
 }

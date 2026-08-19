@@ -1,9 +1,9 @@
 {
   "code": "AVR",
   "ticker": "AVR",
-  "last_updated": "2026-08-18 07:15:33",
+  "last_updated": "2026-08-19 07:14:21",
   "period": "5y",
-  "data_points": 418,
+  "data_points": 419,
   "data": [
     {
       "date": "2024-12-13",
@@ -3343,11 +3343,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 487098
+      "open": 9.27,
+      "high": 9.6,
+      "low": 9.21,
+      "close": 9.42,
+      "volume": 487900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 9.36,
+      "high": 9.7,
+      "low": 9.35,
+      "close": 9.58,
+      "volume": 720900
     }
   ]
 }

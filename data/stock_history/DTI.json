@@ -1,9 +1,9 @@
 {
   "code": "DTI",
   "ticker": "DTI",
-  "last_updated": "2026-08-18 07:35:08",
+  "last_updated": "2026-08-19 07:33:49",
   "period": "5y",
-  "data_points": 1159,
+  "data_points": 1160,
   "data": [
     {
       "date": "2021-12-29",
@@ -9271,11 +9271,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 242960
+      "open": 2.5,
+      "high": 2.62,
+      "low": 2.42,
+      "close": 2.57,
+      "volume": 243000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.57,
+      "high": 2.58,
+      "low": 2.49,
+      "close": 2.5,
+      "volume": 198600
     }
   ]
 }

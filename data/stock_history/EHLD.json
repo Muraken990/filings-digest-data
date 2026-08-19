@@ -1,9 +1,9 @@
 {
   "code": "EHLD",
   "ticker": "EHLD",
-  "last_updated": "2026-08-18 07:36:50",
+  "last_updated": "2026-08-19 07:35:31",
   "period": "5y",
-  "data_points": 360,
+  "data_points": 361,
   "data": [
     {
       "date": "2025-03-07",
@@ -2879,11 +2879,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 23407
+      "open": 9.42,
+      "high": 10.75,
+      "low": 9.37,
+      "close": 10.68,
+      "volume": 24300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.4,
+      "high": 10.4,
+      "low": 10.21,
+      "close": 10.21,
+      "volume": 3800
     }
   ]
 }

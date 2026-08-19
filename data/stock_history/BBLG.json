@@ -1,9 +1,9 @@
 {
   "code": "BBLG",
   "ticker": "BBLG",
-  "last_updated": "2026-08-18 07:17:14",
+  "last_updated": "2026-08-19 07:16:00",
   "period": "5y",
-  "data_points": 1212,
+  "data_points": 1216,
   "data": [
     {
       "date": "2021-10-13",
@@ -9566,6 +9566,22 @@
       "volume": 11800
     },
     {
+      "date": "2026-07-21",
+      "open": 1.13,
+      "high": 1.14,
+      "low": 1.1,
+      "close": 1.11,
+      "volume": 24800
+    },
+    {
+      "date": "2026-07-22",
+      "open": 1.11,
+      "high": 1.12,
+      "low": 1.09,
+      "close": 1.1,
+      "volume": 28200
+    },
+    {
       "date": "2026-07-23",
       "open": 1.11,
       "high": 1.15,
@@ -9612,6 +9628,14 @@
       "low": 0.84,
       "close": 0.86,
       "volume": 38300
+    },
+    {
+      "date": "2026-07-31",
+      "open": 0.86,
+      "high": 0.86,
+      "low": 0.83,
+      "close": 0.85,
+      "volume": 19300
     },
     {
       "date": "2026-08-03",
@@ -9695,11 +9719,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 234709
+      "open": 0.64,
+      "high": 0.67,
+      "low": 0.62,
+      "close": 0.66,
+      "volume": 249200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.63,
+      "high": 0.66,
+      "low": 0.61,
+      "close": 0.64,
+      "volume": 95000
     }
   ]
 }

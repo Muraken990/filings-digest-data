@@ -1,18 +1,10 @@
 {
   "code": "BKSY",
   "ticker": "BKSY",
-  "last_updated": "2026-08-18 07:19:00",
+  "last_updated": "2026-08-19 07:17:47",
   "period": "5y",
   "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 80.0,
-      "high": 80.08,
-      "low": 80.0,
-      "close": 80.0,
-      "volume": 23275
-    },
     {
       "date": "2021-08-19",
       "open": 80.0,
@@ -10023,11 +10015,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 31.0,
+      "high": 32.39,
+      "low": 30.75,
+      "close": 30.77,
+      "volume": 1018600
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 679613
+      "volume": 1038615
     }
   ]
 }

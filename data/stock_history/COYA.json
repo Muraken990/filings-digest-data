@@ -1,9 +1,9 @@
 {
   "code": "COYA",
   "ticker": "COYA",
-  "last_updated": "2026-08-18 07:29:09",
+  "last_updated": "2026-08-19 07:27:53",
   "period": "5y",
-  "data_points": 907,
+  "data_points": 908,
   "data": [
     {
       "date": "2022-12-29",
@@ -7255,11 +7255,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 64775
+      "open": 4.81,
+      "high": 4.81,
+      "low": 4.63,
+      "close": 4.67,
+      "volume": 67300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.65,
+      "high": 4.93,
+      "low": 4.65,
+      "close": 4.92,
+      "volume": 106600
     }
   ]
 }

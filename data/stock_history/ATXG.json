@@ -1,18 +1,10 @@
 {
   "code": "ATXG",
   "ticker": "ATXG",
-  "last_updated": "2026-08-18 07:14:44",
+  "last_updated": "2026-08-19 07:13:32",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 1125.0,
-      "high": 1125.0,
-      "low": 1125.0,
-      "close": 1125.0,
-      "volume": 0
-    },
     {
       "date": "2021-08-19",
       "open": 1125.0,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 4.04,
+      "high": 4.09,
+      "low": 3.81,
+      "close": 4.04,
+      "volume": 2100
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 2135
+      "volume": 42200
     }
   ]
 }

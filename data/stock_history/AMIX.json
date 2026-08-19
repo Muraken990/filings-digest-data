@@ -1,9 +1,9 @@
 {
   "code": "AMIX",
   "ticker": "AMIX",
-  "last_updated": "2026-08-18 07:11:18",
+  "last_updated": "2026-08-19 07:10:06",
   "period": "5y",
-  "data_points": 638,
+  "data_points": 639,
   "data": [
     {
       "date": "2024-01-29",
@@ -5103,11 +5103,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 6.83,
+      "high": 6.83,
+      "low": 6.25,
+      "close": 6.4,
+      "volume": 124800
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 117640
+      "volume": 101631
     }
   ]
 }

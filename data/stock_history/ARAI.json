@@ -1,9 +1,9 @@
 {
   "code": "ARAI",
   "ticker": "ARAI",
-  "last_updated": "2026-08-18 07:13:00",
+  "last_updated": "2026-08-19 07:11:47",
   "period": "5y",
-  "data_points": 315,
+  "data_points": 316,
   "data": [
     {
       "date": "2025-05-15",
@@ -2519,11 +2519,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 0.25,
+      "high": 0.27,
+      "low": 0.25,
+      "close": 0.25,
+      "volume": 633400
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 626850
+      "volume": 466691
     }
   ]
 }

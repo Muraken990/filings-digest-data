@@ -1,18 +1,10 @@
 {
   "code": "APPF",
   "ticker": "APPF",
-  "last_updated": "2026-08-18 07:12:13",
+  "last_updated": "2026-08-19 07:11:00",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 127.29,
-      "high": 127.92,
-      "low": 124.56,
-      "close": 124.97,
-      "volume": 115200
-    },
     {
       "date": "2021-08-19",
       "open": 124.58,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 200.53,
+      "high": 202.32,
+      "low": 193.67,
+      "close": 195.96,
+      "volume": 344300
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 339508
+      "volume": 283116
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CISO",
   "ticker": "CISO",
-  "last_updated": "2026-08-18 07:26:37",
+  "last_updated": "2026-08-19 07:25:22",
   "period": "5y",
-  "data_points": 1148,
+  "data_points": 1151,
   "data": [
     {
       "date": "2022-01-14",
@@ -9054,6 +9054,14 @@
       "volume": 137500
     },
     {
+      "date": "2026-07-22",
+      "open": 0.27,
+      "high": 0.28,
+      "low": 0.26,
+      "close": 0.27,
+      "volume": 178900
+    },
+    {
       "date": "2026-07-23",
       "open": 0.27,
       "high": 0.27,
@@ -9100,6 +9108,14 @@
       "low": 0.25,
       "close": 0.25,
       "volume": 146600
+    },
+    {
+      "date": "2026-07-31",
+      "open": 0.26,
+      "high": 0.26,
+      "low": 0.25,
+      "close": 0.26,
+      "volume": 58300
     },
     {
       "date": "2026-08-03",
@@ -9183,11 +9199,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 262881
+      "open": 0.25,
+      "high": 0.27,
+      "low": 0.25,
+      "close": 0.25,
+      "volume": 262900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.25,
+      "high": 0.26,
+      "low": 0.24,
+      "close": 0.26,
+      "volume": 77400
     }
   ]
 }

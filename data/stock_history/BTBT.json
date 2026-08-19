@@ -1,18 +1,10 @@
 {
   "code": "BTBT",
   "ticker": "BTBT",
-  "last_updated": "2026-08-18 07:21:31",
+  "last_updated": "2026-08-19 07:20:17",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 12.02,
-      "high": 12.55,
-      "low": 11.04,
-      "close": 11.18,
-      "volume": 9679800
-    },
     {
       "date": "2021-08-19",
       "open": 11.01,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 1.52,
+      "high": 1.61,
+      "low": 1.52,
+      "close": 1.6,
+      "volume": 30471900
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 30349549
+      "volume": 24906840
     }
   ]
 }

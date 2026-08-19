@@ -1,9 +1,9 @@
 {
   "code": "ENHA",
   "ticker": "ENHA",
-  "last_updated": "2026-08-18 07:37:42",
+  "last_updated": "2026-08-19 07:36:22",
   "period": "5y",
-  "data_points": 69,
+  "data_points": 70,
   "data": [
     {
       "date": "2026-05-08",
@@ -551,11 +551,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3913352
+      "open": 2.01,
+      "high": 2.01,
+      "low": 1.51,
+      "close": 1.71,
+      "volume": 3992900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.7,
+      "high": 1.79,
+      "low": 1.6,
+      "close": 1.63,
+      "volume": 1588400
     }
   ]
 }

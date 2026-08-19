@@ -1,9 +1,9 @@
 {
   "code": "AIIR",
   "ticker": "AIIR",
-  "last_updated": "2026-08-18 07:09:36",
+  "last_updated": "2026-08-19 07:08:24",
   "period": "5y",
-  "data_points": 284,
+  "data_points": 288,
   "data": [
     {
       "date": "2025-06-26",
@@ -2142,6 +2142,22 @@
       "volume": 13500
     },
     {
+      "date": "2026-07-21",
+      "open": 5.78,
+      "high": 5.86,
+      "low": 5.6,
+      "close": 5.78,
+      "volume": 3000
+    },
+    {
+      "date": "2026-07-22",
+      "open": 5.85,
+      "high": 6.1,
+      "low": 5.85,
+      "close": 5.9,
+      "volume": 3000
+    },
+    {
       "date": "2026-07-23",
       "open": 5.61,
       "high": 6.43,
@@ -2188,6 +2204,14 @@
       "low": 5.82,
       "close": 5.85,
       "volume": 13400
+    },
+    {
+      "date": "2026-07-31",
+      "open": 5.97,
+      "high": 6.3,
+      "low": 5.92,
+      "close": 6.3,
+      "volume": 10000
     },
     {
       "date": "2026-08-03",
@@ -2271,11 +2295,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 21794
+      "open": 7.58,
+      "high": 8.64,
+      "low": 7.58,
+      "close": 7.7,
+      "volume": 21800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 7.7,
+      "high": 8.2,
+      "low": 7.5,
+      "close": 7.9,
+      "volume": 13500
     }
   ]
 }

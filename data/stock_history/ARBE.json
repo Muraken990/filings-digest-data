@@ -1,18 +1,10 @@
 {
   "code": "ARBE",
   "ticker": "ARBE",
-  "last_updated": "2026-08-18 07:13:00",
+  "last_updated": "2026-08-19 07:11:47",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 9.95,
-      "high": 10.0,
-      "low": 9.95,
-      "close": 9.98,
-      "volume": 3900
-    },
     {
       "date": "2021-08-19",
       "open": 9.98,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 0.8,
+      "high": 0.84,
+      "low": 0.78,
+      "close": 0.81,
+      "volume": 967200
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 951639
+      "volume": 931957
     }
   ]
 }

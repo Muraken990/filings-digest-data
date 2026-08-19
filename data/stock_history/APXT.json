@@ -1,9 +1,9 @@
 {
   "code": "APXT",
   "ticker": "APXT",
-  "last_updated": "2026-08-18 07:12:59",
+  "last_updated": "2026-08-19 07:11:46",
   "period": "5y",
-  "data_points": 184,
+  "data_points": 185,
   "data": [
     {
       "date": "2025-11-17",
@@ -1471,11 +1471,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 10.12,
+      "high": 10.12,
+      "low": 10.11,
+      "close": 10.11,
+      "volume": 3300
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 3293
+      "volume": 109217
     }
   ]
 }

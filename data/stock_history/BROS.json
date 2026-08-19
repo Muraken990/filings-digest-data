@@ -1,9 +1,9 @@
 {
   "code": "BROS",
   "ticker": "BROS",
-  "last_updated": "2026-08-18 07:21:28",
+  "last_updated": "2026-08-19 07:20:14",
   "period": "5y",
-  "data_points": 1234,
+  "data_points": 1235,
   "data": [
     {
       "date": "2021-09-15",
@@ -9871,11 +9871,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 52.0,
+      "high": 52.0,
+      "low": 49.79,
+      "close": 50.42,
+      "volume": 4803400
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 4174225
+      "volume": 4787416
     }
   ]
 }

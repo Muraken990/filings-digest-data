@@ -1,18 +1,10 @@
 {
   "code": "AVPT",
   "ticker": "AVPT",
-  "last_updated": "2026-08-18 07:15:34",
+  "last_updated": "2026-08-19 07:14:21",
   "period": "5y",
   "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 9.02,
-      "high": 9.2,
-      "low": 8.82,
-      "close": 9.03,
-      "volume": 865000
-    },
     {
       "date": "2021-08-19",
       "open": 8.67,
@@ -10023,11 +10015,19 @@
     },
     {
       "date": "2026-08-17",
+      "open": 13.58,
+      "high": 13.6,
+      "low": 13.16,
+      "close": 13.25,
+      "volume": 1656300
+    },
+    {
+      "date": "2026-08-18",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 1607675
+      "volume": 1012012
     }
   ]
 }

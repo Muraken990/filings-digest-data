@@ -1,9 +1,9 @@
 {
   "code": "FLX",
   "ticker": "FLX",
-  "last_updated": "2026-08-18 07:42:48",
+  "last_updated": "2026-08-19 07:41:24",
   "period": "5y",
-  "data_points": 464,
+  "data_points": 468,
   "data": [
     {
       "date": "2024-10-04",
@@ -3582,6 +3582,22 @@
       "volume": 116100
     },
     {
+      "date": "2026-07-21",
+      "open": 2.12,
+      "high": 2.16,
+      "low": 2.11,
+      "close": 2.13,
+      "volume": 131500
+    },
+    {
+      "date": "2026-07-22",
+      "open": 2.15,
+      "high": 2.16,
+      "low": 2.12,
+      "close": 2.12,
+      "volume": 101500
+    },
+    {
       "date": "2026-07-23",
       "open": 2.23,
       "high": 2.23,
@@ -3628,6 +3644,14 @@
       "low": 2.07,
       "close": 2.14,
       "volume": 35000
+    },
+    {
+      "date": "2026-07-31",
+      "open": 2.19,
+      "high": 2.22,
+      "low": 2.12,
+      "close": 2.22,
+      "volume": 101900
     },
     {
       "date": "2026-08-03",
@@ -3711,11 +3735,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 109619
+      "open": 2.01,
+      "high": 2.06,
+      "low": 1.98,
+      "close": 2.03,
+      "volume": 109600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.01,
+      "high": 2.03,
+      "low": 1.95,
+      "close": 1.98,
+      "volume": 170100
     }
   ]
 }

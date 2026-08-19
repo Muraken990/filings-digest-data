@@ -1,9 +1,9 @@
 {
   "code": "ALMS",
   "ticker": "ALMS",
-  "last_updated": "2026-08-18 07:10:28",
+  "last_updated": "2026-08-19 07:09:16",
   "period": "5y",
-  "data_points": 533,
+  "data_points": 536,
   "data": [
     {
       "date": "2024-06-28",
@@ -4134,6 +4134,14 @@
       "volume": 875500
     },
     {
+      "date": "2026-07-22",
+      "open": 29.55,
+      "high": 29.6,
+      "low": 28.28,
+      "close": 28.81,
+      "volume": 813000
+    },
+    {
       "date": "2026-07-23",
       "open": 28.24,
       "high": 28.6,
@@ -4180,6 +4188,14 @@
       "low": 26.78,
       "close": 28.95,
       "volume": 992200
+    },
+    {
+      "date": "2026-07-31",
+      "open": 28.95,
+      "high": 29.2,
+      "low": 27.57,
+      "close": 28.25,
+      "volume": 1321000
     },
     {
       "date": "2026-08-03",
@@ -4263,11 +4279,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 633485
+      "open": 25.05,
+      "high": 25.71,
+      "low": 24.9,
+      "close": 25.5,
+      "volume": 844000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.26,
+      "high": 25.32,
+      "low": 24.36,
+      "close": 24.88,
+      "volume": 661700
     }
   ]
 }
