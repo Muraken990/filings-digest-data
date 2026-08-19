@@ -1,9 +1,9 @@
 {
   "code": "SRFM",
   "ticker": "SRFM",
-  "last_updated": "2026-08-18 12:19:54",
+  "last_updated": "2026-08-19 12:19:09",
   "period": "5y",
-  "data_points": 767,
+  "data_points": 768,
   "data": [
     {
       "date": "2023-07-27",
@@ -6135,11 +6135,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3049768
+      "open": 0.72,
+      "high": 0.74,
+      "low": 0.69,
+      "close": 0.69,
+      "volume": 3103300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.67,
+      "high": 0.69,
+      "low": 0.63,
+      "close": 0.67,
+      "volume": 3589000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SMR",
   "ticker": "SMR",
-  "last_updated": "2026-08-18 12:18:06",
+  "last_updated": "2026-08-19 12:17:25",
   "period": "5y",
-  "data_points": 1120,
+  "data_points": 1121,
   "data": [
     {
       "date": "2022-03-01",
@@ -8959,11 +8959,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 20704126
+      "open": 9.49,
+      "high": 9.61,
+      "low": 9.13,
+      "close": 9.19,
+      "volume": 23423100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 8.89,
+      "high": 9.19,
+      "low": 8.58,
+      "close": 8.64,
+      "volume": 30294400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SCII",
   "ticker": "SCII",
-  "last_updated": "2026-08-18 12:14:40",
+  "last_updated": "2026-08-19 12:14:02",
   "period": "5y",
-  "data_points": 145,
+  "data_points": 146,
   "data": [
     {
       "date": "2026-01-20",
@@ -1159,11 +1159,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 508
+      "open": 10.1,
+      "high": 10.1,
+      "low": 10.1,
+      "close": 10.1,
+      "volume": 500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.12,
+      "high": 10.12,
+      "low": 10.12,
+      "close": 10.12,
+      "volume": 22000
     }
   ]
 }

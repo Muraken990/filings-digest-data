@@ -1,18 +1,10 @@
 {
   "code": "SILO",
   "ticker": "SILO",
-  "last_updated": "2026-08-18 12:16:25",
+  "last_updated": "2026-08-19 12:15:46",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 132.75,
-      "high": 132.75,
-      "low": 125.25,
-      "close": 132.75,
-      "volume": 45
-    },
     {
       "date": "2021-08-19",
       "open": 125.25,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 50431
+      "open": 3.2,
+      "high": 3.36,
+      "low": 2.92,
+      "close": 3.07,
+      "volume": 50600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 3.01,
+      "high": 3.3,
+      "low": 2.93,
+      "close": 3.07,
+      "volume": 1664900
     }
   ]
 }

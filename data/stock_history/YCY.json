@@ -1,9 +1,9 @@
 {
   "code": "YCY",
   "ticker": "YCY",
-  "last_updated": "2026-08-18 12:35:24",
+  "last_updated": "2026-08-19 12:34:37",
   "period": "5y",
-  "data_points": 197,
+  "data_points": 198,
   "data": [
     {
       "date": "2025-10-29",
@@ -1575,11 +1575,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2006
+      "open": 10.25,
+      "high": 10.25,
+      "low": 10.25,
+      "close": 10.25,
+      "volume": 2000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.25,
+      "high": 10.25,
+      "low": 10.25,
+      "close": 10.25,
+      "volume": 0
     }
   ]
 }

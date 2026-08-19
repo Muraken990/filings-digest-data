@@ -1,9 +1,9 @@
 {
   "code": "PSUS",
   "ticker": "PSUS",
-  "last_updated": "2026-08-18 12:07:47",
+  "last_updated": "2026-08-19 12:07:13",
   "period": "5y",
-  "data_points": 74,
+  "data_points": 77,
   "data": [
     {
       "date": "2026-04-29",
@@ -454,6 +454,14 @@
       "volume": 322700
     },
     {
+      "date": "2026-07-21",
+      "open": 37.0,
+      "high": 37.0,
+      "low": 36.61,
+      "close": 36.87,
+      "volume": 310400
+    },
+    {
       "date": "2026-07-22",
       "open": 37.74,
       "high": 37.74,
@@ -508,6 +516,14 @@
       "low": 36.28,
       "close": 36.71,
       "volume": 436900
+    },
+    {
+      "date": "2026-07-31",
+      "open": 36.95,
+      "high": 37.5,
+      "low": 36.74,
+      "close": 37.5,
+      "volume": 512600
     },
     {
       "date": "2026-08-03",
@@ -591,11 +607,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 505647
+      "open": 40.52,
+      "high": 40.55,
+      "low": 39.38,
+      "close": 39.72,
+      "volume": 513900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 39.5,
+      "high": 40.0,
+      "low": 39.15,
+      "close": 39.15,
+      "volume": 332400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "PSNYW",
   "ticker": "PSNYW",
-  "last_updated": "2026-08-18 12:07:47",
+  "last_updated": "2026-08-19 12:07:13",
   "period": "5y",
-  "data_points": 213,
+  "data_points": 214,
   "data": [
     {
       "date": "2025-10-10",
@@ -1703,11 +1703,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
+      "open": 2.82,
+      "high": 2.82,
+      "low": 2.72,
+      "close": 2.75,
       "volume": 12100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.68,
+      "high": 2.88,
+      "low": 2.68,
+      "close": 2.88,
+      "volume": 8200
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SHIM",
   "ticker": "SHIM",
-  "last_updated": "2026-08-18 12:16:22",
+  "last_updated": "2026-08-19 12:15:42",
   "period": "5y",
-  "data_points": 690,
+  "data_points": 691,
   "data": [
     {
       "date": "2023-11-14",
@@ -5519,11 +5519,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 116831
+      "open": 3.7,
+      "high": 3.76,
+      "low": 3.56,
+      "close": 3.69,
+      "volume": 116900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 3.66,
+      "high": 3.89,
+      "low": 3.62,
+      "close": 3.7,
+      "volume": 24200
     }
   ]
 }

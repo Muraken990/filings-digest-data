@@ -1,9 +1,9 @@
 {
   "code": "RAPP",
   "ticker": "RAPP",
-  "last_updated": "2026-08-18 12:09:29",
+  "last_updated": "2026-08-19 12:08:54",
   "period": "5y",
-  "data_points": 549,
+  "data_points": 550,
   "data": [
     {
       "date": "2024-06-07",
@@ -4391,11 +4391,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 194125
+      "open": 47.42,
+      "high": 49.03,
+      "low": 47.26,
+      "close": 48.42,
+      "volume": 203900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 47.81,
+      "high": 49.37,
+      "low": 47.73,
+      "close": 49.01,
+      "volume": 214700
     }
   ]
 }

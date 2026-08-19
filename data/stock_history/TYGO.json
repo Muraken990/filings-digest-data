@@ -1,9 +1,9 @@
 {
   "code": "TYGO",
   "ticker": "TYGO",
-  "last_updated": "2026-08-18 12:27:36",
+  "last_updated": "2026-08-19 12:26:47",
   "period": "5y",
-  "data_points": 1241,
+  "data_points": 1243,
   "data": [
     {
       "date": "2021-09-03",
@@ -9846,6 +9846,14 @@
       "volume": 880500
     },
     {
+      "date": "2026-07-31",
+      "open": 1.78,
+      "high": 1.97,
+      "low": 1.74,
+      "close": 1.91,
+      "volume": 1950600
+    },
+    {
       "date": "2026-08-03",
       "open": 1.93,
       "high": 2.04,
@@ -9927,11 +9935,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 606018
+      "open": 1.21,
+      "high": 1.21,
+      "low": 1.16,
+      "close": 1.17,
+      "volume": 609100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.16,
+      "high": 1.18,
+      "low": 1.14,
+      "close": 1.15,
+      "volume": 733300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SFB",
   "ticker": "SFB",
-  "last_updated": "2026-08-18 12:15:32",
+  "last_updated": "2026-08-19 12:14:53",
   "period": "5y",
-  "data_points": 139,
+  "data_points": 140,
   "data": [
     {
       "date": "2026-01-28",
@@ -1111,11 +1111,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10812
+      "open": 19.6,
+      "high": 19.62,
+      "low": 19.53,
+      "close": 19.55,
+      "volume": 10800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 19.55,
+      "high": 19.55,
+      "low": 19.31,
+      "close": 19.48,
+      "volume": 8900
     }
   ]
 }

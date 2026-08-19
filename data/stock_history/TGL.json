@@ -1,9 +1,9 @@
 {
   "code": "TGL",
   "ticker": "TGL",
-  "last_updated": "2026-08-18 12:23:24",
+  "last_updated": "2026-08-19 12:22:37",
   "period": "5y",
-  "data_points": 1006,
+  "data_points": 1007,
   "data": [
     {
       "date": "2022-08-11",
@@ -8047,11 +8047,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4141
+      "open": 2.96,
+      "high": 3.0,
+      "low": 2.84,
+      "close": 2.85,
+      "volume": 4700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.94,
+      "high": 2.94,
+      "low": 2.66,
+      "close": 2.67,
+      "volume": 4058300
     }
   ]
 }

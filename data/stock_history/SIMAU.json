@@ -1,9 +1,9 @@
 {
   "code": "SIMAU",
   "ticker": "SIMAU",
-  "last_updated": "2026-08-18 12:16:26",
+  "last_updated": "2026-08-19 12:15:46",
   "period": "5y",
-  "data_points": 525,
+  "data_points": 526,
   "data": [
     {
       "date": "2024-07-10",
@@ -4199,11 +4199,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1810
+      "open": 10.9,
+      "high": 10.93,
+      "low": 10.9,
+      "close": 10.93,
+      "volume": 1800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.93,
+      "high": 10.93,
+      "low": 10.93,
+      "close": 10.93,
+      "volume": 0
     }
   ]
 }

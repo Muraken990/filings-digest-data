@@ -1,18 +1,10 @@
 {
   "code": "XCUR",
   "ticker": "XCUR",
-  "last_updated": "2026-08-18 12:34:33",
+  "last_updated": "2026-08-19 12:33:45",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 163.5,
-      "high": 175.5,
-      "low": 163.5,
-      "close": 171.0,
-      "volume": 3227
-    },
     {
       "date": "2021-08-19",
       "open": 174.0,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 49883
+      "open": 1.26,
+      "high": 1.42,
+      "low": 1.26,
+      "close": 1.38,
+      "volume": 52200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.35,
+      "high": 1.48,
+      "low": 1.35,
+      "close": 1.43,
+      "volume": 28500
     }
   ]
 }

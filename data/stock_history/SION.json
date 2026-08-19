@@ -1,9 +1,9 @@
 {
   "code": "SION",
   "ticker": "SION",
-  "last_updated": "2026-08-18 12:16:26",
+  "last_updated": "2026-08-19 12:15:46",
   "period": "5y",
-  "data_points": 380,
+  "data_points": 383,
   "data": [
     {
       "date": "2025-02-07",
@@ -2902,6 +2902,22 @@
       "volume": 816400
     },
     {
+      "date": "2026-07-21",
+      "open": 45.24,
+      "high": 48.0,
+      "low": 45.24,
+      "close": 47.21,
+      "volume": 598100
+    },
+    {
+      "date": "2026-07-22",
+      "open": 46.92,
+      "high": 47.71,
+      "low": 44.23,
+      "close": 45.03,
+      "volume": 562900
+    },
+    {
       "date": "2026-07-23",
       "open": 44.39,
       "high": 46.45,
@@ -3039,11 +3055,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2916518
+      "open": 6.47,
+      "high": 6.8,
+      "low": 5.82,
+      "close": 5.91,
+      "volume": 2985500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 5.75,
+      "high": 5.98,
+      "low": 5.6,
+      "close": 5.94,
+      "volume": 2048600
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "SELF",
   "ticker": "SELF",
-  "last_updated": "2026-08-18 12:15:31",
+  "last_updated": "2026-08-19 12:14:51",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 3.96,
-      "high": 3.98,
-      "low": 3.89,
-      "close": 3.96,
-      "volume": 32600
-    },
     {
       "date": "2021-08-19",
       "open": 3.91,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 22020
+      "open": 5.28,
+      "high": 5.35,
+      "low": 5.27,
+      "close": 5.27,
+      "volume": 22200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 5.23,
+      "high": 5.44,
+      "low": 5.21,
+      "close": 5.44,
+      "volume": 32500
     }
   ]
 }

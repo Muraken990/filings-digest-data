@@ -1,9 +1,9 @@
 {
   "code": "RAY",
   "ticker": "RAY",
-  "last_updated": "2026-08-18 12:09:29",
+  "last_updated": "2026-08-19 12:08:54",
   "period": "5y",
-  "data_points": 562,
+  "data_points": 563,
   "data": [
     {
       "date": "2024-05-15",
@@ -4495,11 +4495,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4226
+      "open": 2.84,
+      "high": 2.85,
+      "low": 2.66,
+      "close": 2.7,
+      "volume": 4200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.66,
+      "high": 2.76,
+      "low": 2.65,
+      "close": 2.75,
+      "volume": 2900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "RPGL",
   "ticker": "RPGL",
-  "last_updated": "2026-08-18 12:12:52",
+  "last_updated": "2026-08-19 12:12:16",
   "period": "5y",
-  "data_points": 210,
+  "data_points": 212,
   "data": [
     {
       "date": "2025-10-14",
@@ -1598,6 +1598,14 @@
       "volume": 37400
     },
     {
+      "date": "2026-07-31",
+      "open": 1.96,
+      "high": 1.99,
+      "low": 1.87,
+      "close": 1.87,
+      "volume": 25100
+    },
+    {
       "date": "2026-08-03",
       "open": 1.98,
       "high": 1.99,
@@ -1679,11 +1687,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3858290
+      "open": 1.92,
+      "high": 2.92,
+      "low": 1.92,
+      "close": 2.2,
+      "volume": 3922500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.21,
+      "high": 2.26,
+      "low": 2.08,
+      "close": 2.19,
+      "volume": 87200
     }
   ]
 }

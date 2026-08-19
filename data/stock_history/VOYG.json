@@ -1,9 +1,9 @@
 {
   "code": "VOYG",
   "ticker": "VOYG",
-  "last_updated": "2026-08-18 12:31:04",
+  "last_updated": "2026-08-19 12:30:16",
   "period": "5y",
-  "data_points": 296,
+  "data_points": 298,
   "data": [
     {
       "date": "2025-06-11",
@@ -2286,6 +2286,14 @@
       "volume": 1235700
     },
     {
+      "date": "2026-07-31",
+      "open": 24.12,
+      "high": 24.75,
+      "low": 23.07,
+      "close": 24.53,
+      "volume": 895900
+    },
+    {
       "date": "2026-08-03",
       "open": 24.5,
       "high": 28.29,
@@ -2367,11 +2375,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1376065
+      "open": 42.12,
+      "high": 44.14,
+      "low": 41.63,
+      "close": 43.98,
+      "volume": 1665100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 41.83,
+      "high": 43.49,
+      "low": 41.53,
+      "close": 42.24,
+      "volume": 1926900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SKK",
   "ticker": "SKK",
-  "last_updated": "2026-08-18 12:17:13",
+  "last_updated": "2026-08-19 12:16:33",
   "period": "5y",
-  "data_points": 462,
+  "data_points": 463,
   "data": [
     {
       "date": "2024-10-08",
@@ -3695,11 +3695,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 972
+      "open": 4.71,
+      "high": 4.71,
+      "low": 4.56,
+      "close": 4.56,
+      "volume": 1000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.27,
+      "high": 4.27,
+      "low": 4.2,
+      "close": 4.2,
+      "volume": 1400
     }
   ]
 }

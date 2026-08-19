@@ -1,9 +1,9 @@
 {
   "code": "ZDAI",
   "ticker": "ZDAI",
-  "last_updated": "2026-08-18 12:36:14",
+  "last_updated": "2026-08-19 12:35:26",
   "period": "5y",
-  "data_points": 517,
+  "data_points": 520,
   "data": [
     {
       "date": "2024-07-23",
@@ -4006,6 +4006,14 @@
       "volume": 441000
     },
     {
+      "date": "2026-07-22",
+      "open": 1.72,
+      "high": 1.86,
+      "low": 1.66,
+      "close": 1.78,
+      "volume": 24900
+    },
+    {
       "date": "2026-07-23",
       "open": 1.77,
       "high": 1.82,
@@ -4052,6 +4060,14 @@
       "low": 1.54,
       "close": 1.64,
       "volume": 12700
+    },
+    {
+      "date": "2026-07-31",
+      "open": 1.55,
+      "high": 1.66,
+      "low": 1.55,
+      "close": 1.65,
+      "volume": 5600
     },
     {
       "date": "2026-08-03",
@@ -4135,11 +4151,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 15612
+      "open": 1.63,
+      "high": 1.69,
+      "low": 1.57,
+      "close": 1.69,
+      "volume": 16600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.67,
+      "high": 1.67,
+      "low": 1.57,
+      "close": 1.6,
+      "volume": 4400
     }
   ]
 }

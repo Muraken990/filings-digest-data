@@ -1,9 +1,9 @@
 {
   "code": "UZX",
   "ticker": "UZX",
-  "last_updated": "2026-08-18 12:29:20",
+  "last_updated": "2026-08-19 12:28:32",
   "period": "5y",
-  "data_points": 665,
+  "data_points": 666,
   "data": [
     {
       "date": "2023-12-19",
@@ -5319,11 +5319,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 712100
+      "open": 0.11,
+      "high": 0.12,
+      "low": 0.11,
+      "close": 0.12,
+      "volume": 746600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.12,
+      "high": 0.12,
+      "low": 0.11,
+      "close": 0.12,
+      "volume": 504600
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "UTMD",
   "ticker": "UTMD",
-  "last_updated": "2026-08-18 12:28:34",
+  "last_updated": "2026-08-19 12:27:45",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 79.99,
-      "high": 80.04,
-      "low": 78.61,
-      "close": 79.39,
-      "volume": 5500
-    },
     {
       "date": "2021-08-19",
       "open": 78.54,
@@ -335,7 +327,7 @@
     },
     {
       "date": "2021-10-15",
-      "open": 82.09,
+      "open": 82.1,
       "high": 82.59,
       "low": 81.89,
       "close": 81.99,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 27964
+      "open": 71.07,
+      "high": 72.46,
+      "low": 70.02,
+      "close": 70.21,
+      "volume": 28000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 70.8,
+      "high": 72.45,
+      "low": 70.8,
+      "close": 72.0,
+      "volume": 46800
     }
   ]
 }

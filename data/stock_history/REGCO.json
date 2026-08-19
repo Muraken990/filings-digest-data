@@ -1,9 +1,9 @@
 {
   "code": "REGCO",
   "ticker": "REGCO",
-  "last_updated": "2026-08-18 12:10:21",
+  "last_updated": "2026-08-19 12:09:45",
   "period": "5y",
-  "data_points": 749,
+  "data_points": 747,
   "data": [
     {
       "date": "2023-08-22",
@@ -5838,22 +5838,6 @@
       "volume": 300
     },
     {
-      "date": "2026-07-21",
-      "open": 21.92,
-      "high": 22.07,
-      "low": 21.92,
-      "close": 21.98,
-      "volume": 3700
-    },
-    {
-      "date": "2026-07-22",
-      "open": 21.75,
-      "high": 22.06,
-      "low": 21.75,
-      "close": 22.06,
-      "volume": 2500
-    },
-    {
       "date": "2026-07-23",
       "open": 21.9,
       "high": 21.94,
@@ -5900,14 +5884,6 @@
       "low": 21.65,
       "close": 21.66,
       "volume": 3300
-    },
-    {
-      "date": "2026-07-31",
-      "open": 21.66,
-      "high": 21.66,
-      "low": 21.6,
-      "close": 21.64,
-      "volume": 9300
     },
     {
       "date": "2026-08-03",
@@ -5991,11 +5967,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1518
+      "open": 21.6,
+      "high": 22.18,
+      "low": 21.6,
+      "close": 21.88,
+      "volume": 1500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 21.88,
+      "high": 21.88,
+      "low": 21.88,
+      "close": 21.88,
+      "volume": 0
     }
   ]
 }

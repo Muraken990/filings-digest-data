@@ -1,9 +1,9 @@
 {
   "code": "RCT",
   "ticker": "RCT",
-  "last_updated": "2026-08-18 12:10:17",
+  "last_updated": "2026-08-19 12:09:42",
   "period": "5y",
-  "data_points": 353,
+  "data_points": 354,
   "data": [
     {
       "date": "2025-03-21",
@@ -2823,11 +2823,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3908260
+      "open": 0.23,
+      "high": 0.28,
+      "low": 0.2,
+      "close": 0.22,
+      "volume": 3966500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.22,
+      "high": 0.22,
+      "low": 0.2,
+      "close": 0.2,
+      "volume": 580100
     }
   ]
 }

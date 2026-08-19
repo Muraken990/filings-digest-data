@@ -1,18 +1,10 @@
 {
   "code": "VNRX",
   "ticker": "VNRX",
-  "last_updated": "2026-08-18 12:31:03",
+  "last_updated": "2026-08-19 12:30:16",
   "period": "5y",
   "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 60.8,
-      "high": 63.6,
-      "low": 60.6,
-      "close": 62.2,
-      "volume": 7710
-    },
     {
       "date": "2021-08-19",
       "open": 61.4,
@@ -10023,11 +10015,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 449980
+      "open": 0.53,
+      "high": 0.56,
+      "low": 0.5,
+      "close": 0.5,
+      "volume": 453500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.51,
+      "high": 0.53,
+      "low": 0.47,
+      "close": 0.47,
+      "volume": 539300
     }
   ]
 }

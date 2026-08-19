@@ -1,9 +1,9 @@
 {
   "code": "SLMT",
   "ticker": "SLMT",
-  "last_updated": "2026-08-18 12:17:16",
+  "last_updated": "2026-08-19 12:16:37",
   "period": "5y",
-  "data_points": 889,
+  "data_points": 890,
   "data": [
     {
       "date": "2023-01-27",
@@ -7111,11 +7111,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 31255
+      "open": 3.99,
+      "high": 4.13,
+      "low": 3.91,
+      "close": 3.97,
+      "volume": 31400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 3.96,
+      "high": 4.03,
+      "low": 3.81,
+      "close": 3.99,
+      "volume": 14500
     }
   ]
 }

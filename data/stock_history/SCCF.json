@@ -1,9 +1,9 @@
 {
   "code": "SCCF",
   "ticker": "SCCF",
-  "last_updated": "2026-08-18 12:14:39",
+  "last_updated": "2026-08-19 12:14:01",
   "period": "5y",
-  "data_points": 1066,
+  "data_points": 1067,
   "data": [
     {
       "date": "2022-05-12",
@@ -8527,11 +8527,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 19713
+      "open": 24.45,
+      "high": 24.6,
+      "low": 24.42,
+      "close": 24.53,
+      "volume": 19700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 24.53,
+      "high": 24.53,
+      "low": 24.53,
+      "close": 24.53,
+      "volume": 0
     }
   ]
 }

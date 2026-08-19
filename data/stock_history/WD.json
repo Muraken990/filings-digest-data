@@ -1,17 +1,17 @@
 {
   "code": "WD",
   "ticker": "WD",
-  "last_updated": "2026-08-18 12:31:59",
+  "last_updated": "2026-08-19 12:31:12",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-18",
-      "open": 84.76,
-      "high": 85.43,
-      "low": 84.1,
-      "close": 84.42,
-      "volume": 92700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-19",
@@ -3079,7 +3079,7 @@
     },
     {
       "date": "2023-02-28",
-      "open": 77.74,
+      "open": 77.73,
       "high": 78.63,
       "low": 77.17,
       "close": 77.22,
@@ -9878,22 +9878,6 @@
       "volume": 217000
     },
     {
-      "date": "2026-07-21",
-      "open": 48.24,
-      "high": 48.99,
-      "low": 48.0,
-      "close": 48.08,
-      "volume": 224500
-    },
-    {
-      "date": "2026-07-22",
-      "open": 47.49,
-      "high": 48.53,
-      "low": 46.64,
-      "close": 47.73,
-      "volume": 297100
-    },
-    {
       "date": "2026-07-23",
       "open": 46.98,
       "high": 47.11,
@@ -9940,14 +9924,6 @@
       "low": 48.21,
       "close": 49.07,
       "volume": 241000
-    },
-    {
-      "date": "2026-07-31",
-      "open": 49.15,
-      "high": 49.8,
-      "low": 48.27,
-      "close": 49.69,
-      "volume": 274600
     },
     {
       "date": "2026-08-03",
@@ -10031,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 343835
+      "open": 42.87,
+      "high": 42.87,
+      "low": 40.38,
+      "close": 40.7,
+      "volume": 427400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 40.32,
+      "high": 40.54,
+      "low": 39.49,
+      "close": 39.71,
+      "volume": 366000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SAIL",
   "ticker": "SAIL",
-  "last_updated": "2026-08-18 12:13:48",
+  "last_updated": "2026-08-19 12:13:11",
   "period": "5y",
-  "data_points": 376,
+  "data_points": 379,
   "data": [
     {
       "date": "2025-02-13",
@@ -2870,6 +2870,22 @@
       "volume": 3909600
     },
     {
+      "date": "2026-07-21",
+      "open": 15.37,
+      "high": 15.37,
+      "low": 14.63,
+      "close": 14.77,
+      "volume": 2634500
+    },
+    {
+      "date": "2026-07-22",
+      "open": 14.92,
+      "high": 14.92,
+      "low": 14.26,
+      "close": 14.78,
+      "volume": 3362600
+    },
+    {
       "date": "2026-07-23",
       "open": 15.01,
       "high": 15.17,
@@ -3007,11 +3023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2156671
+      "open": 19.29,
+      "high": 19.4,
+      "low": 18.57,
+      "close": 18.59,
+      "volume": 2209000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 18.64,
+      "high": 19.43,
+      "low": 18.64,
+      "close": 19.2,
+      "volume": 2395900
     }
   ]
 }

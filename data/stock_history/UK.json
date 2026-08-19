@@ -1,18 +1,10 @@
 {
   "code": "UK",
   "ticker": "UK",
-  "last_updated": "2026-08-18 12:27:41",
+  "last_updated": "2026-08-19 12:26:52",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 2640.0,
-      "high": 2640.0,
-      "low": 2376.0,
-      "close": 2424.0,
-      "volume": 134
-    },
     {
       "date": "2021-08-19",
       "open": 2424.0,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 31508
+      "open": 2.24,
+      "high": 2.34,
+      "low": 2.22,
+      "close": 2.3,
+      "volume": 31500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.35,
+      "high": 2.4,
+      "low": 2.22,
+      "close": 2.23,
+      "volume": 16100
     }
   ]
 }

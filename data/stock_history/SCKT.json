@@ -1,18 +1,10 @@
 {
   "code": "SCKT",
   "ticker": "SCKT",
-  "last_updated": "2026-08-18 12:14:40",
+  "last_updated": "2026-08-19 12:14:02",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 6.23,
-      "high": 6.41,
-      "low": 6.09,
-      "close": 6.11,
-      "volume": 61700
-    },
     {
       "date": "2021-08-19",
       "open": 6.02,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1236922
+      "open": 1.13,
+      "high": 1.23,
+      "low": 0.86,
+      "close": 0.92,
+      "volume": 1256900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.82,
+      "high": 0.83,
+      "low": 0.69,
+      "close": 0.73,
+      "volume": 874800
     }
   ]
 }

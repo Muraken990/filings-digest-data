@@ -1,9 +1,9 @@
 {
   "code": "STUB",
   "ticker": "STUB",
-  "last_updated": "2026-08-18 12:20:47",
+  "last_updated": "2026-08-19 12:20:03",
   "period": "5y",
-  "data_points": 230,
+  "data_points": 228,
   "data": [
     {
       "date": "2025-09-17",
@@ -1686,22 +1686,6 @@
       "volume": 5717400
     },
     {
-      "date": "2026-07-21",
-      "open": 9.18,
-      "high": 9.45,
-      "low": 9.04,
-      "close": 9.15,
-      "volume": 3335000
-    },
-    {
-      "date": "2026-07-22",
-      "open": 9.09,
-      "high": 9.28,
-      "low": 8.62,
-      "close": 8.68,
-      "volume": 4292400
-    },
-    {
       "date": "2026-07-23",
       "open": 8.58,
       "high": 8.68,
@@ -1748,14 +1732,6 @@
       "low": 8.38,
       "close": 8.52,
       "volume": 4532800
-    },
-    {
-      "date": "2026-07-31",
-      "open": 8.63,
-      "high": 8.65,
-      "low": 8.3,
-      "close": 8.44,
-      "volume": 3447100
     },
     {
       "date": "2026-08-03",
@@ -1839,11 +1815,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10941100
+      "open": 7.91,
+      "high": 8.03,
+      "low": 7.07,
+      "close": 7.12,
+      "volume": 11648600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 7.01,
+      "high": 7.14,
+      "low": 7.0,
+      "close": 7.13,
+      "volume": 6801500
     }
   ]
 }

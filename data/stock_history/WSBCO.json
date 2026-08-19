@@ -1,9 +1,9 @@
 {
   "code": "WSBCO",
   "ticker": "WSBCO",
-  "last_updated": "2026-08-18 12:33:41",
+  "last_updated": "2026-08-19 12:32:54",
   "period": "5y",
-  "data_points": 231,
+  "data_points": 232,
   "data": [
     {
       "date": "2025-09-11",
@@ -1847,11 +1847,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 74698
+      "open": 25.67,
+      "high": 25.74,
+      "low": 25.67,
+      "close": 25.74,
+      "volume": 145400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.72,
+      "high": 25.72,
+      "low": 25.63,
+      "close": 25.7,
+      "volume": 3000
     }
   ]
 }

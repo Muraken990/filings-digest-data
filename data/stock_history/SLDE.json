@@ -1,9 +1,9 @@
 {
   "code": "SLDE",
   "ticker": "SLDE",
-  "last_updated": "2026-08-18 12:17:15",
+  "last_updated": "2026-08-19 12:16:35",
   "period": "5y",
-  "data_points": 289,
+  "data_points": 290,
   "data": [
     {
       "date": "2025-06-18",
@@ -2311,11 +2311,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 842031
+      "open": 21.81,
+      "high": 22.25,
+      "low": 21.51,
+      "close": 21.6,
+      "volume": 915500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 21.65,
+      "high": 22.42,
+      "low": 21.65,
+      "close": 22.26,
+      "volume": 613300
     }
   ]
 }

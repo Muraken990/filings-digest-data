@@ -1,9 +1,9 @@
 {
   "code": "RWAYL",
   "ticker": "RWAYL",
-  "last_updated": "2026-08-18 12:12:58",
+  "last_updated": "2026-08-19 12:12:21",
   "period": "5y",
-  "data_points": 1012,
+  "data_points": 1013,
   "data": [
     {
       "date": "2022-08-01",
@@ -8095,11 +8095,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1182
+      "open": 25.13,
+      "high": 25.13,
+      "low": 25.09,
+      "close": 25.12,
+      "volume": 1500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.13,
+      "high": 25.13,
+      "low": 25.11,
+      "close": 25.11,
+      "volume": 5400
     }
   ]
 }

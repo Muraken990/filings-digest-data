@@ -1,18 +1,10 @@
 {
   "code": "RNTX",
   "ticker": "RNTX",
-  "last_updated": "2026-08-18 12:12:05",
+  "last_updated": "2026-08-19 12:11:29",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 20.0,
-      "high": 21.4,
-      "low": 20.0,
-      "close": 21.0,
-      "volume": 24855
-    },
     {
       "date": "2021-08-19",
       "open": 20.4,
@@ -9886,6 +9878,14 @@
       "volume": 594500
     },
     {
+      "date": "2026-07-22",
+      "open": 0.91,
+      "high": 0.93,
+      "low": 0.83,
+      "close": 0.84,
+      "volume": 303200
+    },
+    {
       "date": "2026-07-23",
       "open": 0.85,
       "high": 0.87,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 294297
+      "open": 0.82,
+      "high": 0.86,
+      "low": 0.77,
+      "close": 0.84,
+      "volume": 296600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.85,
+      "high": 0.88,
+      "low": 0.77,
+      "close": 0.77,
+      "volume": 524600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "TOP",
   "ticker": "TOP",
-  "last_updated": "2026-08-18 12:25:04",
+  "last_updated": "2026-08-19 12:24:16",
   "period": "5y",
-  "data_points": 1054,
+  "data_points": 1055,
   "data": [
     {
       "date": "2022-06-01",
@@ -8431,11 +8431,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 78944
+      "open": 11.0,
+      "high": 11.8,
+      "low": 10.8,
+      "close": 11.37,
+      "volume": 78900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 11.41,
+      "high": 12.84,
+      "low": 11.39,
+      "close": 12.46,
+      "volume": 93900
     }
   ]
 }

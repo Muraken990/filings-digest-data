@@ -1,18 +1,10 @@
 {
   "code": "PTN",
   "ticker": "PTN",
-  "last_updated": "2026-08-18 12:07:48",
+  "last_updated": "2026-08-19 12:07:14",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 562.5,
-      "high": 625.0,
-      "low": 550.0,
-      "close": 612.5,
-      "volume": 694
-    },
     {
       "date": "2021-08-19",
       "open": 612.5,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 11823
+      "open": 9.61,
+      "high": 10.38,
+      "low": 9.5,
+      "close": 9.95,
+      "volume": 11900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.66,
+      "high": 11.13,
+      "low": 10.27,
+      "close": 10.51,
+      "volume": 22500
     }
   ]
 }

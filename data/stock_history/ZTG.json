@@ -1,9 +1,9 @@
 {
   "code": "ZTG",
   "ticker": "ZTG",
-  "last_updated": "2026-08-18 12:37:03",
+  "last_updated": "2026-08-19 12:36:15",
   "period": "5y",
-  "data_points": 234,
+  "data_points": 235,
   "data": [
     {
       "date": "2025-09-09",
@@ -1871,11 +1871,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2021585
+      "open": 9.82,
+      "high": 9.97,
+      "low": 1.9,
+      "close": 3.27,
+      "volume": 2060000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.68,
+      "high": 2.68,
+      "low": 1.92,
+      "close": 1.94,
+      "volume": 980700
     }
   ]
 }

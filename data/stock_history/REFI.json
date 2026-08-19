@@ -1,9 +1,9 @@
 {
   "code": "REFI",
   "ticker": "REFI",
-  "last_updated": "2026-08-18 12:10:20",
+  "last_updated": "2026-08-19 12:09:45",
   "period": "5y",
-  "data_points": 1173,
+  "data_points": 1174,
   "data": [
     {
       "date": "2021-12-08",
@@ -9383,11 +9383,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 211020
+      "open": 10.18,
+      "high": 10.42,
+      "low": 10.13,
+      "close": 10.27,
+      "volume": 211400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.27,
+      "high": 10.45,
+      "low": 10.27,
+      "close": 10.37,
+      "volume": 184600
     }
   ]
 }

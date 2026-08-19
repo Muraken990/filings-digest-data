@@ -1,9 +1,9 @@
 {
   "code": "ZBIO",
   "ticker": "ZBIO",
-  "last_updated": "2026-08-18 12:36:13",
+  "last_updated": "2026-08-19 12:35:26",
   "period": "5y",
-  "data_points": 479,
+  "data_points": 480,
   "data": [
     {
       "date": "2024-09-13",
@@ -3831,11 +3831,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 482012
+      "open": 29.95,
+      "high": 30.81,
+      "low": 28.72,
+      "close": 30.5,
+      "volume": 490100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 30.22,
+      "high": 31.96,
+      "low": 30.22,
+      "close": 31.91,
+      "volume": 659800
     }
   ]
 }

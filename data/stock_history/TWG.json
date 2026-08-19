@@ -1,9 +1,9 @@
 {
   "code": "TWG",
   "ticker": "TWG",
-  "last_updated": "2026-08-18 12:26:48",
+  "last_updated": "2026-08-19 12:26:00",
   "period": "5y",
-  "data_points": 582,
+  "data_points": 583,
   "data": [
     {
       "date": "2024-04-17",
@@ -4655,11 +4655,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 36225
+      "open": 1.16,
+      "high": 1.17,
+      "low": 1.12,
+      "close": 1.12,
+      "volume": 36400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.14,
+      "high": 1.17,
+      "low": 1.04,
+      "close": 1.04,
+      "volume": 33300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "TJGC",
   "ticker": "TJGC",
-  "last_updated": "2026-08-18 12:24:12",
+  "last_updated": "2026-08-19 12:23:25",
   "period": "5y",
-  "data_points": 391,
+  "data_points": 392,
   "data": [
     {
       "date": "2025-01-22",
@@ -3127,11 +3127,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4389237
+      "open": 4.07,
+      "high": 4.23,
+      "low": 3.9,
+      "close": 4.01,
+      "volume": 4390400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 3.9,
+      "high": 5.15,
+      "low": 3.65,
+      "close": 4.45,
+      "volume": 882400
     }
   ]
 }

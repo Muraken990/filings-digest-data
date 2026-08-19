@@ -1,18 +1,10 @@
 {
   "code": "SCNX",
   "ticker": "SCNX",
-  "last_updated": "2026-08-18 12:14:41",
+  "last_updated": "2026-08-19 12:14:03",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 44.76,
-      "high": 47.66,
-      "low": 42.98,
-      "close": 45.69,
-      "volume": 8373
-    },
     {
       "date": "2021-08-19",
       "open": 45.32,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 867874
+      "open": 0.45,
+      "high": 0.48,
+      "low": 0.44,
+      "close": 0.47,
+      "volume": 894300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.46,
+      "high": 0.48,
+      "low": 0.44,
+      "close": 0.46,
+      "volume": 548300
     }
   ]
 }

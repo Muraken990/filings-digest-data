@@ -1,9 +1,9 @@
 {
   "code": "SUPX",
   "ticker": "SUPX",
-  "last_updated": "2026-08-18 12:21:35",
+  "last_updated": "2026-08-19 12:20:50",
   "period": "5y",
-  "data_points": 583,
+  "data_points": 584,
   "data": [
     {
       "date": "2024-04-17",
@@ -4663,11 +4663,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 107280
+      "open": 6.99,
+      "high": 7.1,
+      "low": 6.72,
+      "close": 6.74,
+      "volume": 110000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 6.64,
+      "high": 6.7,
+      "low": 6.4,
+      "close": 6.55,
+      "volume": 118200
     }
   ]
 }

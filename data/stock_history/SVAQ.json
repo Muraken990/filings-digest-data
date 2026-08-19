@@ -1,9 +1,9 @@
 {
   "code": "SVAQ",
   "ticker": "SVAQ",
-  "last_updated": "2026-08-18 12:21:35",
+  "last_updated": "2026-08-19 12:20:51",
   "period": "5y",
-  "data_points": 125,
+  "data_points": 126,
   "data": [
     {
       "date": "2026-02-12",
@@ -999,11 +999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 100020
+      "open": 10.04,
+      "high": 10.05,
+      "low": 10.04,
+      "close": 10.05,
+      "volume": 100000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.05,
+      "high": 10.06,
+      "low": 10.04,
+      "close": 10.04,
+      "volume": 7900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "TPGXL",
   "ticker": "TPGXL",
-  "last_updated": "2026-08-18 12:25:05",
+  "last_updated": "2026-08-19 12:24:18",
   "period": "5y",
-  "data_points": 612,
+  "data_points": 613,
   "data": [
     {
       "date": "2024-03-05",
@@ -4895,11 +4895,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 31324
+      "open": 22.92,
+      "high": 23.05,
+      "low": 22.55,
+      "close": 22.68,
+      "volume": 31300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 22.58,
+      "high": 22.7,
+      "low": 22.39,
+      "close": 22.59,
+      "volume": 11000
     }
   ]
 }

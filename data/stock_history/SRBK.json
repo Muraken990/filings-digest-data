@@ -1,9 +1,9 @@
 {
   "code": "SRBK",
   "ticker": "SRBK",
-  "last_updated": "2026-08-18 12:19:53",
+  "last_updated": "2026-08-19 12:19:08",
   "period": "5y",
-  "data_points": 726,
+  "data_points": 727,
   "data": [
     {
       "date": "2023-09-20",
@@ -5807,11 +5807,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8823
+      "open": 20.03,
+      "high": 20.18,
+      "low": 19.87,
+      "close": 20.04,
+      "volume": 11400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 19.91,
+      "high": 20.23,
+      "low": 19.85,
+      "close": 20.23,
+      "volume": 27600
     }
   ]
 }

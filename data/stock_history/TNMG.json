@@ -1,9 +1,9 @@
 {
   "code": "TNMG",
   "ticker": "TNMG",
-  "last_updated": "2026-08-18 12:25:03",
+  "last_updated": "2026-08-19 12:24:15",
   "period": "5y",
-  "data_points": 1124,
+  "data_points": 1125,
   "data": [
     {
       "date": "2022-02-22",
@@ -8991,11 +8991,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 164013
+      "open": 0.4,
+      "high": 0.41,
+      "low": 0.38,
+      "close": 0.39,
+      "volume": 164800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.38,
+      "high": 0.39,
+      "low": 0.38,
+      "close": 0.38,
+      "volume": 189800
     }
   ]
 }

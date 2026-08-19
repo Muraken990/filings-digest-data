@@ -1,9 +1,9 @@
 {
   "code": "WBI",
   "ticker": "WBI",
-  "last_updated": "2026-08-18 12:31:58",
+  "last_updated": "2026-08-19 12:31:11",
   "period": "5y",
-  "data_points": 227,
+  "data_points": 228,
   "data": [
     {
       "date": "2025-09-17",
@@ -1815,11 +1815,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 320899
+      "open": 31.71,
+      "high": 31.82,
+      "low": 31.26,
+      "close": 31.78,
+      "volume": 624800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 32.05,
+      "high": 32.2,
+      "low": 31.43,
+      "close": 31.94,
+      "volume": 585500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "VNTG",
   "ticker": "VNTG",
-  "last_updated": "2026-08-18 12:31:04",
+  "last_updated": "2026-08-19 12:30:16",
   "period": "5y",
-  "data_points": 297,
+  "data_points": 298,
   "data": [
     {
       "date": "2025-06-11",
@@ -2375,11 +2375,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5358
+      "open": 0.66,
+      "high": 0.66,
+      "low": 0.64,
+      "close": 0.64,
+      "volume": 5400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.64,
+      "high": 0.64,
+      "low": 0.61,
+      "close": 0.64,
+      "volume": 6100
     }
   ]
 }

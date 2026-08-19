@@ -1,9 +1,9 @@
 {
   "code": "YOUL",
   "ticker": "YOUL",
-  "last_updated": "2026-08-18 12:36:12",
+  "last_updated": "2026-08-19 12:35:24",
   "period": "5y",
-  "data_points": 275,
+  "data_points": 279,
   "data": [
     {
       "date": "2025-07-10",
@@ -2070,6 +2070,22 @@
       "volume": 4200100
     },
     {
+      "date": "2026-07-21",
+      "open": 0.56,
+      "high": 0.64,
+      "low": 0.55,
+      "close": 0.61,
+      "volume": 441600
+    },
+    {
+      "date": "2026-07-22",
+      "open": 0.57,
+      "high": 0.64,
+      "low": 0.55,
+      "close": 0.6,
+      "volume": 156000
+    },
+    {
       "date": "2026-07-23",
       "open": 0.57,
       "high": 0.92,
@@ -2116,6 +2132,14 @@
       "low": 0.35,
       "close": 0.42,
       "volume": 115900
+    },
+    {
+      "date": "2026-07-31",
+      "open": 0.42,
+      "high": 0.46,
+      "low": 0.4,
+      "close": 0.42,
+      "volume": 84400
     },
     {
       "date": "2026-08-03",
@@ -2199,11 +2223,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 119884
+      "open": 0.47,
+      "high": 0.54,
+      "low": 0.46,
+      "close": 0.53,
+      "volume": 120200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.5,
+      "high": 0.53,
+      "low": 0.48,
+      "close": 0.51,
+      "volume": 72500
     }
   ]
 }

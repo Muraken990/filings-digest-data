@@ -1,9 +1,9 @@
 {
   "code": "SARO",
   "ticker": "SARO",
-  "last_updated": "2026-08-18 12:13:50",
+  "last_updated": "2026-08-19 12:13:12",
   "period": "5y",
-  "data_points": 469,
+  "data_points": 470,
   "data": [
     {
       "date": "2024-10-02",
@@ -3751,11 +3751,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2452858
+      "open": 27.78,
+      "high": 27.86,
+      "low": 27.33,
+      "close": 27.39,
+      "volume": 2453400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 27.13,
+      "high": 27.33,
+      "low": 26.65,
+      "close": 26.99,
+      "volume": 2583100
     }
   ]
 }

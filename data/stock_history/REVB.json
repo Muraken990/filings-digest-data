@@ -1,18 +1,10 @@
 {
   "code": "REVB",
   "ticker": "REVB",
-  "last_updated": "2026-08-18 12:10:23",
+  "last_updated": "2026-08-19 12:09:47",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 2023056.0,
-      "high": 2023056.0,
-      "low": 2023056.0,
-      "close": 2023056.0,
-      "volume": 0
-    },
     {
       "date": "2021-08-19",
       "open": 2026080.0,
@@ -9878,22 +9870,6 @@
       "volume": 22200
     },
     {
-      "date": "2026-07-21",
-      "open": 1.17,
-      "high": 1.21,
-      "low": 1.1,
-      "close": 1.15,
-      "volume": 51800
-    },
-    {
-      "date": "2026-07-22",
-      "open": 1.15,
-      "high": 1.16,
-      "low": 1.11,
-      "close": 1.15,
-      "volume": 14300
-    },
-    {
       "date": "2026-07-23",
       "open": 1.12,
       "high": 1.12,
@@ -10031,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 61447
+      "open": 1.09,
+      "high": 1.15,
+      "low": 1.05,
+      "close": 1.15,
+      "volume": 66900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.14,
+      "high": 1.16,
+      "low": 1.07,
+      "close": 1.11,
+      "volume": 65200
     }
   ]
 }

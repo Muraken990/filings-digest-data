@@ -1,18 +1,10 @@
 {
   "code": "WAFU",
   "ticker": "WAFU",
-  "last_updated": "2026-08-18 12:31:57",
+  "last_updated": "2026-08-19 12:31:09",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 5.61,
-      "high": 5.79,
-      "low": 5.61,
-      "close": 5.73,
-      "volume": 59400
-    },
     {
       "date": "2021-08-19",
       "open": 5.65,
@@ -9878,22 +9870,6 @@
       "volume": 7200
     },
     {
-      "date": "2026-07-21",
-      "open": 1.54,
-      "high": 1.59,
-      "low": 1.54,
-      "close": 1.59,
-      "volume": 8700
-    },
-    {
-      "date": "2026-07-22",
-      "open": 1.52,
-      "high": 1.65,
-      "low": 1.52,
-      "close": 1.65,
-      "volume": 2600
-    },
-    {
       "date": "2026-07-23",
       "open": 1.58,
       "high": 1.62,
@@ -9940,14 +9916,6 @@
       "low": 1.48,
       "close": 1.53,
       "volume": 17100
-    },
-    {
-      "date": "2026-07-31",
-      "open": 1.5,
-      "high": 1.55,
-      "low": 1.46,
-      "close": 1.49,
-      "volume": 6800
     },
     {
       "date": "2026-08-03",
@@ -10031,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 96958
+      "open": 1.38,
+      "high": 1.45,
+      "low": 1.36,
+      "close": 1.37,
+      "volume": 126300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.36,
+      "high": 1.47,
+      "low": 1.33,
+      "close": 1.44,
+      "volume": 129500
     }
   ]
 }

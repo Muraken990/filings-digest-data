@@ -1,9 +1,9 @@
 {
   "code": "ZYBT",
   "ticker": "ZYBT",
-  "last_updated": "2026-08-18 12:37:04",
+  "last_updated": "2026-08-19 12:36:16",
   "period": "5y",
-  "data_points": 403,
+  "data_points": 404,
   "data": [
     {
       "date": "2025-01-07",
@@ -3223,11 +3223,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 110823
+      "open": 1.57,
+      "high": 1.58,
+      "low": 1.51,
+      "close": 1.52,
+      "volume": 113500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.52,
+      "high": 1.63,
+      "low": 1.5,
+      "close": 1.53,
+      "volume": 105500
     }
   ]
 }

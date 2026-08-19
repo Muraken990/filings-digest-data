@@ -1,9 +1,9 @@
 {
   "code": "TGHL",
   "ticker": "TGHL",
-  "last_updated": "2026-08-18 12:23:24",
+  "last_updated": "2026-08-19 12:22:36",
   "period": "5y",
-  "data_points": 243,
+  "data_points": 244,
   "data": [
     {
       "date": "2025-08-28",
@@ -1943,11 +1943,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 273194
+      "open": 1.03,
+      "high": 1.04,
+      "low": 0.92,
+      "close": 0.92,
+      "volume": 279200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.96,
+      "high": 0.97,
+      "low": 0.8,
+      "close": 0.86,
+      "volume": 457800
     }
   ]
 }

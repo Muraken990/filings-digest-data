@@ -1,9 +1,9 @@
 {
   "code": "PTHS",
   "ticker": "PTHS",
-  "last_updated": "2026-08-18 12:07:48",
+  "last_updated": "2026-08-19 12:07:14",
   "period": "5y",
-  "data_points": 626,
+  "data_points": 627,
   "data": [
     {
       "date": "2024-02-16",
@@ -5007,11 +5007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 29249
+      "open": 27.23,
+      "high": 28.06,
+      "low": 25.84,
+      "close": 25.9,
+      "volume": 29300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.69,
+      "high": 27.46,
+      "low": 25.69,
+      "close": 26.11,
+      "volume": 21200
     }
   ]
 }

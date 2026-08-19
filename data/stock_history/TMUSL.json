@@ -1,9 +1,9 @@
 {
   "code": "TMUSL",
   "ticker": "TMUSL",
-  "last_updated": "2026-08-18 12:25:02",
+  "last_updated": "2026-08-19 12:24:14",
   "period": "5y",
-  "data_points": 256,
+  "data_points": 257,
   "data": [
     {
       "date": "2025-08-06",
@@ -2047,11 +2047,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 20687
+      "open": 22.79,
+      "high": 22.8,
+      "low": 22.71,
+      "close": 22.71,
+      "volume": 20600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 22.71,
+      "high": 22.71,
+      "low": 22.55,
+      "close": 22.64,
+      "volume": 33700
     }
   ]
 }

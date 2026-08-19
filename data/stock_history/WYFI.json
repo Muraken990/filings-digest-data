@@ -1,9 +1,9 @@
 {
   "code": "WYFI",
   "ticker": "WYFI",
-  "last_updated": "2026-08-18 12:34:31",
+  "last_updated": "2026-08-19 12:33:44",
   "period": "5y",
-  "data_points": 258,
+  "data_points": 259,
   "data": [
     {
       "date": "2025-08-07",
@@ -2063,11 +2063,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1694010
+      "open": 30.0,
+      "high": 32.23,
+      "low": 29.48,
+      "close": 30.35,
+      "volume": 1725800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 28.83,
+      "high": 29.9,
+      "low": 26.77,
+      "close": 27.07,
+      "volume": 4373100
     }
   ]
 }

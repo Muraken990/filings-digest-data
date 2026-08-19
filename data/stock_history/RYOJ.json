@@ -1,9 +1,9 @@
 {
   "code": "RYOJ",
   "ticker": "RYOJ",
-  "last_updated": "2026-08-18 12:13:45",
+  "last_updated": "2026-08-19 12:13:08",
   "period": "5y",
-  "data_points": 253,
+  "data_points": 254,
   "data": [
     {
       "date": "2025-08-14",
@@ -2023,11 +2023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10043
+      "open": 4.89,
+      "high": 4.89,
+      "low": 4.55,
+      "close": 4.56,
+      "volume": 10100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.54,
+      "high": 5.0,
+      "low": 4.5,
+      "close": 4.85,
+      "volume": 10600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "UFG",
   "ticker": "UFG",
-  "last_updated": "2026-08-18 12:27:39",
+  "last_updated": "2026-08-19 12:26:51",
   "period": "5y",
-  "data_points": 397,
+  "data_points": 398,
   "data": [
     {
       "date": "2025-01-14",
@@ -3175,11 +3175,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 200493
+      "open": 0.6,
+      "high": 0.6,
+      "low": 0.55,
+      "close": 0.59,
+      "volume": 200500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.6,
+      "high": 0.6,
+      "low": 0.58,
+      "close": 0.58,
+      "volume": 18100
     }
   ]
 }

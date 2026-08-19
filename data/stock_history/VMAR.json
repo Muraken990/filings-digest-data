@@ -1,18 +1,10 @@
 {
   "code": "VMAR",
   "ticker": "VMAR",
-  "last_updated": "2026-08-18 12:30:16",
+  "last_updated": "2026-08-19 12:29:29",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 3445200.0,
-      "high": 3445200.0,
-      "low": 3337200.0,
-      "close": 3375000.0,
-      "volume": 0
-    },
     {
       "date": "2021-08-19",
       "open": 3380400.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 646716
+      "open": 0.66,
+      "high": 0.73,
+      "low": 0.63,
+      "close": 0.71,
+      "volume": 659700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.72,
+      "high": 0.74,
+      "low": 0.68,
+      "close": 0.7,
+      "volume": 401800
     }
   ]
 }

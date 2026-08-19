@@ -1,18 +1,10 @@
 {
   "code": "SFBC",
   "ticker": "SFBC",
-  "last_updated": "2026-08-18 12:15:32",
+  "last_updated": "2026-08-19 12:14:53",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 40.32,
-      "high": 40.32,
-      "low": 40.32,
-      "close": 40.32,
-      "volume": 0
-    },
     {
       "date": "2021-08-19",
       "open": 39.38,
@@ -1056,7 +1048,7 @@
     {
       "date": "2022-02-24",
       "open": 36.02,
-      "high": 36.81,
+      "high": 36.8,
       "low": 36.02,
       "close": 36.23,
       "volume": 2200
@@ -2255,7 +2247,7 @@
     },
     {
       "date": "2022-09-29",
-      "open": 38.52,
+      "open": 38.53,
       "high": 39.39,
       "low": 38.34,
       "close": 38.62,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6168
+      "open": 45.47,
+      "high": 46.97,
+      "low": 45.44,
+      "close": 46.3,
+      "volume": 6500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 46.73,
+      "high": 47.28,
+      "low": 46.73,
+      "close": 47.01,
+      "volume": 5700
     }
   ]
 }

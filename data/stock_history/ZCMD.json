@@ -1,18 +1,10 @@
 {
   "code": "ZCMD",
   "ticker": "ZCMD",
-  "last_updated": "2026-08-18 12:36:14",
+  "last_updated": "2026-08-19 12:35:27",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 12424.8,
-      "high": 12499.2,
-      "low": 12127.2,
-      "close": 12350.4,
-      "volume": 118
-    },
     {
       "date": "2021-08-19",
       "open": 12424.8,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2128139
+      "open": 0.95,
+      "high": 1.07,
+      "low": 0.89,
+      "close": 1.06,
+      "volume": 2208300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.01,
+      "high": 1.03,
+      "low": 0.99,
+      "close": 1.01,
+      "volume": 526300
     }
   ]
 }

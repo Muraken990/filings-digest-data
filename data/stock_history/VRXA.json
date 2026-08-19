@@ -1,9 +1,9 @@
 {
   "code": "VRXA",
   "ticker": "VRXA",
-  "last_updated": "2026-08-18 12:31:07",
+  "last_updated": "2026-08-19 12:30:19",
   "period": "5y",
-  "data_points": 470,
+  "data_points": 471,
   "data": [
     {
       "date": "2024-09-30",
@@ -3759,11 +3759,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 47185
+      "open": 1.87,
+      "high": 1.88,
+      "low": 1.81,
+      "close": 1.86,
+      "volume": 47200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.85,
+      "high": 1.85,
+      "low": 1.76,
+      "close": 1.79,
+      "volume": 100800
     }
   ]
 }

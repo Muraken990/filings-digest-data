@@ -1,9 +1,9 @@
 {
   "code": "TGE",
   "ticker": "TGE",
-  "last_updated": "2026-08-18 12:23:23",
+  "last_updated": "2026-08-19 12:22:36",
   "period": "5y",
-  "data_points": 298,
+  "data_points": 299,
   "data": [
     {
       "date": "2025-06-05",
@@ -2383,11 +2383,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4636
+      "open": 0.9,
+      "high": 0.91,
+      "low": 0.9,
+      "close": 0.9,
+      "volume": 4700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.9,
+      "high": 0.9,
+      "low": 0.89,
+      "close": 0.89,
+      "volume": 19700
     }
   ]
 }

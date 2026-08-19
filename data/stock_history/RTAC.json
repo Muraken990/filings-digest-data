@@ -1,9 +1,9 @@
 {
   "code": "RTAC",
   "ticker": "RTAC",
-  "last_updated": "2026-08-18 12:12:55",
+  "last_updated": "2026-08-19 12:12:19",
   "period": "5y",
-  "data_points": 296,
+  "data_points": 297,
   "data": [
     {
       "date": "2025-06-09",
@@ -2367,11 +2367,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 21112
+      "open": 10.43,
+      "high": 10.44,
+      "low": 10.43,
+      "close": 10.44,
+      "volume": 1122300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.43,
+      "high": 10.46,
+      "low": 10.43,
+      "close": 10.43,
+      "volume": 58100
     }
   ]
 }

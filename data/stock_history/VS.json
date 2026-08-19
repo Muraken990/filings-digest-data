@@ -1,18 +1,10 @@
 {
   "code": "VS",
   "ticker": "VS",
-  "last_updated": "2026-08-18 12:31:07",
+  "last_updated": "2026-08-19 12:30:19",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 1036.8,
-      "high": 1068.02,
-      "low": 1036.8,
-      "close": 1056.0,
-      "volume": 55
-    },
     {
       "date": "2021-08-19",
       "open": 1044.0,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8709
+      "open": 1.39,
+      "high": 1.39,
+      "low": 1.24,
+      "close": 1.31,
+      "volume": 8700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.27,
+      "high": 1.38,
+      "low": 1.27,
+      "close": 1.38,
+      "volume": 5500
     }
   ]
 }

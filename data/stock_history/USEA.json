@@ -1,9 +1,9 @@
 {
   "code": "USEA",
   "ticker": "USEA",
-  "last_updated": "2026-08-18 12:28:32",
+  "last_updated": "2026-08-19 12:27:43",
   "period": "5y",
-  "data_points": 1031,
+  "data_points": 1032,
   "data": [
     {
       "date": "2022-07-06",
@@ -8247,11 +8247,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 149773
+      "open": 2.72,
+      "high": 2.91,
+      "low": 2.68,
+      "close": 2.7,
+      "volume": 150400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.66,
+      "high": 2.83,
+      "low": 2.66,
+      "close": 2.71,
+      "volume": 32100
     }
   ]
 }

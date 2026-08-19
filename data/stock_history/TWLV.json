@@ -1,9 +1,9 @@
 {
   "code": "TWLV",
   "ticker": "TWLV",
-  "last_updated": "2026-08-18 12:26:48",
+  "last_updated": "2026-08-19 12:26:00",
   "period": "5y",
-  "data_points": 151,
+  "data_points": 149,
   "data": [
     {
       "date": "2026-01-09",
@@ -1054,22 +1054,6 @@
       "volume": 27300
     },
     {
-      "date": "2026-07-21",
-      "open": 9.99,
-      "high": 9.99,
-      "low": 9.99,
-      "close": 9.99,
-      "volume": 0
-    },
-    {
-      "date": "2026-07-22",
-      "open": 9.99,
-      "high": 9.99,
-      "low": 9.99,
-      "close": 9.99,
-      "volume": 0
-    },
-    {
       "date": "2026-07-23",
       "open": 9.99,
       "high": 9.99,
@@ -1116,14 +1100,6 @@
       "low": 10.01,
       "close": 10.01,
       "volume": 75100
-    },
-    {
-      "date": "2026-07-31",
-      "open": 10.01,
-      "high": 10.01,
-      "low": 10.01,
-      "close": 10.01,
-      "volume": 0
     },
     {
       "date": "2026-08-03",
@@ -1207,11 +1183,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 150007
+      "open": 10.04,
+      "high": 10.05,
+      "low": 10.04,
+      "close": 10.05,
+      "volume": 150000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.05,
+      "high": 10.05,
+      "low": 10.05,
+      "close": 10.05,
+      "volume": 0
     }
   ]
 }

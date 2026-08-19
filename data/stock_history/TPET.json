@@ -1,9 +1,9 @@
 {
   "code": "TPET",
   "ticker": "TPET",
-  "last_updated": "2026-08-18 12:25:05",
+  "last_updated": "2026-08-19 12:24:18",
   "period": "5y",
-  "data_points": 836,
+  "data_points": 837,
   "data": [
     {
       "date": "2023-04-18",
@@ -6687,11 +6687,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1306604
+      "open": 0.25,
+      "high": 0.25,
+      "low": 0.24,
+      "close": 0.25,
+      "volume": 1338900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.26,
+      "high": 0.26,
+      "low": 0.25,
+      "close": 0.25,
+      "volume": 2912400
     }
   ]
 }

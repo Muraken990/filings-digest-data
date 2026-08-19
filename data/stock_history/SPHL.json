@@ -1,9 +1,9 @@
 {
   "code": "SPHL",
   "ticker": "SPHL",
-  "last_updated": "2026-08-18 12:19:03",
+  "last_updated": "2026-08-19 12:18:19",
   "period": "5y",
-  "data_points": 454,
+  "data_points": 455,
   "data": [
     {
       "date": "2024-10-18",
@@ -3631,11 +3631,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10095
+      "open": 2.69,
+      "high": 2.7,
+      "low": 2.65,
+      "close": 2.68,
+      "volume": 11300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.68,
+      "high": 2.74,
+      "low": 2.59,
+      "close": 2.61,
+      "volume": 11400
     }
   ]
 }

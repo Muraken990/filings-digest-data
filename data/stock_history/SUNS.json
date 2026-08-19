@@ -1,9 +1,9 @@
 {
   "code": "SUNS",
   "ticker": "SUNS",
-  "last_updated": "2026-08-18 12:21:34",
+  "last_updated": "2026-08-19 12:20:50",
   "period": "5y",
-  "data_points": 526,
+  "data_points": 530,
   "data": [
     {
       "date": "2024-07-09",
@@ -4078,6 +4078,22 @@
       "volume": 101800
     },
     {
+      "date": "2026-07-21",
+      "open": 8.07,
+      "high": 8.11,
+      "low": 7.98,
+      "close": 8.09,
+      "volume": 50500
+    },
+    {
+      "date": "2026-07-22",
+      "open": 8.07,
+      "high": 8.14,
+      "low": 8.03,
+      "close": 8.09,
+      "volume": 19400
+    },
+    {
       "date": "2026-07-23",
       "open": 8.1,
       "high": 8.1,
@@ -4124,6 +4140,14 @@
       "low": 7.86,
       "close": 8.01,
       "volume": 61900
+    },
+    {
+      "date": "2026-07-31",
+      "open": 8.06,
+      "high": 8.06,
+      "low": 7.79,
+      "close": 7.84,
+      "volume": 38000
     },
     {
       "date": "2026-08-03",
@@ -4207,11 +4231,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 81985
+      "open": 7.77,
+      "high": 7.86,
+      "low": 7.64,
+      "close": 7.76,
+      "volume": 84200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 7.82,
+      "high": 7.91,
+      "low": 7.7,
+      "close": 7.9,
+      "volume": 63700
     }
   ]
 }

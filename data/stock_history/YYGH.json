@@ -1,9 +1,9 @@
 {
   "code": "YYGH",
   "ticker": "YYGH",
-  "last_updated": "2026-08-18 12:36:13",
+  "last_updated": "2026-08-19 12:35:25",
   "period": "5y",
-  "data_points": 582,
+  "data_points": 583,
   "data": [
     {
       "date": "2024-04-22",
@@ -4655,11 +4655,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 336659
+      "open": 1.33,
+      "high": 1.45,
+      "low": 1.3,
+      "close": 1.44,
+      "volume": 669400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.41,
+      "high": 1.53,
+      "low": 1.33,
+      "close": 1.41,
+      "volume": 814700
     }
   ]
 }

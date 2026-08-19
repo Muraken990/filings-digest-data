@@ -1,18 +1,10 @@
 {
   "code": "SLI",
   "ticker": "SLI",
-  "last_updated": "2026-08-18 12:17:16",
+  "last_updated": "2026-08-19 12:16:36",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 6.11,
-      "high": 7.52,
-      "low": 6.11,
-      "close": 7.16,
-      "volume": 4272300
-    },
     {
       "date": "2021-08-19",
       "open": 6.93,
@@ -9942,6 +9934,14 @@
       "volume": 1939700
     },
     {
+      "date": "2026-07-31",
+      "open": 2.04,
+      "high": 2.07,
+      "low": 1.98,
+      "close": 2.04,
+      "volume": 1680400
+    },
+    {
       "date": "2026-08-03",
       "open": 2.05,
       "high": 2.1,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1003935
+      "open": 2.38,
+      "high": 2.4,
+      "low": 2.25,
+      "close": 2.29,
+      "volume": 1077600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.25,
+      "high": 2.31,
+      "low": 2.17,
+      "close": 2.25,
+      "volume": 1669100
     }
   ]
 }

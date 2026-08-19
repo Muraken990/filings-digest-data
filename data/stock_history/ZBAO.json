@@ -1,9 +1,9 @@
 {
   "code": "ZBAO",
   "ticker": "ZBAO",
-  "last_updated": "2026-08-18 12:36:13",
+  "last_updated": "2026-08-19 12:35:25",
   "period": "5y",
-  "data_points": 596,
+  "data_points": 597,
   "data": [
     {
       "date": "2024-04-02",
@@ -4767,11 +4767,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5268185
+      "open": 0.22,
+      "high": 0.23,
+      "low": 0.2,
+      "close": 0.22,
+      "volume": 5382300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.21,
+      "high": 0.22,
+      "low": 0.2,
+      "close": 0.21,
+      "volume": 1040500
     }
   ]
 }

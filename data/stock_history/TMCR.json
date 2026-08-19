@@ -1,9 +1,9 @@
 {
   "code": "TMCR",
   "ticker": "TMCR",
-  "last_updated": "2026-08-18 12:24:15",
+  "last_updated": "2026-08-19 12:23:28",
   "period": "5y",
-  "data_points": 91,
+  "data_points": 89,
   "data": [
     {
       "date": "2026-04-08",
@@ -574,22 +574,6 @@
       "volume": 11400
     },
     {
-      "date": "2026-07-21",
-      "open": 5.35,
-      "high": 6.03,
-      "low": 5.25,
-      "close": 6.0,
-      "volume": 60900
-    },
-    {
-      "date": "2026-07-22",
-      "open": 6.11,
-      "high": 6.39,
-      "low": 5.95,
-      "close": 5.95,
-      "volume": 59100
-    },
-    {
       "date": "2026-07-23",
       "open": 5.95,
       "high": 6.18,
@@ -636,14 +620,6 @@
       "low": 6.1,
       "close": 6.2,
       "volume": 76400
-    },
-    {
-      "date": "2026-07-31",
-      "open": 6.24,
-      "high": 6.55,
-      "low": 5.55,
-      "close": 5.85,
-      "volume": 148600
     },
     {
       "date": "2026-08-03",
@@ -727,11 +703,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 214669
+      "open": 7.69,
+      "high": 7.69,
+      "low": 6.51,
+      "close": 6.57,
+      "volume": 214700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 6.6,
+      "high": 6.94,
+      "low": 6.31,
+      "close": 6.4,
+      "volume": 33700
     }
   ]
 }

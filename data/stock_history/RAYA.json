@@ -1,9 +1,9 @@
 {
   "code": "RAYA",
   "ticker": "RAYA",
-  "last_updated": "2026-08-18 12:09:29",
+  "last_updated": "2026-08-19 12:08:54",
   "period": "5y",
-  "data_points": 918,
+  "data_points": 919,
   "data": [
     {
       "date": "2022-12-14",
@@ -7343,11 +7343,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 44630
+      "open": 2.5,
+      "high": 2.59,
+      "low": 2.3,
+      "close": 2.32,
+      "volume": 47700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.35,
+      "high": 2.39,
+      "low": 2.32,
+      "close": 2.36,
+      "volume": 10400
     }
   ]
 }

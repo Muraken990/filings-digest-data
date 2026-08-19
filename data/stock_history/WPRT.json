@@ -1,18 +1,10 @@
 {
   "code": "WPRT",
   "ticker": "WPRT",
-  "last_updated": "2026-08-18 12:33:40",
+  "last_updated": "2026-08-19 12:32:53",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 40.6,
-      "high": 42.4,
-      "low": 40.1,
-      "close": 40.9,
-      "volume": 148290
-    },
     {
       "date": "2021-08-19",
       "open": 40.0,
@@ -9886,14 +9878,6 @@
       "volume": 49200
     },
     {
-      "date": "2026-07-22",
-      "open": 1.86,
-      "high": 1.93,
-      "low": 1.86,
-      "close": 1.92,
-      "volume": 42600
-    },
-    {
       "date": "2026-07-23",
       "open": 1.9,
       "high": 1.94,
@@ -9940,14 +9924,6 @@
       "low": 1.7,
       "close": 1.72,
       "volume": 33700
-    },
-    {
-      "date": "2026-07-31",
-      "open": 1.72,
-      "high": 1.8,
-      "low": 1.69,
-      "close": 1.77,
-      "volume": 110800
     },
     {
       "date": "2026-08-03",
@@ -10031,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 205070
+      "open": 1.74,
+      "high": 1.78,
+      "low": 1.7,
+      "close": 1.75,
+      "volume": 206100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.75,
+      "high": 1.81,
+      "low": 1.74,
+      "close": 1.8,
+      "volume": 42100
     }
   ]
 }

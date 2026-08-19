@@ -1,18 +1,10 @@
 {
   "code": "QCLS",
   "ticker": "QCLS",
-  "last_updated": "2026-08-18 12:08:37",
+  "last_updated": "2026-08-19 12:08:03",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 15570.0,
-      "high": 16440.0,
-      "low": 15300.0,
-      "close": 16230.0,
-      "volume": 34
-    },
     {
       "date": "2021-08-19",
       "open": 16200.0,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 158303
+      "open": 2.75,
+      "high": 2.86,
+      "low": 2.7,
+      "close": 2.81,
+      "volume": 158300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.8,
+      "high": 2.81,
+      "low": 2.69,
+      "close": 2.69,
+      "volume": 131700
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "TOYO",
   "ticker": "TOYO",
-  "last_updated": "2026-08-18 12:25:05",
+  "last_updated": "2026-08-19 12:24:17",
   "period": "5y",
-  "data_points": 1108,
+  "data_points": 1109,
   "data": [
     {
       "date": "2022-03-17",
@@ -8863,11 +8863,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 795930
+      "open": 6.23,
+      "high": 6.25,
+      "low": 5.66,
+      "close": 5.94,
+      "volume": 796100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 5.82,
+      "high": 5.88,
+      "low": 5.5,
+      "close": 5.72,
+      "volume": 1017100
     }
   ]
 }

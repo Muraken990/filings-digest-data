@@ -1,9 +1,9 @@
 {
   "code": "SSII",
   "ticker": "SSII",
-  "last_updated": "2026-08-18 12:19:55",
+  "last_updated": "2026-08-19 12:19:11",
   "period": "5y",
-  "data_points": 505,
+  "data_points": 506,
   "data": [
     {
       "date": "2024-08-07",
@@ -4039,11 +4039,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 24103
+      "open": 3.95,
+      "high": 3.95,
+      "low": 3.75,
+      "close": 3.76,
+      "volume": 24200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 3.75,
+      "high": 3.77,
+      "low": 3.67,
+      "close": 3.71,
+      "volume": 35900
     }
   ]
 }

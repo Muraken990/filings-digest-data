@@ -1,18 +1,10 @@
 {
   "code": "PRFX",
   "ticker": "PRFX",
-  "last_updated": "2026-08-18 12:06:55",
+  "last_updated": "2026-08-19 12:06:22",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 810.0,
-      "high": 885.0,
-      "low": 807.0,
-      "close": 855.0,
-      "volume": 3871
-    },
     {
       "date": "2021-08-19",
       "open": 825.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 153644
+      "open": 1.0,
+      "high": 1.02,
+      "low": 0.94,
+      "close": 0.97,
+      "volume": 156800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.96,
+      "high": 0.97,
+      "low": 0.94,
+      "close": 0.94,
+      "volume": 93300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SDHIU",
   "ticker": "SDHIU",
-  "last_updated": "2026-08-18 12:15:28",
+  "last_updated": "2026-08-19 12:14:49",
   "period": "5y",
-  "data_points": 343,
+  "data_points": 344,
   "data": [
     {
       "date": "2025-04-01",
@@ -2743,11 +2743,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 607
+      "open": 10.6,
+      "high": 10.6,
+      "low": 10.6,
+      "close": 10.6,
+      "volume": 600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.6,
+      "high": 10.6,
+      "low": 10.6,
+      "close": 10.6,
+      "volume": 0
     }
   ]
 }

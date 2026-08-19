@@ -1,9 +1,9 @@
 {
   "code": "TTRX",
   "ticker": "TTRX",
-  "last_updated": "2026-08-18 12:26:45",
+  "last_updated": "2026-08-19 12:25:58",
   "period": "5y",
-  "data_points": 212,
+  "data_points": 216,
   "data": [
     {
       "date": "2025-10-08",
@@ -1566,6 +1566,22 @@
       "volume": 196000
     },
     {
+      "date": "2026-07-21",
+      "open": 10.02,
+      "high": 10.48,
+      "low": 9.49,
+      "close": 10.18,
+      "volume": 171700
+    },
+    {
+      "date": "2026-07-22",
+      "open": 10.11,
+      "high": 10.25,
+      "low": 9.6,
+      "close": 9.62,
+      "volume": 50700
+    },
+    {
       "date": "2026-07-23",
       "open": 9.64,
       "high": 9.9,
@@ -1612,6 +1628,14 @@
       "low": 7.4,
       "close": 8.25,
       "volume": 86900
+    },
+    {
+      "date": "2026-07-31",
+      "open": 8.36,
+      "high": 8.6,
+      "low": 8.07,
+      "close": 8.36,
+      "volume": 46500
     },
     {
       "date": "2026-08-03",
@@ -1695,11 +1719,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 44726
+      "open": 9.83,
+      "high": 10.13,
+      "low": 9.58,
+      "close": 9.91,
+      "volume": 46000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 9.75,
+      "high": 10.1,
+      "low": 9.74,
+      "close": 9.99,
+      "volume": 20400
     }
   ]
 }

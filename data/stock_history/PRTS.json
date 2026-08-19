@@ -1,18 +1,10 @@
 {
   "code": "PRTS",
   "ticker": "PRTS",
-  "last_updated": "2026-08-18 12:07:44",
+  "last_updated": "2026-08-19 12:07:11",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 166.3,
-      "high": 168.3,
-      "low": 159.7,
-      "close": 165.6,
-      "volume": 75300
-    },
     {
       "date": "2021-08-19",
       "open": 163.8,
@@ -9878,22 +9870,6 @@
       "volume": 29000
     },
     {
-      "date": "2026-07-21",
-      "open": 5.25,
-      "high": 5.25,
-      "low": 4.85,
-      "close": 4.85,
-      "volume": 10400
-    },
-    {
-      "date": "2026-07-22",
-      "open": 4.85,
-      "high": 4.88,
-      "low": 4.42,
-      "close": 4.42,
-      "volume": 41300
-    },
-    {
       "date": "2026-07-23",
       "open": 4.5,
       "high": 4.88,
@@ -9940,14 +9916,6 @@
       "low": 5.2,
       "close": 5.23,
       "volume": 22700
-    },
-    {
-      "date": "2026-07-31",
-      "open": 5.29,
-      "high": 5.52,
-      "low": 5.29,
-      "close": 5.4,
-      "volume": 10100
     },
     {
       "date": "2026-08-03",
@@ -10031,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 22504
+      "open": 6.05,
+      "high": 6.18,
+      "low": 5.91,
+      "close": 6.08,
+      "volume": 22500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 6.12,
+      "high": 6.32,
+      "low": 5.91,
+      "close": 5.96,
+      "volume": 14000
     }
   ]
 }

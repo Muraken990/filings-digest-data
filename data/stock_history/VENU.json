@@ -1,9 +1,9 @@
 {
   "code": "VENU",
   "ticker": "VENU",
-  "last_updated": "2026-08-18 12:29:24",
+  "last_updated": "2026-08-19 12:28:36",
   "period": "5y",
-  "data_points": 427,
+  "data_points": 428,
   "data": [
     {
       "date": "2024-11-27",
@@ -3415,11 +3415,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 611362
+      "open": 2.0,
+      "high": 2.03,
+      "low": 1.8,
+      "close": 1.85,
+      "volume": 613500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.85,
+      "high": 1.91,
+      "low": 1.75,
+      "close": 1.86,
+      "volume": 720400
     }
   ]
 }

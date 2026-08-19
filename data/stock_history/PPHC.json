@@ -1,9 +1,9 @@
 {
   "code": "PPHC",
   "ticker": "PPHC",
-  "last_updated": "2026-08-18 12:06:53",
+  "last_updated": "2026-08-19 12:06:20",
   "period": "5y",
-  "data_points": 139,
+  "data_points": 137,
   "data": [
     {
       "date": "2026-01-28",
@@ -958,22 +958,6 @@
       "volume": 103900
     },
     {
-      "date": "2026-07-21",
-      "open": 9.15,
-      "high": 9.4,
-      "low": 8.94,
-      "close": 9.08,
-      "volume": 73400
-    },
-    {
-      "date": "2026-07-22",
-      "open": 9.0,
-      "high": 9.05,
-      "low": 8.5,
-      "close": 8.63,
-      "volume": 60400
-    },
-    {
       "date": "2026-07-23",
       "open": 8.51,
       "high": 8.91,
@@ -1020,14 +1004,6 @@
       "low": 9.78,
       "close": 10.58,
       "volume": 96000
-    },
-    {
-      "date": "2026-07-31",
-      "open": 10.59,
-      "high": 11.0,
-      "low": 10.18,
-      "close": 10.85,
-      "volume": 145400
     },
     {
       "date": "2026-08-03",
@@ -1111,11 +1087,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 127636
+      "open": 10.37,
+      "high": 10.48,
+      "low": 9.73,
+      "close": 10.05,
+      "volume": 128100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 9.95,
+      "high": 10.33,
+      "low": 9.81,
+      "close": 10.24,
+      "volume": 104000
     }
   ]
 }

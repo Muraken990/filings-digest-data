@@ -1,9 +1,9 @@
 {
   "code": "WOLF",
   "ticker": "WOLF",
-  "last_updated": "2026-08-18 12:33:39",
+  "last_updated": "2026-08-19 12:32:52",
   "period": "5y",
-  "data_points": 222,
+  "data_points": 223,
   "data": [
     {
       "date": "2025-09-29",
@@ -1775,11 +1775,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4243814
+      "open": 32.65,
+      "high": 35.18,
+      "low": 32.65,
+      "close": 34.96,
+      "volume": 4287700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 32.1,
+      "high": 33.6,
+      "low": 31.21,
+      "close": 31.46,
+      "volume": 4356500
     }
   ]
 }

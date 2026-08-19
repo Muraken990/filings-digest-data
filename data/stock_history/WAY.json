@@ -1,9 +1,9 @@
 {
   "code": "WAY",
   "ticker": "WAY",
-  "last_updated": "2026-08-18 12:31:58",
+  "last_updated": "2026-08-19 12:31:11",
   "period": "5y",
-  "data_points": 549,
+  "data_points": 550,
   "data": [
     {
       "date": "2024-06-07",
@@ -4391,11 +4391,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1372101
+      "open": 24.7,
+      "high": 25.05,
+      "low": 24.5,
+      "close": 24.68,
+      "volume": 1372800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.22,
+      "high": 25.4,
+      "low": 24.21,
+      "close": 24.32,
+      "volume": 1495700
     }
   ]
 }

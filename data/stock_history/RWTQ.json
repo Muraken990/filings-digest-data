@@ -1,9 +1,9 @@
 {
   "code": "RWTQ",
   "ticker": "RWTQ",
-  "last_updated": "2026-08-18 12:12:59",
+  "last_updated": "2026-08-19 12:12:22",
   "period": "5y",
-  "data_points": 181,
+  "data_points": 182,
   "data": [
     {
       "date": "2025-11-25",
@@ -1447,11 +1447,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10033
+      "open": 23.8,
+      "high": 23.84,
+      "low": 23.72,
+      "close": 23.75,
+      "volume": 10000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 23.77,
+      "high": 23.83,
+      "low": 23.7,
+      "close": 23.7,
+      "volume": 12400
     }
   ]
 }

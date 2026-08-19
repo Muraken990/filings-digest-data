@@ -1,9 +1,9 @@
 {
   "code": "WENNU",
   "ticker": "WENNU",
-  "last_updated": "2026-08-18 12:32:46",
+  "last_updated": "2026-08-19 12:31:59",
   "period": "5y",
-  "data_points": 311,
+  "data_points": 312,
   "data": [
     {
       "date": "2025-05-16",
@@ -2487,11 +2487,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3918
+      "open": 10.49,
+      "high": 10.49,
+      "low": 10.46,
+      "close": 10.46,
+      "volume": 3900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.46,
+      "high": 10.46,
+      "low": 10.46,
+      "close": 10.46,
+      "volume": 0
     }
   ]
 }

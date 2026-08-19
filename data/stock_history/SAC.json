@@ -1,9 +1,9 @@
 {
   "code": "SAC",
   "ticker": "SAC",
-  "last_updated": "2026-08-18 12:13:47",
+  "last_updated": "2026-08-19 12:13:10",
   "period": "5y",
-  "data_points": 141,
+  "data_points": 139,
   "data": [
     {
       "date": "2026-01-26",
@@ -974,22 +974,6 @@
       "volume": 300
     },
     {
-      "date": "2026-07-21",
-      "open": 10.08,
-      "high": 10.08,
-      "low": 10.08,
-      "close": 10.08,
-      "volume": 200
-    },
-    {
-      "date": "2026-07-22",
-      "open": 10.08,
-      "high": 10.08,
-      "low": 10.08,
-      "close": 10.08,
-      "volume": 0
-    },
-    {
       "date": "2026-07-23",
       "open": 10.08,
       "high": 10.08,
@@ -1036,14 +1020,6 @@
       "low": 10.12,
       "close": 10.12,
       "volume": 100
-    },
-    {
-      "date": "2026-07-31",
-      "open": 10.12,
-      "high": 10.12,
-      "low": 10.12,
-      "close": 10.12,
-      "volume": 0
     },
     {
       "date": "2026-08-03",
@@ -1127,11 +1103,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 50080
+      "open": 10.09,
+      "high": 10.09,
+      "low": 10.09,
+      "close": 10.09,
+      "volume": 50100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.09,
+      "high": 10.09,
+      "low": 10.09,
+      "close": 10.09,
+      "volume": 0
     }
   ]
 }

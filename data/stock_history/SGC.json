@@ -1,26 +1,10 @@
 {
   "code": "SGC",
   "ticker": "SGC",
-  "last_updated": "2026-08-18 12:15:35",
+  "last_updated": "2026-08-19 12:14:54",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-08-18",
-      "open": 18.5,
-      "high": 18.83,
-      "low": 18.23,
-      "close": 18.32,
-      "volume": 20800
-    },
     {
       "date": "2021-08-19",
       "open": 18.1,
@@ -879,7 +863,7 @@
     },
     {
       "date": "2022-01-21",
-      "open": 16.13,
+      "open": 16.12,
       "high": 16.84,
       "low": 16.0,
       "close": 16.46,
@@ -9886,22 +9870,6 @@
       "volume": 28600
     },
     {
-      "date": "2026-07-21",
-      "open": 12.82,
-      "high": 13.11,
-      "low": 12.72,
-      "close": 12.92,
-      "volume": 36200
-    },
-    {
-      "date": "2026-07-22",
-      "open": 12.88,
-      "high": 12.98,
-      "low": 12.56,
-      "close": 12.81,
-      "volume": 35000
-    },
-    {
       "date": "2026-07-23",
       "open": 12.61,
       "high": 12.72,
@@ -9948,14 +9916,6 @@
       "low": 11.91,
       "close": 12.12,
       "volume": 33300
-    },
-    {
-      "date": "2026-07-31",
-      "open": 12.21,
-      "high": 12.21,
-      "low": 11.68,
-      "close": 11.72,
-      "volume": 40700
     },
     {
       "date": "2026-08-03",
@@ -10039,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 47762
+      "open": 12.97,
+      "high": 13.15,
+      "low": 12.71,
+      "close": 12.75,
+      "volume": 48000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 12.74,
+      "high": 12.9,
+      "low": 12.57,
+      "close": 12.57,
+      "volume": 49500
     }
   ]
 }

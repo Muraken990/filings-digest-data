@@ -1,18 +1,10 @@
 {
   "code": "YDKG",
   "ticker": "YDKG",
-  "last_updated": "2026-08-18 12:35:25",
+  "last_updated": "2026-08-19 12:34:37",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 1036.0,
-      "high": 1072.0,
-      "low": 1008.0,
-      "close": 1032.0,
-      "volume": 59
-    },
     {
       "date": "2021-08-19",
       "open": 1004.0,
@@ -9878,6 +9870,14 @@
       "volume": 18700
     },
     {
+      "date": "2026-07-21",
+      "open": 0.88,
+      "high": 1.08,
+      "low": 0.88,
+      "close": 1.05,
+      "volume": 103700
+    },
+    {
       "date": "2026-07-22",
       "open": 1.02,
       "high": 1.02,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8321
+      "open": 1.06,
+      "high": 1.09,
+      "low": 1.05,
+      "close": 1.08,
+      "volume": 8400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.05,
+      "high": 1.13,
+      "low": 1.05,
+      "close": 1.07,
+      "volume": 13700
     }
   ]
 }

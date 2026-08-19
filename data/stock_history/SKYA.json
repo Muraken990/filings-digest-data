@@ -1,9 +1,9 @@
 {
   "code": "SKYA",
   "ticker": "SKYA",
-  "last_updated": "2026-08-18 12:17:14",
+  "last_updated": "2026-08-19 12:16:34",
   "period": "5y",
-  "data_points": 1085,
+  "data_points": 1086,
   "data": [
     {
       "date": "2022-04-14",
@@ -8679,11 +8679,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 411229
+      "open": 0.98,
+      "high": 1.04,
+      "low": 0.97,
+      "close": 1.0,
+      "volume": 418900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.0,
+      "high": 1.04,
+      "low": 0.97,
+      "close": 0.99,
+      "volume": 323100
     }
   ]
 }

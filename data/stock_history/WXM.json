@@ -1,9 +1,9 @@
 {
   "code": "WXM",
   "ticker": "WXM",
-  "last_updated": "2026-08-18 12:34:31",
+  "last_updated": "2026-08-19 12:33:44",
   "period": "5y",
-  "data_points": 344,
+  "data_points": 345,
   "data": [
     {
       "date": "2025-04-01",
@@ -2751,11 +2751,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 139988
+      "open": 4.96,
+      "high": 5.05,
+      "low": 4.5,
+      "close": 4.7,
+      "volume": 146600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.6,
+      "high": 4.69,
+      "low": 4.37,
+      "close": 4.55,
+      "volume": 47600
     }
   ]
 }

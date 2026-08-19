@@ -1,9 +1,9 @@
 {
   "code": "SN",
   "ticker": "SN",
-  "last_updated": "2026-08-18 12:18:07",
+  "last_updated": "2026-08-19 12:17:26",
   "period": "5y",
-  "data_points": 762,
+  "data_points": 763,
   "data": [
     {
       "date": "2023-07-31",
@@ -6095,11 +6095,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1252489
+      "open": 183.35,
+      "high": 186.32,
+      "low": 181.58,
+      "close": 183.62,
+      "volume": 1692600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 181.51,
+      "high": 185.91,
+      "low": 179.0,
+      "close": 182.82,
+      "volume": 1495800
     }
   ]
 }

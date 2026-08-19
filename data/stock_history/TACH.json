@@ -1,9 +1,9 @@
 {
   "code": "TACH",
   "ticker": "TACH",
-  "last_updated": "2026-08-18 12:22:26",
+  "last_updated": "2026-08-19 12:21:41",
   "period": "5y",
-  "data_points": 301,
+  "data_points": 302,
   "data": [
     {
       "date": "2025-06-02",
@@ -2407,11 +2407,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 955
+      "open": 10.49,
+      "high": 10.49,
+      "low": 10.49,
+      "close": 10.49,
+      "volume": 1000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.49,
+      "high": 10.49,
+      "low": 10.49,
+      "close": 10.49,
+      "volume": 0
     }
   ]
 }

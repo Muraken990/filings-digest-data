@@ -1,9 +1,9 @@
 {
   "code": "SAJ",
   "ticker": "SAJ",
-  "last_updated": "2026-08-18 12:13:48",
+  "last_updated": "2026-08-19 12:13:11",
   "period": "5y",
-  "data_points": 945,
+  "data_points": 946,
   "data": [
     {
       "date": "2022-11-03",
@@ -7559,11 +7559,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1068
+      "open": 25.32,
+      "high": 25.32,
+      "low": 25.32,
+      "close": 25.32,
+      "volume": 1100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.19,
+      "high": 25.22,
+      "low": 25.03,
+      "close": 25.13,
+      "volume": 19400
     }
   ]
 }

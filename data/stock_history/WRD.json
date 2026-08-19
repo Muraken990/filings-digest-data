@@ -1,9 +1,9 @@
 {
   "code": "WRD",
   "ticker": "WRD",
-  "last_updated": "2026-08-18 12:33:41",
+  "last_updated": "2026-08-19 12:32:53",
   "period": "5y",
-  "data_points": 452,
+  "data_points": 453,
   "data": [
     {
       "date": "2024-10-25",
@@ -3615,11 +3615,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1838251
+      "open": 5.94,
+      "high": 6.13,
+      "low": 5.89,
+      "close": 6.08,
+      "volume": 1875600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 6.09,
+      "high": 6.15,
+      "low": 5.97,
+      "close": 6.0,
+      "volume": 1706200
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "VRCA",
   "ticker": "VRCA",
-  "last_updated": "2026-08-18 12:31:05",
+  "last_updated": "2026-08-19 12:30:17",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 101.0,
-      "high": 104.39,
-      "low": 99.3,
-      "close": 101.8,
-      "volume": 3790
-    },
     {
       "date": "2021-08-19",
       "open": 100.1,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 179716
+      "open": 5.0,
+      "high": 5.15,
+      "low": 4.76,
+      "close": 4.89,
+      "volume": 179700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.9,
+      "high": 5.0,
+      "low": 4.68,
+      "close": 4.68,
+      "volume": 48500
     }
   ]
 }

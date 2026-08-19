@@ -1,9 +1,9 @@
 {
   "code": "STFS",
   "ticker": "STFS",
-  "last_updated": "2026-08-18 12:20:44",
+  "last_updated": "2026-08-19 12:20:00",
   "period": "5y",
-  "data_points": 461,
+  "data_points": 463,
   "data": [
     {
       "date": "2024-10-11",
@@ -3542,6 +3542,14 @@
       "volume": 54600
     },
     {
+      "date": "2026-07-21",
+      "open": 7.03,
+      "high": 7.99,
+      "low": 6.1,
+      "close": 7.55,
+      "volume": 97100
+    },
+    {
       "date": "2026-07-22",
       "open": 6.79,
       "high": 7.4,
@@ -3687,11 +3695,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5577293
+      "open": 4.55,
+      "high": 6.96,
+      "low": 4.07,
+      "close": 4.21,
+      "volume": 5919200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.25,
+      "high": 4.49,
+      "low": 4.14,
+      "close": 4.44,
+      "volume": 100900
     }
   ]
 }

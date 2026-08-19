@@ -1,9 +1,9 @@
 {
   "code": "RWTN",
   "ticker": "RWTN",
-  "last_updated": "2026-08-18 12:12:59",
+  "last_updated": "2026-08-19 12:12:22",
   "period": "5y",
-  "data_points": 633,
+  "data_points": 634,
   "data": [
     {
       "date": "2024-02-02",
@@ -5063,11 +5063,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3672
+      "open": 24.6,
+      "high": 24.6,
+      "low": 24.3,
+      "close": 24.5,
+      "volume": 3700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 24.55,
+      "high": 24.57,
+      "low": 24.44,
+      "close": 24.55,
+      "volume": 8000
     }
   ]
 }

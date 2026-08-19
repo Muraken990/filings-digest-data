@@ -1,9 +1,9 @@
 {
   "code": "TWFG",
   "ticker": "TWFG",
-  "last_updated": "2026-08-18 12:26:48",
+  "last_updated": "2026-08-19 12:26:00",
   "period": "5y",
-  "data_points": 519,
+  "data_points": 520,
   "data": [
     {
       "date": "2024-07-18",
@@ -4151,11 +4151,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 142992
+      "open": 26.37,
+      "high": 26.43,
+      "low": 25.8,
+      "close": 26.08,
+      "volume": 155700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 26.39,
+      "high": 27.13,
+      "low": 26.36,
+      "close": 26.78,
+      "volume": 124600
     }
   ]
 }

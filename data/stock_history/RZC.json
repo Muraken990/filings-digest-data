@@ -1,9 +1,9 @@
 {
   "code": "RZC",
   "ticker": "RZC",
-  "last_updated": "2026-08-18 12:13:46",
+  "last_updated": "2026-08-19 12:13:09",
   "period": "5y",
-  "data_points": 961,
+  "data_points": 962,
   "data": [
     {
       "date": "2022-10-12",
@@ -7687,11 +7687,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 21646
+      "open": 25.78,
+      "high": 25.78,
+      "low": 25.63,
+      "close": 25.66,
+      "volume": 24900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.63,
+      "high": 25.66,
+      "low": 25.59,
+      "close": 25.62,
+      "volume": 21000
     }
   ]
 }

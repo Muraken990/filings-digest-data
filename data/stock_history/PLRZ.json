@@ -1,9 +1,9 @@
 {
   "code": "PLRZ",
   "ticker": "PLRZ",
-  "last_updated": "2026-08-18 12:06:01",
+  "last_updated": "2026-08-19 12:05:27",
   "period": "5y",
-  "data_points": 447,
+  "data_points": 448,
   "data": [
     {
       "date": "2024-10-29",
@@ -3575,11 +3575,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 58998
+      "open": 10.98,
+      "high": 11.27,
+      "low": 10.22,
+      "close": 10.98,
+      "volume": 59200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.92,
+      "high": 11.25,
+      "low": 9.9,
+      "close": 10.36,
+      "volume": 284400
     }
   ]
 }

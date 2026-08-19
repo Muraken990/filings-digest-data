@@ -1,9 +1,9 @@
 {
   "code": "PSBD",
   "ticker": "PSBD",
-  "last_updated": "2026-08-18 12:07:45",
+  "last_updated": "2026-08-19 12:07:11",
   "period": "5y",
-  "data_points": 644,
+  "data_points": 645,
   "data": [
     {
       "date": "2024-01-18",
@@ -5151,11 +5151,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 60719
+      "open": 10.44,
+      "high": 10.44,
+      "low": 10.16,
+      "close": 10.2,
+      "volume": 64200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.12,
+      "high": 10.37,
+      "low": 10.12,
+      "close": 10.24,
+      "volume": 86000
     }
   ]
 }

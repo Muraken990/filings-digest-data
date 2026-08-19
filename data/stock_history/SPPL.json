@@ -1,9 +1,9 @@
 {
   "code": "SPPL",
   "ticker": "SPPL",
-  "last_updated": "2026-08-18 12:19:50",
+  "last_updated": "2026-08-19 12:19:06",
   "period": "5y",
-  "data_points": 731,
+  "data_points": 735,
   "data": [
     {
       "date": "2023-09-13",
@@ -5718,6 +5718,22 @@
       "volume": 9700
     },
     {
+      "date": "2026-07-21",
+      "open": 3.32,
+      "high": 3.65,
+      "low": 3.2,
+      "close": 3.33,
+      "volume": 352100
+    },
+    {
+      "date": "2026-07-22",
+      "open": 3.34,
+      "high": 3.34,
+      "low": 3.25,
+      "close": 3.33,
+      "volume": 3300
+    },
+    {
       "date": "2026-07-23",
       "open": 3.45,
       "high": 3.5,
@@ -5764,6 +5780,14 @@
       "low": 3.31,
       "close": 3.32,
       "volume": 3700
+    },
+    {
+      "date": "2026-07-31",
+      "open": 3.31,
+      "high": 3.47,
+      "low": 3.31,
+      "close": 3.47,
+      "volume": 56400
     },
     {
       "date": "2026-08-03",
@@ -5847,11 +5871,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 161450
+      "open": 2.3,
+      "high": 2.43,
+      "low": 2.3,
+      "close": 2.36,
+      "volume": 162100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.36,
+      "high": 2.47,
+      "low": 2.26,
+      "close": 2.36,
+      "volume": 229300
     }
   ]
 }

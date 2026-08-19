@@ -1,9 +1,9 @@
 {
   "code": "UAC",
   "ticker": "UAC",
-  "last_updated": "2026-08-18 12:27:36",
+  "last_updated": "2026-08-19 12:26:48",
   "period": "5y",
-  "data_points": 122,
+  "data_points": 123,
   "data": [
     {
       "date": "2026-02-18",
@@ -975,11 +975,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5566
+      "open": 9.97,
+      "high": 9.97,
+      "low": 9.96,
+      "close": 9.96,
+      "volume": 5600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 9.96,
+      "high": 9.96,
+      "low": 9.96,
+      "close": 9.96,
+      "volume": 0
     }
   ]
 }

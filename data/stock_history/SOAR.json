@@ -1,9 +1,9 @@
 {
   "code": "SOAR",
   "ticker": "SOAR",
-  "last_updated": "2026-08-18 12:18:11",
+  "last_updated": "2026-08-19 12:17:29",
   "period": "5y",
-  "data_points": 1146,
+  "data_points": 1147,
   "data": [
     {
       "date": "2022-01-21",
@@ -9167,11 +9167,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3107991
+      "open": 0.17,
+      "high": 0.17,
+      "low": 0.15,
+      "close": 0.16,
+      "volume": 3207200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.15,
+      "high": 0.16,
+      "low": 0.15,
+      "close": 0.15,
+      "volume": 2106300
     }
   ]
 }

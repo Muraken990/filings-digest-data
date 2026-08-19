@@ -1,9 +1,9 @@
 {
   "code": "WTF",
   "ticker": "WTF",
-  "last_updated": "2026-08-18 12:33:43",
+  "last_updated": "2026-08-19 12:32:56",
   "period": "5y",
-  "data_points": 346,
+  "data_points": 344,
   "data": [
     {
       "date": "2025-04-01",
@@ -2614,22 +2614,6 @@
       "volume": 2300
     },
     {
-      "date": "2026-07-21",
-      "open": 3.01,
-      "high": 3.01,
-      "low": 2.97,
-      "close": 2.97,
-      "volume": 2700
-    },
-    {
-      "date": "2026-07-22",
-      "open": 3.02,
-      "high": 3.02,
-      "low": 3.02,
-      "close": 3.02,
-      "volume": 2100
-    },
-    {
       "date": "2026-07-23",
       "open": 3.02,
       "high": 3.02,
@@ -2676,14 +2660,6 @@
       "low": 2.57,
       "close": 2.68,
       "volume": 11200
-    },
-    {
-      "date": "2026-07-31",
-      "open": 2.83,
-      "high": 2.98,
-      "low": 2.79,
-      "close": 2.98,
-      "volume": 5500
     },
     {
       "date": "2026-08-03",
@@ -2767,11 +2743,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 43000
+      "open": 2.93,
+      "high": 3.18,
+      "low": 2.82,
+      "close": 3.01,
+      "volume": 43200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.99,
+      "high": 2.99,
+      "low": 2.91,
+      "close": 2.91,
+      "volume": 1400
     }
   ]
 }

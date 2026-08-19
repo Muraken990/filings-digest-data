@@ -1,9 +1,9 @@
 {
   "code": "SMXT",
   "ticker": "SMXT",
-  "last_updated": "2026-08-18 12:18:07",
+  "last_updated": "2026-08-19 12:17:26",
   "period": "5y",
-  "data_points": 618,
+  "data_points": 619,
   "data": [
     {
       "date": "2024-02-27",
@@ -4943,11 +4943,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 23678
+      "open": 4.11,
+      "high": 4.23,
+      "low": 3.86,
+      "close": 3.88,
+      "volume": 23700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 3.85,
+      "high": 4.0,
+      "low": 3.76,
+      "close": 3.83,
+      "volume": 7800
     }
   ]
 }

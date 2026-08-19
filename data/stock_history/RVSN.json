@@ -1,9 +1,9 @@
 {
   "code": "RVSN",
   "ticker": "RVSN",
-  "last_updated": "2026-08-18 12:12:57",
+  "last_updated": "2026-08-19 12:12:21",
   "period": "5y",
-  "data_points": 1096,
+  "data_points": 1097,
   "data": [
     {
       "date": "2022-03-31",
@@ -8767,11 +8767,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 33021
+      "open": 5.16,
+      "high": 5.23,
+      "low": 4.98,
+      "close": 5.0,
+      "volume": 33200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 5.02,
+      "high": 5.25,
+      "low": 4.92,
+      "close": 5.12,
+      "volume": 27200
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SNDK",
   "ticker": "SNDK",
-  "last_updated": "2026-08-18 12:18:08",
+  "last_updated": "2026-08-19 12:17:27",
   "period": "5y",
-  "data_points": 378,
+  "data_points": 379,
   "data": [
     {
       "date": "2025-02-13",
@@ -3023,11 +3023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 17676423
+      "open": 1700.74,
+      "high": 1827.99,
+      "low": 1698.0,
+      "close": 1786.85,
+      "volume": 18037600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1677.54,
+      "high": 1724.99,
+      "low": 1600.2,
+      "close": 1625.78,
+      "volume": 18385900
     }
   ]
 }

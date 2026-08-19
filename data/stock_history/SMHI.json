@@ -1,18 +1,10 @@
 {
   "code": "SMHI",
   "ticker": "SMHI",
-  "last_updated": "2026-08-18 12:18:05",
+  "last_updated": "2026-08-19 12:17:24",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 4.25,
-      "high": 4.25,
-      "low": 4.02,
-      "close": 4.02,
-      "volume": 67100
-    },
     {
       "date": "2021-08-19",
       "open": 3.91,
@@ -9878,22 +9870,6 @@
       "volume": 153300
     },
     {
-      "date": "2026-07-21",
-      "open": 7.73,
-      "high": 7.8,
-      "low": 7.63,
-      "close": 7.72,
-      "volume": 87500
-    },
-    {
-      "date": "2026-07-22",
-      "open": 7.74,
-      "high": 7.85,
-      "low": 7.67,
-      "close": 7.8,
-      "volume": 56500
-    },
-    {
       "date": "2026-07-23",
       "open": 7.89,
       "high": 7.94,
@@ -9940,14 +9916,6 @@
       "low": 8.34,
       "close": 9.54,
       "volume": 680000
-    },
-    {
-      "date": "2026-07-31",
-      "open": 9.55,
-      "high": 9.59,
-      "low": 9.0,
-      "close": 9.43,
-      "volume": 116200
     },
     {
       "date": "2026-08-03",
@@ -10031,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 81404
+      "open": 9.79,
+      "high": 9.96,
+      "low": 9.79,
+      "close": 9.82,
+      "volume": 95900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 9.93,
+      "high": 9.94,
+      "low": 9.8,
+      "close": 9.86,
+      "volume": 78000
     }
   ]
 }

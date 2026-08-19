@@ -1,9 +1,9 @@
 {
   "code": "SEPN",
   "ticker": "SEPN",
-  "last_updated": "2026-08-18 12:15:31",
+  "last_updated": "2026-08-19 12:14:52",
   "period": "5y",
-  "data_points": 449,
+  "data_points": 450,
   "data": [
     {
       "date": "2024-10-25",
@@ -3591,11 +3591,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 433673
+      "open": 44.01,
+      "high": 45.41,
+      "low": 43.69,
+      "close": 44.2,
+      "volume": 433700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 43.69,
+      "high": 44.58,
+      "low": 43.37,
+      "close": 43.8,
+      "volume": 332900
     }
   ]
 }

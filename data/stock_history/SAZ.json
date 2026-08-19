@@ -1,9 +1,9 @@
 {
   "code": "SAZ",
   "ticker": "SAZ",
-  "last_updated": "2026-08-18 12:14:35",
+  "last_updated": "2026-08-19 12:13:58",
   "period": "5y",
-  "data_points": 829,
+  "data_points": 830,
   "data": [
     {
       "date": "2023-04-24",
@@ -6631,11 +6631,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8129
+      "open": 25.2,
+      "high": 25.25,
+      "low": 25.19,
+      "close": 25.19,
+      "volume": 8100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.24,
+      "high": 25.24,
+      "low": 25.18,
+      "close": 25.22,
+      "volume": 10100
     }
   ]
 }

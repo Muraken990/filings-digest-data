@@ -1,9 +1,9 @@
 {
   "code": "WSHP",
   "ticker": "WSHP",
-  "last_updated": "2026-08-18 12:33:42",
+  "last_updated": "2026-08-19 12:32:54",
   "period": "5y",
-  "data_points": 187,
+  "data_points": 188,
   "data": [
     {
       "date": "2025-11-14",
@@ -1495,11 +1495,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 65478
+      "open": 5.03,
+      "high": 5.03,
+      "low": 4.63,
+      "close": 4.75,
+      "volume": 65800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.76,
+      "high": 5.15,
+      "low": 4.52,
+      "close": 4.76,
+      "volume": 81600
     }
   ]
 }

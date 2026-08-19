@@ -1,9 +1,9 @@
 {
   "code": "SVCO",
   "ticker": "SVCO",
-  "last_updated": "2026-08-18 12:21:36",
+  "last_updated": "2026-08-19 12:20:51",
   "period": "5y",
-  "data_points": 567,
+  "data_points": 568,
   "data": [
     {
       "date": "2024-05-09",
@@ -4535,11 +4535,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 214048
+      "open": 7.28,
+      "high": 7.58,
+      "low": 7.25,
+      "close": 7.35,
+      "volume": 222500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 6.92,
+      "high": 7.32,
+      "low": 6.61,
+      "close": 6.8,
+      "volume": 478200
     }
   ]
 }

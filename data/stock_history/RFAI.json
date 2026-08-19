@@ -1,9 +1,9 @@
 {
   "code": "RFAI",
   "ticker": "RFAI",
-  "last_updated": "2026-08-18 12:11:09",
+  "last_updated": "2026-08-19 12:10:33",
   "period": "5y",
-  "data_points": 531,
+  "data_points": 532,
   "data": [
     {
       "date": "2024-07-05",
@@ -4247,11 +4247,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8119
+      "open": 9.28,
+      "high": 9.63,
+      "low": 8.94,
+      "close": 9.29,
+      "volume": 8200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 11.03,
+      "high": 11.03,
+      "low": 9.4,
+      "close": 10.0,
+      "volume": 12700
     }
   ]
 }

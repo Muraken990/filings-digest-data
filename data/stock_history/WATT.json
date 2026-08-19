@@ -1,18 +1,10 @@
 {
   "code": "WATT",
   "ticker": "WATT",
-  "last_updated": "2026-08-18 12:31:58",
+  "last_updated": "2026-08-19 12:31:10",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 1338.0,
-      "high": 1422.0,
-      "low": 1320.0,
-      "close": 1356.0,
-      "volume": 1300
-    },
     {
       "date": "2021-08-19",
       "open": 1344.0,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 198983
+      "open": 15.75,
+      "high": 15.75,
+      "low": 14.58,
+      "close": 14.75,
+      "volume": 199800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 14.38,
+      "high": 14.98,
+      "low": 13.88,
+      "close": 14.23,
+      "volume": 155600
     }
   ]
 }

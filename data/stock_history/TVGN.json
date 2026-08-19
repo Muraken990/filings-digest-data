@@ -1,9 +1,9 @@
 {
   "code": "TVGN",
   "ticker": "TVGN",
-  "last_updated": "2026-08-18 12:26:47",
+  "last_updated": "2026-08-19 12:25:59",
   "period": "5y",
-  "data_points": 1154,
+  "data_points": 1155,
   "data": [
     {
       "date": "2022-01-05",
@@ -9231,11 +9231,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5869
+      "open": 6.66,
+      "high": 6.72,
+      "low": 6.5,
+      "close": 6.58,
+      "volume": 5900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 6.37,
+      "high": 6.37,
+      "low": 6.07,
+      "close": 6.31,
+      "volume": 8900
     }
   ]
 }

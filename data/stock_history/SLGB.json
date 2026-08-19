@@ -1,9 +1,9 @@
 {
   "code": "SLGB",
   "ticker": "SLGB",
-  "last_updated": "2026-08-18 12:17:16",
+  "last_updated": "2026-08-19 12:16:36",
   "period": "5y",
-  "data_points": 210,
+  "data_points": 211,
   "data": [
     {
       "date": "2025-10-15",
@@ -1679,11 +1679,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 592903
+      "open": 0.54,
+      "high": 0.56,
+      "low": 0.52,
+      "close": 0.56,
+      "volume": 1280500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.54,
+      "high": 0.55,
+      "low": 0.5,
+      "close": 0.54,
+      "volume": 443100
     }
   ]
 }

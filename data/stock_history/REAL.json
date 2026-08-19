@@ -1,18 +1,10 @@
 {
   "code": "REAL",
   "ticker": "REAL",
-  "last_updated": "2026-08-18 12:10:20",
+  "last_updated": "2026-08-19 12:09:45",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 12.71,
-      "high": 13.23,
-      "low": 12.27,
-      "close": 12.88,
-      "volume": 4040400
-    },
     {
       "date": "2021-08-19",
       "open": 12.59,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3461006
+      "open": 11.4,
+      "high": 11.42,
+      "low": 10.69,
+      "close": 11.08,
+      "volume": 3601900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.8,
+      "high": 11.23,
+      "low": 10.72,
+      "close": 11.05,
+      "volume": 2452100
     }
   ]
 }

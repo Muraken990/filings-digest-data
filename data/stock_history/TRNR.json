@@ -1,9 +1,9 @@
 {
   "code": "TRNR",
   "ticker": "TRNR",
-  "last_updated": "2026-08-18 12:25:55",
+  "last_updated": "2026-08-19 12:25:07",
   "period": "5y",
-  "data_points": 825,
+  "data_points": 826,
   "data": [
     {
       "date": "2023-04-28",
@@ -6599,11 +6599,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 29686
+      "open": 3.65,
+      "high": 3.65,
+      "low": 3.37,
+      "close": 3.52,
+      "volume": 31100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 3.5,
+      "high": 3.5,
+      "low": 3.1,
+      "close": 3.23,
+      "volume": 22300
     }
   ]
 }

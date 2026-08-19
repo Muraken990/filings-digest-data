@@ -1,9 +1,9 @@
 {
   "code": "WOK",
   "ticker": "WOK",
-  "last_updated": "2026-08-18 12:33:39",
+  "last_updated": "2026-08-19 12:32:52",
   "period": "5y",
-  "data_points": 496,
+  "data_points": 497,
   "data": [
     {
       "date": "2024-08-23",
@@ -3967,11 +3967,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3505481
+      "open": 2.5,
+      "high": 3.18,
+      "low": 2.27,
+      "close": 2.33,
+      "volume": 3564800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.21,
+      "high": 2.21,
+      "low": 2.03,
+      "close": 2.2,
+      "volume": 345300
     }
   ]
 }

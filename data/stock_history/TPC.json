@@ -1,18 +1,10 @@
 {
   "code": "TPC",
   "ticker": "TPC",
-  "last_updated": "2026-08-18 12:25:05",
+  "last_updated": "2026-08-19 12:24:17",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 13.71,
-      "high": 13.97,
-      "low": 13.56,
-      "close": 13.58,
-      "volume": 194400
-    },
     {
       "date": "2021-08-19",
       "open": 13.41,
@@ -6255,7 +6247,7 @@
     },
     {
       "date": "2024-09-26",
-      "open": 26.09,
+      "open": 26.1,
       "high": 26.49,
       "low": 25.51,
       "close": 25.54,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 298368
+      "open": 96.82,
+      "high": 98.18,
+      "low": 95.39,
+      "close": 97.22,
+      "volume": 437500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 95.18,
+      "high": 95.72,
+      "low": 91.67,
+      "close": 91.73,
+      "volume": 284800
     }
   ]
 }

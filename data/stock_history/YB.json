@@ -1,9 +1,9 @@
 {
   "code": "YB",
   "ticker": "YB",
-  "last_updated": "2026-08-18 12:35:24",
+  "last_updated": "2026-08-19 12:34:36",
   "period": "5y",
-  "data_points": 323,
+  "data_points": 324,
   "data": [
     {
       "date": "2025-04-30",
@@ -2583,11 +2583,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 112873
+      "open": 14.0,
+      "high": 14.39,
+      "low": 13.5,
+      "close": 14.38,
+      "volume": 112900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 14.25,
+      "high": 14.25,
+      "low": 13.75,
+      "close": 13.94,
+      "volume": 35100
     }
   ]
 }

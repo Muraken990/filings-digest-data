@@ -1,9 +1,9 @@
 {
   "code": "VTS",
   "ticker": "VTS",
-  "last_updated": "2026-08-18 12:31:55",
+  "last_updated": "2026-08-19 12:31:07",
   "period": "5y",
-  "data_points": 900,
+  "data_points": 901,
   "data": [
     {
       "date": "2023-01-10",
@@ -7199,11 +7199,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 405762
+      "open": 16.26,
+      "high": 16.66,
+      "low": 16.18,
+      "close": 16.63,
+      "volume": 461000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 16.85,
+      "high": 16.88,
+      "low": 16.41,
+      "close": 16.45,
+      "volume": 383400
     }
   ]
 }

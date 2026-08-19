@@ -1,9 +1,9 @@
 {
   "code": "SVRE",
   "ticker": "SVRE",
-  "last_updated": "2026-08-18 12:21:36",
+  "last_updated": "2026-08-19 12:20:52",
   "period": "5y",
-  "data_points": 1052,
+  "data_points": 1055,
   "data": [
     {
       "date": "2022-06-03",
@@ -8286,6 +8286,14 @@
       "volume": 76800
     },
     {
+      "date": "2026-07-22",
+      "open": 3.18,
+      "high": 3.39,
+      "low": 3.05,
+      "close": 3.38,
+      "volume": 46500
+    },
+    {
       "date": "2026-07-23",
       "open": 3.3,
       "high": 3.75,
@@ -8332,6 +8340,14 @@
       "low": 3.47,
       "close": 3.8,
       "volume": 32600
+    },
+    {
+      "date": "2026-07-31",
+      "open": 3.79,
+      "high": 3.93,
+      "low": 3.67,
+      "close": 3.71,
+      "volume": 42800
     },
     {
       "date": "2026-08-03",
@@ -8415,11 +8431,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 18461
+      "open": 3.17,
+      "high": 3.29,
+      "low": 2.9,
+      "close": 2.9,
+      "volume": 18500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.87,
+      "high": 3.15,
+      "low": 2.55,
+      "close": 2.95,
+      "volume": 57500
     }
   ]
 }
