@@ -1,9 +1,9 @@
 {
   "code": "LNKS",
   "ticker": "LNKS",
-  "last_updated": "2026-08-18 09:54:20",
+  "last_updated": "2026-08-19 09:54:40",
   "period": "5y",
-  "data_points": 424,
+  "data_points": 423,
   "data": [
     {
       "date": "2024-12-05",
@@ -3238,22 +3238,6 @@
       "volume": 31300
     },
     {
-      "date": "2026-07-21",
-      "open": 1.31,
-      "high": 1.33,
-      "low": 1.28,
-      "close": 1.32,
-      "volume": 36000
-    },
-    {
-      "date": "2026-07-22",
-      "open": 1.33,
-      "high": 1.33,
-      "low": 1.27,
-      "close": 1.29,
-      "volume": 30800
-    },
-    {
       "date": "2026-07-23",
       "open": 1.3,
       "high": 1.36,
@@ -3391,11 +3375,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 562464
+      "open": 1.03,
+      "high": 1.24,
+      "low": 0.95,
+      "close": 1.09,
+      "volume": 594100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.05,
+      "high": 1.06,
+      "low": 0.96,
+      "close": 0.99,
+      "volume": 210800
     }
   ]
 }

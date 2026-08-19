@@ -1,9 +1,9 @@
 {
   "code": "PERF",
   "ticker": "PERF",
-  "last_updated": "2026-08-18 10:12:10",
+  "last_updated": "2026-08-19 10:12:33",
   "period": "5y",
-  "data_points": 949,
+  "data_points": 950,
   "data": [
     {
       "date": "2022-10-31",
@@ -7591,11 +7591,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 76849
+      "open": 1.88,
+      "high": 1.89,
+      "low": 1.88,
+      "close": 1.89,
+      "volume": 77200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.89,
+      "high": 1.89,
+      "low": 1.88,
+      "close": 1.88,
+      "volume": 150300
     }
   ]
 }

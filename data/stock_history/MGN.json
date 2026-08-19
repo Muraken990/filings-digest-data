@@ -1,9 +1,9 @@
 {
   "code": "MGN",
   "ticker": "MGN",
-  "last_updated": "2026-08-18 09:57:46",
+  "last_updated": "2026-08-19 09:58:09",
   "period": "5y",
-  "data_points": 223,
+  "data_points": 224,
   "data": [
     {
       "date": "2025-09-26",
@@ -1783,11 +1783,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1201502
+      "open": 0.1,
+      "high": 0.1,
+      "low": 0.09,
+      "close": 0.1,
+      "volume": 1210800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.1,
+      "high": 0.1,
+      "low": 0.09,
+      "close": 0.1,
+      "volume": 1039900
     }
   ]
 }

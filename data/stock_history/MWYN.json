@@ -1,9 +1,9 @@
 {
   "code": "MWYN",
   "ticker": "MWYN",
-  "last_updated": "2026-08-18 10:01:10",
+  "last_updated": "2026-08-19 10:01:33",
   "period": "5y",
-  "data_points": 359,
+  "data_points": 360,
   "data": [
     {
       "date": "2025-03-13",
@@ -2871,11 +2871,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 60235
+      "open": 1.02,
+      "high": 1.06,
+      "low": 0.89,
+      "close": 1.03,
+      "volume": 60500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.04,
+      "high": 1.07,
+      "low": 1.04,
+      "close": 1.06,
+      "volume": 76300
     }
   ]
 }

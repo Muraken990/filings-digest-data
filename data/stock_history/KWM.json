@@ -1,9 +1,9 @@
 {
   "code": "KWM",
   "ticker": "KWM",
-  "last_updated": "2026-08-18 09:51:49",
+  "last_updated": "2026-08-19 09:52:08",
   "period": "5y",
-  "data_points": 315,
+  "data_points": 316,
   "data": [
     {
       "date": "2025-05-14",
@@ -2519,11 +2519,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 104330
+      "open": 2.49,
+      "high": 2.79,
+      "low": 2.48,
+      "close": 2.77,
+      "volume": 104900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.77,
+      "high": 2.81,
+      "low": 2.54,
+      "close": 2.64,
+      "volume": 72800
     }
   ]
 }

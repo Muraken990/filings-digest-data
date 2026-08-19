@@ -1,9 +1,9 @@
 {
   "code": "NB",
   "ticker": "NB",
-  "last_updated": "2026-08-18 10:02:00",
+  "last_updated": "2026-08-19 10:02:23",
   "period": "5y",
-  "data_points": 853,
+  "data_points": 854,
   "data": [
     {
       "date": "2023-03-21",
@@ -6823,11 +6823,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2622424
+      "open": 5.07,
+      "high": 5.09,
+      "low": 4.77,
+      "close": 4.81,
+      "volume": 2689100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.66,
+      "high": 4.78,
+      "low": 4.47,
+      "close": 4.53,
+      "volume": 4264700
     }
   ]
 }

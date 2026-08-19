@@ -1,9 +1,9 @@
 {
   "code": "KAPA",
   "ticker": "KAPA",
-  "last_updated": "2026-08-18 09:50:04",
+  "last_updated": "2026-08-19 09:50:24",
   "period": "5y",
-  "data_points": 481,
+  "data_points": 482,
   "data": [
     {
       "date": "2024-09-16",
@@ -3847,11 +3847,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 494992
+      "open": 0.34,
+      "high": 0.34,
+      "low": 0.32,
+      "close": 0.32,
+      "volume": 610000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.32,
+      "high": 0.32,
+      "low": 0.31,
+      "close": 0.31,
+      "volume": 209600
     }
   ]
 }

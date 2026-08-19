@@ -1,9 +1,9 @@
 {
   "code": "MRX",
   "ticker": "MRX",
-  "last_updated": "2026-08-18 10:00:17",
+  "last_updated": "2026-08-19 10:00:40",
   "period": "5y",
-  "data_points": 576,
+  "data_points": 577,
   "data": [
     {
       "date": "2024-04-25",
@@ -4607,11 +4607,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 616061
+      "open": 71.02,
+      "high": 73.4,
+      "low": 70.5,
+      "close": 71.45,
+      "volume": 648000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 70.75,
+      "high": 72.81,
+      "low": 69.49,
+      "close": 71.88,
+      "volume": 487000
     }
   ]
 }

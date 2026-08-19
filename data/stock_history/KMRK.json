@@ -1,9 +1,9 @@
 {
   "code": "KMRK",
   "ticker": "KMRK",
-  "last_updated": "2026-08-18 09:50:56",
+  "last_updated": "2026-08-19 09:51:16",
   "period": "5y",
-  "data_points": 272,
+  "data_points": 273,
   "data": [
     {
       "date": "2025-07-16",
@@ -2175,11 +2175,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 59714
+      "open": 1.18,
+      "high": 1.24,
+      "low": 1.15,
+      "close": 1.21,
+      "volume": 61000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.17,
+      "high": 1.24,
+      "low": 1.06,
+      "close": 1.18,
+      "volume": 71300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "INTR",
   "ticker": "INTR",
-  "last_updated": "2026-08-18 09:46:44",
+  "last_updated": "2026-08-19 09:47:04",
   "period": "5y",
-  "data_points": 1040,
+  "data_points": 1041,
   "data": [
     {
       "date": "2022-06-23",
@@ -8319,11 +8319,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4877506
+      "open": 5.26,
+      "high": 5.3,
+      "low": 5.14,
+      "close": 5.29,
+      "volume": 4877500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 5.21,
+      "high": 5.33,
+      "low": 5.08,
+      "close": 5.09,
+      "volume": 3034300
     }
   ]
 }

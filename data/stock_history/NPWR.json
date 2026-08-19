@@ -1,18 +1,10 @@
 {
   "code": "NPWR",
   "ticker": "NPWR",
-  "last_updated": "2026-08-18 10:05:20",
+  "last_updated": "2026-08-19 10:05:43",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 9.73,
-      "high": 9.73,
-      "low": 9.7,
-      "close": 9.72,
-      "volume": 5000
-    },
     {
       "date": "2021-08-19",
       "open": 9.75,
@@ -9886,14 +9878,6 @@
       "volume": 759200
     },
     {
-      "date": "2026-07-22",
-      "open": 1.5,
-      "high": 1.56,
-      "low": 1.47,
-      "close": 1.51,
-      "volume": 1015200
-    },
-    {
       "date": "2026-07-23",
       "open": 1.47,
       "high": 1.52,
@@ -9940,14 +9924,6 @@
       "low": 1.38,
       "close": 1.47,
       "volume": 731000
-    },
-    {
-      "date": "2026-07-31",
-      "open": 1.49,
-      "high": 1.5,
-      "low": 1.39,
-      "close": 1.43,
-      "volume": 425200
     },
     {
       "date": "2026-08-03",
@@ -10031,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1250485
+      "open": 1.92,
+      "high": 2.0,
+      "low": 1.68,
+      "close": 1.73,
+      "volume": 1293100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.7,
+      "high": 1.83,
+      "low": 1.64,
+      "close": 1.65,
+      "volume": 957900
     }
   ]
 }

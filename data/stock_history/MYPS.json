@@ -1,18 +1,10 @@
 {
   "code": "MYPS",
   "ticker": "MYPS",
-  "last_updated": "2026-08-18 10:01:57",
+  "last_updated": "2026-08-19 10:02:20",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 4.3,
-      "high": 4.33,
-      "low": 4.07,
-      "close": 4.17,
-      "volume": 1402600
-    },
     {
       "date": "2021-08-19",
       "open": 4.07,
@@ -9878,6 +9870,14 @@
       "volume": 435500
     },
     {
+      "date": "2026-07-21",
+      "open": 0.81,
+      "high": 0.85,
+      "low": 0.76,
+      "close": 0.76,
+      "volume": 266200
+    },
+    {
       "date": "2026-07-22",
       "open": 0.77,
       "high": 0.79,
@@ -9932,6 +9932,14 @@
       "low": 0.56,
       "close": 0.59,
       "volume": 208000
+    },
+    {
+      "date": "2026-07-31",
+      "open": 0.59,
+      "high": 0.63,
+      "low": 0.57,
+      "close": 0.61,
+      "volume": 259700
     },
     {
       "date": "2026-08-03",
@@ -10015,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 369879
+      "open": 0.5,
+      "high": 0.57,
+      "low": 0.5,
+      "close": 0.52,
+      "volume": 369900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.51,
+      "high": 0.53,
+      "low": 0.5,
+      "close": 0.51,
+      "volume": 324500
     }
   ]
 }

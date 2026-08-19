@@ -1,9 +1,9 @@
 {
   "code": "LVLU",
   "ticker": "LVLU",
-  "last_updated": "2026-08-18 09:55:13",
+  "last_updated": "2026-08-19 09:55:36",
   "period": "5y",
-  "data_points": 1192,
+  "data_points": 1193,
   "data": [
     {
       "date": "2021-11-11",
@@ -9535,11 +9535,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5609
+      "open": 16.0,
+      "high": 16.0,
+      "low": 14.74,
+      "close": 15.08,
+      "volume": 5700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 15.03,
+      "high": 15.03,
+      "low": 14.62,
+      "close": 14.62,
+      "volume": 2700
     }
   ]
 }

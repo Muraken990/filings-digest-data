@@ -1,9 +1,9 @@
 {
   "code": "IEAGU",
   "ticker": "IEAGU",
-  "last_updated": "2026-08-18 09:45:01",
+  "last_updated": "2026-08-19 09:45:22",
   "period": "5y",
-  "data_points": 143,
+  "data_points": 144,
   "data": [
     {
       "date": "2026-01-16",
@@ -1143,11 +1143,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 978
+      "open": 10.36,
+      "high": 10.4,
+      "low": 10.36,
+      "close": 10.36,
+      "volume": 1700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.36,
+      "high": 10.36,
+      "low": 10.36,
+      "close": 10.36,
+      "volume": 0
     }
   ]
 }

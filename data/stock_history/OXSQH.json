@@ -1,9 +1,9 @@
 {
   "code": "OXSQH",
   "ticker": "OXSQH",
-  "last_updated": "2026-08-18 10:09:42",
+  "last_updated": "2026-08-19 10:10:04",
   "period": "5y",
-  "data_points": 255,
+  "data_points": 253,
   "data": [
     {
       "date": "2025-08-12",
@@ -1886,22 +1886,6 @@
       "volume": 1100
     },
     {
-      "date": "2026-07-21",
-      "open": 25.11,
-      "high": 25.11,
-      "low": 24.92,
-      "close": 25.05,
-      "volume": 4700
-    },
-    {
-      "date": "2026-07-22",
-      "open": 25.05,
-      "high": 25.05,
-      "low": 25.05,
-      "close": 25.05,
-      "volume": 0
-    },
-    {
       "date": "2026-07-23",
       "open": 25.06,
       "high": 25.22,
@@ -1948,14 +1932,6 @@
       "low": 24.92,
       "close": 24.92,
       "volume": 4500
-    },
-    {
-      "date": "2026-07-31",
-      "open": 24.95,
-      "high": 24.96,
-      "low": 24.9,
-      "close": 24.91,
-      "volume": 1500
     },
     {
       "date": "2026-08-03",
@@ -2039,11 +2015,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2383
+      "open": 24.93,
+      "high": 24.98,
+      "low": 24.93,
+      "close": 24.96,
+      "volume": 2400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 24.95,
+      "high": 24.98,
+      "low": 24.95,
+      "close": 24.98,
+      "volume": 900
     }
   ]
 }

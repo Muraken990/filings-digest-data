@@ -1,9 +1,9 @@
 {
   "code": "MSBIP",
   "ticker": "MSBIP",
-  "last_updated": "2026-08-18 10:00:18",
+  "last_updated": "2026-08-19 10:00:41",
   "period": "5y",
-  "data_points": 992,
+  "data_points": 993,
   "data": [
     {
       "date": "2022-08-29",
@@ -2407,10 +2407,10 @@
     },
     {
       "date": "2023-11-07",
-      "open": 18.75,
-      "high": 18.75,
+      "open": 18.76,
+      "high": 18.76,
       "low": 18.74,
-      "close": 18.75,
+      "close": 18.76,
       "volume": 800
     },
     {
@@ -2431,8 +2431,8 @@
     },
     {
       "date": "2023-11-10",
-      "open": 18.75,
-      "high": 18.75,
+      "open": 18.76,
+      "high": 18.76,
       "low": 18.61,
       "close": 18.61,
       "volume": 1100
@@ -2440,9 +2440,9 @@
     {
       "date": "2023-11-13",
       "open": 18.6,
-      "high": 18.75,
+      "high": 18.76,
       "low": 18.6,
-      "close": 18.75,
+      "close": 18.76,
       "volume": 700
     },
     {
@@ -7935,11 +7935,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2484
+      "open": 25.15,
+      "high": 25.25,
+      "low": 25.15,
+      "close": 25.25,
+      "volume": 2500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.15,
+      "high": 25.38,
+      "low": 25.15,
+      "close": 25.25,
+      "volume": 1900
     }
   ]
 }

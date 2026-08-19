@@ -1,9 +1,9 @@
 {
   "code": "HCAC",
   "ticker": "HCAC",
-  "last_updated": "2026-08-18 09:41:34",
+  "last_updated": "2026-08-19 09:41:54",
   "period": "5y",
-  "data_points": 140,
+  "data_points": 138,
   "data": [
     {
       "date": "2026-01-27",
@@ -966,22 +966,6 @@
       "volume": 500
     },
     {
-      "date": "2026-07-21",
-      "open": 10.05,
-      "high": 10.05,
-      "low": 10.05,
-      "close": 10.05,
-      "volume": 182100
-    },
-    {
-      "date": "2026-07-22",
-      "open": 10.06,
-      "high": 10.06,
-      "low": 10.06,
-      "close": 10.06,
-      "volume": 1400
-    },
-    {
       "date": "2026-07-23",
       "open": 10.06,
       "high": 10.06,
@@ -1028,14 +1012,6 @@
       "low": 10.06,
       "close": 10.07,
       "volume": 25100
-    },
-    {
-      "date": "2026-07-31",
-      "open": 10.07,
-      "high": 10.07,
-      "low": 10.06,
-      "close": 10.07,
-      "volume": 95100
     },
     {
       "date": "2026-08-03",
@@ -1119,11 +1095,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7
+      "open": 10.08,
+      "high": 10.08,
+      "low": 10.08,
+      "close": 10.08,
+      "volume": 200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.08,
+      "high": 10.08,
+      "low": 10.08,
+      "close": 10.08,
+      "volume": 200
     }
   ]
 }

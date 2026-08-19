@@ -1,9 +1,9 @@
 {
   "code": "ITOC",
   "ticker": "ITOC",
-  "last_updated": "2026-08-18 09:48:22",
+  "last_updated": "2026-08-19 09:48:42",
   "period": "5y",
-  "data_points": 486,
+  "data_points": 489,
   "data": [
     {
       "date": "2024-09-05",
@@ -3750,6 +3750,14 @@
       "volume": 31100
     },
     {
+      "date": "2026-07-21",
+      "open": 0.27,
+      "high": 0.28,
+      "low": 0.24,
+      "close": 0.28,
+      "volume": 213000
+    },
+    {
       "date": "2026-07-22",
       "open": 0.28,
       "high": 0.29,
@@ -3804,6 +3812,14 @@
       "low": 0.24,
       "close": 0.25,
       "volume": 63500
+    },
+    {
+      "date": "2026-07-31",
+      "open": 0.25,
+      "high": 0.28,
+      "low": 0.25,
+      "close": 0.27,
+      "volume": 208300
     },
     {
       "date": "2026-08-03",
@@ -3887,11 +3903,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1616285
+      "open": 0.25,
+      "high": 0.28,
+      "low": 0.23,
+      "close": 0.28,
+      "volume": 1643000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.24,
+      "high": 0.31,
+      "low": 0.24,
+      "close": 0.28,
+      "volume": 847500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "NMFCZ",
   "ticker": "NMFCZ",
-  "last_updated": "2026-08-18 10:04:29",
+  "last_updated": "2026-08-19 10:04:52",
   "period": "5y",
-  "data_points": 680,
+  "data_points": 681,
   "data": [
     {
       "date": "2023-11-27",
@@ -649,7 +649,7 @@
       "date": "2024-03-22",
       "open": 21.01,
       "high": 21.03,
-      "low": 20.99,
+      "low": 20.98,
       "close": 21.03,
       "volume": 2200
     },
@@ -831,7 +831,7 @@
     },
     {
       "date": "2024-04-25",
-      "open": 20.99,
+      "open": 20.98,
       "high": 21.08,
       "low": 20.97,
       "close": 21.03,
@@ -1552,7 +1552,7 @@
     {
       "date": "2024-09-04",
       "open": 21.67,
-      "high": 21.72,
+      "high": 21.71,
       "low": 21.49,
       "close": 21.62,
       "volume": 9600
@@ -5439,11 +5439,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6982
+      "open": 25.1,
+      "high": 25.17,
+      "low": 25.1,
+      "close": 25.15,
+      "volume": 7000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.12,
+      "high": 25.15,
+      "low": 25.1,
+      "close": 25.15,
+      "volume": 12100
     }
   ]
 }

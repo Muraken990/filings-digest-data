@@ -1,9 +1,9 @@
 {
   "code": "GTLB",
   "ticker": "GTLB",
-  "last_updated": "2026-08-18 09:40:43",
+  "last_updated": "2026-08-19 09:41:03",
   "period": "5y",
-  "data_points": 1214,
+  "data_points": 1215,
   "data": [
     {
       "date": "2021-10-14",
@@ -9711,11 +9711,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4198688
+      "open": 42.21,
+      "high": 42.54,
+      "low": 40.38,
+      "close": 40.52,
+      "volume": 4202900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 40.48,
+      "high": 42.32,
+      "low": 40.44,
+      "close": 41.5,
+      "volume": 4583300
     }
   ]
 }

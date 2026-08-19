@@ -1,9 +1,9 @@
 {
   "code": "HTFC",
   "ticker": "HTFC",
-  "last_updated": "2026-08-18 09:43:20",
+  "last_updated": "2026-08-19 09:43:40",
   "period": "5y",
-  "data_points": 1035,
+  "data_points": 1036,
   "data": [
     {
       "date": "2022-06-28",
@@ -8279,11 +8279,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4246
+      "open": 24.96,
+      "high": 24.98,
+      "low": 24.95,
+      "close": 24.97,
+      "volume": 4200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 24.91,
+      "high": 24.99,
+      "low": 24.91,
+      "close": 24.99,
+      "volume": 1900
     }
   ]
 }

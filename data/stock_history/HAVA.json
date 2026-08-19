@@ -1,9 +1,9 @@
 {
   "code": "HAVA",
   "ticker": "HAVA",
-  "last_updated": "2026-08-18 09:40:47",
+  "last_updated": "2026-08-19 09:41:07",
   "period": "5y",
-  "data_points": 165,
+  "data_points": 166,
   "data": [
     {
       "date": "2025-12-15",
@@ -1319,11 +1319,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4389
+      "open": 10.17,
+      "high": 10.18,
+      "low": 10.17,
+      "close": 10.18,
+      "volume": 4400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.18,
+      "high": 10.18,
+      "low": 10.18,
+      "close": 10.18,
+      "volume": 0
     }
   ]
 }

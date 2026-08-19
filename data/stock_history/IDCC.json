@@ -1,18 +1,10 @@
 {
   "code": "IDCC",
   "ticker": "IDCC",
-  "last_updated": "2026-08-18 09:45:00",
+  "last_updated": "2026-08-19 09:45:21",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 65.25,
-      "high": 65.64,
-      "low": 64.84,
-      "close": 64.91,
-      "volume": 116400
-    },
     {
       "date": "2021-08-19",
       "open": 64.24,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 239931
+      "open": 343.61,
+      "high": 351.0,
+      "low": 340.82,
+      "close": 348.39,
+      "volume": 240000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 348.15,
+      "high": 349.52,
+      "low": 335.19,
+      "close": 335.77,
+      "volume": 171200
     }
   ]
 }

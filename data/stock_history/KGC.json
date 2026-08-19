@@ -1,17 +1,17 @@
 {
   "code": "KGC",
   "ticker": "KGC",
-  "last_updated": "2026-08-18 09:50:08",
+  "last_updated": "2026-08-19 09:50:27",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-18",
-      "open": 5.47,
-      "high": 5.47,
-      "low": 5.26,
-      "close": 5.32,
-      "volume": 14628900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-19",
@@ -9942,6 +9942,14 @@
       "volume": 11501300
     },
     {
+      "date": "2026-07-31",
+      "open": 23.05,
+      "high": 23.25,
+      "low": 22.37,
+      "close": 23.1,
+      "volume": 5264600
+    },
+    {
       "date": "2026-08-03",
       "open": 22.96,
       "high": 23.49,
@@ -10023,11 +10031,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3935190
+      "open": 27.54,
+      "high": 28.05,
+      "low": 27.36,
+      "close": 27.72,
+      "volume": 4612600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 27.26,
+      "high": 27.53,
+      "low": 27.0,
+      "close": 27.12,
+      "volume": 4352600
     }
   ]
 }

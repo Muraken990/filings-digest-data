@@ -1,9 +1,9 @@
 {
   "code": "PDC",
   "ticker": "PDC",
-  "last_updated": "2026-08-18 10:11:21",
+  "last_updated": "2026-08-19 10:11:44",
   "period": "5y",
-  "data_points": 768,
+  "data_points": 769,
   "data": [
     {
       "date": "2023-07-25",
@@ -6143,11 +6143,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10420
+      "open": 3.19,
+      "high": 3.19,
+      "low": 3.05,
+      "close": 3.11,
+      "volume": 10600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 3.06,
+      "high": 3.14,
+      "low": 2.96,
+      "close": 3.08,
+      "volume": 20600
     }
   ]
 }

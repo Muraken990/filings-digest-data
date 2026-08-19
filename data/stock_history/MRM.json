@@ -1,18 +1,10 @@
 {
   "code": "MRM",
   "ticker": "MRM",
-  "last_updated": "2026-08-18 10:00:16",
+  "last_updated": "2026-08-19 10:00:39",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 5.92,
-      "high": 5.97,
-      "low": 5.63,
-      "close": 5.77,
-      "volume": 8200
-    },
     {
       "date": "2021-08-19",
       "open": 5.88,
@@ -9878,22 +9870,6 @@
       "volume": 3500
     },
     {
-      "date": "2026-07-21",
-      "open": 0.99,
-      "high": 1.0,
-      "low": 0.94,
-      "close": 0.99,
-      "volume": 5600
-    },
-    {
-      "date": "2026-07-22",
-      "open": 0.96,
-      "high": 1.01,
-      "low": 0.93,
-      "close": 1.01,
-      "volume": 18800
-    },
-    {
       "date": "2026-07-23",
       "open": 0.93,
       "high": 1.01,
@@ -9940,14 +9916,6 @@
       "low": 0.95,
       "close": 0.95,
       "volume": 1000
-    },
-    {
-      "date": "2026-07-31",
-      "open": 0.94,
-      "high": 0.99,
-      "low": 0.93,
-      "close": 0.95,
-      "volume": 11100
     },
     {
       "date": "2026-08-03",
@@ -10031,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 11097
+      "open": 1.07,
+      "high": 1.1,
+      "low": 1.05,
+      "close": 1.08,
+      "volume": 11700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.04,
+      "high": 1.09,
+      "low": 1.01,
+      "close": 1.04,
+      "volume": 23700
     }
   ]
 }

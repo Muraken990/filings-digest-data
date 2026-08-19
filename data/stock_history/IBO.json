@@ -1,9 +1,9 @@
 {
   "code": "IBO",
   "ticker": "IBO",
-  "last_updated": "2026-08-18 09:44:58",
+  "last_updated": "2026-08-19 09:45:19",
   "period": "5y",
-  "data_points": 478,
+  "data_points": 482,
   "data": [
     {
       "date": "2024-09-16",
@@ -3694,6 +3694,22 @@
       "volume": 11900
     },
     {
+      "date": "2026-07-21",
+      "open": 0.42,
+      "high": 0.45,
+      "low": 0.42,
+      "close": 0.44,
+      "volume": 21200
+    },
+    {
+      "date": "2026-07-22",
+      "open": 0.46,
+      "high": 0.46,
+      "low": 0.43,
+      "close": 0.43,
+      "volume": 8100
+    },
+    {
       "date": "2026-07-23",
       "open": 0.46,
       "high": 0.47,
@@ -3740,6 +3756,14 @@
       "low": 0.43,
       "close": 0.43,
       "volume": 9600
+    },
+    {
+      "date": "2026-07-31",
+      "open": 0.43,
+      "high": 0.44,
+      "low": 0.43,
+      "close": 0.43,
+      "volume": 10800
     },
     {
       "date": "2026-08-03",
@@ -3823,11 +3847,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 54574
+      "open": 0.44,
+      "high": 0.48,
+      "low": 0.44,
+      "close": 0.48,
+      "volume": 54600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.46,
+      "high": 0.48,
+      "low": 0.46,
+      "close": 0.47,
+      "volume": 26600
     }
   ]
 }

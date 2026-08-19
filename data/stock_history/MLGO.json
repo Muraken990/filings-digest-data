@@ -1,18 +1,10 @@
 {
   "code": "MLGO",
   "ticker": "MLGO",
-  "last_updated": "2026-08-18 09:58:37",
+  "last_updated": "2026-08-19 09:59:00",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 59760.0,
-      "high": 60240.0,
-      "low": 59760.0,
-      "close": 59820.0,
-      "volume": 1
-    },
     {
       "date": "2021-08-19",
       "open": 59820.0,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 15556
+      "open": 4.3,
+      "high": 4.37,
+      "low": 4.17,
+      "close": 4.23,
+      "volume": 15700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.16,
+      "high": 4.25,
+      "low": 4.16,
+      "close": 4.17,
+      "volume": 13200
     }
   ]
 }

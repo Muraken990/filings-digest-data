@@ -1,18 +1,10 @@
 {
   "code": "ISPC",
   "ticker": "ISPC",
-  "last_updated": "2026-08-18 09:47:36",
+  "last_updated": "2026-08-19 09:47:56",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 4496.0,
-      "high": 4696.0,
-      "low": 4496.0,
-      "close": 4568.0,
-      "volume": 26
-    },
     {
       "date": "2021-08-19",
       "open": 4600.0,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 107753
+      "open": 2.21,
+      "high": 2.23,
+      "low": 2.09,
+      "close": 2.15,
+      "volume": 109900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.14,
+      "high": 2.42,
+      "low": 2.14,
+      "close": 2.34,
+      "volume": 82500
     }
   ]
 }

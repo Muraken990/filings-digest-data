@@ -1,18 +1,10 @@
 {
   "code": "INBK",
   "ticker": "INBK",
-  "last_updated": "2026-08-18 09:45:53",
+  "last_updated": "2026-08-19 09:46:14",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 28.99,
-      "high": 29.21,
-      "low": 28.48,
-      "close": 28.48,
-      "volume": 14400
-    },
     {
       "date": "2021-08-19",
       "open": 28.34,
@@ -6666,7 +6658,7 @@
       "open": 41.1,
       "high": 41.17,
       "low": 39.83,
-      "close": 40.26,
+      "close": 40.25,
       "volume": 31500
     },
     {
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 52334
+      "open": 29.48,
+      "high": 29.48,
+      "low": 28.67,
+      "close": 28.85,
+      "volume": 52500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 29.04,
+      "high": 29.82,
+      "low": 28.7,
+      "close": 29.38,
+      "volume": 32200
     }
   ]
 }

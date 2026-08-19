@@ -1,9 +1,9 @@
 {
   "code": "PASW",
   "ticker": "PASW",
-  "last_updated": "2026-08-18 10:10:30",
+  "last_updated": "2026-08-19 10:10:53",
   "period": "5y",
-  "data_points": 271,
+  "data_points": 273,
   "data": [
     {
       "date": "2025-07-18",
@@ -2022,6 +2022,14 @@
       "volume": 74400
     },
     {
+      "date": "2026-07-21",
+      "open": 0.15,
+      "high": 0.15,
+      "low": 0.14,
+      "close": 0.15,
+      "volume": 9400
+    },
+    {
       "date": "2026-07-22",
       "open": 0.15,
       "high": 0.21,
@@ -2167,11 +2175,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 51473
+      "open": 0.13,
+      "high": 0.14,
+      "low": 0.13,
+      "close": 0.13,
+      "volume": 61200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.13,
+      "high": 0.13,
+      "low": 0.12,
+      "close": 0.13,
+      "volume": 88000
     }
   ]
 }

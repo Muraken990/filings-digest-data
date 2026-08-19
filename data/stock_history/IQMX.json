@@ -1,9 +1,9 @@
 {
   "code": "IQMX",
   "ticker": "IQMX",
-  "last_updated": "2026-08-18 09:47:33",
+  "last_updated": "2026-08-19 09:47:53",
   "period": "5y",
-  "data_points": 302,
+  "data_points": 303,
   "data": [
     {
       "date": "2025-06-02",
@@ -2415,11 +2415,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 170435
+      "open": 9.9,
+      "high": 10.14,
+      "low": 9.66,
+      "close": 9.92,
+      "volume": 173200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 9.73,
+      "high": 10.21,
+      "low": 9.64,
+      "close": 9.8,
+      "volume": 181300
     }
   ]
 }

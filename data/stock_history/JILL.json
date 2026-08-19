@@ -1,18 +1,10 @@
 {
   "code": "JILL",
   "ticker": "JILL",
-  "last_updated": "2026-08-18 09:49:14",
+  "last_updated": "2026-08-19 09:49:34",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 19.56,
-      "high": 19.93,
-      "low": 19.25,
-      "close": 19.44,
-      "volume": 20500
-    },
     {
       "date": "2021-08-19",
       "open": 19.17,
@@ -4394,7 +4386,7 @@
       "open": 27.55,
       "high": 28.24,
       "low": 27.16,
-      "close": 27.88,
+      "close": 27.87,
       "volume": 68100
     },
     {
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 23198
+      "open": 18.88,
+      "high": 18.88,
+      "low": 18.26,
+      "close": 18.68,
+      "volume": 33400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 18.88,
+      "high": 20.0,
+      "low": 18.35,
+      "close": 20.0,
+      "volume": 89900
     }
   ]
 }

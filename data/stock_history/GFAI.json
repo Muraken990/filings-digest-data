@@ -1,9 +1,9 @@
 {
   "code": "GFAI",
   "ticker": "GFAI",
-  "last_updated": "2026-08-18 09:37:21",
+  "last_updated": "2026-08-19 09:37:42",
   "period": "5y",
-  "data_points": 1223,
+  "data_points": 1224,
   "data": [
     {
       "date": "2021-09-29",
@@ -9783,11 +9783,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 43948
+      "open": 0.36,
+      "high": 0.36,
+      "low": 0.35,
+      "close": 0.35,
+      "volume": 49000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.35,
+      "high": 0.36,
+      "low": 0.34,
+      "close": 0.34,
+      "volume": 85600
     }
   ]
 }

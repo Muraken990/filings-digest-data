@@ -1,18 +1,10 @@
 {
   "code": "OGEN",
   "ticker": "OGEN",
-  "last_updated": "2026-08-18 10:07:54",
+  "last_updated": "2026-08-19 10:08:18",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 1134.0,
-      "high": 1224.0,
-      "low": 1134.0,
-      "close": 1188.0,
-      "volume": 885
-    },
     {
       "date": "2021-08-19",
       "open": 1152.0,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 195564
+      "open": 0.54,
+      "high": 0.57,
+      "low": 0.53,
+      "close": 0.54,
+      "volume": 197900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.54,
+      "high": 0.56,
+      "low": 0.53,
+      "close": 0.55,
+      "volume": 40300
     }
   ]
 }

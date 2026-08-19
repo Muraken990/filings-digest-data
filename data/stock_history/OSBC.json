@@ -1,18 +1,10 @@
 {
   "code": "OSBC",
   "ticker": "OSBC",
-  "last_updated": "2026-08-18 10:09:36",
+  "last_updated": "2026-08-19 10:09:59",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 11.14,
-      "high": 11.31,
-      "low": 11.1,
-      "close": 11.13,
-      "volume": 123400
-    },
     {
       "date": "2021-08-19",
       "open": 11.12,
@@ -9878,6 +9870,22 @@
       "volume": 506200
     },
     {
+      "date": "2026-07-21",
+      "open": 23.42,
+      "high": 23.65,
+      "low": 23.32,
+      "close": 23.61,
+      "volume": 472500
+    },
+    {
+      "date": "2026-07-22",
+      "open": 23.59,
+      "high": 23.61,
+      "low": 23.21,
+      "close": 23.35,
+      "volume": 502500
+    },
+    {
       "date": "2026-07-23",
       "open": 22.94,
       "high": 23.47,
@@ -9927,11 +9935,11 @@
     },
     {
       "date": "2026-07-31",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
+      "open": 25.17,
+      "high": 25.35,
+      "low": 24.94,
+      "close": 25.29,
+      "volume": 336700
     },
     {
       "date": "2026-08-03",
@@ -10015,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 375005
+      "open": 25.78,
+      "high": 26.06,
+      "low": 25.71,
+      "close": 25.83,
+      "volume": 381500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.93,
+      "high": 26.0,
+      "low": 25.62,
+      "close": 25.66,
+      "volume": 344200
     }
   ]
 }

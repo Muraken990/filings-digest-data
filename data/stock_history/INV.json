@@ -1,9 +1,9 @@
 {
   "code": "INV",
   "ticker": "INV",
-  "last_updated": "2026-08-18 09:46:44",
+  "last_updated": "2026-08-19 09:47:05",
   "period": "5y",
-  "data_points": 1181,
+  "data_points": 1182,
   "data": [
     {
       "date": "2021-11-29",
@@ -9447,11 +9447,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 15617818
+      "open": 1.62,
+      "high": 1.65,
+      "low": 1.33,
+      "close": 1.38,
+      "volume": 16262600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.33,
+      "high": 1.37,
+      "low": 1.26,
+      "close": 1.33,
+      "volume": 6890000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ICG",
   "ticker": "ICG",
-  "last_updated": "2026-08-18 09:44:59",
+  "last_updated": "2026-08-19 09:45:20",
   "period": "5y",
-  "data_points": 858,
+  "data_points": 856,
   "data": [
     {
       "date": "2023-03-16",
@@ -6710,22 +6710,6 @@
       "volume": 82900
     },
     {
-      "date": "2026-07-21",
-      "open": 0.82,
-      "high": 0.9,
-      "low": 0.81,
-      "close": 0.81,
-      "volume": 7100
-    },
-    {
-      "date": "2026-07-22",
-      "open": 0.84,
-      "high": 0.86,
-      "low": 0.82,
-      "close": 0.83,
-      "volume": 7600
-    },
-    {
       "date": "2026-07-23",
       "open": 0.88,
       "high": 0.88,
@@ -6772,14 +6756,6 @@
       "low": 0.8,
       "close": 0.81,
       "volume": 6900
-    },
-    {
-      "date": "2026-07-31",
-      "open": 0.8,
-      "high": 0.83,
-      "low": 0.8,
-      "close": 0.81,
-      "volume": 29000
     },
     {
       "date": "2026-08-03",
@@ -6863,11 +6839,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6799
+      "open": 0.86,
+      "high": 0.9,
+      "low": 0.86,
+      "close": 0.9,
+      "volume": 6800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.89,
+      "high": 0.9,
+      "low": 0.88,
+      "close": 0.9,
+      "volume": 79300
     }
   ]
 }

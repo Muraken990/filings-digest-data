@@ -1,9 +1,9 @@
 {
   "code": "OTGA",
   "ticker": "OTGA",
-  "last_updated": "2026-08-18 10:09:37",
+  "last_updated": "2026-08-19 10:10:01",
   "period": "5y",
-  "data_points": 194,
+  "data_points": 195,
   "data": [
     {
       "date": "2025-11-03",
@@ -1551,11 +1551,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 204426
+      "open": 10.21,
+      "high": 10.21,
+      "low": 10.2,
+      "close": 10.2,
+      "volume": 201300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.19,
+      "high": 10.19,
+      "low": 10.19,
+      "close": 10.19,
+      "volume": 300
     }
   ]
 }

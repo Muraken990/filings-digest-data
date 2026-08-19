@@ -1,9 +1,9 @@
 {
   "code": "KDK",
   "ticker": "KDK",
-  "last_updated": "2026-08-18 09:50:06",
+  "last_updated": "2026-08-19 09:50:25",
   "period": "5y",
-  "data_points": 224,
+  "data_points": 225,
   "data": [
     {
       "date": "2025-09-25",
@@ -1791,11 +1791,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 989856
+      "open": 4.15,
+      "high": 4.3,
+      "low": 4.08,
+      "close": 4.15,
+      "volume": 998800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.09,
+      "high": 4.17,
+      "low": 3.98,
+      "close": 4.01,
+      "volume": 963600
     }
   ]
 }

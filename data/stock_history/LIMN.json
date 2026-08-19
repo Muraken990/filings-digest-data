@@ -1,9 +1,9 @@
 {
   "code": "LIMN",
   "ticker": "LIMN",
-  "last_updated": "2026-08-18 09:53:31",
+  "last_updated": "2026-08-19 09:53:50",
   "period": "5y",
-  "data_points": 324,
+  "data_points": 325,
   "data": [
     {
       "date": "2025-05-02",
@@ -2591,11 +2591,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4039822
+      "open": 0.13,
+      "high": 0.15,
+      "low": 0.13,
+      "close": 0.14,
+      "volume": 4101500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.13,
+      "high": 0.14,
+      "low": 0.13,
+      "close": 0.13,
+      "volume": 3405300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "GRAN",
   "ticker": "GRAN",
-  "last_updated": "2026-08-18 09:39:52",
+  "last_updated": "2026-08-19 09:40:12",
   "period": "5y",
-  "data_points": 281,
+  "data_points": 285,
   "data": [
     {
       "date": "2025-07-01",
@@ -2118,6 +2118,22 @@
       "volume": 18800
     },
     {
+      "date": "2026-07-21",
+      "open": 1.6,
+      "high": 1.6,
+      "low": 1.52,
+      "close": 1.52,
+      "volume": 600
+    },
+    {
+      "date": "2026-07-22",
+      "open": 1.47,
+      "high": 1.47,
+      "low": 1.43,
+      "close": 1.43,
+      "volume": 600
+    },
+    {
       "date": "2026-07-23",
       "open": 1.38,
       "high": 1.4,
@@ -2164,6 +2180,14 @@
       "low": 1.44,
       "close": 1.48,
       "volume": 600
+    },
+    {
+      "date": "2026-07-31",
+      "open": 1.39,
+      "high": 1.5,
+      "low": 1.39,
+      "close": 1.5,
+      "volume": 4200
     },
     {
       "date": "2026-08-03",
@@ -2247,11 +2271,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1622
+      "open": 1.26,
+      "high": 1.26,
+      "low": 1.26,
+      "close": 1.26,
+      "volume": 2500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.35,
+      "high": 1.41,
+      "low": 1.33,
+      "close": 1.41,
+      "volume": 3000
     }
   ]
 }

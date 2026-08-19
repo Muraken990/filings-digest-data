@@ -1,9 +1,9 @@
 {
   "code": "NPT",
   "ticker": "NPT",
-  "last_updated": "2026-08-18 10:04:34",
+  "last_updated": "2026-08-19 10:04:57",
   "period": "5y",
-  "data_points": 203,
+  "data_points": 206,
   "data": [
     {
       "date": "2025-10-22",
@@ -1486,6 +1486,22 @@
       "volume": 41200
     },
     {
+      "date": "2026-07-21",
+      "open": 2.6,
+      "high": 2.69,
+      "low": 2.57,
+      "close": 2.58,
+      "volume": 35600
+    },
+    {
+      "date": "2026-07-22",
+      "open": 2.62,
+      "high": 2.85,
+      "low": 2.56,
+      "close": 2.76,
+      "volume": 48700
+    },
+    {
       "date": "2026-07-23",
       "open": 2.83,
       "high": 2.83,
@@ -1623,11 +1639,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 19690
+      "open": 3.59,
+      "high": 3.77,
+      "low": 3.49,
+      "close": 3.52,
+      "volume": 19800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 3.62,
+      "high": 3.62,
+      "low": 3.5,
+      "close": 3.55,
+      "volume": 5200
     }
   ]
 }

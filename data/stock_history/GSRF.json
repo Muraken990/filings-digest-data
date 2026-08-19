@@ -1,9 +1,9 @@
 {
   "code": "GSRF",
   "ticker": "GSRF",
-  "last_updated": "2026-08-18 09:39:56",
+  "last_updated": "2026-08-19 09:40:17",
   "period": "5y",
-  "data_points": 207,
+  "data_points": 205,
   "data": [
     {
       "date": "2025-10-20",
@@ -1502,22 +1502,6 @@
       "volume": 0
     },
     {
-      "date": "2026-07-21",
-      "open": 10.15,
-      "high": 10.15,
-      "low": 10.15,
-      "close": 10.15,
-      "volume": 400
-    },
-    {
-      "date": "2026-07-22",
-      "open": 10.16,
-      "high": 10.16,
-      "low": 10.15,
-      "close": 10.15,
-      "volume": 9700
-    },
-    {
       "date": "2026-07-23",
       "open": 10.16,
       "high": 10.16,
@@ -1564,14 +1548,6 @@
       "low": 10.16,
       "close": 10.16,
       "volume": 0
-    },
-    {
-      "date": "2026-07-31",
-      "open": 10.17,
-      "high": 10.18,
-      "low": 10.17,
-      "close": 10.17,
-      "volume": 262200
     },
     {
       "date": "2026-08-03",
@@ -1655,11 +1631,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6999
+      "open": 10.19,
+      "high": 10.2,
+      "low": 10.19,
+      "close": 10.2,
+      "volume": 7000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.21,
+      "high": 10.21,
+      "low": 10.21,
+      "close": 10.21,
+      "volume": 75100
     }
   ]
 }

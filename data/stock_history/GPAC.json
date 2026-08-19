@@ -1,9 +1,9 @@
 {
   "code": "GPAC",
   "ticker": "GPAC",
-  "last_updated": "2026-08-18 09:39:05",
+  "last_updated": "2026-08-19 09:39:25",
   "period": "5y",
-  "data_points": 139,
+  "data_points": 140,
   "data": [
     {
       "date": "2026-01-23",
@@ -1111,11 +1111,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5028
+      "open": 10.04,
+      "high": 10.04,
+      "low": 10.04,
+      "close": 10.04,
+      "volume": 5000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.04,
+      "high": 10.04,
+      "low": 10.04,
+      "close": 10.04,
+      "volume": 0
     }
   ]
 }

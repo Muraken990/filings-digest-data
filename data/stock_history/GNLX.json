@@ -1,9 +1,9 @@
 {
   "code": "GNLX",
   "ticker": "GNLX",
-  "last_updated": "2026-08-18 09:39:01",
+  "last_updated": "2026-08-19 09:39:22",
   "period": "5y",
-  "data_points": 890,
+  "data_points": 891,
   "data": [
     {
       "date": "2023-01-26",
@@ -7119,11 +7119,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 235552
+      "open": 2.76,
+      "high": 2.76,
+      "low": 2.63,
+      "close": 2.7,
+      "volume": 265100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.7,
+      "high": 2.79,
+      "low": 2.56,
+      "close": 2.6,
+      "volume": 379000
     }
   ]
 }

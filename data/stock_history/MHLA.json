@@ -1,18 +1,10 @@
 {
   "code": "MHLA",
   "ticker": "MHLA",
-  "last_updated": "2026-08-18 09:58:33",
+  "last_updated": "2026-08-19 09:58:57",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 18.12,
-      "high": 18.12,
-      "low": 18.0,
-      "close": 18.05,
-      "volume": 5200
-    },
     {
       "date": "2021-08-19",
       "open": 18.05,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 52
+      "open": 10.76,
+      "high": 10.77,
+      "low": 10.76,
+      "close": 10.77,
+      "volume": 400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.82,
+      "high": 10.82,
+      "low": 10.82,
+      "close": 10.82,
+      "volume": 200
     }
   ]
 }

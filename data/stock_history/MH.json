@@ -1,9 +1,9 @@
 {
   "code": "MH",
   "ticker": "MH",
-  "last_updated": "2026-08-18 09:58:32",
+  "last_updated": "2026-08-19 09:58:56",
   "period": "5y",
-  "data_points": 265,
+  "data_points": 266,
   "data": [
     {
       "date": "2025-07-24",
@@ -2119,11 +2119,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 973908
+      "open": 13.16,
+      "high": 13.38,
+      "low": 12.5,
+      "close": 12.77,
+      "volume": 1108700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 13.0,
+      "high": 13.35,
+      "low": 12.86,
+      "close": 13.12,
+      "volume": 729600
     }
   ]
 }

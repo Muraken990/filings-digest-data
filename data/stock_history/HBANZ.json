@@ -1,9 +1,9 @@
 {
   "code": "HBANZ",
   "ticker": "HBANZ",
-  "last_updated": "2026-08-18 09:41:33",
+  "last_updated": "2026-08-19 09:41:53",
   "period": "5y",
-  "data_points": 133,
+  "data_points": 134,
   "data": [
     {
       "date": "2026-02-02",
@@ -1063,11 +1063,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 11011
+      "open": 19.44,
+      "high": 19.47,
+      "low": 19.4,
+      "close": 19.4,
+      "volume": 11100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 19.13,
+      "high": 19.26,
+      "low": 19.1,
+      "close": 19.23,
+      "volume": 17100
     }
   ]
 }

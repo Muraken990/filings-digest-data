@@ -1,9 +1,9 @@
 {
   "code": "PDCC",
   "ticker": "PDCC",
-  "last_updated": "2026-08-18 10:11:21",
+  "last_updated": "2026-08-19 10:11:44",
   "period": "5y",
-  "data_points": 519,
+  "data_points": 520,
   "data": [
     {
       "date": "2024-07-18",
@@ -1511,7 +1511,7 @@
     },
     {
       "date": "2025-04-17",
-      "open": 14.73,
+      "open": 14.72,
       "high": 15.06,
       "low": 14.65,
       "close": 15.06,
@@ -4151,11 +4151,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1441
+      "open": 8.88,
+      "high": 8.99,
+      "low": 8.88,
+      "close": 8.97,
+      "volume": 1400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 9.02,
+      "high": 9.02,
+      "low": 8.89,
+      "close": 8.89,
+      "volume": 1500
     }
   ]
 }

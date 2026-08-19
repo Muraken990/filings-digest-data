@@ -1,9 +1,9 @@
 {
   "code": "NHIC",
   "ticker": "NHIC",
-  "last_updated": "2026-08-18 10:03:40",
+  "last_updated": "2026-08-19 10:04:03",
   "period": "5y",
-  "data_points": 331,
+  "data_points": 332,
   "data": [
     {
       "date": "2025-04-17",
@@ -2647,11 +2647,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 118808
+      "open": 10.65,
+      "high": 10.65,
+      "low": 10.62,
+      "close": 10.64,
+      "volume": 118600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.65,
+      "high": 10.65,
+      "low": 10.63,
+      "close": 10.65,
+      "volume": 115800
     }
   ]
 }

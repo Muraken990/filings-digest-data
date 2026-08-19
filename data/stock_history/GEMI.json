@@ -1,9 +1,9 @@
 {
   "code": "GEMI",
   "ticker": "GEMI",
-  "last_updated": "2026-08-18 09:37:20",
+  "last_updated": "2026-08-19 09:37:41",
   "period": "5y",
-  "data_points": 233,
+  "data_points": 234,
   "data": [
     {
       "date": "2025-09-12",
@@ -1863,11 +1863,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3825190
+      "open": 3.89,
+      "high": 3.93,
+      "low": 3.38,
+      "close": 3.61,
+      "volume": 3845700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 3.58,
+      "high": 3.6,
+      "low": 3.43,
+      "close": 3.54,
+      "volume": 1531100
     }
   ]
 }

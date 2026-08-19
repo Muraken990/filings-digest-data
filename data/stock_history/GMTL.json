@@ -1,9 +1,9 @@
 {
   "code": "GMTL",
   "ticker": "GMTL",
-  "last_updated": "2026-08-18 09:39:01",
+  "last_updated": "2026-08-19 09:39:21",
   "period": "5y",
-  "data_points": 100,
+  "data_points": 104,
   "data": [
     {
       "date": "2026-03-20",
@@ -670,6 +670,22 @@
       "volume": 392100
     },
     {
+      "date": "2026-07-21",
+      "open": 11.34,
+      "high": 12.33,
+      "low": 11.18,
+      "close": 12.2,
+      "volume": 228300
+    },
+    {
+      "date": "2026-07-22",
+      "open": 12.78,
+      "high": 12.78,
+      "low": 11.01,
+      "close": 11.18,
+      "volume": 390500
+    },
+    {
       "date": "2026-07-23",
       "open": 10.86,
       "high": 11.54,
@@ -716,6 +732,14 @@
       "low": 9.1,
       "close": 9.83,
       "volume": 214600
+    },
+    {
+      "date": "2026-07-31",
+      "open": 9.67,
+      "high": 10.03,
+      "low": 9.18,
+      "close": 9.4,
+      "volume": 190300
     },
     {
       "date": "2026-08-03",
@@ -799,11 +823,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 147166
+      "open": 12.4,
+      "high": 13.21,
+      "low": 12.18,
+      "close": 12.95,
+      "volume": 147700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 12.65,
+      "high": 13.1,
+      "low": 12.39,
+      "close": 12.67,
+      "volume": 157100
     }
   ]
 }

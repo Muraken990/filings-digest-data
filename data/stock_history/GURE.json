@@ -1,18 +1,10 @@
 {
   "code": "GURE",
   "ticker": "GURE",
-  "last_updated": "2026-08-18 09:40:43",
+  "last_updated": "2026-08-19 09:41:04",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 45.5,
-      "high": 46.0,
-      "low": 41.6,
-      "close": 42.2,
-      "volume": 3630
-    },
     {
       "date": "2021-08-19",
       "open": 42.5,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5694
+      "open": 3.09,
+      "high": 3.12,
+      "low": 2.98,
+      "close": 3.0,
+      "volume": 5700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.9,
+      "high": 3.1,
+      "low": 2.9,
+      "close": 3.1,
+      "volume": 10100
     }
   ]
 }

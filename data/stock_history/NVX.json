@@ -1,9 +1,9 @@
 {
   "code": "NVX",
   "ticker": "NVX",
-  "last_updated": "2026-08-18 10:06:15",
+  "last_updated": "2026-08-19 10:06:38",
   "period": "5y",
-  "data_points": 1135,
+  "data_points": 1136,
   "data": [
     {
       "date": "2022-02-02",
@@ -9079,11 +9079,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 212455
+      "open": 0.43,
+      "high": 0.45,
+      "low": 0.43,
+      "close": 0.44,
+      "volume": 213000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.44,
+      "high": 0.44,
+      "low": 0.41,
+      "close": 0.42,
+      "volume": 175700
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "LFAC",
   "ticker": "LFAC",
-  "last_updated": "2026-08-18 09:53:27",
+  "last_updated": "2026-08-19 09:53:46",
   "period": "5y",
-  "data_points": 141,
+  "data_points": 139,
   "data": [
     {
       "date": "2026-01-26",
@@ -974,22 +974,6 @@
       "volume": 0
     },
     {
-      "date": "2026-07-21",
-      "open": 10.05,
-      "high": 10.05,
-      "low": 10.0,
-      "close": 10.0,
-      "volume": 7500
-    },
-    {
-      "date": "2026-07-22",
-      "open": 10.0,
-      "high": 10.0,
-      "low": 10.0,
-      "close": 10.0,
-      "volume": 0
-    },
-    {
       "date": "2026-07-23",
       "open": 10.01,
       "high": 10.01,
@@ -1031,14 +1015,6 @@
     },
     {
       "date": "2026-07-30",
-      "open": 10.0,
-      "high": 10.0,
-      "low": 10.0,
-      "close": 10.0,
-      "volume": 0
-    },
-    {
-      "date": "2026-07-31",
       "open": 10.0,
       "high": 10.0,
       "low": 10.0,
@@ -1127,11 +1103,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 107
+      "open": 10.05,
+      "high": 10.05,
+      "low": 10.05,
+      "close": 10.05,
+      "volume": 100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.05,
+      "high": 10.05,
+      "low": 10.05,
+      "close": 10.05,
+      "volume": 0
     }
   ]
 }

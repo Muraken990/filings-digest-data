@@ -1,9 +1,9 @@
 {
   "code": "HIT",
   "ticker": "HIT",
-  "last_updated": "2026-08-18 09:42:25",
+  "last_updated": "2026-08-19 09:42:45",
   "period": "5y",
-  "data_points": 412,
+  "data_points": 410,
   "data": [
     {
       "date": "2024-12-23",
@@ -3142,22 +3142,6 @@
       "volume": 113500
     },
     {
-      "date": "2026-07-21",
-      "open": 1.12,
-      "high": 1.18,
-      "low": 1.11,
-      "close": 1.13,
-      "volume": 39700
-    },
-    {
-      "date": "2026-07-22",
-      "open": 1.16,
-      "high": 1.17,
-      "low": 1.08,
-      "close": 1.13,
-      "volume": 29800
-    },
-    {
       "date": "2026-07-23",
       "open": 1.08,
       "high": 1.12,
@@ -3204,14 +3188,6 @@
       "low": 1.03,
       "close": 1.04,
       "volume": 122200
-    },
-    {
-      "date": "2026-07-31",
-      "open": 1.04,
-      "high": 1.16,
-      "low": 1.03,
-      "close": 1.11,
-      "volume": 66100
     },
     {
       "date": "2026-08-03",
@@ -3295,11 +3271,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 133603
+      "open": 0.99,
+      "high": 1.01,
+      "low": 0.98,
+      "close": 1.01,
+      "volume": 133800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.02,
+      "high": 1.03,
+      "low": 0.99,
+      "close": 1.0,
+      "volume": 168100
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "NCT",
   "ticker": "NCT",
-  "last_updated": "2026-08-18 10:02:49",
+  "last_updated": "2026-08-19 10:03:12",
   "period": "5y",
-  "data_points": 346,
+  "data_points": 349,
   "data": [
     {
       "date": "2025-03-28",
@@ -2638,6 +2638,14 @@
       "volume": 1065700
     },
     {
+      "date": "2026-07-22",
+      "open": 2.93,
+      "high": 3.11,
+      "low": 2.88,
+      "close": 2.91,
+      "volume": 1253800
+    },
+    {
       "date": "2026-07-23",
       "open": 2.9,
       "high": 3.17,
@@ -2684,6 +2692,14 @@
       "low": 3.34,
       "close": 3.4,
       "volume": 840200
+    },
+    {
+      "date": "2026-07-31",
+      "open": 3.56,
+      "high": 3.65,
+      "low": 3.35,
+      "close": 3.38,
+      "volume": 1342400
     },
     {
       "date": "2026-08-03",
@@ -2767,11 +2783,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2823657
+      "open": 3.64,
+      "high": 3.9,
+      "low": 3.55,
+      "close": 3.87,
+      "volume": 2823700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 3.8,
+      "high": 3.9,
+      "low": 3.64,
+      "close": 3.89,
+      "volume": 2967600
     }
   ]
 }

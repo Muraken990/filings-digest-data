@@ -1,9 +1,9 @@
 {
   "code": "METCI",
   "ticker": "METCI",
-  "last_updated": "2026-08-18 09:57:43",
+  "last_updated": "2026-08-19 09:58:07",
   "period": "5y",
-  "data_points": 259,
+  "data_points": 260,
   "data": [
     {
       "date": "2025-08-01",
@@ -2071,11 +2071,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1915
+      "open": 25.25,
+      "high": 25.31,
+      "low": 25.24,
+      "close": 25.25,
+      "volume": 1900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.33,
+      "high": 25.36,
+      "low": 25.24,
+      "close": 25.36,
+      "volume": 1000
     }
   ]
 }

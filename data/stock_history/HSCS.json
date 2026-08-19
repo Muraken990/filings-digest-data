@@ -1,9 +1,9 @@
 {
   "code": "HSCS",
   "ticker": "HSCS",
-  "last_updated": "2026-08-18 09:43:18",
+  "last_updated": "2026-08-19 09:43:38",
   "period": "5y",
-  "data_points": 1043,
+  "data_points": 1044,
   "data": [
     {
       "date": "2022-06-16",
@@ -8343,11 +8343,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 77114
+      "open": 2.06,
+      "high": 2.23,
+      "low": 2.0,
+      "close": 2.21,
+      "volume": 77300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.2,
+      "high": 2.21,
+      "low": 2.02,
+      "close": 2.13,
+      "volume": 35300
     }
   ]
 }

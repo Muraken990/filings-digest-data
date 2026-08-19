@@ -1,9 +1,9 @@
 {
   "code": "GREEL",
   "ticker": "GREEL",
-  "last_updated": "2026-08-18 09:39:53",
+  "last_updated": "2026-08-19 09:40:13",
   "period": "5y",
-  "data_points": 1211,
+  "data_points": 1212,
   "data": [
     {
       "date": "2021-10-14",
@@ -9687,11 +9687,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
+      "open": 24.9,
+      "high": 24.9,
+      "low": 24.9,
+      "close": 24.9,
       "volume": 1100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 24.7,
+      "high": 24.8,
+      "low": 24.7,
+      "close": 24.8,
+      "volume": 10600
     }
   ]
 }

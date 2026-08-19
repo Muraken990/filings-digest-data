@@ -1,9 +1,9 @@
 {
   "code": "LFS",
   "ticker": "LFS",
-  "last_updated": "2026-08-18 09:53:27",
+  "last_updated": "2026-08-19 09:53:47",
   "period": "5y",
-  "data_points": 213,
+  "data_points": 214,
   "data": [
     {
       "date": "2025-10-09",
@@ -1703,11 +1703,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 456674
+      "open": 2.3,
+      "high": 2.37,
+      "low": 2.23,
+      "close": 2.34,
+      "volume": 470300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.28,
+      "high": 2.29,
+      "low": 2.21,
+      "close": 2.25,
+      "volume": 171900
     }
   ]
 }

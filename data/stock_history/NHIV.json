@@ -1,9 +1,9 @@
 {
   "code": "NHIV",
   "ticker": "NHIV",
-  "last_updated": "2026-08-18 10:03:40",
+  "last_updated": "2026-08-19 10:04:03",
   "period": "5y",
-  "data_points": 46,
+  "data_points": 47,
   "data": [
     {
       "date": "2026-06-08",
@@ -367,11 +367,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2810
+      "open": 10.12,
+      "high": 10.12,
+      "low": 10.09,
+      "close": 10.11,
+      "volume": 2800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.11,
+      "high": 10.11,
+      "low": 10.11,
+      "close": 10.11,
+      "volume": 0
     }
   ]
 }

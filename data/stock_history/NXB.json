@@ -1,9 +1,9 @@
 {
   "code": "NXB",
   "ticker": "NXB",
-  "last_updated": "2026-08-18 10:06:16",
+  "last_updated": "2026-08-19 10:06:40",
   "period": "5y",
-  "data_points": 186,
+  "data_points": 187,
   "data": [
     {
       "date": "2025-11-13",
@@ -1487,11 +1487,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 49221
+      "open": 1.99,
+      "high": 2.01,
+      "low": 1.9,
+      "close": 1.92,
+      "volume": 49200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.03,
+      "high": 2.03,
+      "low": 1.91,
+      "close": 1.91,
+      "volume": 14300
     }
   ]
 }

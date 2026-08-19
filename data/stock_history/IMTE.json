@@ -1,18 +1,10 @@
 {
   "code": "IMTE",
   "ticker": "IMTE",
-  "last_updated": "2026-08-18 09:45:53",
+  "last_updated": "2026-08-19 09:46:14",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 40.2,
-      "high": 41.9,
-      "low": 40.16,
-      "close": 41.3,
-      "volume": 9700
-    },
     {
       "date": "2021-08-19",
       "open": 40.6,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 25170
+      "open": 0.5,
+      "high": 0.51,
+      "low": 0.48,
+      "close": 0.5,
+      "volume": 25200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.48,
+      "high": 0.51,
+      "low": 0.47,
+      "close": 0.5,
+      "volume": 12400
     }
   ]
 }

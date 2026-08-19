@@ -1,9 +1,9 @@
 {
   "code": "LOBO",
   "ticker": "LOBO",
-  "last_updated": "2026-08-18 09:54:21",
+  "last_updated": "2026-08-19 09:54:41",
   "period": "5y",
-  "data_points": 603,
+  "data_points": 601,
   "data": [
     {
       "date": "2024-03-21",
@@ -4670,22 +4670,6 @@
       "volume": 51100
     },
     {
-      "date": "2026-07-21",
-      "open": 0.67,
-      "high": 0.73,
-      "low": 0.67,
-      "close": 0.72,
-      "volume": 82600
-    },
-    {
-      "date": "2026-07-22",
-      "open": 0.73,
-      "high": 0.8,
-      "low": 0.72,
-      "close": 0.8,
-      "volume": 248000
-    },
-    {
       "date": "2026-07-23",
       "open": 0.76,
       "high": 0.79,
@@ -4732,14 +4716,6 @@
       "low": 0.68,
       "close": 0.68,
       "volume": 21600
-    },
-    {
-      "date": "2026-07-31",
-      "open": 0.75,
-      "high": 0.75,
-      "low": 0.73,
-      "close": 0.73,
-      "volume": 43500
     },
     {
       "date": "2026-08-03",
@@ -4823,11 +4799,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 18103
+      "open": 0.69,
+      "high": 0.72,
+      "low": 0.68,
+      "close": 0.68,
+      "volume": 18200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.68,
+      "high": 0.69,
+      "low": 0.67,
+      "close": 0.67,
+      "volume": 19700
     }
   ]
 }

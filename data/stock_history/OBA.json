@@ -1,9 +1,9 @@
 {
   "code": "OBA",
   "ticker": "OBA",
-  "last_updated": "2026-08-18 10:07:05",
+  "last_updated": "2026-08-19 10:07:28",
   "period": "5y",
-  "data_points": 252,
+  "data_points": 250,
   "data": [
     {
       "date": "2025-08-15",
@@ -1862,22 +1862,6 @@
       "volume": 0
     },
     {
-      "date": "2026-07-21",
-      "open": 10.26,
-      "high": 10.26,
-      "low": 10.26,
-      "close": 10.26,
-      "volume": 0
-    },
-    {
-      "date": "2026-07-22",
-      "open": 10.26,
-      "high": 10.26,
-      "low": 10.26,
-      "close": 10.26,
-      "volume": 0
-    },
-    {
       "date": "2026-07-23",
       "open": 10.26,
       "high": 10.26,
@@ -1919,14 +1903,6 @@
     },
     {
       "date": "2026-07-30",
-      "open": 10.26,
-      "high": 10.26,
-      "low": 10.26,
-      "close": 10.26,
-      "volume": 0
-    },
-    {
-      "date": "2026-07-31",
       "open": 10.26,
       "high": 10.26,
       "low": 10.26,
@@ -2015,11 +1991,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3793
+      "open": 10.3,
+      "high": 10.3,
+      "low": 10.3,
+      "close": 10.3,
+      "volume": 3800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.3,
+      "high": 10.3,
+      "low": 10.3,
+      "close": 10.3,
+      "volume": 5000
     }
   ]
 }

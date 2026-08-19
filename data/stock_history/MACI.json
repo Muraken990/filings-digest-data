@@ -1,9 +1,9 @@
 {
   "code": "MACI",
   "ticker": "MACI",
-  "last_updated": "2026-08-18 09:56:01",
+  "last_updated": "2026-08-19 09:56:25",
   "period": "5y",
-  "data_points": 520,
+  "data_points": 521,
   "data": [
     {
       "date": "2024-07-17",
@@ -4159,11 +4159,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1856
+      "open": 10.93,
+      "high": 10.94,
+      "low": 10.93,
+      "close": 10.94,
+      "volume": 1900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.93,
+      "high": 10.94,
+      "low": 10.93,
+      "close": 10.94,
+      "volume": 1600
     }
   ]
 }

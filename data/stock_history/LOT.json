@@ -1,18 +1,10 @@
 {
   "code": "LOT",
   "ticker": "LOT",
-  "last_updated": "2026-08-18 09:54:22",
+  "last_updated": "2026-08-19 09:54:43",
   "period": "5y",
-  "data_points": 1251,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 9.69,
-      "high": 9.69,
-      "low": 9.69,
-      "close": 9.69,
-      "volume": 0
-    },
     {
       "date": "2021-08-19",
       "open": 9.69,
@@ -9878,6 +9870,22 @@
       "volume": 212700
     },
     {
+      "date": "2026-07-21",
+      "open": 0.95,
+      "high": 0.95,
+      "low": 0.86,
+      "close": 0.9,
+      "volume": 150600
+    },
+    {
+      "date": "2026-07-22",
+      "open": 0.89,
+      "high": 0.95,
+      "low": 0.89,
+      "close": 0.89,
+      "volume": 57900
+    },
+    {
       "date": "2026-07-23",
       "open": 0.9,
       "high": 0.97,
@@ -9924,6 +9932,14 @@
       "low": 0.84,
       "close": 0.84,
       "volume": 57600
+    },
+    {
+      "date": "2026-07-31",
+      "open": 0.84,
+      "high": 0.9,
+      "low": 0.81,
+      "close": 0.83,
+      "volume": 89900
     },
     {
       "date": "2026-08-03",
@@ -10007,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 211669
+      "open": 1.08,
+      "high": 1.12,
+      "low": 1.04,
+      "close": 1.09,
+      "volume": 211700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.07,
+      "high": 1.1,
+      "low": 1.01,
+      "close": 1.03,
+      "volume": 336600
     }
   ]
 }

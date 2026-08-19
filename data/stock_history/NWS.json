@@ -1,18 +1,10 @@
 {
   "code": "NWS",
   "ticker": "NWS",
-  "last_updated": "2026-08-18 10:06:16",
+  "last_updated": "2026-08-19 10:06:40",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 21.31,
-      "high": 21.38,
-      "low": 20.65,
-      "close": 20.67,
-      "volume": 409000
-    },
     {
       "date": "2021-08-19",
       "open": 20.48,
@@ -450,7 +442,7 @@
       "open": 22.11,
       "high": 22.51,
       "low": 21.99,
-      "close": 22.51,
+      "close": 22.5,
       "volume": 943100
     },
     {
@@ -1082,7 +1074,7 @@
       "open": 21.41,
       "high": 21.59,
       "low": 20.54,
-      "close": 20.73,
+      "close": 20.72,
       "volume": 600300
     },
     {
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 749021
+      "open": 32.93,
+      "high": 33.2,
+      "low": 32.55,
+      "close": 32.68,
+      "volume": 867600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 32.9,
+      "high": 33.73,
+      "low": 32.86,
+      "close": 33.49,
+      "volume": 736900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "NEUP",
   "ticker": "NEUP",
-  "last_updated": "2026-08-18 10:02:51",
+  "last_updated": "2026-08-19 10:03:15",
   "period": "5y",
-  "data_points": 1167,
+  "data_points": 1168,
   "data": [
     {
       "date": "2021-12-16",
@@ -9335,11 +9335,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 22993
+      "open": 3.91,
+      "high": 3.97,
+      "low": 3.78,
+      "close": 3.85,
+      "volume": 23000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 3.85,
+      "high": 4.34,
+      "low": 3.83,
+      "close": 3.98,
+      "volume": 240500
     }
   ]
 }

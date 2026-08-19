@@ -1,9 +1,9 @@
 {
   "code": "GAING",
   "ticker": "GAING",
-  "last_updated": "2026-08-18 09:36:28",
+  "last_updated": "2026-08-19 09:36:50",
   "period": "5y",
-  "data_points": 121,
+  "data_points": 125,
   "data": [
     {
       "date": "2026-02-19",
@@ -838,6 +838,22 @@
       "volume": 2300
     },
     {
+      "date": "2026-07-21",
+      "open": 24.98,
+      "high": 24.98,
+      "low": 24.96,
+      "close": 24.97,
+      "volume": 11400
+    },
+    {
+      "date": "2026-07-22",
+      "open": 24.96,
+      "high": 25.02,
+      "low": 24.88,
+      "close": 24.91,
+      "volume": 8000
+    },
+    {
       "date": "2026-07-23",
       "open": 24.89,
       "high": 24.95,
@@ -884,6 +900,14 @@
       "low": 24.97,
       "close": 24.99,
       "volume": 3400
+    },
+    {
+      "date": "2026-07-31",
+      "open": 24.95,
+      "high": 25.05,
+      "low": 24.8,
+      "close": 25.05,
+      "volume": 29100
     },
     {
       "date": "2026-08-03",
@@ -967,11 +991,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3481
+      "open": 25.24,
+      "high": 25.25,
+      "low": 25.24,
+      "close": 25.25,
+      "volume": 3500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.24,
+      "high": 25.25,
+      "low": 25.03,
+      "close": 25.07,
+      "volume": 29000
     }
   ]
 }

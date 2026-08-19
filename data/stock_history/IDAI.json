@@ -1,18 +1,10 @@
 {
   "code": "IDAI",
   "ticker": "IDAI",
-  "last_updated": "2026-08-18 09:45:00",
+  "last_updated": "2026-08-19 09:45:21",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 56.25,
-      "high": 56.25,
-      "low": 52.75,
-      "close": 52.75,
-      "volume": 40
-    },
     {
       "date": "2021-08-19",
       "open": 52.75,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 20913
+      "open": 2.45,
+      "high": 2.66,
+      "low": 2.3,
+      "close": 2.51,
+      "volume": 22600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.53,
+      "high": 2.61,
+      "low": 2.38,
+      "close": 2.49,
+      "volume": 22000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "GCGR",
   "ticker": "GCGR",
-  "last_updated": "2026-08-18 09:36:31",
+  "last_updated": "2026-08-19 09:36:52",
   "period": "5y",
-  "data_points": 37,
+  "data_points": 41,
   "data": [
     {
       "date": "2026-06-22",
@@ -166,6 +166,22 @@
       "volume": 100
     },
     {
+      "date": "2026-07-21",
+      "open": 10.11,
+      "high": 10.11,
+      "low": 10.11,
+      "close": 10.11,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 10.1,
+      "high": 10.1,
+      "low": 10.1,
+      "close": 10.1,
+      "volume": 150100
+    },
+    {
       "date": "2026-07-23",
       "open": 10.1,
       "high": 10.1,
@@ -212,6 +228,14 @@
       "low": 10.18,
       "close": 10.18,
       "volume": 0
+    },
+    {
+      "date": "2026-07-31",
+      "open": 10.17,
+      "high": 10.17,
+      "low": 10.17,
+      "close": 10.17,
+      "volume": 200
     },
     {
       "date": "2026-08-03",
@@ -295,11 +319,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 451451
+      "open": 10.17,
+      "high": 10.18,
+      "low": 10.15,
+      "close": 10.18,
+      "volume": 451500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.18,
+      "high": 10.18,
+      "low": 10.18,
+      "close": 10.18,
+      "volume": 0
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "HSDT",
   "ticker": "HSDT",
-  "last_updated": "2026-08-18 09:43:18",
+  "last_updated": "2026-08-19 09:43:39",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 487875.0,
-      "high": 525000.0,
-      "low": 474375.0,
-      "close": 504750.0,
-      "volume": 2
-    },
     {
       "date": "2021-08-19",
       "open": 496125.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 122117
+      "open": 1.7,
+      "high": 1.72,
+      "low": 1.65,
+      "close": 1.66,
+      "volume": 122200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.64,
+      "high": 1.79,
+      "low": 1.62,
+      "close": 1.78,
+      "volume": 181000
     }
   ]
 }

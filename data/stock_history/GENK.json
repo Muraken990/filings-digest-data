@@ -1,9 +1,9 @@
 {
   "code": "GENK",
   "ticker": "GENK",
-  "last_updated": "2026-08-18 09:37:20",
+  "last_updated": "2026-08-19 09:37:41",
   "period": "5y",
-  "data_points": 785,
+  "data_points": 788,
   "data": [
     {
       "date": "2023-06-28",
@@ -6142,6 +6142,22 @@
       "volume": 5000
     },
     {
+      "date": "2026-07-21",
+      "open": 1.83,
+      "high": 1.86,
+      "low": 1.79,
+      "close": 1.83,
+      "volume": 10000
+    },
+    {
+      "date": "2026-07-22",
+      "open": 1.81,
+      "high": 1.87,
+      "low": 1.78,
+      "close": 1.85,
+      "volume": 3600
+    },
+    {
       "date": "2026-07-23",
       "open": 1.81,
       "high": 1.9,
@@ -6279,11 +6295,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 53898
+      "open": 1.93,
+      "high": 1.95,
+      "low": 1.85,
+      "close": 1.89,
+      "volume": 53900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.88,
+      "high": 1.92,
+      "low": 1.81,
+      "close": 1.81,
+      "volume": 29200
     }
   ]
 }

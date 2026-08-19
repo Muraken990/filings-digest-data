@@ -1,9 +1,9 @@
 {
   "code": "JYD",
   "ticker": "JYD",
-  "last_updated": "2026-08-18 09:50:04",
+  "last_updated": "2026-08-19 09:50:23",
   "period": "5y",
-  "data_points": 831,
+  "data_points": 834,
   "data": [
     {
       "date": "2023-04-21",
@@ -6510,6 +6510,14 @@
       "volume": 46200
     },
     {
+      "date": "2026-07-21",
+      "open": 0.76,
+      "high": 0.79,
+      "low": 0.73,
+      "close": 0.75,
+      "volume": 35900
+    },
+    {
       "date": "2026-07-22",
       "open": 0.74,
       "high": 0.85,
@@ -6564,6 +6572,14 @@
       "low": 0.91,
       "close": 0.93,
       "volume": 10100
+    },
+    {
+      "date": "2026-07-31",
+      "open": 0.91,
+      "high": 0.97,
+      "low": 0.87,
+      "close": 0.87,
+      "volume": 16600
     },
     {
       "date": "2026-08-03",
@@ -6647,11 +6663,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 447756
+      "open": 0.97,
+      "high": 1.3,
+      "low": 0.97,
+      "close": 1.05,
+      "volume": 461700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.06,
+      "high": 1.09,
+      "low": 1.0,
+      "close": 1.03,
+      "volume": 308200
     }
   ]
 }

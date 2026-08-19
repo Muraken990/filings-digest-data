@@ -1,18 +1,10 @@
 {
   "code": "PAYS",
   "ticker": "PAYS",
-  "last_updated": "2026-08-18 10:10:31",
+  "last_updated": "2026-08-19 10:10:54",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 2.5,
-      "high": 2.55,
-      "low": 2.38,
-      "close": 2.47,
-      "volume": 178100
-    },
     {
       "date": "2021-08-19",
       "open": 2.65,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 607842
+      "open": 13.04,
+      "high": 13.16,
+      "low": 12.72,
+      "close": 13.0,
+      "volume": 612300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 13.0,
+      "high": 13.74,
+      "low": 12.72,
+      "close": 13.52,
+      "volume": 739000
     }
   ]
 }

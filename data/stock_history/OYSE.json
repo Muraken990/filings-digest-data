@@ -1,9 +1,9 @@
 {
   "code": "OYSE",
   "ticker": "OYSE",
-  "last_updated": "2026-08-18 10:09:41",
+  "last_updated": "2026-08-19 10:10:05",
   "period": "5y",
-  "data_points": 274,
+  "data_points": 275,
   "data": [
     {
       "date": "2025-07-11",
@@ -2191,11 +2191,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 215
+      "open": 10.35,
+      "high": 10.35,
+      "low": 10.35,
+      "close": 10.35,
+      "volume": 200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.35,
+      "high": 10.35,
+      "low": 10.35,
+      "close": 10.35,
+      "volume": 0
     }
   ]
 }

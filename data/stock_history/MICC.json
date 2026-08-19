@@ -1,9 +1,9 @@
 {
   "code": "MICC",
   "ticker": "MICC",
-  "last_updated": "2026-08-18 09:58:34",
+  "last_updated": "2026-08-19 09:58:57",
   "period": "5y",
-  "data_points": 170,
+  "data_points": 171,
   "data": [
     {
       "date": "2025-12-08",
@@ -1359,11 +1359,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 518414
+      "open": 19.25,
+      "high": 19.25,
+      "low": 18.99,
+      "close": 19.01,
+      "volume": 562900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 18.88,
+      "high": 19.17,
+      "low": 18.88,
+      "close": 18.98,
+      "volume": 1290900
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "ITP",
   "ticker": "ITP",
-  "last_updated": "2026-08-18 09:48:22",
+  "last_updated": "2026-08-19 09:48:42",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 4.1,
-      "high": 4.1,
-      "low": 3.9,
-      "close": 4.1,
-      "volume": 142260
-    },
     {
       "date": "2021-08-19",
       "open": 4.1,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 186439
+      "open": 0.18,
+      "high": 0.18,
+      "low": 0.17,
+      "close": 0.18,
+      "volume": 190000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.18,
+      "high": 0.18,
+      "low": 0.17,
+      "close": 0.17,
+      "volume": 70400
     }
   ]
 }

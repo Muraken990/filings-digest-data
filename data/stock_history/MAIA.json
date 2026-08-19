@@ -1,9 +1,9 @@
 {
   "code": "MAIA",
   "ticker": "MAIA",
-  "last_updated": "2026-08-18 09:56:02",
+  "last_updated": "2026-08-19 09:56:25",
   "period": "5y",
-  "data_points": 1016,
+  "data_points": 1018,
   "data": [
     {
       "date": "2022-07-28",
@@ -7990,6 +7990,14 @@
       "volume": 360400
     },
     {
+      "date": "2026-07-22",
+      "open": 1.3,
+      "high": 1.32,
+      "low": 1.27,
+      "close": 1.3,
+      "volume": 328500
+    },
+    {
       "date": "2026-07-23",
       "open": 1.28,
       "high": 1.3,
@@ -8127,11 +8135,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 266817
+      "open": 1.4,
+      "high": 1.4,
+      "low": 1.35,
+      "close": 1.39,
+      "volume": 266800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.39,
+      "high": 1.4,
+      "low": 1.36,
+      "close": 1.37,
+      "volume": 235100
     }
   ]
 }

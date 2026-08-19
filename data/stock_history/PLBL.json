@@ -1,9 +1,9 @@
 {
   "code": "PLBL",
   "ticker": "PLBL",
-  "last_updated": "2026-08-18 10:13:04",
+  "last_updated": "2026-08-19 10:13:26",
   "period": "5y",
-  "data_points": 254,
+  "data_points": 255,
   "data": [
     {
       "date": "2025-08-08",
@@ -2031,11 +2031,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 70293
+      "open": 7.1,
+      "high": 7.1,
+      "low": 6.35,
+      "close": 6.45,
+      "volume": 70300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 6.29,
+      "high": 6.34,
+      "low": 5.26,
+      "close": 5.95,
+      "volume": 451100
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "GTBP",
   "ticker": "GTBP",
-  "last_updated": "2026-08-18 09:39:57",
+  "last_updated": "2026-08-19 09:40:17",
   "period": "5y",
   "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 252.0,
-      "high": 260.1,
-      "low": 241.8,
-      "close": 245.1,
-      "volume": 12163
-    },
     {
       "date": "2021-08-19",
       "open": 242.1,
@@ -10023,11 +10015,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 540656
+      "open": 0.29,
+      "high": 0.29,
+      "low": 0.28,
+      "close": 0.28,
+      "volume": 542400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.28,
+      "high": 0.28,
+      "low": 0.27,
+      "close": 0.28,
+      "volume": 535900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "OSRH",
   "ticker": "OSRH",
-  "last_updated": "2026-08-18 10:09:36",
+  "last_updated": "2026-08-19 10:10:00",
   "period": "5y",
-  "data_points": 855,
+  "data_points": 856,
   "data": [
     {
       "date": "2023-03-21",
@@ -6839,11 +6839,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 366286382
+      "open": 0.35,
+      "high": 0.8,
+      "low": 0.33,
+      "close": 0.59,
+      "volume": 370702700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.64,
+      "high": 0.84,
+      "low": 0.37,
+      "close": 0.43,
+      "volume": 144923300
     }
   ]
 }

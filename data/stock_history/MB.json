@@ -1,9 +1,9 @@
 {
   "code": "MB",
   "ticker": "MB",
-  "last_updated": "2026-08-18 09:56:04",
+  "last_updated": "2026-08-19 09:56:28",
   "period": "5y",
-  "data_points": 336,
+  "data_points": 337,
   "data": [
     {
       "date": "2025-04-10",
@@ -2687,11 +2687,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 49000
+      "open": 5.77,
+      "high": 6.15,
+      "low": 5.52,
+      "close": 5.8,
+      "volume": 49800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 5.65,
+      "high": 5.69,
+      "low": 5.33,
+      "close": 5.38,
+      "volume": 26200
     }
   ]
 }

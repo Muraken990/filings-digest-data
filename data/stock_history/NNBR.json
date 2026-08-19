@@ -1,18 +1,10 @@
 {
   "code": "NNBR",
   "ticker": "NNBR",
-  "last_updated": "2026-08-18 10:04:31",
+  "last_updated": "2026-08-19 10:04:54",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 5.4,
-      "high": 5.56,
-      "low": 5.35,
-      "close": 5.35,
-      "volume": 150000
-    },
     {
       "date": "2021-08-19",
       "open": 5.3,
@@ -9942,6 +9934,14 @@
       "volume": 1421600
     },
     {
+      "date": "2026-07-31",
+      "open": 3.35,
+      "high": 3.43,
+      "low": 3.21,
+      "close": 3.31,
+      "volume": 782300
+    },
+    {
       "date": "2026-08-03",
       "open": 3.39,
       "high": 3.68,
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3266892
+      "open": 3.96,
+      "high": 4.24,
+      "low": 3.93,
+      "close": 4.11,
+      "volume": 3269500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.01,
+      "high": 4.12,
+      "low": 3.81,
+      "close": 3.84,
+      "volume": 2099500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ONCH",
   "ticker": "ONCH",
-  "last_updated": "2026-08-18 10:07:59",
+  "last_updated": "2026-08-19 10:08:23",
   "period": "5y",
-  "data_points": 230,
+  "data_points": 231,
   "data": [
     {
       "date": "2025-09-12",
@@ -1839,11 +1839,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1056
+      "open": 10.28,
+      "high": 10.3,
+      "low": 10.28,
+      "close": 10.29,
+      "volume": 6600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.3,
+      "high": 10.3,
+      "low": 10.28,
+      "close": 10.3,
+      "volume": 52500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "MENS",
   "ticker": "MENS",
-  "last_updated": "2026-08-18 09:57:42",
+  "last_updated": "2026-08-19 09:58:06",
   "period": "5y",
-  "data_points": 290,
+  "data_points": 294,
   "data": [
     {
       "date": "2025-06-17",
@@ -2190,6 +2190,22 @@
       "volume": 44200
     },
     {
+      "date": "2026-07-21",
+      "open": 2.26,
+      "high": 2.59,
+      "low": 2.26,
+      "close": 2.58,
+      "volume": 69000
+    },
+    {
+      "date": "2026-07-22",
+      "open": 2.55,
+      "high": 2.75,
+      "low": 2.52,
+      "close": 2.64,
+      "volume": 90700
+    },
+    {
       "date": "2026-07-23",
       "open": 2.62,
       "high": 2.75,
@@ -2236,6 +2252,14 @@
       "low": 2.18,
       "close": 2.23,
       "volume": 34500
+    },
+    {
+      "date": "2026-07-31",
+      "open": 2.3,
+      "high": 2.34,
+      "low": 2.1,
+      "close": 2.15,
+      "volume": 70400
     },
     {
       "date": "2026-08-03",
@@ -2319,11 +2343,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 53935
+      "open": 2.0,
+      "high": 2.11,
+      "low": 1.92,
+      "close": 2.01,
+      "volume": 53900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.0,
+      "high": 2.05,
+      "low": 1.91,
+      "close": 2.02,
+      "volume": 27300
     }
   ]
 }

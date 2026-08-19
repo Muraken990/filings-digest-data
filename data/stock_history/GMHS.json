@@ -1,9 +1,9 @@
 {
   "code": "GMHS",
   "ticker": "GMHS",
-  "last_updated": "2026-08-18 09:39:01",
+  "last_updated": "2026-08-19 09:39:21",
   "period": "5y",
-  "data_points": 784,
+  "data_points": 785,
   "data": [
     {
       "date": "2023-06-28",
@@ -6271,11 +6271,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3854
+      "open": 0.7,
+      "high": 0.76,
+      "low": 0.7,
+      "close": 0.76,
+      "volume": 8700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.74,
+      "high": 0.74,
+      "low": 0.64,
+      "close": 0.73,
+      "volume": 30000
     }
   ]
 }

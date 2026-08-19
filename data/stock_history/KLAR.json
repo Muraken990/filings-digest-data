@@ -1,9 +1,9 @@
 {
   "code": "KLAR",
   "ticker": "KLAR",
-  "last_updated": "2026-08-18 09:50:55",
+  "last_updated": "2026-08-19 09:51:14",
   "period": "5y",
-  "data_points": 234,
+  "data_points": 235,
   "data": [
     {
       "date": "2025-09-11",
@@ -1871,11 +1871,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 9910941
+      "open": 20.67,
+      "high": 20.87,
+      "low": 19.23,
+      "close": 19.51,
+      "volume": 9961300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 15.66,
+      "high": 16.18,
+      "low": 15.01,
+      "close": 15.06,
+      "volume": 34444500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "MITN",
   "ticker": "MITN",
-  "last_updated": "2026-08-18 09:58:35",
+  "last_updated": "2026-08-19 09:58:58",
   "period": "5y",
-  "data_points": 632,
+  "data_points": 635,
   "data": [
     {
       "date": "2024-02-06",
@@ -4918,6 +4918,22 @@
       "volume": 1000
     },
     {
+      "date": "2026-07-21",
+      "open": 25.02,
+      "high": 25.02,
+      "low": 25.02,
+      "close": 25.02,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 25.02,
+      "high": 25.02,
+      "low": 25.02,
+      "close": 25.02,
+      "volume": 0
+    },
+    {
       "date": "2026-07-23",
       "open": 25.02,
       "high": 25.02,
@@ -4967,11 +4983,11 @@
     },
     {
       "date": "2026-07-31",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
+      "open": 25.26,
+      "high": 25.48,
+      "low": 25.15,
+      "close": 25.2,
+      "volume": 9100
     },
     {
       "date": "2026-08-03",
@@ -5055,11 +5071,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
+      "open": 25.34,
+      "high": 25.48,
+      "low": 25.34,
+      "close": 25.45,
       "volume": 4700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.44,
+      "high": 25.47,
+      "low": 25.25,
+      "close": 25.3,
+      "volume": 10300
     }
   ]
 }

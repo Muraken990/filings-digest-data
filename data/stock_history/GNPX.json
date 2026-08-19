@@ -1,18 +1,10 @@
 {
   "code": "GNPX",
   "ticker": "GNPX",
-  "last_updated": "2026-08-18 09:39:02",
+  "last_updated": "2026-08-19 09:39:22",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 119240.0,
-      "high": 124520.0,
-      "low": 116600.0,
-      "close": 121000.0,
-      "volume": 5
-    },
     {
       "date": "2021-08-19",
       "open": 121000.0,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 321867
+      "open": 4.2,
+      "high": 4.89,
+      "low": 4.06,
+      "close": 4.47,
+      "volume": 446700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.24,
+      "high": 4.83,
+      "low": 3.83,
+      "close": 3.95,
+      "volume": 4263300
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "ILLR",
   "ticker": "ILLR",
-  "last_updated": "2026-08-18 09:45:50",
+  "last_updated": "2026-08-19 09:46:11",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 223.97,
-      "high": 223.97,
-      "low": 223.55,
-      "close": 223.55,
-      "volume": 716
-    },
     {
       "date": "2021-08-19",
       "open": 223.55,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 301057
+      "open": 1.09,
+      "high": 1.09,
+      "low": 0.95,
+      "close": 1.0,
+      "volume": 303100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.99,
+      "high": 1.07,
+      "low": 0.98,
+      "close": 1.02,
+      "volume": 150600
     }
   ]
 }

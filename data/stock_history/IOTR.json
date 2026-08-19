@@ -1,9 +1,9 @@
 {
   "code": "IOTR",
   "ticker": "IOTR",
-  "last_updated": "2026-08-18 09:47:31",
+  "last_updated": "2026-08-19 09:47:51",
   "period": "5y",
-  "data_points": 336,
+  "data_points": 337,
   "data": [
     {
       "date": "2025-04-10",
@@ -2687,11 +2687,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8800
+      "open": 2.87,
+      "high": 2.87,
+      "low": 2.58,
+      "close": 2.69,
+      "volume": 9600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.68,
+      "high": 2.68,
+      "low": 2.51,
+      "close": 2.51,
+      "volume": 4600
     }
   ]
 }

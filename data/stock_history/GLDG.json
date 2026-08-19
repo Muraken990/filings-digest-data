@@ -1,18 +1,10 @@
 {
   "code": "GLDG",
   "ticker": "GLDG",
-  "last_updated": "2026-08-18 09:38:13",
+  "last_updated": "2026-08-19 09:38:33",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 1.12,
-      "high": 1.17,
-      "low": 1.1,
-      "close": 1.16,
-      "volume": 200200
-    },
     {
       "date": "2021-08-19",
       "open": 1.16,
@@ -9886,14 +9878,6 @@
       "volume": 802200
     },
     {
-      "date": "2026-07-22",
-      "open": 0.86,
-      "high": 0.9,
-      "low": 0.86,
-      "close": 0.86,
-      "volume": 492300
-    },
-    {
       "date": "2026-07-23",
       "open": 0.85,
       "high": 0.88,
@@ -9940,14 +9924,6 @@
       "low": 0.84,
       "close": 0.86,
       "volume": 400800
-    },
-    {
-      "date": "2026-07-31",
-      "open": 0.85,
-      "high": 0.86,
-      "low": 0.82,
-      "close": 0.83,
-      "volume": 326000
     },
     {
       "date": "2026-08-03",
@@ -10031,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 693244
+      "open": 1.08,
+      "high": 1.08,
+      "low": 1.03,
+      "close": 1.05,
+      "volume": 696400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.04,
+      "high": 1.05,
+      "low": 1.01,
+      "close": 1.02,
+      "volume": 494400
     }
   ]
 }

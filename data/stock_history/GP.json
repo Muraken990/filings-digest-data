@@ -1,18 +1,10 @@
 {
   "code": "GP",
   "ticker": "GP",
-  "last_updated": "2026-08-18 09:39:05",
+  "last_updated": "2026-08-19 09:39:25",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 136.5,
-      "high": 138.9,
-      "low": 133.25,
-      "close": 134.4,
-      "volume": 9820
-    },
     {
       "date": "2021-08-19",
       "open": 132.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 611420
+      "open": 1.74,
+      "high": 1.79,
+      "low": 1.59,
+      "close": 1.64,
+      "volume": 630000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.6,
+      "high": 1.68,
+      "low": 1.6,
+      "close": 1.6,
+      "volume": 189400
     }
   ]
 }

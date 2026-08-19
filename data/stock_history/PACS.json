@@ -1,9 +1,9 @@
 {
   "code": "PACS",
   "ticker": "PACS",
-  "last_updated": "2026-08-18 10:10:28",
+  "last_updated": "2026-08-19 10:10:51",
   "period": "5y",
-  "data_points": 586,
+  "data_points": 587,
   "data": [
     {
       "date": "2024-04-11",
@@ -4687,11 +4687,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 588972
+      "open": 43.69,
+      "high": 44.55,
+      "low": 42.71,
+      "close": 44.32,
+      "volume": 697500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 44.0,
+      "high": 44.93,
+      "low": 43.61,
+      "close": 43.8,
+      "volume": 610200
     }
   ]
 }

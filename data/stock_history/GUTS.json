@@ -1,9 +1,9 @@
 {
   "code": "GUTS",
   "ticker": "GUTS",
-  "last_updated": "2026-08-18 09:40:44",
+  "last_updated": "2026-08-19 09:41:04",
   "period": "5y",
-  "data_points": 635,
+  "data_points": 636,
   "data": [
     {
       "date": "2024-02-02",
@@ -5079,11 +5079,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 865623
+      "open": 0.68,
+      "high": 0.71,
+      "low": 0.66,
+      "close": 0.66,
+      "volume": 887900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.66,
+      "high": 0.75,
+      "low": 0.66,
+      "close": 0.72,
+      "volume": 1522600
     }
   ]
 }

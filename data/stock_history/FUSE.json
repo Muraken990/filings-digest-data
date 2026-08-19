@@ -1,9 +1,9 @@
 {
   "code": "FUSE",
   "ticker": "FUSE",
-  "last_updated": "2026-08-18 09:35:40",
+  "last_updated": "2026-08-19 09:36:02",
   "period": "5y",
-  "data_points": 1113,
+  "data_points": 1114,
   "data": [
     {
       "date": "2022-03-07",
@@ -8903,11 +8903,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 80971
+      "open": 0.84,
+      "high": 0.85,
+      "low": 0.81,
+      "close": 0.84,
+      "volume": 81400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.82,
+      "high": 0.83,
+      "low": 0.8,
+      "close": 0.81,
+      "volume": 54500
     }
   ]
 }

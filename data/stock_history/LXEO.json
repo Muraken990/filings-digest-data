@@ -1,9 +1,9 @@
 {
   "code": "LXEO",
   "ticker": "LXEO",
-  "last_updated": "2026-08-18 09:55:14",
+  "last_updated": "2026-08-19 09:55:37",
   "period": "5y",
-  "data_points": 695,
+  "data_points": 698,
   "data": [
     {
       "date": "2023-11-03",
@@ -5422,6 +5422,14 @@
       "volume": 415000
     },
     {
+      "date": "2026-07-21",
+      "open": 4.66,
+      "high": 4.72,
+      "low": 4.51,
+      "close": 4.66,
+      "volume": 331100
+    },
+    {
       "date": "2026-07-22",
       "open": 4.72,
       "high": 5.01,
@@ -5476,6 +5484,14 @@
       "low": 4.28,
       "close": 4.35,
       "volume": 644600
+    },
+    {
+      "date": "2026-07-31",
+      "open": 4.38,
+      "high": 4.38,
+      "low": 4.07,
+      "close": 4.13,
+      "volume": 713500
     },
     {
       "date": "2026-08-03",
@@ -5559,11 +5575,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 909198
+      "open": 4.83,
+      "high": 5.03,
+      "low": 4.82,
+      "close": 4.98,
+      "volume": 913800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.94,
+      "high": 5.05,
+      "low": 4.82,
+      "close": 4.93,
+      "volume": 649800
     }
   ]
 }

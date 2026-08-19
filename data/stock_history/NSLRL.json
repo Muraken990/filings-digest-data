@@ -1,9 +1,9 @@
 {
   "code": "NSLRL",
   "ticker": "NSLRL",
-  "last_updated": "2026-08-18 10:05:22",
+  "last_updated": "2026-08-19 10:05:46",
   "period": "5y",
-  "data_points": 1169,
+  "data_points": 1170,
   "data": [
     {
       "date": "2021-12-17",
@@ -9351,11 +9351,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 799
+      "open": 25.2,
+      "high": 25.2,
+      "low": 25.2,
+      "close": 25.2,
+      "volume": 800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.2,
+      "high": 25.22,
+      "low": 25.2,
+      "close": 25.22,
+      "volume": 1200
     }
   ]
 }

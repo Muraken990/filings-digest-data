@@ -1,9 +1,9 @@
 {
   "code": "MLYS",
   "ticker": "MLYS",
-  "last_updated": "2026-08-18 09:59:23",
+  "last_updated": "2026-08-19 09:59:46",
   "period": "5y",
-  "data_points": 878,
+  "data_points": 879,
   "data": [
     {
       "date": "2023-02-10",
@@ -7023,11 +7023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 759800
+      "open": 25.46,
+      "high": 26.1,
+      "low": 25.0,
+      "close": 26.05,
+      "volume": 802300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.9,
+      "high": 26.89,
+      "low": 25.75,
+      "close": 26.61,
+      "volume": 1100300
     }
   ]
 }

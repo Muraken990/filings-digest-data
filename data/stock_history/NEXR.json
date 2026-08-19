@@ -1,9 +1,9 @@
 {
   "code": "NEXR",
   "ticker": "NEXR",
-  "last_updated": "2026-08-18 10:02:53",
+  "last_updated": "2026-08-19 10:03:16",
   "period": "5y",
-  "data_points": 996,
+  "data_points": 997,
   "data": [
     {
       "date": "2022-08-26",
@@ -7967,11 +7967,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 219461
+      "open": 2.8,
+      "high": 2.83,
+      "low": 2.55,
+      "close": 2.6,
+      "volume": 231000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.61,
+      "high": 2.65,
+      "low": 2.42,
+      "close": 2.64,
+      "volume": 123600
     }
   ]
 }

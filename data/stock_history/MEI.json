@@ -1,18 +1,10 @@
 {
   "code": "MEI",
   "ticker": "MEI",
-  "last_updated": "2026-08-18 09:57:42",
+  "last_updated": "2026-08-19 09:58:06",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 40.93,
-      "high": 41.35,
-      "low": 40.5,
-      "close": 40.53,
-      "volume": 128100
-    },
     {
       "date": "2021-08-19",
       "open": 40.06,
@@ -1599,7 +1591,7 @@
     },
     {
       "date": "2022-06-02",
-      "open": 39.0,
+      "open": 38.99,
       "high": 39.47,
       "low": 38.53,
       "close": 39.41,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 696906
+      "open": 17.4,
+      "high": 18.17,
+      "low": 17.04,
+      "close": 18.08,
+      "volume": 697000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 17.08,
+      "high": 17.42,
+      "low": 15.62,
+      "close": 16.01,
+      "volume": 733300
     }
   ]
 }

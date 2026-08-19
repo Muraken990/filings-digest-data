@@ -1,9 +1,9 @@
 {
   "code": "GBTG",
   "ticker": "GBTG",
-  "last_updated": "2026-08-18 09:36:30",
+  "last_updated": "2026-08-19 09:36:52",
   "period": "5y",
-  "data_points": 999,
+  "data_points": 1000,
   "data": [
     {
       "date": "2022-08-18",
@@ -7991,11 +7991,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 476955
+      "open": 9.44,
+      "high": 9.46,
+      "low": 9.44,
+      "close": 9.44,
+      "volume": 862300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 9.46,
+      "high": 9.46,
+      "low": 9.45,
+      "close": 9.45,
+      "volume": 801700
     }
   ]
 }

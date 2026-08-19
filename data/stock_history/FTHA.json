@@ -1,9 +1,9 @@
 {
   "code": "FTHA",
   "ticker": "FTHA",
-  "last_updated": "2026-08-18 09:35:38",
+  "last_updated": "2026-08-19 09:36:00",
   "period": "5y",
-  "data_points": 37,
+  "data_points": 38,
   "data": [
     {
       "date": "2026-06-22",
@@ -295,11 +295,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2811
+      "open": 9.93,
+      "high": 9.93,
+      "low": 9.93,
+      "close": 9.93,
+      "volume": 1400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 9.93,
+      "high": 9.93,
+      "low": 9.93,
+      "close": 9.93,
+      "volume": 0
     }
   ]
 }

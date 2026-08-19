@@ -1,9 +1,9 @@
 {
   "code": "NNE",
   "ticker": "NNE",
-  "last_updated": "2026-08-18 10:04:31",
+  "last_updated": "2026-08-19 10:04:54",
   "period": "5y",
-  "data_points": 570,
+  "data_points": 571,
   "data": [
     {
       "date": "2024-05-08",
@@ -4559,11 +4559,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1243840
+      "open": 19.7,
+      "high": 19.94,
+      "low": 19.12,
+      "close": 19.59,
+      "volume": 1280900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 18.87,
+      "high": 19.31,
+      "low": 18.18,
+      "close": 18.25,
+      "volume": 1874300
     }
   ]
 }

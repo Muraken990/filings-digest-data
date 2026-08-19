@@ -1,18 +1,10 @@
 {
   "code": "HRTX",
   "ticker": "HRTX",
-  "last_updated": "2026-08-18 09:43:18",
+  "last_updated": "2026-08-19 09:43:38",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 10.76,
-      "high": 10.77,
-      "low": 10.3,
-      "close": 10.35,
-      "volume": 1932600
-    },
     {
       "date": "2021-08-19",
       "open": 10.29,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2644147
+      "open": 0.35,
+      "high": 0.35,
+      "low": 0.31,
+      "close": 0.32,
+      "volume": 2816100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.31,
+      "high": 0.32,
+      "low": 0.3,
+      "close": 0.3,
+      "volume": 4104900
     }
   ]
 }

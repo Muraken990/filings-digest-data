@@ -1,9 +1,9 @@
 {
   "code": "ILAG",
   "ticker": "ILAG",
-  "last_updated": "2026-08-18 09:45:50",
+  "last_updated": "2026-08-19 09:46:11",
   "period": "5y",
-  "data_points": 1025,
+  "data_points": 1026,
   "data": [
     {
       "date": "2022-07-13",
@@ -8199,11 +8199,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3144
+      "open": 3.23,
+      "high": 3.31,
+      "low": 2.91,
+      "close": 3.3,
+      "volume": 3100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 3.3,
+      "high": 3.3,
+      "low": 3.3,
+      "close": 3.3,
+      "volume": 0
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "LKSP",
   "ticker": "LKSP",
-  "last_updated": "2026-08-18 09:54:18",
+  "last_updated": "2026-08-19 09:54:37",
   "period": "5y",
-  "data_points": 191,
+  "data_points": 192,
   "data": [
     {
       "date": "2025-11-06",
@@ -1527,11 +1527,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 381132
+      "open": 10.19,
+      "high": 10.19,
+      "low": 10.19,
+      "close": 10.19,
+      "volume": 381100
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.19,
+      "high": 10.19,
+      "low": 10.19,
+      "close": 10.19,
+      "volume": 0
     }
   ]
 }

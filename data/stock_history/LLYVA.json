@@ -1,9 +1,9 @@
 {
   "code": "LLYVA",
   "ticker": "LLYVA",
-  "last_updated": "2026-08-18 09:54:18",
+  "last_updated": "2026-08-19 09:54:38",
   "period": "5y",
-  "data_points": 758,
+  "data_points": 759,
   "data": [
     {
       "date": "2023-08-04",
@@ -6063,11 +6063,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 126358
+      "open": 104.47,
+      "high": 104.47,
+      "low": 101.88,
+      "close": 101.89,
+      "volume": 209700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 102.24,
+      "high": 103.54,
+      "low": 100.0,
+      "close": 100.0,
+      "volume": 140200
     }
   ]
 }

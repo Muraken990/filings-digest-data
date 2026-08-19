@@ -1,9 +1,9 @@
 {
   "code": "JZ",
   "ticker": "JZ",
-  "last_updated": "2026-08-18 09:50:04",
+  "last_updated": "2026-08-19 09:50:23",
   "period": "5y",
-  "data_points": 996,
+  "data_points": 997,
   "data": [
     {
       "date": "2022-08-26",
@@ -7967,11 +7967,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 32048
+      "open": 1.8,
+      "high": 1.87,
+      "low": 1.73,
+      "close": 1.75,
+      "volume": 40800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.74,
+      "high": 1.77,
+      "low": 1.6,
+      "close": 1.73,
+      "volume": 53500
     }
   ]
 }

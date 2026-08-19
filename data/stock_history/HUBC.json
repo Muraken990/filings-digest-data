@@ -1,9 +1,9 @@
 {
   "code": "HUBC",
   "ticker": "HUBC",
-  "last_updated": "2026-08-18 09:44:06",
+  "last_updated": "2026-08-19 09:44:27",
   "period": "5y",
-  "data_points": 1159,
+  "data_points": 1160,
   "data": [
     {
       "date": "2022-01-03",
@@ -9271,11 +9271,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 231614
+      "open": 0.75,
+      "high": 0.76,
+      "low": 0.7,
+      "close": 0.74,
+      "volume": 236300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.71,
+      "high": 0.73,
+      "low": 0.66,
+      "close": 0.68,
+      "volume": 263800
     }
   ]
 }

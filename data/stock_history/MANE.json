@@ -1,9 +1,9 @@
 {
   "code": "MANE",
   "ticker": "MANE",
-  "last_updated": "2026-08-18 09:56:03",
+  "last_updated": "2026-08-19 09:56:26",
   "period": "5y",
-  "data_points": 131,
+  "data_points": 132,
   "data": [
     {
       "date": "2026-02-04",
@@ -1047,11 +1047,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 526153
+      "open": 111.28,
+      "high": 111.28,
+      "low": 106.08,
+      "close": 108.22,
+      "volume": 581700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 106.4,
+      "high": 111.57,
+      "low": 106.4,
+      "close": 111.31,
+      "volume": 464100
     }
   ]
 }

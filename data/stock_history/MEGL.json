@@ -1,9 +1,9 @@
 {
   "code": "MEGL",
   "ticker": "MEGL",
-  "last_updated": "2026-08-18 09:57:42",
+  "last_updated": "2026-08-19 09:58:06",
   "period": "5y",
-  "data_points": 1011,
+  "data_points": 1012,
   "data": [
     {
       "date": "2022-08-05",
@@ -8087,11 +8087,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 12901
+      "open": 1.23,
+      "high": 1.24,
+      "low": 1.15,
+      "close": 1.18,
+      "volume": 12900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.16,
+      "high": 1.21,
+      "low": 1.16,
+      "close": 1.19,
+      "volume": 6600
     }
   ]
 }

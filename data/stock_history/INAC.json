@@ -1,9 +1,9 @@
 {
   "code": "INAC",
   "ticker": "INAC",
-  "last_updated": "2026-08-18 09:45:53",
+  "last_updated": "2026-08-19 09:46:14",
   "period": "5y",
-  "data_points": 264,
+  "data_points": 262,
   "data": [
     {
       "date": "2025-07-30",
@@ -1958,22 +1958,6 @@
       "volume": 0
     },
     {
-      "date": "2026-07-21",
-      "open": 10.28,
-      "high": 10.28,
-      "low": 10.28,
-      "close": 10.28,
-      "volume": 0
-    },
-    {
-      "date": "2026-07-22",
-      "open": 10.28,
-      "high": 10.28,
-      "low": 10.28,
-      "close": 10.28,
-      "volume": 0
-    },
-    {
       "date": "2026-07-23",
       "open": 10.28,
       "high": 10.28,
@@ -2020,14 +2004,6 @@
       "low": 10.28,
       "close": 10.28,
       "volume": 2400
-    },
-    {
-      "date": "2026-07-31",
-      "open": 10.28,
-      "high": 10.28,
-      "low": 10.28,
-      "close": 10.28,
-      "volume": 0
     },
     {
       "date": "2026-08-03",
@@ -2111,11 +2087,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1530
+      "open": 10.29,
+      "high": 10.31,
+      "low": 10.29,
+      "close": 10.31,
+      "volume": 1500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.31,
+      "high": 10.31,
+      "low": 10.31,
+      "close": 10.31,
+      "volume": 0
     }
   ]
 }

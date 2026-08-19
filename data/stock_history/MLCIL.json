@@ -1,9 +1,9 @@
 {
   "code": "MLCIL",
   "ticker": "MLCIL",
-  "last_updated": "2026-08-18 09:58:36",
+  "last_updated": "2026-08-19 09:59:00",
   "period": "5y",
-  "data_points": 136,
+  "data_points": 134,
   "data": [
     {
       "date": "2026-02-02",
@@ -934,22 +934,6 @@
       "volume": 900
     },
     {
-      "date": "2026-07-21",
-      "open": 22.8,
-      "high": 22.8,
-      "low": 22.65,
-      "close": 22.65,
-      "volume": 500
-    },
-    {
-      "date": "2026-07-22",
-      "open": 22.65,
-      "high": 22.65,
-      "low": 22.65,
-      "close": 22.65,
-      "volume": 0
-    },
-    {
       "date": "2026-07-23",
       "open": 22.65,
       "high": 22.65,
@@ -996,14 +980,6 @@
       "low": 22.65,
       "close": 22.65,
       "volume": 300
-    },
-    {
-      "date": "2026-07-31",
-      "open": 22.6,
-      "high": 22.6,
-      "low": 22.55,
-      "close": 22.55,
-      "volume": 4600
     },
     {
       "date": "2026-08-03",
@@ -1087,11 +1063,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 930
+      "open": 22.68,
+      "high": 22.68,
+      "low": 22.65,
+      "close": 22.65,
+      "volume": 900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 22.59,
+      "high": 22.59,
+      "low": 22.59,
+      "close": 22.59,
+      "volume": 200
     }
   ]
 }

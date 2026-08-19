@@ -1,9 +1,9 @@
 {
   "code": "MMTX",
   "ticker": "MMTX",
-  "last_updated": "2026-08-18 09:59:24",
+  "last_updated": "2026-08-19 09:59:47",
   "period": "5y",
-  "data_points": 165,
+  "data_points": 166,
   "data": [
     {
       "date": "2025-12-15",
@@ -1319,11 +1319,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1941
+      "open": 10.18,
+      "high": 10.18,
+      "low": 10.13,
+      "close": 10.17,
+      "volume": 1900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.18,
+      "high": 10.18,
+      "low": 10.13,
+      "close": 10.16,
+      "volume": 99400
     }
   ]
 }

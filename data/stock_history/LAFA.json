@@ -1,9 +1,9 @@
 {
   "code": "LAFA",
   "ticker": "LAFA",
-  "last_updated": "2026-08-18 09:51:50",
+  "last_updated": "2026-08-19 09:52:09",
   "period": "5y",
-  "data_points": 177,
+  "data_points": 178,
   "data": [
     {
       "date": "2025-11-26",
@@ -1415,11 +1415,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6677
+      "open": 10.13,
+      "high": 10.13,
+      "low": 10.13,
+      "close": 10.13,
+      "volume": 6700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.13,
+      "high": 10.13,
+      "low": 10.13,
+      "close": 10.13,
+      "volume": 0
     }
   ]
 }

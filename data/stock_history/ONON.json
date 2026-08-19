@@ -1,9 +1,9 @@
 {
   "code": "ONON",
   "ticker": "ONON",
-  "last_updated": "2026-08-18 10:08:45",
+  "last_updated": "2026-08-19 10:09:09",
   "period": "5y",
-  "data_points": 1234,
+  "data_points": 1235,
   "data": [
     {
       "date": "2021-09-15",
@@ -9871,11 +9871,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 9022194
+      "open": 32.8,
+      "high": 32.93,
+      "low": 31.08,
+      "close": 31.31,
+      "volume": 10178900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 31.4,
+      "high": 31.62,
+      "low": 30.84,
+      "close": 31.03,
+      "volume": 9628600
     }
   ]
 }

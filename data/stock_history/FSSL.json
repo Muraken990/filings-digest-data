@@ -1,9 +1,9 @@
 {
   "code": "FSSL",
   "ticker": "FSSL",
-  "last_updated": "2026-08-18 09:35:36",
+  "last_updated": "2026-08-19 09:35:58",
   "period": "5y",
-  "data_points": 186,
+  "data_points": 187,
   "data": [
     {
       "date": "2025-11-13",
@@ -1487,11 +1487,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 219332
+      "open": 11.55,
+      "high": 11.63,
+      "low": 11.44,
+      "close": 11.55,
+      "volume": 223300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 11.47,
+      "high": 11.57,
+      "low": 11.4,
+      "close": 11.49,
+      "volume": 300000
     }
   ]
 }

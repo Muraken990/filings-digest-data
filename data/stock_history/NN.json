@@ -1,18 +1,10 @@
 {
   "code": "NN",
   "ticker": "NN",
-  "last_updated": "2026-08-18 10:04:31",
+  "last_updated": "2026-08-19 10:04:54",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 10.01,
-      "high": 10.03,
-      "low": 10.01,
-      "close": 10.03,
-      "volume": 1400
-    },
     {
       "date": "2021-08-19",
       "open": 10.01,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2153117
+      "open": 19.9,
+      "high": 19.9,
+      "low": 18.98,
+      "close": 19.2,
+      "volume": 2187400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 19.0,
+      "high": 19.52,
+      "low": 18.76,
+      "close": 19.17,
+      "volume": 1383400
     }
   ]
 }

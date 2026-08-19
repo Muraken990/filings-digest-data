@@ -1,9 +1,9 @@
 {
   "code": "NA",
   "ticker": "NA",
-  "last_updated": "2026-08-18 10:01:58",
+  "last_updated": "2026-08-19 10:02:21",
   "period": "5y",
-  "data_points": 1026,
+  "data_points": 1030,
   "data": [
     {
       "date": "2022-07-12",
@@ -8078,6 +8078,22 @@
       "volume": 9600
     },
     {
+      "date": "2026-07-21",
+      "open": 1.81,
+      "high": 1.87,
+      "low": 1.74,
+      "close": 1.87,
+      "volume": 22300
+    },
+    {
+      "date": "2026-07-22",
+      "open": 1.8,
+      "high": 1.87,
+      "low": 1.8,
+      "close": 1.87,
+      "volume": 6400
+    },
+    {
       "date": "2026-07-23",
       "open": 1.86,
       "high": 1.98,
@@ -8124,6 +8140,14 @@
       "low": 1.78,
       "close": 1.83,
       "volume": 32200
+    },
+    {
+      "date": "2026-07-31",
+      "open": 1.83,
+      "high": 1.89,
+      "low": 1.79,
+      "close": 1.79,
+      "volume": 9400
     },
     {
       "date": "2026-08-03",
@@ -8207,11 +8231,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 12363
+      "open": 1.87,
+      "high": 1.95,
+      "low": 1.87,
+      "close": 1.93,
+      "volume": 12500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.92,
+      "high": 1.92,
+      "low": 1.81,
+      "close": 1.83,
+      "volume": 10400
     }
   ]
 }

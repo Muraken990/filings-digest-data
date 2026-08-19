@@ -1,9 +1,9 @@
 {
   "code": "NIPG",
   "ticker": "NIPG",
-  "last_updated": "2026-08-18 10:03:41",
+  "last_updated": "2026-08-19 10:04:04",
   "period": "5y",
-  "data_points": 516,
+  "data_points": 515,
   "data": [
     {
       "date": "2024-07-26",
@@ -3982,14 +3982,6 @@
       "volume": 160700
     },
     {
-      "date": "2026-07-22",
-      "open": 7.47,
-      "high": 9.57,
-      "low": 7.0,
-      "close": 8.94,
-      "volume": 112100
-    },
-    {
       "date": "2026-07-23",
       "open": 8.34,
       "high": 10.7,
@@ -4036,14 +4028,6 @@
       "low": 9.31,
       "close": 9.4,
       "volume": 2300
-    },
-    {
-      "date": "2026-07-31",
-      "open": 9.3,
-      "high": 13.6,
-      "low": 9.25,
-      "close": 10.11,
-      "volume": 17100
     },
     {
       "date": "2026-08-03",
@@ -4127,11 +4111,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 118267
+      "open": 10.25,
+      "high": 12.65,
+      "low": 10.25,
+      "close": 11.59,
+      "volume": 118500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 11.16,
+      "high": 11.94,
+      "low": 10.57,
+      "close": 11.94,
+      "volume": 64400
     }
   ]
 }

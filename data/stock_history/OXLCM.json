@@ -1,9 +1,9 @@
 {
   "code": "OXLCM",
   "ticker": "OXLCM",
-  "last_updated": "2026-08-18 10:09:40",
+  "last_updated": "2026-08-19 10:10:03",
   "period": "5y",
-  "data_points": 105,
+  "data_points": 103,
   "data": [
     {
       "date": "2026-03-13",
@@ -686,22 +686,6 @@
       "volume": 7700
     },
     {
-      "date": "2026-07-21",
-      "open": 24.78,
-      "high": 24.78,
-      "low": 24.58,
-      "close": 24.73,
-      "volume": 16300
-    },
-    {
-      "date": "2026-07-22",
-      "open": 24.83,
-      "high": 24.83,
-      "low": 24.83,
-      "close": 24.83,
-      "volume": 1000
-    },
-    {
       "date": "2026-07-23",
       "open": 24.83,
       "high": 24.83,
@@ -748,14 +732,6 @@
       "low": 24.6,
       "close": 24.69,
       "volume": 20300
-    },
-    {
-      "date": "2026-07-31",
-      "open": 24.77,
-      "high": 24.77,
-      "low": 24.59,
-      "close": 24.59,
-      "volume": 9600
     },
     {
       "date": "2026-08-03",
@@ -839,11 +815,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7659
+      "open": 25.19,
+      "high": 25.3,
+      "low": 25.11,
+      "close": 25.16,
+      "volume": 7700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.19,
+      "high": 25.19,
+      "low": 24.95,
+      "close": 25.01,
+      "volume": 17200
     }
   ]
 }

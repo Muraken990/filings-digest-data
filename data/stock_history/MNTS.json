@@ -1,18 +1,10 @@
 {
   "code": "MNTS",
   "ticker": "MNTS",
-  "last_updated": "2026-08-18 09:59:26",
+  "last_updated": "2026-08-19 09:59:49",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 119250.0,
-      "high": 122375.0,
-      "low": 110125.0,
-      "close": 110250.0,
-      "volume": 26
-    },
     {
       "date": "2021-08-19",
       "open": 107250.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1177247
+      "open": 4.77,
+      "high": 4.81,
+      "low": 4.63,
+      "close": 4.69,
+      "volume": 1204000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.5,
+      "high": 4.55,
+      "low": 4.22,
+      "close": 4.24,
+      "volume": 1159700
     }
   ]
 }

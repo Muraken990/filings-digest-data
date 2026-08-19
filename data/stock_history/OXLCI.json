@@ -1,9 +1,9 @@
 {
   "code": "OXLCI",
   "ticker": "OXLCI",
-  "last_updated": "2026-08-18 10:09:40",
+  "last_updated": "2026-08-19 10:10:03",
   "period": "5y",
-  "data_points": 526,
+  "data_points": 527,
   "data": [
     {
       "date": "2024-07-09",
@@ -4207,11 +4207,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1371
+      "open": 25.68,
+      "high": 25.75,
+      "low": 25.61,
+      "close": 25.61,
+      "volume": 1400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.63,
+      "high": 25.75,
+      "low": 25.62,
+      "close": 25.68,
+      "volume": 5000
     }
   ]
 }

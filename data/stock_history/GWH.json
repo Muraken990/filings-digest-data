@@ -1,18 +1,10 @@
 {
   "code": "GWH",
   "ticker": "GWH",
-  "last_updated": "2026-08-18 09:40:44",
+  "last_updated": "2026-08-19 09:41:05",
   "period": "5y",
   "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 148.35,
-      "high": 148.95,
-      "low": 148.35,
-      "close": 148.95,
-      "volume": 7533
-    },
     {
       "date": "2021-08-19",
       "open": 148.5,
@@ -10023,11 +10015,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 667663
+      "open": 0.61,
+      "high": 0.66,
+      "low": 0.58,
+      "close": 0.61,
+      "volume": 684800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.66,
+      "high": 0.66,
+      "low": 0.6,
+      "close": 0.66,
+      "volume": 564400
     }
   ]
 }

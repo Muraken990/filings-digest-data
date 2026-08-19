@@ -1,9 +1,9 @@
 {
   "code": "KYIV",
   "ticker": "KYIV",
-  "last_updated": "2026-08-18 09:51:49",
+  "last_updated": "2026-08-19 09:52:08",
   "period": "5y",
-  "data_points": 426,
+  "data_points": 427,
   "data": [
     {
       "date": "2024-12-03",
@@ -3407,11 +3407,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 147419
+      "open": 13.19,
+      "high": 13.21,
+      "low": 13.01,
+      "close": 13.12,
+      "volume": 147500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 12.94,
+      "high": 13.1,
+      "low": 12.89,
+      "close": 12.9,
+      "volume": 227800
     }
   ]
 }

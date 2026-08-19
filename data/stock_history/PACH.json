@@ -1,9 +1,9 @@
 {
   "code": "PACH",
   "ticker": "PACH",
-  "last_updated": "2026-08-18 10:10:27",
+  "last_updated": "2026-08-19 10:10:51",
   "period": "5y",
-  "data_points": 249,
+  "data_points": 250,
   "data": [
     {
       "date": "2025-08-15",
@@ -1991,11 +1991,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4423
+      "open": 10.3,
+      "high": 10.3,
+      "low": 10.3,
+      "close": 10.3,
+      "volume": 4400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 10.3,
+      "high": 10.3,
+      "low": 10.3,
+      "close": 10.3,
+      "volume": 100
     }
   ]
 }

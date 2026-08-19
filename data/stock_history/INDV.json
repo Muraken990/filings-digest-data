@@ -1,18 +1,10 @@
 {
   "code": "INDV",
   "ticker": "INDV",
-  "last_updated": "2026-08-18 09:46:40",
+  "last_updated": "2026-08-19 09:47:01",
   "period": "5y",
   "data_points": 1252,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 12.25,
-      "high": 12.9,
-      "low": 12.25,
-      "close": 12.77,
-      "volume": 12400
-    },
     {
       "date": "2021-08-19",
       "open": 13.25,
@@ -10015,11 +10007,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1885187
+      "open": 38.95,
+      "high": 39.59,
+      "low": 38.68,
+      "close": 39.08,
+      "volume": 2018200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 39.48,
+      "high": 39.92,
+      "low": 39.08,
+      "close": 39.43,
+      "volume": 2338600
     }
   ]
 }

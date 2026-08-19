@@ -1,9 +1,9 @@
 {
   "code": "GMM",
   "ticker": "GMM",
-  "last_updated": "2026-08-18 09:39:01",
+  "last_updated": "2026-08-19 09:39:21",
   "period": "5y",
-  "data_points": 716,
+  "data_points": 717,
   "data": [
     {
       "date": "2023-10-09",
@@ -5727,11 +5727,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 52968
+      "open": 2.82,
+      "high": 2.85,
+      "low": 2.71,
+      "close": 2.73,
+      "volume": 55200
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.78,
+      "high": 2.78,
+      "low": 2.66,
+      "close": 2.68,
+      "volume": 41900
     }
   ]
 }

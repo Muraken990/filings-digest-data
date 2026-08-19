@@ -1,18 +1,10 @@
 {
   "code": "NHI",
   "ticker": "NHI",
-  "last_updated": "2026-08-18 10:03:40",
+  "last_updated": "2026-08-19 10:04:03",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 46.21,
-      "high": 46.21,
-      "low": 45.01,
-      "close": 45.04,
-      "volume": 279500
-    },
     {
       "date": "2021-08-19",
       "open": 45.01,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 363159
+      "open": 72.5,
+      "high": 73.41,
+      "low": 72.23,
+      "close": 73.41,
+      "volume": 462900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 73.5,
+      "high": 74.45,
+      "low": 72.97,
+      "close": 73.24,
+      "volume": 503300
     }
   ]
 }

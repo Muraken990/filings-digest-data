@@ -1,9 +1,9 @@
 {
   "code": "GELS",
   "ticker": "GELS",
-  "last_updated": "2026-08-18 09:37:20",
+  "last_updated": "2026-08-19 09:37:41",
   "period": "5y",
-  "data_points": 450,
+  "data_points": 451,
   "data": [
     {
       "date": "2024-10-29",
@@ -3599,11 +3599,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 29144
+      "open": 0.6,
+      "high": 0.62,
+      "low": 0.56,
+      "close": 0.56,
+      "volume": 35000
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.53,
+      "high": 0.58,
+      "low": 0.53,
+      "close": 0.53,
+      "volume": 27600
     }
   ]
 }

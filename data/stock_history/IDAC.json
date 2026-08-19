@@ -1,9 +1,9 @@
 {
   "code": "IDAC",
   "ticker": "IDAC",
-  "last_updated": "2026-08-18 09:45:00",
+  "last_updated": "2026-08-19 09:45:21",
   "period": "5y",
-  "data_points": 28,
+  "data_points": 32,
   "data": [
     {
       "date": "2026-07-06",
@@ -94,6 +94,22 @@
       "volume": 27000
     },
     {
+      "date": "2026-07-21",
+      "open": 9.98,
+      "high": 9.98,
+      "low": 9.98,
+      "close": 9.98,
+      "volume": 0
+    },
+    {
+      "date": "2026-07-22",
+      "open": 9.98,
+      "high": 9.98,
+      "low": 9.96,
+      "close": 9.98,
+      "volume": 79400
+    },
+    {
       "date": "2026-07-23",
       "open": 9.98,
       "high": 9.98,
@@ -140,6 +156,14 @@
       "low": 9.98,
       "close": 9.98,
       "volume": 600
+    },
+    {
+      "date": "2026-07-31",
+      "open": 9.98,
+      "high": 9.98,
+      "low": 9.98,
+      "close": 9.98,
+      "volume": 0
     },
     {
       "date": "2026-08-03",
@@ -223,11 +247,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2808
+      "open": 10.0,
+      "high": 10.0,
+      "low": 9.98,
+      "close": 9.98,
+      "volume": 2800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 9.98,
+      "high": 9.98,
+      "low": 9.98,
+      "close": 9.98,
+      "volume": 100
     }
   ]
 }

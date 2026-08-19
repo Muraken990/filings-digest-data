@@ -1,9 +1,9 @@
 {
   "code": "LAES",
   "ticker": "LAES",
-  "last_updated": "2026-08-18 09:51:50",
+  "last_updated": "2026-08-19 09:52:09",
   "period": "5y",
-  "data_points": 811,
+  "data_points": 812,
   "data": [
     {
       "date": "2023-05-23",
@@ -6487,11 +6487,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8323309
+      "open": 2.94,
+      "high": 2.98,
+      "low": 2.84,
+      "close": 2.9,
+      "volume": 8405300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.7,
+      "high": 2.82,
+      "low": 2.67,
+      "close": 2.74,
+      "volume": 8587500
     }
   ]
 }

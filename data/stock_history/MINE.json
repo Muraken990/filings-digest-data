@@ -1,9 +1,9 @@
 {
   "code": "MINE",
   "ticker": "MINE",
-  "last_updated": "2026-08-18 09:58:34",
+  "last_updated": "2026-08-19 09:58:57",
   "period": "5y",
-  "data_points": 140,
+  "data_points": 138,
   "data": [
     {
       "date": "2026-01-27",
@@ -966,22 +966,6 @@
       "volume": 14900
     },
     {
-      "date": "2026-07-21",
-      "open": 2.4,
-      "high": 2.47,
-      "low": 2.37,
-      "close": 2.47,
-      "volume": 12300
-    },
-    {
-      "date": "2026-07-22",
-      "open": 2.51,
-      "high": 2.51,
-      "low": 2.32,
-      "close": 2.46,
-      "volume": 18800
-    },
-    {
       "date": "2026-07-23",
       "open": 2.37,
       "high": 2.37,
@@ -1028,14 +1012,6 @@
       "low": 2.4,
       "close": 2.43,
       "volume": 26500
-    },
-    {
-      "date": "2026-07-31",
-      "open": 2.42,
-      "high": 2.51,
-      "low": 2.37,
-      "close": 2.45,
-      "volume": 35400
     },
     {
       "date": "2026-08-03",
@@ -1119,11 +1095,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 650785
+      "open": 2.93,
+      "high": 3.05,
+      "low": 2.81,
+      "close": 2.95,
+      "volume": 652300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.97,
+      "high": 3.0,
+      "low": 2.89,
+      "close": 2.95,
+      "volume": 152700
     }
   ]
 }

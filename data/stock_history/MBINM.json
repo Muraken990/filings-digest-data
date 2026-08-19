@@ -1,9 +1,9 @@
 {
   "code": "MBINM",
   "ticker": "MBINM",
-  "last_updated": "2026-08-18 09:56:51",
+  "last_updated": "2026-08-19 09:57:14",
   "period": "5y",
-  "data_points": 973,
+  "data_points": 974,
   "data": [
     {
       "date": "2022-09-26",
@@ -7783,11 +7783,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2741
+      "open": 25.56,
+      "high": 25.59,
+      "low": 25.56,
+      "close": 25.56,
+      "volume": 2600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 25.56,
+      "high": 25.6,
+      "low": 25.55,
+      "close": 25.55,
+      "volume": 2300
     }
   ]
 }

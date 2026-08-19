@@ -1,9 +1,9 @@
 {
   "code": "NXT",
   "ticker": "NXT",
-  "last_updated": "2026-08-18 10:07:03",
+  "last_updated": "2026-08-19 10:07:27",
   "period": "5y",
-  "data_points": 880,
+  "data_points": 881,
   "data": [
     {
       "date": "2023-02-09",
@@ -7039,11 +7039,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1459846
+      "open": 101.48,
+      "high": 102.0,
+      "low": 98.75,
+      "close": 99.09,
+      "volume": 1491900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 95.82,
+      "high": 96.35,
+      "low": 90.72,
+      "close": 91.15,
+      "volume": 3145600
     }
   ]
 }

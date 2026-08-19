@@ -1,9 +1,9 @@
 {
   "code": "IXHL",
   "ticker": "IXHL",
-  "last_updated": "2026-08-18 09:48:24",
+  "last_updated": "2026-08-19 09:48:44",
   "period": "5y",
-  "data_points": 1117,
+  "data_points": 1120,
   "data": [
     {
       "date": "2022-03-02",
@@ -8798,6 +8798,14 @@
       "volume": 108800
     },
     {
+      "date": "2026-07-21",
+      "open": 3.2,
+      "high": 3.28,
+      "low": 3.16,
+      "close": 3.21,
+      "volume": 73000
+    },
+    {
       "date": "2026-07-22",
       "open": 3.2,
       "high": 3.2,
@@ -8852,6 +8860,14 @@
       "low": 2.82,
       "close": 2.93,
       "volume": 73900
+    },
+    {
+      "date": "2026-07-31",
+      "open": 2.96,
+      "high": 3.0,
+      "low": 2.82,
+      "close": 2.94,
+      "volume": 71300
     },
     {
       "date": "2026-08-03",
@@ -8935,11 +8951,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 77648
+      "open": 3.3,
+      "high": 3.38,
+      "low": 3.24,
+      "close": 3.32,
+      "volume": 78400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 3.31,
+      "high": 3.44,
+      "low": 3.25,
+      "close": 3.36,
+      "volume": 101800
     }
   ]
 }

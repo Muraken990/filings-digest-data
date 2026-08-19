@@ -1,9 +1,9 @@
 {
   "code": "NIVF",
   "ticker": "NIVF",
-  "last_updated": "2026-08-18 10:03:42",
+  "last_updated": "2026-08-19 10:04:05",
   "period": "5y",
-  "data_points": 1107,
+  "data_points": 1108,
   "data": [
     {
       "date": "2022-03-18",
@@ -8855,11 +8855,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3819770
+      "open": 0.6,
+      "high": 0.7,
+      "low": 0.57,
+      "close": 0.61,
+      "volume": 3850300
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.61,
+      "high": 0.64,
+      "low": 0.54,
+      "close": 0.55,
+      "volume": 540700
     }
   ]
 }

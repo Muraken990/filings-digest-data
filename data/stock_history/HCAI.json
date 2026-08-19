@@ -1,9 +1,9 @@
 {
   "code": "HCAI",
   "ticker": "HCAI",
-  "last_updated": "2026-08-18 09:41:34",
+  "last_updated": "2026-08-19 09:41:54",
   "period": "5y",
-  "data_points": 382,
+  "data_points": 383,
   "data": [
     {
       "date": "2025-02-05",
@@ -3055,11 +3055,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 23592
+      "open": 4.6,
+      "high": 4.85,
+      "low": 4.51,
+      "close": 4.82,
+      "volume": 27900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.76,
+      "high": 4.76,
+      "low": 4.37,
+      "close": 4.53,
+      "volume": 12900
     }
   ]
 }

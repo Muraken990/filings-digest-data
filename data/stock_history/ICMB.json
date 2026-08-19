@@ -1,18 +1,10 @@
 {
   "code": "ICMB",
   "ticker": "ICMB",
-  "last_updated": "2026-08-18 09:45:00",
+  "last_updated": "2026-08-19 09:45:20",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 3.13,
-      "high": 3.15,
-      "low": 3.11,
-      "close": 3.15,
-      "volume": 22100
-    },
     {
       "date": "2021-08-19",
       "open": 3.14,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 29428
+      "open": 0.87,
+      "high": 0.87,
+      "low": 0.81,
+      "close": 0.83,
+      "volume": 29400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.85,
+      "high": 0.85,
+      "low": 0.81,
+      "close": 0.84,
+      "volume": 30400
     }
   ]
 }

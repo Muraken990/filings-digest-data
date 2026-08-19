@@ -1,9 +1,9 @@
 {
   "code": "HYNE",
   "ticker": "HYNE",
-  "last_updated": "2026-08-18 09:44:10",
+  "last_updated": "2026-08-19 09:44:31",
   "period": "5y",
-  "data_points": 175,
+  "data_points": 173,
   "data": [
     {
       "date": "2025-12-04",
@@ -1246,22 +1246,6 @@
       "volume": 3800
     },
     {
-      "date": "2026-07-21",
-      "open": 16.66,
-      "high": 16.72,
-      "low": 16.66,
-      "close": 16.67,
-      "volume": 1600
-    },
-    {
-      "date": "2026-07-22",
-      "open": 16.66,
-      "high": 16.74,
-      "low": 16.52,
-      "close": 16.55,
-      "volume": 9200
-    },
-    {
       "date": "2026-07-23",
       "open": 16.52,
       "high": 16.62,
@@ -1308,14 +1292,6 @@
       "low": 16.32,
       "close": 16.33,
       "volume": 4400
-    },
-    {
-      "date": "2026-07-31",
-      "open": 16.4,
-      "high": 16.4,
-      "low": 16.26,
-      "close": 16.26,
-      "volume": 3900
     },
     {
       "date": "2026-08-03",
@@ -1399,11 +1375,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3609
+      "open": 16.6,
+      "high": 16.6,
+      "low": 16.46,
+      "close": 16.49,
+      "volume": 3600
+    },
+    {
+      "date": "2026-08-18",
+      "open": 16.42,
+      "high": 16.6,
+      "low": 16.42,
+      "close": 16.6,
+      "volume": 3300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "LGCL",
   "ticker": "LGCL",
-  "last_updated": "2026-08-18 09:53:28",
+  "last_updated": "2026-08-19 09:53:47",
   "period": "5y",
-  "data_points": 615,
+  "data_points": 616,
   "data": [
     {
       "date": "2024-03-05",
@@ -4919,11 +4919,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1496033
+      "open": 1.39,
+      "high": 1.57,
+      "low": 1.39,
+      "close": 1.41,
+      "volume": 1515900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.15,
+      "high": 1.2,
+      "low": 0.22,
+      "close": 0.24,
+      "volume": 112606900
     }
   ]
 }

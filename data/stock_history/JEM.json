@@ -1,9 +1,9 @@
 {
   "code": "JEM",
   "ticker": "JEM",
-  "last_updated": "2026-08-18 09:49:13",
+  "last_updated": "2026-08-19 09:49:32",
   "period": "5y",
-  "data_points": 299,
+  "data_points": 300,
   "data": [
     {
       "date": "2025-06-09",
@@ -2391,11 +2391,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 33716
+      "open": 4.28,
+      "high": 4.34,
+      "low": 4.03,
+      "close": 4.04,
+      "volume": 33900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 4.04,
+      "high": 4.26,
+      "low": 4.0,
+      "close": 4.19,
+      "volume": 62500
     }
   ]
 }

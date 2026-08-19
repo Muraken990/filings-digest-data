@@ -1,9 +1,9 @@
 {
   "code": "OSTX",
   "ticker": "OSTX",
-  "last_updated": "2026-08-18 10:09:37",
+  "last_updated": "2026-08-19 10:10:00",
   "period": "5y",
-  "data_points": 512,
+  "data_points": 513,
   "data": [
     {
       "date": "2024-08-01",
@@ -4095,11 +4095,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1128090
+      "open": 1.59,
+      "high": 1.59,
+      "low": 1.44,
+      "close": 1.47,
+      "volume": 1152500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 1.48,
+      "high": 1.51,
+      "low": 1.43,
+      "close": 1.44,
+      "volume": 231300
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "HOV",
   "ticker": "HOV",
-  "last_updated": "2026-08-18 09:43:15",
+  "last_updated": "2026-08-19 09:43:35",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 96.0,
-      "high": 99.97,
-      "low": 95.94,
-      "close": 96.29,
-      "volume": 36500
-    },
     {
       "date": "2021-08-19",
       "open": 94.01,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 75801
+      "open": 135.47,
+      "high": 135.47,
+      "low": 129.44,
+      "close": 130.69,
+      "volume": 75800
+    },
+    {
+      "date": "2026-08-18",
+      "open": 132.2,
+      "high": 132.2,
+      "low": 123.74,
+      "close": 124.5,
+      "volume": 147600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "GLE",
   "ticker": "GLE",
-  "last_updated": "2026-08-18 09:38:13",
+  "last_updated": "2026-08-19 09:38:33",
   "period": "5y",
-  "data_points": 476,
+  "data_points": 477,
   "data": [
     {
       "date": "2024-09-20",
@@ -3807,11 +3807,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1326904
+      "open": 0.37,
+      "high": 0.44,
+      "low": 0.34,
+      "close": 0.41,
+      "volume": 1351500
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.38,
+      "high": 0.41,
+      "low": 0.37,
+      "close": 0.39,
+      "volume": 243600
     }
   ]
 }

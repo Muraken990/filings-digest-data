@@ -1,9 +1,9 @@
 {
   "code": "HG",
   "ticker": "HG",
-  "last_updated": "2026-08-18 09:41:37",
+  "last_updated": "2026-08-19 09:41:58",
   "period": "5y",
-  "data_points": 689,
+  "data_points": 690,
   "data": [
     {
       "date": "2023-11-10",
@@ -5511,11 +5511,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 246850
+      "open": 35.74,
+      "high": 36.11,
+      "low": 34.97,
+      "close": 35.26,
+      "volume": 315700
+    },
+    {
+      "date": "2026-08-18",
+      "open": 35.72,
+      "high": 35.74,
+      "low": 35.26,
+      "close": 35.26,
+      "volume": 289700
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "GCTK",
   "ticker": "GCTK",
-  "last_updated": "2026-08-18 09:36:32",
+  "last_updated": "2026-08-19 09:36:53",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": 31500.0,
-      "high": 31500.0,
-      "low": 31200.0,
-      "close": 31200.0,
-      "volume": 0
-    },
     {
       "date": "2021-08-19",
       "open": 31200.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 22618127
+      "open": 0.39,
+      "high": 0.41,
+      "low": 0.33,
+      "close": 0.34,
+      "volume": 23845400
+    },
+    {
+      "date": "2026-08-18",
+      "open": 0.34,
+      "high": 0.35,
+      "low": 0.31,
+      "close": 0.34,
+      "volume": 1450500
     }
   ]
 }

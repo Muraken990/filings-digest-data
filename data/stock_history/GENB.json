@@ -1,9 +1,9 @@
 {
   "code": "GENB",
   "ticker": "GENB",
-  "last_updated": "2026-08-18 09:37:20",
+  "last_updated": "2026-08-19 09:37:41",
   "period": "5y",
-  "data_points": 115,
+  "data_points": 116,
   "data": [
     {
       "date": "2026-02-27",
@@ -919,11 +919,19 @@
     },
     {
       "date": "2026-08-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 742033
+      "open": 15.63,
+      "high": 15.75,
+      "low": 15.03,
+      "close": 15.69,
+      "volume": 745900
+    },
+    {
+      "date": "2026-08-18",
+      "open": 15.51,
+      "high": 16.63,
+      "low": 15.51,
+      "close": 16.08,
+      "volume": 580300
     }
   ]
 }
