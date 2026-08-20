@@ -1,9 +1,9 @@
 {
   "code": "AIDX",
   "ticker": "AIDX",
-  "last_updated": "2026-08-19 07:07:37",
+  "last_updated": "2026-08-20 07:08:43",
   "period": "5y",
-  "data_points": 125,
+  "data_points": 126,
   "data": [
     {
       "date": "2026-02-19",
@@ -999,11 +999,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 67029
+      "open": 0.57,
+      "high": 0.57,
+      "low": 0.51,
+      "close": 0.52,
+      "volume": 75100
+    },
+    {
+      "date": "2026-08-19",
+      "open": 0.51,
+      "high": 0.56,
+      "low": 0.51,
+      "close": 0.51,
+      "volume": 43000
     }
   ]
 }

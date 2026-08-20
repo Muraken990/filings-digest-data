@@ -1,18 +1,10 @@
 {
   "code": "BNY",
   "ticker": "BNY",
-  "last_updated": "2026-08-19 07:19:24",
+  "last_updated": "2026-08-20 07:20:30",
   "period": "5y",
   "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-19",
-      "open": 46.21,
-      "high": 46.55,
-      "low": 45.87,
-      "close": 46.07,
-      "volume": 5392000
-    },
     {
       "date": "2021-08-20",
       "open": 46.07,
@@ -10023,11 +10015,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1258690
+      "open": 164.24,
+      "high": 164.89,
+      "low": 162.91,
+      "close": 163.93,
+      "volume": 2016200
+    },
+    {
+      "date": "2026-08-19",
+      "open": 165.08,
+      "high": 165.08,
+      "low": 159.4,
+      "close": 159.76,
+      "volume": 2330000
     }
   ]
 }

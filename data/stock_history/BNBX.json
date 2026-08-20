@@ -1,18 +1,10 @@
 {
   "code": "BNBX",
   "ticker": "BNBX",
-  "last_updated": "2026-08-19 07:18:37",
+  "last_updated": "2026-08-20 07:19:43",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-19",
-      "open": 86850.0,
-      "high": 86850.0,
-      "low": 83550.0,
-      "close": 84000.0,
-      "volume": 5
-    },
     {
       "date": "2021-08-20",
       "open": 85650.0,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 737
+      "open": 0.15,
+      "high": 0.15,
+      "low": 0.14,
+      "close": 0.14,
+      "volume": 9300
+    },
+    {
+      "date": "2026-08-19",
+      "open": 0.15,
+      "high": 0.15,
+      "low": 0.14,
+      "close": 0.14,
+      "volume": 13600
     }
   ]
 }

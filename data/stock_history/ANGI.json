@@ -1,18 +1,10 @@
 {
   "code": "ANGI",
   "ticker": "ANGI",
-  "last_updated": "2026-08-19 07:10:10",
+  "last_updated": "2026-08-20 07:11:16",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-19",
-      "open": 98.9,
-      "high": 100.2,
-      "low": 97.9,
-      "close": 99.1,
-      "volume": 109580
-    },
     {
       "date": "2021-08-20",
       "open": 99.1,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 869542
+      "open": 4.46,
+      "high": 4.66,
+      "low": 4.46,
+      "close": 4.63,
+      "volume": 869500
+    },
+    {
+      "date": "2026-08-19",
+      "open": 4.63,
+      "high": 4.89,
+      "low": 4.63,
+      "close": 4.8,
+      "volume": 548500
     }
   ]
 }

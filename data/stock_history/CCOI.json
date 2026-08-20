@@ -1,17 +1,17 @@
 {
   "code": "CCOI",
   "ticker": "CCOI",
-  "last_updated": "2026-08-19 07:22:52",
+  "last_updated": "2026-08-20 07:23:57",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1253,
   "data": [
     {
       "date": "2021-08-19",
-      "open": 55.17,
-      "high": 55.41,
-      "low": 54.54,
-      "close": 54.94,
-      "volume": 180800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-20",
@@ -4754,7 +4754,7 @@
       "open": 67.17,
       "high": 67.65,
       "low": 66.83,
-      "close": 67.05,
+      "close": 67.04,
       "volume": 165300
     },
     {
@@ -4777,7 +4777,7 @@
       "date": "2024-01-03",
       "open": 67.59,
       "high": 67.81,
-      "low": 66.66,
+      "low": 66.67,
       "close": 66.67,
       "volume": 346400
     },
@@ -6017,7 +6017,7 @@
       "date": "2024-08-15",
       "open": 66.83,
       "high": 67.82,
-      "low": 66.3,
+      "low": 66.29,
       "close": 66.99,
       "volume": 368600
     },
@@ -10019,7 +10019,15 @@
       "high": 10.76,
       "low": 9.75,
       "close": 10.13,
-      "volume": 1763400
+      "volume": 1764000
+    },
+    {
+      "date": "2026-08-19",
+      "open": 9.59,
+      "high": 10.37,
+      "low": 9.03,
+      "close": 10.37,
+      "volume": 2375600
     }
   ]
 }

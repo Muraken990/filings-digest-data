@@ -1,9 +1,9 @@
 {
   "code": "BIDWU",
   "ticker": "BIDWU",
-  "last_updated": "2026-08-19 07:17:44",
+  "last_updated": "2026-08-20 07:18:48",
   "period": "5y",
-  "data_points": 53,
+  "data_points": 54,
   "data": [
     {
       "date": "2026-05-29",
@@ -423,11 +423,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3145
+      "open": 9.96,
+      "high": 9.96,
+      "low": 9.96,
+      "close": 9.96,
+      "volume": 3100
+    },
+    {
+      "date": "2026-08-19",
+      "open": 9.96,
+      "high": 9.96,
+      "low": 9.96,
+      "close": 9.96,
+      "volume": 0
     }
   ]
 }

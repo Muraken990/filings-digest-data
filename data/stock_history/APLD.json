@@ -1,9 +1,9 @@
 {
   "code": "APLD",
   "ticker": "APLD",
-  "last_updated": "2026-08-19 07:10:59",
+  "last_updated": "2026-08-20 07:12:05",
   "period": "5y",
-  "data_points": 1090,
+  "data_points": 1091,
   "data": [
     {
       "date": "2022-04-13",
@@ -8719,11 +8719,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 17474096
+      "open": 29.99,
+      "high": 30.69,
+      "low": 28.1,
+      "close": 28.51,
+      "volume": 18093200
+    },
+    {
+      "date": "2026-08-19",
+      "open": 28.31,
+      "high": 28.84,
+      "low": 26.64,
+      "close": 28.23,
+      "volume": 17653300
     }
   ]
 }

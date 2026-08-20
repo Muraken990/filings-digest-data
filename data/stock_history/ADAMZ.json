@@ -1,9 +1,9 @@
 {
   "code": "ADAMZ",
   "ticker": "ADAMZ",
-  "last_updated": "2026-08-19 07:05:56",
+  "last_updated": "2026-08-20 07:07:01",
   "period": "5y",
-  "data_points": 1187,
+  "data_points": 1188,
   "data": [
     {
       "date": "2021-11-18",
@@ -9495,11 +9495,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10863
+      "open": 18.62,
+      "high": 18.82,
+      "low": 18.62,
+      "close": 18.71,
+      "volume": 10900
+    },
+    {
+      "date": "2026-08-19",
+      "open": 18.85,
+      "high": 18.89,
+      "low": 18.73,
+      "close": 18.88,
+      "volume": 6300
     }
   ]
 }

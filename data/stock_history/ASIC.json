@@ -1,9 +1,9 @@
 {
   "code": "ASIC",
   "ticker": "ASIC",
-  "last_updated": "2026-08-19 07:12:39",
+  "last_updated": "2026-08-20 07:13:45",
   "period": "5y",
-  "data_points": 295,
+  "data_points": 296,
   "data": [
     {
       "date": "2025-06-11",
@@ -2359,11 +2359,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 51696
+      "open": 24.45,
+      "high": 25.03,
+      "low": 24.08,
+      "close": 24.57,
+      "volume": 60000
+    },
+    {
+      "date": "2026-08-19",
+      "open": 24.58,
+      "high": 24.97,
+      "low": 24.34,
+      "close": 24.49,
+      "volume": 61600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ELLA",
   "ticker": "ELLA",
-  "last_updated": "2026-08-19 07:35:34",
+  "last_updated": "2026-08-20 07:36:39",
   "period": "5y",
-  "data_points": 90,
+  "data_points": 91,
   "data": [
     {
       "date": "2026-04-07",
@@ -724,6 +724,14 @@
       "low": 25.03,
       "close": 25.04,
       "volume": 30100
+    },
+    {
+      "date": "2026-08-19",
+      "open": 25.08,
+      "high": 25.2,
+      "low": 25.08,
+      "close": 25.17,
+      "volume": 1500
     }
   ]
 }

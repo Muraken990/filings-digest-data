@@ -1,17 +1,17 @@
 {
   "code": "FDBC",
   "ticker": "FDBC",
-  "last_updated": "2026-08-19 07:39:45",
+  "last_updated": "2026-08-20 07:40:51",
   "period": "5y",
-  "data_points": 1251,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-19",
-      "open": 45.41,
-      "high": 45.41,
-      "low": 45.0,
-      "close": 45.0,
-      "volume": 2100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-20",
@@ -8327,8 +8327,8 @@
     },
     {
       "date": "2025-10-10",
-      "open": 42.29,
-      "high": 42.29,
+      "open": 42.28,
+      "high": 42.28,
       "low": 39.78,
       "close": 39.82,
       "volume": 10500
@@ -10012,6 +10012,14 @@
       "low": 54.6,
       "close": 55.21,
       "volume": 4700
+    },
+    {
+      "date": "2026-08-19",
+      "open": 54.85,
+      "high": 54.95,
+      "low": 54.25,
+      "close": 54.25,
+      "volume": 4600
     }
   ]
 }

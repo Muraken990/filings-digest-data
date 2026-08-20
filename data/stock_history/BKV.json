@@ -1,9 +1,9 @@
 {
   "code": "BKV",
   "ticker": "BKV",
-  "last_updated": "2026-08-19 07:17:47",
+  "last_updated": "2026-08-20 07:18:52",
   "period": "5y",
-  "data_points": 471,
+  "data_points": 472,
   "data": [
     {
       "date": "2024-09-26",
@@ -3767,11 +3767,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 865681
+      "open": 26.61,
+      "high": 26.77,
+      "low": 26.22,
+      "close": 26.65,
+      "volume": 865700
+    },
+    {
+      "date": "2026-08-19",
+      "open": 27.0,
+      "high": 27.11,
+      "low": 26.13,
+      "close": 26.37,
+      "volume": 1635300
     }
   ]
 }

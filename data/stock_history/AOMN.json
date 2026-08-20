@@ -1,9 +1,9 @@
 {
   "code": "AOMN",
   "ticker": "AOMN",
-  "last_updated": "2026-08-19 07:10:57",
+  "last_updated": "2026-08-20 07:12:03",
   "period": "5y",
-  "data_points": 510,
+  "data_points": 511,
   "data": [
     {
       "date": "2024-08-01",
@@ -4079,11 +4079,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1481
+      "open": 25.23,
+      "high": 25.23,
+      "low": 25.15,
+      "close": 25.18,
+      "volume": 1500
+    },
+    {
+      "date": "2026-08-19",
+      "open": 25.15,
+      "high": 25.17,
+      "low": 25.11,
+      "close": 25.17,
+      "volume": 800
     }
   ]
 }

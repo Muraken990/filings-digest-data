@@ -1,9 +1,9 @@
 {
   "code": "AXG",
   "ticker": "AXG",
-  "last_updated": "2026-08-19 07:14:23",
+  "last_updated": "2026-08-20 07:15:28",
   "period": "5y",
-  "data_points": 737,
+  "data_points": 738,
   "data": [
     {
       "date": "2023-09-07",
@@ -5895,11 +5895,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 76876
+      "open": 2.6,
+      "high": 2.6,
+      "low": 2.54,
+      "close": 2.56,
+      "volume": 82300
+    },
+    {
+      "date": "2026-08-19",
+      "open": 2.54,
+      "high": 2.55,
+      "low": 2.5,
+      "close": 2.51,
+      "volume": 98800
     }
   ]
 }

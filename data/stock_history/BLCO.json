@@ -1,9 +1,9 @@
 {
   "code": "BLCO",
   "ticker": "BLCO",
-  "last_updated": "2026-08-19 07:18:33",
+  "last_updated": "2026-08-20 07:19:38",
   "period": "5y",
-  "data_points": 1071,
+  "data_points": 1072,
   "data": [
     {
       "date": "2022-05-06",
@@ -8567,11 +8567,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 381871
+      "open": 17.06,
+      "high": 17.49,
+      "low": 17.04,
+      "close": 17.04,
+      "volume": 429500
+    },
+    {
+      "date": "2026-08-19",
+      "open": 17.26,
+      "high": 17.77,
+      "low": 17.26,
+      "close": 17.45,
+      "volume": 537900
     }
   ]
 }

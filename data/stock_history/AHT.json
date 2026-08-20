@@ -1,18 +1,10 @@
 {
   "code": "AHT",
   "ticker": "AHT",
-  "last_updated": "2026-08-19 07:07:37",
+  "last_updated": "2026-08-20 07:08:43",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-19",
-      "open": 132.3,
-      "high": 136.7,
-      "low": 122.2,
-      "close": 126.6,
-      "volume": 506470
-    },
     {
       "date": "2021-08-20",
       "open": 126.7,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 129810
+      "open": 3.22,
+      "high": 3.27,
+      "low": 3.22,
+      "close": 3.26,
+      "volume": 132000
+    },
+    {
+      "date": "2026-08-19",
+      "open": 3.26,
+      "high": 3.36,
+      "low": 3.25,
+      "close": 3.34,
+      "volume": 180700
     }
   ]
 }

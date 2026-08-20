@@ -1,9 +1,9 @@
 {
   "code": "AVBP",
   "ticker": "AVBP",
-  "last_updated": "2026-08-19 07:14:20",
+  "last_updated": "2026-08-20 07:15:25",
   "period": "5y",
-  "data_points": 639,
+  "data_points": 640,
   "data": [
     {
       "date": "2024-01-26",
@@ -5111,11 +5111,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 408726
+      "open": 28.86,
+      "high": 30.36,
+      "low": 28.86,
+      "close": 30.0,
+      "volume": 408700
+    },
+    {
+      "date": "2026-08-19",
+      "open": 30.13,
+      "high": 30.45,
+      "low": 29.31,
+      "close": 30.02,
+      "volume": 522800
     }
   ]
 }

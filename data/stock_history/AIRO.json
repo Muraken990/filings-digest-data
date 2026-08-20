@@ -1,9 +1,9 @@
 {
   "code": "AIRO",
   "ticker": "AIRO",
-  "last_updated": "2026-08-19 07:08:25",
+  "last_updated": "2026-08-20 07:09:31",
   "period": "5y",
-  "data_points": 293,
+  "data_points": 294,
   "data": [
     {
       "date": "2025-06-13",
@@ -2343,11 +2343,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 665170
+      "open": 9.01,
+      "high": 9.44,
+      "low": 8.84,
+      "close": 8.98,
+      "volume": 667400
+    },
+    {
+      "date": "2026-08-19",
+      "open": 9.1,
+      "high": 9.1,
+      "low": 8.41,
+      "close": 8.59,
+      "volume": 438700
     }
   ]
 }

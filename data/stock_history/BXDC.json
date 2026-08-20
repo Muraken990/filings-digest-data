@@ -1,9 +1,9 @@
 {
   "code": "BXDC",
   "ticker": "BXDC",
-  "last_updated": "2026-08-19 07:21:09",
+  "last_updated": "2026-08-20 07:22:14",
   "period": "5y",
-  "data_points": 64,
+  "data_points": 65,
   "data": [
     {
       "date": "2026-05-14",
@@ -516,6 +516,14 @@
       "low": 20.37,
       "close": 20.67,
       "volume": 652900
+    },
+    {
+      "date": "2026-08-19",
+      "open": 20.48,
+      "high": 20.56,
+      "low": 19.64,
+      "close": 20.01,
+      "volume": 1102500
     }
   ]
 }

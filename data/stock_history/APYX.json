@@ -1,18 +1,10 @@
 {
   "code": "APYX",
   "ticker": "APYX",
-  "last_updated": "2026-08-19 07:11:46",
+  "last_updated": "2026-08-20 07:12:52",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-19",
-      "open": 10.09,
-      "high": 10.25,
-      "low": 10.05,
-      "close": 10.2,
-      "volume": 32100
-    },
     {
       "date": "2021-08-20",
       "open": 10.09,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 77852
+      "open": 3.05,
+      "high": 3.17,
+      "low": 3.0,
+      "close": 3.11,
+      "volume": 78400
+    },
+    {
+      "date": "2026-08-19",
+      "open": 3.17,
+      "high": 3.26,
+      "low": 3.09,
+      "close": 3.15,
+      "volume": 149700
     }
   ]
 }

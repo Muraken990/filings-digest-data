@@ -1,9 +1,9 @@
 {
   "code": "AZI",
   "ticker": "AZI",
-  "last_updated": "2026-08-19 07:15:10",
+  "last_updated": "2026-08-20 07:16:15",
   "period": "5y",
-  "data_points": 492,
+  "data_points": 493,
   "data": [
     {
       "date": "2024-08-28",
@@ -3935,11 +3935,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 120109
+      "open": 1.21,
+      "high": 1.25,
+      "low": 1.15,
+      "close": 1.15,
+      "volume": 123600
+    },
+    {
+      "date": "2026-08-19",
+      "open": 1.23,
+      "high": 2.1,
+      "low": 1.22,
+      "close": 1.66,
+      "volume": 61523200
     }
   ]
 }

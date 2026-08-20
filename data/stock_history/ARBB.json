@@ -1,9 +1,9 @@
 {
   "code": "ARBB",
   "ticker": "ARBB",
-  "last_updated": "2026-08-19 07:11:47",
+  "last_updated": "2026-08-20 07:12:53",
   "period": "5y",
-  "data_points": 842,
+  "data_points": 843,
   "data": [
     {
       "date": "2023-04-05",
@@ -6735,11 +6735,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3153
+      "open": 4.02,
+      "high": 4.32,
+      "low": 4.01,
+      "close": 4.28,
+      "volume": 3200
+    },
+    {
+      "date": "2026-08-19",
+      "open": 4.24,
+      "high": 4.24,
+      "low": 4.01,
+      "close": 4.01,
+      "volume": 1900
     }
   ]
 }

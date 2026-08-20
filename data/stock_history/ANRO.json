@@ -1,9 +1,9 @@
 {
   "code": "ANRO",
   "ticker": "ANRO",
-  "last_updated": "2026-08-19 07:10:56",
+  "last_updated": "2026-08-20 07:12:02",
   "period": "5y",
-  "data_points": 634,
+  "data_points": 635,
   "data": [
     {
       "date": "2024-02-02",
@@ -5071,11 +5071,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 393425
+      "open": 33.18,
+      "high": 34.54,
+      "low": 33.08,
+      "close": 34.13,
+      "volume": 433900
+    },
+    {
+      "date": "2026-08-19",
+      "open": 35.0,
+      "high": 35.41,
+      "low": 33.81,
+      "close": 34.89,
+      "volume": 335700
     }
   ]
 }

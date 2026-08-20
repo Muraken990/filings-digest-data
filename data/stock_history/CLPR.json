@@ -1,26 +1,10 @@
 {
   "code": "CLPR",
   "ticker": "CLPR",
-  "last_updated": "2026-08-19 07:26:10",
+  "last_updated": "2026-08-20 07:27:15",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-08-19",
-      "open": 5.08,
-      "high": 5.18,
-      "low": 5.07,
-      "close": 5.17,
-      "volume": 60900
-    },
     {
       "date": "2021-08-20",
       "open": 5.13,
@@ -122,7 +106,7 @@
       "open": 5.72,
       "high": 5.82,
       "low": 5.68,
-      "close": 5.73,
+      "close": 5.74,
       "volume": 31500
     },
     {
@@ -10020,6 +10004,14 @@
       "low": 3.11,
       "close": 3.14,
       "volume": 261800
+    },
+    {
+      "date": "2026-08-19",
+      "open": 3.13,
+      "high": 3.19,
+      "low": 3.06,
+      "close": 3.16,
+      "volume": 45400
     }
   ]
 }

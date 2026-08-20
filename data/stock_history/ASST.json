@@ -1,9 +1,9 @@
 {
   "code": "ASST",
   "ticker": "ASST",
-  "last_updated": "2026-08-19 07:12:41",
+  "last_updated": "2026-08-20 07:13:46",
   "period": "5y",
-  "data_points": 887,
+  "data_points": 888,
   "data": [
     {
       "date": "2023-02-03",
@@ -7095,11 +7095,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3880244
+      "open": 13.18,
+      "high": 13.44,
+      "low": 12.7,
+      "close": 12.8,
+      "volume": 3893200
+    },
+    {
+      "date": "2026-08-19",
+      "open": 12.95,
+      "high": 14.83,
+      "low": 12.94,
+      "close": 14.73,
+      "volume": 7531300
     }
   ]
 }

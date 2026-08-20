@@ -1,18 +1,10 @@
 {
   "code": "ALZN",
   "ticker": "ALZN",
-  "last_updated": "2026-08-19 07:09:19",
+  "last_updated": "2026-08-20 07:10:24",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-19",
-      "open": 4387.5,
-      "high": 4698.0,
-      "low": 4360.5,
-      "close": 4509.0,
-      "volume": 573
-    },
     {
       "date": "2021-08-20",
       "open": 4428.0,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 37531
+      "open": 1.52,
+      "high": 1.58,
+      "low": 1.51,
+      "close": 1.52,
+      "volume": 37500
+    },
+    {
+      "date": "2026-08-19",
+      "open": 1.5,
+      "high": 1.6,
+      "low": 1.5,
+      "close": 1.52,
+      "volume": 82700
     }
   ]
 }

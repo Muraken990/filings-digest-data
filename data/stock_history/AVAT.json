@@ -1,9 +1,9 @@
 {
   "code": "AVAT",
   "ticker": "AVAT",
-  "last_updated": "2026-08-19 07:14:19",
+  "last_updated": "2026-08-20 07:15:24",
   "period": "5y",
-  "data_points": 385,
+  "data_points": 386,
   "data": [
     {
       "date": "2025-02-03",
@@ -3079,11 +3079,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 61638
+      "open": 0.38,
+      "high": 0.4,
+      "low": 0.37,
+      "close": 0.39,
+      "volume": 71100
+    },
+    {
+      "date": "2026-08-19",
+      "open": 0.38,
+      "high": 0.45,
+      "low": 0.37,
+      "close": 0.43,
+      "volume": 252600
     }
   ]
 }

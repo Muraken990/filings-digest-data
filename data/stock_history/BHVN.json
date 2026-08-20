@@ -1,9 +1,9 @@
 {
   "code": "BHVN",
   "ticker": "BHVN",
-  "last_updated": "2026-08-19 07:17:43",
+  "last_updated": "2026-08-20 07:18:48",
   "period": "5y",
-  "data_points": 976,
+  "data_points": 977,
   "data": [
     {
       "date": "2022-09-23",
@@ -7807,11 +7807,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1965218
+      "open": 14.3,
+      "high": 14.3,
+      "low": 13.55,
+      "close": 13.57,
+      "volume": 1965200
+    },
+    {
+      "date": "2026-08-19",
+      "open": 13.94,
+      "high": 14.44,
+      "low": 13.76,
+      "close": 14.14,
+      "volume": 1963600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "AERT",
   "ticker": "AERT",
-  "last_updated": "2026-08-19 07:06:46",
+  "last_updated": "2026-08-20 07:07:52",
   "period": "5y",
-  "data_points": 1167,
+  "data_points": 1168,
   "data": [
     {
       "date": "2021-12-17",
@@ -9335,11 +9335,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 14525
+      "open": 6.95,
+      "high": 6.98,
+      "low": 6.76,
+      "close": 6.77,
+      "volume": 14700
+    },
+    {
+      "date": "2026-08-19",
+      "open": 6.89,
+      "high": 6.99,
+      "low": 6.75,
+      "close": 6.75,
+      "volume": 22400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "AII",
   "ticker": "AII",
-  "last_updated": "2026-08-19 07:08:23",
+  "last_updated": "2026-08-20 07:09:29",
   "period": "5y",
-  "data_points": 318,
+  "data_points": 319,
   "data": [
     {
       "date": "2025-05-08",
@@ -2543,11 +2543,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 128779
+      "open": 25.37,
+      "high": 25.76,
+      "low": 25.01,
+      "close": 25.26,
+      "volume": 154400
+    },
+    {
+      "date": "2026-08-19",
+      "open": 25.16,
+      "high": 25.44,
+      "low": 24.68,
+      "close": 24.87,
+      "volume": 102600
     }
   ]
 }

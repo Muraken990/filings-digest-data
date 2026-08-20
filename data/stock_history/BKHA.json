@@ -1,9 +1,9 @@
 {
   "code": "BKHA",
   "ticker": "BKHA",
-  "last_updated": "2026-08-19 07:17:46",
+  "last_updated": "2026-08-20 07:18:51",
   "period": "5y",
-  "data_points": 565,
+  "data_points": 566,
   "data": [
     {
       "date": "2024-05-13",
@@ -4519,11 +4519,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2447
+      "open": 11.83,
+      "high": 11.83,
+      "low": 11.8,
+      "close": 11.8,
+      "volume": 2800
+    },
+    {
+      "date": "2026-08-19",
+      "open": 11.83,
+      "high": 11.83,
+      "low": 11.83,
+      "close": 11.83,
+      "volume": 900
     }
   ]
 }

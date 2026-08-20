@@ -1,18 +1,10 @@
 {
   "code": "BCAB",
   "ticker": "BCAB",
-  "last_updated": "2026-08-19 07:16:02",
+  "last_updated": "2026-08-20 07:17:07",
   "period": "5y",
   "data_points": 1251,
   "data": [
-    {
-      "date": "2021-08-19",
-      "open": 2008.0,
-      "high": 2049.5,
-      "low": 1961.5,
-      "close": 1981.0,
-      "volume": 3574
-    },
     {
       "date": "2021-08-20",
       "open": 1975.5,
@@ -10007,11 +9999,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 30220
+      "open": 3.01,
+      "high": 3.25,
+      "low": 2.98,
+      "close": 3.18,
+      "volume": 30300
+    },
+    {
+      "date": "2026-08-19",
+      "open": 3.28,
+      "high": 3.33,
+      "low": 3.04,
+      "close": 3.27,
+      "volume": 47200
     }
   ]
 }

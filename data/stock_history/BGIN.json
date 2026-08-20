@@ -1,9 +1,9 @@
 {
   "code": "BGIN",
   "ticker": "BGIN",
-  "last_updated": "2026-08-19 07:16:54",
+  "last_updated": "2026-08-20 07:17:59",
   "period": "5y",
-  "data_points": 205,
+  "data_points": 208,
   "data": [
     {
       "date": "2025-10-21",
@@ -1494,6 +1494,14 @@
       "volume": 800
     },
     {
+      "date": "2026-07-21",
+      "open": 1.84,
+      "high": 1.93,
+      "low": 1.84,
+      "close": 1.93,
+      "volume": 7700
+    },
+    {
       "date": "2026-07-22",
       "open": 2.03,
       "high": 2.03,
@@ -1548,6 +1556,14 @@
       "low": 1.75,
       "close": 1.75,
       "volume": 1200
+    },
+    {
+      "date": "2026-07-31",
+      "open": 1.82,
+      "high": 1.83,
+      "low": 1.79,
+      "close": 1.79,
+      "volume": 1900
     },
     {
       "date": "2026-08-03",
@@ -1639,11 +1655,19 @@
     },
     {
       "date": "2026-08-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 17790
+      "open": 2.07,
+      "high": 2.27,
+      "low": 1.92,
+      "close": 1.92,
+      "volume": 17100
+    },
+    {
+      "date": "2026-08-19",
+      "open": 1.9,
+      "high": 2.2,
+      "low": 1.9,
+      "close": 1.99,
+      "volume": 12100
     }
   ]
 }
