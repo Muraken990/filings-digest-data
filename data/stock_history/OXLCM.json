@@ -1,9 +1,9 @@
 {
   "code": "OXLCM",
   "ticker": "OXLCM",
-  "last_updated": "2026-08-19 10:10:03",
+  "last_updated": "2026-08-20 10:11:22",
   "period": "5y",
-  "data_points": 103,
+  "data_points": 104,
   "data": [
     {
       "date": "2026-03-13",
@@ -828,6 +828,14 @@
       "low": 24.95,
       "close": 25.01,
       "volume": 17200
+    },
+    {
+      "date": "2026-08-19",
+      "open": 25.1,
+      "high": 25.15,
+      "low": 25.1,
+      "close": 25.13,
+      "volume": 2700
     }
   ]
 }

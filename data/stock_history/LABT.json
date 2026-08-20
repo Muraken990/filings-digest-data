@@ -1,9 +1,9 @@
 {
   "code": "LABT",
   "ticker": "LABT",
-  "last_updated": "2026-08-19 09:52:09",
+  "last_updated": "2026-08-20 09:53:26",
   "period": "5y",
-  "data_points": 80,
+  "data_points": 81,
   "data": [
     {
       "date": "2026-04-23",
@@ -643,7 +643,15 @@
       "high": 2.3,
       "low": 2.04,
       "close": 2.3,
-      "volume": 97600
+      "volume": 102300
+    },
+    {
+      "date": "2026-08-19",
+      "open": 2.23,
+      "high": 2.35,
+      "low": 2.16,
+      "close": 2.24,
+      "volume": 80200
     }
   ]
 }

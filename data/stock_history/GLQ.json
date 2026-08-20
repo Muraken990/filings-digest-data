@@ -1,17 +1,17 @@
 {
   "code": "GLQ",
   "ticker": "GLQ",
-  "last_updated": "2026-08-19 09:38:35",
+  "last_updated": "2026-08-20 09:39:45",
   "period": "5y",
-  "data_points": 1251,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-19",
-      "open": 8.32,
-      "high": 8.32,
-      "low": 8.13,
-      "close": 8.17,
-      "volume": 140600
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-20",
@@ -10012,6 +10012,14 @@
       "low": 8.21,
       "close": 8.26,
       "volume": 21800
+    },
+    {
+      "date": "2026-08-19",
+      "open": 8.29,
+      "high": 8.3,
+      "low": 8.2,
+      "close": 8.27,
+      "volume": 42800
     }
   ]
 }

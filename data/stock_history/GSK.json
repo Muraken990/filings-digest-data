@@ -1,17 +1,17 @@
 {
   "code": "GSK",
   "ticker": "GSK",
-  "last_updated": "2026-08-19 09:40:16",
+  "last_updated": "2026-08-20 09:41:28",
   "period": "5y",
-  "data_points": 1251,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-19",
-      "open": 34.07,
-      "high": 34.35,
-      "low": 34.0,
-      "close": 34.15,
-      "volume": 2874900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-20",
@@ -55,7 +55,7 @@
     },
     {
       "date": "2021-08-27",
-      "open": 33.51,
+      "open": 33.5,
       "high": 33.64,
       "low": 33.34,
       "close": 33.34,
@@ -417,7 +417,7 @@
       "date": "2021-11-01",
       "open": 34.61,
       "high": 35.05,
-      "low": 34.58,
+      "low": 34.57,
       "close": 34.79,
       "volume": 6759400
     },
@@ -10011,7 +10011,15 @@
       "high": 51.35,
       "low": 50.65,
       "close": 51.15,
-      "volume": 2828200
+      "volume": 2829000
+    },
+    {
+      "date": "2026-08-19",
+      "open": 51.4,
+      "high": 52.95,
+      "low": 51.35,
+      "close": 52.88,
+      "volume": 3902400
     }
   ]
 }

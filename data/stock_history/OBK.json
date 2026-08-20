@@ -1,17 +1,17 @@
 {
   "code": "OBK",
   "ticker": "OBK",
-  "last_updated": "2026-08-19 10:07:29",
+  "last_updated": "2026-08-20 10:08:47",
   "period": "5y",
-  "data_points": 1251,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-19",
-      "open": 36.38,
-      "high": 36.76,
-      "low": 35.84,
-      "close": 36.71,
-      "volume": 25900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-20",
@@ -1977,7 +1977,7 @@
       "date": "2022-08-11",
       "open": 41.02,
       "high": 41.45,
-      "low": 41.0,
+      "low": 40.99,
       "close": 41.33,
       "volume": 46000
     },
@@ -2104,7 +2104,7 @@
     {
       "date": "2022-09-02",
       "open": 38.08,
-      "high": 38.31,
+      "high": 38.3,
       "low": 37.03,
       "close": 37.23,
       "volume": 75000
@@ -2728,7 +2728,7 @@
     {
       "date": "2022-12-23",
       "open": 33.79,
-      "high": 34.26,
+      "high": 34.27,
       "low": 33.49,
       "close": 34.14,
       "volume": 58700
@@ -10012,6 +10012,14 @@
       "low": 53.17,
       "close": 53.56,
       "volume": 260300
+    },
+    {
+      "date": "2026-08-19",
+      "open": 53.59,
+      "high": 53.93,
+      "low": 52.47,
+      "close": 52.51,
+      "volume": 201900
     }
   ]
 }
