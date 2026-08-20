@@ -1,9 +1,9 @@
 {
   "code": "SORA",
   "ticker": "SORA",
-  "last_updated": "2026-08-19 12:18:17",
+  "last_updated": "2026-08-20 12:19:31",
   "period": "5y",
-  "data_points": 343,
+  "data_points": 344,
   "data": [
     {
       "date": "2025-04-02",
@@ -2748,6 +2748,14 @@
       "low": 2.2,
       "close": 2.25,
       "volume": 42000
+    },
+    {
+      "date": "2026-08-19",
+      "open": 2.26,
+      "high": 2.55,
+      "low": 2.19,
+      "close": 2.3,
+      "volume": 123300
     }
   ]
 }

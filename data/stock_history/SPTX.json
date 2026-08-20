@@ -1,9 +1,9 @@
 {
   "code": "SPTX",
   "ticker": "SPTX",
-  "last_updated": "2026-08-19 12:19:07",
+  "last_updated": "2026-08-20 12:20:20",
   "period": "5y",
-  "data_points": 72,
+  "data_points": 73,
   "data": [
     {
       "date": "2026-05-01",
@@ -580,6 +580,14 @@
       "low": 23.24,
       "close": 23.97,
       "volume": 120500
+    },
+    {
+      "date": "2026-08-19",
+      "open": 24.0,
+      "high": 26.32,
+      "low": 23.66,
+      "close": 24.42,
+      "volume": 240900
     }
   ]
 }

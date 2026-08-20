@@ -1,17 +1,17 @@
 {
   "code": "PRI",
   "ticker": "PRI",
-  "last_updated": "2026-08-19 12:06:22",
+  "last_updated": "2026-08-20 12:07:38",
   "period": "5y",
-  "data_points": 1251,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-19",
-      "open": 138.13,
-      "high": 139.1,
-      "low": 135.37,
-      "close": 136.99,
-      "volume": 94400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-20",
@@ -4266,7 +4266,7 @@
       "open": 185.88,
       "high": 186.23,
       "low": 182.58,
-      "close": 183.55,
+      "close": 183.56,
       "volume": 142000
     },
     {
@@ -6330,7 +6330,7 @@
       "open": 271.84,
       "high": 272.32,
       "low": 266.48,
-      "close": 267.56,
+      "close": 267.55,
       "volume": 138600
     },
     {
@@ -6714,7 +6714,7 @@
       "open": 269.83,
       "high": 269.83,
       "low": 258.58,
-      "close": 260.67,
+      "close": 260.66,
       "volume": 235600
     },
     {
@@ -10012,6 +10012,14 @@
       "low": 307.56,
       "close": 308.21,
       "volume": 168600
+    },
+    {
+      "date": "2026-08-19",
+      "open": 307.92,
+      "high": 309.24,
+      "low": 299.57,
+      "close": 300.97,
+      "volume": 178600
     }
   ]
 }

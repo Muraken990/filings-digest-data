@@ -1,9 +1,9 @@
 {
   "code": "VCRE",
   "ticker": "VCRE",
-  "last_updated": "2026-08-19 12:28:35",
+  "last_updated": "2026-08-20 12:29:45",
   "period": "5y",
-  "data_points": 30,
+  "data_points": 31,
   "data": [
     {
       "date": "2026-07-06",
@@ -244,6 +244,14 @@
       "low": 12.23,
       "close": 12.23,
       "volume": 0
+    },
+    {
+      "date": "2026-08-19",
+      "open": 11.82,
+      "high": 12.0,
+      "low": 11.79,
+      "close": 12.0,
+      "volume": 4600
     }
   ]
 }

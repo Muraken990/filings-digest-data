@@ -1,17 +1,17 @@
 {
   "code": "PRK",
   "ticker": "PRK",
-  "last_updated": "2026-08-19 12:06:23",
+  "last_updated": "2026-08-20 12:07:38",
   "period": "5y",
-  "data_points": 1251,
+  "data_points": 1252,
   "data": [
     {
       "date": "2021-08-19",
-      "open": 99.6,
-      "high": 100.49,
-      "low": 98.65,
-      "close": 100.43,
-      "volume": 39200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-20",
@@ -3002,7 +3002,7 @@
       "open": 114.43,
       "high": 114.58,
       "low": 113.12,
-      "close": 113.51,
+      "close": 113.5,
       "volume": 19100
     },
     {
@@ -7495,7 +7495,7 @@
     },
     {
       "date": "2025-05-13",
-      "open": 162.73,
+      "open": 162.72,
       "high": 162.97,
       "low": 161.62,
       "close": 161.92,
@@ -10012,6 +10012,14 @@
       "low": 204.1,
       "close": 204.4,
       "volume": 78800
+    },
+    {
+      "date": "2026-08-19",
+      "open": 206.01,
+      "high": 206.96,
+      "low": 201.38,
+      "close": 201.69,
+      "volume": 75400
     }
   ]
 }
