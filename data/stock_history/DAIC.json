@@ -1,9 +1,9 @@
 {
   "code": "DAIC",
   "ticker": "DAIC",
-  "last_updated": "2026-08-20 07:31:34",
+  "last_updated": "2026-08-21 07:30:31",
   "period": "5y",
-  "data_points": 291,
+  "data_points": 293,
   "data": [
     {
       "date": "2025-06-23",
@@ -2174,6 +2174,14 @@
       "volume": 591700
     },
     {
+      "date": "2026-07-22",
+      "open": 1.34,
+      "high": 1.45,
+      "low": 1.27,
+      "close": 1.39,
+      "volume": 437700
+    },
+    {
       "date": "2026-07-23",
       "open": 1.35,
       "high": 1.48,
@@ -2331,7 +2339,15 @@
       "high": 0.5,
       "low": 0.37,
       "close": 0.42,
-      "volume": 1396700
+      "volume": 1411900
+    },
+    {
+      "date": "2026-08-20",
+      "open": 0.41,
+      "high": 0.49,
+      "low": 0.41,
+      "close": 0.42,
+      "volume": 405000
     }
   ]
 }

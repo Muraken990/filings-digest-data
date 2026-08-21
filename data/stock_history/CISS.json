@@ -1,9 +1,9 @@
 {
   "code": "CISS",
   "ticker": "CISS",
-  "last_updated": "2026-08-20 07:26:27",
+  "last_updated": "2026-08-21 07:25:22",
   "period": "5y",
-  "data_points": 795,
+  "data_points": 799,
   "data": [
     {
       "date": "2023-06-14",
@@ -6207,19 +6207,27 @@
     },
     {
       "date": "2026-07-20",
-      "open": 1.69,
-      "high": 1.69,
-      "low": 1.55,
-      "close": 1.67,
-      "volume": 34100
+      "open": 67.6,
+      "high": 67.6,
+      "low": 62.0,
+      "close": 66.8,
+      "volume": 853
+    },
+    {
+      "date": "2026-07-21",
+      "open": 65.2,
+      "high": 73.2,
+      "low": 63.6,
+      "close": 64.8,
+      "volume": 1105
     },
     {
       "date": "2026-07-22",
-      "open": 1.66,
-      "high": 1.68,
-      "low": 1.62,
-      "close": 1.63,
-      "volume": 108700
+      "open": 66.4,
+      "high": 67.2,
+      "low": 64.8,
+      "close": 65.2,
+      "volume": 2718
     },
     {
       "date": "2026-07-23",
@@ -6271,11 +6279,11 @@
     },
     {
       "date": "2026-07-31",
-      "open": 0.14,
-      "high": 0.14,
-      "low": 0.12,
-      "close": 0.12,
-      "volume": 20134700
+      "open": 5.6,
+      "high": 5.6,
+      "low": 4.72,
+      "close": 4.76,
+      "volume": 503368
     },
     {
       "date": "2026-08-03",
@@ -6327,43 +6335,67 @@
     },
     {
       "date": "2026-08-11",
-      "open": 0.08,
-      "high": 0.09,
-      "low": 0.08,
-      "close": 0.08,
-      "volume": 9773600
+      "open": 3.28,
+      "high": 3.48,
+      "low": 3.2,
+      "close": 3.32,
+      "volume": 244340
     },
     {
       "date": "2026-08-12",
-      "open": 0.08,
-      "high": 0.09,
-      "low": 0.08,
-      "close": 0.08,
-      "volume": 9415100
+      "open": 3.28,
+      "high": 3.4,
+      "low": 3.2,
+      "close": 3.32,
+      "volume": 235378
     },
     {
       "date": "2026-08-13",
-      "open": 0.08,
-      "high": 0.08,
-      "low": 0.08,
-      "close": 0.08,
-      "volume": 11828700
+      "open": 3.12,
+      "high": 3.28,
+      "low": 3.0,
+      "close": 3.28,
+      "volume": 295718
     },
     {
       "date": "2026-08-14",
-      "open": 0.08,
-      "high": 0.08,
-      "low": 0.08,
-      "close": 0.08,
-      "volume": 4888900
+      "open": 3.16,
+      "high": 3.2,
+      "low": 3.0,
+      "close": 3.16,
+      "volume": 122223
+    },
+    {
+      "date": "2026-08-17",
+      "open": 2.6,
+      "high": 2.68,
+      "low": 2.28,
+      "close": 2.36,
+      "volume": 678593
+    },
+    {
+      "date": "2026-08-18",
+      "open": 2.4,
+      "high": 2.76,
+      "low": 2.24,
+      "close": 2.76,
+      "volume": 547970
     },
     {
       "date": "2026-08-19",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7223632
+      "open": 2.79,
+      "high": 4.9,
+      "low": 2.56,
+      "close": 3.09,
+      "volume": 7330600
+    },
+    {
+      "date": "2026-08-20",
+      "open": 2.71,
+      "high": 3.06,
+      "low": 2.61,
+      "close": 2.93,
+      "volume": 465000
     }
   ]
 }

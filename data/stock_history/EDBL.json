@@ -1,9 +1,9 @@
 {
   "code": "EDBL",
   "ticker": "EDBL",
-  "last_updated": "2026-08-20 07:35:46",
+  "last_updated": "2026-08-21 07:34:45",
   "period": "5y",
-  "data_points": 1075,
+  "data_points": 1077,
   "data": [
     {
       "date": "2022-05-05",
@@ -8446,6 +8446,14 @@
       "volume": 79700
     },
     {
+      "date": "2026-07-22",
+      "open": 3.47,
+      "high": 3.67,
+      "low": 3.36,
+      "close": 3.47,
+      "volume": 62400
+    },
+    {
       "date": "2026-07-23",
       "open": 3.18,
       "high": 3.26,
@@ -8603,7 +8611,15 @@
       "high": 1.67,
       "low": 1.51,
       "close": 1.53,
-      "volume": 143700
+      "volume": 149200
+    },
+    {
+      "date": "2026-08-20",
+      "open": 1.54,
+      "high": 1.57,
+      "low": 1.48,
+      "close": 1.52,
+      "volume": 106500
     }
   ]
 }

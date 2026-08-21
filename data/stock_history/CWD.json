@@ -1,9 +1,9 @@
 {
   "code": "CWD",
   "ticker": "CWD",
-  "last_updated": "2026-08-20 07:31:31",
+  "last_updated": "2026-08-21 07:30:28",
   "period": "5y",
-  "data_points": 815,
+  "data_points": 817,
   "data": [
     {
       "date": "2023-05-18",
@@ -6358,6 +6358,14 @@
       "volume": 238100
     },
     {
+      "date": "2026-07-21",
+      "open": 0.72,
+      "high": 0.74,
+      "low": 0.69,
+      "close": 0.73,
+      "volume": 169000
+    },
+    {
       "date": "2026-07-22",
       "open": 0.7,
       "high": 0.78,
@@ -6523,7 +6531,15 @@
       "high": 0.54,
       "low": 0.5,
       "close": 0.52,
-      "volume": 263100
+      "volume": 283200
+    },
+    {
+      "date": "2026-08-20",
+      "open": 0.54,
+      "high": 0.54,
+      "low": 0.51,
+      "close": 0.53,
+      "volume": 215100
     }
   ]
 }

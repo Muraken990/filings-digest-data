@@ -1,9 +1,9 @@
 {
   "code": "ANNA",
   "ticker": "ANNA",
-  "last_updated": "2026-08-20 07:12:02",
+  "last_updated": "2026-08-21 07:10:53",
   "period": "5y",
-  "data_points": 1126,
+  "data_points": 1128,
   "data": [
     {
       "date": "2022-02-22",
@@ -8846,6 +8846,14 @@
       "volume": 399100
     },
     {
+      "date": "2026-07-21",
+      "open": 3.57,
+      "high": 3.68,
+      "low": 3.5,
+      "close": 3.62,
+      "volume": 169300
+    },
+    {
       "date": "2026-07-22",
       "open": 3.69,
       "high": 3.9,
@@ -9011,7 +9019,15 @@
       "high": 2.85,
       "low": 2.73,
       "close": 2.84,
-      "volume": 143900
+      "volume": 145000
+    },
+    {
+      "date": "2026-08-20",
+      "open": 2.87,
+      "high": 2.88,
+      "low": 2.8,
+      "close": 2.85,
+      "volume": 83300
     }
   ]
 }
