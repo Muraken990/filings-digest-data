@@ -1,18 +1,10 @@
 {
   "code": "TOMZ",
   "ticker": "TOMZ",
-  "last_updated": "2026-08-20 12:25:30",
+  "last_updated": "2026-08-21 12:24:48",
   "period": "5y",
-  "data_points": 1252,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-20",
-      "open": 4.62,
-      "high": 4.8,
-      "low": 4.62,
-      "close": 4.77,
-      "volume": 7900
-    },
     {
       "date": "2021-08-23",
       "open": 4.68,
@@ -9855,11 +9847,11 @@
     },
     {
       "date": "2026-07-20",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
+      "open": 2.12,
+      "high": 2.12,
+      "low": 1.69,
+      "close": 1.84,
+      "volume": 102400
     },
     {
       "date": "2026-07-21",
@@ -9868,6 +9860,14 @@
       "low": 1.68,
       "close": 1.84,
       "volume": 37800
+    },
+    {
+      "date": "2026-07-22",
+      "open": 1.79,
+      "high": 1.82,
+      "low": 1.7,
+      "close": 1.82,
+      "volume": 39800
     },
     {
       "date": "2026-07-23",
@@ -9916,6 +9916,14 @@
       "low": 1.52,
       "close": 1.6,
       "volume": 25600
+    },
+    {
+      "date": "2026-07-31",
+      "open": 1.62,
+      "high": 1.68,
+      "low": 1.6,
+      "close": 1.6,
+      "volume": 8800
     },
     {
       "date": "2026-08-03",
@@ -10019,7 +10027,15 @@
       "high": 1.83,
       "low": 1.68,
       "close": 1.74,
-      "volume": 9500
+      "volume": 14700
+    },
+    {
+      "date": "2026-08-20",
+      "open": 1.84,
+      "high": 1.86,
+      "low": 1.78,
+      "close": 1.82,
+      "volume": 37300
     }
   ]
 }

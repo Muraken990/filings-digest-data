@@ -1,9 +1,9 @@
 {
   "code": "SKYX",
   "ticker": "SKYX",
-  "last_updated": "2026-08-20 12:17:49",
+  "last_updated": "2026-08-21 12:17:06",
   "period": "5y",
-  "data_points": 1133,
+  "data_points": 1135,
   "data": [
     {
       "date": "2022-02-10",
@@ -8966,6 +8966,14 @@
       "volume": 740100
     },
     {
+      "date": "2026-07-31",
+      "open": 1.12,
+      "high": 1.12,
+      "low": 1.08,
+      "close": 1.09,
+      "volume": 764700
+    },
+    {
       "date": "2026-08-03",
       "open": 1.08,
       "high": 1.13,
@@ -9067,7 +9075,15 @@
       "high": 1.19,
       "low": 1.13,
       "close": 1.15,
-      "volume": 363300
+      "volume": 367800
+    },
+    {
+      "date": "2026-08-20",
+      "open": 1.15,
+      "high": 1.21,
+      "low": 1.1,
+      "close": 1.1,
+      "volume": 1866500
     }
   ]
 }

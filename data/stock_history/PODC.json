@@ -1,9 +1,9 @@
 {
   "code": "PODC",
   "ticker": "PODC",
-  "last_updated": "2026-08-20 12:06:48",
+  "last_updated": "2026-08-21 12:06:01",
   "period": "5y",
-  "data_points": 737,
+  "data_points": 740,
   "data": [
     {
       "date": "2023-09-08",
@@ -5742,6 +5742,22 @@
       "volume": 54200
     },
     {
+      "date": "2026-07-21",
+      "open": 4.04,
+      "high": 4.21,
+      "low": 3.7,
+      "close": 3.9,
+      "volume": 77400
+    },
+    {
+      "date": "2026-07-22",
+      "open": 3.82,
+      "high": 3.94,
+      "low": 3.56,
+      "close": 3.84,
+      "volume": 79000
+    },
+    {
       "date": "2026-07-23",
       "open": 3.85,
       "high": 3.85,
@@ -5900,6 +5916,14 @@
       "low": 2.65,
       "close": 2.69,
       "volume": 79600
+    },
+    {
+      "date": "2026-08-20",
+      "open": 2.65,
+      "high": 3.0,
+      "low": 2.36,
+      "close": 2.52,
+      "volume": 169100
     }
   ]
 }
