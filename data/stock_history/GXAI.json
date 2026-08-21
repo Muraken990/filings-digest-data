@@ -1,9 +1,9 @@
 {
   "code": "GXAI",
   "ticker": "GXAI",
-  "last_updated": "2026-08-20 09:42:17",
+  "last_updated": "2026-08-21 09:40:41",
   "period": "5y",
-  "data_points": 879,
+  "data_points": 881,
   "data": [
     {
       "date": "2023-02-15",
@@ -6878,6 +6878,14 @@
       "volume": 144500
     },
     {
+      "date": "2026-07-22",
+      "open": 1.1,
+      "high": 1.1,
+      "low": 1.07,
+      "close": 1.07,
+      "volume": 89800
+    },
+    {
       "date": "2026-07-23",
       "open": 1.07,
       "high": 1.08,
@@ -7035,7 +7043,15 @@
       "high": 0.92,
       "low": 0.81,
       "close": 0.85,
-      "volume": 1330200
+      "volume": 1343600
+    },
+    {
+      "date": "2026-08-20",
+      "open": 0.85,
+      "high": 0.87,
+      "low": 0.83,
+      "close": 0.87,
+      "volume": 632900
     }
   ]
 }

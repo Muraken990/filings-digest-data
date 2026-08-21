@@ -1,9 +1,9 @@
 {
   "code": "PBK",
   "ticker": "PBK",
-  "last_updated": "2026-08-20 10:12:14",
+  "last_updated": "2026-08-21 10:10:24",
   "period": "5y",
-  "data_points": 593,
+  "data_points": 595,
   "data": [
     {
       "date": "2024-04-08",
@@ -4646,6 +4646,14 @@
       "volume": 471400
     },
     {
+      "date": "2026-07-31",
+      "open": 0.52,
+      "high": 0.54,
+      "low": 0.5,
+      "close": 0.5,
+      "volume": 261200
+    },
+    {
       "date": "2026-08-03",
       "open": 0.5,
       "high": 0.55,
@@ -4747,7 +4755,15 @@
       "high": 0.5,
       "low": 0.45,
       "close": 0.46,
-      "volume": 830200
+      "volume": 831500
+    },
+    {
+      "date": "2026-08-20",
+      "open": 0.47,
+      "high": 0.5,
+      "low": 0.47,
+      "close": 0.47,
+      "volume": 1700600
     }
   ]
 }

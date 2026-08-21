@@ -1,9 +1,9 @@
 {
   "code": "IZM",
   "ticker": "IZM",
-  "last_updated": "2026-08-20 09:49:59",
+  "last_updated": "2026-08-21 09:48:19",
   "period": "5y",
-  "data_points": 860,
+  "data_points": 862,
   "data": [
     {
       "date": "2023-03-15",
@@ -6726,6 +6726,14 @@
       "volume": 468300
     },
     {
+      "date": "2026-07-22",
+      "open": 0.33,
+      "high": 0.33,
+      "low": 0.27,
+      "close": 0.28,
+      "volume": 241800
+    },
+    {
       "date": "2026-07-23",
       "open": 0.3,
       "high": 0.3,
@@ -6883,7 +6891,15 @@
       "high": 0.24,
       "low": 0.23,
       "close": 0.23,
-      "volume": 139400
+      "volume": 140400
+    },
+    {
+      "date": "2026-08-20",
+      "open": 0.23,
+      "high": 0.24,
+      "low": 0.23,
+      "close": 0.24,
+      "volume": 90600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "GOAI",
   "ticker": "GOAI",
-  "last_updated": "2026-08-20 09:40:34",
+  "last_updated": "2026-08-21 09:38:59",
   "period": "5y",
-  "data_points": 140,
+  "data_points": 142,
   "data": [
     {
       "date": "2026-01-28",
@@ -1022,6 +1022,14 @@
       "volume": 171900
     },
     {
+      "date": "2026-07-31",
+      "open": 1.84,
+      "high": 2.0,
+      "low": 1.8,
+      "close": 1.97,
+      "volume": 232000
+    },
+    {
       "date": "2026-08-03",
       "open": 1.91,
       "high": 1.95,
@@ -1124,6 +1132,14 @@
       "low": 1.63,
       "close": 1.76,
       "volume": 18400
+    },
+    {
+      "date": "2026-08-20",
+      "open": 1.76,
+      "high": 2.07,
+      "low": 1.66,
+      "close": 2.03,
+      "volume": 239900
     }
   ]
 }

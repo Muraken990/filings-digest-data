@@ -1,9 +1,9 @@
 {
   "code": "ORKT",
   "ticker": "ORKT",
-  "last_updated": "2026-08-20 10:10:32",
+  "last_updated": "2026-08-21 10:08:43",
   "period": "5y",
-  "data_points": 517,
+  "data_points": 520,
   "data": [
     {
       "date": "2024-07-25",
@@ -3982,6 +3982,22 @@
       "volume": 11400
     },
     {
+      "date": "2026-07-21",
+      "open": 0.96,
+      "high": 1.0,
+      "low": 0.96,
+      "close": 1.0,
+      "volume": 1100
+    },
+    {
+      "date": "2026-07-22",
+      "open": 0.96,
+      "high": 1.0,
+      "low": 0.94,
+      "close": 0.94,
+      "volume": 5200
+    },
+    {
       "date": "2026-07-23",
       "open": 0.94,
       "high": 1.07,
@@ -4140,6 +4156,14 @@
       "low": 0.98,
       "close": 1.02,
       "volume": 8300
+    },
+    {
+      "date": "2026-08-20",
+      "open": 0.99,
+      "high": 1.01,
+      "low": 0.99,
+      "close": 1.0,
+      "volume": 26400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "NUCL",
   "ticker": "NUCL",
-  "last_updated": "2026-08-20 10:07:53",
+  "last_updated": "2026-08-21 10:06:06",
   "period": "5y",
-  "data_points": 121,
+  "data_points": 123,
   "data": [
     {
       "date": "2026-02-25",
@@ -870,6 +870,14 @@
       "volume": 405400
     },
     {
+      "date": "2026-07-31",
+      "open": 5.8,
+      "high": 6.58,
+      "low": 5.39,
+      "close": 5.7,
+      "volume": 2147900
+    },
+    {
       "date": "2026-08-03",
       "open": 5.61,
       "high": 6.38,
@@ -972,6 +980,14 @@
       "low": 7.55,
       "close": 7.59,
       "volume": 232700
+    },
+    {
+      "date": "2026-08-20",
+      "open": 7.64,
+      "high": 7.77,
+      "low": 7.24,
+      "close": 7.38,
+      "volume": 279100
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "IGIC",
   "ticker": "IGIC",
-  "last_updated": "2026-08-20 09:46:37",
+  "last_updated": "2026-08-21 09:44:59",
   "period": "5y",
-  "data_points": 1251,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-20",
-      "open": 7.37,
-      "high": 7.53,
-      "low": 7.27,
-      "close": 7.41,
-      "volume": 7900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-23",
@@ -9862,6 +9862,22 @@
       "volume": 98900
     },
     {
+      "date": "2026-07-21",
+      "open": 28.11,
+      "high": 28.26,
+      "low": 27.68,
+      "close": 28.03,
+      "volume": 74900
+    },
+    {
+      "date": "2026-07-22",
+      "open": 28.03,
+      "high": 28.08,
+      "low": 27.58,
+      "close": 27.99,
+      "volume": 71000
+    },
+    {
       "date": "2026-07-23",
       "open": 27.87,
       "high": 27.94,
@@ -9908,6 +9924,14 @@
       "low": 27.13,
       "close": 27.49,
       "volume": 70800
+    },
+    {
+      "date": "2026-07-31",
+      "open": 27.36,
+      "high": 28.02,
+      "low": 27.31,
+      "close": 27.83,
+      "volume": 49400
     },
     {
       "date": "2026-08-03",
@@ -10012,6 +10036,14 @@
       "low": 26.4,
       "close": 26.57,
       "volume": 89300
+    },
+    {
+      "date": "2026-08-20",
+      "open": 26.59,
+      "high": 26.74,
+      "low": 26.16,
+      "close": 26.31,
+      "volume": 33300
     }
   ]
 }
