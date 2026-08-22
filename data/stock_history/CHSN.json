@@ -1,9 +1,9 @@
 {
   "code": "CHSN",
   "ticker": "CHSN",
-  "last_updated": "2026-08-21 07:24:33",
+  "last_updated": "2026-08-22 07:24:24",
   "period": "5y",
-  "data_points": 851,
+  "data_points": 852,
   "data": [
     {
       "date": "2023-03-30",
@@ -6811,7 +6811,15 @@
       "high": 1.15,
       "low": 1.06,
       "close": 1.1,
-      "volume": 69500
+      "volume": 71000
+    },
+    {
+      "date": "2026-08-21",
+      "open": 1.1,
+      "high": 1.25,
+      "low": 1.1,
+      "close": 1.17,
+      "volume": 126900
     }
   ]
 }

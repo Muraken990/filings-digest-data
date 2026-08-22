@@ -1,9 +1,9 @@
 {
   "code": "ASPC",
   "ticker": "ASPC",
-  "last_updated": "2026-08-21 07:12:38",
+  "last_updated": "2026-08-22 07:12:30",
   "period": "5y",
-  "data_points": 408,
+  "data_points": 409,
   "data": [
     {
       "date": "2025-01-03",
@@ -3267,7 +3267,15 @@
       "high": 11.28,
       "low": 10.84,
       "close": 10.84,
-      "volume": 103100
+      "volume": 228300
+    },
+    {
+      "date": "2026-08-21",
+      "open": 11.31,
+      "high": 12.65,
+      "low": 11.0,
+      "close": 12.45,
+      "volume": 532500
     }
   ]
 }
