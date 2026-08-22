@@ -1,9 +1,9 @@
 {
   "code": "IPFX",
   "ticker": "IPFX",
-  "last_updated": "2026-08-21 09:47:27",
+  "last_updated": "2026-08-22 09:42:49",
   "period": "5y",
-  "data_points": 66,
+  "data_points": 67,
   "data": [
     {
       "date": "2026-05-18",
@@ -532,6 +532,14 @@
       "low": 10.1,
       "close": 10.11,
       "volume": 31600
+    },
+    {
+      "date": "2026-08-21",
+      "open": 10.11,
+      "high": 10.11,
+      "low": 10.11,
+      "close": 10.11,
+      "volume": 25700
     }
   ]
 }

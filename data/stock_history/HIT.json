@@ -1,9 +1,9 @@
 {
   "code": "HIT",
   "ticker": "HIT",
-  "last_updated": "2026-08-21 09:42:21",
+  "last_updated": "2026-08-22 09:37:44",
   "period": "5y",
-  "data_points": 415,
+  "data_points": 416,
   "data": [
     {
       "date": "2024-12-23",
@@ -3323,7 +3323,15 @@
       "high": 1.02,
       "low": 0.99,
       "close": 1.02,
-      "volume": 19900
+      "volume": 21100
+    },
+    {
+      "date": "2026-08-21",
+      "open": 0.99,
+      "high": 1.03,
+      "low": 0.96,
+      "close": 1.0,
+      "volume": 66700
     }
   ]
 }
