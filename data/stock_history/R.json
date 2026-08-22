@@ -1,18 +1,10 @@
 {
   "code": "R",
   "ticker": "R",
-  "last_updated": "2026-08-21 12:09:22",
+  "last_updated": "2026-08-22 12:07:46",
   "period": "5y",
   "data_points": 1255,
   "data": [
-    {
-      "date": "2021-08-20",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-08-23",
       "open": 67.01,
@@ -6018,7 +6010,7 @@
       "open": 132.26,
       "high": 133.24,
       "low": 131.19,
-      "close": 132.53,
+      "close": 132.54,
       "volume": 181900
     },
     {
@@ -10044,6 +10036,14 @@
       "low": 246.55,
       "close": 247.85,
       "volume": 261500
+    },
+    {
+      "date": "2026-08-21",
+      "open": 250.56,
+      "high": 250.96,
+      "low": 246.89,
+      "close": 249.73,
+      "volume": 368700
     }
   ]
 }
