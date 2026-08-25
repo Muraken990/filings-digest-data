@@ -1,9 +1,9 @@
 {
   "code": "BETA",
   "ticker": "BETA",
-  "last_updated": "2026-08-24 07:16:40",
+  "last_updated": "2026-08-25 07:18:08",
   "period": "5y",
-  "data_points": 200,
+  "data_points": 201,
   "data": [
     {
       "date": "2025-11-04",
@@ -1604,6 +1604,14 @@
       "low": 24.62,
       "close": 24.74,
       "volume": 1600600
+    },
+    {
+      "date": "2026-08-24",
+      "open": 24.49,
+      "high": 24.99,
+      "low": 23.75,
+      "close": 23.84,
+      "volume": 2436300
     }
   ]
 }

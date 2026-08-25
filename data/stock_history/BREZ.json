@@ -1,9 +1,9 @@
 {
   "code": "BREZ",
   "ticker": "BREZ",
-  "last_updated": "2026-08-24 07:19:16",
+  "last_updated": "2026-08-25 07:20:45",
   "period": "5y",
-  "data_points": 50,
+  "data_points": 51,
   "data": [
     {
       "date": "2026-06-11",
@@ -404,6 +404,14 @@
       "low": 10.0,
       "close": 10.0,
       "volume": 1700
+    },
+    {
+      "date": "2026-08-24",
+      "open": 9.96,
+      "high": 9.96,
+      "low": 9.95,
+      "close": 9.95,
+      "volume": 30000
     }
   ]
 }

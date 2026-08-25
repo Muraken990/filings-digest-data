@@ -1,25 +1,17 @@
 {
   "code": "CGAU",
   "ticker": "CGAU",
-  "last_updated": "2026-08-24 07:24:16",
+  "last_updated": "2026-08-25 07:25:45",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-08-23",
-      "open": 6.11,
-      "high": 6.54,
-      "low": 6.11,
-      "close": 6.47,
-      "volume": 105100
-    },
-    {
       "date": "2021-08-24",
-      "open": 6.52,
-      "high": 6.56,
-      "low": 6.4,
-      "close": 6.53,
-      "volume": 66400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-25",
@@ -10044,6 +10036,14 @@
       "low": 23.44,
       "close": 23.75,
       "volume": 1904500
+    },
+    {
+      "date": "2026-08-24",
+      "open": 24.05,
+      "high": 24.32,
+      "low": 23.08,
+      "close": 23.48,
+      "volume": 2487600
     }
   ]
 }

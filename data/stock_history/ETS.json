@@ -1,9 +1,9 @@
 {
   "code": "ETS",
   "ticker": "ETS",
-  "last_updated": "2026-08-24 07:37:52",
+  "last_updated": "2026-08-25 07:39:26",
   "period": "5y",
-  "data_points": 252,
+  "data_points": 253,
   "data": [
     {
       "date": "2025-08-21",
@@ -2020,6 +2020,14 @@
       "low": 1.08,
       "close": 1.15,
       "volume": 8800
+    },
+    {
+      "date": "2026-08-24",
+      "open": 1.15,
+      "high": 1.15,
+      "low": 0.98,
+      "close": 1.0,
+      "volume": 108200
     }
   ]
 }

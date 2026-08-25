@@ -1,25 +1,17 @@
 {
   "code": "CHT",
   "ticker": "CHT",
-  "last_updated": "2026-08-24 07:24:21",
+  "last_updated": "2026-08-25 07:25:51",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-08-23",
-      "open": 33.26,
-      "high": 33.52,
-      "low": 33.22,
-      "close": 33.49,
-      "volume": 131000
-    },
-    {
       "date": "2021-08-24",
-      "open": 33.48,
-      "high": 33.65,
-      "low": 33.42,
-      "close": 33.46,
-      "volume": 102000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-25",
@@ -10044,6 +10036,14 @@
       "low": 43.3,
       "close": 43.38,
       "volume": 225900
+    },
+    {
+      "date": "2026-08-24",
+      "open": 43.51,
+      "high": 43.63,
+      "low": 43.08,
+      "close": 43.17,
+      "volume": 179000
     }
   ]
 }

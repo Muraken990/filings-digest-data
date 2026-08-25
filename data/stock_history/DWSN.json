@@ -1,26 +1,10 @@
 {
   "code": "DWSN",
   "ticker": "DWSN",
-  "last_updated": "2026-08-24 07:33:40",
+  "last_updated": "2026-08-25 07:35:13",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-23",
-      "open": 1.61,
-      "high": 1.63,
-      "low": 1.56,
-      "close": 1.63,
-      "volume": 16300
-    },
-    {
-      "date": "2021-08-24",
-      "open": 1.61,
-      "high": 1.65,
-      "low": 1.61,
-      "close": 1.63,
-      "volume": 9900
-    },
     {
       "date": "2021-08-25",
       "open": 1.62,
@@ -10043,7 +10027,15 @@
       "high": 3.48,
       "low": 3.01,
       "close": 3.41,
-      "volume": 240400
+      "volume": 250500
+    },
+    {
+      "date": "2026-08-24",
+      "open": 3.33,
+      "high": 3.5,
+      "low": 3.14,
+      "close": 3.42,
+      "volume": 227200
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "EOD",
   "ticker": "EOD",
-  "last_updated": "2026-08-24 07:36:14",
+  "last_updated": "2026-08-25 07:37:48",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-23",
-      "open": 3.62,
-      "high": 3.63,
-      "low": 3.6,
-      "close": 3.63,
-      "volume": 121900
-    },
-    {
-      "date": "2021-08-24",
-      "open": 3.64,
-      "high": 3.68,
-      "low": 3.63,
-      "close": 3.66,
-      "volume": 157600
-    },
     {
       "date": "2021-08-25",
       "open": 3.66,
@@ -10044,6 +10028,14 @@
       "low": 6.63,
       "close": 6.7,
       "volume": 89000
+    },
+    {
+      "date": "2026-08-24",
+      "open": 6.7,
+      "high": 6.71,
+      "low": 6.6,
+      "close": 6.67,
+      "volume": 84100
     }
   ]
 }
