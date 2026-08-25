@@ -1,9 +1,9 @@
 {
   "code": "MAMO",
   "ticker": "MAMO",
-  "last_updated": "2026-08-24 09:56:56",
+  "last_updated": "2026-08-25 09:55:26",
   "period": "5y",
-  "data_points": 600,
+  "data_points": 601,
   "data": [
     {
       "date": "2024-04-02",
@@ -4804,6 +4804,14 @@
       "low": 1.03,
       "close": 1.04,
       "volume": 16900
+    },
+    {
+      "date": "2026-08-24",
+      "open": 1.04,
+      "high": 1.05,
+      "low": 0.94,
+      "close": 0.95,
+      "volume": 345900
     }
   ]
 }
