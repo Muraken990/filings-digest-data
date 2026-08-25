@@ -1,26 +1,10 @@
 {
   "code": "SMHI",
   "ticker": "SMHI",
-  "last_updated": "2026-08-24 12:18:43",
+  "last_updated": "2026-08-25 12:18:04",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-23",
-      "open": 4.21,
-      "high": 4.25,
-      "low": 4.04,
-      "close": 4.22,
-      "volume": 16400
-    },
-    {
-      "date": "2021-08-24",
-      "open": 4.26,
-      "high": 4.33,
-      "low": 4.24,
-      "close": 4.31,
-      "volume": 12400
-    },
     {
       "date": "2021-08-25",
       "open": 4.28,
@@ -10044,6 +10028,14 @@
       "low": 9.8,
       "close": 9.96,
       "volume": 92200
+    },
+    {
+      "date": "2026-08-24",
+      "open": 9.96,
+      "high": 9.96,
+      "low": 9.64,
+      "close": 9.75,
+      "volume": 107600
     }
   ]
 }

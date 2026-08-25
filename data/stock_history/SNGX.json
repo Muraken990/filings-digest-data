@@ -1,26 +1,10 @@
 {
   "code": "SNGX",
   "ticker": "SNGX",
-  "last_updated": "2026-08-24 12:18:46",
+  "last_updated": "2026-08-25 12:18:07",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-23",
-      "open": 223.2,
-      "high": 225.6,
-      "low": 218.4,
-      "close": 223.2,
-      "volume": 1465
-    },
-    {
-      "date": "2021-08-24",
-      "open": 228.0,
-      "high": 228.0,
-      "low": 218.4,
-      "close": 223.2,
-      "volume": 1264
-    },
     {
       "date": "2021-08-25",
       "open": 228.0,
@@ -10043,7 +10027,15 @@
       "high": 0.42,
       "low": 0.38,
       "close": 0.4,
-      "volume": 979100
+      "volume": 989200
+    },
+    {
+      "date": "2026-08-24",
+      "open": 0.41,
+      "high": 0.41,
+      "low": 0.4,
+      "close": 0.4,
+      "volume": 311100
     }
   ]
 }
