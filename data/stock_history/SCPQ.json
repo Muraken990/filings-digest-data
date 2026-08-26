@@ -1,9 +1,9 @@
 {
   "code": "SCPQ",
   "ticker": "SCPQ",
-  "last_updated": "2026-08-25 12:14:43",
+  "last_updated": "2026-08-26 12:14:01",
   "period": "5y",
-  "data_points": 133,
+  "data_points": 134,
   "data": [
     {
       "date": "2026-02-12",
@@ -1068,6 +1068,14 @@
       "low": 10.02,
       "close": 10.02,
       "volume": 300
+    },
+    {
+      "date": "2026-08-25",
+      "open": 10.03,
+      "high": 10.03,
+      "low": 10.03,
+      "close": 10.03,
+      "volume": 75000
     }
   ]
 }

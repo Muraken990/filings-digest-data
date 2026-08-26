@@ -1,9 +1,9 @@
 {
   "code": "VCIG",
   "ticker": "VCIG",
-  "last_updated": "2026-08-25 12:29:11",
+  "last_updated": "2026-08-26 12:28:17",
   "period": "5y",
-  "data_points": 844,
+  "data_points": 845,
   "data": [
     {
       "date": "2023-04-13",
@@ -6755,7 +6755,15 @@
       "high": null,
       "low": null,
       "close": null,
-      "volume": 244372
+      "volume": 0
+    },
+    {
+      "date": "2026-08-25",
+      "open": 2.97,
+      "high": 3.06,
+      "low": 2.65,
+      "close": 2.84,
+      "volume": 479300
     }
   ]
 }

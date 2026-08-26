@@ -1,9 +1,9 @@
 {
   "code": "XFLH",
   "ticker": "XFLH",
-  "last_updated": "2026-08-25 12:34:21",
+  "last_updated": "2026-08-26 12:33:21",
   "period": "5y",
-  "data_points": 117,
+  "data_points": 118,
   "data": [
     {
       "date": "2026-03-09",
@@ -939,6 +939,14 @@
       "high": 10.06,
       "low": 10.05,
       "close": 10.06,
+      "volume": 1000
+    },
+    {
+      "date": "2026-08-25",
+      "open": 10.04,
+      "high": 10.04,
+      "low": 9.99,
+      "close": 10.04,
       "volume": 1000
     }
   ]

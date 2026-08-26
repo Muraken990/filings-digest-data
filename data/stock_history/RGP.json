@@ -1,17 +1,17 @@
 {
   "code": "RGP",
   "ticker": "RGP",
-  "last_updated": "2026-08-25 12:11:14",
+  "last_updated": "2026-08-26 12:10:36",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-25",
-      "open": 12.51,
-      "high": 12.61,
-      "low": 12.38,
-      "close": 12.41,
-      "volume": 225900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-26",
@@ -975,9 +975,9 @@
     },
     {
       "date": "2022-02-16",
-      "open": 13.61,
+      "open": 13.6,
       "high": 13.75,
-      "low": 13.61,
+      "low": 13.6,
       "close": 13.68,
       "volume": 202500
     },
@@ -10036,6 +10036,14 @@
       "low": 4.27,
       "close": 4.28,
       "volume": 128700
+    },
+    {
+      "date": "2026-08-25",
+      "open": 4.28,
+      "high": 4.32,
+      "low": 4.23,
+      "close": 4.26,
+      "volume": 212200
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SAV",
   "ticker": "SAV",
-  "last_updated": "2026-08-25 12:13:52",
+  "last_updated": "2026-08-26 12:13:11",
   "period": "5y",
-  "data_points": 134,
+  "data_points": 135,
   "data": [
     {
       "date": "2026-02-11",
@@ -1076,6 +1076,14 @@
       "low": 24.42,
       "close": 24.56,
       "volume": 1500
+    },
+    {
+      "date": "2026-08-25",
+      "open": 24.55,
+      "high": 24.81,
+      "low": 24.55,
+      "close": 24.78,
+      "volume": 7600
     }
   ]
 }
