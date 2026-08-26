@@ -1,17 +1,17 @@
 {
   "code": "AG",
   "ticker": "AG",
-  "last_updated": "2026-08-25 07:08:42",
+  "last_updated": "2026-08-26 07:07:26",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-25",
-      "open": 12.29,
-      "high": 12.29,
-      "low": 11.96,
-      "close": 12.12,
-      "volume": 2530500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-26",
@@ -10035,7 +10035,15 @@
       "high": 21.52,
       "low": 20.52,
       "close": 20.83,
-      "volume": 9099200
+      "volume": 9118700
+    },
+    {
+      "date": "2026-08-25",
+      "open": 20.32,
+      "high": 21.28,
+      "low": 20.29,
+      "close": 21.24,
+      "volume": 7856000
     }
   ]
 }

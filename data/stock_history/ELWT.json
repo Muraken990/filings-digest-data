@@ -1,9 +1,9 @@
 {
   "code": "ELWT",
   "ticker": "ELWT",
-  "last_updated": "2026-08-25 07:37:43",
+  "last_updated": "2026-08-26 07:36:09",
   "period": "5y",
-  "data_points": 200,
+  "data_points": 201,
   "data": [
     {
       "date": "2025-11-05",
@@ -1604,6 +1604,14 @@
       "low": 7.3,
       "close": 7.31,
       "volume": 3800
+    },
+    {
+      "date": "2026-08-25",
+      "open": 7.45,
+      "high": 7.5,
+      "low": 7.25,
+      "close": 7.5,
+      "volume": 5200
     }
   ]
 }
