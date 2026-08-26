@@ -1,9 +1,9 @@
 {
   "code": "KLRA",
   "ticker": "KLRA",
-  "last_updated": "2026-08-25 09:50:17",
+  "last_updated": "2026-08-26 09:50:15",
   "period": "5y",
-  "data_points": 89,
+  "data_points": 90,
   "data": [
     {
       "date": "2026-04-17",
@@ -716,6 +716,14 @@
       "low": 16.37,
       "close": 16.54,
       "volume": 549500
+    },
+    {
+      "date": "2026-08-25",
+      "open": 16.75,
+      "high": 18.19,
+      "low": 16.54,
+      "close": 17.75,
+      "volume": 1323900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "GMRS",
   "ticker": "GMRS",
-  "last_updated": "2026-08-25 09:38:23",
+  "last_updated": "2026-08-26 09:38:22",
   "period": "5y",
-  "data_points": 71,
+  "data_points": 72,
   "data": [
     {
       "date": "2026-05-13",
@@ -572,6 +572,14 @@
       "low": 13.12,
       "close": 13.24,
       "volume": 675400
+    },
+    {
+      "date": "2026-08-25",
+      "open": 13.33,
+      "high": 13.57,
+      "low": 12.63,
+      "close": 12.7,
+      "volume": 358700
     }
   ]
 }

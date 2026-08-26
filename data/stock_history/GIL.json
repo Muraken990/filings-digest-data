@@ -1,17 +1,17 @@
 {
   "code": "GIL",
   "ticker": "GIL",
-  "last_updated": "2026-08-25 09:37:32",
+  "last_updated": "2026-08-26 09:37:32",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-25",
-      "open": 35.14,
-      "high": 35.85,
-      "low": 35.02,
-      "close": 35.8,
-      "volume": 793900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-26",
@@ -898,7 +898,7 @@
       "open": 37.06,
       "high": 37.51,
       "low": 37.05,
-      "close": 37.41,
+      "close": 37.4,
       "volume": 702500
     },
     {
@@ -10036,6 +10036,14 @@
       "low": 54.5,
       "close": 54.95,
       "volume": 1468800
+    },
+    {
+      "date": "2026-08-25",
+      "open": 54.73,
+      "high": 54.98,
+      "low": 54.3,
+      "close": 54.59,
+      "volume": 620800
     }
   ]
 }

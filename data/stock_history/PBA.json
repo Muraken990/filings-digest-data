@@ -1,26 +1,10 @@
 {
   "code": "PBA",
   "ticker": "PBA",
-  "last_updated": "2026-08-25 10:10:00",
+  "last_updated": "2026-08-26 10:09:48",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-24",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-08-25",
-      "open": 24.5,
-      "high": 24.65,
-      "low": 24.32,
-      "close": 24.45,
-      "volume": 665400
-    },
     {
       "date": "2021-08-26",
       "open": 24.4,
@@ -5088,7 +5072,7 @@
     {
       "date": "2024-03-05",
       "open": 31.28,
-      "high": 31.55,
+      "high": 31.54,
       "low": 31.08,
       "close": 31.33,
       "volume": 1911600
@@ -5104,7 +5088,7 @@
     {
       "date": "2024-03-07",
       "open": 31.97,
-      "high": 32.29,
+      "high": 32.3,
       "low": 31.88,
       "close": 32.11,
       "volume": 1097400
@@ -10044,6 +10028,14 @@
       "low": 48.0,
       "close": 48.73,
       "volume": 710500
+    },
+    {
+      "date": "2026-08-25",
+      "open": 48.22,
+      "high": 48.85,
+      "low": 48.09,
+      "close": 48.1,
+      "volume": 1003000
     }
   ]
 }

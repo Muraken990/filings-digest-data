@@ -1,9 +1,9 @@
 {
   "code": "GIPR",
   "ticker": "GIPR",
-  "last_updated": "2026-08-25 09:37:33",
+  "last_updated": "2026-08-26 09:37:32",
   "period": "5y",
-  "data_points": 1226,
+  "data_points": 1227,
   "data": [
     {
       "date": "2021-10-05",
@@ -273,7 +273,7 @@
       "date": "2021-11-19",
       "open": 50.19,
       "high": 51.19,
-      "low": 48.89,
+      "low": 48.9,
       "close": 49.81,
       "volume": 3980
     },
@@ -9811,7 +9811,15 @@
       "high": 0.87,
       "low": 0.28,
       "close": 0.75,
-      "volume": 283105800
+      "volume": 285771100
+    },
+    {
+      "date": "2026-08-25",
+      "open": 0.55,
+      "high": 0.56,
+      "low": 0.4,
+      "close": 0.53,
+      "volume": 12186800
     }
   ]
 }

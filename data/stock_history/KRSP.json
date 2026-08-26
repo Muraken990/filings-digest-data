@@ -1,9 +1,9 @@
 {
   "code": "KRSP",
   "ticker": "KRSP",
-  "last_updated": "2026-08-25 09:51:08",
+  "last_updated": "2026-08-26 09:51:05",
   "period": "5y",
-  "data_points": 187,
+  "data_points": 188,
   "data": [
     {
       "date": "2025-11-24",
@@ -1500,6 +1500,14 @@
       "low": 10.46,
       "close": 10.6,
       "volume": 4400
+    },
+    {
+      "date": "2026-08-25",
+      "open": 10.5,
+      "high": 10.65,
+      "low": 10.5,
+      "close": 10.65,
+      "volume": 200
     }
   ]
 }

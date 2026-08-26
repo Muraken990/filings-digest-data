@@ -1,9 +1,9 @@
 {
   "code": "PFLA",
   "ticker": "PFLA",
-  "last_updated": "2026-08-25 10:11:39",
+  "last_updated": "2026-08-26 10:11:27",
   "period": "5y",
-  "data_points": 57,
+  "data_points": 58,
   "data": [
     {
       "date": "2026-06-03",
@@ -460,6 +460,14 @@
       "low": 25.16,
       "close": 25.28,
       "volume": 9900
+    },
+    {
+      "date": "2026-08-25",
+      "open": 25.28,
+      "high": 25.32,
+      "low": 25.25,
+      "close": 25.32,
+      "volume": 1500
     }
   ]
 }

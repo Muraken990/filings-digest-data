@@ -1,9 +1,9 @@
 {
   "code": "LILAP",
   "ticker": "LILAP",
-  "last_updated": "2026-08-25 09:52:54",
+  "last_updated": "2026-08-26 09:52:50",
   "period": "5y",
-  "data_points": 59,
+  "data_points": 60,
   "data": [
     {
       "date": "2026-06-01",
@@ -476,6 +476,14 @@
       "low": 20.61,
       "close": 20.66,
       "volume": 57600
+    },
+    {
+      "date": "2026-08-25",
+      "open": 20.92,
+      "high": 21.17,
+      "low": 20.68,
+      "close": 20.7,
+      "volume": 22300
     }
   ]
 }
