@@ -1,18 +1,10 @@
 {
   "code": "REAX",
   "ticker": "REAX",
-  "last_updated": "2026-08-26 12:09:47",
+  "last_updated": "2026-08-27 12:10:37",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-26",
-      "open": 1.98,
-      "high": 1.99,
-      "low": 1.89,
-      "close": 1.93,
-      "volume": 80000
-    },
     {
       "date": "2021-08-27",
       "open": 1.85,
@@ -10035,7 +10027,15 @@
       "high": null,
       "low": null,
       "close": null,
-      "volume": 2046147
+      "volume": 0
+    },
+    {
+      "date": "2026-08-26",
+      "open": 26.61,
+      "high": 27.85,
+      "low": 24.37,
+      "close": 26.59,
+      "volume": 1323500
     }
   ]
 }
