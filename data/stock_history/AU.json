@@ -1,17 +1,17 @@
 {
   "code": "AU",
   "ticker": "AU",
-  "last_updated": "2026-08-26 07:13:24",
+  "last_updated": "2026-08-27 07:14:17",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-26",
-      "open": 13.96,
-      "high": 14.16,
-      "low": 13.88,
-      "close": 13.99,
-      "volume": 2499600
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-27",
@@ -7866,7 +7866,7 @@
       "open": 46.64,
       "high": 46.84,
       "low": 45.81,
-      "close": 46.62,
+      "close": 46.63,
       "volume": 2159900
     },
     {
@@ -8010,7 +8010,7 @@
       "open": 50.7,
       "high": 52.24,
       "low": 50.7,
-      "close": 51.63,
+      "close": 51.64,
       "volume": 2808700
     },
     {
@@ -8311,7 +8311,7 @@
     },
     {
       "date": "2025-10-15",
-      "open": 69.74,
+      "open": 69.75,
       "high": 72.2,
       "low": 69.22,
       "close": 71.89,
@@ -10036,6 +10036,14 @@
       "low": 117.92,
       "close": 123.39,
       "volume": 2759900
+    },
+    {
+      "date": "2026-08-26",
+      "open": 119.8,
+      "high": 120.11,
+      "low": 117.73,
+      "close": 118.11,
+      "volume": 3835400
     }
   ]
 }

@@ -1,21 +1,21 @@
 {
   "code": "DEO",
   "ticker": "DEO",
-  "last_updated": "2026-08-26 07:31:09",
+  "last_updated": "2026-08-27 07:31:51",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-26",
-      "open": 168.8,
-      "high": 169.06,
-      "low": 167.88,
-      "close": 168.09,
-      "volume": 295000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-27",
-      "open": 169.24,
+      "open": 169.23,
       "high": 170.01,
       "low": 169.0,
       "close": 169.77,
@@ -3434,7 +3434,7 @@
       "open": 167.92,
       "high": 168.08,
       "low": 165.93,
-      "close": 166.6,
+      "close": 166.59,
       "volume": 603000
     },
     {
@@ -10036,6 +10036,14 @@
       "low": 94.18,
       "close": 94.75,
       "volume": 1008000
+    },
+    {
+      "date": "2026-08-26",
+      "open": 95.49,
+      "high": 95.49,
+      "low": 93.62,
+      "close": 93.67,
+      "volume": 1618400
     }
   ]
 }
