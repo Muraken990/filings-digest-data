@@ -1,17 +1,17 @@
 {
   "code": "HQL",
   "ticker": "HQL",
-  "last_updated": "2026-08-26 09:42:38",
+  "last_updated": "2026-08-27 09:43:07",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-26",
-      "open": 13.0,
-      "high": 13.0,
-      "low": 12.54,
-      "close": 12.59,
-      "volume": 69100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-27",
@@ -5879,7 +5879,7 @@
     },
     {
       "date": "2024-07-30",
-      "open": 11.53,
+      "open": 11.52,
       "high": 11.55,
       "low": 11.44,
       "close": 11.48,
@@ -10036,6 +10036,14 @@
       "low": 21.54,
       "close": 21.67,
       "volume": 146900
+    },
+    {
+      "date": "2026-08-26",
+      "open": 21.66,
+      "high": 21.8,
+      "low": 21.31,
+      "close": 21.53,
+      "volume": 121200
     }
   ]
 }
