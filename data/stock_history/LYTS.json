@@ -1,17 +1,17 @@
 {
   "code": "LYTS",
   "ticker": "LYTS",
-  "last_updated": "2026-08-27 09:55:50",
+  "last_updated": "2026-08-28 09:56:22",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-27",
-      "open": 7.72,
-      "high": 7.89,
-      "low": 7.54,
-      "close": 7.83,
-      "volume": 61100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-08-30",
@@ -7986,7 +7986,7 @@
       "open": 18.88,
       "high": 19.25,
       "low": 18.73,
-      "close": 18.81,
+      "close": 18.8,
       "volume": 129000
     },
     {
@@ -10036,6 +10036,14 @@
       "low": 20.16,
       "close": 20.27,
       "volume": 495700
+    },
+    {
+      "date": "2026-08-27",
+      "open": 20.26,
+      "high": 20.51,
+      "low": 19.8,
+      "close": 20.17,
+      "volume": 444000
     }
   ]
 }

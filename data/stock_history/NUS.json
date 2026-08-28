@@ -1,26 +1,10 @@
 {
   "code": "NUS",
   "ticker": "NUS",
-  "last_updated": "2026-08-27 10:06:02",
+  "last_updated": "2026-08-28 10:06:36",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-26",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-08-27",
-      "open": 42.8,
-      "high": 43.84,
-      "low": 42.64,
-      "close": 43.7,
-      "volume": 290900
-    },
     {
       "date": "2021-08-30",
       "open": 43.87,
@@ -10044,6 +10028,14 @@
       "low": 4.81,
       "close": 4.84,
       "volume": 407000
+    },
+    {
+      "date": "2026-08-27",
+      "open": 4.79,
+      "high": 4.86,
+      "low": 4.75,
+      "close": 4.79,
+      "volume": 356100
     }
   ]
 }

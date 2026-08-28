@@ -1,26 +1,10 @@
 {
   "code": "MAIN",
   "ticker": "MAIN",
-  "last_updated": "2026-08-27 09:55:52",
+  "last_updated": "2026-08-28 09:56:24",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-26",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-08-27",
-      "open": 28.34,
-      "high": 28.69,
-      "low": 28.34,
-      "close": 28.58,
-      "volume": 177200
-    },
     {
       "date": "2021-08-30",
       "open": 28.57,
@@ -231,7 +215,7 @@
     },
     {
       "date": "2021-10-06",
-      "open": 28.22,
+      "open": 28.21,
       "high": 28.39,
       "low": 28.04,
       "close": 28.39,
@@ -2914,7 +2898,7 @@
       "open": 29.99,
       "high": 30.06,
       "low": 29.59,
-      "close": 29.91,
+      "close": 29.92,
       "volume": 465700
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 58.35,
       "close": 58.43,
       "volume": 361900
+    },
+    {
+      "date": "2026-08-27",
+      "open": 58.35,
+      "high": 58.92,
+      "low": 58.29,
+      "close": 58.59,
+      "volume": 341300
     }
   ]
 }
