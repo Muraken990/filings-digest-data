@@ -1,9 +1,9 @@
 {
   "code": "FMAC",
   "ticker": "FMAC",
-  "last_updated": "2026-08-27 07:41:50",
+  "last_updated": "2026-08-28 07:41:40",
   "period": "5y",
-  "data_points": 70,
+  "data_points": 71,
   "data": [
     {
       "date": "2026-05-18",
@@ -564,6 +564,14 @@
       "low": 10.07,
       "close": 10.07,
       "volume": 0
+    },
+    {
+      "date": "2026-08-27",
+      "open": 10.07,
+      "high": 10.08,
+      "low": 10.07,
+      "close": 10.08,
+      "volume": 437500
     }
   ]
 }
