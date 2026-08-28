@@ -1,9 +1,9 @@
 {
   "code": "TRGS",
   "ticker": "TRGS",
-  "last_updated": "2026-08-27 12:25:58",
+  "last_updated": "2026-08-28 12:24:33",
   "period": "5y",
-  "data_points": 90,
+  "data_points": 91,
   "data": [
     {
       "date": "2026-04-20",
@@ -724,6 +724,14 @@
       "low": 9.94,
       "close": 9.95,
       "volume": 20100
+    },
+    {
+      "date": "2026-08-27",
+      "open": 9.94,
+      "high": 9.96,
+      "low": 9.94,
+      "close": 9.96,
+      "volume": 2000
     }
   ]
 }
