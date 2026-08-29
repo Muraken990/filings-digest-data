@@ -1,9 +1,9 @@
 {
   "code": "IBKR",
   "ticker": "IBKR",
-  "last_updated": "2026-08-28 09:45:17",
+  "last_updated": "2026-08-29 09:44:19",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-08-30",
@@ -944,7 +944,7 @@
     {
       "date": "2022-02-15",
       "open": 17.85,
-      "high": 18.06,
+      "high": 18.05,
       "low": 17.78,
       "close": 18.03,
       "volume": 2473600
@@ -10036,6 +10036,14 @@
       "low": 95.76,
       "close": 96.55,
       "volume": 5154900
+    },
+    {
+      "date": "2026-08-28",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2229749
     }
   ]
 }
