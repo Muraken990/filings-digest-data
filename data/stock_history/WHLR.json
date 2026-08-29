@@ -1,9 +1,9 @@
 {
   "code": "WHLR",
   "ticker": "WHLR",
-  "last_updated": "2026-08-28 12:31:24",
+  "last_updated": "2026-08-29 12:31:01",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
     {
       "date": "2021-08-30",
@@ -10023,11 +10023,19 @@
     },
     {
       "date": "2026-08-27",
+      "open": 1.62,
+      "high": 1.63,
+      "low": 1.06,
+      "close": 1.12,
+      "volume": 947000
+    },
+    {
+      "date": "2026-08-28",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 875577
+      "volume": 47078941
     }
   ]
 }
