@@ -1,26 +1,10 @@
 {
   "code": "ORIO",
   "ticker": "ORIO",
-  "last_updated": "2026-08-31 10:09:28",
+  "last_updated": "2026-09-01 10:09:07",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-30",
-      "open": 16.2,
-      "high": 16.35,
-      "low": 15.75,
-      "close": 16.23,
-      "volume": 148300
-    },
-    {
-      "date": "2021-08-31",
-      "open": 16.17,
-      "high": 16.35,
-      "low": 15.7,
-      "close": 15.84,
-      "volume": 201433
-    },
     {
       "date": "2021-09-01",
       "open": 16.08,
@@ -10043,7 +10027,15 @@
       "high": 1.14,
       "low": 0.88,
       "close": 1.09,
-      "volume": 1046200
+      "volume": 1077600
+    },
+    {
+      "date": "2026-08-31",
+      "open": 1.09,
+      "high": 1.12,
+      "low": 0.99,
+      "close": 1.01,
+      "volume": 122200
     }
   ]
 }

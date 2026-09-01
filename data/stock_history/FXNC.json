@@ -1,26 +1,10 @@
 {
   "code": "FXNC",
   "ticker": "FXNC",
-  "last_updated": "2026-08-31 09:37:09",
+  "last_updated": "2026-09-01 09:36:30",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-30",
-      "open": 18.57,
-      "high": 18.57,
-      "low": 17.82,
-      "close": 18.05,
-      "volume": 4500
-    },
-    {
-      "date": "2021-08-31",
-      "open": 18.41,
-      "high": 18.75,
-      "low": 18.12,
-      "close": 18.19,
-      "volume": 3100
-    },
     {
       "date": "2021-09-01",
       "open": 18.23,
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-08-28",
-      "open": 30.88,
-      "high": 31.08,
-      "low": 30.7,
-      "close": 30.77,
-      "volume": 16000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 30.54,
+      "high": 31.32,
+      "low": 30.32,
+      "close": 30.55,
+      "volume": 32700
     }
   ]
 }

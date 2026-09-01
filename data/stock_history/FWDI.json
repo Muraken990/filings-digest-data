@@ -1,26 +1,10 @@
 {
   "code": "FWDI",
   "ticker": "FWDI",
-  "last_updated": "2026-08-31 09:37:08",
+  "last_updated": "2026-09-01 09:36:29",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-30",
-      "open": 26.2,
-      "high": 26.9,
-      "low": 25.3,
-      "close": 25.4,
-      "volume": 9030
-    },
-    {
-      "date": "2021-08-31",
-      "open": 25.1,
-      "high": 26.4,
-      "low": 24.8,
-      "close": 26.0,
-      "volume": 15750
-    },
     {
       "date": "2021-09-01",
       "open": 26.0,
@@ -10043,7 +10027,15 @@
       "high": 6.73,
       "low": 5.87,
       "close": 5.89,
-      "volume": 4115400
+      "volume": 4142000
+    },
+    {
+      "date": "2026-08-31",
+      "open": 5.95,
+      "high": 6.42,
+      "low": 5.83,
+      "close": 6.34,
+      "volume": 2202100
     }
   ]
 }

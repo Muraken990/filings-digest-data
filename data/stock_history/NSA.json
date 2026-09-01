@@ -1,17 +1,25 @@
 {
   "code": "NSA",
   "ticker": "NSA",
-  "last_updated": "2026-08-31 10:06:01",
+  "last_updated": "2026-09-01 10:05:39",
   "period": "5y",
-  "data_points": 1,
+  "data_points": 2,
   "data": [
     {
+      "date": "2026-07-17",
+      "open": 45.56,
+      "high": 46.07,
+      "low": 44.4,
+      "close": 44.5,
+      "volume": 2727359
+    },
+    {
       "date": "2026-07-21",
-      "open": 44.2,
-      "high": 44.17,
-      "low": 43.06,
-      "close": 43.41,
-      "volume": 5869111
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     }
   ]
 }

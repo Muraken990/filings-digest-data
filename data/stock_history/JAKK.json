@@ -1,26 +1,10 @@
 {
   "code": "JAKK",
   "ticker": "JAKK",
-  "last_updated": "2026-08-31 09:49:04",
+  "last_updated": "2026-09-01 09:48:33",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-30",
-      "open": 13.07,
-      "high": 13.11,
-      "low": 12.51,
-      "close": 12.92,
-      "volume": 106300
-    },
-    {
-      "date": "2021-08-31",
-      "open": 13.0,
-      "high": 13.78,
-      "low": 12.89,
-      "close": 13.68,
-      "volume": 182900
-    },
     {
       "date": "2021-09-01",
       "open": 13.62,
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-08-28",
-      "open": 25.41,
-      "high": 25.9,
-      "low": 25.2,
-      "close": 25.42,
-      "volume": 65000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 25.51,
+      "high": 25.68,
+      "low": 24.96,
+      "close": 25.11,
+      "volume": 64700
     }
   ]
 }
