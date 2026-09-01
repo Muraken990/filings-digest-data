@@ -1,25 +1,17 @@
 {
   "code": "STRRP",
   "ticker": "STRRP",
-  "last_updated": "2026-08-31 12:21:19",
+  "last_updated": "2026-09-01 12:22:24",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
     {
-      "date": "2021-08-30",
-      "open": 5.22,
-      "high": 5.32,
-      "low": 5.16,
-      "close": 5.16,
-      "volume": 2700
-    },
-    {
       "date": "2021-08-31",
-      "open": 5.24,
-      "high": 5.24,
-      "low": 5.24,
-      "close": 5.24,
-      "volume": 1200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-01",
@@ -10038,12 +10030,12 @@
       "volume": 13800
     },
     {
-      "date": "2026-08-28",
-      "open": 9.94,
+      "date": "2026-08-31",
+      "open": 9.9,
       "high": 9.95,
-      "low": 9.91,
-      "close": 9.91,
-      "volume": 1600
+      "low": 9.77,
+      "close": 9.95,
+      "volume": 12600
     }
   ]
 }

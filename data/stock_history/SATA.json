@@ -1,9 +1,9 @@
 {
   "code": "SATA",
   "ticker": "SATA",
-  "last_updated": "2026-08-31 12:14:30",
+  "last_updated": "2026-09-01 12:15:32",
   "period": "5y",
-  "data_points": 203,
+  "data_points": 204,
   "data": [
     {
       "date": "2025-11-06",
@@ -1146,7 +1146,7 @@
       "open": 95.82,
       "high": 95.99,
       "low": 93.95,
-      "close": 94.34,
+      "close": 94.35,
       "volume": 698500
     },
     {
@@ -1623,11 +1623,19 @@
     },
     {
       "date": "2026-08-28",
-      "open": 100.01,
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 99.99,
       "high": 100.01,
-      "low": 99.38,
-      "close": 99.75,
-      "volume": 386600
+      "low": 99.87,
+      "close": 100.01,
+      "volume": 740500
     }
   ]
 }

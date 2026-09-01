@@ -1,26 +1,10 @@
 {
   "code": "RMBS",
   "ticker": "RMBS",
-  "last_updated": "2026-08-31 12:12:43",
+  "last_updated": "2026-09-01 12:13:45",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-30",
-      "open": 24.57,
-      "high": 24.8,
-      "low": 24.44,
-      "close": 24.65,
-      "volume": 658300
-    },
-    {
-      "date": "2021-08-31",
-      "open": 24.59,
-      "high": 24.59,
-      "low": 23.74,
-      "close": 23.8,
-      "volume": 908600
-    },
     {
       "date": "2021-09-01",
       "open": 24.0,
@@ -10043,7 +10027,15 @@
       "high": 89.99,
       "low": 84.74,
       "close": 85.76,
-      "volume": 2439000
+      "volume": 2450300
+    },
+    {
+      "date": "2026-08-31",
+      "open": 86.25,
+      "high": 87.7,
+      "low": 85.8,
+      "close": 86.69,
+      "volume": 2484300
     }
   ]
 }
