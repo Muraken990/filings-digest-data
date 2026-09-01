@@ -1,26 +1,10 @@
 {
   "code": "COLB",
   "ticker": "COLB",
-  "last_updated": "2026-08-31 07:28:51",
+  "last_updated": "2026-09-01 07:30:25",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-30",
-      "open": 28.38,
-      "high": 28.45,
-      "low": 27.67,
-      "close": 27.71,
-      "volume": 186300
-    },
-    {
-      "date": "2021-08-31",
-      "open": 27.79,
-      "high": 28.18,
-      "low": 27.62,
-      "close": 27.89,
-      "volume": 217500
-    },
     {
       "date": "2021-09-01",
       "open": 27.97,
@@ -297,7 +281,7 @@
       "date": "2021-10-20",
       "open": 27.0,
       "high": 27.58,
-      "low": 26.74,
+      "low": 26.75,
       "close": 27.44,
       "volume": 1107600
     },
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-08-28",
-      "open": 30.41,
-      "high": 30.59,
-      "low": 30.02,
-      "close": 30.07,
-      "volume": 2649700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 30.13,
+      "high": 30.13,
+      "low": 29.6,
+      "close": 29.64,
+      "volume": 2374700
     }
   ]
 }

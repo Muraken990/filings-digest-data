@@ -1,9 +1,9 @@
 {
   "code": "CYCU",
   "ticker": "CYCU",
-  "last_updated": "2026-08-31 07:32:13",
+  "last_updated": "2026-09-01 07:33:49",
   "period": "5y",
-  "data_points": 385,
+  "data_points": 386,
   "data": [
     {
       "date": "2025-02-18",
@@ -3079,11 +3079,19 @@
     },
     {
       "date": "2026-08-28",
-      "open": 3.94,
-      "high": 4.3,
-      "low": 3.64,
-      "close": 3.85,
-      "volume": 737100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 3.6,
+      "high": 3.87,
+      "low": 3.52,
+      "close": 3.67,
+      "volume": 318000
     }
   ]
 }

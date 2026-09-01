@@ -1,9 +1,9 @@
 {
   "code": "DLXY",
   "ticker": "DLXY",
-  "last_updated": "2026-08-31 07:33:56",
+  "last_updated": "2026-09-01 07:35:33",
   "period": "5y",
-  "data_points": 288,
+  "data_points": 289,
   "data": [
     {
       "date": "2025-07-09",
@@ -2307,7 +2307,15 @@
       "high": 0.37,
       "low": 0.35,
       "close": 0.35,
-      "volume": 37900
+      "volume": 48000
+    },
+    {
+      "date": "2026-08-31",
+      "open": 0.37,
+      "high": 0.41,
+      "low": 0.36,
+      "close": 0.38,
+      "volume": 40000
     }
   ]
 }

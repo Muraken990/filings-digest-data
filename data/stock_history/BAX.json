@@ -1,26 +1,10 @@
 {
   "code": "BAX",
   "ticker": "BAX",
-  "last_updated": "2026-08-31 07:16:56",
+  "last_updated": "2026-09-01 07:18:23",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-30",
-      "open": 67.07,
-      "high": 69.3,
-      "low": 67.07,
-      "close": 68.65,
-      "volume": 9337000
-    },
-    {
-      "date": "2021-08-31",
-      "open": 68.63,
-      "high": 68.99,
-      "low": 68.02,
-      "close": 68.85,
-      "volume": 5213400
-    },
     {
       "date": "2021-09-01",
       "open": 69.15,
@@ -936,7 +920,7 @@
     {
       "date": "2022-02-14",
       "open": 77.88,
-      "high": 78.09,
+      "high": 78.08,
       "low": 76.74,
       "close": 77.76,
       "volume": 2384900
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-08-28",
-      "open": 25.99,
-      "high": 26.31,
-      "low": 25.79,
-      "close": 26.13,
-      "volume": 3960400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
+    },
+    {
+      "date": "2026-08-31",
+      "open": 25.91,
+      "high": 26.35,
+      "low": 25.86,
+      "close": 26.0,
+      "volume": 3991300
     }
   ]
 }

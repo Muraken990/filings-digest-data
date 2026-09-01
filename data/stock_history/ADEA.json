@@ -1,26 +1,10 @@
 {
   "code": "ADEA",
   "ticker": "ADEA",
-  "last_updated": "2026-08-31 07:07:37",
+  "last_updated": "2026-09-01 07:08:58",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-30",
-      "open": 8.66,
-      "high": 8.69,
-      "low": 8.47,
-      "close": 8.51,
-      "volume": 841954
-    },
-    {
-      "date": "2021-08-31",
-      "open": 8.49,
-      "high": 8.61,
-      "low": 8.43,
-      "close": 8.47,
-      "volume": 838230
-    },
     {
       "date": "2021-09-01",
       "open": 8.41,
@@ -10042,8 +10026,16 @@
       "open": 26.05,
       "high": 26.28,
       "low": 25.64,
-      "close": 25.73,
-      "volume": 933068
+      "close": 25.72,
+      "volume": 934005
+    },
+    {
+      "date": "2026-08-31",
+      "open": 25.64,
+      "high": 25.9,
+      "low": 25.03,
+      "close": 25.23,
+      "volume": 997044
     }
   ]
 }
