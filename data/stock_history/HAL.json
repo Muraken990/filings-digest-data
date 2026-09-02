@@ -1,26 +1,10 @@
 {
   "code": "HAL",
   "ticker": "HAL",
-  "last_updated": "2026-09-01 09:40:51",
+  "last_updated": "2026-09-02 09:41:38",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-08-31",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-09-01",
-      "open": 18.2,
-      "high": 18.28,
-      "low": 17.88,
-      "close": 17.94,
-      "volume": 5499900
-    },
     {
       "date": "2021-09-02",
       "open": 18.18,
@@ -1495,7 +1479,7 @@
     },
     {
       "date": "2022-05-26",
-      "open": 35.95,
+      "open": 35.94,
       "high": 37.19,
       "low": 35.87,
       "close": 36.8,
@@ -10044,6 +10028,14 @@
       "low": 36.51,
       "close": 36.85,
       "volume": 17779600
+    },
+    {
+      "date": "2026-09-01",
+      "open": 37.04,
+      "high": 37.15,
+      "low": 36.67,
+      "close": 36.8,
+      "volume": 9245900
     }
   ]
 }

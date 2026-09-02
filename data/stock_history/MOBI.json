@@ -1,9 +1,9 @@
 {
   "code": "MOBI",
   "ticker": "MOBI",
-  "last_updated": "2026-09-01 09:59:39",
+  "last_updated": "2026-09-02 10:00:27",
   "period": "5y",
-  "data_points": 78,
+  "data_points": 79,
   "data": [
     {
       "date": "2026-05-08",
@@ -628,6 +628,14 @@
       "low": 11.02,
       "close": 11.16,
       "volume": 101400
+    },
+    {
+      "date": "2026-09-01",
+      "open": 11.08,
+      "high": 12.09,
+      "low": 10.84,
+      "close": 11.45,
+      "volume": 596000
     }
   ]
 }

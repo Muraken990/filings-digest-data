@@ -1,17 +1,17 @@
 {
   "code": "ITUB",
   "ticker": "ITUB",
-  "last_updated": "2026-09-01 09:48:31",
+  "last_updated": "2026-09-02 09:49:18",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
     {
       "date": "2021-09-01",
-      "open": 3.16,
-      "high": 3.2,
-      "low": 3.12,
-      "close": 3.12,
-      "volume": 36935916
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-02",
@@ -3623,9 +3623,9 @@
     },
     {
       "date": "2023-06-21",
-      "open": 4.12,
+      "open": 4.13,
       "high": 4.2,
-      "low": 4.12,
+      "low": 4.13,
       "close": 4.19,
       "volume": 19208089
     },
@@ -10028,6 +10028,14 @@
       "low": 7.55,
       "close": 7.61,
       "volume": 14608800
+    },
+    {
+      "date": "2026-09-01",
+      "open": 7.6,
+      "high": 7.83,
+      "low": 7.6,
+      "close": 7.68,
+      "volume": 16113200
     }
   ]
 }

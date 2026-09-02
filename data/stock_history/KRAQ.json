@@ -1,9 +1,9 @@
 {
   "code": "KRAQ",
   "ticker": "KRAQ",
-  "last_updated": "2026-09-01 09:51:08",
+  "last_updated": "2026-09-02 09:51:56",
   "period": "5y",
-  "data_points": 112,
+  "data_points": 113,
   "data": [
     {
       "date": "2026-03-20",
@@ -900,6 +900,14 @@
       "low": 9.98,
       "close": 9.99,
       "volume": 279900
+    },
+    {
+      "date": "2026-09-01",
+      "open": 9.99,
+      "high": 10.02,
+      "low": 9.98,
+      "close": 10.02,
+      "volume": 239800
     }
   ]
 }
