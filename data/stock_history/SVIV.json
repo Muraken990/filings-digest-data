@@ -1,9 +1,9 @@
 {
   "code": "SVIV",
   "ticker": "SVIV",
-  "last_updated": "2026-09-01 12:23:13",
+  "last_updated": "2026-09-02 12:21:41",
   "period": "5y",
-  "data_points": 126,
+  "data_points": 127,
   "data": [
     {
       "date": "2026-03-02",
@@ -1012,6 +1012,14 @@
       "low": 10.2,
       "close": 10.2,
       "volume": 0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 10.2,
+      "high": 10.2,
+      "low": 10.18,
+      "close": 10.2,
+      "volume": 68200
     }
   ]
 }

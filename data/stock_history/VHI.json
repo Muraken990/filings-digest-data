@@ -1,17 +1,17 @@
 {
   "code": "VHI",
   "ticker": "VHI",
-  "last_updated": "2026-09-01 12:31:48",
+  "last_updated": "2026-09-02 12:30:14",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
     {
       "date": "2021-09-01",
-      "open": 21.87,
-      "high": 22.05,
-      "low": 21.22,
-      "close": 21.53,
-      "volume": 11000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-02",
@@ -456,7 +456,7 @@
     {
       "date": "2021-11-19",
       "open": 24.17,
-      "high": 25.08,
+      "high": 25.07,
       "low": 23.15,
       "close": 24.65,
       "volume": 24200
@@ -1066,7 +1066,7 @@
       "open": 23.71,
       "high": 25.18,
       "low": 23.26,
-      "close": 24.69,
+      "close": 24.7,
       "volume": 59500
     },
     {
@@ -10028,6 +10028,14 @@
       "low": 17.98,
       "close": 18.69,
       "volume": 16400
+    },
+    {
+      "date": "2026-09-01",
+      "open": 18.69,
+      "high": 18.69,
+      "low": 17.94,
+      "close": 18.08,
+      "volume": 9000
     }
   ]
 }

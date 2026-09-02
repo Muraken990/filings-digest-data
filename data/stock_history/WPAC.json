@@ -1,9 +1,9 @@
 {
   "code": "WPAC",
   "ticker": "WPAC",
-  "last_updated": "2026-09-01 12:35:16",
+  "last_updated": "2026-09-02 12:33:43",
   "period": "5y",
-  "data_points": 130,
+  "data_points": 132,
   "data": [
     {
       "date": "2026-02-24",
@@ -1038,12 +1038,28 @@
       "volume": 1000
     },
     {
+      "date": "2026-08-28",
+      "open": 10.04,
+      "high": 10.04,
+      "low": 10.04,
+      "close": 10.04,
+      "volume": 0
+    },
+    {
       "date": "2026-08-31",
       "open": 10.04,
       "high": 10.04,
       "low": 10.04,
       "close": 10.04,
       "volume": 0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 10.05,
+      "high": 10.05,
+      "low": 10.05,
+      "close": 10.05,
+      "volume": 5000
     }
   ]
 }

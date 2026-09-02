@@ -1,18 +1,10 @@
 {
   "code": "SFIX",
   "ticker": "SFIX",
-  "last_updated": "2026-09-01 12:17:14",
+  "last_updated": "2026-09-02 12:15:44",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-01",
-      "open": 42.0,
-      "high": 42.96,
-      "low": 41.4,
-      "close": 42.11,
-      "volume": 866100
-    },
     {
       "date": "2021-09-02",
       "open": 42.11,
@@ -10036,6 +10028,14 @@
       "low": 3.05,
       "close": 3.17,
       "volume": 2016200
+    },
+    {
+      "date": "2026-09-01",
+      "open": 3.13,
+      "high": 3.16,
+      "low": 3.0,
+      "close": 3.01,
+      "volume": 1583800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "VSME",
   "ticker": "VSME",
-  "last_updated": "2026-09-01 12:32:43",
+  "last_updated": "2026-09-02 12:31:09",
   "period": "5y",
-  "data_points": 733,
+  "data_points": 735,
   "data": [
     {
       "date": "2023-09-27",
@@ -5862,12 +5862,28 @@
       "volume": 16100
     },
     {
+      "date": "2026-08-28",
+      "open": 1.09,
+      "high": 1.14,
+      "low": 1.09,
+      "close": 1.1,
+      "volume": 6700
+    },
+    {
       "date": "2026-08-31",
       "open": 1.11,
       "high": 1.11,
       "low": 1.01,
       "close": 1.05,
       "volume": 35200
+    },
+    {
+      "date": "2026-09-01",
+      "open": 1.03,
+      "high": 1.06,
+      "low": 1.01,
+      "close": 1.02,
+      "volume": 6200
     }
   ]
 }

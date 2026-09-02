@@ -1,16 +1,16 @@
 {
   "code": "RAND",
   "ticker": "RAND",
-  "last_updated": "2026-09-01 12:11:11",
+  "last_updated": "2026-09-02 12:09:43",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
     {
       "date": "2021-09-01",
-      "open": 9.87,
-      "high": 9.87,
-      "low": 9.87,
-      "close": 9.87,
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
       "volume": 0
     },
     {
@@ -10028,6 +10028,14 @@
       "low": 11.04,
       "close": 11.04,
       "volume": 0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 10.83,
+      "high": 10.83,
+      "low": 10.5,
+      "close": 10.79,
+      "volume": 3500
     }
   ]
 }

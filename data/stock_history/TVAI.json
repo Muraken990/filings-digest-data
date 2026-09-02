@@ -1,9 +1,9 @@
 {
   "code": "TVAI",
   "ticker": "TVAI",
-  "last_updated": "2026-09-01 12:28:22",
+  "last_updated": "2026-09-02 12:26:49",
   "period": "5y",
-  "data_points": 292,
+  "data_points": 294,
   "data": [
     {
       "date": "2025-07-02",
@@ -2334,12 +2334,28 @@
       "volume": 27200
     },
     {
+      "date": "2026-08-28",
+      "open": 10.37,
+      "high": 10.37,
+      "low": 10.37,
+      "close": 10.37,
+      "volume": 300
+    },
+    {
       "date": "2026-08-31",
       "open": 10.37,
       "high": 10.37,
       "low": 10.37,
       "close": 10.37,
       "volume": 0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 10.38,
+      "high": 10.38,
+      "low": 10.38,
+      "close": 10.38,
+      "volume": 91000
     }
   ]
 }

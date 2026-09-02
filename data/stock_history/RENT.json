@@ -1,9 +1,9 @@
 {
   "code": "RENT",
   "ticker": "RENT",
-  "last_updated": "2026-09-01 12:12:05",
+  "last_updated": "2026-09-02 12:10:35",
   "period": "5y",
-  "data_points": 1214,
+  "data_points": 1215,
   "data": [
     {
       "date": "2021-10-27",
@@ -9716,6 +9716,14 @@
       "low": 3.47,
       "close": 3.56,
       "volume": 29700
+    },
+    {
+      "date": "2026-09-01",
+      "open": 3.53,
+      "high": 3.7,
+      "low": 3.51,
+      "close": 3.7,
+      "volume": 48800
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "USBC",
   "ticker": "USBC",
-  "last_updated": "2026-09-01 12:30:07",
+  "last_updated": "2026-09-02 12:28:34",
   "period": "5y",
   "data_points": 1253,
   "data": [
-    {
-      "date": "2021-09-01",
-      "open": 95.6,
-      "high": 102.8,
-      "low": 92.8,
-      "close": 102.8,
-      "volume": 1308
-    },
     {
       "date": "2021-09-02",
       "open": 99.6,
@@ -10028,6 +10020,14 @@
       "low": 0.41,
       "close": 0.42,
       "volume": 145300
+    },
+    {
+      "date": "2026-09-01",
+      "open": 0.43,
+      "high": 0.5,
+      "low": 0.43,
+      "close": 0.48,
+      "volume": 1243900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "RMIX",
   "ticker": "RMIX",
-  "last_updated": "2026-09-01 12:13:45",
+  "last_updated": "2026-09-02 12:12:16",
   "period": "5y",
-  "data_points": 103,
+  "data_points": 104,
   "data": [
     {
       "date": "2026-04-02",
@@ -828,6 +828,14 @@
       "low": 17.01,
       "close": 17.15,
       "volume": 740600
+    },
+    {
+      "date": "2026-09-01",
+      "open": 17.0,
+      "high": 17.09,
+      "low": 15.96,
+      "close": 16.2,
+      "volume": 1143700
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "VINP",
   "ticker": "VINP",
-  "last_updated": "2026-09-01 12:31:49",
+  "last_updated": "2026-09-02 12:30:15",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-08-31",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-09-01",
-      "open": 10.17,
-      "high": 10.42,
-      "low": 10.17,
-      "close": 10.32,
-      "volume": 83400
-    },
     {
       "date": "2021-09-02",
       "open": 10.32,
@@ -10036,6 +10020,14 @@
       "low": 9.48,
       "close": 9.78,
       "volume": 66000
+    },
+    {
+      "date": "2026-09-01",
+      "open": 9.74,
+      "high": 9.9,
+      "low": 9.63,
+      "close": 9.84,
+      "volume": 96100
     }
   ]
 }
