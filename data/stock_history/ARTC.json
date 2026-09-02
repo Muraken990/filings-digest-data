@@ -1,9 +1,9 @@
 {
   "code": "ARTC",
   "ticker": "ARTC",
-  "last_updated": "2026-09-01 07:15:44",
+  "last_updated": "2026-09-02 07:13:58",
   "period": "5y",
-  "data_points": 127,
+  "data_points": 128,
   "data": [
     {
       "date": "2026-02-27",
@@ -1020,6 +1020,14 @@
       "low": 9.97,
       "close": 9.97,
       "volume": 2500
+    },
+    {
+      "date": "2026-09-01",
+      "open": 9.97,
+      "high": 10.0,
+      "low": 9.97,
+      "close": 10.0,
+      "volume": 2200
     }
   ]
 }

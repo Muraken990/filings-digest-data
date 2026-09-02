@@ -1,9 +1,9 @@
 {
   "code": "AESP",
   "ticker": "AESP",
-  "last_updated": "2026-09-01 07:09:49",
+  "last_updated": "2026-09-02 07:08:11",
   "period": "5y",
-  "data_points": 42,
+  "data_points": 43,
   "data": [
     {
       "date": "2026-07-01",
@@ -340,6 +340,14 @@
       "low": 9.98,
       "close": 9.98,
       "volume": 7400
+    },
+    {
+      "date": "2026-09-01",
+      "open": 9.97,
+      "high": 9.98,
+      "low": 9.97,
+      "close": 9.97,
+      "volume": 1500
     }
   ]
 }

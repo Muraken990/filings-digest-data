@@ -1,18 +1,10 @@
 {
   "code": "CANF",
   "ticker": "CANF",
-  "last_updated": "2026-09-01 07:25:12",
+  "last_updated": "2026-09-02 07:23:12",
   "period": "5y",
   "data_points": 1253,
   "data": [
-    {
-      "date": "2021-09-01",
-      "open": 370.0,
-      "high": 374.0,
-      "low": 368.0,
-      "close": 370.0,
-      "volume": 416
-    },
     {
       "date": "2021-09-02",
       "open": 378.0,
@@ -10028,6 +10020,14 @@
       "low": 3.16,
       "close": 3.18,
       "volume": 48100
+    },
+    {
+      "date": "2026-09-01",
+      "open": 3.19,
+      "high": 3.29,
+      "low": 3.16,
+      "close": 3.29,
+      "volume": 15300
     }
   ]
 }

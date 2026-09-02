@@ -1,18 +1,10 @@
 {
   "code": "AIHS",
   "ticker": "AIHS",
-  "last_updated": "2026-09-01 07:11:27",
+  "last_updated": "2026-09-02 07:09:48",
   "period": "5y",
   "data_points": 1227,
   "data": [
-    {
-      "date": "2021-09-01",
-      "open": 60.33,
-      "high": 62.0,
-      "low": 60.01,
-      "close": 61.64,
-      "volume": 3327
-    },
     {
       "date": "2021-09-02",
       "open": 62.78,
@@ -9818,8 +9810,16 @@
       "open": 1.72,
       "high": 1.72,
       "low": 1.58,
-      "close": 1.66,
-      "volume": 23813
+      "close": 1.68,
+      "volume": 24439
+    },
+    {
+      "date": "2026-09-01",
+      "open": 1.58,
+      "high": 1.74,
+      "low": 1.56,
+      "close": 1.68,
+      "volume": 19002
     }
   ]
 }

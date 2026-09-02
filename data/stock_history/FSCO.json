@@ -1,9 +1,9 @@
 {
   "code": "FSCO",
   "ticker": "FSCO",
-  "last_updated": "2026-09-01 07:45:50",
+  "last_updated": "2026-09-02 07:43:23",
   "period": "5y",
-  "data_points": 950,
+  "data_points": 952,
   "data": [
     {
       "date": "2022-11-14",
@@ -7598,12 +7598,28 @@
       "volume": 959200
     },
     {
+      "date": "2026-08-28",
+      "open": 5.12,
+      "high": 5.21,
+      "low": 5.12,
+      "close": 5.18,
+      "volume": 738700
+    },
+    {
       "date": "2026-08-31",
       "open": 5.2,
       "high": 5.25,
       "low": 5.17,
       "close": 5.18,
       "volume": 1331000
+    },
+    {
+      "date": "2026-09-01",
+      "open": 5.17,
+      "high": 5.24,
+      "low": 5.16,
+      "close": 5.19,
+      "volume": 730000
     }
   ]
 }

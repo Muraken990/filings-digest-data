@@ -1,9 +1,9 @@
 {
   "code": "BDCIU",
   "ticker": "BDCIU",
-  "last_updated": "2026-09-01 07:19:14",
+  "last_updated": "2026-09-02 07:17:22",
   "period": "5y",
-  "data_points": 230,
+  "data_points": 231,
   "data": [
     {
       "date": "2025-09-30",
@@ -1844,6 +1844,14 @@
       "low": 10.25,
       "close": 10.25,
       "volume": 0
+    },
+    {
+      "date": "2026-09-01",
+      "open": 10.21,
+      "high": 10.25,
+      "low": 10.21,
+      "close": 10.25,
+      "volume": 300
     }
   ]
 }

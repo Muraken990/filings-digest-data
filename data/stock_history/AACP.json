@@ -1,9 +1,9 @@
 {
   "code": "AACP",
   "ticker": "AACP",
-  "last_updated": "2026-09-01 07:08:01",
+  "last_updated": "2026-09-02 07:06:27",
   "period": "5y",
-  "data_points": 65,
+  "data_points": 66,
   "data": [
     {
       "date": "2026-05-28",
@@ -524,6 +524,14 @@
       "low": 10.06,
       "close": 10.07,
       "volume": 80200
+    },
+    {
+      "date": "2026-09-01",
+      "open": 10.07,
+      "high": 10.07,
+      "low": 10.07,
+      "close": 10.07,
+      "volume": 0
     }
   ]
 }

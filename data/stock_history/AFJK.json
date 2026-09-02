@@ -1,9 +1,9 @@
 {
   "code": "AFJK",
   "ticker": "AFJK",
-  "last_updated": "2026-09-01 07:10:35",
+  "last_updated": "2026-09-02 07:08:58",
   "period": "5y",
-  "data_points": 654,
+  "data_points": 655,
   "data": [
     {
       "date": "2024-01-22",
@@ -5236,6 +5236,14 @@
       "low": 12.0,
       "close": 12.01,
       "volume": 3700
+    },
+    {
+      "date": "2026-09-01",
+      "open": 12.11,
+      "high": 12.37,
+      "low": 12.01,
+      "close": 12.01,
+      "volume": 3000
     }
   ]
 }
