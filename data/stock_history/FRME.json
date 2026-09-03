@@ -1,17 +1,17 @@
 {
   "code": "FRME",
   "ticker": "FRME",
-  "last_updated": "2026-09-02 07:43:21",
+  "last_updated": "2026-09-03 07:43:55",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
     {
       "date": "2021-09-02",
-      "open": 34.29,
-      "high": 34.62,
-      "low": 34.1,
-      "close": 34.26,
-      "volume": 98600
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-03",
@@ -1073,7 +1073,7 @@
       "date": "2022-03-15",
       "open": 37.16,
       "high": 37.48,
-      "low": 36.59,
+      "low": 36.6,
       "close": 37.02,
       "volume": 172700
     },
@@ -2048,7 +2048,7 @@
     {
       "date": "2022-09-08",
       "open": 34.06,
-      "high": 34.73,
+      "high": 34.74,
       "low": 33.75,
       "close": 34.6,
       "volume": 86800
@@ -5560,7 +5560,7 @@
     {
       "date": "2024-06-07",
       "open": 29.34,
-      "high": 29.64,
+      "high": 29.65,
       "low": 29.13,
       "close": 29.38,
       "volume": 233100
@@ -10028,6 +10028,14 @@
       "low": 40.79,
       "close": 40.91,
       "volume": 326800
+    },
+    {
+      "date": "2026-09-02",
+      "open": 41.11,
+      "high": 42.06,
+      "low": 40.96,
+      "close": 41.67,
+      "volume": 681700
     }
   ]
 }

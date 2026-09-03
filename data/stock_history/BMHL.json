@@ -1,9 +1,9 @@
 {
   "code": "BMHL",
   "ticker": "BMHL",
-  "last_updated": "2026-09-02 07:19:52",
+  "last_updated": "2026-09-03 07:20:02",
   "period": "5y",
-  "data_points": 287,
+  "data_points": 289,
   "data": [
     {
       "date": "2025-07-11",
@@ -2286,6 +2286,14 @@
       "volume": 1200
     },
     {
+      "date": "2026-08-28",
+      "open": 5.94,
+      "high": 5.94,
+      "low": 5.94,
+      "close": 5.94,
+      "volume": 0
+    },
+    {
       "date": "2026-08-31",
       "open": 5.78,
       "high": 5.91,
@@ -2300,6 +2308,14 @@
       "low": 5.91,
       "close": 5.91,
       "volume": 0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 5.79,
+      "high": 5.9,
+      "low": 5.63,
+      "close": 5.9,
+      "volume": 1300
     }
   ]
 }

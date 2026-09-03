@@ -1,17 +1,17 @@
 {
   "code": "AZTA",
   "ticker": "AZTA",
-  "last_updated": "2026-09-02 07:16:28",
+  "last_updated": "2026-09-03 07:16:33",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
     {
       "date": "2021-09-02",
-      "open": 85.37,
-      "high": 85.98,
-      "low": 84.72,
-      "close": 85.64,
-      "volume": 253000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-03",
@@ -10028,6 +10028,14 @@
       "low": 30.57,
       "close": 31.57,
       "volume": 1453900
+    },
+    {
+      "date": "2026-09-02",
+      "open": 31.6,
+      "high": 32.19,
+      "low": 31.18,
+      "close": 31.73,
+      "volume": 792800
     }
   ]
 }

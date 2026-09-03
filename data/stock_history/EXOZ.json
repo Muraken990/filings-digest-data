@@ -1,9 +1,9 @@
 {
   "code": "EXOZ",
   "ticker": "EXOZ",
-  "last_updated": "2026-09-02 07:39:59",
+  "last_updated": "2026-09-03 07:40:30",
   "period": "5y",
-  "data_points": 449,
+  "data_points": 451,
   "data": [
     {
       "date": "2024-11-13",
@@ -3582,6 +3582,14 @@
       "volume": 1100
     },
     {
+      "date": "2026-08-28",
+      "open": 7.01,
+      "high": 7.38,
+      "low": 6.71,
+      "close": 7.17,
+      "volume": 2800
+    },
+    {
       "date": "2026-08-31",
       "open": 7.28,
       "high": 7.28,
@@ -3596,6 +3604,14 @@
       "low": 6.5,
       "close": 6.5,
       "volume": 4100
+    },
+    {
+      "date": "2026-09-02",
+      "open": 6.59,
+      "high": 6.79,
+      "low": 6.45,
+      "close": 6.79,
+      "volume": 900
     }
   ]
 }

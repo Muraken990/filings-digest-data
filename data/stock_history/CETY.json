@@ -1,9 +1,9 @@
 {
   "code": "CETY",
   "ticker": "CETY",
-  "last_updated": "2026-09-02 07:24:54",
+  "last_updated": "2026-09-03 07:25:10",
   "period": "5y",
-  "data_points": 907,
+  "data_points": 909,
   "data": [
     {
       "date": "2023-01-19",
@@ -7246,6 +7246,14 @@
       "volume": 20800
     },
     {
+      "date": "2026-08-28",
+      "open": 0.99,
+      "high": 1.08,
+      "low": 0.99,
+      "close": 1.03,
+      "volume": 22100
+    },
+    {
       "date": "2026-08-31",
       "open": 1.04,
       "high": 1.08,
@@ -7260,6 +7268,14 @@
       "low": 1.01,
       "close": 1.03,
       "volume": 20100
+    },
+    {
+      "date": "2026-09-02",
+      "open": 1.04,
+      "high": 1.13,
+      "low": 1.04,
+      "close": 1.11,
+      "volume": 58400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ALOV",
   "ticker": "ALOV",
-  "last_updated": "2026-09-02 07:10:40",
+  "last_updated": "2026-09-03 07:10:39",
   "period": "5y",
-  "data_points": 117,
+  "data_points": 119,
   "data": [
     {
       "date": "2026-03-16",
@@ -926,6 +926,14 @@
       "volume": 400
     },
     {
+      "date": "2026-08-28",
+      "open": 10.0,
+      "high": 10.0,
+      "low": 10.0,
+      "close": 10.0,
+      "volume": 1100
+    },
+    {
       "date": "2026-08-31",
       "open": 9.99,
       "high": 9.99,
@@ -940,6 +948,14 @@
       "low": 10.0,
       "close": 10.0,
       "volume": 2600
+    },
+    {
+      "date": "2026-09-02",
+      "open": 10.0,
+      "high": 10.0,
+      "low": 9.99,
+      "close": 9.99,
+      "volume": 75400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "FOXX",
   "ticker": "FOXX",
-  "last_updated": "2026-09-02 07:42:35",
+  "last_updated": "2026-09-03 07:43:09",
   "period": "5y",
-  "data_points": 1020,
+  "data_points": 1022,
   "data": [
     {
       "date": "2022-08-08",
@@ -8150,6 +8150,14 @@
       "volume": 9200
     },
     {
+      "date": "2026-08-28",
+      "open": 2.73,
+      "high": 2.9,
+      "low": 2.66,
+      "close": 2.7,
+      "volume": 7900
+    },
+    {
       "date": "2026-08-31",
       "open": 2.74,
       "high": 2.8,
@@ -8164,6 +8172,14 @@
       "low": 2.67,
       "close": 2.69,
       "volume": 5700
+    },
+    {
+      "date": "2026-09-02",
+      "open": 2.41,
+      "high": 2.62,
+      "low": 2.41,
+      "close": 2.62,
+      "volume": 1800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CLBR",
   "ticker": "CLBR",
-  "last_updated": "2026-09-02 07:26:34",
+  "last_updated": "2026-09-03 07:26:53",
   "period": "5y",
-  "data_points": 108,
+  "data_points": 110,
   "data": [
     {
       "date": "2026-03-27",
@@ -854,6 +854,14 @@
       "volume": 1400
     },
     {
+      "date": "2026-08-28",
+      "open": 10.24,
+      "high": 10.24,
+      "low": 10.24,
+      "close": 10.24,
+      "volume": 0
+    },
+    {
       "date": "2026-08-31",
       "open": 10.25,
       "high": 10.25,
@@ -868,6 +876,14 @@
       "low": 10.25,
       "close": 10.25,
       "volume": 0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 10.25,
+      "high": 10.25,
+      "low": 10.24,
+      "close": 10.24,
+      "volume": 191300
     }
   ]
 }

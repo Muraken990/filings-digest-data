@@ -1,9 +1,9 @@
 {
   "code": "APMCU",
   "ticker": "APMCU",
-  "last_updated": "2026-09-02 07:12:22",
+  "last_updated": "2026-09-03 07:12:23",
   "period": "5y",
-  "data_points": 62,
+  "data_points": 64,
   "data": [
     {
       "date": "2026-06-03",
@@ -486,6 +486,14 @@
       "volume": 0
     },
     {
+      "date": "2026-08-28",
+      "open": 10.04,
+      "high": 10.04,
+      "low": 10.04,
+      "close": 10.04,
+      "volume": 0
+    },
+    {
       "date": "2026-08-31",
       "open": 10.04,
       "high": 10.04,
@@ -500,6 +508,14 @@
       "low": 10.04,
       "close": 10.04,
       "volume": 0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 10.06,
+      "high": 10.06,
+      "low": 10.05,
+      "close": 10.05,
+      "volume": 7400
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "FNB",
   "ticker": "FNB",
-  "last_updated": "2026-09-02 07:42:32",
+  "last_updated": "2026-09-03 07:43:06",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
     {
       "date": "2021-09-02",
-      "open": 9.61,
-      "high": 9.73,
-      "low": 9.58,
-      "close": 9.63,
-      "volume": 1500200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-03",
@@ -10028,6 +10028,14 @@
       "low": 17.8,
       "close": 17.87,
       "volume": 2825300
+    },
+    {
+      "date": "2026-09-02",
+      "open": 18.0,
+      "high": 18.41,
+      "low": 17.96,
+      "close": 18.28,
+      "volume": 4071200
     }
   ]
 }

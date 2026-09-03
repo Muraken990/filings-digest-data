@@ -1,17 +1,17 @@
 {
   "code": "EBC",
   "ticker": "EBC",
-  "last_updated": "2026-09-02 07:35:46",
+  "last_updated": "2026-09-03 07:36:14",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
     {
       "date": "2021-09-02",
-      "open": 17.11,
-      "high": 17.16,
-      "low": 16.92,
-      "close": 16.93,
-      "volume": 279900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-03",
@@ -10028,6 +10028,14 @@
       "low": 21.39,
       "close": 21.5,
       "volume": 1656900
+    },
+    {
+      "date": "2026-09-02",
+      "open": 21.64,
+      "high": 22.28,
+      "low": 21.51,
+      "close": 22.01,
+      "volume": 3011000
     }
   ]
 }
