@@ -1,9 +1,9 @@
 {
   "code": "WBUY",
   "ticker": "WBUY",
-  "last_updated": "2026-09-02 12:32:01",
+  "last_updated": "2026-09-03 12:32:26",
   "period": "5y",
-  "data_points": 718,
+  "data_points": 720,
   "data": [
     {
       "date": "2023-10-19",
@@ -5734,6 +5734,14 @@
       "volume": 23300
     },
     {
+      "date": "2026-08-28",
+      "open": 0.84,
+      "high": 0.87,
+      "low": 0.83,
+      "close": 0.83,
+      "volume": 21400
+    },
+    {
       "date": "2026-08-31",
       "open": 1.0,
       "high": 1.18,
@@ -5748,6 +5756,14 @@
       "low": 0.8,
       "close": 1.0,
       "volume": 1096700
+    },
+    {
+      "date": "2026-09-02",
+      "open": 0.97,
+      "high": 0.98,
+      "low": 0.86,
+      "close": 0.93,
+      "volume": 201700
     }
   ]
 }

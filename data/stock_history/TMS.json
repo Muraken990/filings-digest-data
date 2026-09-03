@@ -1,9 +1,9 @@
 {
   "code": "TMS",
   "ticker": "TMS",
-  "last_updated": "2026-09-02 12:25:04",
+  "last_updated": "2026-09-03 12:25:33",
   "period": "5y",
-  "data_points": 343,
+  "data_points": 345,
   "data": [
     {
       "date": "2025-04-21",
@@ -2734,6 +2734,14 @@
       "volume": 81100
     },
     {
+      "date": "2026-08-28",
+      "open": 6.3,
+      "high": 6.51,
+      "low": 6.05,
+      "close": 6.34,
+      "volume": 42400
+    },
+    {
       "date": "2026-08-31",
       "open": 6.26,
       "high": 6.59,
@@ -2748,6 +2756,14 @@
       "low": 5.64,
       "close": 5.92,
       "volume": 190100
+    },
+    {
+      "date": "2026-09-02",
+      "open": 5.92,
+      "high": 6.47,
+      "low": 5.9,
+      "close": 5.96,
+      "volume": 199700
     }
   ]
 }

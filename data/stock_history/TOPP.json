@@ -1,9 +1,9 @@
 {
   "code": "TOPP",
   "ticker": "TOPP",
-  "last_updated": "2026-09-02 12:25:07",
+  "last_updated": "2026-09-03 12:25:36",
   "period": "5y",
-  "data_points": 404,
+  "data_points": 406,
   "data": [
     {
       "date": "2025-01-22",
@@ -3222,6 +3222,14 @@
       "volume": 516700
     },
     {
+      "date": "2026-08-28",
+      "open": 0.19,
+      "high": 0.19,
+      "low": 0.17,
+      "close": 0.18,
+      "volume": 630000
+    },
+    {
       "date": "2026-08-31",
       "open": 0.19,
       "high": 0.19,
@@ -3235,7 +3243,15 @@
       "high": 0.18,
       "low": 0.16,
       "close": 0.17,
-      "volume": 2060900
+      "volume": 2071100
+    },
+    {
+      "date": "2026-09-02",
+      "open": 0.16,
+      "high": 0.17,
+      "low": 0.14,
+      "close": 0.14,
+      "volume": 2554900
     }
   ]
 }

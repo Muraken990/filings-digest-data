@@ -1,9 +1,9 @@
 {
   "code": "SNAL",
   "ticker": "SNAL",
-  "last_updated": "2026-09-02 12:18:17",
+  "last_updated": "2026-09-03 12:18:48",
   "period": "5y",
-  "data_points": 953,
+  "data_points": 955,
   "data": [
     {
       "date": "2022-11-10",
@@ -7614,6 +7614,14 @@
       "volume": 67300
     },
     {
+      "date": "2026-08-28",
+      "open": 2.95,
+      "high": 3.05,
+      "low": 2.9,
+      "close": 2.93,
+      "volume": 40300
+    },
+    {
       "date": "2026-08-31",
       "open": 2.97,
       "high": 2.97,
@@ -7628,6 +7636,14 @@
       "low": 2.64,
       "close": 2.75,
       "volume": 47300
+    },
+    {
+      "date": "2026-09-02",
+      "open": 2.81,
+      "high": 2.81,
+      "low": 2.64,
+      "close": 2.75,
+      "volume": 27200
     }
   ]
 }

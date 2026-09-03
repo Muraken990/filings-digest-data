@@ -1,17 +1,17 @@
 {
   "code": "TDF",
   "ticker": "TDF",
-  "last_updated": "2026-09-02 12:23:21",
+  "last_updated": "2026-09-03 12:23:52",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
     {
       "date": "2021-09-02",
-      "open": 15.93,
-      "high": 16.07,
-      "low": 15.93,
-      "close": 16.01,
-      "volume": 136800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-03",
@@ -10028,6 +10028,14 @@
       "low": 10.62,
       "close": 10.7,
       "volume": 27400
+    },
+    {
+      "date": "2026-09-02",
+      "open": 10.73,
+      "high": 10.81,
+      "low": 10.54,
+      "close": 10.57,
+      "volume": 88000
     }
   ]
 }

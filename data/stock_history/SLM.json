@@ -1,17 +1,17 @@
 {
   "code": "SLM",
   "ticker": "SLM",
-  "last_updated": "2026-09-02 12:17:26",
+  "last_updated": "2026-09-03 12:17:58",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
     {
       "date": "2021-09-02",
-      "open": 16.38,
-      "high": 16.77,
-      "low": 16.32,
-      "close": 16.62,
-      "volume": 2211900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-03",
@@ -10028,6 +10028,14 @@
       "low": 25.61,
       "close": 25.77,
       "volume": 1644300
+    },
+    {
+      "date": "2026-09-02",
+      "open": 25.97,
+      "high": 26.6,
+      "low": 25.97,
+      "close": 26.51,
+      "volume": 1701800
     }
   ]
 }

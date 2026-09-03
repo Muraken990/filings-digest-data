@@ -1,9 +1,9 @@
 {
   "code": "TTRX",
   "ticker": "TTRX",
-  "last_updated": "2026-09-02 12:26:48",
+  "last_updated": "2026-09-03 12:27:17",
   "period": "5y",
-  "data_points": 225,
+  "data_points": 227,
   "data": [
     {
       "date": "2025-10-08",
@@ -1790,6 +1790,14 @@
       "volume": 47600
     },
     {
+      "date": "2026-08-28",
+      "open": 10.1,
+      "high": 10.27,
+      "low": 9.47,
+      "close": 9.84,
+      "volume": 62800
+    },
+    {
       "date": "2026-08-31",
       "open": 9.83,
       "high": 10.25,
@@ -1804,6 +1812,14 @@
       "low": 9.28,
       "close": 9.82,
       "volume": 43200
+    },
+    {
+      "date": "2026-09-02",
+      "open": 9.7,
+      "high": 10.25,
+      "low": 9.0,
+      "close": 9.67,
+      "volume": 106400
     }
   ]
 }

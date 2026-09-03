@@ -1,9 +1,9 @@
 {
   "code": "TAVI",
   "ticker": "TAVI",
-  "last_updated": "2026-09-02 12:22:32",
+  "last_updated": "2026-09-03 12:23:02",
   "period": "5y",
-  "data_points": 423,
+  "data_points": 425,
   "data": [
     {
       "date": "2024-12-20",
@@ -3374,6 +3374,14 @@
       "volume": 35000
     },
     {
+      "date": "2026-08-28",
+      "open": 10.7,
+      "high": 10.7,
+      "low": 10.7,
+      "close": 10.7,
+      "volume": 0
+    },
+    {
       "date": "2026-08-31",
       "open": 10.7,
       "high": 10.7,
@@ -3388,6 +3396,14 @@
       "low": 10.7,
       "close": 10.7,
       "volume": 0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 10.77,
+      "high": 10.77,
+      "low": 10.72,
+      "close": 10.72,
+      "volume": 300
     }
   ]
 }

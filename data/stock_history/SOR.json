@@ -1,17 +1,17 @@
 {
   "code": "SOR",
   "ticker": "SOR",
-  "last_updated": "2026-09-02 12:19:07",
+  "last_updated": "2026-09-03 12:19:38",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
     {
       "date": "2021-09-02",
-      "open": 30.69,
-      "high": 30.75,
-      "low": 30.39,
-      "close": 30.39,
-      "volume": 6000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-03",
@@ -10028,6 +10028,14 @@
       "low": 46.43,
       "close": 46.6,
       "volume": 35300
+    },
+    {
+      "date": "2026-09-02",
+      "open": 47.23,
+      "high": 47.69,
+      "low": 46.16,
+      "close": 46.42,
+      "volume": 26800
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "SU",
   "ticker": "SU",
-  "last_updated": "2026-09-02 12:21:39",
+  "last_updated": "2026-09-03 12:22:09",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
     {
       "date": "2021-09-02",
-      "open": 15.43,
-      "high": 15.96,
-      "low": 15.41,
-      "close": 15.72,
-      "volume": 13337300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-03",
@@ -5442,7 +5442,7 @@
       "open": 37.01,
       "high": 37.39,
       "low": 36.88,
-      "close": 37.18,
+      "close": 37.17,
       "volume": 5705200
     },
     {
@@ -5457,7 +5457,7 @@
       "date": "2024-05-20",
       "open": 37.46,
       "high": 37.63,
-      "low": 37.17,
+      "low": 37.18,
       "close": 37.25,
       "volume": 2003300
     },
@@ -10028,6 +10028,14 @@
       "low": 67.48,
       "close": 68.99,
       "volume": 3205000
+    },
+    {
+      "date": "2026-09-02",
+      "open": 68.55,
+      "high": 69.06,
+      "low": 68.35,
+      "close": 68.39,
+      "volume": 2985900
     }
   ]
 }

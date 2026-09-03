@@ -1,9 +1,9 @@
 {
   "code": "RAIN",
   "ticker": "RAIN",
-  "last_updated": "2026-09-02 12:09:42",
+  "last_updated": "2026-09-03 12:10:17",
   "period": "5y",
-  "data_points": 416,
+  "data_points": 417,
   "data": [
     {
       "date": "2025-01-02",
@@ -3331,7 +3331,15 @@
       "high": 1.08,
       "low": 0.83,
       "close": 0.89,
-      "volume": 1615400
+      "volume": 1625800
+    },
+    {
+      "date": "2026-09-02",
+      "open": 0.79,
+      "high": 0.9,
+      "low": 0.79,
+      "close": 0.86,
+      "volume": 243900
     }
   ]
 }

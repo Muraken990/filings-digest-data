@@ -1,9 +1,9 @@
 {
   "code": "TMDE",
   "ticker": "TMDE",
-  "last_updated": "2026-09-02 12:24:18",
+  "last_updated": "2026-09-03 12:24:48",
   "period": "5y",
-  "data_points": 343,
+  "data_points": 345,
   "data": [
     {
       "date": "2025-04-21",
@@ -2734,6 +2734,14 @@
       "volume": 15100
     },
     {
+      "date": "2026-08-28",
+      "open": 0.72,
+      "high": 0.72,
+      "low": 0.7,
+      "close": 0.71,
+      "volume": 24500
+    },
+    {
       "date": "2026-08-31",
       "open": 0.71,
       "high": 0.73,
@@ -2748,6 +2756,14 @@
       "low": 0.7,
       "close": 0.76,
       "volume": 882900
+    },
+    {
+      "date": "2026-09-02",
+      "open": 0.74,
+      "high": 0.75,
+      "low": 0.71,
+      "close": 0.72,
+      "volume": 135000
     }
   ]
 }

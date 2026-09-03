@@ -1,9 +1,9 @@
 {
   "code": "XCBE",
   "ticker": "XCBE",
-  "last_updated": "2026-09-02 12:34:35",
+  "last_updated": "2026-09-03 12:34:58",
   "period": "5y",
-  "data_points": 118,
+  "data_points": 120,
   "data": [
     {
       "date": "2026-03-13",
@@ -934,6 +934,14 @@
       "volume": 0
     },
     {
+      "date": "2026-08-28",
+      "open": 10.0,
+      "high": 10.0,
+      "low": 10.0,
+      "close": 10.0,
+      "volume": 4700
+    },
+    {
       "date": "2026-08-31",
       "open": 9.99,
       "high": 10.01,
@@ -948,6 +956,14 @@
       "low": 10.0,
       "close": 10.0,
       "volume": 800
+    },
+    {
+      "date": "2026-09-02",
+      "open": 10.0,
+      "high": 10.0,
+      "low": 10.0,
+      "close": 10.0,
+      "volume": 0
     }
   ]
 }

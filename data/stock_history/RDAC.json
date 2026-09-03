@@ -1,9 +1,9 @@
 {
   "code": "RDAC",
   "ticker": "RDAC",
-  "last_updated": "2026-09-02 12:10:31",
+  "last_updated": "2026-09-03 12:11:06",
   "period": "5y",
-  "data_points": 437,
+  "data_points": 439,
   "data": [
     {
       "date": "2024-12-02",
@@ -3486,6 +3486,14 @@
       "volume": 23000
     },
     {
+      "date": "2026-08-28",
+      "open": 5.24,
+      "high": 5.24,
+      "low": 4.76,
+      "close": 4.78,
+      "volume": 26600
+    },
+    {
       "date": "2026-08-31",
       "open": 4.88,
       "high": 4.88,
@@ -3499,7 +3507,15 @@
       "high": 8.58,
       "low": 4.58,
       "close": 6.45,
-      "volume": 24352100
+      "volume": 24395500
+    },
+    {
+      "date": "2026-09-02",
+      "open": 6.11,
+      "high": 6.65,
+      "low": 5.6,
+      "close": 6.57,
+      "volume": 254800
     }
   ]
 }
