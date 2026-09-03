@@ -1,9 +1,9 @@
 {
   "code": "LZMH",
   "ticker": "LZMH",
-  "last_updated": "2026-09-02 09:57:00",
+  "last_updated": "2026-09-03 09:57:25",
   "period": "5y",
-  "data_points": 379,
+  "data_points": 381,
   "data": [
     {
       "date": "2025-02-27",
@@ -3022,6 +3022,14 @@
       "volume": 58300
     },
     {
+      "date": "2026-08-28",
+      "open": 1.24,
+      "high": 1.28,
+      "low": 1.2,
+      "close": 1.28,
+      "volume": 33800
+    },
+    {
       "date": "2026-08-31",
       "open": 1.29,
       "high": 1.29,
@@ -3036,6 +3044,14 @@
       "low": 1.16,
       "close": 1.17,
       "volume": 15600
+    },
+    {
+      "date": "2026-09-02",
+      "open": 1.18,
+      "high": 1.21,
+      "low": 1.15,
+      "close": 1.21,
+      "volume": 26000
     }
   ]
 }

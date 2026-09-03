@@ -1,9 +1,9 @@
 {
   "code": "NICM",
   "ticker": "NICM",
-  "last_updated": "2026-09-02 10:04:44",
+  "last_updated": "2026-09-03 10:05:02",
   "period": "5y",
-  "data_points": 97,
+  "data_points": 99,
   "data": [
     {
       "date": "2026-04-14",
@@ -766,6 +766,14 @@
       "volume": 2400
     },
     {
+      "date": "2026-08-28",
+      "open": 6.83,
+      "high": 7.0,
+      "low": 6.6,
+      "close": 6.88,
+      "volume": 5700
+    },
+    {
       "date": "2026-08-31",
       "open": 6.62,
       "high": 6.62,
@@ -780,6 +788,14 @@
       "low": 6.63,
       "close": 6.63,
       "volume": 900
+    },
+    {
+      "date": "2026-09-02",
+      "open": 6.52,
+      "high": 6.6,
+      "low": 6.52,
+      "close": 6.6,
+      "volume": 500
     }
   ]
 }

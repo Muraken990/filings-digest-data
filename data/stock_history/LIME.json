@@ -1,9 +1,9 @@
 {
   "code": "LIME",
   "ticker": "LIME",
-  "last_updated": "2026-09-02 09:54:29",
+  "last_updated": "2026-09-03 09:54:56",
   "period": "5y",
-  "data_points": 43,
+  "data_points": 44,
   "data": [
     {
       "date": "2026-07-01",
@@ -348,6 +348,14 @@
       "low": 39.0,
       "close": 39.99,
       "volume": 252600
+    },
+    {
+      "date": "2026-09-02",
+      "open": 40.24,
+      "high": 41.91,
+      "low": 39.97,
+      "close": 41.63,
+      "volume": 244100
     }
   ]
 }

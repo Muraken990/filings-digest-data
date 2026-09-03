@@ -1,9 +1,9 @@
 {
   "code": "OPI",
   "ticker": "OPI",
-  "last_updated": "2026-09-02 10:09:53",
+  "last_updated": "2026-09-03 10:10:06",
   "period": "5y",
-  "data_points": 51,
+  "data_points": 52,
   "data": [
     {
       "date": "2026-06-18",
@@ -412,6 +412,14 @@
       "low": 17.5,
       "close": 17.7,
       "volume": 36400
+    },
+    {
+      "date": "2026-09-02",
+      "open": 17.91,
+      "high": 18.01,
+      "low": 17.62,
+      "close": 17.66,
+      "volume": 36800
     }
   ]
 }

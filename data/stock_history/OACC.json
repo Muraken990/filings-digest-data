@@ -1,9 +1,9 @@
 {
   "code": "OACC",
   "ticker": "OACC",
-  "last_updated": "2026-09-02 10:08:11",
+  "last_updated": "2026-09-03 10:08:24",
   "period": "5y",
-  "data_points": 427,
+  "data_points": 429,
   "data": [
     {
       "date": "2024-12-16",
@@ -3406,6 +3406,14 @@
       "volume": 0
     },
     {
+      "date": "2026-08-28",
+      "open": 10.8,
+      "high": 10.8,
+      "low": 10.74,
+      "close": 10.74,
+      "volume": 36000
+    },
+    {
       "date": "2026-08-31",
       "open": 10.74,
       "high": 10.78,
@@ -3420,6 +3428,14 @@
       "low": 10.76,
       "close": 10.76,
       "volume": 85100
+    },
+    {
+      "date": "2026-09-02",
+      "open": 10.8,
+      "high": 10.8,
+      "low": 10.77,
+      "close": 10.8,
+      "volume": 97600
     }
   ]
 }

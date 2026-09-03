@@ -1,9 +1,9 @@
 {
   "code": "KEYY",
   "ticker": "KEYY",
-  "last_updated": "2026-09-02 09:51:04",
+  "last_updated": "2026-09-03 09:51:32",
   "period": "5y",
-  "data_points": 50,
+  "data_points": 51,
   "data": [
     {
       "date": "2026-06-22",
@@ -404,6 +404,14 @@
       "low": 9.9,
       "close": 9.9,
       "volume": 500000
+    },
+    {
+      "date": "2026-09-02",
+      "open": 9.9,
+      "high": 9.92,
+      "low": 9.9,
+      "close": 9.92,
+      "volume": 291200
     }
   ]
 }

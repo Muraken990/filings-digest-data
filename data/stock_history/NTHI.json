@@ -1,9 +1,9 @@
 {
   "code": "NTHI",
   "ticker": "NTHI",
-  "last_updated": "2026-09-02 10:06:29",
+  "last_updated": "2026-09-03 10:06:44",
   "period": "5y",
-  "data_points": 360,
+  "data_points": 362,
   "data": [
     {
       "date": "2025-03-26",
@@ -2870,6 +2870,14 @@
       "volume": 99900
     },
     {
+      "date": "2026-08-28",
+      "open": 4.57,
+      "high": 4.75,
+      "low": 4.51,
+      "close": 4.69,
+      "volume": 100700
+    },
+    {
       "date": "2026-08-31",
       "open": 4.74,
       "high": 5.07,
@@ -2884,6 +2892,14 @@
       "low": 4.64,
       "close": 4.73,
       "volume": 96600
+    },
+    {
+      "date": "2026-09-02",
+      "open": 4.71,
+      "high": 5.1,
+      "low": 4.71,
+      "close": 4.96,
+      "volume": 151300
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "MLR",
   "ticker": "MLR",
-  "last_updated": "2026-09-02 10:00:23",
+  "last_updated": "2026-09-03 10:00:46",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-02",
-      "open": 33.96,
-      "high": 34.05,
-      "low": 33.42,
-      "close": 34.0,
-      "volume": 33700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-03",
@@ -8474,7 +8474,7 @@
       "open": 35.44,
       "high": 36.28,
       "low": 35.37,
-      "close": 35.91,
+      "close": 35.92,
       "volume": 79000
     },
     {
@@ -10014,6 +10014,14 @@
       "volume": 81300
     },
     {
+      "date": "2026-08-28",
+      "open": 57.83,
+      "high": 58.11,
+      "low": 56.55,
+      "close": 56.73,
+      "volume": 89100
+    },
+    {
       "date": "2026-08-31",
       "open": 56.43,
       "high": 59.7,
@@ -10028,6 +10036,14 @@
       "low": 54.1,
       "close": 54.5,
       "volume": 124900
+    },
+    {
+      "date": "2026-09-02",
+      "open": 55.01,
+      "high": 55.89,
+      "low": 53.66,
+      "close": 55.23,
+      "volume": 130200
     }
   ]
 }

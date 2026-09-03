@@ -1,17 +1,17 @@
 {
   "code": "GOLF",
   "ticker": "GOLF",
-  "last_updated": "2026-09-02 09:39:53",
+  "last_updated": "2026-09-03 09:40:33",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
     {
       "date": "2021-09-02",
-      "open": 46.76,
-      "high": 47.29,
-      "low": 45.94,
-      "close": 46.19,
-      "volume": 107300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-03",
@@ -209,7 +209,7 @@
       "date": "2021-10-08",
       "open": 46.19,
       "high": 46.21,
-      "low": 44.7,
+      "low": 44.71,
       "close": 45.07,
       "volume": 104500
     },
@@ -458,7 +458,7 @@
       "open": 52.9,
       "high": 54.02,
       "low": 52.69,
-      "close": 53.31,
+      "close": 53.3,
       "volume": 233800
     },
     {
@@ -5120,7 +5120,7 @@
     {
       "date": "2024-03-20",
       "open": 60.83,
-      "high": 61.8,
+      "high": 61.79,
       "low": 60.32,
       "close": 61.29,
       "volume": 429000
@@ -7554,7 +7554,7 @@
       "open": 70.46,
       "high": 71.34,
       "low": 70.01,
-      "close": 70.28,
+      "close": 70.29,
       "volume": 273900
     },
     {
@@ -10028,6 +10028,14 @@
       "low": 85.74,
       "close": 85.89,
       "volume": 253700
+    },
+    {
+      "date": "2026-09-02",
+      "open": 86.33,
+      "high": 87.39,
+      "low": 85.64,
+      "close": 86.87,
+      "volume": 367400
     }
   ]
 }

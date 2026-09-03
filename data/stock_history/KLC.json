@@ -1,9 +1,9 @@
 {
   "code": "KLC",
   "ticker": "KLC",
-  "last_updated": "2026-09-02 09:51:52",
+  "last_updated": "2026-09-03 09:52:20",
   "period": "5y",
-  "data_points": 474,
+  "data_points": 476,
   "data": [
     {
       "date": "2024-10-09",
@@ -3782,6 +3782,14 @@
       "volume": 627500
     },
     {
+      "date": "2026-08-28",
+      "open": 2.54,
+      "high": 2.65,
+      "low": 2.51,
+      "close": 2.6,
+      "volume": 778100
+    },
+    {
       "date": "2026-08-31",
       "open": 2.64,
       "high": 2.65,
@@ -3796,6 +3804,14 @@
       "low": 2.45,
       "close": 2.5,
       "volume": 719900
+    },
+    {
+      "date": "2026-09-02",
+      "open": 2.5,
+      "high": 2.56,
+      "low": 2.5,
+      "close": 2.51,
+      "volume": 747800
     }
   ]
 }

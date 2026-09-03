@@ -1,9 +1,9 @@
 {
   "code": "MTNE",
   "ticker": "MTNE",
-  "last_updated": "2026-09-02 10:02:09",
+  "last_updated": "2026-09-03 10:02:29",
   "period": "5y",
-  "data_points": 50,
+  "data_points": 52,
   "data": [
     {
       "date": "2026-06-22",
@@ -390,6 +390,14 @@
       "volume": 0
     },
     {
+      "date": "2026-08-28",
+      "open": 9.9,
+      "high": 9.9,
+      "low": 9.9,
+      "close": 9.9,
+      "volume": 4100
+    },
+    {
       "date": "2026-08-31",
       "open": 9.9,
       "high": 9.9,
@@ -404,6 +412,14 @@
       "low": 9.9,
       "close": 9.9,
       "volume": 0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 9.9,
+      "high": 9.95,
+      "low": 9.9,
+      "close": 9.91,
+      "volume": 74900
     }
   ]
 }

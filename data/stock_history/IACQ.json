@@ -1,9 +1,9 @@
 {
   "code": "IACQ",
   "ticker": "IACQ",
-  "last_updated": "2026-09-02 09:45:04",
+  "last_updated": "2026-09-03 09:45:38",
   "period": "5y",
-  "data_points": 51,
+  "data_points": 53,
   "data": [
     {
       "date": "2026-06-18",
@@ -398,6 +398,14 @@
       "volume": 1000
     },
     {
+      "date": "2026-08-28",
+      "open": 9.97,
+      "high": 9.97,
+      "low": 9.97,
+      "close": 9.97,
+      "volume": 400
+    },
+    {
       "date": "2026-08-31",
       "open": 9.97,
       "high": 9.97,
@@ -412,6 +420,14 @@
       "low": 9.93,
       "close": 9.93,
       "volume": 800
+    },
+    {
+      "date": "2026-09-02",
+      "open": 9.97,
+      "high": 9.97,
+      "low": 9.95,
+      "close": 9.95,
+      "volume": 700
     }
   ]
 }

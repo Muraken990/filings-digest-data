@@ -1,9 +1,9 @@
 {
   "code": "GVH",
   "ticker": "GVH",
-  "last_updated": "2026-09-02 09:41:35",
+  "last_updated": "2026-09-03 09:42:13",
   "period": "5y",
-  "data_points": 704,
+  "data_points": 706,
   "data": [
     {
       "date": "2023-11-08",
@@ -5622,6 +5622,14 @@
       "volume": 95400
     },
     {
+      "date": "2026-08-28",
+      "open": 1.01,
+      "high": 1.04,
+      "low": 0.98,
+      "close": 1.01,
+      "volume": 132000
+    },
+    {
       "date": "2026-08-31",
       "open": 0.99,
       "high": 1.03,
@@ -5636,6 +5644,14 @@
       "low": 1.0,
       "close": 1.01,
       "volume": 72300
+    },
+    {
+      "date": "2026-09-02",
+      "open": 1.0,
+      "high": 1.02,
+      "low": 0.99,
+      "close": 1.01,
+      "volume": 125000
     }
   ]
 }

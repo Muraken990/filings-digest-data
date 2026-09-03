@@ -1,17 +1,17 @@
 {
   "code": "KNX",
   "ticker": "KNX",
-  "last_updated": "2026-09-02 09:51:55",
+  "last_updated": "2026-09-03 09:52:23",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
     {
       "date": "2021-09-02",
-      "open": 50.21,
-      "high": 50.6,
-      "low": 50.06,
-      "close": 50.36,
-      "volume": 936800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-03",
@@ -1186,7 +1186,7 @@
       "open": 45.06,
       "high": 45.52,
       "low": 44.03,
-      "close": 44.5,
+      "close": 44.49,
       "volume": 2920000
     },
     {
@@ -1664,7 +1664,7 @@
     {
       "date": "2022-06-30",
       "open": 43.27,
-      "high": 44.25,
+      "high": 44.24,
       "low": 42.79,
       "close": 44.12,
       "volume": 1261800
@@ -3970,7 +3970,7 @@
       "open": 53.32,
       "high": 53.79,
       "low": 52.75,
-      "close": 53.78,
+      "close": 53.77,
       "volume": 1093600
     },
     {
@@ -10028,6 +10028,14 @@
       "low": 65.72,
       "close": 66.73,
       "volume": 3152900
+    },
+    {
+      "date": "2026-09-02",
+      "open": 67.5,
+      "high": 67.86,
+      "low": 65.49,
+      "close": 67.42,
+      "volume": 2161800
     }
   ]
 }

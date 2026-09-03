@@ -1,9 +1,9 @@
 {
   "code": "NTCL",
   "ticker": "NTCL",
-  "last_updated": "2026-09-02 10:06:28",
+  "last_updated": "2026-09-03 10:06:44",
   "period": "5y",
-  "data_points": 428,
+  "data_points": 430,
   "data": [
     {
       "date": "2024-12-13",
@@ -3414,6 +3414,14 @@
       "volume": 11000
     },
     {
+      "date": "2026-08-28",
+      "open": 2.41,
+      "high": 2.46,
+      "low": 2.35,
+      "close": 2.4,
+      "volume": 11200
+    },
+    {
       "date": "2026-08-31",
       "open": 2.41,
       "high": 2.41,
@@ -3428,6 +3436,14 @@
       "low": 1.83,
       "close": 1.88,
       "volume": 31200
+    },
+    {
+      "date": "2026-09-02",
+      "open": 1.93,
+      "high": 1.96,
+      "low": 1.86,
+      "close": 1.88,
+      "volume": 21000
     }
   ]
 }

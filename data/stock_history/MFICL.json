@@ -1,17 +1,25 @@
 {
   "code": "MFICL",
   "ticker": "MFICL",
-  "last_updated": "2026-09-02 09:58:44",
+  "last_updated": "2026-09-03 09:59:08",
   "period": "5y",
-  "data_points": 1,
+  "data_points": 2,
   "data": [
     {
       "date": "2026-09-01",
-      "open": 25.1,
-      "high": 25.18,
-      "low": 25.1,
-      "close": 25.14,
-      "volume": 11784
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
+    },
+    {
+      "date": "2026-09-02",
+      "open": 25.04,
+      "high": 25.12,
+      "low": 25.04,
+      "close": 25.08,
+      "volume": 12877
     }
   ]
 }

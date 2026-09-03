@@ -1,9 +1,9 @@
 {
   "code": "HKPD",
   "ticker": "HKPD",
-  "last_updated": "2026-09-02 09:43:18",
+  "last_updated": "2026-09-03 09:43:54",
   "period": "5y",
-  "data_points": 408,
+  "data_points": 410,
   "data": [
     {
       "date": "2025-01-15",
@@ -3254,6 +3254,14 @@
       "volume": 5300
     },
     {
+      "date": "2026-08-28",
+      "open": 0.39,
+      "high": 0.4,
+      "low": 0.34,
+      "close": 0.35,
+      "volume": 15300
+    },
+    {
       "date": "2026-08-31",
       "open": 0.35,
       "high": 0.36,
@@ -3267,7 +3275,15 @@
       "high": 0.47,
       "low": 0.15,
       "close": 0.18,
-      "volume": 97813800
+      "volume": 99005700
+    },
+    {
+      "date": "2026-09-02",
+      "open": 0.16,
+      "high": 0.17,
+      "low": 0.14,
+      "close": 0.15,
+      "volume": 13767500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "MCAH",
   "ticker": "MCAH",
-  "last_updated": "2026-09-02 09:57:51",
+  "last_updated": "2026-09-03 09:58:16",
   "period": "5y",
-  "data_points": 50,
+  "data_points": 52,
   "data": [
     {
       "date": "2026-06-22",
@@ -390,6 +390,14 @@
       "volume": 500
     },
     {
+      "date": "2026-08-28",
+      "open": 10.04,
+      "high": 10.04,
+      "low": 10.04,
+      "close": 10.04,
+      "volume": 0
+    },
+    {
       "date": "2026-08-31",
       "open": 10.0,
       "high": 10.0,
@@ -404,6 +412,14 @@
       "low": 10.0,
       "close": 10.0,
       "volume": 800
+    },
+    {
+      "date": "2026-09-02",
+      "open": 10.0,
+      "high": 10.0,
+      "low": 10.0,
+      "close": 10.0,
+      "volume": 0
     }
   ]
 }

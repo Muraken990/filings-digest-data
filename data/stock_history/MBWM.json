@@ -1,17 +1,17 @@
 {
   "code": "MBWM",
   "ticker": "MBWM",
-  "last_updated": "2026-09-02 09:57:51",
+  "last_updated": "2026-09-03 09:58:15",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
     {
       "date": "2021-09-02",
-      "open": 26.28,
-      "high": 26.49,
-      "low": 26.01,
-      "close": 26.44,
-      "volume": 45100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-03",
@@ -6513,7 +6513,7 @@
       "date": "2024-11-26",
       "open": 47.98,
       "high": 48.08,
-      "low": 46.97,
+      "low": 46.96,
       "close": 47.44,
       "volume": 109500
     },
@@ -10028,6 +10028,14 @@
       "low": 58.65,
       "close": 59.14,
       "volume": 105300
+    },
+    {
+      "date": "2026-09-02",
+      "open": 59.63,
+      "high": 61.15,
+      "low": 59.26,
+      "close": 61.0,
+      "volume": 160500
     }
   ]
 }
