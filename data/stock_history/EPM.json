@@ -1,18 +1,10 @@
 {
   "code": "EPM",
   "ticker": "EPM",
-  "last_updated": "2026-09-03 07:38:48",
+  "last_updated": "2026-09-04 07:39:37",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 2.98,
-      "high": 3.08,
-      "low": 2.95,
-      "close": 3.03,
-      "volume": 117100
-    },
     {
       "date": "2021-09-07",
       "open": 3.01,
@@ -2520,7 +2512,7 @@
     {
       "date": "2022-12-02",
       "open": 5.15,
-      "high": 5.21,
+      "high": 5.22,
       "low": 5.11,
       "close": 5.18,
       "volume": 155400
@@ -10006,6 +9998,14 @@
       "volume": 434500
     },
     {
+      "date": "2026-08-28",
+      "open": 3.64,
+      "high": 3.74,
+      "low": 3.57,
+      "close": 3.64,
+      "volume": 783100
+    },
+    {
       "date": "2026-08-31",
       "open": 3.72,
       "high": 3.78,
@@ -10028,6 +10028,14 @@
       "low": 3.57,
       "close": 3.67,
       "volume": 538100
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 302141
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "BIII",
   "ticker": "BIII",
-  "last_updated": "2026-09-03 07:19:09",
+  "last_updated": "2026-09-04 07:19:57",
   "period": "5y",
-  "data_points": 149,
+  "data_points": 151,
   "data": [
     {
       "date": "2026-01-29",
@@ -1174,6 +1174,14 @@
       "volume": 2987000
     },
     {
+      "date": "2026-08-28",
+      "open": 10.24,
+      "high": 10.24,
+      "low": 10.07,
+      "close": 10.07,
+      "volume": 392500
+    },
+    {
       "date": "2026-08-31",
       "open": 10.08,
       "high": 10.08,
@@ -1196,6 +1204,14 @@
       "low": 10.06,
       "close": 10.07,
       "volume": 652800
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1013174
     }
   ]
 }

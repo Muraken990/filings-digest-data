@@ -1,18 +1,10 @@
 {
   "code": "CTBI",
   "ticker": "CTBI",
-  "last_updated": "2026-09-03 07:31:06",
+  "last_updated": "2026-09-04 07:31:54",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 33.92,
-      "high": 33.93,
-      "low": 33.71,
-      "close": 33.84,
-      "volume": 75700
-    },
     {
       "date": "2021-09-07",
       "open": 33.93,
@@ -10006,6 +9998,14 @@
       "volume": 76000
     },
     {
+      "date": "2026-08-28",
+      "open": 76.44,
+      "high": 77.03,
+      "low": 76.3,
+      "close": 76.66,
+      "volume": 98100
+    },
+    {
       "date": "2026-08-31",
       "open": 76.36,
       "high": 76.39,
@@ -10028,6 +10028,14 @@
       "low": 75.89,
       "close": 77.06,
       "volume": 104900
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 71622
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "CPOP",
   "ticker": "CPOP",
-  "last_updated": "2026-09-03 07:29:26",
+  "last_updated": "2026-09-04 07:30:14",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 410.0,
-      "high": 419.0,
-      "low": 403.2,
-      "close": 408.0,
-      "volume": 4386
-    },
     {
       "date": "2021-09-07",
       "open": 407.0,
@@ -10006,6 +9998,14 @@
       "volume": 277600
     },
     {
+      "date": "2026-08-28",
+      "open": 0.34,
+      "high": 0.36,
+      "low": 0.34,
+      "close": 0.34,
+      "volume": 313800
+    },
+    {
       "date": "2026-08-31",
       "open": 0.34,
       "high": 0.34,
@@ -10027,7 +10027,15 @@
       "high": 0.31,
       "low": 0.29,
       "close": 0.31,
-      "volume": 399800
+      "volume": 425100
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 615939
     }
   ]
 }

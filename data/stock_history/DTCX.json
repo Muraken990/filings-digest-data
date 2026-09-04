@@ -1,9 +1,9 @@
 {
   "code": "DTCX",
   "ticker": "DTCX",
-  "last_updated": "2026-09-03 07:35:23",
+  "last_updated": "2026-09-04 07:36:11",
   "period": "5y",
-  "data_points": 1117,
+  "data_points": 1119,
   "data": [
     {
       "date": "2022-03-21",
@@ -8918,6 +8918,14 @@
       "volume": 158700
     },
     {
+      "date": "2026-08-28",
+      "open": 2.7,
+      "high": 2.75,
+      "low": 2.6,
+      "close": 2.6,
+      "volume": 70800
+    },
+    {
       "date": "2026-08-31",
       "open": 2.79,
       "high": 2.95,
@@ -8940,6 +8948,14 @@
       "low": 1.88,
       "close": 1.88,
       "volume": 279200
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 401902
     }
   ]
 }

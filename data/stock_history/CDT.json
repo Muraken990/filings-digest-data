@@ -1,9 +1,9 @@
 {
   "code": "CDT",
   "ticker": "CDT",
-  "last_updated": "2026-09-03 07:25:07",
+  "last_updated": "2026-09-04 07:25:56",
   "period": "5y",
-  "data_points": 1112,
+  "data_points": 1114,
   "data": [
     {
       "date": "2022-03-28",
@@ -8878,6 +8878,14 @@
       "volume": 152000
     },
     {
+      "date": "2026-08-28",
+      "open": 1.98,
+      "high": 2.03,
+      "low": 1.62,
+      "close": 1.69,
+      "volume": 486500
+    },
+    {
       "date": "2026-08-31",
       "open": 1.71,
       "high": 1.79,
@@ -8899,7 +8907,15 @@
       "high": 1.2,
       "low": 0.9,
       "close": 0.91,
-      "volume": 1243100
+      "volume": 1295400
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 739343
     }
   ]
 }

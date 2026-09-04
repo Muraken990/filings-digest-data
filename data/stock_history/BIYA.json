@@ -1,9 +1,9 @@
 {
   "code": "BIYA",
   "ticker": "BIYA",
-  "last_updated": "2026-09-03 07:19:11",
+  "last_updated": "2026-09-04 07:19:59",
   "period": "5y",
-  "data_points": 364,
+  "data_points": 366,
   "data": [
     {
       "date": "2025-03-21",
@@ -2894,6 +2894,14 @@
       "volume": 42200
     },
     {
+      "date": "2026-08-28",
+      "open": 2.34,
+      "high": 2.34,
+      "low": 2.23,
+      "close": 2.23,
+      "volume": 31000
+    },
+    {
       "date": "2026-08-31",
       "open": 2.25,
       "high": 2.26,
@@ -2916,6 +2924,14 @@
       "low": 2.09,
       "close": 2.19,
       "volume": 90200
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 62396
     }
   ]
 }

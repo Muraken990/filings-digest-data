@@ -1,9 +1,9 @@
 {
   "code": "BLZR",
   "ticker": "BLZR",
-  "last_updated": "2026-09-03 07:20:01",
+  "last_updated": "2026-09-04 07:20:49",
   "period": "5y",
-  "data_points": 208,
+  "data_points": 210,
   "data": [
     {
       "date": "2025-11-03",
@@ -1646,6 +1646,14 @@
       "volume": 2900
     },
     {
+      "date": "2026-08-28",
+      "open": 10.2,
+      "high": 10.21,
+      "low": 10.2,
+      "close": 10.2,
+      "volume": 6700
+    },
+    {
       "date": "2026-08-31",
       "open": 10.2,
       "high": 10.21,
@@ -1668,6 +1676,14 @@
       "low": 10.21,
       "close": 10.21,
       "volume": 16000
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 19404
     }
   ]
 }

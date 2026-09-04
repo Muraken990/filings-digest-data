@@ -1,9 +1,9 @@
 {
   "code": "BALY",
   "ticker": "BALY",
-  "last_updated": "2026-09-03 07:16:35",
+  "last_updated": "2026-09-04 07:17:23",
   "period": "5y",
-  "data_points": 434,
+  "data_points": 436,
   "data": [
     {
       "date": "2024-12-06",
@@ -3454,6 +3454,14 @@
       "volume": 110400
     },
     {
+      "date": "2026-08-28",
+      "open": 9.01,
+      "high": 9.74,
+      "low": 9.01,
+      "close": 9.43,
+      "volume": 100400
+    },
+    {
       "date": "2026-08-31",
       "open": 9.49,
       "high": 9.49,
@@ -3476,6 +3484,14 @@
       "low": 9.15,
       "close": 9.88,
       "volume": 122500
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 96564
     }
   ]
 }

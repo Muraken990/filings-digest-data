@@ -1,9 +1,9 @@
 {
   "code": "ATGL",
   "ticker": "ATGL",
-  "last_updated": "2026-09-03 07:14:52",
+  "last_updated": "2026-09-04 07:15:39",
   "period": "5y",
-  "data_points": 711,
+  "data_points": 713,
   "data": [
     {
       "date": "2023-10-31",
@@ -5670,6 +5670,14 @@
       "volume": 10800
     },
     {
+      "date": "2026-08-28",
+      "open": 7.32,
+      "high": 7.4,
+      "low": 7.0,
+      "close": 7.4,
+      "volume": 18800
+    },
+    {
       "date": "2026-08-31",
       "open": 7.0,
       "high": 7.0,
@@ -5692,6 +5700,14 @@
       "low": 6.5,
       "close": 6.5,
       "volume": 1400
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1085
     }
   ]
 }

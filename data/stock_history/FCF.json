@@ -1,18 +1,10 @@
 {
   "code": "FCF",
   "ticker": "FCF",
-  "last_updated": "2026-09-03 07:41:21",
+  "last_updated": "2026-09-04 07:42:10",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 11.4,
-      "high": 11.44,
-      "low": 11.22,
-      "close": 11.29,
-      "volume": 311000
-    },
     {
       "date": "2021-09-07",
       "open": 11.27,
@@ -10006,6 +9998,14 @@
       "volume": 462100
     },
     {
+      "date": "2026-08-28",
+      "open": 20.85,
+      "high": 20.97,
+      "low": 20.75,
+      "close": 20.85,
+      "volume": 460700
+    },
+    {
       "date": "2026-08-31",
       "open": 20.84,
       "high": 20.86,
@@ -10028,6 +10028,14 @@
       "low": 20.62,
       "close": 20.99,
       "volume": 854800
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1046841
     }
   ]
 }

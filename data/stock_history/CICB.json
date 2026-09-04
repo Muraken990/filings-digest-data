@@ -1,9 +1,9 @@
 {
   "code": "CICB",
   "ticker": "CICB",
-  "last_updated": "2026-09-03 07:26:49",
+  "last_updated": "2026-09-04 07:27:38",
   "period": "5y",
-  "data_points": 475,
+  "data_points": 477,
   "data": [
     {
       "date": "2024-10-09",
@@ -3782,6 +3782,14 @@
       "volume": 7500
     },
     {
+      "date": "2026-08-28",
+      "open": 25.11,
+      "high": 25.11,
+      "low": 25.11,
+      "close": 25.11,
+      "volume": 800
+    },
+    {
       "date": "2026-08-31",
       "open": 25.14,
       "high": 25.24,
@@ -3804,6 +3812,14 @@
       "low": 25.0,
       "close": 25.09,
       "volume": 7200
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3745
     }
   ]
 }

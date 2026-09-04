@@ -1,9 +1,9 @@
 {
   "code": "ARHS",
   "ticker": "ARHS",
-  "last_updated": "2026-09-03 07:13:13",
+  "last_updated": "2026-09-04 07:14:01",
   "period": "5y",
-  "data_points": 1210,
+  "data_points": 1212,
   "data": [
     {
       "date": "2021-11-04",
@@ -9662,6 +9662,14 @@
       "volume": 777600
     },
     {
+      "date": "2026-08-28",
+      "open": 8.86,
+      "high": 9.09,
+      "low": 8.8,
+      "close": 8.98,
+      "volume": 875800
+    },
+    {
       "date": "2026-08-31",
       "open": 8.89,
       "high": 8.98,
@@ -9684,6 +9692,14 @@
       "low": 8.36,
       "close": 8.43,
       "volume": 931700
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 771719
     }
   ]
 }

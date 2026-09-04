@@ -1,9 +1,9 @@
 {
   "code": "FSHP",
   "ticker": "FSHP",
-  "last_updated": "2026-09-03 07:43:58",
+  "last_updated": "2026-09-04 07:44:46",
   "period": "5y",
-  "data_points": 513,
+  "data_points": 515,
   "data": [
     {
       "date": "2024-08-15",
@@ -4086,6 +4086,14 @@
       "volume": 600
     },
     {
+      "date": "2026-08-28",
+      "open": 11.2,
+      "high": 11.31,
+      "low": 11.18,
+      "close": 11.24,
+      "volume": 1500
+    },
+    {
       "date": "2026-08-31",
       "open": 11.54,
       "high": 11.54,
@@ -4108,6 +4116,14 @@
       "low": 11.54,
       "close": 11.54,
       "volume": 0
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 581
     }
   ]
 }

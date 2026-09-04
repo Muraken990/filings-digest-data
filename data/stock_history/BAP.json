@@ -1,18 +1,10 @@
 {
   "code": "BAP",
   "ticker": "BAP",
-  "last_updated": "2026-09-03 07:16:37",
+  "last_updated": "2026-09-04 07:17:25",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 80.06,
-      "high": 81.58,
-      "low": 79.4,
-      "close": 80.21,
-      "volume": 275800
-    },
     {
       "date": "2021-09-07",
       "open": 80.49,
@@ -936,7 +928,7 @@
     {
       "date": "2022-02-18",
       "open": 119.17,
-      "high": 121.29,
+      "high": 121.28,
       "low": 118.41,
       "close": 119.36,
       "volume": 293800
@@ -4042,7 +4034,7 @@
       "open": 115.17,
       "high": 115.18,
       "low": 113.62,
-      "close": 113.79,
+      "close": 113.78,
       "volume": 173000
     },
     {
@@ -10036,6 +10028,14 @@
       "low": 372.52,
       "close": 379.56,
       "volume": 278600
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 215156
     }
   ]
 }

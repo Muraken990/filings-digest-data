@@ -1,18 +1,10 @@
 {
   "code": "CSV",
   "ticker": "CSV",
-  "last_updated": "2026-09-03 07:31:05",
+  "last_updated": "2026-09-04 07:31:53",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 45.37,
-      "high": 45.44,
-      "low": 44.48,
-      "close": 45.16,
-      "volume": 139700
-    },
     {
       "date": "2021-09-07",
       "open": 44.98,
@@ -1569,7 +1561,7 @@
       "date": "2022-06-14",
       "open": 35.19,
       "high": 35.85,
-      "low": 35.05,
+      "low": 35.04,
       "close": 35.76,
       "volume": 123900
     },
@@ -2218,7 +2210,7 @@
       "open": 30.34,
       "high": 31.42,
       "low": 30.34,
-      "close": 31.02,
+      "close": 31.03,
       "volume": 63800
     },
     {
@@ -10036,6 +10028,14 @@
       "low": 33.22,
       "close": 33.35,
       "volume": 93400
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 87948
     }
   ]
 }

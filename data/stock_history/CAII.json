@@ -1,9 +1,9 @@
 {
   "code": "CAII",
   "ticker": "CAII",
-  "last_updated": "2026-09-03 07:23:25",
+  "last_updated": "2026-09-04 07:24:14",
   "period": "5y",
-  "data_points": 52,
+  "data_points": 53,
   "data": [
     {
       "date": "2026-06-22",
@@ -420,6 +420,14 @@
       "low": 9.99,
       "close": 9.99,
       "volume": 14600
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 508
     }
   ]
 }

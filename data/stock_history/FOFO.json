@@ -1,9 +1,9 @@
 {
   "code": "FOFO",
   "ticker": "FOFO",
-  "last_updated": "2026-09-03 07:43:07",
+  "last_updated": "2026-09-04 07:43:56",
   "period": "5y",
-  "data_points": 244,
+  "data_points": 246,
   "data": [
     {
       "date": "2025-09-12",
@@ -1934,6 +1934,14 @@
       "volume": 5000
     },
     {
+      "date": "2026-08-28",
+      "open": 2.43,
+      "high": 2.49,
+      "low": 2.32,
+      "close": 2.32,
+      "volume": 6500
+    },
+    {
       "date": "2026-08-31",
       "open": 2.34,
       "high": 2.52,
@@ -1956,6 +1964,14 @@
       "low": 2.22,
       "close": 2.47,
       "volume": 2600
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 24300
     }
   ]
 }

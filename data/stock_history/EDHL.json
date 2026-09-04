@@ -1,9 +1,9 @@
 {
   "code": "EDHL",
   "ticker": "EDHL",
-  "last_updated": "2026-09-03 07:36:17",
+  "last_updated": "2026-09-04 07:37:06",
   "period": "5y",
-  "data_points": 345,
+  "data_points": 347,
   "data": [
     {
       "date": "2025-04-17",
@@ -2742,6 +2742,14 @@
       "volume": 2700
     },
     {
+      "date": "2026-08-28",
+      "open": 3.91,
+      "high": 4.02,
+      "low": 3.91,
+      "close": 3.98,
+      "volume": 3600
+    },
+    {
       "date": "2026-08-31",
       "open": 3.96,
       "high": 4.24,
@@ -2764,6 +2772,14 @@
       "low": 4.08,
       "close": 4.1,
       "volume": 525500
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 262165
     }
   ]
 }

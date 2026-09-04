@@ -1,18 +1,10 @@
 {
   "code": "ATEX",
   "ticker": "ATEX",
-  "last_updated": "2026-09-03 07:14:52",
+  "last_updated": "2026-09-04 07:15:39",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 60.67,
-      "high": 61.9,
-      "low": 59.6,
-      "close": 59.89,
-      "volume": 56600
-    },
     {
       "date": "2021-09-07",
       "open": 59.71,
@@ -10036,6 +10028,14 @@
       "low": 86.25,
       "close": 86.61,
       "volume": 286900
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 260631
     }
   ]
 }

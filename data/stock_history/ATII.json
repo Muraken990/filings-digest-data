@@ -1,9 +1,9 @@
 {
   "code": "ATII",
   "ticker": "ATII",
-  "last_updated": "2026-09-03 07:14:52",
+  "last_updated": "2026-09-04 07:15:40",
   "period": "5y",
-  "data_points": 355,
+  "data_points": 357,
   "data": [
     {
       "date": "2025-04-03",
@@ -2822,6 +2822,14 @@
       "volume": 328800
     },
     {
+      "date": "2026-08-28",
+      "open": 10.7,
+      "high": 10.7,
+      "low": 10.63,
+      "close": 10.67,
+      "volume": 316900
+    },
+    {
       "date": "2026-08-31",
       "open": 10.67,
       "high": 10.7,
@@ -2844,6 +2852,14 @@
       "low": 10.65,
       "close": 10.66,
       "volume": 123400
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 87700
     }
   ]
 }

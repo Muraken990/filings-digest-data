@@ -1,9 +1,9 @@
 {
   "code": "ATHS",
   "ticker": "ATHS",
-  "last_updated": "2026-09-03 07:14:52",
+  "last_updated": "2026-09-04 07:15:40",
   "period": "5y",
-  "data_points": 618,
+  "data_points": 620,
   "data": [
     {
       "date": "2024-03-15",
@@ -4926,6 +4926,14 @@
       "volume": 23000
     },
     {
+      "date": "2026-08-28",
+      "open": 24.86,
+      "high": 24.94,
+      "low": 24.65,
+      "close": 24.75,
+      "volume": 18600
+    },
+    {
       "date": "2026-08-31",
       "open": 24.77,
       "high": 24.89,
@@ -4948,6 +4956,14 @@
       "low": 24.62,
       "close": 24.87,
       "volume": 54100
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 58732
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "ERIC",
   "ticker": "ERIC",
-  "last_updated": "2026-09-03 07:38:50",
+  "last_updated": "2026-09-04 07:39:40",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 10.01,
-      "high": 10.05,
-      "low": 9.97,
-      "close": 10.05,
-      "volume": 3433900
-    },
     {
       "date": "2021-09-07",
       "open": 9.93,
@@ -10006,6 +9998,14 @@
       "volume": 20558100
     },
     {
+      "date": "2026-08-28",
+      "open": 10.09,
+      "high": 10.1,
+      "low": 9.9,
+      "close": 9.95,
+      "volume": 6084200
+    },
+    {
       "date": "2026-08-31",
       "open": 10.03,
       "high": 10.11,
@@ -10028,6 +10028,14 @@
       "low": 9.92,
       "close": 10.04,
       "volume": 7072200
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 5558622
     }
   ]
 }

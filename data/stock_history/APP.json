@@ -1,18 +1,10 @@
 {
   "code": "APP",
   "ticker": "APP",
-  "last_updated": "2026-09-03 07:12:23",
+  "last_updated": "2026-09-04 07:13:11",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 78.32,
-      "high": 79.67,
-      "low": 77.23,
-      "close": 77.98,
-      "volume": 1116700
-    },
     {
       "date": "2021-09-07",
       "open": 77.57,
@@ -10006,6 +9998,14 @@
       "volume": 4045700
     },
     {
+      "date": "2026-08-28",
+      "open": 316.25,
+      "high": 335.45,
+      "low": 315.92,
+      "close": 317.76,
+      "volume": 6621800
+    },
+    {
       "date": "2026-08-31",
       "open": 315.24,
       "high": 317.89,
@@ -10028,6 +10028,14 @@
       "low": 305.67,
       "close": 319.05,
       "volume": 3877400
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 4450354
     }
   ]
 }

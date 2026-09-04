@@ -1,9 +1,9 @@
 {
   "code": "BEPI",
   "ticker": "BEPI",
-  "last_updated": "2026-09-03 07:18:17",
+  "last_updated": "2026-09-04 07:19:05",
   "period": "5y",
-  "data_points": 1183,
+  "data_points": 1185,
   "data": [
     {
       "date": "2021-12-14",
@@ -9446,6 +9446,14 @@
       "volume": 15800
     },
     {
+      "date": "2026-08-28",
+      "open": 16.09,
+      "high": 16.3,
+      "low": 16.0,
+      "close": 16.25,
+      "volume": 19400
+    },
+    {
       "date": "2026-08-31",
       "open": 16.2,
       "high": 16.26,
@@ -9468,6 +9476,14 @@
       "low": 15.85,
       "close": 15.87,
       "volume": 29300
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 16917
     }
   ]
 }

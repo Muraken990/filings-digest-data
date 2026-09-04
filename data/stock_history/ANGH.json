@@ -1,18 +1,10 @@
 {
   "code": "ANGH",
   "ticker": "ANGH",
-  "last_updated": "2026-09-03 07:11:33",
+  "last_updated": "2026-09-04 07:12:20",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 100.32,
-      "high": 100.32,
-      "low": 100.3,
-      "close": 100.3,
-      "volume": 520
-    },
     {
       "date": "2021-09-07",
       "open": 100.3,
@@ -10036,6 +10028,14 @@
       "low": 3.32,
       "close": 3.48,
       "volume": 2300
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 85634
     }
   ]
 }

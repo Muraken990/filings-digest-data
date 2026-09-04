@@ -1,18 +1,10 @@
 {
   "code": "ABCB",
   "ticker": "ABCB",
-  "last_updated": "2026-09-03 07:06:23",
+  "last_updated": "2026-09-04 07:07:09",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 45.57,
-      "high": 46.6,
-      "low": 44.92,
-      "close": 45.08,
-      "volume": 246100
-    },
     {
       "date": "2021-09-07",
       "open": 45.39,
@@ -2240,7 +2232,7 @@
     {
       "date": "2022-10-13",
       "open": 45.11,
-      "high": 47.65,
+      "high": 47.66,
       "low": 44.6,
       "close": 47.49,
       "volume": 421900
@@ -10006,6 +9998,14 @@
       "volume": 263400
     },
     {
+      "date": "2026-08-28",
+      "open": 85.9,
+      "high": 85.9,
+      "low": 85.17,
+      "close": 85.59,
+      "volume": 250400
+    },
+    {
       "date": "2026-08-31",
       "open": 85.52,
       "high": 85.6,
@@ -10028,6 +10028,14 @@
       "low": 83.78,
       "close": 84.97,
       "volume": 313500
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 230547
     }
   ]
 }

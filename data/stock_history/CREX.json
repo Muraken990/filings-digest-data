@@ -1,18 +1,10 @@
 {
   "code": "CREX",
   "ticker": "CREX",
-  "last_updated": "2026-09-03 07:30:14",
+  "last_updated": "2026-09-04 07:31:03",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 4.56,
-      "high": 4.74,
-      "low": 4.2,
-      "close": 4.32,
-      "volume": 106467
-    },
     {
       "date": "2021-09-07",
       "open": 4.47,
@@ -10036,6 +10028,14 @@
       "low": 2.62,
       "close": 2.64,
       "volume": 50300
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 141724
     }
   ]
 }

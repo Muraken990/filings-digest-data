@@ -1,9 +1,9 @@
 {
   "code": "FEBO",
   "ticker": "FEBO",
-  "last_updated": "2026-09-03 07:41:24",
+  "last_updated": "2026-09-04 07:42:13",
   "period": "5y",
-  "data_points": 690,
+  "data_points": 692,
   "data": [
     {
       "date": "2023-11-30",
@@ -5502,6 +5502,14 @@
       "volume": 500
     },
     {
+      "date": "2026-08-28",
+      "open": 0.73,
+      "high": 0.73,
+      "low": 0.7,
+      "close": 0.71,
+      "volume": 1800
+    },
+    {
       "date": "2026-08-31",
       "open": 0.71,
       "high": 0.71,
@@ -5524,6 +5532,14 @@
       "low": 0.71,
       "close": 0.71,
       "volume": 2800
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 435
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "CET",
   "ticker": "CET",
-  "last_updated": "2026-09-03 07:25:10",
+  "last_updated": "2026-09-04 07:25:59",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 31.22,
-      "high": 31.5,
-      "low": 31.22,
-      "close": 31.35,
-      "volume": 24300
-    },
     {
       "date": "2021-09-07",
       "open": 31.18,
@@ -1626,7 +1618,7 @@
       "open": 28.28,
       "high": 28.85,
       "low": 28.06,
-      "close": 28.33,
+      "close": 28.34,
       "volume": 40200
     },
     {
@@ -10006,6 +9998,14 @@
       "volume": 25100
     },
     {
+      "date": "2026-08-28",
+      "open": 54.8,
+      "high": 55.0,
+      "low": 54.61,
+      "close": 54.8,
+      "volume": 9300
+    },
+    {
       "date": "2026-08-31",
       "open": 54.68,
       "high": 55.11,
@@ -10028,6 +10028,14 @@
       "low": 54.03,
       "close": 54.06,
       "volume": 31500
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 23477
     }
   ]
 }

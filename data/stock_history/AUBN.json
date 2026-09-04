@@ -1,18 +1,10 @@
 {
   "code": "AUBN",
   "ticker": "AUBN",
-  "last_updated": "2026-09-03 07:14:55",
+  "last_updated": "2026-09-04 07:15:43",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 27.44,
-      "high": 27.99,
-      "low": 27.44,
-      "close": 27.99,
-      "volume": 1500
-    },
     {
       "date": "2021-09-07",
       "open": 27.74,
@@ -10006,6 +9998,14 @@
       "volume": 800
     },
     {
+      "date": "2026-08-28",
+      "open": 26.32,
+      "high": 26.32,
+      "low": 26.32,
+      "close": 26.32,
+      "volume": 0
+    },
+    {
       "date": "2026-08-31",
       "open": 26.3,
       "high": 26.3,
@@ -10028,6 +10028,14 @@
       "low": 26.4,
       "close": 26.5,
       "volume": 2400
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 8260
     }
   ]
 }

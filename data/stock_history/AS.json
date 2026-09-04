@@ -1,9 +1,9 @@
 {
   "code": "AS",
   "ticker": "AS",
-  "last_updated": "2026-09-03 07:14:01",
+  "last_updated": "2026-09-04 07:14:49",
   "period": "5y",
-  "data_points": 648,
+  "data_points": 650,
   "data": [
     {
       "date": "2024-02-01",
@@ -5166,6 +5166,14 @@
       "volume": 8301800
     },
     {
+      "date": "2026-08-28",
+      "open": 30.84,
+      "high": 31.13,
+      "low": 30.66,
+      "close": 31.05,
+      "volume": 5367500
+    },
+    {
       "date": "2026-08-31",
       "open": 30.73,
       "high": 30.89,
@@ -5188,6 +5196,14 @@
       "low": 28.54,
       "close": 28.56,
       "volume": 8970000
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 8515126
     }
   ]
 }

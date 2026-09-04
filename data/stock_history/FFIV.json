@@ -1,18 +1,10 @@
 {
   "code": "FFIV",
   "ticker": "FFIV",
-  "last_updated": "2026-09-03 07:41:26",
+  "last_updated": "2026-09-04 07:42:15",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 203.28,
-      "high": 204.97,
-      "low": 202.5,
-      "close": 203.61,
-      "volume": 454300
-    },
     {
       "date": "2021-09-07",
       "open": 204.12,
@@ -10006,6 +9998,14 @@
       "volume": 512000
     },
     {
+      "date": "2026-08-28",
+      "open": 409.71,
+      "high": 410.0,
+      "low": 394.08,
+      "close": 394.24,
+      "volume": 336100
+    },
+    {
       "date": "2026-08-31",
       "open": 395.86,
       "high": 408.91,
@@ -10028,6 +10028,14 @@
       "low": 384.95,
       "close": 391.08,
       "volume": 359300
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 324237
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "FF",
   "ticker": "FF",
-  "last_updated": "2026-09-03 07:41:25",
+  "last_updated": "2026-09-04 07:42:15",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 4.64,
-      "high": 4.72,
-      "low": 4.59,
-      "close": 4.7,
-      "volume": 252900
-    },
     {
       "date": "2021-09-07",
       "open": 4.66,
@@ -10006,6 +9998,14 @@
       "volume": 626600
     },
     {
+      "date": "2026-08-28",
+      "open": 5.23,
+      "high": 5.42,
+      "low": 5.15,
+      "close": 5.34,
+      "volume": 768000
+    },
+    {
       "date": "2026-08-31",
       "open": 5.4,
       "high": 5.42,
@@ -10028,6 +10028,14 @@
       "low": 5.36,
       "close": 5.38,
       "volume": 283600
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 278737
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "BRIA",
   "ticker": "BRIA",
-  "last_updated": "2026-09-03 07:20:55",
+  "last_updated": "2026-09-04 07:21:43",
   "period": "5y",
-  "data_points": 440,
+  "data_points": 442,
   "data": [
     {
       "date": "2024-11-27",
@@ -3502,6 +3502,14 @@
       "volume": 4700
     },
     {
+      "date": "2026-08-28",
+      "open": 1.32,
+      "high": 1.48,
+      "low": 1.32,
+      "close": 1.4,
+      "volume": 2000
+    },
+    {
       "date": "2026-08-31",
       "open": 1.4,
       "high": 1.44,
@@ -3524,6 +3532,14 @@
       "low": 1.32,
       "close": 1.4,
       "volume": 3900
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1579
     }
   ]
 }

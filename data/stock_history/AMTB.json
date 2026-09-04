@@ -1,18 +1,10 @@
 {
   "code": "AMTB",
   "ticker": "AMTB",
-  "last_updated": "2026-09-03 07:11:31",
+  "last_updated": "2026-09-04 07:12:18",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 24.31,
-      "high": 25.42,
-      "low": 24.12,
-      "close": 24.36,
-      "volume": 42500
-    },
     {
       "date": "2021-09-07",
       "open": 24.58,
@@ -5463,7 +5455,7 @@
     },
     {
       "date": "2024-05-22",
-      "open": 22.01,
+      "open": 22.02,
       "high": 22.1,
       "low": 21.73,
       "close": 21.86,
@@ -10006,6 +9998,14 @@
       "volume": 251400
     },
     {
+      "date": "2026-08-28",
+      "open": 28.88,
+      "high": 29.18,
+      "low": 28.48,
+      "close": 28.84,
+      "volume": 274000
+    },
+    {
       "date": "2026-08-31",
       "open": 28.61,
       "high": 28.79,
@@ -10028,6 +10028,14 @@
       "low": 28.49,
       "close": 29.16,
       "volume": 309600
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 199236
     }
   ]
 }

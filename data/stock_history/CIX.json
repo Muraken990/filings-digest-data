@@ -1,18 +1,10 @@
 {
   "code": "CIX",
   "ticker": "CIX",
-  "last_updated": "2026-09-03 07:26:52",
+  "last_updated": "2026-09-04 07:27:41",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 15.03,
-      "high": 15.48,
-      "low": 14.8,
-      "close": 14.92,
-      "volume": 8300
-    },
     {
       "date": "2021-09-07",
       "open": 15.07,
@@ -1856,7 +1848,7 @@
     {
       "date": "2022-08-05",
       "open": 15.55,
-      "high": 15.88,
+      "high": 15.87,
       "low": 15.55,
       "close": 15.8,
       "volume": 1200
@@ -10006,6 +9998,14 @@
       "volume": 5100
     },
     {
+      "date": "2026-08-28",
+      "open": 31.5,
+      "high": 31.9,
+      "low": 30.9,
+      "close": 31.9,
+      "volume": 9100
+    },
+    {
       "date": "2026-08-31",
       "open": 31.9,
       "high": 32.0,
@@ -10028,6 +10028,14 @@
       "low": 32.65,
       "close": 35.35,
       "volume": 29600
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 18980
     }
   ]
 }

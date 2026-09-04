@@ -1,18 +1,10 @@
 {
   "code": "CENTA",
   "ticker": "CENTA",
-  "last_updated": "2026-09-03 07:25:09",
+  "last_updated": "2026-09-04 07:25:58",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 32.64,
-      "high": 32.64,
-      "low": 32.21,
-      "close": 32.48,
-      "volume": 233875
-    },
     {
       "date": "2021-09-07",
       "open": 32.41,
@@ -10006,6 +9998,14 @@
       "volume": 259900
     },
     {
+      "date": "2026-08-28",
+      "open": 37.93,
+      "high": 38.07,
+      "low": 37.52,
+      "close": 37.81,
+      "volume": 201900
+    },
+    {
       "date": "2026-08-31",
       "open": 37.62,
       "high": 37.84,
@@ -10028,6 +10028,14 @@
       "low": 34.91,
       "close": 36.64,
       "volume": 362800
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 265490
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "AA",
   "ticker": "AA",
-  "last_updated": "2026-09-03 07:06:21",
+  "last_updated": "2026-09-04 07:07:06",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 44.62,
-      "high": 45.35,
-      "low": 43.75,
-      "close": 44.86,
-      "volume": 5201900
-    },
     {
       "date": "2021-09-07",
       "open": 45.24,
@@ -5178,7 +5170,7 @@
       "open": 33.19,
       "high": 34.83,
       "low": 32.95,
-      "close": 34.72,
+      "close": 34.73,
       "volume": 8190100
     },
     {
@@ -10036,6 +10028,14 @@
       "low": 50.45,
       "close": 51.05,
       "volume": 3277200
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2552853
     }
   ]
 }

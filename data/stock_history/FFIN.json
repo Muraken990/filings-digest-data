@@ -1,18 +1,10 @@
 {
   "code": "FFIN",
   "ticker": "FFIN",
-  "last_updated": "2026-09-03 07:41:26",
+  "last_updated": "2026-09-04 07:42:15",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 42.63,
-      "high": 42.81,
-      "low": 42.16,
-      "close": 42.33,
-      "volume": 270400
-    },
     {
       "date": "2021-09-07",
       "open": 42.33,
@@ -10006,6 +9998,14 @@
       "volume": 567300
     },
     {
+      "date": "2026-08-28",
+      "open": 33.19,
+      "high": 33.5,
+      "low": 33.08,
+      "close": 33.39,
+      "volume": 635200
+    },
+    {
       "date": "2026-08-31",
       "open": 33.36,
       "high": 33.36,
@@ -10028,6 +10028,14 @@
       "low": 32.77,
       "close": 33.22,
       "volume": 776300
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 501801
     }
   ]
 }

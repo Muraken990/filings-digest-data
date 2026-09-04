@@ -1,9 +1,9 @@
 {
   "code": "ARM",
   "ticker": "ARM",
-  "last_updated": "2026-09-03 07:13:14",
+  "last_updated": "2026-09-04 07:14:02",
   "period": "5y",
-  "data_points": 744,
+  "data_points": 746,
   "data": [
     {
       "date": "2023-09-14",
@@ -5934,6 +5934,14 @@
       "volume": 4880000
     },
     {
+      "date": "2026-08-28",
+      "open": 251.1,
+      "high": 251.69,
+      "low": 238.66,
+      "close": 239.05,
+      "volume": 3874900
+    },
+    {
       "date": "2026-08-31",
       "open": 238.8,
       "high": 243.7,
@@ -5956,6 +5964,14 @@
       "low": 229.39,
       "close": 234.86,
       "volume": 2428200
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3988455
     }
   ]
 }

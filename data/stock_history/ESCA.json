@@ -1,17 +1,17 @@
 {
   "code": "ESCA",
   "ticker": "ESCA",
-  "last_updated": "2026-09-03 07:38:51",
+  "last_updated": "2026-09-04 07:39:41",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-03",
-      "open": 18.4,
-      "high": 18.5,
-      "low": 17.71,
-      "close": 17.93,
-      "volume": 31900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-07",
@@ -10006,6 +10006,14 @@
       "volume": 17700
     },
     {
+      "date": "2026-08-28",
+      "open": 20.17,
+      "high": 20.53,
+      "low": 20.1,
+      "close": 20.18,
+      "volume": 21900
+    },
+    {
       "date": "2026-08-31",
       "open": 20.39,
       "high": 20.61,
@@ -10028,6 +10036,14 @@
       "low": 20.14,
       "close": 20.26,
       "volume": 28600
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 23404
     }
   ]
 }

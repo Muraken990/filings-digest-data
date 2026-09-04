@@ -1,9 +1,9 @@
 {
   "code": "ATMU",
   "ticker": "ATMU",
-  "last_updated": "2026-09-03 07:14:53",
+  "last_updated": "2026-09-04 07:15:41",
   "period": "5y",
-  "data_points": 819,
+  "data_points": 821,
   "data": [
     {
       "date": "2023-05-26",
@@ -1530,12 +1530,12 @@
       "open": 23.63,
       "high": 23.78,
       "low": 23.16,
-      "close": 23.61,
+      "close": 23.6,
       "volume": 2445300
     },
     {
       "date": "2024-03-01",
-      "open": 23.61,
+      "open": 23.6,
       "high": 24.19,
       "low": 23.46,
       "close": 23.69,
@@ -6534,6 +6534,14 @@
       "volume": 478700
     },
     {
+      "date": "2026-08-28",
+      "open": 49.2,
+      "high": 49.28,
+      "low": 47.04,
+      "close": 47.73,
+      "volume": 554800
+    },
+    {
       "date": "2026-08-31",
       "open": 47.3,
       "high": 47.49,
@@ -6556,6 +6564,14 @@
       "low": 45.87,
       "close": 47.29,
       "volume": 685600
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 704360
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CMND",
   "ticker": "CMND",
-  "last_updated": "2026-09-03 07:27:44",
+  "last_updated": "2026-09-04 07:28:32",
   "period": "5y",
-  "data_points": 951,
+  "data_points": 953,
   "data": [
     {
       "date": "2022-11-15",
@@ -7590,6 +7590,14 @@
       "volume": 65200
     },
     {
+      "date": "2026-08-28",
+      "open": 1.82,
+      "high": 1.84,
+      "low": 1.73,
+      "close": 1.76,
+      "volume": 24600
+    },
+    {
       "date": "2026-08-31",
       "open": 1.82,
       "high": 2.1,
@@ -7612,6 +7620,14 @@
       "low": 1.79,
       "close": 1.85,
       "volume": 44400
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 58972
     }
   ]
 }

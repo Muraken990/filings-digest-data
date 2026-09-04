@@ -1,9 +1,9 @@
 {
   "code": "BGL",
   "ticker": "BGL",
-  "last_updated": "2026-09-03 07:18:20",
+  "last_updated": "2026-09-04 07:19:07",
   "period": "5y",
-  "data_points": 298,
+  "data_points": 300,
   "data": [
     {
       "date": "2025-06-26",
@@ -2366,6 +2366,14 @@
       "volume": 139300
     },
     {
+      "date": "2026-08-28",
+      "open": 0.2,
+      "high": 0.21,
+      "low": 0.2,
+      "close": 0.2,
+      "volume": 87300
+    },
+    {
       "date": "2026-08-31",
       "open": 0.2,
       "high": 0.2,
@@ -2387,7 +2395,15 @@
       "high": 0.2,
       "low": 0.18,
       "close": 0.19,
-      "volume": 531600
+      "volume": 558100
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 234797
     }
   ]
 }

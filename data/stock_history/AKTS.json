@@ -1,9 +1,9 @@
 {
   "code": "AKTS",
   "ticker": "AKTS",
-  "last_updated": "2026-09-03 07:09:49",
+  "last_updated": "2026-09-04 07:10:35",
   "period": "5y",
-  "data_points": 162,
+  "data_points": 164,
   "data": [
     {
       "date": "2026-01-09",
@@ -1278,6 +1278,14 @@
       "volume": 210600
     },
     {
+      "date": "2026-08-28",
+      "open": 25.96,
+      "high": 26.8,
+      "low": 25.52,
+      "close": 25.78,
+      "volume": 314600
+    },
+    {
       "date": "2026-08-31",
       "open": 25.57,
       "high": 26.05,
@@ -1300,6 +1308,14 @@
       "low": 25.7,
       "close": 26.92,
       "volume": 253500
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 152398
     }
   ]
 }

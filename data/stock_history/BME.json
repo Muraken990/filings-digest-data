@@ -1,18 +1,10 @@
 {
   "code": "BME",
   "ticker": "BME",
-  "last_updated": "2026-09-03 07:20:02",
+  "last_updated": "2026-09-04 07:20:49",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 34.88,
-      "high": 34.93,
-      "low": 34.76,
-      "close": 34.93,
-      "volume": 20300
-    },
     {
       "date": "2021-09-07",
       "open": 34.79,
@@ -1394,7 +1386,7 @@
       "open": 30.88,
       "high": 31.04,
       "low": 30.31,
-      "close": 30.72,
+      "close": 30.73,
       "volume": 68900
     },
     {
@@ -4274,7 +4266,7 @@
       "open": 31.39,
       "high": 31.39,
       "low": 30.96,
-      "close": 31.01,
+      "close": 31.0,
       "volume": 59900
     },
     {
@@ -10006,6 +9998,14 @@
       "volume": 54000
     },
     {
+      "date": "2026-08-28",
+      "open": 46.15,
+      "high": 46.15,
+      "low": 45.65,
+      "close": 45.88,
+      "volume": 41000
+    },
+    {
       "date": "2026-08-31",
       "open": 45.91,
       "high": 45.91,
@@ -10028,6 +10028,14 @@
       "low": 45.6,
       "close": 45.8,
       "volume": 46600
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 27171
     }
   ]
 }

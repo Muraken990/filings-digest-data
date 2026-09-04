@@ -1,18 +1,10 @@
 {
   "code": "EMN",
   "ticker": "EMN",
-  "last_updated": "2026-09-03 07:37:58",
+  "last_updated": "2026-09-04 07:38:47",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 94.1,
-      "high": 94.4,
-      "low": 93.05,
-      "close": 93.4,
-      "volume": 557200
-    },
     {
       "date": "2021-09-07",
       "open": 93.04,
@@ -24,7 +16,7 @@
     {
       "date": "2021-09-08",
       "open": 92.76,
-      "high": 93.01,
+      "high": 93.0,
       "low": 90.52,
       "close": 90.69,
       "volume": 1022100
@@ -10036,6 +10028,14 @@
       "low": 70.48,
       "close": 72.16,
       "volume": 968500
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 633815
     }
   ]
 }

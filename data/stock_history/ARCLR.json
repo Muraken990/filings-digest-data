@@ -1,9 +1,9 @@
 {
   "code": "ARCLR",
   "ticker": "ARCLR",
-  "last_updated": "2026-09-03 07:13:11",
+  "last_updated": "2026-09-04 07:13:59",
   "period": "5y",
-  "data_points": 66,
+  "data_points": 68,
   "data": [
     {
       "date": "2026-05-29",
@@ -510,6 +510,14 @@
       "volume": 200
     },
     {
+      "date": "2026-08-28",
+      "open": 0.17,
+      "high": 0.2,
+      "low": 0.15,
+      "close": 0.2,
+      "volume": 800
+    },
+    {
       "date": "2026-08-31",
       "open": 0.2,
       "high": 0.2,
@@ -532,6 +540,14 @@
       "low": 0.2,
       "close": 0.2,
       "volume": 0
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 11610
     }
   ]
 }

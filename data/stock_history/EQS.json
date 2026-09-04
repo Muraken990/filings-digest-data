@@ -1,18 +1,10 @@
 {
   "code": "EQS",
   "ticker": "EQS",
-  "last_updated": "2026-09-03 07:38:49",
+  "last_updated": "2026-09-04 07:39:39",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 2.46,
-      "high": 2.55,
-      "low": 2.39,
-      "close": 2.55,
-      "volume": 55600
-    },
     {
       "date": "2021-09-07",
       "open": 2.62,
@@ -10006,6 +9998,14 @@
       "volume": 6400
     },
     {
+      "date": "2026-08-28",
+      "open": 1.01,
+      "high": 1.04,
+      "low": 1.01,
+      "close": 1.01,
+      "volume": 17800
+    },
+    {
       "date": "2026-08-31",
       "open": 1.01,
       "high": 1.03,
@@ -10028,6 +10028,14 @@
       "low": 1.01,
       "close": 1.03,
       "volume": 8700
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 17259
     }
   ]
 }

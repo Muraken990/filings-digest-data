@@ -1,18 +1,10 @@
 {
   "code": "CLPS",
   "ticker": "CLPS",
-  "last_updated": "2026-09-03 07:27:40",
+  "last_updated": "2026-09-04 07:28:29",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 2.69,
-      "high": 2.93,
-      "low": 2.69,
-      "close": 2.85,
-      "volume": 369500
-    },
     {
       "date": "2021-09-07",
       "open": 2.85,
@@ -10006,6 +9998,14 @@
       "volume": 13900
     },
     {
+      "date": "2026-08-28",
+      "open": 1.07,
+      "high": 1.09,
+      "low": 1.05,
+      "close": 1.08,
+      "volume": 15000
+    },
+    {
       "date": "2026-08-31",
       "open": 1.08,
       "high": 1.1,
@@ -10028,6 +10028,14 @@
       "low": 1.06,
       "close": 1.08,
       "volume": 7800
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 5861
     }
   ]
 }

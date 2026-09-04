@@ -1,18 +1,10 @@
 {
   "code": "ARCB",
   "ticker": "ARCB",
-  "last_updated": "2026-09-03 07:13:11",
+  "last_updated": "2026-09-04 07:13:59",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 68.15,
-      "high": 68.34,
-      "low": 67.05,
-      "close": 67.92,
-      "volume": 152700
-    },
     {
       "date": "2021-09-07",
       "open": 68.08,
@@ -1344,7 +1336,7 @@
     {
       "date": "2022-05-04",
       "open": 75.72,
-      "high": 79.99,
+      "high": 80.0,
       "low": 74.77,
       "close": 79.45,
       "volume": 349500
@@ -10006,6 +9998,14 @@
       "volume": 132000
     },
     {
+      "date": "2026-08-28",
+      "open": 139.36,
+      "high": 142.67,
+      "low": 136.27,
+      "close": 136.54,
+      "volume": 184300
+    },
+    {
       "date": "2026-08-31",
       "open": 136.43,
       "high": 138.9,
@@ -10028,6 +10028,14 @@
       "low": 132.0,
       "close": 133.93,
       "volume": 206200
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 180126
     }
   ]
 }

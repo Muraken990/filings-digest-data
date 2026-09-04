@@ -1,18 +1,10 @@
 {
   "code": "CETX",
   "ticker": "CETX",
-  "last_updated": "2026-09-03 07:25:10",
+  "last_updated": "2026-09-04 07:26:00",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 13891500.0,
-      "high": 14001750.0,
-      "low": 13671000.0,
-      "close": 13781250.0,
-      "volume": 0
-    },
     {
       "date": "2021-09-07",
       "open": 13560750.0,
@@ -10006,6 +9998,14 @@
       "volume": 41700
     },
     {
+      "date": "2026-08-28",
+      "open": 2.67,
+      "high": 2.8,
+      "low": 2.57,
+      "close": 2.59,
+      "volume": 34900
+    },
+    {
       "date": "2026-08-31",
       "open": 2.59,
       "high": 2.66,
@@ -10028,6 +10028,14 @@
       "low": 2.5,
       "close": 2.52,
       "volume": 19800
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 22635
     }
   ]
 }

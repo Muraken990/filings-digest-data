@@ -1,18 +1,10 @@
 {
   "code": "CEVA",
   "ticker": "CEVA",
-  "last_updated": "2026-09-03 07:25:11",
+  "last_updated": "2026-09-04 07:26:00",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 47.89,
-      "high": 48.37,
-      "low": 47.25,
-      "close": 47.45,
-      "volume": 98500
-    },
     {
       "date": "2021-09-07",
       "open": 47.45,
@@ -10006,6 +9998,14 @@
       "volume": 509100
     },
     {
+      "date": "2026-08-28",
+      "open": 28.19,
+      "high": 28.19,
+      "low": 27.03,
+      "close": 27.12,
+      "volume": 477100
+    },
+    {
       "date": "2026-08-31",
       "open": 27.35,
       "high": 27.77,
@@ -10028,6 +10028,14 @@
       "low": 25.4,
       "close": 26.25,
       "volume": 710200
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 562760
     }
   ]
 }

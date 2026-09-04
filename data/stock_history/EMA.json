@@ -1,18 +1,10 @@
 {
   "code": "EMA",
   "ticker": "EMA",
-  "last_updated": "2026-09-03 07:37:56",
+  "last_updated": "2026-09-04 07:38:45",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 37.27,
-      "high": 37.39,
-      "low": 37.27,
-      "close": 37.38,
-      "volume": 1400
-    },
     {
       "date": "2021-09-07",
       "open": 37.01,
@@ -10036,6 +10028,14 @@
       "low": 49.55,
       "close": 49.95,
       "volume": 279600
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 979706
     }
   ]
 }

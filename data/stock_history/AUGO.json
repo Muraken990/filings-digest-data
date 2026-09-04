@@ -1,9 +1,9 @@
 {
   "code": "AUGO",
   "ticker": "AUGO",
-  "last_updated": "2026-09-03 07:14:56",
+  "last_updated": "2026-09-04 07:15:43",
   "period": "5y",
-  "data_points": 285,
+  "data_points": 287,
   "data": [
     {
       "date": "2025-07-16",
@@ -2262,6 +2262,14 @@
       "volume": 583400
     },
     {
+      "date": "2026-08-28",
+      "open": 89.21,
+      "high": 90.07,
+      "low": 81.97,
+      "close": 84.53,
+      "volume": 1626000
+    },
+    {
       "date": "2026-08-31",
       "open": 83.24,
       "high": 83.81,
@@ -2284,6 +2292,14 @@
       "low": 82.09,
       "close": 84.6,
       "volume": 721100
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 688393
     }
   ]
 }

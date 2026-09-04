@@ -1,18 +1,10 @@
 {
   "code": "ERAS",
   "ticker": "ERAS",
-  "last_updated": "2026-09-03 07:38:50",
+  "last_updated": "2026-09-04 07:39:39",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 24.33,
-      "high": 24.46,
-      "low": 23.62,
-      "close": 23.85,
-      "volume": 166900
-    },
     {
       "date": "2021-09-07",
       "open": 23.96,
@@ -10006,6 +9998,14 @@
       "volume": 4122500
     },
     {
+      "date": "2026-08-28",
+      "open": 19.25,
+      "high": 19.59,
+      "low": 18.0,
+      "close": 18.03,
+      "volume": 2887300
+    },
+    {
       "date": "2026-08-31",
       "open": 17.87,
       "high": 18.03,
@@ -10028,6 +10028,14 @@
       "low": 15.78,
       "close": 16.37,
       "volume": 5121100
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3761848
     }
   ]
 }

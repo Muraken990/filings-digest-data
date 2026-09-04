@@ -1,18 +1,10 @@
 {
   "code": "FIZZ",
   "ticker": "FIZZ",
-  "last_updated": "2026-09-03 07:42:16",
+  "last_updated": "2026-09-04 07:43:05",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 37.28,
-      "high": 37.78,
-      "low": 36.79,
-      "close": 36.89,
-      "volume": 269800
-    },
     {
       "date": "2021-09-07",
       "open": 36.9,
@@ -1311,7 +1303,7 @@
     },
     {
       "date": "2022-04-28",
-      "open": 37.78,
+      "open": 37.77,
       "high": 38.53,
       "low": 37.29,
       "close": 38.34,
@@ -10006,6 +9998,14 @@
       "volume": 252700
     },
     {
+      "date": "2026-08-28",
+      "open": 32.52,
+      "high": 32.94,
+      "low": 32.3,
+      "close": 32.58,
+      "volume": 254800
+    },
+    {
       "date": "2026-08-31",
       "open": 32.51,
       "high": 32.69,
@@ -10028,6 +10028,14 @@
       "low": 31.55,
       "close": 32.09,
       "volume": 370900
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 340236
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "BOLD",
   "ticker": "BOLD",
-  "last_updated": "2026-09-03 07:20:51",
+  "last_updated": "2026-09-04 07:21:40",
   "period": "5y",
-  "data_points": 609,
+  "data_points": 611,
   "data": [
     {
       "date": "2024-03-28",
@@ -4854,6 +4854,14 @@
       "volume": 46400
     },
     {
+      "date": "2026-08-28",
+      "open": 2.82,
+      "high": 2.86,
+      "low": 2.8,
+      "close": 2.83,
+      "volume": 75500
+    },
+    {
       "date": "2026-08-31",
       "open": 2.81,
       "high": 2.94,
@@ -4876,6 +4884,14 @@
       "low": 2.85,
       "close": 2.89,
       "volume": 81500
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 72441
     }
   ]
 }

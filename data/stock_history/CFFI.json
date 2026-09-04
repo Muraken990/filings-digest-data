@@ -1,18 +1,10 @@
 {
   "code": "CFFI",
   "ticker": "CFFI",
-  "last_updated": "2026-09-03 07:25:11",
+  "last_updated": "2026-09-04 07:26:00",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": 46.11,
-      "high": 46.11,
-      "low": 45.67,
-      "close": 45.67,
-      "volume": 2900
-    },
     {
       "date": "2021-09-07",
       "open": 45.67,
@@ -2392,7 +2384,7 @@
     {
       "date": "2022-11-09",
       "open": 46.21,
-      "high": 48.29,
+      "high": 48.3,
       "low": 46.21,
       "close": 48.1,
       "volume": 9700
@@ -10006,6 +9998,14 @@
       "volume": 73800
     },
     {
+      "date": "2026-08-28",
+      "open": 91.26,
+      "high": 94.31,
+      "low": 91.26,
+      "close": 91.75,
+      "volume": 130600
+    },
+    {
       "date": "2026-08-31",
       "open": 91.27,
       "high": 92.67,
@@ -10028,6 +10028,14 @@
       "low": 91.0,
       "close": 91.61,
       "volume": 33100
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 66274
     }
   ]
 }

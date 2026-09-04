@@ -1,9 +1,9 @@
 {
   "code": "FLOC",
   "ticker": "FLOC",
-  "last_updated": "2026-09-03 07:42:17",
+  "last_updated": "2026-09-04 07:43:06",
   "period": "5y",
-  "data_points": 408,
+  "data_points": 410,
   "data": [
     {
       "date": "2025-01-16",
@@ -3246,6 +3246,14 @@
       "volume": 399100
     },
     {
+      "date": "2026-08-28",
+      "open": 21.62,
+      "high": 21.99,
+      "low": 21.01,
+      "close": 21.16,
+      "volume": 579600
+    },
+    {
       "date": "2026-08-31",
       "open": 21.6,
       "high": 22.02,
@@ -3268,6 +3276,14 @@
       "low": 21.26,
       "close": 21.76,
       "volume": 348700
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 271130
     }
   ]
 }

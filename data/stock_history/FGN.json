@@ -1,9 +1,9 @@
 {
   "code": "FGN",
   "ticker": "FGN",
-  "last_updated": "2026-09-03 07:42:12",
+  "last_updated": "2026-09-04 07:43:01",
   "period": "5y",
-  "data_points": 682,
+  "data_points": 684,
   "data": [
     {
       "date": "2023-12-12",
@@ -1703,7 +1703,7 @@
     },
     {
       "date": "2024-10-16",
-      "open": 23.66,
+      "open": 23.67,
       "high": 23.67,
       "low": 23.49,
       "close": 23.58,
@@ -5438,6 +5438,14 @@
       "volume": 29800
     },
     {
+      "date": "2026-08-28",
+      "open": 24.05,
+      "high": 24.14,
+      "low": 23.96,
+      "close": 24.01,
+      "volume": 21100
+    },
+    {
       "date": "2026-08-31",
       "open": 24.02,
       "high": 24.62,
@@ -5460,6 +5468,14 @@
       "low": 24.01,
       "close": 24.15,
       "volume": 20100
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 46170
     }
   ]
 }

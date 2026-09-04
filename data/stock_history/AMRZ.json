@@ -1,9 +1,9 @@
 {
   "code": "AMRZ",
   "ticker": "AMRZ",
-  "last_updated": "2026-09-03 07:11:31",
+  "last_updated": "2026-09-04 07:12:17",
   "period": "5y",
-  "data_points": 301,
+  "data_points": 303,
   "data": [
     {
       "date": "2025-06-23",
@@ -2390,6 +2390,14 @@
       "volume": 2464500
     },
     {
+      "date": "2026-08-28",
+      "open": 44.75,
+      "high": 45.1,
+      "low": 44.2,
+      "close": 44.67,
+      "volume": 2566700
+    },
+    {
       "date": "2026-08-31",
       "open": 44.44,
       "high": 44.5,
@@ -2412,6 +2420,14 @@
       "low": 41.61,
       "close": 42.97,
       "volume": 6742900
+    },
+    {
+      "date": "2026-09-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 6593932
     }
   ]
 }
