@@ -1,17 +1,17 @@
 {
   "code": "III",
   "ticker": "III",
-  "last_updated": "2026-09-03 09:47:16",
+  "last_updated": "2026-09-04 09:46:15",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-03",
-      "open": 6.13,
-      "high": 6.27,
-      "low": 6.05,
-      "close": 6.18,
-      "volume": 266900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-07",
@@ -10006,6 +10006,14 @@
       "volume": 205400
     },
     {
+      "date": "2026-08-28",
+      "open": 5.05,
+      "high": 5.19,
+      "low": 5.02,
+      "close": 5.13,
+      "volume": 177800
+    },
+    {
       "date": "2026-08-31",
       "open": 5.1,
       "high": 5.19,
@@ -10028,6 +10036,14 @@
       "low": 4.98,
       "close": 5.03,
       "volume": 202000
+    },
+    {
+      "date": "2026-09-03",
+      "open": 5.1,
+      "high": 5.19,
+      "low": 5.1,
+      "close": 5.13,
+      "volume": 133200
     }
   ]
 }

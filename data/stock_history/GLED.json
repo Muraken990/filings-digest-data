@@ -1,9 +1,9 @@
 {
   "code": "GLED",
   "ticker": "GLED",
-  "last_updated": "2026-09-03 09:39:43",
+  "last_updated": "2026-09-04 09:38:40",
   "period": "5y",
-  "data_points": 99,
+  "data_points": 100,
   "data": [
     {
       "date": "2026-04-14",
@@ -796,6 +796,14 @@
       "low": 10.0,
       "close": 10.01,
       "volume": 6000
+    },
+    {
+      "date": "2026-09-03",
+      "open": 10.0,
+      "high": 10.02,
+      "low": 10.0,
+      "close": 10.01,
+      "volume": 7200
     }
   ]
 }

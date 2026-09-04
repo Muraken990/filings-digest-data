@@ -1,9 +1,9 @@
 {
   "code": "NHPBP",
   "ticker": "NHPBP",
-  "last_updated": "2026-09-03 10:05:01",
+  "last_updated": "2026-09-04 10:04:05",
   "period": "5y",
-  "data_points": 1234,
+  "data_points": 1235,
   "data": [
     {
       "date": "2021-10-04",
@@ -9876,6 +9876,14 @@
       "low": 24.75,
       "close": 25.3,
       "volume": 145000
+    },
+    {
+      "date": "2026-09-03",
+      "open": 25.3,
+      "high": 25.3,
+      "low": 25.3,
+      "close": 25.3,
+      "volume": 200
     }
   ]
 }

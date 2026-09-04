@@ -1,9 +1,9 @@
 {
   "code": "ITHA",
   "ticker": "ITHA",
-  "last_updated": "2026-09-03 09:49:47",
+  "last_updated": "2026-09-04 09:48:47",
   "period": "5y",
-  "data_points": 156,
+  "data_points": 158,
   "data": [
     {
       "date": "2026-01-20",
@@ -1230,6 +1230,14 @@
       "volume": 500
     },
     {
+      "date": "2026-08-28",
+      "open": 10.04,
+      "high": 10.04,
+      "low": 10.04,
+      "close": 10.04,
+      "volume": 200
+    },
+    {
       "date": "2026-08-31",
       "open": 10.04,
       "high": 10.04,
@@ -1252,6 +1260,14 @@
       "low": 10.05,
       "close": 10.05,
       "volume": 200
+    },
+    {
+      "date": "2026-09-03",
+      "open": 10.05,
+      "high": 10.05,
+      "low": 10.05,
+      "close": 10.05,
+      "volume": 0
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "LUD",
   "ticker": "LUD",
-  "last_updated": "2026-09-03 09:56:36",
+  "last_updated": "2026-09-04 09:55:36",
   "period": "5y",
-  "data_points": 380,
+  "data_points": 382,
   "data": [
     {
       "date": "2025-02-27",
@@ -3022,6 +3022,14 @@
       "volume": 7200
     },
     {
+      "date": "2026-08-28",
+      "open": 4.1,
+      "high": 4.3,
+      "low": 4.1,
+      "close": 4.3,
+      "volume": 3000
+    },
+    {
       "date": "2026-08-31",
       "open": 4.25,
       "high": 4.28,
@@ -3044,6 +3052,14 @@
       "low": 4.27,
       "close": 4.3,
       "volume": 8000
+    },
+    {
+      "date": "2026-09-03",
+      "open": 4.3,
+      "high": 4.3,
+      "low": 4.28,
+      "close": 4.28,
+      "volume": 2100
     }
   ]
 }

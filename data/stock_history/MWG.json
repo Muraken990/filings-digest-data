@@ -1,9 +1,9 @@
 {
   "code": "MWG",
   "ticker": "MWG",
-  "last_updated": "2026-09-03 10:02:32",
+  "last_updated": "2026-09-04 10:01:35",
   "period": "5y",
-  "data_points": 857,
+  "data_points": 859,
   "data": [
     {
       "date": "2023-04-03",
@@ -6838,6 +6838,14 @@
       "volume": 1100
     },
     {
+      "date": "2026-08-28",
+      "open": 1.25,
+      "high": 1.37,
+      "low": 1.25,
+      "close": 1.37,
+      "volume": 2200
+    },
+    {
       "date": "2026-08-31",
       "open": 1.29,
       "high": 1.34,
@@ -6860,6 +6868,14 @@
       "low": 1.31,
       "close": 1.31,
       "volume": 900
+    },
+    {
+      "date": "2026-09-03",
+      "open": 1.29,
+      "high": 1.29,
+      "low": 1.29,
+      "close": 1.29,
+      "volume": 1200
     }
   ]
 }

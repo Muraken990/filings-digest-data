@@ -1,9 +1,9 @@
 {
   "code": "IPEX",
   "ticker": "IPEX",
-  "last_updated": "2026-09-03 09:48:58",
+  "last_updated": "2026-09-04 09:47:57",
   "period": "5y",
-  "data_points": 374,
+  "data_points": 376,
   "data": [
     {
       "date": "2025-03-07",
@@ -2974,6 +2974,14 @@
       "volume": 4300
     },
     {
+      "date": "2026-08-28",
+      "open": 10.7,
+      "high": 10.7,
+      "low": 10.6,
+      "close": 10.6,
+      "volume": 56500
+    },
+    {
       "date": "2026-08-31",
       "open": 10.6,
       "high": 10.69,
@@ -2996,6 +3004,14 @@
       "low": 9.5,
       "close": 11.0,
       "volume": 16600
+    },
+    {
+      "date": "2026-09-03",
+      "open": 11.33,
+      "high": 11.9,
+      "low": 10.87,
+      "close": 10.92,
+      "volume": 17300
     }
   ]
 }

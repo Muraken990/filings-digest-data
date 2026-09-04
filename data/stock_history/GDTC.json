@@ -1,9 +1,9 @@
 {
   "code": "GDTC",
   "ticker": "GDTC",
-  "last_updated": "2026-09-03 09:38:49",
+  "last_updated": "2026-09-04 09:37:46",
   "period": "5y",
-  "data_points": 849,
+  "data_points": 851,
   "data": [
     {
       "date": "2023-04-14",
@@ -6774,6 +6774,14 @@
       "volume": 18900
     },
     {
+      "date": "2026-08-28",
+      "open": 0.9,
+      "high": 0.92,
+      "low": 0.86,
+      "close": 0.92,
+      "volume": 2500
+    },
+    {
       "date": "2026-08-31",
       "open": 0.92,
       "high": 0.92,
@@ -6796,6 +6804,14 @@
       "low": 0.85,
       "close": 0.88,
       "volume": 12900
+    },
+    {
+      "date": "2026-09-03",
+      "open": 0.88,
+      "high": 0.88,
+      "low": 0.88,
+      "close": 0.88,
+      "volume": 0
     }
   ]
 }

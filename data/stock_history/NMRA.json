@@ -1,9 +1,9 @@
 {
   "code": "NMRA",
   "ticker": "NMRA",
-  "last_updated": "2026-09-03 10:05:51",
+  "last_updated": "2026-09-04 10:04:55",
   "period": "5y",
-  "data_points": 744,
+  "data_points": 746,
   "data": [
     {
       "date": "2023-09-14",
@@ -5934,6 +5934,14 @@
       "volume": 533900
     },
     {
+      "date": "2026-08-28",
+      "open": 1.5,
+      "high": 1.51,
+      "low": 1.38,
+      "close": 1.39,
+      "volume": 695800
+    },
+    {
       "date": "2026-08-31",
       "open": 1.4,
       "high": 1.45,
@@ -5956,6 +5964,14 @@
       "low": 1.35,
       "close": 1.38,
       "volume": 532200
+    },
+    {
+      "date": "2026-09-03",
+      "open": 1.39,
+      "high": 1.39,
+      "low": 1.34,
+      "close": 1.35,
+      "volume": 386000
     }
   ]
 }

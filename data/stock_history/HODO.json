@@ -1,9 +1,9 @@
 {
   "code": "HODO",
   "ticker": "HODO",
-  "last_updated": "2026-09-03 09:43:57",
+  "last_updated": "2026-09-04 09:42:55",
   "period": "5y",
-  "data_points": 375,
+  "data_points": 377,
   "data": [
     {
       "date": "2025-03-06",
@@ -2982,6 +2982,14 @@
       "volume": 2406600
     },
     {
+      "date": "2026-08-28",
+      "open": 0.27,
+      "high": 0.27,
+      "low": 0.25,
+      "close": 0.26,
+      "volume": 395000
+    },
+    {
       "date": "2026-08-31",
       "open": 0.26,
       "high": 0.27,
@@ -3004,6 +3012,14 @@
       "low": 0.2,
       "close": 0.23,
       "volume": 985100
+    },
+    {
+      "date": "2026-09-03",
+      "open": 0.23,
+      "high": 0.24,
+      "low": 0.22,
+      "close": 0.24,
+      "volume": 800900
     }
   ]
 }

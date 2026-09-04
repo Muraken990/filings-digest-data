@@ -1,9 +1,9 @@
 {
   "code": "IMPPP",
   "ticker": "IMPPP",
-  "last_updated": "2026-09-03 09:47:19",
+  "last_updated": "2026-09-04 09:46:18",
   "period": "5y",
-  "data_points": 1189,
+  "data_points": 1191,
   "data": [
     {
       "date": "2021-12-06",
@@ -9494,6 +9494,14 @@
       "volume": 2500
     },
     {
+      "date": "2026-08-28",
+      "open": 25.8,
+      "high": 26.0,
+      "low": 25.48,
+      "close": 25.5,
+      "volume": 5200
+    },
+    {
       "date": "2026-08-31",
       "open": 25.7,
       "high": 25.7,
@@ -9516,6 +9524,14 @@
       "low": 25.79,
       "close": 25.9,
       "volume": 1100
+    },
+    {
+      "date": "2026-09-03",
+      "open": 25.7,
+      "high": 25.75,
+      "low": 25.7,
+      "close": 25.72,
+      "volume": 3000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "LUCD",
   "ticker": "LUCD",
-  "last_updated": "2026-09-03 09:56:36",
+  "last_updated": "2026-09-04 09:55:36",
   "period": "5y",
-  "data_points": 1225,
+  "data_points": 1227,
   "data": [
     {
       "date": "2021-10-14",
@@ -9782,6 +9782,14 @@
       "volume": 966700
     },
     {
+      "date": "2026-08-28",
+      "open": 0.99,
+      "high": 1.0,
+      "low": 0.97,
+      "close": 0.99,
+      "volume": 423300
+    },
+    {
       "date": "2026-08-31",
       "open": 0.99,
       "high": 1.01,
@@ -9803,7 +9811,15 @@
       "high": 0.99,
       "low": 0.96,
       "close": 0.99,
-      "volume": 625200
+      "volume": 636500
+    },
+    {
+      "date": "2026-09-03",
+      "open": 0.98,
+      "high": 0.99,
+      "low": 0.94,
+      "close": 0.95,
+      "volume": 837500
     }
   ]
 }

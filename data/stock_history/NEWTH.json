@@ -1,9 +1,9 @@
 {
   "code": "NEWTH",
   "ticker": "NEWTH",
-  "last_updated": "2026-09-03 10:04:13",
+  "last_updated": "2026-09-04 10:03:17",
   "period": "5y",
-  "data_points": 491,
+  "data_points": 493,
   "data": [
     {
       "date": "2024-09-17",
@@ -3910,6 +3910,14 @@
       "volume": 12200
     },
     {
+      "date": "2026-08-28",
+      "open": 25.3,
+      "high": 25.39,
+      "low": 25.18,
+      "close": 25.18,
+      "volume": 26500
+    },
+    {
       "date": "2026-08-31",
       "open": 25.22,
       "high": 25.24,
@@ -3932,6 +3940,14 @@
       "low": 25.05,
       "close": 25.2,
       "volume": 9700
+    },
+    {
+      "date": "2026-09-03",
+      "open": 25.2,
+      "high": 25.31,
+      "low": 25.2,
+      "close": 25.3,
+      "volume": 3400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "MCRP",
   "ticker": "MCRP",
-  "last_updated": "2026-09-03 09:58:18",
+  "last_updated": "2026-09-04 09:57:18",
   "period": "5y",
-  "data_points": 374,
+  "data_points": 376,
   "data": [
     {
       "date": "2025-03-07",
@@ -2974,6 +2974,14 @@
       "volume": 587800
     },
     {
+      "date": "2026-08-28",
+      "open": 1.05,
+      "high": 1.05,
+      "low": 0.96,
+      "close": 0.96,
+      "volume": 422800
+    },
+    {
       "date": "2026-08-31",
       "open": 0.97,
       "high": 1.02,
@@ -2996,6 +3004,14 @@
       "low": 0.94,
       "close": 0.96,
       "volume": 407500
+    },
+    {
+      "date": "2026-09-03",
+      "open": 0.99,
+      "high": 1.0,
+      "low": 0.92,
+      "close": 0.97,
+      "volume": 223400
     }
   ]
 }
