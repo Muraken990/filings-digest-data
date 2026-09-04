@@ -1,9 +1,9 @@
 {
   "code": "RTACU",
   "ticker": "RTACU",
-  "last_updated": "2026-09-03 12:13:42",
+  "last_updated": "2026-09-04 12:13:30",
   "period": "5y",
-  "data_points": 325,
+  "data_points": 327,
   "data": [
     {
       "date": "2025-05-16",
@@ -2582,6 +2582,14 @@
       "volume": 0
     },
     {
+      "date": "2026-08-28",
+      "open": 10.74,
+      "high": 10.74,
+      "low": 10.7,
+      "close": 10.74,
+      "volume": 5200
+    },
+    {
       "date": "2026-08-31",
       "open": 10.74,
       "high": 10.77,
@@ -2604,6 +2612,14 @@
       "low": 10.74,
       "close": 10.74,
       "volume": 0
+    },
+    {
+      "date": "2026-09-03",
+      "open": 10.83,
+      "high": 10.9,
+      "low": 10.83,
+      "close": 10.9,
+      "volume": 3600
     }
   ]
 }

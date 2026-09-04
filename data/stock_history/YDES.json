@@ -1,9 +1,9 @@
 {
   "code": "YDES",
   "ticker": "YDES",
-  "last_updated": "2026-09-03 12:35:50",
+  "last_updated": "2026-09-04 12:35:37",
   "period": "5y",
-  "data_points": 256,
+  "data_points": 258,
   "data": [
     {
       "date": "2025-08-26",
@@ -2030,6 +2030,14 @@
       "volume": 27100
     },
     {
+      "date": "2026-08-28",
+      "open": 3.94,
+      "high": 4.8,
+      "low": 3.09,
+      "close": 4.8,
+      "volume": 217800
+    },
+    {
       "date": "2026-08-31",
       "open": 4.87,
       "high": 4.87,
@@ -2052,6 +2060,14 @@
       "low": 3.5,
       "close": 3.76,
       "volume": 567600
+    },
+    {
+      "date": "2026-09-03",
+      "open": 3.64,
+      "high": 4.05,
+      "low": 3.21,
+      "close": 3.67,
+      "volume": 672100
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SBMT",
   "ticker": "SBMT",
-  "last_updated": "2026-09-03 12:15:22",
+  "last_updated": "2026-09-04 12:15:10",
   "period": "5y",
-  "data_points": 86,
+  "data_points": 88,
   "data": [
     {
       "date": "2026-04-30",
@@ -670,6 +670,14 @@
       "volume": 53100
     },
     {
+      "date": "2026-08-28",
+      "open": 9.07,
+      "high": 9.1,
+      "low": 8.43,
+      "close": 8.7,
+      "volume": 101100
+    },
+    {
       "date": "2026-08-31",
       "open": 8.54,
       "high": 8.88,
@@ -692,6 +700,14 @@
       "low": 8.58,
       "close": 8.6,
       "volume": 116000
+    },
+    {
+      "date": "2026-09-03",
+      "open": 8.85,
+      "high": 8.85,
+      "low": 8.48,
+      "close": 8.53,
+      "volume": 40000
     }
   ]
 }

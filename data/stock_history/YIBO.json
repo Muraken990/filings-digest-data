@@ -1,9 +1,9 @@
 {
   "code": "YIBO",
   "ticker": "YIBO",
-  "last_updated": "2026-09-03 12:35:51",
+  "last_updated": "2026-09-04 12:35:38",
   "period": "5y",
-  "data_points": 653,
+  "data_points": 655,
   "data": [
     {
       "date": "2024-01-25",
@@ -5206,6 +5206,14 @@
       "volume": 400
     },
     {
+      "date": "2026-08-28",
+      "open": 1.22,
+      "high": 1.31,
+      "low": 1.22,
+      "close": 1.28,
+      "volume": 1900
+    },
+    {
       "date": "2026-08-31",
       "open": 1.21,
       "high": 1.33,
@@ -5228,6 +5236,14 @@
       "low": 1.24,
       "close": 1.24,
       "volume": 700
+    },
+    {
+      "date": "2026-09-03",
+      "open": 1.24,
+      "high": 1.24,
+      "low": 1.24,
+      "close": 1.24,
+      "volume": 0
     }
   ]
 }

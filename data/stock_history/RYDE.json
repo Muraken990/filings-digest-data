@@ -1,9 +1,9 @@
 {
   "code": "RYDE",
   "ticker": "RYDE",
-  "last_updated": "2026-09-03 12:14:31",
+  "last_updated": "2026-09-04 12:14:19",
   "period": "5y",
-  "data_points": 625,
+  "data_points": 627,
   "data": [
     {
       "date": "2024-03-06",
@@ -4982,6 +4982,14 @@
       "volume": 52900
     },
     {
+      "date": "2026-08-28",
+      "open": 0.64,
+      "high": 0.7,
+      "low": 0.64,
+      "close": 0.67,
+      "volume": 87600
+    },
+    {
       "date": "2026-08-31",
       "open": 0.68,
       "high": 0.68,
@@ -5004,6 +5012,14 @@
       "low": 0.68,
       "close": 0.71,
       "volume": 37400
+    },
+    {
+      "date": "2026-09-03",
+      "open": 0.7,
+      "high": 0.72,
+      "low": 0.68,
+      "close": 0.72,
+      "volume": 32600
     }
   ]
 }

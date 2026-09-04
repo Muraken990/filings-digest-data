@@ -1,9 +1,9 @@
 {
   "code": "SCCG",
   "ticker": "SCCG",
-  "last_updated": "2026-09-03 12:15:24",
+  "last_updated": "2026-09-04 12:15:12",
   "period": "5y",
-  "data_points": 1008,
+  "data_points": 1010,
   "data": [
     {
       "date": "2022-08-25",
@@ -8046,6 +8046,14 @@
       "volume": 900
     },
     {
+      "date": "2026-08-28",
+      "open": 24.77,
+      "high": 24.85,
+      "low": 24.7,
+      "close": 24.85,
+      "volume": 1100
+    },
+    {
       "date": "2026-08-31",
       "open": 24.71,
       "high": 24.85,
@@ -8068,6 +8076,14 @@
       "low": 24.7,
       "close": 24.7,
       "volume": 300
+    },
+    {
+      "date": "2026-09-03",
+      "open": 24.7,
+      "high": 24.7,
+      "low": 24.7,
+      "close": 24.7,
+      "volume": 0
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "SLNHP",
   "ticker": "SLNHP",
-  "last_updated": "2026-09-03 12:17:58",
+  "last_updated": "2026-09-04 12:17:47",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-03",
-      "open": 21.68,
-      "high": 21.69,
-      "low": 21.45,
-      "close": 21.6,
-      "volume": 20200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-07",
@@ -10006,6 +10006,14 @@
       "volume": 12300
     },
     {
+      "date": "2026-08-28",
+      "open": 12.25,
+      "high": 12.25,
+      "low": 11.89,
+      "close": 12.12,
+      "volume": 6700
+    },
+    {
       "date": "2026-08-31",
       "open": 12.0,
       "high": 12.53,
@@ -10028,6 +10036,14 @@
       "low": 12.25,
       "close": 12.25,
       "volume": 900
+    },
+    {
+      "date": "2026-09-03",
+      "open": 12.2,
+      "high": 12.55,
+      "low": 11.9,
+      "close": 12.5,
+      "volume": 12000
     }
   ]
 }

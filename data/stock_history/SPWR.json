@@ -1,9 +1,9 @@
 {
   "code": "SPWR",
   "ticker": "SPWR",
-  "last_updated": "2026-09-03 12:20:28",
+  "last_updated": "2026-09-04 12:20:16",
   "period": "5y",
-  "data_points": 919,
+  "data_points": 921,
   "data": [
     {
       "date": "2023-01-03",
@@ -7334,6 +7334,14 @@
       "volume": 1959900
     },
     {
+      "date": "2026-08-28",
+      "open": 0.3,
+      "high": 0.3,
+      "low": 0.28,
+      "close": 0.29,
+      "volume": 1510900
+    },
+    {
       "date": "2026-08-31",
       "open": 0.3,
       "high": 0.3,
@@ -7355,7 +7363,15 @@
       "high": 0.27,
       "low": 0.25,
       "close": 0.25,
-      "volume": 4417900
+      "volume": 4428600
+    },
+    {
+      "date": "2026-09-03",
+      "open": 0.28,
+      "high": 0.46,
+      "low": 0.26,
+      "close": 0.4,
+      "volume": 290833400
     }
   ]
 }

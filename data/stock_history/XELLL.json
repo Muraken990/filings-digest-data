@@ -1,9 +1,9 @@
 {
   "code": "XELLL",
   "ticker": "XELLL",
-  "last_updated": "2026-09-03 12:34:59",
+  "last_updated": "2026-09-04 12:34:46",
   "period": "5y",
-  "data_points": 226,
+  "data_points": 228,
   "data": [
     {
       "date": "2025-10-08",
@@ -1790,6 +1790,14 @@
       "volume": 54000
     },
     {
+      "date": "2026-08-28",
+      "open": 22.55,
+      "high": 22.67,
+      "low": 22.49,
+      "close": 22.5,
+      "volume": 75400
+    },
+    {
       "date": "2026-08-31",
       "open": 22.58,
       "high": 22.58,
@@ -1812,6 +1820,14 @@
       "low": 22.44,
       "close": 22.5,
       "volume": 68600
+    },
+    {
+      "date": "2026-09-03",
+      "open": 22.43,
+      "high": 22.55,
+      "low": 22.3,
+      "close": 22.3,
+      "volume": 64400
     }
   ]
 }

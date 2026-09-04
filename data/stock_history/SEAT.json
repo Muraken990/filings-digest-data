@@ -1,9 +1,9 @@
 {
   "code": "SEAT",
   "ticker": "SEAT",
-  "last_updated": "2026-09-03 12:16:13",
+  "last_updated": "2026-09-04 12:16:01",
   "period": "5y",
-  "data_points": 1221,
+  "data_points": 1223,
   "data": [
     {
       "date": "2021-10-20",
@@ -9750,6 +9750,14 @@
       "volume": 86200
     },
     {
+      "date": "2026-08-28",
+      "open": 6.22,
+      "high": 6.39,
+      "low": 5.92,
+      "close": 6.02,
+      "volume": 110700
+    },
+    {
       "date": "2026-08-31",
       "open": 5.99,
       "high": 6.02,
@@ -9772,6 +9780,14 @@
       "low": 6.04,
       "close": 6.12,
       "volume": 31100
+    },
+    {
+      "date": "2026-09-03",
+      "open": 6.28,
+      "high": 6.3,
+      "low": 5.84,
+      "close": 5.92,
+      "volume": 43500
     }
   ]
 }

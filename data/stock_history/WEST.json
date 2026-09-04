@@ -1,9 +1,9 @@
 {
   "code": "WEST",
   "ticker": "WEST",
-  "last_updated": "2026-09-03 12:33:14",
+  "last_updated": "2026-09-04 12:33:01",
   "period": "5y",
-  "data_points": 1221,
+  "data_points": 1223,
   "data": [
     {
       "date": "2021-10-20",
@@ -9750,6 +9750,14 @@
       "volume": 364300
     },
     {
+      "date": "2026-08-28",
+      "open": 8.1,
+      "high": 8.28,
+      "low": 7.91,
+      "close": 8.0,
+      "volume": 318800
+    },
+    {
       "date": "2026-08-31",
       "open": 8.0,
       "high": 8.04,
@@ -9772,6 +9780,14 @@
       "low": 7.73,
       "close": 7.84,
       "volume": 212800
+    },
+    {
+      "date": "2026-09-03",
+      "open": 8.14,
+      "high": 8.14,
+      "low": 7.59,
+      "close": 7.68,
+      "volume": 235200
     }
   ]
 }

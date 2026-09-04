@@ -1,9 +1,9 @@
 {
   "code": "PMAX",
   "ticker": "PMAX",
-  "last_updated": "2026-09-03 12:06:53",
+  "last_updated": "2026-09-04 12:06:42",
   "period": "5y",
-  "data_points": 499,
+  "data_points": 501,
   "data": [
     {
       "date": "2024-09-05",
@@ -3974,6 +3974,14 @@
       "volume": 17700
     },
     {
+      "date": "2026-08-28",
+      "open": 1.11,
+      "high": 1.12,
+      "low": 1.04,
+      "close": 1.06,
+      "volume": 42400
+    },
+    {
       "date": "2026-08-31",
       "open": 1.03,
       "high": 1.05,
@@ -3996,6 +4004,14 @@
       "low": 0.75,
       "close": 0.87,
       "volume": 55000
+    },
+    {
+      "date": "2026-09-03",
+      "open": 0.9,
+      "high": 0.9,
+      "low": 0.83,
+      "close": 0.86,
+      "volume": 20400
     }
   ]
 }

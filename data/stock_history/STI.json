@@ -1,9 +1,9 @@
 {
   "code": "STI",
   "ticker": "STI",
-  "last_updated": "2026-09-03 12:21:20",
+  "last_updated": "2026-09-04 12:21:09",
   "period": "5y",
-  "data_points": 1088,
+  "data_points": 1090,
   "data": [
     {
       "date": "2022-05-02",
@@ -8686,6 +8686,14 @@
       "volume": 84100
     },
     {
+      "date": "2026-08-28",
+      "open": 7.62,
+      "high": 7.79,
+      "low": 7.5,
+      "close": 7.55,
+      "volume": 47900
+    },
+    {
       "date": "2026-08-31",
       "open": 7.49,
       "high": 7.87,
@@ -8708,6 +8716,14 @@
       "low": 7.42,
       "close": 7.59,
       "volume": 35200
+    },
+    {
+      "date": "2026-09-03",
+      "open": 7.65,
+      "high": 7.82,
+      "low": 7.48,
+      "close": 7.5,
+      "volume": 36600
     }
   ]
 }
