@@ -1,9 +1,9 @@
 {
   "code": "IRAB",
   "ticker": "IRAB",
-  "last_updated": "2026-09-04 09:47:59",
+  "last_updated": "2026-09-05 09:48:18",
   "period": "5y",
-  "data_points": 134,
+  "data_points": 135,
   "data": [
     {
       "date": "2026-02-24",
@@ -1076,6 +1076,14 @@
       "low": 10.01,
       "close": 10.02,
       "volume": 50200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.01,
+      "high": 10.01,
+      "low": 10.01,
+      "close": 10.01,
+      "volume": 3000
     }
   ]
 }
