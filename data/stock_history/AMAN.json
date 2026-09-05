@@ -1,9 +1,9 @@
 {
   "code": "AMAN",
   "ticker": "AMAN",
-  "last_updated": "2026-09-04 07:11:28",
+  "last_updated": "2026-09-05 07:08:58",
   "period": "5y",
-  "data_points": 75,
+  "data_points": 76,
   "data": [
     {
       "date": "2026-05-19",
@@ -599,11 +599,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 956
+      "open": 10.68,
+      "high": 10.72,
+      "low": 10.68,
+      "close": 10.72,
+      "volume": 1000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.7,
+      "high": 10.75,
+      "low": 10.68,
+      "close": 10.73,
+      "volume": 1300
     }
   ]
 }

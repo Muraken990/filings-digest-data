@@ -1,9 +1,9 @@
 {
   "code": "AIRT",
   "ticker": "AIRT",
-  "last_updated": "2026-09-04 07:10:33",
+  "last_updated": "2026-09-05 07:08:04",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 44956
+      "open": 32.64,
+      "high": 33.42,
+      "low": 31.49,
+      "close": 32.95,
+      "volume": 45100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 33.13,
+      "high": 33.75,
+      "low": 31.75,
+      "close": 31.75,
+      "volume": 38200
     }
   ]
 }

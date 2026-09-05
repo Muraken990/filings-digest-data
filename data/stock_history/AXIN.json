@@ -1,9 +1,9 @@
 {
   "code": "AXIN",
   "ticker": "AXIN",
-  "last_updated": "2026-09-04 07:16:34",
+  "last_updated": "2026-09-05 07:14:03",
   "period": "5y",
-  "data_points": 275,
+  "data_points": 276,
   "data": [
     {
       "date": "2025-08-01",
@@ -2199,11 +2199,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 29805
+      "open": 10.33,
+      "high": 10.34,
+      "low": 10.32,
+      "close": 10.33,
+      "volume": 30700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.33,
+      "high": 10.33,
+      "low": 10.33,
+      "close": 10.33,
+      "volume": 13200
     }
   ]
 }

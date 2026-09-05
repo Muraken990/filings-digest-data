@@ -1,9 +1,9 @@
 {
   "code": "ARLO",
   "ticker": "ARLO",
-  "last_updated": "2026-09-04 07:14:01",
+  "last_updated": "2026-09-05 07:11:31",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1352293
+      "open": 13.2,
+      "high": 13.5,
+      "low": 13.0,
+      "close": 13.48,
+      "volume": 1352300
+    },
+    {
+      "date": "2026-09-04",
+      "open": 13.43,
+      "high": 13.97,
+      "low": 13.17,
+      "close": 13.97,
+      "volume": 1469200
     }
   ]
 }

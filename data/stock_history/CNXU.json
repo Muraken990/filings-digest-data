@@ -1,9 +1,9 @@
 {
   "code": "CNXU",
   "ticker": "CNXU",
-  "last_updated": "2026-09-04 07:29:23",
+  "last_updated": "2026-09-05 07:26:45",
   "period": "5y",
-  "data_points": 73,
+  "data_points": 74,
   "data": [
     {
       "date": "2026-05-21",
@@ -583,11 +583,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 305002
+      "open": 5.49,
+      "high": 5.79,
+      "low": 5.2,
+      "close": 5.27,
+      "volume": 305000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 5.26,
+      "high": 5.58,
+      "low": 4.85,
+      "close": 4.97,
+      "volume": 249500
     }
   ]
 }

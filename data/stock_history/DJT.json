@@ -1,9 +1,9 @@
 {
   "code": "DJT",
   "ticker": "DJT",
-  "last_updated": "2026-09-04 07:34:31",
+  "last_updated": "2026-09-05 07:31:51",
   "period": "5y",
-  "data_points": 1237,
+  "data_points": 1238,
   "data": [
     {
       "date": "2021-09-30",
@@ -9895,11 +9895,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3703504
+      "open": 9.31,
+      "high": 9.68,
+      "low": 9.31,
+      "close": 9.52,
+      "volume": 3729800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 9.37,
+      "high": 9.44,
+      "low": 8.97,
+      "close": 9.02,
+      "volume": 4452100
     }
   ]
 }

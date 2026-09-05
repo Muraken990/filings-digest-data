@@ -1,9 +1,9 @@
 {
   "code": "DCX",
   "ticker": "DCX",
-  "last_updated": "2026-09-04 07:33:39",
+  "last_updated": "2026-09-05 07:30:59",
   "period": "5y",
-  "data_points": 1168,
+  "data_points": 1169,
   "data": [
     {
       "date": "2022-01-07",
@@ -9343,11 +9343,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 47397
+      "open": 0.72,
+      "high": 0.72,
+      "low": 0.65,
+      "close": 0.65,
+      "volume": 49100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 0.65,
+      "high": 0.67,
+      "low": 0.57,
+      "close": 0.57,
+      "volume": 98500
     }
   ]
 }

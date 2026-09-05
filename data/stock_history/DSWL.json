@@ -1,9 +1,9 @@
 {
   "code": "DSWL",
   "ticker": "DSWL",
-  "last_updated": "2026-09-04 07:36:11",
+  "last_updated": "2026-09-05 07:33:30",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5137
+      "open": 3.13,
+      "high": 3.13,
+      "low": 3.02,
+      "close": 3.08,
+      "volume": 5200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 3.04,
+      "high": 3.17,
+      "low": 3.04,
+      "close": 3.1,
+      "volume": 3400
     }
   ]
 }

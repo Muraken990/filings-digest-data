@@ -1,9 +1,9 @@
 {
   "code": "BWIV",
   "ticker": "BWIV",
-  "last_updated": "2026-09-04 07:23:23",
+  "last_updated": "2026-09-05 07:20:48",
   "period": "5y",
-  "data_points": 81,
+  "data_points": 82,
   "data": [
     {
       "date": "2026-05-11",
@@ -647,11 +647,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 110
+      "open": 9.91,
+      "high": 9.91,
+      "low": 9.91,
+      "close": 9.91,
+      "volume": 100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 9.91,
+      "high": 9.91,
+      "low": 9.91,
+      "close": 9.91,
+      "volume": 800
     }
   ]
 }

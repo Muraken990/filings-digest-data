@@ -1,9 +1,9 @@
 {
   "code": "EWBC",
   "ticker": "EWBC",
-  "last_updated": "2026-09-04 07:41:18",
+  "last_updated": "2026-09-05 07:38:34",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -3183,7 +3183,7 @@
     },
     {
       "date": "2023-04-05",
-      "open": 47.17,
+      "open": 47.16,
       "high": 47.88,
       "low": 45.7,
       "close": 46.31,
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 693601
+      "open": 128.97,
+      "high": 130.82,
+      "low": 128.97,
+      "close": 130.61,
+      "volume": 693600
+    },
+    {
+      "date": "2026-09-04",
+      "open": 130.02,
+      "high": 131.26,
+      "low": 129.82,
+      "close": 130.77,
+      "volume": 443200
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "BFLY",
   "ticker": "BFLY",
-  "last_updated": "2026-09-04 07:19:06",
+  "last_updated": "2026-09-05 07:16:33",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3930699
+      "open": 7.69,
+      "high": 7.76,
+      "low": 7.23,
+      "close": 7.29,
+      "volume": 3931400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 7.28,
+      "high": 7.44,
+      "low": 7.24,
+      "close": 7.36,
+      "volume": 3049700
     }
   ]
 }

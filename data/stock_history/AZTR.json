@@ -1,9 +1,9 @@
 {
   "code": "AZTR",
   "ticker": "AZTR",
-  "last_updated": "2026-09-04 07:17:22",
+  "last_updated": "2026-09-05 07:14:50",
   "period": "5y",
-  "data_points": 807,
+  "data_points": 808,
   "data": [
     {
       "date": "2023-06-16",
@@ -6455,11 +6455,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 300369
+      "open": 0.18,
+      "high": 0.18,
+      "low": 0.17,
+      "close": 0.18,
+      "volume": 300400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 0.18,
+      "high": 0.18,
+      "low": 0.17,
+      "close": 0.18,
+      "volume": 330300
     }
   ]
 }

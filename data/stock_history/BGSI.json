@@ -1,9 +1,9 @@
 {
   "code": "BGSI",
   "ticker": "BGSI",
-  "last_updated": "2026-09-04 07:19:08",
+  "last_updated": "2026-09-05 07:16:35",
   "period": "5y",
-  "data_points": 210,
+  "data_points": 211,
   "data": [
     {
       "date": "2025-11-03",
@@ -1679,11 +1679,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 63498
+      "open": 86.23,
+      "high": 91.17,
+      "low": 86.19,
+      "close": 90.21,
+      "volume": 63500
+    },
+    {
+      "date": "2026-09-04",
+      "open": 88.59,
+      "high": 91.28,
+      "low": 88.59,
+      "close": 90.47,
+      "volume": 36900
     }
   ]
 }

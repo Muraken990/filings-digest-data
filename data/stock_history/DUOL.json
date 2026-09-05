@@ -1,9 +1,9 @@
 {
   "code": "DUOL",
   "ticker": "DUOL",
-  "last_updated": "2026-09-04 07:36:13",
+  "last_updated": "2026-09-05 07:33:32",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1441792
+      "open": 161.54,
+      "high": 167.38,
+      "low": 155.03,
+      "close": 158.82,
+      "volume": 1442000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 157.46,
+      "high": 158.31,
+      "low": 153.0,
+      "close": 154.46,
+      "volume": 1055900
     }
   ]
 }

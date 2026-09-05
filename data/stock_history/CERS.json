@@ -1,9 +1,9 @@
 {
   "code": "CERS",
   "ticker": "CERS",
-  "last_updated": "2026-09-04 07:25:59",
+  "last_updated": "2026-09-05 07:23:22",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 917039
+      "open": 2.64,
+      "high": 2.67,
+      "low": 2.52,
+      "close": 2.57,
+      "volume": 917100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 2.56,
+      "high": 2.6,
+      "low": 2.54,
+      "close": 2.59,
+      "volume": 1102500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "EFSI",
   "ticker": "EFSI",
-  "last_updated": "2026-09-04 07:37:53",
+  "last_updated": "2026-09-05 07:35:11",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 44664
+      "open": 41.6,
+      "high": 42.09,
+      "low": 41.37,
+      "close": 41.52,
+      "volume": 44700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 41.25,
+      "high": 42.24,
+      "low": 41.25,
+      "close": 41.9,
+      "volume": 44100
     }
   ]
 }

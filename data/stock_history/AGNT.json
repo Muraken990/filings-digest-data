@@ -1,9 +1,9 @@
 {
   "code": "AGNT",
   "ticker": "AGNT",
-  "last_updated": "2026-09-04 07:09:43",
+  "last_updated": "2026-09-05 07:07:15",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1239055
+      "open": 4.07,
+      "high": 4.16,
+      "low": 3.98,
+      "close": 4.04,
+      "volume": 1239100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 4.04,
+      "high": 4.11,
+      "low": 3.94,
+      "close": 4.03,
+      "volume": 1122000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CDIO",
   "ticker": "CDIO",
-  "last_updated": "2026-09-04 07:25:55",
+  "last_updated": "2026-09-05 07:23:19",
   "period": "5y",
-  "data_points": 1163,
+  "data_points": 1164,
   "data": [
     {
       "date": "2022-01-14",
@@ -9303,11 +9303,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 89780
+      "open": 1.85,
+      "high": 1.92,
+      "low": 1.83,
+      "close": 1.83,
+      "volume": 89800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.85,
+      "high": 1.86,
+      "low": 1.82,
+      "close": 1.86,
+      "volume": 10300
     }
   ]
 }

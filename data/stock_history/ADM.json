@@ -1,9 +1,9 @@
 {
   "code": "ADM",
   "ticker": "ADM",
-  "last_updated": "2026-09-04 07:08:48",
+  "last_updated": "2026-09-05 07:06:21",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2601717
+      "open": 85.3,
+      "high": 85.64,
+      "low": 83.23,
+      "close": 84.38,
+      "volume": 2604000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 83.67,
+      "high": 85.05,
+      "low": 83.01,
+      "close": 84.61,
+      "volume": 2362900
     }
   ]
 }

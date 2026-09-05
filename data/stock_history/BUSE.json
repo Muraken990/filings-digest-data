@@ -1,9 +1,9 @@
 {
   "code": "BUSE",
   "ticker": "BUSE",
-  "last_updated": "2026-09-04 07:23:21",
+  "last_updated": "2026-09-05 07:20:47",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 648234
+      "open": 30.65,
+      "high": 30.93,
+      "low": 30.59,
+      "close": 30.68,
+      "volume": 648200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 30.55,
+      "high": 30.86,
+      "low": 30.55,
+      "close": 30.66,
+      "volume": 633300
     }
   ]
 }

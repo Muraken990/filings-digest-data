@@ -1,9 +1,9 @@
 {
   "code": "BENF",
   "ticker": "BENF",
-  "last_updated": "2026-09-04 07:19:05",
+  "last_updated": "2026-09-05 07:16:32",
   "period": "5y",
-  "data_points": 1192,
+  "data_points": 1193,
   "data": [
     {
       "date": "2021-12-03",
@@ -9535,11 +9535,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4141
+      "open": 2.16,
+      "high": 2.16,
+      "low": 2.06,
+      "close": 2.15,
+      "volume": 4100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 2.2,
+      "high": 2.35,
+      "low": 2.12,
+      "close": 2.33,
+      "volume": 19900
     }
   ]
 }

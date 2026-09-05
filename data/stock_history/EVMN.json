@@ -1,9 +1,9 @@
 {
   "code": "EVMN",
   "ticker": "EVMN",
-  "last_updated": "2026-09-04 07:40:31",
+  "last_updated": "2026-09-05 07:37:47",
   "period": "5y",
-  "data_points": 207,
+  "data_points": 208,
   "data": [
     {
       "date": "2025-11-06",
@@ -1655,11 +1655,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 594234
+      "open": 12.7,
+      "high": 12.7,
+      "low": 11.7,
+      "close": 12.0,
+      "volume": 594200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 11.87,
+      "high": 12.45,
+      "low": 11.87,
+      "close": 12.27,
+      "volume": 249100
     }
   ]
 }

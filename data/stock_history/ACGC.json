@@ -1,9 +1,9 @@
 {
   "code": "ACGC",
   "ticker": "ACGC",
-  "last_updated": "2026-09-04 07:07:57",
+  "last_updated": "2026-09-05 07:05:30",
   "period": "5y",
-  "data_points": 69,
+  "data_points": 70,
   "data": [
     {
       "date": "2026-05-28",
@@ -551,11 +551,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 50006
+      "open": 10.02,
+      "high": 10.02,
+      "low": 10.02,
+      "close": 10.02,
+      "volume": 50000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.02,
+      "high": 10.02,
+      "low": 10.02,
+      "close": 10.02,
+      "volume": 0
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "FEAM",
   "ticker": "FEAM",
-  "last_updated": "2026-09-04 07:42:13",
+  "last_updated": "2026-09-05 07:39:28",
   "period": "5y",
-  "data_points": 1123,
+  "data_points": 1124,
   "data": [
     {
       "date": "2022-03-15",
@@ -8983,11 +8983,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 91246
+      "open": 1.6,
+      "high": 1.65,
+      "low": 1.55,
+      "close": 1.58,
+      "volume": 91200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.58,
+      "high": 1.6,
+      "low": 1.55,
+      "close": 1.56,
+      "volume": 101200
     }
   ]
 }

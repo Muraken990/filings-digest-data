@@ -1,9 +1,9 @@
 {
   "code": "FRVO",
   "ticker": "FRVO",
-  "last_updated": "2026-09-04 07:44:46",
+  "last_updated": "2026-09-05 07:42:01",
   "period": "5y",
-  "data_points": 79,
+  "data_points": 80,
   "data": [
     {
       "date": "2026-05-13",
@@ -631,11 +631,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8542351
+      "open": 18.28,
+      "high": 18.48,
+      "low": 16.8,
+      "close": 17.16,
+      "volume": 8563700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 17.27,
+      "high": 18.58,
+      "low": 17.1,
+      "close": 18.16,
+      "volume": 7786500
     }
   ]
 }

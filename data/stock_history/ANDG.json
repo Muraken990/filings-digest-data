@@ -1,9 +1,9 @@
 {
   "code": "ANDG",
   "ticker": "ANDG",
-  "last_updated": "2026-09-04 07:12:20",
+  "last_updated": "2026-09-05 07:09:51",
   "period": "5y",
-  "data_points": 179,
+  "data_points": 180,
   "data": [
     {
       "date": "2025-12-17",
@@ -1431,11 +1431,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 171082
+      "open": 56.2,
+      "high": 57.62,
+      "low": 56.2,
+      "close": 57.45,
+      "volume": 171100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 56.96,
+      "high": 57.45,
+      "low": 55.89,
+      "close": 56.26,
+      "volume": 762600
     }
   ]
 }

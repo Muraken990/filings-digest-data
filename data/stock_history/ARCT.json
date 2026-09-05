@@ -1,9 +1,9 @@
 {
   "code": "ARCT",
   "ticker": "ARCT",
-  "last_updated": "2026-09-04 07:14:00",
+  "last_updated": "2026-09-05 07:11:29",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 848134
+      "open": 16.77,
+      "high": 16.99,
+      "low": 15.34,
+      "close": 15.56,
+      "volume": 848200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 15.61,
+      "high": 16.02,
+      "low": 15.4,
+      "close": 15.82,
+      "volume": 534500
     }
   ]
 }

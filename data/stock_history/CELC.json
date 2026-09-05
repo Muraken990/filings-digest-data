@@ -1,9 +1,9 @@
 {
   "code": "CELC",
   "ticker": "CELC",
-  "last_updated": "2026-09-04 07:25:58",
+  "last_updated": "2026-09-05 07:23:21",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 773227
+      "open": 97.11,
+      "high": 98.0,
+      "low": 94.92,
+      "close": 96.43,
+      "volume": 773200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 95.83,
+      "high": 97.25,
+      "low": 94.55,
+      "close": 95.7,
+      "volume": 515500
     }
   ]
 }

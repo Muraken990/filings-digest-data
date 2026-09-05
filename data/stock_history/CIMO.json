@@ -1,9 +1,9 @@
 {
   "code": "CIMO",
   "ticker": "CIMO",
-  "last_updated": "2026-09-04 07:27:39",
+  "last_updated": "2026-09-05 07:25:02",
   "period": "5y",
-  "data_points": 510,
+  "data_points": 511,
   "data": [
     {
       "date": "2024-08-22",
@@ -4079,11 +4079,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4127
+      "open": 25.31,
+      "high": 25.4,
+      "low": 25.31,
+      "close": 25.36,
+      "volume": 4200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 25.3,
+      "high": 25.39,
+      "low": 25.3,
+      "close": 25.35,
+      "volume": 2800
     }
   ]
 }

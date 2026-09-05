@@ -1,9 +1,9 @@
 {
   "code": "ENVX",
   "ticker": "ENVX",
-  "last_updated": "2026-09-04 07:38:50",
+  "last_updated": "2026-09-05 07:36:06",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4845221
+      "open": 3.34,
+      "high": 3.44,
+      "low": 3.32,
+      "close": 3.37,
+      "volume": 4845300
+    },
+    {
+      "date": "2026-09-04",
+      "open": 3.37,
+      "high": 3.49,
+      "low": 3.31,
+      "close": 3.32,
+      "volume": 4257300
     }
   ]
 }

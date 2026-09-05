@@ -1,9 +1,9 @@
 {
   "code": "ARCO",
   "ticker": "ARCO",
-  "last_updated": "2026-09-04 07:14:00",
+  "last_updated": "2026-09-05 07:11:29",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1304545
+      "open": 8.29,
+      "high": 8.34,
+      "low": 8.09,
+      "close": 8.25,
+      "volume": 1304500
+    },
+    {
+      "date": "2026-09-04",
+      "open": 8.19,
+      "high": 8.33,
+      "low": 8.14,
+      "close": 8.17,
+      "volume": 540600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CCSI",
   "ticker": "CCSI",
-  "last_updated": "2026-09-04 07:25:09",
+  "last_updated": "2026-09-05 07:22:33",
   "period": "5y",
-  "data_points": 1237,
+  "data_points": 1238,
   "data": [
     {
       "date": "2021-09-30",
@@ -9895,11 +9895,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 152608
+      "open": 34.18,
+      "high": 35.93,
+      "low": 34.18,
+      "close": 35.13,
+      "volume": 152600
+    },
+    {
+      "date": "2026-09-04",
+      "open": 34.75,
+      "high": 35.68,
+      "low": 34.3,
+      "close": 35.36,
+      "volume": 136400
     }
   ]
 }

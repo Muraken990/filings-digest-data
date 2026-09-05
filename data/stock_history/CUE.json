@@ -1,9 +1,9 @@
 {
   "code": "CUE",
   "ticker": "CUE",
-  "last_updated": "2026-09-04 07:31:57",
+  "last_updated": "2026-09-05 07:29:18",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 65682
+      "open": 26.6,
+      "high": 28.09,
+      "low": 26.6,
+      "close": 27.67,
+      "volume": 65700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 27.55,
+      "high": 27.95,
+      "low": 27.02,
+      "close": 27.44,
+      "volume": 50400
     }
   ]
 }

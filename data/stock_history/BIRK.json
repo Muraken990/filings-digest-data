@@ -1,9 +1,9 @@
 {
   "code": "BIRK",
   "ticker": "BIRK",
-  "last_updated": "2026-09-04 07:19:58",
+  "last_updated": "2026-09-05 07:17:25",
   "period": "5y",
-  "data_points": 727,
+  "data_points": 728,
   "data": [
     {
       "date": "2023-10-11",
@@ -5815,11 +5815,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2028191
+      "open": 33.98,
+      "high": 34.29,
+      "low": 33.64,
+      "close": 33.95,
+      "volume": 2028200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 33.7,
+      "high": 34.58,
+      "low": 33.54,
+      "close": 34.0,
+      "volume": 1689100
     }
   ]
 }

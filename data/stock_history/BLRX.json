@@ -1,9 +1,9 @@
 {
   "code": "BLRX",
   "ticker": "BLRX",
-  "last_updated": "2026-09-04 07:20:48",
+  "last_updated": "2026-09-05 07:18:15",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 22328
+      "open": 2.65,
+      "high": 2.75,
+      "low": 2.6,
+      "close": 2.69,
+      "volume": 22300
+    },
+    {
+      "date": "2026-09-04",
+      "open": 2.72,
+      "high": 2.72,
+      "low": 2.55,
+      "close": 2.67,
+      "volume": 27900
     }
   ]
 }

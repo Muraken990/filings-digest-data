@@ -1,9 +1,9 @@
 {
   "code": "CHCO",
   "ticker": "CHCO",
-  "last_updated": "2026-09-04 07:26:48",
+  "last_updated": "2026-09-05 07:24:11",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 64503
+      "open": 144.72,
+      "high": 145.9,
+      "low": 144.41,
+      "close": 144.95,
+      "volume": 64500
+    },
+    {
+      "date": "2026-09-04",
+      "open": 144.36,
+      "high": 146.45,
+      "low": 143.85,
+      "close": 145.57,
+      "volume": 85100
     }
   ]
 }

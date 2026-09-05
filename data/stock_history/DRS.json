@@ -1,9 +1,9 @@
 {
   "code": "DRS",
   "ticker": "DRS",
-  "last_updated": "2026-09-04 07:35:24",
+  "last_updated": "2026-09-05 07:32:43",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 619813
+      "open": 37.33,
+      "high": 38.0,
+      "low": 36.56,
+      "close": 37.02,
+      "volume": 619900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 37.01,
+      "high": 37.36,
+      "low": 36.35,
+      "close": 36.6,
+      "volume": 638600
     }
   ]
 }

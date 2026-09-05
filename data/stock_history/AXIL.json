@@ -1,9 +1,9 @@
 {
   "code": "AXIL",
   "ticker": "AXIL",
-  "last_updated": "2026-09-04 07:16:34",
+  "last_updated": "2026-09-05 07:14:03",
   "period": "5y",
-  "data_points": 641,
+  "data_points": 642,
   "data": [
     {
       "date": "2024-02-14",
@@ -5127,11 +5127,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 20380
+      "open": 6.7,
+      "high": 6.7,
+      "low": 6.4,
+      "close": 6.4,
+      "volume": 20400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 6.4,
+      "high": 6.55,
+      "low": 6.24,
+      "close": 6.24,
+      "volume": 18500
     }
   ]
 }

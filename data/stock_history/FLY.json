@@ -1,9 +1,9 @@
 {
   "code": "FLY",
   "ticker": "FLY",
-  "last_updated": "2026-09-04 07:43:52",
+  "last_updated": "2026-09-05 07:41:08",
   "period": "5y",
-  "data_points": 271,
+  "data_points": 272,
   "data": [
     {
       "date": "2025-08-07",
@@ -2167,11 +2167,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1818162
+      "open": 21.44,
+      "high": 21.65,
+      "low": 20.7,
+      "close": 21.06,
+      "volume": 1818200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 21.52,
+      "high": 21.97,
+      "low": 21.08,
+      "close": 21.67,
+      "volume": 1798500
     }
   ]
 }

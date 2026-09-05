@@ -1,9 +1,9 @@
 {
   "code": "DMO",
   "ticker": "DMO",
-  "last_updated": "2026-09-04 07:35:19",
+  "last_updated": "2026-09-05 07:32:39",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 53368
+      "open": 10.15,
+      "high": 10.2,
+      "low": 10.1,
+      "close": 10.13,
+      "volume": 53400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.14,
+      "high": 10.14,
+      "low": 10.06,
+      "close": 10.08,
+      "volume": 34500
     }
   ]
 }

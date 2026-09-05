@@ -1,9 +1,9 @@
 {
   "code": "ADUR",
   "ticker": "ADUR",
-  "last_updated": "2026-09-04 07:08:49",
+  "last_updated": "2026-09-05 07:06:22",
   "period": "5y",
-  "data_points": 515,
+  "data_points": 516,
   "data": [
     {
       "date": "2024-08-15",
@@ -4119,11 +4119,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 302522
+      "open": 14.04,
+      "high": 14.04,
+      "low": 13.52,
+      "close": 13.88,
+      "volume": 302600
+    },
+    {
+      "date": "2026-09-04",
+      "open": 13.8,
+      "high": 13.91,
+      "low": 13.38,
+      "close": 13.58,
+      "volume": 288300
     }
   ]
 }

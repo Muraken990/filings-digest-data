@@ -1,9 +1,9 @@
 {
   "code": "CRWS",
   "ticker": "CRWS",
-  "last_updated": "2026-09-04 07:31:06",
+  "last_updated": "2026-09-05 07:28:27",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 78386
+      "open": 2.77,
+      "high": 2.85,
+      "low": 2.74,
+      "close": 2.77,
+      "volume": 78400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 2.78,
+      "high": 2.83,
+      "low": 2.69,
+      "close": 2.72,
+      "volume": 40200
     }
   ]
 }

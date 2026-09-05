@@ -1,9 +1,9 @@
 {
   "code": "ADIL",
   "ticker": "ADIL",
-  "last_updated": "2026-09-04 07:08:48",
+  "last_updated": "2026-09-05 07:06:21",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 52770
+      "open": 6.32,
+      "high": 6.8,
+      "low": 6.25,
+      "close": 6.66,
+      "volume": 52800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 6.61,
+      "high": 7.2,
+      "low": 6.27,
+      "close": 7.12,
+      "volume": 50100
     }
   ]
 }

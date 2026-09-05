@@ -1,9 +1,9 @@
 {
   "code": "CRML",
   "ticker": "CRML",
-  "last_updated": "2026-09-04 07:31:04",
+  "last_updated": "2026-09-05 07:28:25",
   "period": "5y",
-  "data_points": 1148,
+  "data_points": 1149,
   "data": [
     {
       "date": "2022-02-07",
@@ -9183,11 +9183,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5049391
+      "open": 7.45,
+      "high": 7.65,
+      "low": 7.3,
+      "close": 7.36,
+      "volume": 5061900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 7.82,
+      "high": 7.82,
+      "low": 7.24,
+      "close": 7.28,
+      "volume": 6158900
     }
   ]
 }

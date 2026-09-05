@@ -1,9 +1,9 @@
 {
   "code": "CTRN",
   "ticker": "CTRN",
-  "last_updated": "2026-09-04 07:31:56",
+  "last_updated": "2026-09-05 07:29:17",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 86161
+      "open": 68.31,
+      "high": 69.39,
+      "low": 67.23,
+      "close": 69.14,
+      "volume": 86200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 69.14,
+      "high": 71.63,
+      "low": 69.14,
+      "close": 71.16,
+      "volume": 179700
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "AMBQ",
   "ticker": "AMBQ",
-  "last_updated": "2026-09-04 07:12:14",
+  "last_updated": "2026-09-05 07:09:45",
   "period": "5y",
-  "data_points": 277,
+  "data_points": 278,
   "data": [
     {
       "date": "2025-07-30",
@@ -2215,11 +2215,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 249629
+      "open": 56.98,
+      "high": 57.54,
+      "low": 54.87,
+      "close": 56.43,
+      "volume": 249600
+    },
+    {
+      "date": "2026-09-04",
+      "open": 57.67,
+      "high": 57.88,
+      "low": 56.62,
+      "close": 57.45,
+      "volume": 255000
     }
   ]
 }

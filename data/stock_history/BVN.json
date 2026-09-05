@@ -1,9 +1,9 @@
 {
   "code": "BVN",
   "ticker": "BVN",
-  "last_updated": "2026-09-04 07:23:22",
+  "last_updated": "2026-09-05 07:20:47",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 539975
+      "open": 35.17,
+      "high": 35.17,
+      "low": 34.52,
+      "close": 34.77,
+      "volume": 540000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 34.03,
+      "high": 34.36,
+      "low": 33.26,
+      "close": 33.9,
+      "volume": 397900
     }
   ]
 }

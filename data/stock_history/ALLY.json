@@ -1,9 +1,9 @@
 {
   "code": "ALLY",
   "ticker": "ALLY",
-  "last_updated": "2026-09-04 07:11:24",
+  "last_updated": "2026-09-05 07:08:55",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2710884
+      "open": 43.16,
+      "high": 43.63,
+      "low": 42.99,
+      "close": 43.59,
+      "volume": 2710900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 43.08,
+      "high": 43.92,
+      "low": 43.08,
+      "close": 43.73,
+      "volume": 1560300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "BL",
   "ticker": "BL",
-  "last_updated": "2026-09-04 07:20:01",
+  "last_updated": "2026-09-05 07:17:28",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1050836
+      "open": 32.92,
+      "high": 33.93,
+      "low": 32.78,
+      "close": 33.23,
+      "volume": 1050800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 33.18,
+      "high": 33.35,
+      "low": 32.09,
+      "close": 32.71,
+      "volume": 586500
     }
   ]
 }

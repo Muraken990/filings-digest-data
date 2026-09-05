@@ -1,9 +1,9 @@
 {
   "code": "ACI",
   "ticker": "ACI",
-  "last_updated": "2026-09-04 07:07:58",
+  "last_updated": "2026-09-05 07:05:31",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4371180
+      "open": 12.53,
+      "high": 12.69,
+      "low": 12.39,
+      "close": 12.59,
+      "volume": 4371200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 12.4,
+      "high": 12.64,
+      "low": 12.4,
+      "close": 12.55,
+      "volume": 4592700
     }
   ]
 }

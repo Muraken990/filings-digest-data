@@ -1,9 +1,9 @@
 {
   "code": "AZO",
   "ticker": "AZO",
-  "last_updated": "2026-09-04 07:17:21",
+  "last_updated": "2026-09-05 07:14:50",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 282789
+      "open": 2943.88,
+      "high": 2988.98,
+      "low": 2938.82,
+      "close": 2968.04,
+      "volume": 282800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 2950.0,
+      "high": 2987.66,
+      "low": 2934.77,
+      "close": 2983.29,
+      "volume": 402000
     }
   ]
 }

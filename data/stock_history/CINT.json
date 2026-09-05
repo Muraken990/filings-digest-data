@@ -1,9 +1,9 @@
 {
   "code": "CINT",
   "ticker": "CINT",
-  "last_updated": "2026-09-04 07:27:40",
+  "last_updated": "2026-09-05 07:25:02",
   "period": "5y",
-  "data_points": 1208,
+  "data_points": 1209,
   "data": [
     {
       "date": "2021-11-10",
@@ -9663,11 +9663,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 257554
+      "open": 3.52,
+      "high": 3.58,
+      "low": 3.35,
+      "close": 3.51,
+      "volume": 257600
+    },
+    {
+      "date": "2026-09-04",
+      "open": 3.49,
+      "high": 3.65,
+      "low": 3.44,
+      "close": 3.58,
+      "volume": 37500
     }
   ]
 }

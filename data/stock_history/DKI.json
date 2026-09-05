@@ -1,9 +1,9 @@
 {
   "code": "DKI",
   "ticker": "DKI",
-  "last_updated": "2026-09-04 07:34:31",
+  "last_updated": "2026-09-05 07:31:51",
   "period": "5y",
-  "data_points": 270,
+  "data_points": 271,
   "data": [
     {
       "date": "2025-08-08",
@@ -2159,11 +2159,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7147
+      "open": 2.93,
+      "high": 3.01,
+      "low": 2.82,
+      "close": 2.94,
+      "volume": 7100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 2.91,
+      "high": 3.09,
+      "low": 2.65,
+      "close": 2.88,
+      "volume": 35500
     }
   ]
 }

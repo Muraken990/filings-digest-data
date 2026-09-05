@@ -1,9 +1,9 @@
 {
   "code": "CHSCO",
   "ticker": "CHSCO",
-  "last_updated": "2026-09-04 07:26:51",
+  "last_updated": "2026-09-05 07:24:14",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 15145
+      "open": 26.0,
+      "high": 26.09,
+      "low": 25.84,
+      "close": 25.84,
+      "volume": 15200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 25.91,
+      "high": 26.0,
+      "low": 25.86,
+      "close": 25.92,
+      "volume": 7400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "COHR",
   "ticker": "COHR",
-  "last_updated": "2026-09-04 07:29:24",
+  "last_updated": "2026-09-05 07:26:47",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4210869
+      "open": 266.86,
+      "high": 268.65,
+      "low": 255.25,
+      "close": 264.41,
+      "volume": 4212500
+    },
+    {
+      "date": "2026-09-04",
+      "open": 269.69,
+      "high": 283.85,
+      "low": 264.1,
+      "close": 281.86,
+      "volume": 5035800
     }
   ]
 }

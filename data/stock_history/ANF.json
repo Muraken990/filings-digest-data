@@ -1,9 +1,9 @@
 {
   "code": "ANF",
   "ticker": "ANF",
-  "last_updated": "2026-09-04 07:12:20",
+  "last_updated": "2026-09-05 07:09:51",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1471633
+      "open": 137.7,
+      "high": 144.4,
+      "low": 136.61,
+      "close": 143.54,
+      "volume": 1471900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 144.89,
+      "high": 150.48,
+      "low": 142.74,
+      "close": 149.67,
+      "volume": 1455100
     }
   ]
 }

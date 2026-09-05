@@ -1,9 +1,9 @@
 {
   "code": "BSIN",
   "ticker": "BSIN",
-  "last_updated": "2026-09-04 07:22:31",
+  "last_updated": "2026-09-05 07:19:57",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 397844
+      "open": 1.54,
+      "high": 1.57,
+      "low": 1.52,
+      "close": 1.56,
+      "volume": 399900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.55,
+      "high": 1.55,
+      "low": 1.51,
+      "close": 1.54,
+      "volume": 301500
     }
   ]
 }

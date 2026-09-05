@@ -1,9 +1,9 @@
 {
   "code": "BRCB",
   "ticker": "BRCB",
-  "last_updated": "2026-09-04 07:21:43",
+  "last_updated": "2026-09-05 07:19:09",
   "period": "5y",
-  "data_points": 246,
+  "data_points": 247,
   "data": [
     {
       "date": "2025-09-12",
@@ -1967,11 +1967,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 382593
+      "open": 9.74,
+      "high": 9.8,
+      "low": 9.29,
+      "close": 9.4,
+      "volume": 382600
+    },
+    {
+      "date": "2026-09-04",
+      "open": 9.27,
+      "high": 9.75,
+      "low": 9.18,
+      "close": 9.58,
+      "volume": 329200
     }
   ]
 }

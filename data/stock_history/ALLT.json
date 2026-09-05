@@ -1,9 +1,9 @@
 {
   "code": "ALLT",
   "ticker": "ALLT",
-  "last_updated": "2026-09-04 07:11:24",
+  "last_updated": "2026-09-05 07:08:55",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 204448
+      "open": 7.61,
+      "high": 7.71,
+      "low": 7.49,
+      "close": 7.57,
+      "volume": 204400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 7.57,
+      "high": 7.67,
+      "low": 7.5,
+      "close": 7.64,
+      "volume": 143800
     }
   ]
 }

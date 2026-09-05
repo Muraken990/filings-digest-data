@@ -1,9 +1,9 @@
 {
   "code": "COLAU",
   "ticker": "COLAU",
-  "last_updated": "2026-09-04 07:29:25",
+  "last_updated": "2026-09-05 07:26:47",
   "period": "5y",
-  "data_points": 406,
+  "data_points": 407,
   "data": [
     {
       "date": "2025-01-23",
@@ -3247,11 +3247,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 727
+      "open": 10.85,
+      "high": 10.9,
+      "low": 10.84,
+      "close": 10.85,
+      "volume": 700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.83,
+      "high": 10.83,
+      "low": 10.8,
+      "close": 10.8,
+      "volume": 300
     }
   ]
 }

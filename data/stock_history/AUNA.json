@@ -1,9 +1,9 @@
 {
   "code": "AUNA",
   "ticker": "AUNA",
-  "last_updated": "2026-09-04 07:15:44",
+  "last_updated": "2026-09-05 07:13:12",
   "period": "5y",
-  "data_points": 615,
+  "data_points": 616,
   "data": [
     {
       "date": "2024-03-22",
@@ -4919,11 +4919,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 115172
+      "open": 5.23,
+      "high": 5.43,
+      "low": 5.22,
+      "close": 5.39,
+      "volume": 115200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 5.36,
+      "high": 5.36,
+      "low": 5.25,
+      "close": 5.28,
+      "volume": 85300
     }
   ]
 }

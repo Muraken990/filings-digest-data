@@ -1,9 +1,9 @@
 {
   "code": "DYNC",
   "ticker": "DYNC",
-  "last_updated": "2026-09-04 07:36:16",
+  "last_updated": "2026-09-05 07:33:34",
   "period": "5y",
-  "data_points": 435,
+  "data_points": 436,
   "data": [
     {
       "date": "2024-12-09",
@@ -3479,11 +3479,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 147181
+      "open": 10.88,
+      "high": 10.89,
+      "low": 10.85,
+      "close": 10.88,
+      "volume": 147700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.86,
+      "high": 10.88,
+      "low": 10.86,
+      "close": 10.87,
+      "volume": 30900
     }
   ]
 }

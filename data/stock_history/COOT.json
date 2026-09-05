@@ -1,9 +1,9 @@
 {
   "code": "COOT",
   "ticker": "COOT",
-  "last_updated": "2026-09-04 07:30:11",
+  "last_updated": "2026-09-05 07:27:33",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 297083
+      "open": 0.52,
+      "high": 0.62,
+      "low": 0.52,
+      "close": 0.54,
+      "volume": 297100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 0.56,
+      "high": 0.56,
+      "low": 0.5,
+      "close": 0.53,
+      "volume": 149400
     }
   ]
 }

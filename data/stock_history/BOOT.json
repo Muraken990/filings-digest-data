@@ -1,9 +1,9 @@
 {
   "code": "BOOT",
   "ticker": "BOOT",
-  "last_updated": "2026-09-04 07:21:40",
+  "last_updated": "2026-09-05 07:19:07",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 394806
+      "open": 150.3,
+      "high": 151.09,
+      "low": 146.27,
+      "close": 147.36,
+      "volume": 394800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 147.11,
+      "high": 155.03,
+      "low": 147.11,
+      "close": 154.29,
+      "volume": 464000
     }
   ]
 }

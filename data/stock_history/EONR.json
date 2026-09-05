@@ -1,9 +1,9 @@
 {
   "code": "EONR",
   "ticker": "EONR",
-  "last_updated": "2026-09-04 07:39:36",
+  "last_updated": "2026-09-05 07:36:52",
   "period": "5y",
-  "data_points": 1107,
+  "data_points": 1108,
   "data": [
     {
       "date": "2022-04-06",
@@ -8855,11 +8855,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 470847
+      "open": 0.56,
+      "high": 0.58,
+      "low": 0.55,
+      "close": 0.57,
+      "volume": 482300
+    },
+    {
+      "date": "2026-09-04",
+      "open": 0.56,
+      "high": 0.58,
+      "low": 0.54,
+      "close": 0.56,
+      "volume": 201000
     }
   ]
 }

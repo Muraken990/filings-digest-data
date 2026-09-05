@@ -1,9 +1,9 @@
 {
   "code": "ABXL",
   "ticker": "ABXL",
-  "last_updated": "2026-09-04 07:07:11",
+  "last_updated": "2026-09-05 07:04:44",
   "period": "5y",
-  "data_points": 696,
+  "data_points": 697,
   "data": [
     {
       "date": "2023-11-24",
@@ -1023,8 +1023,8 @@
     },
     {
       "date": "2024-05-29",
-      "open": 21.22,
-      "high": 21.22,
+      "open": 21.21,
+      "high": 21.21,
       "low": 20.93,
       "close": 20.93,
       "volume": 4200
@@ -5567,11 +5567,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10376
+      "open": 25.56,
+      "high": 25.57,
+      "low": 25.39,
+      "close": 25.4,
+      "volume": 10400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 25.45,
+      "high": 25.51,
+      "low": 25.33,
+      "close": 25.33,
+      "volume": 4900
     }
   ]
 }

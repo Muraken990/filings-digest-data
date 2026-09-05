@@ -1,9 +1,9 @@
 {
   "code": "AGBK",
   "ticker": "AGBK",
-  "last_updated": "2026-09-04 07:09:40",
+  "last_updated": "2026-09-05 07:07:12",
   "period": "5y",
-  "data_points": 142,
+  "data_points": 143,
   "data": [
     {
       "date": "2026-02-11",
@@ -1135,11 +1135,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 100089
+      "open": 6.81,
+      "high": 6.93,
+      "low": 6.77,
+      "close": 6.85,
+      "volume": 100200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 6.75,
+      "high": 6.84,
+      "low": 6.57,
+      "close": 6.75,
+      "volume": 96000
     }
   ]
 }

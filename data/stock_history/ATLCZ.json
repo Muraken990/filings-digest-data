@@ -1,9 +1,9 @@
 {
   "code": "ATLCZ",
   "ticker": "ATLCZ",
-  "last_updated": "2026-09-04 07:15:41",
+  "last_updated": "2026-09-05 07:13:10",
   "period": "5y",
-  "data_points": 651,
+  "data_points": 652,
   "data": [
     {
       "date": "2024-01-31",
@@ -5207,11 +5207,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 16995
+      "open": 25.4,
+      "high": 25.4,
+      "low": 25.37,
+      "close": 25.4,
+      "volume": 17000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 25.4,
+      "high": 25.4,
+      "low": 25.38,
+      "close": 25.39,
+      "volume": 15000
     }
   ]
 }

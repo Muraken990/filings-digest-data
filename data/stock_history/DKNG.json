@@ -1,9 +1,9 @@
 {
   "code": "DKNG",
   "ticker": "DKNG",
-  "last_updated": "2026-09-04 07:34:31",
+  "last_updated": "2026-09-05 07:31:51",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6888338
+      "open": 24.39,
+      "high": 24.82,
+      "low": 24.08,
+      "close": 24.19,
+      "volume": 6888600
+    },
+    {
+      "date": "2026-09-04",
+      "open": 24.0,
+      "high": 24.2,
+      "low": 23.54,
+      "close": 24.01,
+      "volume": 8311100
     }
   ]
 }

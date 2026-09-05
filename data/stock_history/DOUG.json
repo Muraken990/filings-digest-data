@@ -1,9 +1,9 @@
 {
   "code": "DOUG",
   "ticker": "DOUG",
-  "last_updated": "2026-09-04 07:35:22",
+  "last_updated": "2026-09-05 07:32:41",
   "period": "5y",
-  "data_points": 1174,
+  "data_points": 1175,
   "data": [
     {
       "date": "2021-12-30",
@@ -9391,11 +9391,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 367762
+      "open": 1.81,
+      "high": 1.85,
+      "low": 1.8,
+      "close": 1.82,
+      "volume": 367800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.79,
+      "high": 1.82,
+      "low": 1.77,
+      "close": 1.81,
+      "volume": 295200
     }
   ]
 }

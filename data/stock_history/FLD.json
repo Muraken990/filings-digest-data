@@ -1,9 +1,9 @@
 {
   "code": "FLD",
   "ticker": "FLD",
-  "last_updated": "2026-09-04 07:43:05",
+  "last_updated": "2026-09-05 07:40:20",
   "period": "5y",
-  "data_points": 1146,
+  "data_points": 1147,
   "data": [
     {
       "date": "2022-02-09",
@@ -9167,11 +9167,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 626081
+      "open": 0.47,
+      "high": 0.51,
+      "low": 0.46,
+      "close": 0.49,
+      "volume": 626100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 0.5,
+      "high": 0.55,
+      "low": 0.48,
+      "close": 0.54,
+      "volume": 306500
     }
   ]
 }

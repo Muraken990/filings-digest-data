@@ -1,9 +1,9 @@
 {
   "code": "CHKP",
   "ticker": "CHKP",
-  "last_updated": "2026-09-04 07:26:49",
+  "last_updated": "2026-09-05 07:24:12",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 757427
+      "open": 135.76,
+      "high": 138.08,
+      "low": 134.32,
+      "close": 137.41,
+      "volume": 757400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 135.07,
+      "high": 139.75,
+      "low": 134.0,
+      "close": 137.05,
+      "volume": 768500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "BY",
   "ticker": "BY",
-  "last_updated": "2026-09-04 07:23:25",
+  "last_updated": "2026-09-05 07:20:50",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -503,7 +503,7 @@
     },
     {
       "date": "2021-12-03",
-      "open": 25.04,
+      "open": 25.03,
       "high": 25.08,
       "low": 24.39,
       "close": 24.59,
@@ -8185,7 +8185,7 @@
       "date": "2025-10-02",
       "open": 27.04,
       "high": 27.16,
-      "low": 26.73,
+      "low": 26.72,
       "close": 26.96,
       "volume": 168000
     },
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 680910
+      "open": 38.42,
+      "high": 38.89,
+      "low": 38.33,
+      "close": 38.72,
+      "volume": 680900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 38.5,
+      "high": 38.96,
+      "low": 38.36,
+      "close": 38.85,
+      "volume": 230200
     }
   ]
 }

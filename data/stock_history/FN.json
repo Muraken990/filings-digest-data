@@ -1,9 +1,9 @@
 {
   "code": "FN",
   "ticker": "FN",
-  "last_updated": "2026-09-04 07:43:54",
+  "last_updated": "2026-09-05 07:41:10",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1050817
+      "open": 390.65,
+      "high": 398.3,
+      "low": 380.39,
+      "close": 395.0,
+      "volume": 1050900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 402.32,
+      "high": 412.54,
+      "low": 399.95,
+      "close": 407.4,
+      "volume": 578300
     }
   ]
 }

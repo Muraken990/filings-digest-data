@@ -1,9 +1,9 @@
 {
   "code": "ARQT",
   "ticker": "ARQT",
-  "last_updated": "2026-09-04 07:14:48",
+  "last_updated": "2026-09-05 07:12:17",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1122263
+      "open": 24.13,
+      "high": 24.13,
+      "low": 23.47,
+      "close": 23.66,
+      "volume": 1122300
+    },
+    {
+      "date": "2026-09-04",
+      "open": 23.27,
+      "high": 24.02,
+      "low": 23.27,
+      "close": 23.9,
+      "volume": 1624400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "AKAN",
   "ticker": "AKAN",
-  "last_updated": "2026-09-04 07:10:35",
+  "last_updated": "2026-09-05 07:08:06",
   "period": "5y",
-  "data_points": 1123,
+  "data_points": 1124,
   "data": [
     {
       "date": "2022-03-15",
@@ -8983,11 +8983,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1929091
+      "open": 3.78,
+      "high": 3.78,
+      "low": 3.65,
+      "close": 3.67,
+      "volume": 2300500
+    },
+    {
+      "date": "2026-09-04",
+      "open": 4.36,
+      "high": 4.44,
+      "low": 3.27,
+      "close": 3.35,
+      "volume": 21576200
     }
   ]
 }

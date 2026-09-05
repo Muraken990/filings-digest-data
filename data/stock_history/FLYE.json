@@ -1,9 +1,9 @@
 {
   "code": "FLYE",
   "ticker": "FLYE",
-  "last_updated": "2026-09-04 07:43:53",
+  "last_updated": "2026-09-05 07:41:07",
   "period": "5y",
-  "data_points": 563,
+  "data_points": 564,
   "data": [
     {
       "date": "2024-06-06",
@@ -4503,11 +4503,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 584445
+      "open": 2.54,
+      "high": 2.55,
+      "low": 2.02,
+      "close": 2.22,
+      "volume": 584400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 2.28,
+      "high": 2.64,
+      "low": 1.9,
+      "close": 2.0,
+      "volume": 384800
     }
   ]
 }

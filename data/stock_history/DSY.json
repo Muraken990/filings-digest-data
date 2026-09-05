@@ -1,9 +1,9 @@
 {
   "code": "DSY",
   "ticker": "DSY",
-  "last_updated": "2026-09-04 07:36:11",
+  "last_updated": "2026-09-05 07:33:30",
   "period": "5y",
-  "data_points": 915,
+  "data_points": 916,
   "data": [
     {
       "date": "2023-01-11",
@@ -7319,11 +7319,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 9137
+      "open": 3.94,
+      "high": 4.02,
+      "low": 3.91,
+      "close": 3.91,
+      "volume": 9100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 3.81,
+      "high": 3.9,
+      "low": 3.81,
+      "close": 3.87,
+      "volume": 7500
     }
   ]
 }

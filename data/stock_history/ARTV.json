@@ -1,9 +1,9 @@
 {
   "code": "ARTV",
   "ticker": "ARTV",
-  "last_updated": "2026-09-04 07:14:48",
+  "last_updated": "2026-09-05 07:12:18",
   "period": "5y",
-  "data_points": 534,
+  "data_points": 535,
   "data": [
     {
       "date": "2024-07-19",
@@ -4271,11 +4271,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 365585
+      "open": 11.34,
+      "high": 11.35,
+      "low": 10.98,
+      "close": 11.12,
+      "volume": 365600
+    },
+    {
+      "date": "2026-09-04",
+      "open": 11.02,
+      "high": 11.34,
+      "low": 10.94,
+      "close": 11.19,
+      "volume": 168600
     }
   ]
 }

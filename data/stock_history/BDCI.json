@@ -1,9 +1,9 @@
 {
   "code": "BDCI",
   "ticker": "BDCI",
-  "last_updated": "2026-09-04 07:18:17",
+  "last_updated": "2026-09-05 07:15:45",
   "period": "5y",
-  "data_points": 222,
+  "data_points": 223,
   "data": [
     {
       "date": "2025-10-16",
@@ -1775,11 +1775,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 51173
+      "open": 10.15,
+      "high": 10.15,
+      "low": 10.13,
+      "close": 10.14,
+      "volume": 51200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.15,
+      "high": 10.15,
+      "low": 10.15,
+      "close": 10.15,
+      "volume": 500
     }
   ]
 }

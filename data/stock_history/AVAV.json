@@ -1,9 +1,9 @@
 {
   "code": "AVAV",
   "ticker": "AVAV",
-  "last_updated": "2026-09-04 07:16:30",
+  "last_updated": "2026-09-05 07:13:59",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2382184
+      "open": 151.95,
+      "high": 151.95,
+      "low": 140.62,
+      "close": 147.21,
+      "volume": 2382400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 145.63,
+      "high": 148.02,
+      "low": 143.3,
+      "close": 144.65,
+      "volume": 1530200
     }
   ]
 }

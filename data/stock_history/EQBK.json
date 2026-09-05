@@ -1,9 +1,9 @@
 {
   "code": "EQBK",
   "ticker": "EQBK",
-  "last_updated": "2026-09-04 07:39:38",
+  "last_updated": "2026-09-05 07:36:54",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 165931
+      "open": 50.0,
+      "high": 51.31,
+      "low": 50.0,
+      "close": 51.0,
+      "volume": 165900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 51.36,
+      "high": 52.05,
+      "low": 50.51,
+      "close": 50.97,
+      "volume": 186300
     }
   ]
 }

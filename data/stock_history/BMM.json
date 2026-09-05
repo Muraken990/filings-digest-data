@@ -1,9 +1,9 @@
 {
   "code": "BMM",
   "ticker": "BMM",
-  "last_updated": "2026-09-04 07:20:50",
+  "last_updated": "2026-09-05 07:18:17",
   "period": "5y",
-  "data_points": 154,
+  "data_points": 155,
   "data": [
     {
       "date": "2026-01-26",
@@ -1231,11 +1231,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 370193
+      "open": 6.1,
+      "high": 6.2,
+      "low": 5.71,
+      "close": 6.09,
+      "volume": 370200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 6.13,
+      "high": 6.26,
+      "low": 6.06,
+      "close": 6.19,
+      "volume": 177100
     }
   ]
 }

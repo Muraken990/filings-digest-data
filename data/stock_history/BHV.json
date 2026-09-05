@@ -1,9 +1,9 @@
 {
   "code": "BHV",
   "ticker": "BHV",
-  "last_updated": "2026-09-04 07:19:56",
+  "last_updated": "2026-09-05 07:17:23",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5462
+      "open": 12.55,
+      "high": 12.68,
+      "low": 12.45,
+      "close": 12.57,
+      "volume": 6500
+    },
+    {
+      "date": "2026-09-04",
+      "open": 12.47,
+      "high": 12.72,
+      "low": 12.47,
+      "close": 12.47,
+      "volume": 1000
     }
   ]
 }

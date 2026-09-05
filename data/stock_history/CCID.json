@@ -1,9 +1,9 @@
 {
   "code": "CCID",
   "ticker": "CCID",
-  "last_updated": "2026-09-04 07:25:07",
+  "last_updated": "2026-09-05 07:22:31",
   "period": "5y",
-  "data_points": 216,
+  "data_points": 217,
   "data": [
     {
       "date": "2025-10-24",
@@ -1727,11 +1727,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 12040
+      "open": 25.05,
+      "high": 25.07,
+      "low": 25.0,
+      "close": 25.07,
+      "volume": 12000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 25.05,
+      "high": 25.05,
+      "low": 25.02,
+      "close": 25.02,
+      "volume": 3200
     }
   ]
 }

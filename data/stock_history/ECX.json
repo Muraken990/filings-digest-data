@@ -1,9 +1,9 @@
 {
   "code": "ECX",
   "ticker": "ECX",
-  "last_updated": "2026-09-04 07:37:05",
+  "last_updated": "2026-09-05 07:34:23",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 730016
+      "open": 1.08,
+      "high": 1.11,
+      "low": 1.05,
+      "close": 1.06,
+      "volume": 730000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.06,
+      "high": 1.06,
+      "low": 1.03,
+      "close": 1.05,
+      "volume": 242300
     }
   ]
 }

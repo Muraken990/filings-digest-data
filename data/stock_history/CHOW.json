@@ -1,9 +1,9 @@
 {
   "code": "CHOW",
   "ticker": "CHOW",
-  "last_updated": "2026-09-04 07:26:50",
+  "last_updated": "2026-09-05 07:24:13",
   "period": "5y",
-  "data_points": 244,
+  "data_points": 245,
   "data": [
     {
       "date": "2025-09-16",
@@ -1951,11 +1951,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 269436
+      "open": 0.45,
+      "high": 0.53,
+      "low": 0.44,
+      "close": 0.47,
+      "volume": 272500
+    },
+    {
+      "date": "2026-09-04",
+      "open": 0.47,
+      "high": 0.49,
+      "low": 0.47,
+      "close": 0.48,
+      "volume": 84300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CLFD",
   "ticker": "CLFD",
-  "last_updated": "2026-09-04 07:27:42",
+  "last_updated": "2026-09-05 07:25:05",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 109467
+      "open": 28.8,
+      "high": 29.07,
+      "low": 28.23,
+      "close": 28.32,
+      "volume": 109500
+    },
+    {
+      "date": "2026-09-04",
+      "open": 28.35,
+      "high": 28.97,
+      "low": 28.31,
+      "close": 28.65,
+      "volume": 102500
     }
   ]
 }

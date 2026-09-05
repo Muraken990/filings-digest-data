@@ -1,9 +1,9 @@
 {
   "code": "CVCO",
   "ticker": "CVCO",
-  "last_updated": "2026-09-04 07:31:58",
+  "last_updated": "2026-09-05 07:29:19",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 79811
+      "open": 573.03,
+      "high": 574.41,
+      "low": 558.71,
+      "close": 560.94,
+      "volume": 79800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 557.42,
+      "high": 568.93,
+      "low": 555.3,
+      "close": 566.19,
+      "volume": 66400
     }
   ]
 }

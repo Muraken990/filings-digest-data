@@ -1,9 +1,9 @@
 {
   "code": "ATI",
   "ticker": "ATI",
-  "last_updated": "2026-09-04 07:15:40",
+  "last_updated": "2026-09-05 07:13:09",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1608242
+      "open": 203.19,
+      "high": 207.57,
+      "low": 200.25,
+      "close": 204.54,
+      "volume": 1608300
+    },
+    {
+      "date": "2026-09-04",
+      "open": 204.33,
+      "high": 212.29,
+      "low": 204.33,
+      "close": 210.65,
+      "volume": 1789900
     }
   ]
 }

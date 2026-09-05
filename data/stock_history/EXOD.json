@@ -1,9 +1,9 @@
 {
   "code": "EXOD",
   "ticker": "EXOD",
-  "last_updated": "2026-09-04 07:41:20",
+  "last_updated": "2026-09-05 07:38:35",
   "period": "5y",
-  "data_points": 1247,
+  "data_points": 1248,
   "data": [
     {
       "date": "2021-09-16",
@@ -9975,11 +9975,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 121372
+      "open": 7.29,
+      "high": 7.79,
+      "low": 7.05,
+      "close": 7.3,
+      "volume": 121400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 7.15,
+      "high": 7.75,
+      "low": 7.15,
+      "close": 7.41,
+      "volume": 30200
     }
   ]
 }

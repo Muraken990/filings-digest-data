@@ -1,9 +1,9 @@
 {
   "code": "APOS",
   "ticker": "APOS",
-  "last_updated": "2026-09-04 07:13:11",
+  "last_updated": "2026-09-05 07:10:41",
   "period": "5y",
-  "data_points": 757,
+  "data_points": 758,
   "data": [
     {
       "date": "2023-08-29",
@@ -6055,11 +6055,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 39098
+      "open": 25.13,
+      "high": 25.18,
+      "low": 25.05,
+      "close": 25.13,
+      "volume": 39100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 25.09,
+      "high": 25.3,
+      "low": 25.09,
+      "close": 25.21,
+      "volume": 17100
     }
   ]
 }

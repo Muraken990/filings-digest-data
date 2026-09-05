@@ -1,9 +1,9 @@
 {
   "code": "DLTR",
   "ticker": "DLTR",
-  "last_updated": "2026-09-04 07:34:32",
+  "last_updated": "2026-09-05 07:31:52",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1672498
+      "open": 132.19,
+      "high": 133.63,
+      "low": 129.9,
+      "close": 131.04,
+      "volume": 1672500
+    },
+    {
+      "date": "2026-09-04",
+      "open": 130.9,
+      "high": 133.06,
+      "low": 130.88,
+      "close": 131.42,
+      "volume": 1209900
     }
   ]
 }

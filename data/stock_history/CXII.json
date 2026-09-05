@@ -1,9 +1,9 @@
 {
   "code": "CXII",
   "ticker": "CXII",
-  "last_updated": "2026-09-04 07:32:48",
+  "last_updated": "2026-09-05 07:30:08",
   "period": "5y",
-  "data_points": 55,
+  "data_points": 56,
   "data": [
     {
       "date": "2026-06-17",
@@ -439,11 +439,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1059
+      "open": 10.79,
+      "high": 10.8,
+      "low": 10.78,
+      "close": 10.79,
+      "volume": 1100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.7,
+      "high": 10.8,
+      "low": 10.7,
+      "close": 10.71,
+      "volume": 1500
     }
   ]
 }

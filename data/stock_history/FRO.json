@@ -1,9 +1,9 @@
 {
   "code": "FRO",
   "ticker": "FRO",
-  "last_updated": "2026-09-04 07:44:45",
+  "last_updated": "2026-09-05 07:42:00",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2536437
+      "open": 45.61,
+      "high": 45.95,
+      "low": 44.73,
+      "close": 45.42,
+      "volume": 2536500
+    },
+    {
+      "date": "2026-09-04",
+      "open": 45.86,
+      "high": 47.04,
+      "low": 45.68,
+      "close": 46.12,
+      "volume": 3088100
     }
   ]
 }

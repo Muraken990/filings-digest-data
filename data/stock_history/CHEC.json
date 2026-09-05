@@ -1,9 +1,9 @@
 {
   "code": "CHEC",
   "ticker": "CHEC",
-  "last_updated": "2026-09-04 07:26:49",
+  "last_updated": "2026-09-05 07:24:11",
   "period": "5y",
-  "data_points": 204,
+  "data_points": 205,
   "data": [
     {
       "date": "2025-11-11",
@@ -1631,11 +1631,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3209
+      "open": 10.24,
+      "high": 10.24,
+      "low": 10.23,
+      "close": 10.23,
+      "volume": 3200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.23,
+      "high": 10.23,
+      "low": 10.23,
+      "close": 10.23,
+      "volume": 0
     }
   ]
 }

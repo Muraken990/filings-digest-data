@@ -1,9 +1,9 @@
 {
   "code": "ABG",
   "ticker": "ABG",
-  "last_updated": "2026-09-04 07:07:09",
+  "last_updated": "2026-09-05 07:04:42",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 222962
+      "open": 216.24,
+      "high": 216.98,
+      "low": 212.94,
+      "close": 215.41,
+      "volume": 223000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 213.91,
+      "high": 218.42,
+      "low": 213.35,
+      "close": 217.26,
+      "volume": 201000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "BEAG",
   "ticker": "BEAG",
-  "last_updated": "2026-09-04 07:18:18",
+  "last_updated": "2026-09-05 07:15:46",
   "period": "5y",
-  "data_points": 430,
+  "data_points": 431,
   "data": [
     {
       "date": "2024-12-16",
@@ -3439,11 +3439,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 16979
+      "open": 10.81,
+      "high": 10.81,
+      "low": 10.7,
+      "close": 10.75,
+      "volume": 17000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.75,
+      "high": 10.8,
+      "low": 10.73,
+      "close": 10.78,
+      "volume": 8700
     }
   ]
 }

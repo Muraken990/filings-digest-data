@@ -1,9 +1,9 @@
 {
   "code": "CLSK",
   "ticker": "CLSK",
-  "last_updated": "2026-09-04 07:28:30",
+  "last_updated": "2026-09-05 07:25:52",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 23474079
+      "open": 11.42,
+      "high": 12.66,
+      "low": 11.31,
+      "close": 12.58,
+      "volume": 23534000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 12.26,
+      "high": 12.76,
+      "low": 12.26,
+      "close": 12.69,
+      "volume": 15819600
     }
   ]
 }

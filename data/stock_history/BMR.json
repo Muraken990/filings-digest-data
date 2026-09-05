@@ -1,9 +1,9 @@
 {
   "code": "BMR",
   "ticker": "BMR",
-  "last_updated": "2026-09-04 07:20:50",
+  "last_updated": "2026-09-05 07:18:17",
   "period": "5y",
-  "data_points": 883,
+  "data_points": 884,
   "data": [
     {
       "date": "2023-02-28",
@@ -7063,11 +7063,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 35031
+      "open": 1.24,
+      "high": 1.24,
+      "low": 1.18,
+      "close": 1.19,
+      "volume": 34900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.19,
+      "high": 1.24,
+      "low": 1.18,
+      "close": 1.24,
+      "volume": 20400
     }
   ]
 }

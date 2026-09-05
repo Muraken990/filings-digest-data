@@ -1,9 +1,9 @@
 {
   "code": "ADVB",
   "ticker": "ADVB",
-  "last_updated": "2026-09-04 07:08:50",
+  "last_updated": "2026-09-05 07:06:22",
   "period": "5y",
-  "data_points": 377,
+  "data_points": 378,
   "data": [
     {
       "date": "2025-03-06",
@@ -3015,11 +3015,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 207803
+      "open": 9.76,
+      "high": 9.97,
+      "low": 9.02,
+      "close": 9.4,
+      "volume": 207800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 9.33,
+      "high": 9.44,
+      "low": 9.1,
+      "close": 9.34,
+      "volume": 66500
     }
   ]
 }

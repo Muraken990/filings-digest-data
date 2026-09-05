@@ -1,9 +1,9 @@
 {
   "code": "FPS",
   "ticker": "FPS",
-  "last_updated": "2026-09-04 07:44:43",
+  "last_updated": "2026-09-05 07:41:58",
   "period": "5y",
-  "data_points": 146,
+  "data_points": 147,
   "data": [
     {
       "date": "2026-02-05",
@@ -1167,11 +1167,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6844227
+      "open": 29.5,
+      "high": 30.87,
+      "low": 28.24,
+      "close": 30.6,
+      "volume": 6856000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 30.87,
+      "high": 31.72,
+      "low": 30.51,
+      "close": 31.35,
+      "volume": 4489800
     }
   ]
 }

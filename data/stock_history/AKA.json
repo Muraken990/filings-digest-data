@@ -1,9 +1,9 @@
 {
   "code": "AKA",
   "ticker": "AKA",
-  "last_updated": "2026-09-04 07:10:34",
+  "last_updated": "2026-09-05 07:08:05",
   "period": "5y",
-  "data_points": 1243,
+  "data_points": 1244,
   "data": [
     {
       "date": "2021-09-22",
@@ -9943,11 +9943,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1662
+      "open": 11.2,
+      "high": 11.64,
+      "low": 11.16,
+      "close": 11.16,
+      "volume": 1700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 11.02,
+      "high": 11.36,
+      "low": 10.29,
+      "close": 10.96,
+      "volume": 2100
     }
   ]
 }

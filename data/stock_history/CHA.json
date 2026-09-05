@@ -1,9 +1,9 @@
 {
   "code": "CHA",
   "ticker": "CHA",
-  "last_updated": "2026-09-04 07:26:48",
+  "last_updated": "2026-09-05 07:24:10",
   "period": "5y",
-  "data_points": 347,
+  "data_points": 348,
   "data": [
     {
       "date": "2025-04-17",
@@ -2775,11 +2775,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1165790
+      "open": 11.61,
+      "high": 11.64,
+      "low": 11.32,
+      "close": 11.36,
+      "volume": 1165800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 11.27,
+      "high": 11.78,
+      "low": 11.2,
+      "close": 11.66,
+      "volume": 1750500
     }
   ]
 }

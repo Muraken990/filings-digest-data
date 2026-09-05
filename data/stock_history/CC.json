@@ -1,9 +1,9 @@
 {
   "code": "CC",
   "ticker": "CC",
-  "last_updated": "2026-09-04 07:25:06",
+  "last_updated": "2026-09-05 07:22:29",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1354382
+      "open": 15.78,
+      "high": 15.81,
+      "low": 15.22,
+      "close": 15.48,
+      "volume": 1354400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 15.26,
+      "high": 15.61,
+      "low": 15.16,
+      "close": 15.3,
+      "volume": 1191600
     }
   ]
 }

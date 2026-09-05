@@ -1,9 +1,9 @@
 {
   "code": "DAKT",
   "ticker": "DAKT",
-  "last_updated": "2026-09-04 07:32:51",
+  "last_updated": "2026-09-05 07:30:10",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1677217
+      "open": 19.08,
+      "high": 19.58,
+      "low": 18.99,
+      "close": 19.48,
+      "volume": 1677300
+    },
+    {
+      "date": "2026-09-04",
+      "open": 19.47,
+      "high": 19.54,
+      "low": 19.01,
+      "close": 19.35,
+      "volume": 872600
     }
   ]
 }

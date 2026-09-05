@@ -1,9 +1,9 @@
 {
   "code": "ECHO",
   "ticker": "ECHO",
-  "last_updated": "2026-09-04 07:37:04",
+  "last_updated": "2026-09-05 07:34:22",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3725605
+      "open": 87.51,
+      "high": 90.07,
+      "low": 87.03,
+      "close": 89.79,
+      "volume": 3742600
+    },
+    {
+      "date": "2026-09-04",
+      "open": 89.45,
+      "high": 90.23,
+      "low": 88.64,
+      "close": 89.8,
+      "volume": 2433400
     }
   ]
 }

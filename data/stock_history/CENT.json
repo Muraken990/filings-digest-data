@@ -1,9 +1,9 @@
 {
   "code": "CENT",
   "ticker": "CENT",
-  "last_updated": "2026-09-04 07:25:58",
+  "last_updated": "2026-09-05 07:23:22",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 64724
+      "open": 42.48,
+      "high": 42.48,
+      "low": 41.54,
+      "close": 41.7,
+      "volume": 64700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 41.47,
+      "high": 42.09,
+      "low": 41.47,
+      "close": 41.71,
+      "volume": 136500
     }
   ]
 }

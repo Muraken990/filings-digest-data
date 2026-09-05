@@ -1,9 +1,9 @@
 {
   "code": "ALAB",
   "ticker": "ALAB",
-  "last_updated": "2026-09-04 07:10:35",
+  "last_updated": "2026-09-05 07:08:06",
   "period": "5y",
-  "data_points": 617,
+  "data_points": 618,
   "data": [
     {
       "date": "2024-03-20",
@@ -4935,11 +4935,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2787711
+      "open": 270.01,
+      "high": 283.17,
+      "low": 262.45,
+      "close": 282.82,
+      "volume": 2788000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 286.0,
+      "high": 321.65,
+      "low": 285.84,
+      "close": 310.4,
+      "volume": 6503400
     }
   ]
 }

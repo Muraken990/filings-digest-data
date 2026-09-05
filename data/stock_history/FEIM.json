@@ -1,9 +1,9 @@
 {
   "code": "FEIM",
   "ticker": "FEIM",
-  "last_updated": "2026-09-04 07:42:13",
+  "last_updated": "2026-09-05 07:39:29",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 119895
+      "open": 59.61,
+      "high": 60.59,
+      "low": 58.55,
+      "close": 59.89,
+      "volume": 119900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 62.02,
+      "high": 62.25,
+      "low": 59.69,
+      "close": 60.67,
+      "volume": 149500
     }
   ]
 }

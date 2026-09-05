@@ -1,9 +1,9 @@
 {
   "code": "FOF",
   "ticker": "FOF",
-  "last_updated": "2026-09-04 07:43:56",
+  "last_updated": "2026-09-05 07:41:11",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 36001
+      "open": 13.39,
+      "high": 13.46,
+      "low": 13.39,
+      "close": 13.42,
+      "volume": 36000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 13.4,
+      "high": 13.48,
+      "low": 13.39,
+      "close": 13.39,
+      "volume": 28400
     }
   ]
 }

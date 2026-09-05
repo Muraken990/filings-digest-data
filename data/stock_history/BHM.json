@@ -1,9 +1,9 @@
 {
   "code": "BHM",
   "ticker": "BHM",
-  "last_updated": "2026-09-04 07:19:56",
+  "last_updated": "2026-09-05 07:17:23",
   "period": "5y",
-  "data_points": 987,
+  "data_points": 988,
   "data": [
     {
       "date": "2022-09-28",
@@ -7895,11 +7895,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2993
+      "open": 8.4,
+      "high": 8.8,
+      "low": 8.4,
+      "close": 8.8,
+      "volume": 3000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 8.8,
+      "high": 8.85,
+      "low": 8.69,
+      "close": 8.85,
+      "volume": 2900
     }
   ]
 }

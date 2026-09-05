@@ -1,9 +1,9 @@
 {
   "code": "CMC",
   "ticker": "CMC",
-  "last_updated": "2026-09-04 07:28:31",
+  "last_updated": "2026-09-05 07:25:53",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -4089,7 +4089,7 @@
       "date": "2023-09-18",
       "open": 49.7,
       "high": 50.39,
-      "low": 49.49,
+      "low": 49.5,
       "close": 49.7,
       "volume": 518500
     },
@@ -7527,7 +7527,7 @@
     },
     {
       "date": "2025-06-05",
-      "open": 48.57,
+      "open": 48.58,
       "high": 48.75,
       "low": 47.83,
       "close": 48.18,
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 595820
+      "open": 70.0,
+      "high": 70.0,
+      "low": 67.91,
+      "close": 68.75,
+      "volume": 595800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 69.01,
+      "high": 70.38,
+      "low": 68.4,
+      "close": 70.28,
+      "volume": 731000
     }
   ]
 }

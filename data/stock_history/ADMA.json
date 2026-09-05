@@ -1,9 +1,9 @@
 {
   "code": "ADMA",
   "ticker": "ADMA",
-  "last_updated": "2026-09-04 07:08:48",
+  "last_updated": "2026-09-05 07:06:21",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1326047
+      "open": 9.52,
+      "high": 9.6,
+      "low": 9.35,
+      "close": 9.58,
+      "volume": 1326000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 9.43,
+      "high": 9.62,
+      "low": 9.39,
+      "close": 9.62,
+      "volume": 1399400
     }
   ]
 }

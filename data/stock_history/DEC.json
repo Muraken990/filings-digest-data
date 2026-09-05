@@ -1,9 +1,9 @@
 {
   "code": "DEC",
   "ticker": "DEC",
-  "last_updated": "2026-09-04 07:33:41",
+  "last_updated": "2026-09-05 07:31:00",
   "period": "5y",
-  "data_points": 1233,
+  "data_points": 1234,
   "data": [
     {
       "date": "2021-09-07",
@@ -9863,11 +9863,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1005334
+      "open": 15.38,
+      "high": 15.89,
+      "low": 14.98,
+      "close": 15.72,
+      "volume": 1005400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 15.67,
+      "high": 15.73,
+      "low": 15.26,
+      "close": 15.43,
+      "volume": 592100
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ANET",
   "ticker": "ANET",
-  "last_updated": "2026-09-04 07:12:20",
+  "last_updated": "2026-09-05 07:09:51",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4108431
+      "open": 185.25,
+      "high": 192.0,
+      "low": 181.27,
+      "close": 191.44,
+      "volume": 4108500
+    },
+    {
+      "date": "2026-09-04",
+      "open": 192.82,
+      "high": 197.1,
+      "low": 190.56,
+      "close": 193.78,
+      "volume": 4204100
     }
   ]
 }

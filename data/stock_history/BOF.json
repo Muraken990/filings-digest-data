@@ -1,9 +1,9 @@
 {
   "code": "BOF",
   "ticker": "BOF",
-  "last_updated": "2026-09-04 07:21:39",
+  "last_updated": "2026-09-05 07:19:06",
   "period": "5y",
-  "data_points": 807,
+  "data_points": 808,
   "data": [
     {
       "date": "2023-06-16",
@@ -6455,11 +6455,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 22544
+      "open": 3.9,
+      "high": 3.95,
+      "low": 3.81,
+      "close": 3.86,
+      "volume": 22500
+    },
+    {
+      "date": "2026-09-04",
+      "open": 3.86,
+      "high": 3.99,
+      "low": 3.81,
+      "close": 3.81,
+      "volume": 10400
     }
   ]
 }

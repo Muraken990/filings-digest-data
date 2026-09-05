@@ -1,9 +1,9 @@
 {
   "code": "BJDX",
   "ticker": "BJDX",
-  "last_updated": "2026-09-04 07:19:59",
+  "last_updated": "2026-09-05 07:17:26",
   "period": "5y",
-  "data_points": 1208,
+  "data_points": 1209,
   "data": [
     {
       "date": "2021-11-10",
@@ -9663,11 +9663,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 129224
+      "open": 0.84,
+      "high": 0.86,
+      "low": 0.82,
+      "close": 0.85,
+      "volume": 143400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 0.84,
+      "high": 0.85,
+      "low": 0.82,
+      "close": 0.83,
+      "volume": 89000
     }
   ]
 }

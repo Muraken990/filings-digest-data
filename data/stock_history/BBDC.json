@@ -1,9 +1,9 @@
 {
   "code": "BBDC",
   "ticker": "BBDC",
-  "last_updated": "2026-09-04 07:17:27",
+  "last_updated": "2026-09-05 07:14:55",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 725998
+      "open": 9.17,
+      "high": 9.23,
+      "low": 8.94,
+      "close": 8.99,
+      "volume": 726000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 8.95,
+      "high": 9.08,
+      "low": 8.84,
+      "close": 9.02,
+      "volume": 445200
     }
   ]
 }

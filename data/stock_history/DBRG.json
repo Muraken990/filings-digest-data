@@ -1,9 +1,9 @@
 {
   "code": "DBRG",
   "ticker": "DBRG",
-  "last_updated": "2026-09-04 07:33:38",
+  "last_updated": "2026-09-05 07:30:57",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1921903
+      "open": 15.96,
+      "high": 15.96,
+      "low": 15.94,
+      "close": 15.94,
+      "volume": 1921900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 15.94,
+      "high": 15.95,
+      "low": 15.91,
+      "close": 15.93,
+      "volume": 2450300
     }
   ]
 }

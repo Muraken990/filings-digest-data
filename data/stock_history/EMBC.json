@@ -1,9 +1,9 @@
 {
   "code": "EMBC",
   "ticker": "EMBC",
-  "last_updated": "2026-09-04 07:38:46",
+  "last_updated": "2026-09-05 07:36:02",
   "period": "5y",
-  "data_points": 1118,
+  "data_points": 1119,
   "data": [
     {
       "date": "2022-03-22",
@@ -1263,7 +1263,7 @@
     },
     {
       "date": "2022-11-03",
-      "open": 24.81,
+      "open": 24.8,
       "high": 24.99,
       "low": 23.74,
       "close": 24.33,
@@ -8943,11 +8943,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1160092
+      "open": 5.7,
+      "high": 5.77,
+      "low": 5.51,
+      "close": 5.69,
+      "volume": 1160100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 5.63,
+      "high": 5.91,
+      "low": 5.6,
+      "close": 5.8,
+      "volume": 1000700
     }
   ]
 }

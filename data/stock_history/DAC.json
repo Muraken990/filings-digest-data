@@ -1,9 +1,9 @@
 {
   "code": "DAC",
   "ticker": "DAC",
-  "last_updated": "2026-09-04 07:32:50",
+  "last_updated": "2026-09-05 07:30:10",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -4911,7 +4911,7 @@
     },
     {
       "date": "2024-02-14",
-      "open": 66.97,
+      "open": 66.98,
       "high": 69.1,
       "low": 66.39,
       "close": 66.9,
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 138123
+      "open": 154.68,
+      "high": 155.89,
+      "low": 153.41,
+      "close": 154.15,
+      "volume": 138100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 154.15,
+      "high": 155.44,
+      "low": 154.15,
+      "close": 155.26,
+      "volume": 106000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CMTG",
   "ticker": "CMTG",
-  "last_updated": "2026-09-04 07:28:34",
+  "last_updated": "2026-09-05 07:25:56",
   "period": "5y",
-  "data_points": 1213,
+  "data_points": 1214,
   "data": [
     {
       "date": "2021-11-03",
@@ -9703,11 +9703,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 943319
+      "open": 1.56,
+      "high": 1.62,
+      "low": 1.5,
+      "close": 1.6,
+      "volume": 943300
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.57,
+      "high": 1.62,
+      "low": 1.57,
+      "close": 1.62,
+      "volume": 338800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ARXS",
   "ticker": "ARXS",
-  "last_updated": "2026-09-04 07:14:49",
+  "last_updated": "2026-09-05 07:12:18",
   "period": "5y",
-  "data_points": 98,
+  "data_points": 99,
   "data": [
     {
       "date": "2026-04-16",
@@ -783,11 +783,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 660204
+      "open": 51.35,
+      "high": 53.39,
+      "low": 50.47,
+      "close": 53.24,
+      "volume": 660200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 53.24,
+      "high": 54.38,
+      "low": 53.13,
+      "close": 53.62,
+      "volume": 766600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "COSO",
   "ticker": "COSO",
-  "last_updated": "2026-09-04 07:30:12",
+  "last_updated": "2026-09-05 07:27:34",
   "period": "5y",
-  "data_points": 333,
+  "data_points": 334,
   "data": [
     {
       "date": "2025-05-08",
@@ -2663,11 +2663,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 108244
+      "open": 27.32,
+      "high": 27.91,
+      "low": 27.16,
+      "close": 27.7,
+      "volume": 108200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 27.59,
+      "high": 28.04,
+      "low": 27.59,
+      "close": 27.89,
+      "volume": 96500
     }
   ]
 }

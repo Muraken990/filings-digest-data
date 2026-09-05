@@ -1,9 +1,9 @@
 {
   "code": "ATRO",
   "ticker": "ATRO",
-  "last_updated": "2026-09-04 07:15:42",
+  "last_updated": "2026-09-05 07:13:11",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 503181
+      "open": 74.44,
+      "high": 74.82,
+      "low": 72.35,
+      "close": 74.53,
+      "volume": 503200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 74.6,
+      "high": 76.83,
+      "low": 74.55,
+      "close": 76.26,
+      "volume": 346800
     }
   ]
 }

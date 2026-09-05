@@ -1,9 +1,9 @@
 {
   "code": "EZRA",
   "ticker": "EZRA",
-  "last_updated": "2026-09-04 07:41:21",
+  "last_updated": "2026-09-05 07:38:36",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 158416
+      "open": 2.73,
+      "high": 3.01,
+      "low": 2.66,
+      "close": 2.84,
+      "volume": 160000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 2.8,
+      "high": 2.86,
+      "low": 2.73,
+      "close": 2.83,
+      "volume": 55700
     }
   ]
 }

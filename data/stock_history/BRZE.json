@@ -1,9 +1,9 @@
 {
   "code": "BRZE",
   "ticker": "BRZE",
-  "last_updated": "2026-09-04 07:22:30",
+  "last_updated": "2026-09-05 07:19:56",
   "period": "5y",
-  "data_points": 1203,
+  "data_points": 1204,
   "data": [
     {
       "date": "2021-11-17",
@@ -9623,11 +9623,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2293935
+      "open": 33.98,
+      "high": 34.56,
+      "low": 32.96,
+      "close": 33.25,
+      "volume": 2293900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 32.53,
+      "high": 32.87,
+      "low": 31.34,
+      "close": 31.96,
+      "volume": 2066700
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "BCO",
   "ticker": "BCO",
-  "last_updated": "2026-09-04 07:18:16",
+  "last_updated": "2026-09-05 07:15:44",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -1048,7 +1048,7 @@
     {
       "date": "2022-03-14",
       "open": 61.07,
-      "high": 61.78,
+      "high": 61.77,
       "low": 60.72,
       "close": 61.37,
       "volume": 196700
@@ -3832,7 +3832,7 @@
     {
       "date": "2023-08-02",
       "open": 70.21,
-      "high": 70.66,
+      "high": 70.67,
       "low": 69.54,
       "close": 70.13,
       "volume": 171200
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 400387
+      "open": 108.86,
+      "high": 110.08,
+      "low": 106.08,
+      "close": 106.35,
+      "volume": 400400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 106.92,
+      "high": 109.12,
+      "low": 104.98,
+      "close": 108.87,
+      "volume": 307200
     }
   ]
 }

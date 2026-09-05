@@ -1,9 +1,9 @@
 {
   "code": "AIRE",
   "ticker": "AIRE",
-  "last_updated": "2026-09-04 07:10:32",
+  "last_updated": "2026-09-05 07:08:04",
   "period": "5y",
-  "data_points": 719,
+  "data_points": 720,
   "data": [
     {
       "date": "2023-10-23",
@@ -5751,11 +5751,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 36265
+      "open": 1.55,
+      "high": 1.6,
+      "low": 1.5,
+      "close": 1.57,
+      "volume": 36300
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.52,
+      "high": 1.66,
+      "low": 1.5,
+      "close": 1.5,
+      "volume": 41100
     }
   ]
 }

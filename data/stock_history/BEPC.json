@@ -1,9 +1,9 @@
 {
   "code": "BEPC",
   "ticker": "BEPC",
-  "last_updated": "2026-09-04 07:19:05",
+  "last_updated": "2026-09-05 07:16:32",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -1481,7 +1481,7 @@
       "date": "2022-05-31",
       "open": 31.09,
       "high": 31.09,
-      "low": 29.71,
+      "low": 29.7,
       "close": 29.87,
       "volume": 860100
     },
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1838150
+      "open": 31.52,
+      "high": 31.67,
+      "low": 30.91,
+      "close": 31.5,
+      "volume": 1838200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 31.5,
+      "high": 31.83,
+      "low": 31.47,
+      "close": 31.75,
+      "volume": 1207100
     }
   ]
 }

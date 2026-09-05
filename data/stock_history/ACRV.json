@@ -1,9 +1,9 @@
 {
   "code": "ACRV",
   "ticker": "ACRV",
-  "last_updated": "2026-09-04 07:08:00",
+  "last_updated": "2026-09-05 07:05:33",
   "period": "5y",
-  "data_points": 953,
+  "data_points": 954,
   "data": [
     {
       "date": "2022-11-15",
@@ -7623,11 +7623,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 118750
+      "open": 2.15,
+      "high": 2.15,
+      "low": 2.05,
+      "close": 2.06,
+      "volume": 118800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 2.06,
+      "high": 2.14,
+      "low": 2.06,
+      "close": 2.13,
+      "volume": 184500
     }
   ]
 }

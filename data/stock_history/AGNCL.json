@@ -1,9 +1,9 @@
 {
   "code": "AGNCL",
   "ticker": "AGNCL",
-  "last_updated": "2026-09-04 07:09:42",
+  "last_updated": "2026-09-05 07:07:14",
   "period": "5y",
-  "data_points": 1000,
+  "data_points": 1001,
   "data": [
     {
       "date": "2022-09-09",
@@ -7999,11 +7999,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 17214
+      "open": 25.29,
+      "high": 25.31,
+      "low": 25.18,
+      "close": 25.3,
+      "volume": 17000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 25.4,
+      "high": 25.45,
+      "low": 25.32,
+      "close": 25.45,
+      "volume": 2500
     }
   ]
 }

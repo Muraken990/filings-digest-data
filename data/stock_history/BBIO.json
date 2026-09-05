@@ -1,9 +1,9 @@
 {
   "code": "BBIO",
   "ticker": "BBIO",
-  "last_updated": "2026-09-04 07:18:12",
+  "last_updated": "2026-09-05 07:15:40",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1098032
+      "open": 76.43,
+      "high": 76.64,
+      "low": 75.2,
+      "close": 75.41,
+      "volume": 1098000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 74.98,
+      "high": 75.36,
+      "low": 74.11,
+      "close": 74.84,
+      "volume": 1539400
     }
   ]
 }

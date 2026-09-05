@@ -1,9 +1,9 @@
 {
   "code": "CMDB",
   "ticker": "CMDB",
-  "last_updated": "2026-09-04 07:28:31",
+  "last_updated": "2026-09-05 07:25:54",
   "period": "5y",
-  "data_points": 338,
+  "data_points": 339,
   "data": [
     {
       "date": "2025-05-01",
@@ -2703,11 +2703,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 78965
+      "open": 21.72,
+      "high": 22.61,
+      "low": 21.62,
+      "close": 22.21,
+      "volume": 79000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 22.21,
+      "high": 24.02,
+      "low": 22.01,
+      "close": 23.95,
+      "volume": 62200
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "FOA",
   "ticker": "FOA",
-  "last_updated": "2026-09-04 07:43:56",
+  "last_updated": "2026-09-05 07:41:11",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 52102
+      "open": 17.38,
+      "high": 17.64,
+      "low": 17.21,
+      "close": 17.25,
+      "volume": 52100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 17.15,
+      "high": 17.6,
+      "low": 16.94,
+      "close": 17.16,
+      "volume": 46600
     }
   ]
 }

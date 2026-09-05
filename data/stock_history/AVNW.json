@@ -1,9 +1,9 @@
 {
   "code": "AVNW",
   "ticker": "AVNW",
-  "last_updated": "2026-09-04 07:16:32",
+  "last_updated": "2026-09-05 07:14:00",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 196346
+      "open": 19.32,
+      "high": 19.48,
+      "low": 18.96,
+      "close": 19.32,
+      "volume": 196300
+    },
+    {
+      "date": "2026-09-04",
+      "open": 19.33,
+      "high": 19.9,
+      "low": 19.31,
+      "close": 19.78,
+      "volume": 134800
     }
   ]
 }

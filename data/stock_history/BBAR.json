@@ -1,9 +1,9 @@
 {
   "code": "BBAR",
   "ticker": "BBAR",
-  "last_updated": "2026-09-04 07:17:26",
+  "last_updated": "2026-09-05 07:14:54",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1426676
+      "open": 15.52,
+      "high": 15.89,
+      "low": 14.79,
+      "close": 15.09,
+      "volume": 1426700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 15.13,
+      "high": 15.22,
+      "low": 14.69,
+      "close": 14.82,
+      "volume": 674000
     }
   ]
 }

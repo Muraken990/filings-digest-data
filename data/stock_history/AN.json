@@ -1,9 +1,9 @@
 {
   "code": "AN",
   "ticker": "AN",
-  "last_updated": "2026-09-04 07:12:19",
+  "last_updated": "2026-09-05 07:09:50",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 372574
+      "open": 202.89,
+      "high": 211.83,
+      "low": 202.79,
+      "close": 207.18,
+      "volume": 373300
+    },
+    {
+      "date": "2026-09-04",
+      "open": 206.35,
+      "high": 213.21,
+      "low": 204.72,
+      "close": 212.36,
+      "volume": 358400
     }
   ]
 }

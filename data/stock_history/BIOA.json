@@ -1,9 +1,9 @@
 {
   "code": "BIOA",
   "ticker": "BIOA",
-  "last_updated": "2026-09-04 07:19:57",
+  "last_updated": "2026-09-05 07:17:24",
   "period": "5y",
-  "data_points": 486,
+  "data_points": 487,
   "data": [
     {
       "date": "2024-09-26",
@@ -3887,11 +3887,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 407258
+      "open": 9.9,
+      "high": 9.98,
+      "low": 9.41,
+      "close": 9.5,
+      "volume": 407300
+    },
+    {
+      "date": "2026-09-04",
+      "open": 9.39,
+      "high": 9.76,
+      "low": 9.39,
+      "close": 9.59,
+      "volume": 314500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CHCI",
   "ticker": "CHCI",
-  "last_updated": "2026-09-04 07:26:48",
+  "last_updated": "2026-09-05 07:24:11",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 59821
+      "open": 20.0,
+      "high": 21.29,
+      "low": 19.55,
+      "close": 20.94,
+      "volume": 59800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 21.07,
+      "high": 21.69,
+      "low": 20.39,
+      "close": 21.15,
+      "volume": 24000
     }
   ]
 }

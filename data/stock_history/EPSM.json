@@ -1,9 +1,9 @@
 {
   "code": "EPSM",
   "ticker": "EPSM",
-  "last_updated": "2026-09-04 07:39:38",
+  "last_updated": "2026-09-05 07:36:54",
   "period": "5y",
-  "data_points": 363,
+  "data_points": 364,
   "data": [
     {
       "date": "2025-03-26",
@@ -2903,11 +2903,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1109
+      "open": 1.44,
+      "high": 1.46,
+      "low": 1.44,
+      "close": 1.44,
+      "volume": 1100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.4,
+      "high": 1.48,
+      "low": 1.4,
+      "close": 1.45,
+      "volume": 5400
     }
   ]
 }

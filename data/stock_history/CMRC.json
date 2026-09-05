@@ -1,9 +1,9 @@
 {
   "code": "CMRC",
   "ticker": "CMRC",
-  "last_updated": "2026-09-04 07:28:33",
+  "last_updated": "2026-09-05 07:25:55",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 705398
+      "open": 2.5,
+      "high": 2.61,
+      "low": 2.45,
+      "close": 2.51,
+      "volume": 705400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 2.47,
+      "high": 2.64,
+      "low": 2.44,
+      "close": 2.57,
+      "volume": 1991400
     }
   ]
 }

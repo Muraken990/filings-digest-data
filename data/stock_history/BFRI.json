@@ -1,9 +1,9 @@
 {
   "code": "BFRI",
   "ticker": "BFRI",
-  "last_updated": "2026-09-04 07:19:06",
+  "last_updated": "2026-09-05 07:16:34",
   "period": "5y",
-  "data_points": 1216,
+  "data_points": 1217,
   "data": [
     {
       "date": "2021-10-29",
@@ -9727,11 +9727,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 549416
+      "open": 1.51,
+      "high": 1.56,
+      "low": 1.48,
+      "close": 1.51,
+      "volume": 549500
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.52,
+      "high": 1.63,
+      "low": 1.52,
+      "close": 1.61,
+      "volume": 631300
     }
   ]
 }

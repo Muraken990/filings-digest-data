@@ -1,9 +1,9 @@
 {
   "code": "DEFT",
   "ticker": "DEFT",
-  "last_updated": "2026-09-04 07:33:41",
+  "last_updated": "2026-09-05 07:31:00",
   "period": "5y",
-  "data_points": 515,
+  "data_points": 516,
   "data": [
     {
       "date": "2024-08-15",
@@ -4119,11 +4119,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2704872
+      "open": 0.65,
+      "high": 0.68,
+      "low": 0.65,
+      "close": 0.68,
+      "volume": 2722400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 0.69,
+      "high": 0.7,
+      "low": 0.66,
+      "close": 0.68,
+      "volume": 2605900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ALVO",
   "ticker": "ALVO",
-  "last_updated": "2026-09-04 07:11:27",
+  "last_updated": "2026-09-05 07:08:58",
   "period": "5y",
-  "data_points": 1058,
+  "data_points": 1059,
   "data": [
     {
       "date": "2022-06-16",
@@ -8463,11 +8463,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 672460
+      "open": 5.37,
+      "high": 5.47,
+      "low": 5.28,
+      "close": 5.38,
+      "volume": 673700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 5.31,
+      "high": 5.4,
+      "low": 5.2,
+      "close": 5.32,
+      "volume": 535400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "AISP",
   "ticker": "AISP",
-  "last_updated": "2026-09-04 07:10:33",
+  "last_updated": "2026-09-05 07:08:05",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 207686
+      "open": 2.16,
+      "high": 2.2,
+      "low": 2.09,
+      "close": 2.1,
+      "volume": 208000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 2.1,
+      "high": 2.12,
+      "low": 2.02,
+      "close": 2.05,
+      "volume": 225500
     }
   ]
 }

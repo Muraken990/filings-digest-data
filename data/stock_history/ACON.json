@@ -1,9 +1,9 @@
 {
   "code": "ACON",
   "ticker": "ACON",
-  "last_updated": "2026-09-04 07:07:59",
+  "last_updated": "2026-09-05 07:05:32",
   "period": "5y",
-  "data_points": 1096,
+  "data_points": 1097,
   "data": [
     {
       "date": "2022-04-22",
@@ -8767,11 +8767,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 46376
+      "open": 2.27,
+      "high": 2.32,
+      "low": 2.25,
+      "close": 2.29,
+      "volume": 46400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 2.26,
+      "high": 2.41,
+      "low": 2.26,
+      "close": 2.35,
+      "volume": 44100
     }
   ]
 }

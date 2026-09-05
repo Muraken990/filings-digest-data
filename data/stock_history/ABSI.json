@@ -1,9 +1,9 @@
 {
   "code": "ABSI",
   "ticker": "ABSI",
-  "last_updated": "2026-09-04 07:07:10",
+  "last_updated": "2026-09-05 07:04:42",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2746197
+      "open": 8.91,
+      "high": 8.99,
+      "low": 8.55,
+      "close": 8.8,
+      "volume": 2746300
+    },
+    {
+      "date": "2026-09-04",
+      "open": 8.69,
+      "high": 9.03,
+      "low": 8.65,
+      "close": 8.82,
+      "volume": 2134800
     }
   ]
 }

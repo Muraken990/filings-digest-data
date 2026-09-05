@@ -1,9 +1,9 @@
 {
   "code": "ATAI",
   "ticker": "ATAI",
-  "last_updated": "2026-09-04 07:15:38",
+  "last_updated": "2026-09-05 07:13:07",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 17478344
+      "open": 7.35,
+      "high": 7.43,
+      "low": 7.32,
+      "close": 7.34,
+      "volume": 17478300
+    },
+    {
+      "date": "2026-09-04",
+      "open": 7.34,
+      "high": 7.41,
+      "low": 7.31,
+      "close": 7.39,
+      "volume": 10313400
     }
   ]
 }

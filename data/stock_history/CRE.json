@@ -1,9 +1,9 @@
 {
   "code": "CRE",
   "ticker": "CRE",
-  "last_updated": "2026-09-04 07:31:02",
+  "last_updated": "2026-09-05 07:28:24",
   "period": "5y",
-  "data_points": 282,
+  "data_points": 283,
   "data": [
     {
       "date": "2025-07-23",
@@ -2255,11 +2255,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 49630
+      "open": 2.95,
+      "high": 3.1,
+      "low": 2.79,
+      "close": 2.86,
+      "volume": 49800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 2.91,
+      "high": 2.97,
+      "low": 2.81,
+      "close": 2.83,
+      "volume": 17800
     }
   ]
 }

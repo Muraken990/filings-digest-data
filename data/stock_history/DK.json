@@ -1,9 +1,9 @@
 {
   "code": "DK",
   "ticker": "DK",
-  "last_updated": "2026-09-04 07:34:31",
+  "last_updated": "2026-09-05 07:31:51",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -4176,7 +4176,7 @@
     {
       "date": "2023-10-03",
       "open": 23.96,
-      "high": 24.1,
+      "high": 24.09,
       "low": 22.76,
       "close": 23.1,
       "volume": 2656000
@@ -4351,7 +4351,7 @@
     },
     {
       "date": "2023-11-02",
-      "open": 24.1,
+      "open": 24.09,
       "high": 24.19,
       "low": 23.48,
       "close": 23.9,
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1601634
+      "open": 72.21,
+      "high": 72.48,
+      "low": 69.14,
+      "close": 72.4,
+      "volume": 1601600
+    },
+    {
+      "date": "2026-09-04",
+      "open": 71.5,
+      "high": 73.04,
+      "low": 69.76,
+      "close": 71.86,
+      "volume": 1420900
     }
   ]
 }

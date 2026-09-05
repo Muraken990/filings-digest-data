@@ -1,9 +1,9 @@
 {
   "code": "AMPY",
   "ticker": "AMPY",
-  "last_updated": "2026-09-04 07:12:17",
+  "last_updated": "2026-09-05 07:09:47",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 450044
+      "open": 5.02,
+      "high": 5.02,
+      "low": 4.86,
+      "close": 4.9,
+      "volume": 450000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 4.83,
+      "high": 4.92,
+      "low": 4.78,
+      "close": 4.9,
+      "volume": 457500
     }
   ]
 }

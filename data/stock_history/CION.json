@@ -1,9 +1,9 @@
 {
   "code": "CION",
   "ticker": "CION",
-  "last_updated": "2026-09-04 07:27:40",
+  "last_updated": "2026-09-05 07:25:02",
   "period": "5y",
-  "data_points": 1234,
+  "data_points": 1235,
   "data": [
     {
       "date": "2021-10-05",
@@ -9871,11 +9871,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 316913
+      "open": 7.54,
+      "high": 7.59,
+      "low": 7.34,
+      "close": 7.36,
+      "volume": 316900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 7.38,
+      "high": 7.43,
+      "low": 7.31,
+      "close": 7.34,
+      "volume": 233800
     }
   ]
 }

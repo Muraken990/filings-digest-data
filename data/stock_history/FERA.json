@@ -1,9 +1,9 @@
 {
   "code": "FERA",
   "ticker": "FERA",
-  "last_updated": "2026-09-04 07:42:14",
+  "last_updated": "2026-09-05 07:39:29",
   "period": "5y",
-  "data_points": 346,
+  "data_points": 347,
   "data": [
     {
       "date": "2025-04-21",
@@ -2767,11 +2767,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 102358
+      "open": 10.51,
+      "high": 10.52,
+      "low": 10.51,
+      "close": 10.52,
+      "volume": 102400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.52,
+      "high": 10.52,
+      "low": 10.52,
+      "close": 10.52,
+      "volume": 0
     }
   ]
 }

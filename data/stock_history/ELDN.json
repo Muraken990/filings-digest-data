@@ -1,9 +1,9 @@
 {
   "code": "ELDN",
   "ticker": "ELDN",
-  "last_updated": "2026-09-04 07:37:58",
+  "last_updated": "2026-09-05 07:35:15",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1146008
+      "open": 3.07,
+      "high": 3.1,
+      "low": 2.92,
+      "close": 2.93,
+      "volume": 1146400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 2.97,
+      "high": 3.06,
+      "low": 2.93,
+      "close": 3.02,
+      "volume": 1197300
     }
   ]
 }

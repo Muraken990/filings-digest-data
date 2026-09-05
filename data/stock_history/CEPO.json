@@ -1,9 +1,9 @@
 {
   "code": "CEPO",
   "ticker": "CEPO",
-  "last_updated": "2026-09-04 07:25:59",
+  "last_updated": "2026-09-05 07:23:22",
   "period": "5y",
-  "data_points": 416,
+  "data_points": 417,
   "data": [
     {
       "date": "2025-01-07",
@@ -3327,11 +3327,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 24537
+      "open": 10.76,
+      "high": 10.76,
+      "low": 10.75,
+      "close": 10.75,
+      "volume": 24500
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.75,
+      "high": 10.76,
+      "low": 10.75,
+      "close": 10.76,
+      "volume": 54600
     }
   ]
 }

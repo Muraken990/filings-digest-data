@@ -1,9 +1,9 @@
 {
   "code": "DMII",
   "ticker": "DMII",
-  "last_updated": "2026-09-04 07:34:33",
+  "last_updated": "2026-09-05 07:31:53",
   "period": "5y",
-  "data_points": 189,
+  "data_points": 190,
   "data": [
     {
       "date": "2025-12-03",
@@ -1511,11 +1511,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4677
+      "open": 10.19,
+      "high": 10.19,
+      "low": 10.16,
+      "close": 10.17,
+      "volume": 4700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.17,
+      "high": 10.17,
+      "low": 10.17,
+      "close": 10.17,
+      "volume": 900
     }
   ]
 }

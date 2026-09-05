@@ -1,9 +1,9 @@
 {
   "code": "AEON",
   "ticker": "AEON",
-  "last_updated": "2026-09-04 07:08:52",
+  "last_updated": "2026-09-05 07:06:25",
   "period": "5y",
-  "data_points": 921,
+  "data_points": 922,
   "data": [
     {
       "date": "2023-01-03",
@@ -7367,11 +7367,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 374053
+      "open": 0.28,
+      "high": 0.28,
+      "low": 0.25,
+      "close": 0.25,
+      "volume": 374100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 0.26,
+      "high": 0.28,
+      "low": 0.24,
+      "close": 0.24,
+      "volume": 758600
     }
   ]
 }

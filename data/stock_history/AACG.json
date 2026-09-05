@@ -1,9 +1,9 @@
 {
   "code": "AACG",
   "ticker": "AACG",
-  "last_updated": "2026-09-04 07:07:07",
+  "last_updated": "2026-09-05 07:04:39",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 14888
+      "open": 0.87,
+      "high": 0.9,
+      "low": 0.87,
+      "close": 0.9,
+      "volume": 14900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 0.91,
+      "high": 0.92,
+      "low": 0.88,
+      "close": 0.89,
+      "volume": 3100
     }
   ]
 }

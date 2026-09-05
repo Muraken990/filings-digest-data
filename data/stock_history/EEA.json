@@ -1,9 +1,9 @@
 {
   "code": "EEA",
   "ticker": "EEA",
-  "last_updated": "2026-09-04 07:37:07",
+  "last_updated": "2026-09-05 07:34:24",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 9672
+      "open": 11.02,
+      "high": 11.32,
+      "low": 10.98,
+      "close": 11.06,
+      "volume": 9700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 11.0,
+      "high": 11.13,
+      "low": 10.97,
+      "close": 11.07,
+      "volume": 11500
     }
   ]
 }

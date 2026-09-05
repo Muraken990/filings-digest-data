@@ -1,9 +1,9 @@
 {
   "code": "CNTX",
   "ticker": "CNTX",
-  "last_updated": "2026-09-04 07:29:22",
+  "last_updated": "2026-09-05 07:26:44",
   "period": "5y",
-  "data_points": 1223,
+  "data_points": 1224,
   "data": [
     {
       "date": "2021-10-20",
@@ -9783,11 +9783,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1438841
+      "open": 0.37,
+      "high": 0.38,
+      "low": 0.35,
+      "close": 0.36,
+      "volume": 1441300
+    },
+    {
+      "date": "2026-09-04",
+      "open": 0.37,
+      "high": 0.37,
+      "low": 0.35,
+      "close": 0.36,
+      "volume": 974900
     }
   ]
 }

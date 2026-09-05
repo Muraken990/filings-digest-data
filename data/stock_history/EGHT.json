@@ -1,9 +1,9 @@
 {
   "code": "EGHT",
   "ticker": "EGHT",
-  "last_updated": "2026-09-04 07:37:55",
+  "last_updated": "2026-09-05 07:35:12",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1538389
+      "open": 1.86,
+      "high": 1.94,
+      "low": 1.86,
+      "close": 1.92,
+      "volume": 1538400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.92,
+      "high": 1.93,
+      "low": 1.86,
+      "close": 1.89,
+      "volume": 950900
     }
   ]
 }

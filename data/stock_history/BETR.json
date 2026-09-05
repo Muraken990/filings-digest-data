@@ -1,9 +1,9 @@
 {
   "code": "BETR",
   "ticker": "BETR",
-  "last_updated": "2026-09-04 07:19:06",
+  "last_updated": "2026-09-05 07:16:33",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 362945
+      "open": 12.31,
+      "high": 13.46,
+      "low": 12.31,
+      "close": 13.2,
+      "volume": 362900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 12.92,
+      "high": 14.77,
+      "low": 12.66,
+      "close": 14.48,
+      "volume": 726500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "FER",
   "ticker": "FER",
-  "last_updated": "2026-09-04 07:42:14",
+  "last_updated": "2026-09-05 07:39:29",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 999138
+      "open": 58.01,
+      "high": 58.16,
+      "low": 57.63,
+      "close": 58.1,
+      "volume": 999100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 58.0,
+      "high": 58.49,
+      "low": 57.9,
+      "close": 58.05,
+      "volume": 1012900
     }
   ]
 }

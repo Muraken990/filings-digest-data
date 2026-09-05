@@ -1,9 +1,9 @@
 {
   "code": "FDSB",
   "ticker": "FDSB",
-  "last_updated": "2026-09-04 07:42:12",
+  "last_updated": "2026-09-05 07:39:28",
   "period": "5y",
-  "data_points": 525,
+  "data_points": 526,
   "data": [
     {
       "date": "2024-08-01",
@@ -4199,11 +4199,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4699
+      "open": 18.35,
+      "high": 18.36,
+      "low": 18.35,
+      "close": 18.36,
+      "volume": 4800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 18.5,
+      "high": 18.69,
+      "low": 18.43,
+      "close": 18.65,
+      "volume": 3600
     }
   ]
 }

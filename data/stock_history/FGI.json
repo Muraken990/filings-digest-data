@@ -1,9 +1,9 @@
 {
   "code": "FGI",
   "ticker": "FGI",
-  "last_updated": "2026-09-04 07:43:01",
+  "last_updated": "2026-09-05 07:40:16",
   "period": "5y",
-  "data_points": 1157,
+  "data_points": 1158,
   "data": [
     {
       "date": "2022-01-25",
@@ -9255,11 +9255,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 30921
+      "open": 6.89,
+      "high": 7.13,
+      "low": 6.5,
+      "close": 6.89,
+      "volume": 31400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 6.85,
+      "high": 7.52,
+      "low": 6.85,
+      "close": 7.41,
+      "volume": 40500
     }
   ]
 }

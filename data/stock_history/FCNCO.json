@@ -1,9 +1,9 @@
 {
   "code": "FCNCO",
   "ticker": "FCNCO",
-  "last_updated": "2026-09-04 07:42:11",
+  "last_updated": "2026-09-05 07:39:27",
   "period": "5y",
-  "data_points": 1168,
+  "data_points": 1169,
   "data": [
     {
       "date": "2022-01-07",
@@ -9343,11 +9343,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 23765
+      "open": 20.26,
+      "high": 20.49,
+      "low": 20.2,
+      "close": 20.37,
+      "volume": 23800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 20.31,
+      "high": 20.49,
+      "low": 20.31,
+      "close": 20.32,
+      "volume": 11600
     }
   ]
 }

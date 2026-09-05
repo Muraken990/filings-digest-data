@@ -1,9 +1,9 @@
 {
   "code": "AXTI",
   "ticker": "AXTI",
-  "last_updated": "2026-09-04 07:16:35",
+  "last_updated": "2026-09-05 07:14:04",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7200330
+      "open": 56.11,
+      "high": 57.77,
+      "low": 52.76,
+      "close": 56.2,
+      "volume": 7225400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 57.69,
+      "high": 62.5,
+      "low": 56.01,
+      "close": 61.64,
+      "volume": 10812100
     }
   ]
 }

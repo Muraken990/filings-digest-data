@@ -1,9 +1,9 @@
 {
   "code": "BST",
   "ticker": "BST",
-  "last_updated": "2026-09-04 07:22:32",
+  "last_updated": "2026-09-05 07:19:58",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 106225
+      "open": 50.23,
+      "high": 50.51,
+      "low": 49.67,
+      "close": 49.86,
+      "volume": 106200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 49.99,
+      "high": 50.76,
+      "low": 49.76,
+      "close": 50.76,
+      "volume": 48700
     }
   ]
 }

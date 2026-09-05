@@ -1,9 +1,9 @@
 {
   "code": "CELU",
   "ticker": "CELU",
-  "last_updated": "2026-09-04 07:25:58",
+  "last_updated": "2026-09-05 07:23:21",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 362924
+      "open": 1.85,
+      "high": 1.89,
+      "low": 1.78,
+      "close": 1.83,
+      "volume": 363000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.83,
+      "high": 1.83,
+      "low": 1.62,
+      "close": 1.68,
+      "volume": 349400
     }
   ]
 }

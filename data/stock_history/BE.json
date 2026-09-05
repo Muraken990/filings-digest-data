@@ -1,9 +1,9 @@
 {
   "code": "BE",
   "ticker": "BE",
-  "last_updated": "2026-09-04 07:18:18",
+  "last_updated": "2026-09-05 07:15:46",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 15587803
+      "open": 219.0,
+      "high": 238.41,
+      "low": 212.12,
+      "close": 235.55,
+      "volume": 15640700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 236.82,
+      "high": 253.3,
+      "low": 235.55,
+      "close": 252.87,
+      "volume": 16015100
     }
   ]
 }

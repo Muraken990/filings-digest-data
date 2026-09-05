@@ -1,9 +1,9 @@
 {
   "code": "CLIR",
   "ticker": "CLIR",
-  "last_updated": "2026-09-04 07:27:43",
+  "last_updated": "2026-09-05 07:25:05",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 42098
+      "open": 4.27,
+      "high": 4.32,
+      "low": 3.95,
+      "close": 4.1,
+      "volume": 42200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 3.98,
+      "high": 4.15,
+      "low": 3.9,
+      "close": 3.91,
+      "volume": 9200
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ALKS",
   "ticker": "ALKS",
-  "last_updated": "2026-09-04 07:11:23",
+  "last_updated": "2026-09-05 07:08:54",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 974495
+      "open": 48.01,
+      "high": 48.29,
+      "low": 46.71,
+      "close": 46.88,
+      "volume": 974500
+    },
+    {
+      "date": "2026-09-04",
+      "open": 46.14,
+      "high": 46.93,
+      "low": 45.8,
+      "close": 46.1,
+      "volume": 1064000
     }
   ]
 }

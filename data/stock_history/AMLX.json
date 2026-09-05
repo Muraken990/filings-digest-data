@@ -1,9 +1,9 @@
 {
   "code": "AMLX",
   "ticker": "AMLX",
-  "last_updated": "2026-09-04 07:12:16",
+  "last_updated": "2026-09-05 07:09:46",
   "period": "5y",
-  "data_points": 1168,
+  "data_points": 1169,
   "data": [
     {
       "date": "2022-01-07",
@@ -9343,11 +9343,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1556698
+      "open": 34.49,
+      "high": 35.31,
+      "low": 33.73,
+      "close": 33.96,
+      "volume": 1556700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 33.38,
+      "high": 34.24,
+      "low": 33.38,
+      "close": 34.1,
+      "volume": 885500
     }
   ]
 }

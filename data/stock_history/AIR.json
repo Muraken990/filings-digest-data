@@ -1,9 +1,9 @@
 {
   "code": "AIR",
   "ticker": "AIR",
-  "last_updated": "2026-09-04 07:10:32",
+  "last_updated": "2026-09-05 07:08:04",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 250354
+      "open": 125.62,
+      "high": 125.83,
+      "low": 122.02,
+      "close": 125.66,
+      "volume": 250600
+    },
+    {
+      "date": "2026-09-04",
+      "open": 124.71,
+      "high": 126.99,
+      "low": 124.57,
+      "close": 126.54,
+      "volume": 197400
     }
   ]
 }

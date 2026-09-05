@@ -1,9 +1,9 @@
 {
   "code": "EXEL",
   "ticker": "EXEL",
-  "last_updated": "2026-09-04 07:41:19",
+  "last_updated": "2026-09-05 07:38:34",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2141249
+      "open": 58.75,
+      "high": 59.72,
+      "low": 58.2,
+      "close": 59.13,
+      "volume": 2141400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 58.5,
+      "high": 59.26,
+      "low": 58.46,
+      "close": 59.01,
+      "volume": 1581000
     }
   ]
 }

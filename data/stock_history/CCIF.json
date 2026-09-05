@@ -1,9 +1,9 @@
 {
   "code": "CCIF",
   "ticker": "CCIF",
-  "last_updated": "2026-09-04 07:25:07",
+  "last_updated": "2026-09-05 07:22:31",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 94203
+      "open": 2.71,
+      "high": 2.77,
+      "low": 2.69,
+      "close": 2.71,
+      "volume": 94200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 2.75,
+      "high": 2.75,
+      "low": 2.69,
+      "close": 2.71,
+      "volume": 100000
     }
   ]
 }

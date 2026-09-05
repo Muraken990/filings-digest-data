@@ -1,9 +1,9 @@
 {
   "code": "BAR",
   "ticker": "BAR",
-  "last_updated": "2026-09-04 07:17:25",
+  "last_updated": "2026-09-05 07:14:53",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 257719
+      "open": 44.03,
+      "high": 44.38,
+      "low": 43.74,
+      "close": 44.03,
+      "volume": 257700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 43.41,
+      "high": 43.79,
+      "low": 43.37,
+      "close": 43.68,
+      "volume": 259400
     }
   ]
 }

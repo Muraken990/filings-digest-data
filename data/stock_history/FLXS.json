@@ -1,9 +1,9 @@
 {
   "code": "FLXS",
   "ticker": "FLXS",
-  "last_updated": "2026-09-04 07:43:52",
+  "last_updated": "2026-09-05 07:41:08",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -624,7 +624,7 @@
     {
       "date": "2021-12-27",
       "open": 23.04,
-      "high": 23.32,
+      "high": 23.31,
       "low": 22.9,
       "close": 22.99,
       "volume": 13600
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 62281
+      "open": 81.63,
+      "high": 82.82,
+      "low": 80.23,
+      "close": 80.37,
+      "volume": 62300
+    },
+    {
+      "date": "2026-09-04",
+      "open": 80.01,
+      "high": 82.95,
+      "low": 80.01,
+      "close": 82.16,
+      "volume": 95200
     }
   ]
 }

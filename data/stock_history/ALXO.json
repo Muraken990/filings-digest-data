@@ -1,9 +1,9 @@
 {
   "code": "ALXO",
   "ticker": "ALXO",
-  "last_updated": "2026-09-04 07:11:28",
+  "last_updated": "2026-09-05 07:08:58",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 603415
+      "open": 2.09,
+      "high": 2.09,
+      "low": 2.0,
+      "close": 2.03,
+      "volume": 603400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 2.0,
+      "high": 2.03,
+      "low": 1.99,
+      "close": 2.01,
+      "volume": 301100
     }
   ]
 }

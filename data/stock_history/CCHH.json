@@ -1,9 +1,9 @@
 {
   "code": "CCHH",
   "ticker": "CCHH",
-  "last_updated": "2026-09-04 07:25:07",
+  "last_updated": "2026-09-05 07:22:30",
   "period": "5y",
-  "data_points": 231,
+  "data_points": 232,
   "data": [
     {
       "date": "2025-10-03",
@@ -1847,11 +1847,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 123561
+      "open": 1.23,
+      "high": 1.35,
+      "low": 1.23,
+      "close": 1.26,
+      "volume": 126900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.25,
+      "high": 1.26,
+      "low": 1.18,
+      "close": 1.25,
+      "volume": 41700
     }
   ]
 }

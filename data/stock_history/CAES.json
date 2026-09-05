@@ -1,9 +1,9 @@
 {
   "code": "CAES",
   "ticker": "CAES",
-  "last_updated": "2026-09-04 07:24:13",
+  "last_updated": "2026-09-05 07:21:37",
   "period": "5y",
-  "data_points": 55,
+  "data_points": 56,
   "data": [
     {
       "date": "2026-06-17",
@@ -439,11 +439,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 11368
+      "open": 10.1,
+      "high": 10.1,
+      "low": 10.08,
+      "close": 10.08,
+      "volume": 11400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.1,
+      "high": 10.1,
+      "low": 10.09,
+      "close": 10.09,
+      "volume": 1600
     }
   ]
 }

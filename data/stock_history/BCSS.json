@@ -1,9 +1,9 @@
 {
   "code": "BCSS",
   "ticker": "BCSS",
-  "last_updated": "2026-09-04 07:18:16",
+  "last_updated": "2026-09-05 07:15:44",
   "period": "5y",
-  "data_points": 197,
+  "data_points": 198,
   "data": [
     {
       "date": "2025-11-20",
@@ -1575,11 +1575,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 112
+      "open": 10.28,
+      "high": 10.28,
+      "low": 10.28,
+      "close": 10.28,
+      "volume": 100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.28,
+      "high": 10.31,
+      "low": 10.28,
+      "close": 10.31,
+      "volume": 500
     }
   ]
 }

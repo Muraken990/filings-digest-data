@@ -1,9 +1,9 @@
 {
   "code": "ECBK",
   "ticker": "ECBK",
-  "last_updated": "2026-09-04 07:37:03",
+  "last_updated": "2026-09-05 07:34:21",
   "period": "5y",
-  "data_points": 1030,
+  "data_points": 1031,
   "data": [
     {
       "date": "2022-07-28",
@@ -8239,11 +8239,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8395
+      "open": 21.23,
+      "high": 21.78,
+      "low": 21.14,
+      "close": 21.55,
+      "volume": 8400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 21.45,
+      "high": 21.45,
+      "low": 20.36,
+      "close": 20.75,
+      "volume": 7900
     }
   ]
 }

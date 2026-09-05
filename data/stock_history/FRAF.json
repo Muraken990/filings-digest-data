@@ -1,9 +1,9 @@
 {
   "code": "FRAF",
   "ticker": "FRAF",
-  "last_updated": "2026-09-04 07:44:44",
+  "last_updated": "2026-09-05 07:41:59",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 17752
+      "open": 63.52,
+      "high": 64.18,
+      "low": 63.04,
+      "close": 63.2,
+      "volume": 18800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 62.67,
+      "high": 64.45,
+      "low": 62.64,
+      "close": 64.26,
+      "volume": 33800
     }
   ]
 }

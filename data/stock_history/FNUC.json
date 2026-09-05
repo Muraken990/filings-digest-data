@@ -1,9 +1,9 @@
 {
   "code": "FNUC",
   "ticker": "FNUC",
-  "last_updated": "2026-09-04 07:43:55",
+  "last_updated": "2026-09-05 07:41:11",
   "period": "5y",
-  "data_points": 1201,
+  "data_points": 1202,
   "data": [
     {
       "date": "2021-11-19",
@@ -9607,11 +9607,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 96080
+      "open": 1.54,
+      "high": 1.56,
+      "low": 1.5,
+      "close": 1.52,
+      "volume": 96100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.52,
+      "high": 1.54,
+      "low": 1.49,
+      "close": 1.51,
+      "volume": 151000
     }
   ]
 }

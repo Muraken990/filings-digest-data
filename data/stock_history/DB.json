@@ -1,9 +1,9 @@
 {
   "code": "DB",
   "ticker": "DB",
-  "last_updated": "2026-09-04 07:33:37",
+  "last_updated": "2026-09-05 07:30:57",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2415880
+      "open": 41.06,
+      "high": 41.56,
+      "low": 41.06,
+      "close": 41.56,
+      "volume": 2416100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 41.32,
+      "high": 41.5,
+      "low": 41.25,
+      "close": 41.33,
+      "volume": 1092300
     }
   ]
 }

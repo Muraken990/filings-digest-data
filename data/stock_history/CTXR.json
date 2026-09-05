@@ -1,9 +1,9 @@
 {
   "code": "CTXR",
   "ticker": "CTXR",
-  "last_updated": "2026-09-04 07:31:57",
+  "last_updated": "2026-09-05 07:29:18",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 250403
+      "open": 0.58,
+      "high": 0.61,
+      "low": 0.58,
+      "close": 0.6,
+      "volume": 250600
+    },
+    {
+      "date": "2026-09-04",
+      "open": 0.6,
+      "high": 0.61,
+      "low": 0.58,
+      "close": 0.59,
+      "volume": 299600
     }
   ]
 }

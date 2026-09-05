@@ -1,9 +1,9 @@
 {
   "code": "CUB",
   "ticker": "CUB",
-  "last_updated": "2026-09-04 07:31:57",
+  "last_updated": "2026-09-05 07:29:18",
   "period": "5y",
-  "data_points": 518,
+  "data_points": 519,
   "data": [
     {
       "date": "2024-08-12",
@@ -4143,11 +4143,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1349
+      "open": 10.89,
+      "high": 10.89,
+      "low": 10.89,
+      "close": 10.89,
+      "volume": 1400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.9,
+      "high": 10.9,
+      "low": 10.88,
+      "close": 10.88,
+      "volume": 1300
     }
   ]
 }

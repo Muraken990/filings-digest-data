@@ -1,9 +1,9 @@
 {
   "code": "BEAM",
   "ticker": "BEAM",
-  "last_updated": "2026-09-04 07:19:04",
+  "last_updated": "2026-09-05 07:16:31",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1266055
+      "open": 29.49,
+      "high": 29.65,
+      "low": 28.02,
+      "close": 29.46,
+      "volume": 1266600
+    },
+    {
+      "date": "2026-09-04",
+      "open": 28.91,
+      "high": 29.97,
+      "low": 28.91,
+      "close": 29.66,
+      "volume": 1181600
     }
   ]
 }

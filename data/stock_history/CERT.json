@@ -1,9 +1,9 @@
 {
   "code": "CERT",
   "ticker": "CERT",
-  "last_updated": "2026-09-04 07:25:59",
+  "last_updated": "2026-09-05 07:23:22",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2125054
+      "open": 8.35,
+      "high": 8.43,
+      "low": 7.99,
+      "close": 8.13,
+      "volume": 2125100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 8.02,
+      "high": 8.05,
+      "low": 7.91,
+      "close": 7.94,
+      "volume": 1271300
     }
   ]
 }

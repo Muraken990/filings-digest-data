@@ -1,9 +1,9 @@
 {
   "code": "ARCIU",
   "ticker": "ARCIU",
-  "last_updated": "2026-09-04 07:13:59",
+  "last_updated": "2026-09-05 07:11:29",
   "period": "5y",
-  "data_points": 155,
+  "data_points": 156,
   "data": [
     {
       "date": "2026-01-23",
@@ -1239,11 +1239,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1022
+      "open": 10.34,
+      "high": 10.43,
+      "low": 10.34,
+      "close": 10.43,
+      "volume": 1000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.4,
+      "high": 10.4,
+      "low": 10.35,
+      "close": 10.39,
+      "volume": 3300
     }
   ]
 }

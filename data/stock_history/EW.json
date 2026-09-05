@@ -1,9 +1,9 @@
 {
   "code": "EW",
   "ticker": "EW",
-  "last_updated": "2026-09-04 07:41:18",
+  "last_updated": "2026-09-05 07:38:34",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1844031
+      "open": 91.08,
+      "high": 91.53,
+      "low": 89.33,
+      "close": 89.78,
+      "volume": 1844100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 90.21,
+      "high": 90.21,
+      "low": 88.4,
+      "close": 89.9,
+      "volume": 2635300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CDNL",
   "ticker": "CDNL",
-  "last_updated": "2026-09-04 07:25:56",
+  "last_updated": "2026-09-05 07:23:19",
   "period": "5y",
-  "data_points": 184,
+  "data_points": 185,
   "data": [
     {
       "date": "2025-12-10",
@@ -1471,11 +1471,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 331068
+      "open": 35.88,
+      "high": 36.5,
+      "low": 34.72,
+      "close": 35.35,
+      "volume": 331100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 35.13,
+      "high": 37.01,
+      "low": 35.13,
+      "close": 36.43,
+      "volume": 320200
     }
   ]
 }

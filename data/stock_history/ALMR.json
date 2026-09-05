@@ -1,9 +1,9 @@
 {
   "code": "ALMR",
   "ticker": "ALMR",
-  "last_updated": "2026-09-04 07:11:24",
+  "last_updated": "2026-09-05 07:08:55",
   "period": "5y",
-  "data_points": 97,
+  "data_points": 98,
   "data": [
     {
       "date": "2026-04-17",
@@ -775,11 +775,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 206971
+      "open": 30.83,
+      "high": 31.06,
+      "low": 29.6,
+      "close": 30.57,
+      "volume": 207000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 30.17,
+      "high": 31.06,
+      "low": 29.83,
+      "close": 30.8,
+      "volume": 142900
     }
   ]
 }

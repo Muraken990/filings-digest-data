@@ -1,9 +1,9 @@
 {
   "code": "FLYX",
   "ticker": "FLYX",
-  "last_updated": "2026-09-04 07:43:53",
+  "last_updated": "2026-09-05 07:41:08",
   "period": "5y",
-  "data_points": 672,
+  "data_points": 673,
   "data": [
     {
       "date": "2023-12-29",
@@ -5375,11 +5375,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 353727
+      "open": 1.16,
+      "high": 1.2,
+      "low": 1.12,
+      "close": 1.18,
+      "volume": 353700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.16,
+      "high": 1.18,
+      "low": 1.12,
+      "close": 1.15,
+      "volume": 223500
     }
   ]
 }

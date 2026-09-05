@@ -1,9 +1,9 @@
 {
   "code": "FLNC",
   "ticker": "FLNC",
-  "last_updated": "2026-09-04 07:43:06",
+  "last_updated": "2026-09-05 07:40:21",
   "period": "5y",
-  "data_points": 1217,
+  "data_points": 1218,
   "data": [
     {
       "date": "2021-10-28",
@@ -9735,11 +9735,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8660247
+      "open": 10.01,
+      "high": 10.41,
+      "low": 9.95,
+      "close": 10.2,
+      "volume": 8677700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.11,
+      "high": 10.37,
+      "low": 10.05,
+      "close": 10.35,
+      "volume": 3301300
     }
   ]
 }

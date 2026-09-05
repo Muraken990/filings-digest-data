@@ -1,9 +1,9 @@
 {
   "code": "DRCT",
   "ticker": "DRCT",
-  "last_updated": "2026-09-04 07:35:23",
+  "last_updated": "2026-09-05 07:32:42",
   "period": "5y",
-  "data_points": 1144,
+  "data_points": 1145,
   "data": [
     {
       "date": "2022-02-11",
@@ -9151,11 +9151,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 13576
+      "open": 1.93,
+      "high": 1.99,
+      "low": 1.93,
+      "close": 1.99,
+      "volume": 13700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.91,
+      "high": 1.99,
+      "low": 1.78,
+      "close": 1.96,
+      "volume": 19500
     }
   ]
 }

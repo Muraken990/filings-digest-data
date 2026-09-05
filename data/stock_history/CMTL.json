@@ -1,9 +1,9 @@
 {
   "code": "CMTL",
   "ticker": "CMTL",
-  "last_updated": "2026-09-04 07:28:34",
+  "last_updated": "2026-09-05 07:25:56",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 480942
+      "open": 1.55,
+      "high": 1.56,
+      "low": 1.49,
+      "close": 1.53,
+      "volume": 480900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.54,
+      "high": 1.6,
+      "low": 1.54,
+      "close": 1.56,
+      "volume": 356400
     }
   ]
 }

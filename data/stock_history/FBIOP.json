@@ -1,9 +1,9 @@
 {
   "code": "FBIOP",
   "ticker": "FBIOP",
-  "last_updated": "2026-09-04 07:41:23",
+  "last_updated": "2026-09-05 07:38:38",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -544,7 +544,7 @@
     {
       "date": "2021-12-10",
       "open": 18.67,
-      "high": 18.88,
+      "high": 18.89,
       "low": 18.67,
       "close": 18.77,
       "volume": 5400
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3601
+      "open": 18.73,
+      "high": 18.73,
+      "low": 18.51,
+      "close": 18.56,
+      "volume": 3600
+    },
+    {
+      "date": "2026-09-04",
+      "open": 18.55,
+      "high": 18.8,
+      "low": 18.54,
+      "close": 18.75,
+      "volume": 7800
     }
   ]
 }

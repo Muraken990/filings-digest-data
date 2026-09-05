@@ -1,9 +1,9 @@
 {
   "code": "AHR",
   "ticker": "AHR",
-  "last_updated": "2026-09-04 07:09:44",
+  "last_updated": "2026-09-05 07:07:16",
   "period": "5y",
-  "data_points": 646,
+  "data_points": 647,
   "data": [
     {
       "date": "2024-02-07",
@@ -5167,11 +5167,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2851098
+      "open": 55.6,
+      "high": 56.26,
+      "low": 55.25,
+      "close": 55.76,
+      "volume": 2851100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 55.16,
+      "high": 55.99,
+      "low": 54.69,
+      "close": 54.72,
+      "volume": 2324000
     }
   ]
 }

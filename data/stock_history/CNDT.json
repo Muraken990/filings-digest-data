@@ -1,9 +1,9 @@
 {
   "code": "CNDT",
   "ticker": "CNDT",
-  "last_updated": "2026-09-04 07:29:20",
+  "last_updated": "2026-09-05 07:26:42",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1355062
+      "open": 1.9,
+      "high": 2.01,
+      "low": 1.88,
+      "close": 1.89,
+      "volume": 1355100
+    },
+    {
+      "date": "2026-09-04",
+      "open": 1.9,
+      "high": 1.96,
+      "low": 1.84,
+      "close": 1.94,
+      "volume": 680700
     }
   ]
 }

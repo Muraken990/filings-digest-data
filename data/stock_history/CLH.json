@@ -1,9 +1,9 @@
 {
   "code": "CLH",
   "ticker": "CLH",
-  "last_updated": "2026-09-04 07:27:42",
+  "last_updated": "2026-09-05 07:25:05",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 273547
+      "open": 317.26,
+      "high": 320.26,
+      "low": 314.57,
+      "close": 318.65,
+      "volume": 273500
+    },
+    {
+      "date": "2026-09-04",
+      "open": 315.62,
+      "high": 318.84,
+      "low": 314.87,
+      "close": 317.1,
+      "volume": 224400
     }
   ]
 }

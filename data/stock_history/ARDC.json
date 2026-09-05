@@ -1,9 +1,9 @@
 {
   "code": "ARDC",
   "ticker": "ARDC",
-  "last_updated": "2026-09-04 07:14:00",
+  "last_updated": "2026-09-05 07:11:29",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -3032,7 +3032,7 @@
     {
       "date": "2023-03-09",
       "open": 8.76,
-      "high": 8.81,
+      "high": 8.8,
       "low": 8.64,
       "close": 8.66,
       "volume": 55600
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 63974
+      "open": 12.36,
+      "high": 12.38,
+      "low": 12.29,
+      "close": 12.31,
+      "volume": 64000
+    },
+    {
+      "date": "2026-09-04",
+      "open": 12.29,
+      "high": 12.31,
+      "low": 12.26,
+      "close": 12.3,
+      "volume": 90600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ARCL",
   "ticker": "ARCL",
-  "last_updated": "2026-09-04 07:13:59",
+  "last_updated": "2026-09-05 07:11:29",
   "period": "5y",
-  "data_points": 68,
+  "data_points": 69,
   "data": [
     {
       "date": "2026-05-29",
@@ -543,11 +543,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 60394
+      "open": 9.98,
+      "high": 10.0,
+      "low": 9.97,
+      "close": 10.0,
+      "volume": 60400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 9.97,
+      "high": 10.01,
+      "low": 9.97,
+      "close": 10.01,
+      "volume": 4400
     }
   ]
 }

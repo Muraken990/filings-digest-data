@@ -1,9 +1,9 @@
 {
   "code": "BAM",
   "ticker": "BAM",
-  "last_updated": "2026-09-04 07:17:23",
+  "last_updated": "2026-09-05 07:14:52",
   "period": "5y",
-  "data_points": 942,
+  "data_points": 943,
   "data": [
     {
       "date": "2022-12-01",
@@ -1873,7 +1873,7 @@
       "date": "2023-11-06",
       "open": 28.48,
       "high": 29.05,
-      "low": 27.76,
+      "low": 27.75,
       "close": 28.05,
       "volume": 1340900
     },
@@ -7535,11 +7535,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2526871
+      "open": 49.81,
+      "high": 50.93,
+      "low": 49.78,
+      "close": 50.29,
+      "volume": 2526900
+    },
+    {
+      "date": "2026-09-04",
+      "open": 49.7,
+      "high": 50.97,
+      "low": 49.51,
+      "close": 50.6,
+      "volume": 3104300
     }
   ]
 }

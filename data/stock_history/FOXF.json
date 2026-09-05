@@ -1,9 +1,9 @@
 {
   "code": "FOXF",
   "ticker": "FOXF",
-  "last_updated": "2026-09-04 07:43:58",
+  "last_updated": "2026-09-05 07:41:12",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 402230
+      "open": 20.76,
+      "high": 20.95,
+      "low": 20.31,
+      "close": 20.76,
+      "volume": 402200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 20.56,
+      "high": 21.73,
+      "low": 20.42,
+      "close": 21.52,
+      "volume": 334900
     }
   ]
 }
