@@ -1,9 +1,9 @@
 {
   "code": "TAVIU",
   "ticker": "TAVIU",
-  "last_updated": "2026-09-04 12:22:51",
+  "last_updated": "2026-09-05 12:22:42",
   "period": "5y",
-  "data_points": 438,
+  "data_points": 439,
   "data": [
     {
       "date": "2024-12-04",
@@ -3503,11 +3503,19 @@
     },
     {
       "date": "2026-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4052
+      "open": 11.7,
+      "high": 11.7,
+      "low": 10.74,
+      "close": 10.74,
+      "volume": 4049
+    },
+    {
+      "date": "2026-09-04",
+      "open": 10.98,
+      "high": 10.98,
+      "low": 10.39,
+      "close": 10.79,
+      "volume": 2459
     }
   ]
 }

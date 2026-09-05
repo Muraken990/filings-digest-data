@@ -1,9 +1,9 @@
 {
   "code": "WSE",
   "ticker": "WSE",
-  "last_updated": "2026-09-04 12:33:55",
+  "last_updated": "2026-09-05 12:33:52",
   "period": "5y",
-  "data_points": 81,
+  "data_points": 82,
   "data": [
     {
       "date": "2026-05-11",
@@ -652,6 +652,14 @@
       "low": 13.06,
       "close": 13.2,
       "volume": 1841800
+    },
+    {
+      "date": "2026-09-04",
+      "open": 12.87,
+      "high": 12.97,
+      "low": 12.72,
+      "close": 12.78,
+      "volume": 1264100
     }
   ]
 }

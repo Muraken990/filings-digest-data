@@ -1,18 +1,10 @@
 {
   "code": "UHAL",
   "ticker": "UHAL",
-  "last_updated": "2026-09-04 12:27:57",
+  "last_updated": "2026-09-05 12:27:51",
   "period": "5y",
   "data_points": 1255,
   "data": [
-    {
-      "date": "2021-09-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-09-07",
       "open": 65.18,
@@ -10044,6 +10036,14 @@
       "low": 66.28,
       "close": 67.61,
       "volume": 198200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 67.26,
+      "high": 68.01,
+      "low": 67.06,
+      "close": 67.19,
+      "volume": 134000
     }
   ]
 }

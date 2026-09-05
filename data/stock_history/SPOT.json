@@ -1,9 +1,9 @@
 {
   "code": "SPOT",
   "ticker": "SPOT",
-  "last_updated": "2026-09-04 12:19:30",
+  "last_updated": "2026-09-05 12:19:21",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10036,6 +10036,14 @@
       "low": 558.05,
       "close": 560.11,
       "volume": 1609400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 556.49,
+      "high": 563.65,
+      "low": 540.81,
+      "close": 542.43,
+      "volume": 1370200
     }
   ]
 }

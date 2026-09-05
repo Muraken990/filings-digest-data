@@ -1,9 +1,9 @@
 {
   "code": "POST",
   "ticker": "POST",
-  "last_updated": "2026-09-04 12:07:31",
+  "last_updated": "2026-09-05 12:07:20",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-07",
@@ -10036,6 +10036,14 @@
       "low": 83.44,
       "close": 84.26,
       "volume": 652700
+    },
+    {
+      "date": "2026-09-04",
+      "open": 83.42,
+      "high": 85.18,
+      "low": 83.29,
+      "close": 84.64,
+      "volume": 823400
     }
   ]
 }

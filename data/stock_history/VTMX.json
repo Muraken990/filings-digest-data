@@ -1,9 +1,9 @@
 {
   "code": "VTMX",
   "ticker": "VTMX",
-  "last_updated": "2026-09-04 12:31:24",
+  "last_updated": "2026-09-05 12:31:19",
   "period": "5y",
-  "data_points": 798,
+  "data_points": 799,
   "data": [
     {
       "date": "2023-06-30",
@@ -416,7 +416,7 @@
     {
       "date": "2023-09-13",
       "open": 34.86,
-      "high": 35.09,
+      "high": 35.1,
       "low": 33.97,
       "close": 34.0,
       "volume": 35100
@@ -6388,6 +6388,14 @@
       "low": 34.45,
       "close": 34.78,
       "volume": 112400
+    },
+    {
+      "date": "2026-09-04",
+      "open": 34.49,
+      "high": 35.11,
+      "low": 34.49,
+      "close": 34.7,
+      "volume": 87000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "TWOD",
   "ticker": "TWOD",
-  "last_updated": "2026-09-04 12:27:07",
+  "last_updated": "2026-09-05 12:27:00",
   "period": "5y",
-  "data_points": 327,
+  "data_points": 328,
   "data": [
     {
       "date": "2025-05-16",
@@ -2620,6 +2620,14 @@
       "low": 26.07,
       "close": 26.09,
       "volume": 24200
+    },
+    {
+      "date": "2026-09-04",
+      "open": 26.1,
+      "high": 26.16,
+      "low": 26.1,
+      "close": 26.13,
+      "volume": 31400
     }
   ]
 }
