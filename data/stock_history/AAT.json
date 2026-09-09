@@ -1,25 +1,17 @@
 {
   "code": "AAT",
   "ticker": "AAT",
-  "last_updated": "2026-09-08 07:06:51",
+  "last_updated": "2026-09-09 07:05:18",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-07",
-      "open": 30.05,
-      "high": 30.37,
-      "low": 29.81,
-      "close": 30.25,
-      "volume": 326500
-    },
-    {
       "date": "2021-09-08",
-      "open": 30.07,
-      "high": 30.64,
-      "low": 29.91,
-      "close": 30.08,
-      "volume": 208900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-09",
@@ -10044,6 +10036,14 @@
       "low": 21.95,
       "close": 22.04,
       "volume": 480200
+    },
+    {
+      "date": "2026-09-08",
+      "open": 22.05,
+      "high": 22.23,
+      "low": 21.71,
+      "close": 21.83,
+      "volume": 496100
     }
   ]
 }

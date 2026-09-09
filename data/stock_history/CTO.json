@@ -1,25 +1,17 @@
 {
   "code": "CTO",
   "ticker": "CTO",
-  "last_updated": "2026-09-08 07:31:47",
+  "last_updated": "2026-09-09 07:30:04",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-07",
-      "open": 12.7,
-      "high": 12.78,
-      "low": 12.49,
-      "close": 12.55,
-      "volume": 162900
-    },
-    {
       "date": "2021-09-08",
-      "open": 12.39,
-      "high": 12.68,
-      "low": 12.24,
-      "close": 12.4,
-      "volume": 161400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-09",
@@ -1800,7 +1792,7 @@
     {
       "date": "2022-07-28",
       "open": 15.6,
-      "high": 15.79,
+      "high": 15.78,
       "low": 15.45,
       "close": 15.76,
       "volume": 99600
@@ -1912,7 +1904,7 @@
     {
       "date": "2022-08-17",
       "open": 15.61,
-      "high": 15.79,
+      "high": 15.78,
       "low": 15.42,
       "close": 15.76,
       "volume": 194900
@@ -10044,6 +10036,14 @@
       "low": 21.35,
       "close": 21.49,
       "volume": 198900
+    },
+    {
+      "date": "2026-09-08",
+      "open": 21.43,
+      "high": 21.68,
+      "low": 21.38,
+      "close": 21.49,
+      "volume": 390500
     }
   ]
 }
