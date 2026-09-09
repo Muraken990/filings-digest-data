@@ -1,26 +1,10 @@
 {
   "code": "SYPR",
   "ticker": "SYPR",
-  "last_updated": "2026-09-08 12:22:04",
+  "last_updated": "2026-09-09 12:22:00",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-07",
-      "open": 3.79,
-      "high": 3.9,
-      "low": 3.75,
-      "close": 3.87,
-      "volume": 239100
-    },
-    {
-      "date": "2021-09-08",
-      "open": 3.88,
-      "high": 3.88,
-      "low": 3.5,
-      "close": 3.55,
-      "volume": 220500
-    },
     {
       "date": "2021-09-09",
       "open": 3.55,
@@ -10044,6 +10028,14 @@
       "low": 1.82,
       "close": 1.87,
       "volume": 10700
+    },
+    {
+      "date": "2026-09-08",
+      "open": 1.86,
+      "high": 1.94,
+      "low": 1.81,
+      "close": 1.9,
+      "volume": 64000
     }
   ]
 }

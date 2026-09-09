@@ -1,9 +1,9 @@
 {
   "code": "REA",
   "ticker": "REA",
-  "last_updated": "2026-09-08 12:10:10",
+  "last_updated": "2026-09-09 12:10:04",
   "period": "5y",
-  "data_points": 86,
+  "data_points": 87,
   "data": [
     {
       "date": "2026-05-05",
@@ -692,6 +692,14 @@
       "low": 11.55,
       "close": 11.73,
       "volume": 86600
+    },
+    {
+      "date": "2026-09-08",
+      "open": 11.6,
+      "high": 12.2,
+      "low": 11.54,
+      "close": 11.6,
+      "volume": 103200
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SMCIP",
   "ticker": "SMCIP",
-  "last_updated": "2026-09-08 12:17:49",
+  "last_updated": "2026-09-09 12:17:44",
   "period": "5y",
-  "data_points": 60,
+  "data_points": 61,
   "data": [
     {
       "date": "2026-06-11",
@@ -484,6 +484,14 @@
       "low": 63.75,
       "close": 66.68,
       "volume": 629300
+    },
+    {
+      "date": "2026-09-08",
+      "open": 66.63,
+      "high": 69.33,
+      "low": 66.63,
+      "close": 67.54,
+      "volume": 2329300
     }
   ]
 }

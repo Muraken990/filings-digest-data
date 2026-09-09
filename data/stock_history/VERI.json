@@ -1,26 +1,10 @@
 {
   "code": "VERI",
   "ticker": "VERI",
-  "last_updated": "2026-09-08 12:29:00",
+  "last_updated": "2026-09-09 12:29:00",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-07",
-      "open": 21.8,
-      "high": 22.23,
-      "low": 21.01,
-      "close": 21.04,
-      "volume": 282600
-    },
-    {
-      "date": "2021-09-08",
-      "open": 21.14,
-      "high": 21.42,
-      "low": 20.08,
-      "close": 20.22,
-      "volume": 289200
-    },
     {
       "date": "2021-09-09",
       "open": 20.14,
@@ -10043,7 +10027,15 @@
       "high": 0.91,
       "low": 0.8,
       "close": 0.91,
-      "volume": 3104100
+      "volume": 3132400
+    },
+    {
+      "date": "2026-09-08",
+      "open": 0.9,
+      "high": 0.97,
+      "low": 0.88,
+      "close": 0.92,
+      "volume": 2098800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "YHNA",
   "ticker": "YHNA",
-  "last_updated": "2026-09-08 12:34:59",
+  "last_updated": "2026-09-09 12:35:00",
   "period": "5y",
-  "data_points": 456,
+  "data_points": 457,
   "data": [
     {
       "date": "2024-11-08",
@@ -3652,6 +3652,14 @@
       "low": 11.02,
       "close": 11.03,
       "volume": 1000
+    },
+    {
+      "date": "2026-09-08",
+      "open": 11.24,
+      "high": 12.0,
+      "low": 11.03,
+      "close": 11.05,
+      "volume": 7600
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "STKH",
   "ticker": "STKH",
-  "last_updated": "2026-09-08 12:20:24",
+  "last_updated": "2026-09-09 12:20:20",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-07",
-      "open": 7032.0,
-      "high": 7068.0,
-      "low": 6742.8,
-      "close": 6948.0,
-      "volume": 22
-    },
-    {
-      "date": "2021-09-08",
-      "open": 6960.0,
-      "high": 6960.0,
-      "low": 6612.0,
-      "close": 6888.0,
-      "volume": 14
-    },
     {
       "date": "2021-09-09",
       "open": 6888.0,
@@ -10044,6 +10028,14 @@
       "low": 2.35,
       "close": 2.45,
       "volume": 100000
+    },
+    {
+      "date": "2026-09-08",
+      "open": 2.4,
+      "high": 2.48,
+      "low": 2.24,
+      "close": 2.32,
+      "volume": 40400
     }
   ]
 }
