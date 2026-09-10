@@ -1,17 +1,17 @@
 {
   "code": "VFC",
   "ticker": "VFC",
-  "last_updated": "2026-09-09 12:29:01",
+  "last_updated": "2026-09-10 12:30:07",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-09",
-      "open": 60.55,
-      "high": 61.86,
-      "low": 60.55,
-      "close": 61.52,
-      "volume": 2407200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-10",
@@ -10036,6 +10036,14 @@
       "low": 13.17,
       "close": 13.2,
       "volume": 4916000
+    },
+    {
+      "date": "2026-09-09",
+      "open": 13.14,
+      "high": 13.19,
+      "low": 12.88,
+      "close": 12.91,
+      "volume": 6076400
     }
   ]
 }

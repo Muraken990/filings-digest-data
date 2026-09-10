@@ -1,9 +1,9 @@
 {
   "code": "SDHC",
   "ticker": "SDHC",
-  "last_updated": "2026-09-09 12:15:10",
+  "last_updated": "2026-09-10 12:16:15",
   "period": "5y",
-  "data_points": 666,
+  "data_points": 667,
   "data": [
     {
       "date": "2024-01-11",
@@ -5332,6 +5332,14 @@
       "low": 10.62,
       "close": 10.67,
       "volume": 51100
+    },
+    {
+      "date": "2026-09-09",
+      "open": 10.67,
+      "high": 10.69,
+      "low": 10.2,
+      "close": 10.33,
+      "volume": 42300
     }
   ]
 }

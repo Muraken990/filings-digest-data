@@ -1,9 +1,9 @@
 {
   "code": "SFWL",
   "ticker": "SFWL",
-  "last_updated": "2026-09-09 12:15:15",
+  "last_updated": "2026-09-10 12:16:20",
   "period": "5y",
-  "data_points": 862,
+  "data_points": 863,
   "data": [
     {
       "date": "2023-03-31",
@@ -6899,7 +6899,15 @@
       "high": null,
       "low": null,
       "close": null,
-      "volume": 12187
+      "volume": 0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 11.44,
+      "high": 12.0,
+      "low": 10.29,
+      "close": 10.91,
+      "volume": 29800
     }
   ]
 }

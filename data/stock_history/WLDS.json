@@ -1,9 +1,9 @@
 {
   "code": "WLDS",
   "ticker": "WLDS",
-  "last_updated": "2026-09-09 12:32:27",
+  "last_updated": "2026-09-10 12:33:35",
   "period": "5y",
-  "data_points": 1000,
+  "data_points": 1001,
   "data": [
     {
       "date": "2022-09-13",
@@ -8004,6 +8004,14 @@
       "low": 1.55,
       "close": 1.79,
       "volume": 1438900
+    },
+    {
+      "date": "2026-09-09",
+      "open": 1.8,
+      "high": 1.8,
+      "low": 1.5,
+      "close": 1.69,
+      "volume": 223600
     }
   ]
 }

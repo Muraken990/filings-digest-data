@@ -1,9 +1,9 @@
 {
   "code": "SCAG",
   "ticker": "SCAG",
-  "last_updated": "2026-09-09 12:14:21",
+  "last_updated": "2026-09-10 12:15:26",
   "period": "5y",
-  "data_points": 301,
+  "data_points": 302,
   "data": [
     {
       "date": "2025-06-27",
@@ -2412,6 +2412,14 @@
       "low": 0.22,
       "close": 0.25,
       "volume": 666800
+    },
+    {
+      "date": "2026-09-09",
+      "open": 0.25,
+      "high": 0.26,
+      "low": 0.23,
+      "close": 0.24,
+      "volume": 949700
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "UBSI",
   "ticker": "UBSI",
-  "last_updated": "2026-09-09 12:27:13",
+  "last_updated": "2026-09-10 12:28:18",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-09",
-      "open": 28.41,
-      "high": 28.64,
-      "low": 28.13,
-      "close": 28.2,
-      "volume": 444400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-10",
@@ -4543,7 +4543,7 @@
     },
     {
       "date": "2023-12-11",
-      "open": 31.84,
+      "open": 31.83,
       "high": 32.07,
       "low": 31.47,
       "close": 31.93,
@@ -10036,6 +10036,14 @@
       "low": 47.24,
       "close": 47.27,
       "volume": 741500
+    },
+    {
+      "date": "2026-09-09",
+      "open": 46.95,
+      "high": 47.38,
+      "low": 46.77,
+      "close": 46.9,
+      "volume": 1069100
     }
   ]
 }

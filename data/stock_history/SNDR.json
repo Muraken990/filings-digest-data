@@ -1,17 +1,17 @@
 {
   "code": "SNDR",
   "ticker": "SNDR",
-  "last_updated": "2026-09-09 12:17:47",
+  "last_updated": "2026-09-10 12:18:53",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-09",
-      "open": 21.2,
-      "high": 21.3,
-      "low": 20.67,
-      "close": 20.83,
-      "volume": 360500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-10",
@@ -6122,7 +6122,7 @@
       "open": 27.3,
       "high": 27.76,
       "low": 27.26,
-      "close": 27.65,
+      "close": 27.64,
       "volume": 426600
     },
     {
@@ -6146,7 +6146,7 @@
       "open": 27.73,
       "high": 28.0,
       "low": 27.53,
-      "close": 27.65,
+      "close": 27.64,
       "volume": 445400
     },
     {
@@ -6361,7 +6361,7 @@
       "date": "2024-11-05",
       "open": 27.73,
       "high": 28.4,
-      "low": 27.64,
+      "low": 27.65,
       "close": 28.36,
       "volume": 722300
     },
@@ -10036,6 +10036,14 @@
       "low": 34.6,
       "close": 34.64,
       "volume": 629200
+    },
+    {
+      "date": "2026-09-09",
+      "open": 34.55,
+      "high": 34.72,
+      "low": 33.73,
+      "close": 33.75,
+      "volume": 489000
     }
   ]
 }
