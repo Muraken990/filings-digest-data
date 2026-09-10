@@ -1,9 +1,9 @@
 {
   "code": "HACQ",
   "ticker": "HACQ",
-  "last_updated": "2026-09-09 09:40:59",
+  "last_updated": "2026-09-10 09:42:01",
   "period": "5y",
-  "data_points": 108,
+  "data_points": 109,
   "data": [
     {
       "date": "2026-04-06",
@@ -868,6 +868,14 @@
       "low": 10.06,
       "close": 10.06,
       "volume": 0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 10.07,
+      "high": 10.08,
+      "low": 10.07,
+      "close": 10.08,
+      "volume": 752000
     }
   ]
 }

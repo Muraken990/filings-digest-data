@@ -1,26 +1,10 @@
 {
   "code": "NRIM",
   "ticker": "NRIM",
-  "last_updated": "2026-09-09 10:05:44",
+  "last_updated": "2026-09-10 10:06:50",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-08",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-09-09",
-      "open": 8.73,
-      "high": 8.73,
-      "low": 8.45,
-      "close": 8.45,
-      "volume": 69600
-    },
     {
       "date": "2021-09-10",
       "open": 8.52,
@@ -10044,6 +10028,14 @@
       "low": 26.0,
       "close": 26.03,
       "volume": 188800
+    },
+    {
+      "date": "2026-09-09",
+      "open": 26.01,
+      "high": 26.47,
+      "low": 25.8,
+      "close": 26.04,
+      "volume": 112500
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "NDAQ",
   "ticker": "NDAQ",
-  "last_updated": "2026-09-09 10:03:11",
+  "last_updated": "2026-09-10 10:04:15",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-09",
-      "open": 61.78,
-      "high": 62.41,
-      "low": 61.67,
-      "close": 61.8,
-      "volume": 1561800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-10",
@@ -8497,7 +8497,7 @@
       "date": "2025-12-01",
       "open": 89.69,
       "high": 89.88,
-      "low": 88.4,
+      "low": 88.41,
       "close": 88.49,
       "volume": 3715400
     },
@@ -10036,6 +10036,14 @@
       "low": 94.41,
       "close": 95.04,
       "volume": 2412800
+    },
+    {
+      "date": "2026-09-09",
+      "open": 95.15,
+      "high": 95.33,
+      "low": 93.9,
+      "close": 94.22,
+      "volume": 2471400
     }
   ]
 }

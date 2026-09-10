@@ -1,26 +1,10 @@
 {
   "code": "INSW",
   "ticker": "INSW",
-  "last_updated": "2026-09-09 09:46:59",
+  "last_updated": "2026-09-10 09:48:02",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-08",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-09-09",
-      "open": 10.63,
-      "high": 11.21,
-      "low": 10.63,
-      "close": 10.96,
-      "volume": 280700
-    },
     {
       "date": "2021-09-10",
       "open": 11.08,
@@ -1137,7 +1121,7 @@
       "date": "2022-03-30",
       "open": 10.93,
       "high": 11.2,
-      "low": 10.9,
+      "low": 10.91,
       "close": 11.19,
       "volume": 309200
     },
@@ -2487,7 +2471,7 @@
     },
     {
       "date": "2022-11-30",
-      "open": 27.28,
+      "open": 27.29,
       "high": 27.54,
       "low": 26.6,
       "close": 27.26,
@@ -10044,6 +10028,14 @@
       "low": 102.89,
       "close": 103.81,
       "volume": 828400
+    },
+    {
+      "date": "2026-09-09",
+      "open": 104.5,
+      "high": 105.67,
+      "low": 103.0,
+      "close": 104.62,
+      "volume": 644300
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "KTB",
   "ticker": "KTB",
-  "last_updated": "2026-09-09 09:52:04",
+  "last_updated": "2026-09-10 09:53:07",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-09",
-      "open": 43.95,
-      "high": 44.81,
-      "low": 43.5,
-      "close": 44.06,
-      "volume": 546500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-10",
@@ -2690,7 +2690,7 @@
       "open": 38.2,
       "high": 38.82,
       "low": 37.57,
-      "close": 38.19,
+      "close": 38.2,
       "volume": 487400
     },
     {
@@ -4480,9 +4480,9 @@
     {
       "date": "2023-11-29",
       "open": 49.23,
-      "high": 49.89,
+      "high": 49.9,
       "low": 49.11,
-      "close": 49.89,
+      "close": 49.9,
       "volume": 425200
     },
     {
@@ -5546,7 +5546,7 @@
       "open": 67.58,
       "high": 67.59,
       "low": 66.15,
-      "close": 66.23,
+      "close": 66.24,
       "volume": 500600
     },
     {
@@ -8674,7 +8674,7 @@
       "open": 60.09,
       "high": 60.87,
       "low": 59.49,
-      "close": 60.16,
+      "close": 60.15,
       "volume": 533300
     },
     {
@@ -10036,6 +10036,14 @@
       "low": 70.23,
       "close": 70.73,
       "volume": 695600
+    },
+    {
+      "date": "2026-09-09",
+      "open": 70.49,
+      "high": 70.67,
+      "low": 67.0,
+      "close": 67.16,
+      "volume": 644100
     }
   ]
 }

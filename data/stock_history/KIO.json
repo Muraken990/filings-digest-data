@@ -1,17 +1,17 @@
 {
   "code": "KIO",
   "ticker": "KIO",
-  "last_updated": "2026-09-09 09:51:12",
+  "last_updated": "2026-09-10 09:52:14",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-09",
-      "open": 9.56,
-      "high": 9.66,
-      "low": 9.54,
-      "close": 9.57,
-      "volume": 55400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-10",
@@ -10036,6 +10036,14 @@
       "low": 10.99,
       "close": 11.01,
       "volume": 130400
+    },
+    {
+      "date": "2026-09-09",
+      "open": 11.01,
+      "high": 11.02,
+      "low": 10.97,
+      "close": 10.97,
+      "volume": 104100
     }
   ]
 }
