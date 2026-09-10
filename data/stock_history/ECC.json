@@ -1,17 +1,17 @@
 {
   "code": "ECC",
   "ticker": "ECC",
-  "last_updated": "2026-09-09 07:35:13",
+  "last_updated": "2026-09-10 07:35:53",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-09",
-      "open": 5.1,
-      "high": 5.11,
-      "low": 5.05,
-      "close": 5.1,
-      "volume": 337900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-10",
@@ -10036,6 +10036,14 @@
       "low": 3.9,
       "close": 3.91,
       "volume": 533600
+    },
+    {
+      "date": "2026-09-09",
+      "open": 3.9,
+      "high": 3.93,
+      "low": 3.84,
+      "close": 3.84,
+      "volume": 860200
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "BGIN",
   "ticker": "BGIN",
-  "last_updated": "2026-09-09 07:17:15",
+  "last_updated": "2026-09-10 07:17:50",
   "period": "5y",
-  "data_points": 221,
+  "data_points": 222,
   "data": [
     {
       "date": "2025-10-21",
@@ -1772,6 +1772,14 @@
       "low": 1.92,
       "close": 1.99,
       "volume": 4800
+    },
+    {
+      "date": "2026-09-09",
+      "open": 1.9,
+      "high": 1.98,
+      "low": 1.9,
+      "close": 1.98,
+      "volume": 1100
     }
   ]
 }

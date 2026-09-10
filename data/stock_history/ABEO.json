@@ -1,18 +1,10 @@
 {
   "code": "ABEO",
   "ticker": "ABEO",
-  "last_updated": "2026-09-09 07:05:19",
+  "last_updated": "2026-09-10 07:05:45",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-09",
-      "open": 31.25,
-      "high": 33.25,
-      "low": 31.0,
-      "close": 32.5,
-      "volume": 17696
-    },
     {
       "date": "2021-09-10",
       "open": 32.75,
@@ -10035,7 +10027,15 @@
       "high": 6.0,
       "low": 5.81,
       "close": 5.85,
-      "volume": 842600
+      "volume": 872600
+    },
+    {
+      "date": "2026-09-09",
+      "open": 5.81,
+      "high": 5.91,
+      "low": 5.7,
+      "close": 5.79,
+      "volume": 1782800
     }
   ]
 }

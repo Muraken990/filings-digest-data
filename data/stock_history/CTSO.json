@@ -1,18 +1,10 @@
 {
   "code": "CTSO",
   "ticker": "CTSO",
-  "last_updated": "2026-09-09 07:30:05",
+  "last_updated": "2026-09-10 07:30:45",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-09",
-      "open": 8.9,
-      "high": 9.11,
-      "low": 8.81,
-      "close": 8.91,
-      "volume": 120500
-    },
     {
       "date": "2021-09-10",
       "open": 9.01,
@@ -10035,7 +10027,15 @@
       "high": null,
       "low": null,
       "close": null,
-      "volume": 17950
+      "volume": 0
+    },
+    {
+      "date": "2026-09-09",
+      "open": 6.74,
+      "high": 6.98,
+      "low": 6.11,
+      "close": 6.33,
+      "volume": 36800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CALC",
   "ticker": "CALC",
-  "last_updated": "2026-09-09 07:22:21",
+  "last_updated": "2026-09-10 07:22:59",
   "period": "5y",
-  "data_points": 811,
+  "data_points": 812,
   "data": [
     {
       "date": "2023-06-14",
@@ -6492,6 +6492,14 @@
       "low": 1.99,
       "close": 2.02,
       "volume": 122600
+    },
+    {
+      "date": "2026-09-09",
+      "open": 2.03,
+      "high": 2.31,
+      "low": 1.91,
+      "close": 2.3,
+      "volume": 181600
     }
   ]
 }
