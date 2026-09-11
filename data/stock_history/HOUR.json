@@ -1,9 +1,9 @@
 {
   "code": "HOUR",
   "ticker": "HOUR",
-  "last_updated": "2026-09-10 09:43:47",
+  "last_updated": "2026-09-11 09:43:39",
   "period": "5y",
-  "data_points": 1171,
+  "data_points": 1172,
   "data": [
     {
       "date": "2022-01-07",
@@ -9372,6 +9372,14 @@
       "low": 1.8,
       "close": 1.82,
       "volume": 13000
+    },
+    {
+      "date": "2026-09-10",
+      "open": 1.86,
+      "high": 1.86,
+      "low": 1.86,
+      "close": 1.86,
+      "volume": 1200
     }
   ]
 }

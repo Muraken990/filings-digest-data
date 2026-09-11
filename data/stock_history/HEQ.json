@@ -1,17 +1,17 @@
 {
   "code": "HEQ",
   "ticker": "HEQ",
-  "last_updated": "2026-09-10 09:42:53",
+  "last_updated": "2026-09-11 09:42:46",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-10",
-      "open": 8.61,
-      "high": 8.61,
-      "low": 8.42,
-      "close": 8.42,
-      "volume": 37000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-13",
@@ -10036,6 +10036,14 @@
       "low": 11.66,
       "close": 11.71,
       "volume": 32100
+    },
+    {
+      "date": "2026-09-10",
+      "open": 11.68,
+      "high": 11.75,
+      "low": 11.55,
+      "close": 11.63,
+      "volume": 17900
     }
   ]
 }

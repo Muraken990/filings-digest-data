@@ -1,18 +1,10 @@
 {
   "code": "OPEN",
   "ticker": "OPEN",
-  "last_updated": "2026-09-10 10:10:17",
+  "last_updated": "2026-09-11 10:10:14",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-10",
-      "open": 19.01,
-      "high": 19.34,
-      "low": 18.72,
-      "close": 18.75,
-      "volume": 5079300
-    },
     {
       "date": "2021-09-13",
       "open": 18.89,
@@ -10035,7 +10027,15 @@
       "high": 3.08,
       "low": 2.96,
       "close": 3.0,
-      "volume": 30608200
+      "volume": 31145600
+    },
+    {
+      "date": "2026-09-10",
+      "open": 2.87,
+      "high": 2.9,
+      "low": 2.79,
+      "close": 2.8,
+      "volume": 43668800
     }
   ]
 }

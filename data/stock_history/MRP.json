@@ -1,9 +1,9 @@
 {
   "code": "MRP",
   "ticker": "MRP",
-  "last_updated": "2026-09-10 10:01:39",
+  "last_updated": "2026-09-11 10:01:38",
   "period": "5y",
-  "data_points": 400,
+  "data_points": 401,
   "data": [
     {
       "date": "2025-02-05",
@@ -3204,6 +3204,14 @@
       "low": 30.22,
       "close": 30.49,
       "volume": 1077900
+    },
+    {
+      "date": "2026-09-10",
+      "open": 30.37,
+      "high": 30.43,
+      "low": 29.35,
+      "close": 29.59,
+      "volume": 1330600
     }
   ]
 }
