@@ -1,9 +1,9 @@
 {
   "code": "VACI",
   "ticker": "VACI",
-  "last_updated": "2026-09-10 12:30:03",
+  "last_updated": "2026-09-11 12:31:17",
   "period": "5y",
-  "data_points": 200,
+  "data_points": 201,
   "data": [
     {
       "date": "2025-11-20",
@@ -1604,6 +1604,14 @@
       "low": 6.3,
       "close": 6.32,
       "volume": 11500
+    },
+    {
+      "date": "2026-09-10",
+      "open": 6.61,
+      "high": 6.79,
+      "low": 6.31,
+      "close": 6.52,
+      "volume": 7700
     }
   ]
 }

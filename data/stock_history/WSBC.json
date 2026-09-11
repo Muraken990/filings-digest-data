@@ -1,26 +1,10 @@
 {
   "code": "WSBC",
   "ticker": "WSBC",
-  "last_updated": "2026-09-10 12:34:24",
+  "last_updated": "2026-09-11 12:35:36",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-09",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-09-10",
-      "open": 25.71,
-      "high": 25.83,
-      "low": 25.0,
-      "close": 25.04,
-      "volume": 445200
-    },
     {
       "date": "2021-09-13",
       "open": 25.33,
@@ -232,7 +216,7 @@
     {
       "date": "2021-10-19",
       "open": 29.41,
-      "high": 29.49,
+      "high": 29.48,
       "low": 29.05,
       "close": 29.29,
       "volume": 196800
@@ -10044,6 +10028,14 @@
       "low": 39.92,
       "close": 40.07,
       "volume": 902700
+    },
+    {
+      "date": "2026-09-10",
+      "open": 40.05,
+      "high": 40.25,
+      "low": 39.59,
+      "close": 40.25,
+      "volume": 1010700
     }
   ]
 }

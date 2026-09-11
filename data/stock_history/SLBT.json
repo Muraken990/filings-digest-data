@@ -1,9 +1,9 @@
 {
   "code": "SLBT",
   "ticker": "SLBT",
-  "last_updated": "2026-09-10 12:18:00",
+  "last_updated": "2026-09-11 12:19:17",
   "period": "5y",
-  "data_points": 400,
+  "data_points": 401,
   "data": [
     {
       "date": "2025-02-05",
@@ -3204,6 +3204,14 @@
       "low": 2.55,
       "close": 2.61,
       "volume": 54200
+    },
+    {
+      "date": "2026-09-10",
+      "open": 2.58,
+      "high": 2.62,
+      "low": 2.02,
+      "close": 2.1,
+      "volume": 278000
     }
   ]
 }
