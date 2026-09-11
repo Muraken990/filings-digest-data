@@ -1,17 +1,17 @@
 {
   "code": "BTO",
   "ticker": "BTO",
-  "last_updated": "2026-09-10 07:21:19",
+  "last_updated": "2026-09-11 07:23:15",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-10",
-      "open": 28.43,
-      "high": 28.43,
-      "low": 27.93,
-      "close": 27.95,
-      "volume": 33300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-13",
@@ -6344,7 +6344,7 @@
     {
       "date": "2024-11-04",
       "open": 30.06,
-      "high": 30.12,
+      "high": 30.11,
       "low": 29.5,
       "close": 29.75,
       "volume": 36900
@@ -10036,6 +10036,14 @@
       "low": 39.19,
       "close": 39.43,
       "volume": 29300
+    },
+    {
+      "date": "2026-09-10",
+      "open": 39.43,
+      "high": 39.77,
+      "low": 39.08,
+      "close": 39.47,
+      "volume": 39300
     }
   ]
 }

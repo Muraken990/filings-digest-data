@@ -1,18 +1,10 @@
 {
   "code": "ALP",
   "ticker": "ALP",
-  "last_updated": "2026-09-10 07:10:03",
+  "last_updated": "2026-09-11 07:12:13",
   "period": "5y",
   "data_points": 1253,
   "data": [
-    {
-      "date": "2021-09-10",
-      "open": 390.0,
-      "high": 399.0,
-      "low": 372.8,
-      "close": 377.2,
-      "volume": 605
-    },
     {
       "date": "2021-09-13",
       "open": 380.4,
@@ -10027,7 +10019,15 @@
       "high": null,
       "low": null,
       "close": null,
-      "volume": 150683
+      "volume": 0
+    },
+    {
+      "date": "2026-09-10",
+      "open": 5.16,
+      "high": 5.16,
+      "low": 3.6,
+      "close": 3.71,
+      "volume": 618200
     }
   ]
 }

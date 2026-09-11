@@ -1,17 +1,17 @@
 {
   "code": "EVF",
   "ticker": "EVF",
-  "last_updated": "2026-09-10 07:39:21",
+  "last_updated": "2026-09-11 07:40:59",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-10",
-      "open": 4.34,
-      "high": 4.34,
-      "low": 4.32,
-      "close": 4.33,
-      "volume": 50000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-13",
@@ -1352,7 +1352,7 @@
     {
       "date": "2022-05-11",
       "open": 3.81,
-      "high": 3.81,
+      "high": 3.82,
       "low": 3.69,
       "close": 3.7,
       "volume": 502600
@@ -1512,7 +1512,7 @@
     {
       "date": "2022-06-09",
       "open": 3.8,
-      "high": 3.82,
+      "high": 3.81,
       "low": 3.8,
       "close": 3.8,
       "volume": 26400
@@ -10036,6 +10036,14 @@
       "low": 4.94,
       "close": 4.94,
       "volume": 27500
+    },
+    {
+      "date": "2026-09-10",
+      "open": 4.94,
+      "high": 4.97,
+      "low": 4.91,
+      "close": 4.93,
+      "volume": 71300
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "DRUG",
   "ticker": "DRUG",
-  "last_updated": "2026-09-10 07:34:13",
+  "last_updated": "2026-09-11 07:35:56",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-10",
-      "open": 27.4,
-      "high": 27.61,
-      "low": 27.4,
-      "close": 27.4,
-      "volume": 280
-    },
     {
       "date": "2021-09-13",
       "open": 27.07,
@@ -10036,6 +10028,14 @@
       "low": 64.74,
       "close": 65.06,
       "volume": 43200
+    },
+    {
+      "date": "2026-09-10",
+      "open": 63.98,
+      "high": 66.0,
+      "low": 63.19,
+      "close": 65.0,
+      "volume": 86700
     }
   ]
 }
