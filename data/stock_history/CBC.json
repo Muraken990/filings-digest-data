@@ -1,9 +1,9 @@
 {
   "code": "CBC",
   "ticker": "CBC",
-  "last_updated": "2026-09-11 07:25:43",
+  "last_updated": "2026-09-12 07:23:45",
   "period": "5y",
-  "data_points": 200,
+  "data_points": 201,
   "data": [
     {
       "date": "2025-11-21",
@@ -1604,6 +1604,14 @@
       "low": 31.86,
       "close": 32.12,
       "volume": 1063900
+    },
+    {
+      "date": "2026-09-11",
+      "open": 32.34,
+      "high": 32.59,
+      "low": 32.14,
+      "close": 32.41,
+      "volume": 1403100
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "BOBS",
   "ticker": "BOBS",
-  "last_updated": "2026-09-11 07:22:22",
+  "last_updated": "2026-09-12 07:20:22",
   "period": "5y",
-  "data_points": 150,
+  "data_points": 151,
   "data": [
     {
       "date": "2026-02-05",
@@ -1204,6 +1204,14 @@
       "low": 15.16,
       "close": 15.2,
       "volume": 702300
+    },
+    {
+      "date": "2026-09-11",
+      "open": 15.46,
+      "high": 16.08,
+      "low": 15.39,
+      "close": 15.85,
+      "volume": 567000
     }
   ]
 }

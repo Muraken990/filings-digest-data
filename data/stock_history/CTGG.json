@@ -1,9 +1,9 @@
 {
   "code": "CTGG",
   "ticker": "CTGG",
-  "last_updated": "2026-09-11 07:32:30",
+  "last_updated": "2026-09-12 07:30:37",
   "period": "5y",
-  "data_points": 59,
+  "data_points": 60,
   "data": [
     {
       "date": "2026-06-17",
@@ -476,6 +476,14 @@
       "low": 16.03,
       "close": 16.03,
       "volume": 18400
+    },
+    {
+      "date": "2026-09-11",
+      "open": 16.12,
+      "high": 16.25,
+      "low": 15.75,
+      "close": 15.9,
+      "volume": 52400
     }
   ]
 }
