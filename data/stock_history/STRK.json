@@ -1,9 +1,9 @@
 {
   "code": "STRK",
   "ticker": "STRK",
-  "last_updated": "2026-09-11 12:22:43",
+  "last_updated": "2026-09-12 12:21:03",
   "period": "5y",
-  "data_points": 403,
+  "data_points": 404,
   "data": [
     {
       "date": "2025-02-03",
@@ -3228,6 +3228,14 @@
       "low": 75.78,
       "close": 76.01,
       "volume": 32500
+    },
+    {
+      "date": "2026-09-11",
+      "open": 76.01,
+      "high": 77.78,
+      "low": 74.5,
+      "close": 76.0,
+      "volume": 96400
     }
   ]
 }

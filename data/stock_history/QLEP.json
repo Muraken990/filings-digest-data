@@ -1,9 +1,9 @@
 {
   "code": "QLEP",
   "ticker": "QLEP",
-  "last_updated": "2026-09-11 12:10:44",
+  "last_updated": "2026-09-12 12:09:03",
   "period": "5y",
-  "data_points": 56,
+  "data_points": 57,
   "data": [
     {
       "date": "2026-06-23",
@@ -452,6 +452,14 @@
       "low": 9.99,
       "close": 10.03,
       "volume": 900
+    },
+    {
+      "date": "2026-09-11",
+      "open": 10.05,
+      "high": 10.05,
+      "low": 10.05,
+      "close": 10.05,
+      "volume": 400
     }
   ]
 }
