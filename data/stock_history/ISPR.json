@@ -1,9 +1,9 @@
 {
   "code": "ISPR",
   "ticker": "ISPR",
-  "last_updated": "2026-09-11 09:48:50",
+  "last_updated": "2026-09-12 09:47:28",
   "period": "5y",
-  "data_points": 862,
+  "data_points": 863,
   "data": [
     {
       "date": "2023-04-04",
@@ -6900,6 +6900,14 @@
       "low": 1.35,
       "close": 1.43,
       "volume": 7300
+    },
+    {
+      "date": "2026-09-11",
+      "open": 1.43,
+      "high": 1.57,
+      "low": 1.43,
+      "close": 1.49,
+      "volume": 20000
     }
   ]
 }
