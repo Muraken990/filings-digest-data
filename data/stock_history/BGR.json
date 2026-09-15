@@ -1,25 +1,17 @@
 {
   "code": "BGR",
   "ticker": "BGR",
-  "last_updated": "2026-09-14 07:17:22",
+  "last_updated": "2026-09-15 07:19:12",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 6.45,
-      "high": 6.51,
-      "low": 6.41,
-      "close": 6.49,
-      "volume": 121800
-    },
-    {
       "date": "2021-09-14",
-      "open": 6.55,
-      "high": 6.55,
-      "low": 6.38,
-      "close": 6.41,
-      "volume": 104100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -10044,6 +10036,14 @@
       "low": 17.52,
       "close": 17.63,
       "volume": 63500
+    },
+    {
+      "date": "2026-09-14",
+      "open": 17.87,
+      "high": 17.92,
+      "low": 17.47,
+      "close": 17.54,
+      "volume": 85600
     }
   ]
 }

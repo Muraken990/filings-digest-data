@@ -1,25 +1,17 @@
 {
   "code": "BHK",
   "ticker": "BHK",
-  "last_updated": "2026-09-14 07:18:09",
+  "last_updated": "2026-09-15 07:20:00",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 11.09,
-      "high": 11.18,
-      "low": 11.05,
-      "close": 11.11,
-      "volume": 105400
-    },
-    {
       "date": "2021-09-14",
-      "open": 11.15,
-      "high": 11.21,
-      "low": 11.09,
-      "close": 11.14,
-      "volume": 99200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -10044,6 +10036,14 @@
       "low": 8.75,
       "close": 8.75,
       "volume": 262000
+    },
+    {
+      "date": "2026-09-14",
+      "open": 8.77,
+      "high": 8.77,
+      "low": 8.68,
+      "close": 8.68,
+      "volume": 234200
     }
   ]
 }

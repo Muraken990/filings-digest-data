@@ -1,25 +1,17 @@
 {
   "code": "CBU",
   "ticker": "CBU",
-  "last_updated": "2026-09-14 07:23:17",
+  "last_updated": "2026-09-15 07:25:12",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 58.29,
-      "high": 58.91,
-      "low": 57.71,
-      "close": 58.56,
-      "volume": 272800
-    },
-    {
       "date": "2021-09-14",
-      "open": 58.58,
-      "high": 58.58,
-      "low": 57.03,
-      "close": 57.56,
-      "volume": 304100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -10044,6 +10036,14 @@
       "low": 62.26,
       "close": 62.54,
       "volume": 250200
+    },
+    {
+      "date": "2026-09-14",
+      "open": 62.74,
+      "high": 63.63,
+      "low": 62.55,
+      "close": 63.34,
+      "volume": 273300
     }
   ]
 }

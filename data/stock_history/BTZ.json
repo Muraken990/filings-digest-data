@@ -1,25 +1,17 @@
 {
   "code": "BTZ",
   "ticker": "BTZ",
-  "last_updated": "2026-09-14 07:20:48",
+  "last_updated": "2026-09-15 07:22:41",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 9.83,
-      "high": 9.88,
-      "low": 9.81,
-      "close": 9.88,
-      "volume": 162200
-    },
-    {
       "date": "2021-09-14",
-      "open": 9.91,
-      "high": 9.91,
-      "low": 9.82,
-      "close": 9.86,
-      "volume": 124800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -10044,6 +10036,14 @@
       "low": 9.7,
       "close": 9.7,
       "volume": 257600
+    },
+    {
+      "date": "2026-09-14",
+      "open": 9.73,
+      "high": 9.73,
+      "low": 9.67,
+      "close": 9.67,
+      "volume": 273600
     }
   ]
 }

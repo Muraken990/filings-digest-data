@@ -1,25 +1,17 @@
 {
   "code": "AMH",
   "ticker": "AMH",
-  "last_updated": "2026-09-14 07:10:31",
+  "last_updated": "2026-09-15 07:12:14",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 35.7,
-      "high": 36.11,
-      "low": 35.5,
-      "close": 35.61,
-      "volume": 1631800
-    },
-    {
       "date": "2021-09-14",
-      "open": 35.7,
-      "high": 35.83,
-      "low": 35.36,
-      "close": 35.47,
-      "volume": 1989800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -1863,7 +1855,7 @@
     },
     {
       "date": "2022-08-15",
-      "open": 34.08,
+      "open": 34.09,
       "high": 34.4,
       "low": 33.91,
       "close": 34.32,
@@ -10044,6 +10036,14 @@
       "low": 31.42,
       "close": 31.48,
       "volume": 2206400
+    },
+    {
+      "date": "2026-09-14",
+      "open": 31.48,
+      "high": 31.83,
+      "low": 31.23,
+      "close": 31.63,
+      "volume": 2189600
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "BTCT",
   "ticker": "BTCT",
-  "last_updated": "2026-09-14 07:20:47",
+  "last_updated": "2026-09-15 07:22:39",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-13",
-      "open": 234.0,
-      "high": 234.0,
-      "low": 222.0,
-      "close": 222.0,
-      "volume": 32530
-    },
-    {
-      "date": "2021-09-14",
-      "open": 222.0,
-      "high": 228.0,
-      "low": 204.0,
-      "close": 216.0,
-      "volume": 38790
-    },
     {
       "date": "2021-09-15",
       "open": 216.0,
@@ -10043,7 +10027,15 @@
       "high": 1.62,
       "low": 1.36,
       "close": 1.45,
-      "volume": 10151600
+      "volume": 10192800
+    },
+    {
+      "date": "2026-09-14",
+      "open": 1.42,
+      "high": 1.63,
+      "low": 1.41,
+      "close": 1.53,
+      "volume": 2255200
     }
   ]
 }

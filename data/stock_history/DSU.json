@@ -1,25 +1,17 @@
 {
   "code": "DSU",
   "ticker": "DSU",
-  "last_updated": "2026-09-14 07:34:22",
+  "last_updated": "2026-09-15 07:36:27",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 6.98,
-      "high": 7.0,
-      "low": 6.97,
-      "close": 6.99,
-      "volume": 117100
-    },
-    {
       "date": "2021-09-14",
-      "open": 7.01,
-      "high": 7.03,
-      "low": 6.98,
-      "close": 6.99,
-      "volume": 103200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -8737,7 +8729,7 @@
       "date": "2026-01-16",
       "open": 9.5,
       "high": 9.52,
-      "low": 9.46,
+      "low": 9.45,
       "close": 9.5,
       "volume": 1342800
     },
@@ -10044,6 +10036,14 @@
       "low": 9.32,
       "close": 9.32,
       "volume": 174200
+    },
+    {
+      "date": "2026-09-14",
+      "open": 9.34,
+      "high": 9.34,
+      "low": 9.22,
+      "close": 9.22,
+      "volume": 516900
     }
   ]
 }

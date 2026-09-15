@@ -1,25 +1,17 @@
 {
   "code": "CRF",
   "ticker": "CRF",
-  "last_updated": "2026-09-14 07:29:13",
+  "last_updated": "2026-09-15 07:31:15",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 5.23,
-      "high": 5.23,
-      "low": 5.19,
-      "close": 5.21,
-      "volume": 723078
-    },
-    {
       "date": "2021-09-14",
-      "open": 5.23,
-      "high": 5.23,
-      "low": 5.18,
-      "close": 5.2,
-      "volume": 711042
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -10044,6 +10036,14 @@
       "low": 6.32,
       "close": 6.37,
       "volume": 1498900
+    },
+    {
+      "date": "2026-09-14",
+      "open": 6.35,
+      "high": 6.36,
+      "low": 6.25,
+      "close": 6.34,
+      "volume": 2823900
     }
   ]
 }
