@@ -1,26 +1,10 @@
 {
   "code": "PUMP",
   "ticker": "PUMP",
-  "last_updated": "2026-09-14 12:08:46",
+  "last_updated": "2026-09-15 12:07:51",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-13",
-      "open": 7.65,
-      "high": 8.1,
-      "low": 7.62,
-      "close": 7.97,
-      "volume": 1079700
-    },
-    {
-      "date": "2021-09-14",
-      "open": 8.15,
-      "high": 8.28,
-      "low": 7.75,
-      "close": 7.79,
-      "volume": 618800
-    },
     {
       "date": "2021-09-15",
       "open": 7.97,
@@ -10044,6 +10028,14 @@
       "low": 11.34,
       "close": 11.45,
       "volume": 3963400
+    },
+    {
+      "date": "2026-09-14",
+      "open": 11.17,
+      "high": 11.23,
+      "low": 10.39,
+      "close": 10.5,
+      "volume": 4287500
     }
   ]
 }

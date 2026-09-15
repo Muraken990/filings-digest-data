@@ -1,25 +1,17 @@
 {
   "code": "SCI",
   "ticker": "SCI",
-  "last_updated": "2026-09-14 12:14:50",
+  "last_updated": "2026-09-15 12:13:58",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 57.88,
-      "high": 57.88,
-      "low": 56.95,
-      "close": 57.29,
-      "volume": 657900
-    },
-    {
       "date": "2021-09-14",
-      "open": 57.32,
-      "high": 57.58,
-      "low": 56.78,
-      "close": 57.06,
-      "volume": 567600
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -10044,6 +10036,14 @@
       "low": 80.39,
       "close": 82.21,
       "volume": 1191700
+    },
+    {
+      "date": "2026-09-14",
+      "open": 83.05,
+      "high": 83.35,
+      "low": 81.07,
+      "close": 81.28,
+      "volume": 984300
     }
   ]
 }

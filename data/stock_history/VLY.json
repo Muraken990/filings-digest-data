@@ -1,25 +1,17 @@
 {
   "code": "VLY",
   "ticker": "VLY",
-  "last_updated": "2026-09-14 12:30:21",
+  "last_updated": "2026-09-15 12:29:30",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 9.91,
-      "high": 9.99,
-      "low": 9.8,
-      "close": 9.91,
-      "volume": 2902900
-    },
-    {
       "date": "2021-09-14",
-      "open": 9.93,
-      "high": 9.96,
-      "low": 9.57,
-      "close": 9.62,
-      "volume": 2760000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -313,7 +305,7 @@
       "date": "2021-11-04",
       "open": 11.48,
       "high": 11.54,
-      "low": 11.3,
+      "low": 11.29,
       "close": 11.38,
       "volume": 1767900
     },
@@ -10044,6 +10036,14 @@
       "low": 13.72,
       "close": 13.8,
       "volume": 4020000
+    },
+    {
+      "date": "2026-09-14",
+      "open": 13.82,
+      "high": 13.95,
+      "low": 13.75,
+      "close": 13.84,
+      "volume": 6745200
     }
   ]
 }

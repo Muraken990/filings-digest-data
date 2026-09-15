@@ -1,25 +1,17 @@
 {
   "code": "RFI",
   "ticker": "RFI",
-  "last_updated": "2026-09-14 12:11:21",
+  "last_updated": "2026-09-15 12:10:27",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 11.43,
-      "high": 11.46,
-      "low": 11.36,
-      "close": 11.39,
-      "volume": 51400
-    },
-    {
       "date": "2021-09-14",
-      "open": 11.39,
-      "high": 11.44,
-      "low": 11.16,
-      "close": 11.35,
-      "volume": 53600
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -10044,6 +10036,14 @@
       "low": 10.98,
       "close": 11.01,
       "volume": 62700
+    },
+    {
+      "date": "2026-09-14",
+      "open": 11.0,
+      "high": 11.03,
+      "low": 10.89,
+      "close": 10.89,
+      "volume": 87600
     }
   ]
 }

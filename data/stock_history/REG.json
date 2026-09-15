@@ -1,25 +1,17 @@
 {
   "code": "REG",
   "ticker": "REG",
-  "last_updated": "2026-09-14 12:10:32",
+  "last_updated": "2026-09-15 12:09:38",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 53.95,
-      "high": 55.65,
-      "low": 53.92,
-      "close": 55.12,
-      "volume": 602000
-    },
-    {
       "date": "2021-09-14",
-      "open": 55.48,
-      "high": 55.67,
-      "low": 54.69,
-      "close": 55.16,
-      "volume": 704900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -10044,6 +10036,14 @@
       "low": 74.33,
       "close": 74.62,
       "volume": 1619000
+    },
+    {
+      "date": "2026-09-14",
+      "open": 74.91,
+      "high": 75.83,
+      "low": 74.29,
+      "close": 74.53,
+      "volume": 1287600
     }
   ]
 }

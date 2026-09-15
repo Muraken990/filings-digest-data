@@ -1,9 +1,9 @@
 {
   "code": "VTIX",
   "ticker": "VTIX",
-  "last_updated": "2026-09-14 12:31:13",
+  "last_updated": "2026-09-15 12:30:23",
   "period": "5y",
-  "data_points": 158,
+  "data_points": 159,
   "data": [
     {
       "date": "2026-01-27",
@@ -1268,6 +1268,14 @@
       "low": 1.02,
       "close": 1.03,
       "volume": 368800
+    },
+    {
+      "date": "2026-09-14",
+      "open": 1.04,
+      "high": 1.13,
+      "low": 1.01,
+      "close": 1.06,
+      "volume": 369000
     }
   ]
 }

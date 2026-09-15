@@ -1,25 +1,17 @@
 {
   "code": "VLYPP",
   "ticker": "VLYPP",
-  "last_updated": "2026-09-14 12:30:21",
+  "last_updated": "2026-09-15 12:29:30",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 21.17,
-      "high": 21.3,
-      "low": 21.1,
-      "close": 21.27,
-      "volume": 4200
-    },
-    {
       "date": "2021-09-14",
-      "open": 21.43,
-      "high": 21.43,
-      "low": 20.65,
-      "close": 20.95,
-      "volume": 2200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -2255,7 +2247,7 @@
     },
     {
       "date": "2022-10-24",
-      "open": 17.61,
+      "open": 17.6,
       "high": 18.19,
       "low": 17.34,
       "close": 17.34,
@@ -2416,7 +2408,7 @@
     {
       "date": "2022-11-21",
       "open": 17.57,
-      "high": 17.61,
+      "high": 17.6,
       "low": 17.16,
       "close": 17.57,
       "volume": 6700
@@ -10044,6 +10036,14 @@
       "low": 25.3,
       "close": 25.32,
       "volume": 2700
+    },
+    {
+      "date": "2026-09-14",
+      "open": 25.27,
+      "high": 25.34,
+      "low": 25.27,
+      "close": 25.28,
+      "volume": 2300
     }
   ]
 }

@@ -1,25 +1,17 @@
 {
   "code": "SFNC",
   "ticker": "SFNC",
-  "last_updated": "2026-09-14 12:15:43",
+  "last_updated": "2026-09-15 12:14:50",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 22.76,
-      "high": 23.26,
-      "low": 22.55,
-      "close": 23.24,
-      "volume": 500100
-    },
-    {
       "date": "2021-09-14",
-      "open": 23.27,
-      "high": 23.31,
-      "low": 22.71,
-      "close": 22.84,
-      "volume": 442500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -10044,6 +10036,14 @@
       "low": 22.98,
       "close": 23.19,
       "volume": 963700
+    },
+    {
+      "date": "2026-09-14",
+      "open": 23.13,
+      "high": 23.43,
+      "low": 23.13,
+      "close": 23.25,
+      "volume": 986600
     }
   ]
 }

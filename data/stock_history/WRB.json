@@ -1,25 +1,17 @@
 {
   "code": "WRB",
   "ticker": "WRB",
-  "last_updated": "2026-09-14 12:33:45",
+  "last_updated": "2026-09-15 12:32:55",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 28.5,
-      "high": 28.75,
-      "low": 28.39,
-      "close": 28.59,
-      "volume": 1368000
-    },
-    {
       "date": "2021-09-14",
-      "open": 28.64,
-      "high": 28.67,
-      "low": 28.18,
-      "close": 28.24,
-      "volume": 1602675
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -10044,6 +10036,14 @@
       "low": 69.58,
       "close": 69.9,
       "volume": 2658400
+    },
+    {
+      "date": "2026-09-14",
+      "open": 70.83,
+      "high": 71.46,
+      "low": 70.04,
+      "close": 70.87,
+      "volume": 2599800
     }
   ]
 }

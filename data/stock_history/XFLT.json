@@ -1,25 +1,17 @@
 {
   "code": "XFLT",
   "ticker": "XFLT",
-  "last_updated": "2026-09-14 12:34:37",
+  "last_updated": "2026-09-15 12:33:47",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 21.85,
-      "high": 21.97,
-      "low": 21.65,
-      "close": 21.67,
-      "volume": 36700
-    },
-    {
       "date": "2021-09-14",
-      "open": 21.78,
-      "high": 21.85,
-      "low": 21.69,
-      "close": 21.78,
-      "volume": 28760
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -4328,7 +4320,7 @@
     {
       "date": "2023-11-03",
       "open": 23.17,
-      "high": 23.27,
+      "high": 23.26,
       "low": 22.84,
       "close": 23.04,
       "volume": 67580
@@ -10044,6 +10036,14 @@
       "low": 19.35,
       "close": 19.52,
       "volume": 67000
+    },
+    {
+      "date": "2026-09-14",
+      "open": 19.6,
+      "high": 19.6,
+      "low": 19.25,
+      "close": 19.31,
+      "volume": 49700
     }
   ]
 }

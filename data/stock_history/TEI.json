@@ -1,25 +1,17 @@
 {
   "code": "TEI",
   "ticker": "TEI",
-  "last_updated": "2026-09-14 12:23:25",
+  "last_updated": "2026-09-15 12:22:33",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 4.61,
-      "high": 4.63,
-      "low": 4.54,
-      "close": 4.58,
-      "volume": 244500
-    },
-    {
       "date": "2021-09-14",
-      "open": 4.58,
-      "high": 4.6,
-      "low": 4.51,
-      "close": 4.59,
-      "volume": 200400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -1114,7 +1106,7 @@
       "open": 3.93,
       "high": 4.06,
       "low": 3.89,
-      "close": 4.03,
+      "close": 4.04,
       "volume": 193000
     },
     {
@@ -1162,7 +1154,7 @@
       "open": 3.98,
       "high": 4.05,
       "low": 3.98,
-      "close": 4.03,
+      "close": 4.04,
       "volume": 203500
     },
     {
@@ -10044,6 +10036,14 @@
       "low": 6.6,
       "close": 6.63,
       "volume": 150500
+    },
+    {
+      "date": "2026-09-14",
+      "open": 6.6,
+      "high": 6.75,
+      "low": 6.52,
+      "close": 6.52,
+      "volume": 138100
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "PSNY",
   "ticker": "PSNY",
-  "last_updated": "2026-09-14 12:07:57",
+  "last_updated": "2026-09-15 12:07:03",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-13",
-      "open": 300.9,
-      "high": 300.9,
-      "low": 298.5,
-      "close": 299.7,
-      "volume": 16767
-    },
-    {
-      "date": "2021-09-14",
-      "open": 299.4,
-      "high": 299.4,
-      "low": 295.8,
-      "close": 296.1,
-      "volume": 16617
-    },
     {
       "date": "2021-09-15",
       "open": 296.4,
@@ -10044,6 +10028,14 @@
       "low": 7.72,
       "close": 7.84,
       "volume": 197500
+    },
+    {
+      "date": "2026-09-14",
+      "open": 7.84,
+      "high": 7.94,
+      "low": 7.32,
+      "close": 7.4,
+      "volume": 360500
     }
   ]
 }

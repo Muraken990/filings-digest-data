@@ -1,25 +1,17 @@
 {
   "code": "SBCF",
   "ticker": "SBCF",
-  "last_updated": "2026-09-14 12:14:47",
+  "last_updated": "2026-09-15 12:13:54",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 27.04,
-      "high": 27.33,
-      "low": 26.09,
-      "close": 26.88,
-      "volume": 195400
-    },
-    {
       "date": "2021-09-14",
-      "open": 27.19,
-      "high": 27.19,
-      "low": 25.97,
-      "close": 26.26,
-      "volume": 248300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -10044,6 +10036,14 @@
       "low": 33.52,
       "close": 33.98,
       "volume": 553400
+    },
+    {
+      "date": "2026-09-14",
+      "open": 33.98,
+      "high": 34.59,
+      "low": 33.98,
+      "close": 34.36,
+      "volume": 1012600
     }
   ]
 }
