@@ -1,25 +1,17 @@
 {
   "code": "MMD",
   "ticker": "MMD",
-  "last_updated": "2026-09-14 09:56:49",
+  "last_updated": "2026-09-15 09:59:32",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 17.39,
-      "high": 17.46,
-      "low": 17.35,
-      "close": 17.43,
-      "volume": 31400
-    },
-    {
       "date": "2021-09-14",
-      "open": 17.41,
-      "high": 17.48,
-      "low": 17.33,
-      "close": 17.44,
-      "volume": 17900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -1695,7 +1687,7 @@
     },
     {
       "date": "2022-07-15",
-      "open": 15.33,
+      "open": 15.34,
       "high": 15.58,
       "low": 15.16,
       "close": 15.47,
@@ -10044,6 +10036,14 @@
       "low": 14.43,
       "close": 14.52,
       "volume": 51000
+    },
+    {
+      "date": "2026-09-14",
+      "open": 14.53,
+      "high": 14.53,
+      "low": 14.38,
+      "close": 14.41,
+      "volume": 30100
     }
   ]
 }

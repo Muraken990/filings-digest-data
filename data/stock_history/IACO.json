@@ -1,9 +1,9 @@
 {
   "code": "IACO",
   "ticker": "IACO",
-  "last_updated": "2026-09-14 09:41:33",
+  "last_updated": "2026-09-15 09:44:15",
   "period": "5y",
-  "data_points": 111,
+  "data_points": 112,
   "data": [
     {
       "date": "2026-04-06",
@@ -892,6 +892,14 @@
       "low": 9.99,
       "close": 9.99,
       "volume": 100000
+    },
+    {
+      "date": "2026-09-14",
+      "open": 9.99,
+      "high": 10.01,
+      "low": 9.99,
+      "close": 10.01,
+      "volume": 141000
     }
   ]
 }

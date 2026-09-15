@@ -1,25 +1,17 @@
 {
   "code": "MIY",
   "ticker": "MIY",
-  "last_updated": "2026-09-14 09:56:00",
+  "last_updated": "2026-09-15 09:58:43",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 12.17,
-      "high": 12.31,
-      "low": 12.12,
-      "close": 12.14,
-      "volume": 39800
-    },
-    {
       "date": "2021-09-14",
-      "open": 12.14,
-      "high": 12.32,
-      "low": 12.14,
-      "close": 12.2,
-      "volume": 22300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -10044,6 +10036,14 @@
       "low": 12.23,
       "close": 12.24,
       "volume": 68500
+    },
+    {
+      "date": "2026-09-14",
+      "open": 12.28,
+      "high": 12.3,
+      "low": 12.15,
+      "close": 12.24,
+      "volume": 38000
     }
   ]
 }

@@ -1,25 +1,17 @@
 {
   "code": "JLS",
   "ticker": "JLS",
-  "last_updated": "2026-09-14 09:46:38",
+  "last_updated": "2026-09-15 09:49:20",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 13.64,
-      "high": 13.64,
-      "low": 13.63,
-      "close": 13.64,
-      "volume": 1900
-    },
-    {
       "date": "2021-09-14",
-      "open": 13.66,
-      "high": 13.7,
-      "low": 13.58,
-      "close": 13.65,
-      "volume": 3200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -952,7 +944,7 @@
     {
       "date": "2022-03-02",
       "open": 12.53,
-      "high": 12.67,
+      "high": 12.66,
       "low": 12.51,
       "close": 12.51,
       "volume": 6500
@@ -8415,8 +8407,8 @@
     },
     {
       "date": "2025-11-18",
-      "open": 17.42,
-      "high": 17.42,
+      "open": 17.41,
+      "high": 17.41,
       "low": 17.28,
       "close": 17.37,
       "volume": 17000
@@ -10044,6 +10036,14 @@
       "low": 16.78,
       "close": 16.82,
       "volume": 6600
+    },
+    {
+      "date": "2026-09-14",
+      "open": 16.84,
+      "high": 16.84,
+      "low": 16.6,
+      "close": 16.6,
+      "volume": 8900
     }
   ]
 }

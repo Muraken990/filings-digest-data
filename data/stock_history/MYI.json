@@ -1,25 +1,17 @@
 {
   "code": "MYI",
   "ticker": "MYI",
-  "last_updated": "2026-09-14 09:59:22",
+  "last_updated": "2026-09-15 10:02:06",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 11.32,
-      "high": 11.4,
-      "low": 11.32,
-      "close": 11.38,
-      "volume": 82500
-    },
-    {
       "date": "2021-09-14",
-      "open": 11.38,
-      "high": 11.4,
-      "low": 11.36,
-      "close": 11.38,
-      "volume": 85500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -575,7 +567,7 @@
     },
     {
       "date": "2021-12-22",
-      "open": 11.28,
+      "open": 11.27,
       "high": 11.42,
       "low": 11.21,
       "close": 11.33,
@@ -10044,6 +10036,14 @@
       "low": 10.26,
       "close": 10.33,
       "volume": 395200
+    },
+    {
+      "date": "2026-09-14",
+      "open": 10.32,
+      "high": 10.35,
+      "low": 10.25,
+      "close": 10.25,
+      "volume": 507400
     }
   ]
 }

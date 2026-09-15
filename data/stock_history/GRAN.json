@@ -1,9 +1,9 @@
 {
   "code": "GRAN",
   "ticker": "GRAN",
-  "last_updated": "2026-09-14 09:37:13",
+  "last_updated": "2026-09-15 09:39:53",
   "period": "5y",
-  "data_points": 302,
+  "data_points": 303,
   "data": [
     {
       "date": "2025-07-01",
@@ -2420,6 +2420,14 @@
       "low": 0.94,
       "close": 1.04,
       "volume": 91000
+    },
+    {
+      "date": "2026-09-14",
+      "open": 0.93,
+      "high": 1.04,
+      "low": 0.93,
+      "close": 0.97,
+      "volume": 27000
     }
   ]
 }

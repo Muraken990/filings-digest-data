@@ -1,25 +1,17 @@
 {
   "code": "MMT",
   "ticker": "MMT",
-  "last_updated": "2026-09-14 09:56:49",
+  "last_updated": "2026-09-15 09:59:32",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 4.25,
-      "high": 4.3,
-      "low": 4.23,
-      "close": 4.3,
-      "volume": 154700
-    },
-    {
       "date": "2021-09-14",
-      "open": 4.3,
-      "high": 4.32,
-      "low": 4.25,
-      "close": 4.29,
-      "volume": 84200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -10044,6 +10036,14 @@
       "low": 4.32,
       "close": 4.32,
       "volume": 145900
+    },
+    {
+      "date": "2026-09-14",
+      "open": 4.36,
+      "high": 4.36,
+      "low": 4.31,
+      "close": 4.35,
+      "volume": 168700
     }
   ]
 }

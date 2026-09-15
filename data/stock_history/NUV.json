@@ -1,25 +1,17 @@
 {
   "code": "NUV",
   "ticker": "NUV",
-  "last_updated": "2026-09-14 10:03:40",
+  "last_updated": "2026-09-15 10:06:24",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 9.34,
-      "high": 9.41,
-      "low": 9.32,
-      "close": 9.4,
-      "volume": 277800
-    },
-    {
       "date": "2021-09-14",
-      "open": 9.41,
-      "high": 9.46,
-      "low": 9.39,
-      "close": 9.46,
-      "volume": 189300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -10044,6 +10036,14 @@
       "low": 8.66,
       "close": 8.72,
       "volume": 579000
+    },
+    {
+      "date": "2026-09-14",
+      "open": 8.7,
+      "high": 8.7,
+      "low": 8.62,
+      "close": 8.63,
+      "volume": 602600
     }
   ]
 }

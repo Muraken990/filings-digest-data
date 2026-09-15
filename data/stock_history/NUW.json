@@ -1,25 +1,17 @@
 {
   "code": "NUW",
   "ticker": "NUW",
-  "last_updated": "2026-09-14 10:03:41",
+  "last_updated": "2026-09-15 10:06:24",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 13.94,
-      "high": 14.01,
-      "low": 13.94,
-      "close": 14.01,
-      "volume": 13300
-    },
-    {
       "date": "2021-09-14",
-      "open": 14.01,
-      "high": 14.07,
-      "low": 13.93,
-      "close": 14.01,
-      "volume": 46200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -1097,7 +1089,7 @@
       "date": "2022-03-28",
       "open": 12.49,
       "high": 12.49,
-      "low": 12.34,
+      "low": 12.35,
       "close": 12.45,
       "volume": 46500
     },
@@ -10044,6 +10036,14 @@
       "low": 13.44,
       "close": 13.49,
       "volume": 122900
+    },
+    {
+      "date": "2026-09-14",
+      "open": 13.51,
+      "high": 13.51,
+      "low": 13.35,
+      "close": 13.38,
+      "volume": 102300
     }
   ]
 }

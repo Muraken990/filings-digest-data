@@ -1,25 +1,17 @@
 {
   "code": "NAN",
   "ticker": "NAN",
-  "last_updated": "2026-09-14 09:59:25",
+  "last_updated": "2026-09-15 10:02:09",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 10.95,
-      "high": 10.98,
-      "low": 10.93,
-      "close": 10.94,
-      "volume": 59900
-    },
-    {
       "date": "2021-09-14",
-      "open": 11.02,
-      "high": 11.03,
-      "low": 10.95,
-      "close": 10.98,
-      "volume": 44400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -2666,7 +2658,7 @@
       "open": 8.61,
       "high": 8.64,
       "low": 8.56,
-      "close": 8.62,
+      "close": 8.63,
       "volume": 42700
     },
     {
@@ -10044,6 +10036,14 @@
       "low": 10.45,
       "close": 10.47,
       "volume": 147800
+    },
+    {
+      "date": "2026-09-14",
+      "open": 10.47,
+      "high": 10.52,
+      "low": 10.27,
+      "close": 10.4,
+      "volume": 313400
     }
   ]
 }

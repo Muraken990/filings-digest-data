@@ -1,25 +1,17 @@
 {
   "code": "HRTG",
   "ticker": "HRTG",
-  "last_updated": "2026-09-14 09:40:39",
+  "last_updated": "2026-09-15 09:43:21",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 6.32,
-      "high": 6.35,
-      "low": 6.13,
-      "close": 6.16,
-      "volume": 108700
-    },
-    {
       "date": "2021-09-14",
-      "open": 6.16,
-      "high": 6.16,
-      "low": 5.99,
-      "close": 6.06,
-      "volume": 119700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -10044,6 +10036,14 @@
       "low": 34.0,
       "close": 34.58,
       "volume": 403500
+    },
+    {
+      "date": "2026-09-14",
+      "open": 34.95,
+      "high": 35.5,
+      "low": 34.9,
+      "close": 35.09,
+      "volume": 164400
     }
   ]
 }

@@ -1,25 +1,17 @@
 {
   "code": "OCSL",
   "ticker": "OCSL",
-  "last_updated": "2026-09-14 10:04:35",
+  "last_updated": "2026-09-15 10:07:19",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-13",
-      "open": 12.32,
-      "high": 12.32,
-      "low": 12.09,
-      "close": 12.15,
-      "volume": 451333
-    },
-    {
       "date": "2021-09-14",
-      "open": 12.2,
-      "high": 12.26,
-      "low": 12.09,
-      "close": 12.11,
-      "volume": 367467
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-15",
@@ -10044,6 +10036,14 @@
       "low": 12.55,
       "close": 12.67,
       "volume": 360600
+    },
+    {
+      "date": "2026-09-14",
+      "open": 12.73,
+      "high": 12.8,
+      "low": 12.65,
+      "close": 12.71,
+      "volume": 445800
     }
   ]
 }
