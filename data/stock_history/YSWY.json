@@ -1,9 +1,9 @@
 {
   "code": "YSWY",
   "ticker": "YSWY",
-  "last_updated": "2026-09-15 12:35:27",
+  "last_updated": "2026-09-16 12:34:00",
   "period": "5y",
-  "data_points": 100,
+  "data_points": 101,
   "data": [
     {
       "date": "2026-04-22",
@@ -804,6 +804,14 @@
       "low": 22.48,
       "close": 22.73,
       "volume": 314300
+    },
+    {
+      "date": "2026-09-15",
+      "open": 22.75,
+      "high": 23.3,
+      "low": 21.68,
+      "close": 22.18,
+      "volume": 273900
     }
   ]
 }

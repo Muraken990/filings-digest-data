@@ -1,26 +1,10 @@
 {
   "code": "SABA",
   "ticker": "SABA",
-  "last_updated": "2026-09-15 12:13:04",
+  "last_updated": "2026-09-16 12:11:43",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-14",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-09-15",
-      "open": 6.95,
-      "high": 7.0,
-      "low": 6.93,
-      "close": 6.98,
-      "volume": 180000
-    },
     {
       "date": "2021-09-16",
       "open": 6.97,
@@ -1847,7 +1831,7 @@
     },
     {
       "date": "2022-08-12",
-      "open": 6.57,
+      "open": 6.56,
       "high": 6.66,
       "low": 6.52,
       "close": 6.63,
@@ -1865,8 +1849,8 @@
       "date": "2022-08-16",
       "open": 6.58,
       "high": 6.63,
-      "low": 6.57,
-      "close": 6.57,
+      "low": 6.56,
+      "close": 6.56,
       "volume": 147300
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 8.02,
       "close": 8.04,
       "volume": 33600
+    },
+    {
+      "date": "2026-09-15",
+      "open": 8.04,
+      "high": 8.09,
+      "low": 8.0,
+      "close": 8.0,
+      "volume": 59500
     }
   ]
 }

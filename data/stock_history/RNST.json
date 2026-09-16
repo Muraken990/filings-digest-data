@@ -1,17 +1,17 @@
 {
   "code": "RNST",
   "ticker": "RNST",
-  "last_updated": "2026-09-15 12:11:22",
+  "last_updated": "2026-09-16 12:10:01",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-15",
-      "open": 29.02,
-      "high": 29.43,
-      "low": 28.87,
-      "close": 29.27,
-      "volume": 237900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-16",
@@ -10036,6 +10036,14 @@
       "low": 40.78,
       "close": 40.99,
       "volume": 501600
+    },
+    {
+      "date": "2026-09-15",
+      "open": 40.92,
+      "high": 41.38,
+      "low": 40.87,
+      "close": 40.96,
+      "volume": 509100
     }
   ]
 }

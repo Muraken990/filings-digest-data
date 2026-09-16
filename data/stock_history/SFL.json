@@ -1,26 +1,10 @@
 {
   "code": "SFL",
   "ticker": "SFL",
-  "last_updated": "2026-09-15 12:14:50",
+  "last_updated": "2026-09-16 12:13:27",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-14",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-09-15",
-      "open": 5.3,
-      "high": 5.38,
-      "low": 5.26,
-      "close": 5.38,
-      "volume": 970000
-    },
     {
       "date": "2021-09-16",
       "open": 5.41,
@@ -10044,6 +10028,14 @@
       "low": 12.92,
       "close": 13.04,
       "volume": 1435100
+    },
+    {
+      "date": "2026-09-15",
+      "open": 13.04,
+      "high": 13.33,
+      "low": 12.99,
+      "close": 13.27,
+      "volume": 1331400
     }
   ]
 }
