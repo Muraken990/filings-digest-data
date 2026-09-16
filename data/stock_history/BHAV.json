@@ -1,9 +1,9 @@
 {
   "code": "BHAV",
   "ticker": "BHAV",
-  "last_updated": "2026-09-15 07:19:13",
+  "last_updated": "2026-09-16 07:20:36",
   "period": "5y",
-  "data_points": 104,
+  "data_points": 105,
   "data": [
     {
       "date": "2026-04-16",
@@ -836,6 +836,14 @@
       "low": 10.03,
       "close": 10.03,
       "volume": 0
+    },
+    {
+      "date": "2026-09-15",
+      "open": 10.04,
+      "high": 10.04,
+      "low": 10.02,
+      "close": 10.02,
+      "volume": 3600
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "AIG",
   "ticker": "AIG",
-  "last_updated": "2026-09-15 07:10:29",
+  "last_updated": "2026-09-16 07:12:06",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-15",
-      "open": 48.66,
-      "high": 49.16,
-      "low": 48.36,
-      "close": 48.88,
-      "volume": 4194300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-16",
@@ -7392,7 +7392,7 @@
     {
       "date": "2025-05-20",
       "open": 81.57,
-      "high": 82.17,
+      "high": 82.16,
       "low": 81.47,
       "close": 81.69,
       "volume": 2172000
@@ -10036,6 +10036,14 @@
       "low": 75.49,
       "close": 76.29,
       "volume": 4576800
+    },
+    {
+      "date": "2026-09-15",
+      "open": 76.14,
+      "high": 76.21,
+      "low": 75.19,
+      "close": 75.98,
+      "volume": 3528200
     }
   ]
 }

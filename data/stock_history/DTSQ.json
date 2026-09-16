@@ -1,9 +1,9 @@
 {
   "code": "DTSQ",
   "ticker": "DTSQ",
-  "last_updated": "2026-09-15 07:36:28",
+  "last_updated": "2026-09-16 07:37:22",
   "period": "5y",
-  "data_points": 500,
+  "data_points": 501,
   "data": [
     {
       "date": "2024-09-16",
@@ -4004,6 +4004,14 @@
       "low": 11.4,
       "close": 11.4,
       "volume": 1200
+    },
+    {
+      "date": "2026-09-15",
+      "open": 11.4,
+      "high": 11.5,
+      "low": 11.4,
+      "close": 11.5,
+      "volume": 900
     }
   ]
 }
