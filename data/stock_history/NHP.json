@@ -1,9 +1,9 @@
 {
   "code": "NHP",
   "ticker": "NHP",
-  "last_updated": "2026-09-15 10:03:52",
+  "last_updated": "2026-09-16 10:01:16",
   "period": "5y",
-  "data_points": 100,
+  "data_points": 101,
   "data": [
     {
       "date": "2026-04-22",
@@ -804,6 +804,14 @@
       "low": 15.52,
       "close": 16.14,
       "volume": 402400
+    },
+    {
+      "date": "2026-09-15",
+      "open": 16.04,
+      "high": 16.17,
+      "low": 15.77,
+      "close": 15.98,
+      "volume": 391200
     }
   ]
 }

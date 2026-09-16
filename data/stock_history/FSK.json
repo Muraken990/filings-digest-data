@@ -1,26 +1,10 @@
 {
   "code": "FSK",
   "ticker": "FSK",
-  "last_updated": "2026-09-15 09:35:35",
+  "last_updated": "2026-09-16 09:33:11",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-14",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-09-15",
-      "open": 11.07,
-      "high": 11.28,
-      "low": 11.05,
-      "close": 11.27,
-      "volume": 947100
-    },
     {
       "date": "2021-09-16",
       "open": 11.25,
@@ -10044,6 +10028,14 @@
       "low": 11.84,
       "close": 12.03,
       "volume": 2133500
+    },
+    {
+      "date": "2026-09-15",
+      "open": 12.0,
+      "high": 12.05,
+      "low": 11.9,
+      "close": 12.0,
+      "volume": 2116500
     }
   ]
 }

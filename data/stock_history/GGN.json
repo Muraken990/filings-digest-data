@@ -1,17 +1,17 @@
 {
   "code": "GGN",
   "ticker": "GGN",
-  "last_updated": "2026-09-15 09:37:22",
+  "last_updated": "2026-09-16 09:34:58",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-15",
-      "open": 2.51,
-      "high": 2.55,
-      "low": 2.51,
-      "close": 2.55,
-      "volume": 596400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-16",
@@ -10036,6 +10036,14 @@
       "low": 5.47,
       "close": 5.5,
       "volume": 477200
+    },
+    {
+      "date": "2026-09-15",
+      "open": 5.5,
+      "high": 5.51,
+      "low": 5.45,
+      "close": 5.49,
+      "volume": 437100
     }
   ]
 }

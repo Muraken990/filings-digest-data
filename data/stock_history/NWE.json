@@ -1,26 +1,10 @@
 {
   "code": "NWE",
   "ticker": "NWE",
-  "last_updated": "2026-09-15 10:06:27",
+  "last_updated": "2026-09-16 10:03:51",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-14",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-09-15",
-      "open": 49.28,
-      "high": 49.68,
-      "low": 49.17,
-      "close": 49.48,
-      "volume": 493600
-    },
     {
       "date": "2021-09-16",
       "open": 49.46,
@@ -615,7 +599,7 @@
     },
     {
       "date": "2021-12-31",
-      "open": 46.26,
+      "open": 46.25,
       "high": 46.33,
       "low": 45.63,
       "close": 46.04,
@@ -6040,7 +6024,7 @@
     {
       "date": "2024-09-13",
       "open": 50.71,
-      "high": 51.28,
+      "high": 51.27,
       "low": 50.4,
       "close": 51.26,
       "volume": 338700
@@ -10043,7 +10027,15 @@
       "high": 69.42,
       "low": 68.54,
       "close": 68.65,
-      "volume": 366100
+      "volume": 415600
+    },
+    {
+      "date": "2026-09-15",
+      "open": 68.65,
+      "high": 68.8,
+      "low": 67.35,
+      "close": 67.98,
+      "volume": 577800
     }
   ]
 }
