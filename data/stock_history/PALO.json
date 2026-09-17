@@ -1,9 +1,9 @@
 {
   "code": "PALO",
   "ticker": "PALO",
-  "last_updated": "2026-09-16 10:08:05",
+  "last_updated": "2026-09-17 10:11:32",
   "period": "5y",
-  "data_points": 107,
+  "data_points": 108,
   "data": [
     {
       "date": "2026-04-14",
@@ -860,6 +860,14 @@
       "low": 10.0,
       "close": 10.0,
       "volume": 0
+    },
+    {
+      "date": "2026-09-16",
+      "open": 10.02,
+      "high": 10.08,
+      "low": 10.01,
+      "close": 10.08,
+      "volume": 4100
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "PAYP",
   "ticker": "PAYP",
-  "last_updated": "2026-09-16 10:08:07",
+  "last_updated": "2026-09-17 10:11:34",
   "period": "5y",
-  "data_points": 129,
+  "data_points": 130,
   "data": [
     {
       "date": "2026-03-12",
@@ -1036,6 +1036,14 @@
       "low": 17.71,
       "close": 17.82,
       "volume": 603000
+    },
+    {
+      "date": "2026-09-16",
+      "open": 17.73,
+      "high": 17.83,
+      "low": 17.43,
+      "close": 17.65,
+      "volume": 398300
     }
   ]
 }
