@@ -1,17 +1,17 @@
 {
   "code": "SHOO",
   "ticker": "SHOO",
-  "last_updated": "2026-09-16 12:14:17",
+  "last_updated": "2026-09-17 12:16:50",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-16",
-      "open": 34.59,
-      "high": 35.15,
-      "low": 34.42,
-      "close": 34.46,
-      "volume": 466400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-17",
@@ -9138,7 +9138,7 @@
       "open": 33.74,
       "high": 34.99,
       "low": 33.58,
-      "close": 34.86,
+      "close": 34.87,
       "volume": 945100
     },
     {
@@ -10036,6 +10036,14 @@
       "low": 40.38,
       "close": 40.46,
       "volume": 1207500
+    },
+    {
+      "date": "2026-09-16",
+      "open": 40.99,
+      "high": 42.34,
+      "low": 40.91,
+      "close": 41.51,
+      "volume": 1124300
     }
   ]
 }

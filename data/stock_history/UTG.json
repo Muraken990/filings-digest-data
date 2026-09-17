@@ -1,17 +1,17 @@
 {
   "code": "UTG",
   "ticker": "UTG",
-  "last_updated": "2026-09-16 12:26:20",
+  "last_updated": "2026-09-17 12:29:01",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-16",
-      "open": 24.65,
-      "high": 24.73,
-      "low": 24.52,
-      "close": 24.64,
-      "volume": 176900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-17",
@@ -10036,6 +10036,14 @@
       "low": 36.0,
       "close": 36.0,
       "volume": 414100
+    },
+    {
+      "date": "2026-09-16",
+      "open": 36.13,
+      "high": 36.61,
+      "low": 35.9,
+      "close": 36.19,
+      "volume": 474700
     }
   ]
 }

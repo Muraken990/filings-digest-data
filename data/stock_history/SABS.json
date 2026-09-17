@@ -1,18 +1,10 @@
 {
   "code": "SABS",
   "ticker": "SABS",
-  "last_updated": "2026-09-16 12:11:43",
+  "last_updated": "2026-09-17 12:14:15",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-16",
-      "open": 100.3,
-      "high": 100.3,
-      "low": 100.1,
-      "close": 100.1,
-      "volume": 790
-    },
     {
       "date": "2021-09-17",
       "open": 100.2,
@@ -10036,6 +10028,14 @@
       "low": 3.32,
       "close": 3.41,
       "volume": 284300
+    },
+    {
+      "date": "2026-09-16",
+      "open": 3.45,
+      "high": 3.49,
+      "low": 3.35,
+      "close": 3.39,
+      "volume": 452400
     }
   ]
 }
