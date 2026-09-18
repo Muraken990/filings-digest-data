@@ -1,9 +1,9 @@
 {
   "code": "ONEG",
   "ticker": "ONEG",
-  "last_updated": "2026-09-17 10:09:51",
+  "last_updated": "2026-09-18 10:09:00",
   "period": "5y",
-  "data_points": 428,
+  "data_points": 429,
   "data": [
     {
       "date": "2024-12-31",
@@ -3428,6 +3428,14 @@
       "low": 1.01,
       "close": 1.02,
       "volume": 126900
+    },
+    {
+      "date": "2026-09-17",
+      "open": 1.04,
+      "high": 1.04,
+      "low": 1.02,
+      "close": 1.03,
+      "volume": 11700
     }
   ]
 }

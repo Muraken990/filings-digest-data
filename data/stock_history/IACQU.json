@@ -1,9 +1,9 @@
 {
   "code": "IACQU",
   "ticker": "IACQU",
-  "last_updated": "2026-09-17 09:45:35",
+  "last_updated": "2026-09-18 09:44:15",
   "period": "5y",
-  "data_points": 98,
+  "data_points": 99,
   "data": [
     {
       "date": "2026-04-28",
@@ -788,6 +788,14 @@
       "low": 9.99,
       "close": 9.99,
       "volume": 0
+    },
+    {
+      "date": "2026-09-17",
+      "open": 10.13,
+      "high": 10.15,
+      "low": 10.07,
+      "close": 10.15,
+      "volume": 500
     }
   ]
 }

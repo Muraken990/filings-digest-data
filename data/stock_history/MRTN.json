@@ -1,17 +1,17 @@
 {
   "code": "MRTN",
   "ticker": "MRTN",
-  "last_updated": "2026-09-17 10:01:30",
+  "last_updated": "2026-09-18 10:00:26",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-17",
-      "open": 14.11,
-      "high": 14.11,
-      "low": 13.81,
-      "close": 14.09,
-      "volume": 958800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-20",
@@ -10036,6 +10036,14 @@
       "low": 13.55,
       "close": 13.68,
       "volume": 2046800
+    },
+    {
+      "date": "2026-09-17",
+      "open": 13.81,
+      "high": 13.83,
+      "low": 13.52,
+      "close": 13.55,
+      "volume": 1044300
     }
   ]
 }
