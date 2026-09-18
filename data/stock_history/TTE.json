@@ -1,17 +1,17 @@
 {
   "code": "TTE",
   "ticker": "TTE",
-  "last_updated": "2026-09-17 12:27:12",
+  "last_updated": "2026-09-18 12:26:33",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-17",
-      "open": 34.63,
-      "high": 34.75,
-      "low": 34.09,
-      "close": 34.38,
-      "volume": 2128800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-20",
@@ -800,7 +800,7 @@
     {
       "date": "2022-02-08",
       "open": 46.48,
-      "high": 46.55,
+      "high": 46.56,
       "low": 45.75,
       "close": 46.07,
       "volume": 3293400
@@ -3752,7 +3752,7 @@
     {
       "date": "2023-07-31",
       "open": 52.5,
-      "high": 52.8,
+      "high": 52.81,
       "low": 52.4,
       "close": 52.47,
       "volume": 925500
@@ -10036,6 +10036,14 @@
       "low": 90.71,
       "close": 90.84,
       "volume": 1504500
+    },
+    {
+      "date": "2026-09-17",
+      "open": 91.14,
+      "high": 91.87,
+      "low": 91.04,
+      "close": 91.59,
+      "volume": 973900
     }
   ]
 }
