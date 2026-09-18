@@ -1,9 +1,9 @@
 {
   "code": "BOT",
   "ticker": "BOT",
-  "last_updated": "2026-09-17 07:19:56",
+  "last_updated": "2026-09-18 07:20:40",
   "period": "5y",
-  "data_points": 89,
+  "data_points": 90,
   "data": [
     {
       "date": "2026-05-11",
@@ -716,6 +716,14 @@
       "low": 25.89,
       "close": 26.09,
       "volume": 164600
+    },
+    {
+      "date": "2026-09-17",
+      "open": 26.72,
+      "high": 29.14,
+      "low": 26.65,
+      "close": 28.06,
+      "volume": 380800
     }
   ]
 }

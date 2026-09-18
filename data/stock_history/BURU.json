@@ -1,9 +1,9 @@
 {
   "code": "BURU",
   "ticker": "BURU",
-  "last_updated": "2026-09-17 07:21:36",
+  "last_updated": "2026-09-18 07:22:20",
   "period": "5y",
-  "data_points": 3,
+  "data_points": 4,
   "data": [
     {
       "date": "2026-09-14",
@@ -27,7 +27,15 @@
       "high": 1.14,
       "low": 1.04,
       "close": 1.07,
-      "volume": 1639000
+      "volume": 1661200
+    },
+    {
+      "date": "2026-09-17",
+      "open": 1.02,
+      "high": 1.03,
+      "low": 0.88,
+      "close": 0.94,
+      "volume": 1662800
     }
   ]
 }

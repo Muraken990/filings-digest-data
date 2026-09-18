@@ -1,17 +1,17 @@
 {
   "code": "AEF",
   "ticker": "AEF",
-  "last_updated": "2026-09-17 07:07:06",
+  "last_updated": "2026-09-18 07:07:53",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-17",
-      "open": 5.64,
-      "high": 5.69,
-      "low": 5.56,
-      "close": 5.56,
-      "volume": 25400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-20",
@@ -6432,7 +6432,7 @@
     {
       "date": "2024-11-26",
       "open": 4.38,
-      "high": 4.39,
+      "high": 4.4,
       "low": 4.36,
       "close": 4.36,
       "volume": 65300
@@ -6473,7 +6473,7 @@
       "date": "2024-12-04",
       "open": 4.4,
       "high": 4.43,
-      "low": 4.39,
+      "low": 4.4,
       "close": 4.42,
       "volume": 70000
     },
@@ -10036,6 +10036,14 @@
       "low": 9.5,
       "close": 9.51,
       "volume": 81900
+    },
+    {
+      "date": "2026-09-17",
+      "open": 9.65,
+      "high": 9.86,
+      "low": 9.61,
+      "close": 9.74,
+      "volume": 212500
     }
   ]
 }
