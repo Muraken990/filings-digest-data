@@ -1,9 +1,9 @@
 {
   "code": "MTAL",
   "ticker": "MTAL",
-  "last_updated": "2026-09-18 10:01:14",
+  "last_updated": "2026-09-19 10:02:09",
   "period": "5y",
-  "data_points": 108,
+  "data_points": 109,
   "data": [
     {
       "date": "2026-04-15",
@@ -868,6 +868,14 @@
       "low": 10.16,
       "close": 10.16,
       "volume": 100000
+    },
+    {
+      "date": "2026-09-18",
+      "open": 10.15,
+      "high": 10.21,
+      "low": 10.15,
+      "close": 10.17,
+      "volume": 600
     }
   ]
 }
