@@ -1,18 +1,10 @@
 {
   "code": "FGBI",
   "ticker": "FGBI",
-  "last_updated": "2026-09-18 07:41:17",
+  "last_updated": "2026-09-19 07:41:22",
   "period": "5y",
   "data_points": 1255,
   "data": [
-    {
-      "date": "2021-09-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-09-20",
       "open": 15.1,
@@ -1127,8 +1119,8 @@
     },
     {
       "date": "2022-04-07",
-      "open": 21.09,
-      "high": 21.09,
+      "open": 21.1,
+      "high": 21.1,
       "low": 21.06,
       "close": 21.06,
       "volume": 1400
@@ -10044,6 +10036,14 @@
       "low": 8.51,
       "close": 8.68,
       "volume": 19900
+    },
+    {
+      "date": "2026-09-18",
+      "open": 8.59,
+      "high": 8.88,
+      "low": 8.46,
+      "close": 8.65,
+      "volume": 155900
     }
   ]
 }
