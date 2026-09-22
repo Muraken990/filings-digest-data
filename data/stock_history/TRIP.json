@@ -1,26 +1,10 @@
 {
   "code": "TRIP",
   "ticker": "TRIP",
-  "last_updated": "2026-09-21 12:24:38",
+  "last_updated": "2026-09-22 12:24:12",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-20",
-      "open": 34.4,
-      "high": 34.66,
-      "low": 32.5,
-      "close": 33.07,
-      "volume": 7319000
-    },
-    {
-      "date": "2021-09-21",
-      "open": 33.06,
-      "high": 33.2,
-      "low": 31.91,
-      "close": 32.41,
-      "volume": 2938100
-    },
     {
       "date": "2021-09-22",
       "open": 32.72,
@@ -10044,6 +10028,14 @@
       "low": 8.79,
       "close": 8.84,
       "volume": 4579600
+    },
+    {
+      "date": "2026-09-21",
+      "open": 8.92,
+      "high": 9.0,
+      "low": 8.73,
+      "close": 8.8,
+      "volume": 4375800
     }
   ]
 }
