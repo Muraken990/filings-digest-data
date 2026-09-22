@@ -1,25 +1,17 @@
 {
   "code": "LUXE",
   "ticker": "LUXE",
-  "last_updated": "2026-09-21 09:56:14",
+  "last_updated": "2026-09-22 09:53:47",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-20",
-      "open": 25.63,
-      "high": 26.79,
-      "low": 25.53,
-      "close": 26.76,
-      "volume": 203500
-    },
-    {
       "date": "2021-09-21",
-      "open": 27.18,
-      "high": 28.33,
-      "low": 26.93,
-      "close": 27.7,
-      "volume": 165700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-22",
@@ -10044,6 +10036,14 @@
       "low": 9.42,
       "close": 10.08,
       "volume": 836600
+    },
+    {
+      "date": "2026-09-21",
+      "open": 9.97,
+      "high": 10.08,
+      "low": 9.57,
+      "close": 9.66,
+      "volume": 345000
     }
   ]
 }

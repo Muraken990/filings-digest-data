@@ -1,26 +1,10 @@
 {
   "code": "OMEX",
   "ticker": "OMEX",
-  "last_updated": "2026-09-21 10:09:07",
+  "last_updated": "2026-09-22 10:06:36",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-20",
-      "open": 6.59,
-      "high": 6.75,
-      "low": 6.07,
-      "close": 6.57,
-      "volume": 50800
-    },
-    {
-      "date": "2021-09-21",
-      "open": 6.7,
-      "high": 6.7,
-      "low": 6.33,
-      "close": 6.46,
-      "volume": 16000
-    },
     {
       "date": "2021-09-22",
       "open": 6.39,
@@ -10043,7 +10027,15 @@
       "high": 0.75,
       "low": 0.71,
       "close": 0.75,
-      "volume": 171100
+      "volume": 184700
+    },
+    {
+      "date": "2026-09-21",
+      "open": 0.74,
+      "high": 0.79,
+      "low": 0.74,
+      "close": 0.75,
+      "volume": 462500
     }
   ]
 }

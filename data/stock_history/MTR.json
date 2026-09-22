@@ -1,26 +1,10 @@
 {
   "code": "MTR",
   "ticker": "MTR",
-  "last_updated": "2026-09-21 10:02:12",
+  "last_updated": "2026-09-22 09:59:43",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-20",
-      "open": 4.47,
-      "high": 4.47,
-      "low": 4.41,
-      "close": 4.42,
-      "volume": 2700
-    },
-    {
-      "date": "2021-09-21",
-      "open": 4.4,
-      "high": 4.4,
-      "low": 4.07,
-      "close": 4.1,
-      "volume": 15000
-    },
     {
       "date": "2021-09-22",
       "open": 4.09,
@@ -3890,7 +3874,7 @@
       "open": 17.45,
       "high": 18.37,
       "low": 17.45,
-      "close": 17.64,
+      "close": 17.63,
       "volume": 4700
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 2.31,
       "close": 2.44,
       "volume": 8800
+    },
+    {
+      "date": "2026-09-21",
+      "open": 2.43,
+      "high": 2.43,
+      "low": 2.33,
+      "close": 2.43,
+      "volume": 1900
     }
   ]
 }

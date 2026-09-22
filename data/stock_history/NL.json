@@ -1,26 +1,10 @@
 {
   "code": "NL",
   "ticker": "NL",
-  "last_updated": "2026-09-21 10:04:49",
+  "last_updated": "2026-09-22 10:02:19",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-20",
-      "open": 4.07,
-      "high": 4.16,
-      "low": 4.07,
-      "close": 4.1,
-      "volume": 31100
-    },
-    {
-      "date": "2021-09-21",
-      "open": 4.11,
-      "high": 4.14,
-      "low": 3.98,
-      "close": 4.1,
-      "volume": 35700
-    },
     {
       "date": "2021-09-22",
       "open": 4.11,
@@ -2946,7 +2930,7 @@
       "open": 5.51,
       "high": 5.52,
       "low": 5.34,
-      "close": 5.41,
+      "close": 5.42,
       "volume": 6000
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 6.54,
       "close": 6.86,
       "volume": 51600
+    },
+    {
+      "date": "2026-09-21",
+      "open": 6.84,
+      "high": 6.92,
+      "low": 6.5,
+      "close": 6.83,
+      "volume": 21800
     }
   ]
 }

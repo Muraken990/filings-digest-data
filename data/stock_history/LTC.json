@@ -1,25 +1,17 @@
 {
   "code": "LTC",
   "ticker": "LTC",
-  "last_updated": "2026-09-21 09:56:12",
+  "last_updated": "2026-09-22 09:53:45",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-20",
-      "open": 23.94,
-      "high": 24.32,
-      "low": 23.87,
-      "close": 24.14,
-      "volume": 263600
-    },
-    {
       "date": "2021-09-21",
-      "open": 24.25,
-      "high": 24.35,
-      "low": 23.87,
-      "close": 23.87,
-      "volume": 220700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-22",
@@ -2984,7 +2976,7 @@
     {
       "date": "2023-03-14",
       "open": 27.47,
-      "high": 27.72,
+      "high": 27.73,
       "low": 27.1,
       "close": 27.3,
       "volume": 305600
@@ -10044,6 +10036,14 @@
       "low": 42.43,
       "close": 42.56,
       "volume": 1352500
+    },
+    {
+      "date": "2026-09-21",
+      "open": 42.47,
+      "high": 43.34,
+      "low": 42.06,
+      "close": 42.88,
+      "volume": 603800
     }
   ]
 }
