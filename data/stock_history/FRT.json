@@ -1,25 +1,17 @@
 {
   "code": "FRT",
   "ticker": "FRT",
-  "last_updated": "2026-09-21 07:44:13",
+  "last_updated": "2026-09-22 07:45:11",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-20",
-      "open": 95.08,
-      "high": 96.26,
-      "low": 94.17,
-      "close": 95.63,
-      "volume": 690100
-    },
-    {
       "date": "2021-09-21",
-      "open": 96.68,
-      "high": 96.94,
-      "low": 95.51,
-      "close": 95.55,
-      "volume": 271100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-22",
@@ -721,7 +713,7 @@
       "date": "2022-01-26",
       "open": 104.11,
       "high": 106.1,
-      "low": 101.72,
+      "low": 101.71,
       "close": 101.94,
       "volume": 704000
     },
@@ -10044,6 +10036,14 @@
       "low": 110.65,
       "close": 110.91,
       "volume": 1647100
+    },
+    {
+      "date": "2026-09-21",
+      "open": 111.31,
+      "high": 111.48,
+      "low": 109.27,
+      "close": 110.63,
+      "volume": 1472300
     }
   ]
 }

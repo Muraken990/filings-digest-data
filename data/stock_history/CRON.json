@@ -1,26 +1,10 @@
 {
   "code": "CRON",
   "ticker": "CRON",
-  "last_updated": "2026-09-21 07:30:34",
+  "last_updated": "2026-09-22 07:31:30",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-20",
-      "open": 5.72,
-      "high": 5.76,
-      "low": 5.59,
-      "close": 5.72,
-      "volume": 2229200
-    },
-    {
-      "date": "2021-09-21",
-      "open": 5.74,
-      "high": 5.82,
-      "low": 5.63,
-      "close": 5.67,
-      "volume": 1843600
-    },
     {
       "date": "2021-09-22",
       "open": 5.74,
@@ -10044,6 +10028,14 @@
       "low": 3.34,
       "close": 3.35,
       "volume": 1070400
+    },
+    {
+      "date": "2026-09-21",
+      "open": 3.35,
+      "high": 3.39,
+      "low": 3.31,
+      "close": 3.33,
+      "volume": 472000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "DBCA",
   "ticker": "DBCA",
-  "last_updated": "2026-09-21 07:33:06",
+  "last_updated": "2026-09-22 07:34:02",
   "period": "5y",
-  "data_points": 143,
+  "data_points": 144,
   "data": [
     {
       "date": "2026-02-25",
@@ -1148,6 +1148,14 @@
       "low": 10.02,
       "close": 10.02,
       "volume": 32900
+    },
+    {
+      "date": "2026-09-21",
+      "open": 10.05,
+      "high": 10.1,
+      "low": 10.05,
+      "close": 10.08,
+      "volume": 8900
     }
   ]
 }

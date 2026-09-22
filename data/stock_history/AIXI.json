@@ -1,9 +1,9 @@
 {
   "code": "AIXI",
   "ticker": "AIXI",
-  "last_updated": "2026-09-21 07:10:09",
+  "last_updated": "2026-09-22 07:11:04",
   "period": "5y",
-  "data_points": 886,
+  "data_points": 887,
   "data": [
     {
       "date": "2023-03-09",
@@ -7091,7 +7091,15 @@
       "high": 2.45,
       "low": 2.05,
       "close": 2.09,
-      "volume": 535300
+      "volume": 545900
+    },
+    {
+      "date": "2026-09-21",
+      "open": 2.05,
+      "high": 2.06,
+      "low": 1.8,
+      "close": 1.88,
+      "volume": 223000
     }
   ]
 }
