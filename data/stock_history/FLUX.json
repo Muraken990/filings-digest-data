@@ -1,18 +1,10 @@
 {
   "code": "FLUX",
   "ticker": "FLUX",
-  "last_updated": "2026-09-22 07:44:17",
+  "last_updated": "2026-09-23 07:40:37",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-22",
-      "open": 7.5,
-      "high": 7.84,
-      "low": 7.4,
-      "close": 7.52,
-      "volume": 172800
-    },
     {
       "date": "2021-09-23",
       "open": 6.5,
@@ -10036,6 +10028,14 @@
       "low": 0.52,
       "close": 0.54,
       "volume": 161600
+    },
+    {
+      "date": "2026-09-22",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 44084
     }
   ]
 }

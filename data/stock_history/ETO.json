@@ -1,17 +1,17 @@
 {
   "code": "ETO",
   "ticker": "ETO",
-  "last_updated": "2026-09-22 07:40:53",
+  "last_updated": "2026-09-23 07:37:13",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-22",
-      "open": 22.38,
-      "high": 22.86,
-      "low": 22.21,
-      "close": 22.26,
-      "volume": 64600
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-23",
@@ -367,7 +367,7 @@
     },
     {
       "date": "2021-11-24",
-      "open": 21.82,
+      "open": 21.81,
       "high": 21.93,
       "low": 21.75,
       "close": 21.85,
@@ -10036,6 +10036,14 @@
       "low": 30.41,
       "close": 30.79,
       "volume": 26000
+    },
+    {
+      "date": "2026-09-22",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 25205
     }
   ]
 }

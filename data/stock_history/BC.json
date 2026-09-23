@@ -1,18 +1,10 @@
 {
   "code": "BC",
   "ticker": "BC",
-  "last_updated": "2026-09-22 07:18:41",
+  "last_updated": "2026-09-23 07:14:56",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-22",
-      "open": 84.46,
-      "high": 87.92,
-      "low": 83.81,
-      "close": 86.96,
-      "volume": 596500
-    },
     {
       "date": "2021-09-23",
       "open": 87.81,
@@ -1128,7 +1120,7 @@
     {
       "date": "2022-04-12",
       "open": 68.63,
-      "high": 70.81,
+      "high": 70.82,
       "low": 67.86,
       "close": 67.89,
       "volume": 638200
@@ -2200,7 +2192,7 @@
     {
       "date": "2022-10-24",
       "open": 61.83,
-      "high": 63.06,
+      "high": 63.05,
       "low": 61.4,
       "close": 62.21,
       "volume": 615800
@@ -10036,6 +10028,14 @@
       "low": 65.38,
       "close": 66.0,
       "volume": 1061200
+    },
+    {
+      "date": "2026-09-22",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 919727
     }
   ]
 }
