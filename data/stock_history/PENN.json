@@ -1,18 +1,10 @@
 {
   "code": "PENN",
   "ticker": "PENN",
-  "last_updated": "2026-09-22 10:10:01",
+  "last_updated": "2026-09-23 10:11:02",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-22",
-      "open": 70.73,
-      "high": 74.82,
-      "low": 70.66,
-      "close": 73.74,
-      "volume": 4398900
-    },
     {
       "date": "2021-09-23",
       "open": 74.37,
@@ -10036,6 +10028,14 @@
       "low": 16.04,
       "close": 16.13,
       "volume": 3259300
+    },
+    {
+      "date": "2026-09-22",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3303121
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "HLI",
   "ticker": "HLI",
-  "last_updated": "2026-09-22 09:41:01",
+  "last_updated": "2026-09-23 09:41:15",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-22",
-      "open": 83.05,
-      "high": 83.83,
-      "low": 82.34,
-      "close": 83.38,
-      "volume": 322300
-    },
     {
       "date": "2021-09-23",
       "open": 84.3,
@@ -5722,7 +5714,7 @@
       "open": 142.79,
       "high": 145.32,
       "low": 142.09,
-      "close": 145.01,
+      "close": 145.02,
       "volume": 261500
     },
     {
@@ -10036,6 +10028,14 @@
       "low": 131.01,
       "close": 132.61,
       "volume": 877000
+    },
+    {
+      "date": "2026-09-22",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 844870
     }
   ]
 }

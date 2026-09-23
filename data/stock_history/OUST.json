@@ -1,18 +1,10 @@
 {
   "code": "OUST",
   "ticker": "OUST",
-  "last_updated": "2026-09-22 10:08:16",
+  "last_updated": "2026-09-23 10:09:15",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-22",
-      "open": 76.0,
-      "high": 78.05,
-      "low": 74.75,
-      "close": 75.1,
-      "volume": 102440
-    },
     {
       "date": "2021-09-23",
       "open": 75.6,
@@ -10035,7 +10027,15 @@
       "high": 38.54,
       "low": 35.99,
       "close": 38.12,
-      "volume": 2895200
+      "volume": 2951000
+    },
+    {
+      "date": "2026-09-22",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3004206
     }
   ]
 }

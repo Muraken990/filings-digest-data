@@ -1,18 +1,10 @@
 {
   "code": "FSLY",
   "ticker": "FSLY",
-  "last_updated": "2026-09-22 09:34:10",
+  "last_updated": "2026-09-23 09:34:24",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-22",
-      "open": 42.24,
-      "high": 43.23,
-      "low": 41.92,
-      "close": 42.65,
-      "volume": 1534100
-    },
     {
       "date": "2021-09-23",
       "open": 42.83,
@@ -10035,7 +10027,15 @@
       "high": 28.07,
       "low": 23.7,
       "close": 27.42,
-      "volume": 9849700
+      "volume": 9874200
+    },
+    {
+      "date": "2026-09-22",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 14558364
     }
   ]
 }

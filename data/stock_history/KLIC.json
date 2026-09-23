@@ -1,17 +1,17 @@
 {
   "code": "KLIC",
   "ticker": "KLIC",
-  "last_updated": "2026-09-22 09:49:30",
+  "last_updated": "2026-09-23 09:49:54",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-22",
-      "open": 60.68,
-      "high": 61.32,
-      "low": 59.53,
-      "close": 61.08,
-      "volume": 1621900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-23",
@@ -696,7 +696,7 @@
     {
       "date": "2022-01-25",
       "open": 49.73,
-      "high": 50.35,
+      "high": 50.36,
       "low": 47.76,
       "close": 49.36,
       "volume": 865100
@@ -2040,7 +2040,7 @@
     {
       "date": "2022-09-26",
       "open": 37.28,
-      "high": 37.9,
+      "high": 37.91,
       "low": 36.6,
       "close": 36.68,
       "volume": 375400
@@ -2962,7 +2962,7 @@
       "open": 47.25,
       "high": 49.31,
       "low": 47.25,
-      "close": 48.65,
+      "close": 48.66,
       "volume": 389900
     },
     {
@@ -10036,6 +10036,14 @@
       "low": 82.65,
       "close": 84.08,
       "volume": 756800
+    },
+    {
+      "date": "2026-09-22",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1573243
     }
   ]
 }

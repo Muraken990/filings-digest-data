@@ -1,26 +1,10 @@
 {
   "code": "GOOD",
   "ticker": "GOOD",
-  "last_updated": "2026-09-22 09:37:38",
+  "last_updated": "2026-09-23 09:37:52",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-09-22",
-      "open": 13.93,
-      "high": 14.04,
-      "low": 13.9,
-      "close": 13.94,
-      "volume": 145100
-    },
     {
       "date": "2021-09-23",
       "open": 13.94,
@@ -5026,14 +5010,14 @@
       "open": 10.56,
       "high": 10.86,
       "low": 10.51,
-      "close": 10.79,
+      "close": 10.78,
       "volume": 336100
     },
     {
       "date": "2024-03-21",
       "open": 10.79,
       "high": 11.01,
-      "low": 10.79,
+      "low": 10.78,
       "close": 10.87,
       "volume": 272800
     },
@@ -7490,7 +7474,7 @@
       "open": 12.94,
       "high": 12.97,
       "low": 12.82,
-      "close": 12.87,
+      "close": 12.86,
       "volume": 254200
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 12.55,
       "close": 12.6,
       "volume": 390500
+    },
+    {
+      "date": "2026-09-22",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 304876
     }
   ]
 }

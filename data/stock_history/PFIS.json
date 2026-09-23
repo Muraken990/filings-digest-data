@@ -1,18 +1,10 @@
 {
   "code": "PFIS",
   "ticker": "PFIS",
-  "last_updated": "2026-09-22 10:10:48",
+  "last_updated": "2026-09-23 10:11:50",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-22",
-      "open": 36.05,
-      "high": 36.05,
-      "low": 35.46,
-      "close": 35.46,
-      "volume": 11200
-    },
     {
       "date": "2021-09-23",
       "open": 35.51,
@@ -4649,7 +4641,7 @@
       "date": "2024-01-12",
       "open": 40.83,
       "high": 40.83,
-      "low": 40.05,
+      "low": 40.04,
       "close": 40.51,
       "volume": 9800
     },
@@ -4703,7 +4695,7 @@
     },
     {
       "date": "2024-01-24",
-      "open": 41.92,
+      "open": 41.93,
       "high": 42.47,
       "low": 41.32,
       "close": 42.43,
@@ -10036,6 +10028,14 @@
       "low": 69.94,
       "close": 69.96,
       "volume": 59100
+    },
+    {
+      "date": "2026-09-22",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 37561
     }
   ]
 }

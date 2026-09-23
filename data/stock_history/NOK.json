@@ -1,18 +1,10 @@
 {
   "code": "NOK",
   "ticker": "NOK",
-  "last_updated": "2026-09-22 10:03:10",
+  "last_updated": "2026-09-23 10:03:59",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-22",
-      "open": 4.93,
-      "high": 5.05,
-      "low": 4.92,
-      "close": 4.99,
-      "volume": 27086700
-    },
     {
       "date": "2021-09-23",
       "open": 5.0,
@@ -10035,7 +10027,15 @@
       "high": 11.05,
       "low": 10.57,
       "close": 10.94,
-      "volume": 84926300
+      "volume": 85030000
+    },
+    {
+      "date": "2026-09-22",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 106907601
     }
   ]
 }

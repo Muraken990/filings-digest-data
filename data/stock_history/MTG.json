@@ -1,18 +1,10 @@
 {
   "code": "MTG",
   "ticker": "MTG",
-  "last_updated": "2026-09-22 09:59:42",
+  "last_updated": "2026-09-23 10:00:25",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-22",
-      "open": 13.17,
-      "high": 13.41,
-      "low": 13.14,
-      "close": 13.29,
-      "volume": 1533100
-    },
     {
       "date": "2021-09-23",
       "open": 13.4,
@@ -953,8 +945,8 @@
       "date": "2022-03-11",
       "open": 12.67,
       "high": 12.8,
-      "low": 12.44,
-      "close": 12.44,
+      "low": 12.45,
+      "close": 12.45,
       "volume": 2713100
     },
     {
@@ -962,7 +954,7 @@
       "open": 12.67,
       "high": 12.75,
       "low": 12.36,
-      "close": 12.44,
+      "close": 12.45,
       "volume": 3692900
     },
     {
@@ -10036,6 +10028,14 @@
       "low": 29.43,
       "close": 29.45,
       "volume": 1528700
+    },
+    {
+      "date": "2026-09-22",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2315984
     }
   ]
 }
