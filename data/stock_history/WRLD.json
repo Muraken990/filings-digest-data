@@ -1,18 +1,10 @@
 {
   "code": "WRLD",
   "ticker": "WRLD",
-  "last_updated": "2026-09-22 12:31:57",
+  "last_updated": "2026-09-23 12:35:09",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-22",
-      "open": 192.43,
-      "high": 200.0,
-      "low": 192.43,
-      "close": 196.4,
-      "volume": 13500
-    },
     {
       "date": "2021-09-23",
       "open": 198.03,
@@ -10036,6 +10028,14 @@
       "low": 168.17,
       "close": 171.09,
       "volume": 115100
+    },
+    {
+      "date": "2026-09-22",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 75463
     }
   ]
 }

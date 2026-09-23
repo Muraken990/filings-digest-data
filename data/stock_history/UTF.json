@@ -1,18 +1,10 @@
 {
   "code": "UTF",
   "ticker": "UTF",
-  "last_updated": "2026-09-22 12:26:50",
+  "last_updated": "2026-09-23 12:29:55",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-22",
-      "open": 19.02,
-      "high": 19.16,
-      "low": 18.99,
-      "close": 19.03,
-      "volume": 161200
-    },
     {
       "date": "2021-09-23",
       "open": 19.03,
@@ -2352,7 +2344,7 @@
     {
       "date": "2022-11-18",
       "open": 17.6,
-      "high": 18.04,
+      "high": 18.05,
       "low": 17.6,
       "close": 17.95,
       "volume": 144100
@@ -4728,7 +4720,7 @@
     {
       "date": "2024-01-29",
       "open": 17.62,
-      "high": 18.04,
+      "high": 18.05,
       "low": 17.59,
       "close": 18.03,
       "volume": 340800
@@ -10036,6 +10028,14 @@
       "low": 24.53,
       "close": 24.69,
       "volume": 462700
+    },
+    {
+      "date": "2026-09-22",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 357574
     }
   ]
 }

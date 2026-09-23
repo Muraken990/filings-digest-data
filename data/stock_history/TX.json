@@ -1,18 +1,10 @@
 {
   "code": "TX",
   "ticker": "TX",
-  "last_updated": "2026-09-22 12:25:07",
+  "last_updated": "2026-09-23 12:28:10",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-22",
-      "open": 32.08,
-      "high": 32.32,
-      "low": 31.59,
-      "close": 31.61,
-      "volume": 869000
-    },
     {
       "date": "2021-09-23",
       "open": 31.62,
@@ -922,7 +914,7 @@
       "open": 30.05,
       "high": 30.66,
       "low": 28.34,
-      "close": 28.59,
+      "close": 28.6,
       "volume": 545800
     },
     {
@@ -10036,6 +10028,14 @@
       "low": 56.31,
       "close": 56.84,
       "volume": 455900
+    },
+    {
+      "date": "2026-09-22",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 581197
     }
   ]
 }

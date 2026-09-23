@@ -1,18 +1,10 @@
 {
   "code": "RIG",
   "ticker": "RIG",
-  "last_updated": "2026-09-22 12:09:44",
+  "last_updated": "2026-09-23 12:12:21",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-22",
-      "open": 3.26,
-      "high": 3.4,
-      "low": 3.25,
-      "close": 3.26,
-      "volume": 18740000
-    },
     {
       "date": "2021-09-23",
       "open": 3.33,
@@ -10035,7 +10027,15 @@
       "high": 5.63,
       "low": 5.42,
       "close": 5.45,
-      "volume": 41557000
+      "volume": 41570300
+    },
+    {
+      "date": "2026-09-22",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 53611157
     }
   ]
 }
