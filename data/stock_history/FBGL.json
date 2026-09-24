@@ -1,9 +1,9 @@
 {
   "code": "FBGL",
   "ticker": "FBGL",
-  "last_updated": "2026-09-23 07:38:08",
+  "last_updated": "2026-09-24 07:40:55",
   "period": "5y",
-  "data_points": 408,
+  "data_points": 409,
   "data": [
     {
       "date": "2025-02-06",
@@ -3263,11 +3263,19 @@
     },
     {
       "date": "2026-09-22",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 68226750
+      "open": 0.64,
+      "high": 0.64,
+      "low": 0.37,
+      "close": 0.46,
+      "volume": 70062600
+    },
+    {
+      "date": "2026-09-23",
+      "open": 0.39,
+      "high": 0.43,
+      "low": 0.37,
+      "close": 0.41,
+      "volume": 3100800
     }
   ]
 }

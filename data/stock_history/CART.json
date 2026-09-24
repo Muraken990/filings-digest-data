@@ -1,9 +1,9 @@
 {
   "code": "CART",
   "ticker": "CART",
-  "last_updated": "2026-09-23 07:20:58",
+  "last_updated": "2026-09-24 07:23:59",
   "period": "5y",
-  "data_points": 755,
+  "data_points": 756,
   "data": [
     {
       "date": "2023-09-19",
@@ -6039,11 +6039,19 @@
     },
     {
       "date": "2026-09-22",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5715835
+      "open": 45.7,
+      "high": 46.2,
+      "low": 43.86,
+      "close": 44.41,
+      "volume": 5870200
+    },
+    {
+      "date": "2026-09-23",
+      "open": 45.37,
+      "high": 45.93,
+      "low": 42.12,
+      "close": 42.96,
+      "volume": 6299800
     }
   ]
 }

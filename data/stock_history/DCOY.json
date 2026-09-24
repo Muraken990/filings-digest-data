@@ -1,18 +1,10 @@
 {
   "code": "DCOY",
   "ticker": "DCOY",
-  "last_updated": "2026-09-23 07:30:23",
+  "last_updated": "2026-09-24 07:33:16",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-23",
-      "open": 39240.0,
-      "high": 40680.0,
-      "low": 37800.0,
-      "close": 39960.0,
-      "volume": 51
-    },
     {
       "date": "2021-09-24",
       "open": 40320.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-09-22",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 102976161
+      "open": 5.15,
+      "high": 7.61,
+      "low": 3.0,
+      "close": 3.1,
+      "volume": 105250200
+    },
+    {
+      "date": "2026-09-23",
+      "open": 4.4,
+      "high": 4.71,
+      "low": 3.75,
+      "close": 3.85,
+      "volume": 26653900
     }
   ]
 }
