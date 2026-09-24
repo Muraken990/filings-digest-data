@@ -1,9 +1,9 @@
 {
   "code": "ONCO",
   "ticker": "ONCO",
-  "last_updated": "2026-09-23 10:08:20",
+  "last_updated": "2026-09-24 10:09:01",
   "period": "5y",
-  "data_points": 1151,
+  "data_points": 1152,
   "data": [
     {
       "date": "2022-02-18",
@@ -9207,11 +9207,19 @@
     },
     {
       "date": "2026-09-22",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 139189
+      "open": 0.64,
+      "high": 0.7,
+      "low": 0.64,
+      "close": 0.68,
+      "volume": 165400
+    },
+    {
+      "date": "2026-09-23",
+      "open": 0.65,
+      "high": 1.15,
+      "low": 0.65,
+      "close": 0.91,
+      "volume": 31435100
     }
   ]
 }

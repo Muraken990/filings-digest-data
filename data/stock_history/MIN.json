@@ -1,18 +1,10 @@
 {
   "code": "MIN",
   "ticker": "MIN",
-  "last_updated": "2026-09-23 09:57:47",
+  "last_updated": "2026-09-24 09:58:56",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-23",
-      "open": 2.33,
-      "high": 2.33,
-      "low": 2.31,
-      "close": 2.31,
-      "volume": 316000
-    },
     {
       "date": "2021-09-24",
       "open": 2.31,
@@ -10035,7 +10027,15 @@
       "high": null,
       "low": null,
       "close": null,
-      "volume": 348861
+      "volume": 0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 2.35,
+      "high": 2.36,
+      "low": 2.34,
+      "close": 2.36,
+      "volume": 321300
     }
   ]
 }

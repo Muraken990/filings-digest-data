@@ -1,18 +1,10 @@
 {
   "code": "MSTR",
   "ticker": "MSTR",
-  "last_updated": "2026-09-23 10:00:23",
+  "last_updated": "2026-09-24 10:01:25",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-23",
-      "open": 60.67,
-      "high": 61.78,
-      "low": 59.87,
-      "close": 61.66,
-      "volume": 3976000
-    },
     {
       "date": "2021-09-24",
       "open": 58.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-09-22",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 23484383
+      "open": 167.55,
+      "high": 171.19,
+      "low": 167.25,
+      "close": 167.33,
+      "volume": 23855700
+    },
+    {
+      "date": "2026-09-23",
+      "open": 167.23,
+      "high": 169.5,
+      "low": 161.84,
+      "close": 162.2,
+      "volume": 21110500
     }
   ]
 }

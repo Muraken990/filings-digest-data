@@ -1,9 +1,9 @@
 {
   "code": "MBLY",
   "ticker": "MBLY",
-  "last_updated": "2026-09-23 09:56:00",
+  "last_updated": "2026-09-24 09:57:14",
   "period": "5y",
-  "data_points": 979,
+  "data_points": 980,
   "data": [
     {
       "date": "2022-10-26",
@@ -7831,11 +7831,19 @@
     },
     {
       "date": "2026-09-22",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6112727
+      "open": 8.11,
+      "high": 8.15,
+      "low": 7.67,
+      "close": 7.68,
+      "volume": 6143500
+    },
+    {
+      "date": "2026-09-23",
+      "open": 7.63,
+      "high": 7.77,
+      "low": 7.45,
+      "close": 7.61,
+      "volume": 8917400
     }
   ]
 }

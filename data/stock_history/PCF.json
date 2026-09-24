@@ -1,18 +1,10 @@
 {
   "code": "PCF",
   "ticker": "PCF",
-  "last_updated": "2026-09-23 10:10:56",
+  "last_updated": "2026-09-24 10:11:33",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-23",
-      "open": 5.07,
-      "high": 5.08,
-      "low": 5.04,
-      "close": 5.04,
-      "volume": 164400
-    },
     {
       "date": "2021-09-24",
       "open": 5.04,
@@ -10035,7 +10027,15 @@
       "high": null,
       "low": null,
       "close": null,
-      "volume": 54474
+      "volume": 0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 5.35,
+      "high": 5.39,
+      "low": 5.33,
+      "close": 5.33,
+      "volume": 180800
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "IMCC",
   "ticker": "IMCC",
-  "last_updated": "2026-09-23 09:44:46",
+  "last_updated": "2026-09-24 09:46:21",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-23",
-      "open": 5580.0,
-      "high": 6930.0,
-      "low": 5580.0,
-      "close": 6228.0,
-      "volume": 256
-    },
     {
       "date": "2021-09-24",
       "open": 6192.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-09-22",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 25646104
+      "open": 4.5,
+      "high": 5.7,
+      "low": 3.56,
+      "close": 4.14,
+      "volume": 25801800
+    },
+    {
+      "date": "2026-09-23",
+      "open": 3.18,
+      "high": 3.44,
+      "low": 2.61,
+      "close": 2.91,
+      "volume": 29373900
     }
   ]
 }
