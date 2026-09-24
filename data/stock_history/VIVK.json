@@ -1,18 +1,10 @@
 {
   "code": "VIVK",
   "ticker": "VIVK",
-  "last_updated": "2026-09-23 12:31:38",
+  "last_updated": "2026-09-24 12:28:30",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-23",
-      "open": 28201.16,
-      "high": 34688.59,
-      "low": 27911.03,
-      "close": 28491.3,
-      "volume": 0
-    },
     {
       "date": "2021-09-24",
       "open": 31392.65,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-09-22",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 590750
+      "open": 0.57,
+      "high": 0.59,
+      "low": 0.53,
+      "close": 0.55,
+      "volume": 640900
+    },
+    {
+      "date": "2026-09-23",
+      "open": 0.57,
+      "high": 0.57,
+      "low": 0.51,
+      "close": 0.53,
+      "volume": 728900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ZENA",
   "ticker": "ZENA",
-  "last_updated": "2026-09-23 12:37:46",
+  "last_updated": "2026-09-24 12:34:26",
   "period": "5y",
-  "data_points": 495,
+  "data_points": 496,
   "data": [
     {
       "date": "2024-10-01",
@@ -3959,11 +3959,19 @@
     },
     {
       "date": "2026-09-22",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1271010
+      "open": 1.54,
+      "high": 1.58,
+      "low": 1.53,
+      "close": 1.54,
+      "volume": 1305400
+    },
+    {
+      "date": "2026-09-23",
+      "open": 1.54,
+      "high": 1.55,
+      "low": 1.49,
+      "close": 1.49,
+      "volume": 1007100
     }
   ]
 }

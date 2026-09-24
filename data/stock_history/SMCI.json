@@ -1,18 +1,10 @@
 {
   "code": "SMCI",
   "ticker": "SMCI",
-  "last_updated": "2026-09-23 12:19:18",
+  "last_updated": "2026-09-24 12:16:33",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-23",
-      "open": 3.8,
-      "high": 3.88,
-      "low": 3.74,
-      "close": 3.75,
-      "volume": 1540000
-    },
     {
       "date": "2021-09-24",
       "open": 3.72,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-09-22",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 30026695
+      "open": 41.26,
+      "high": 41.74,
+      "low": 40.45,
+      "close": 41.54,
+      "volume": 30249800
+    },
+    {
+      "date": "2026-09-23",
+      "open": 42.27,
+      "high": 42.7,
+      "low": 40.79,
+      "close": 41.44,
+      "volume": 40805000
     }
   ]
 }

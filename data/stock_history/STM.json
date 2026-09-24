@@ -1,18 +1,10 @@
 {
   "code": "STM",
   "ticker": "STM",
-  "last_updated": "2026-09-23 12:22:00",
+  "last_updated": "2026-09-24 12:19:08",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-23",
-      "open": 44.31,
-      "high": 44.69,
-      "low": 44.27,
-      "close": 44.56,
-      "volume": 862900
-    },
     {
       "date": "2021-09-24",
       "open": 44.15,
@@ -1393,7 +1385,7 @@
       "date": "2022-06-01",
       "open": 38.62,
       "high": 38.82,
-      "low": 37.48,
+      "low": 37.47,
       "close": 37.97,
       "volume": 2668700
     },
@@ -10035,7 +10027,15 @@
       "high": null,
       "low": null,
       "close": null,
-      "volume": 7833279
+      "volume": 0
+    },
+    {
+      "date": "2026-09-23",
+      "open": 52.51,
+      "high": 52.71,
+      "low": 51.48,
+      "close": 52.46,
+      "volume": 9484300
     }
   ]
 }

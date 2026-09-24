@@ -1,9 +1,9 @@
 {
   "code": "ZONE",
   "ticker": "ZONE",
-  "last_updated": "2026-09-23 12:37:49",
+  "last_updated": "2026-09-24 12:34:29",
   "period": "5y",
-  "data_points": 603,
+  "data_points": 604,
   "data": [
     {
       "date": "2024-04-26",
@@ -4823,11 +4823,19 @@
     },
     {
       "date": "2026-09-22",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 11164020
+      "open": 0.14,
+      "high": 0.15,
+      "low": 0.14,
+      "close": 0.14,
+      "volume": 11414200
+    },
+    {
+      "date": "2026-09-23",
+      "open": 0.16,
+      "high": 0.16,
+      "low": 0.14,
+      "close": 0.14,
+      "volume": 44069400
     }
   ]
 }

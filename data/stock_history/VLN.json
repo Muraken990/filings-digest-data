@@ -1,9 +1,9 @@
 {
   "code": "VLN",
   "ticker": "VLN",
-  "last_updated": "2026-09-23 12:31:40",
+  "last_updated": "2026-09-24 12:28:31",
   "period": "5y",
-  "data_points": 1249,
+  "data_points": 1250,
   "data": [
     {
       "date": "2021-09-30",
@@ -9991,11 +9991,19 @@
     },
     {
       "date": "2026-09-22",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1166942
+      "open": 1.86,
+      "high": 1.92,
+      "low": 1.8,
+      "close": 1.92,
+      "volume": 1211400
+    },
+    {
+      "date": "2026-09-23",
+      "open": 1.9,
+      "high": 1.92,
+      "low": 1.83,
+      "close": 1.92,
+      "volume": 640800
     }
   ]
 }
