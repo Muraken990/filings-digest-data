@@ -1,26 +1,10 @@
 {
   "code": "SITC",
   "ticker": "SITC",
-  "last_updated": "2026-09-24 12:14:56",
+  "last_updated": "2026-09-25 12:16:00",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-23",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-09-24",
-      "open": 4.78,
-      "high": 4.84,
-      "low": 4.76,
-      "close": 4.76,
-      "volume": 1022124
-    },
     {
       "date": "2021-09-27",
       "open": 4.78,
@@ -10043,7 +10027,15 @@
       "high": 3.04,
       "low": 2.97,
       "close": 2.97,
-      "volume": 675732
+      "volume": 693438
+    },
+    {
+      "date": "2026-09-24",
+      "open": 2.96,
+      "high": 3.04,
+      "low": 2.96,
+      "close": 3.02,
+      "volume": 1100251
     }
   ]
 }

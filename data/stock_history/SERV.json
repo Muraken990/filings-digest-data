@@ -1,9 +1,9 @@
 {
   "code": "SERV",
   "ticker": "SERV",
-  "last_updated": "2026-09-24 12:14:03",
+  "last_updated": "2026-09-25 12:15:07",
   "period": "5y",
-  "data_points": 638,
+  "data_points": 639,
   "data": [
     {
       "date": "2024-03-08",
@@ -5107,7 +5107,15 @@
       "high": 4.56,
       "low": 4.3,
       "close": 4.31,
-      "volume": 2422300
+      "volume": 2433000
+    },
+    {
+      "date": "2026-09-24",
+      "open": 4.31,
+      "high": 4.52,
+      "low": 4.3,
+      "close": 4.51,
+      "volume": 1817500
     }
   ]
 }

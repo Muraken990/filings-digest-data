@@ -1,9 +1,9 @@
 {
   "code": "RGNT",
   "ticker": "RGNT",
-  "last_updated": "2026-09-24 12:09:47",
+  "last_updated": "2026-09-25 12:10:52",
   "period": "5y",
-  "data_points": 200,
+  "data_points": 201,
   "data": [
     {
       "date": "2025-12-04",
@@ -1604,6 +1604,14 @@
       "low": 2.05,
       "close": 2.1,
       "volume": 15100
+    },
+    {
+      "date": "2026-09-24",
+      "open": 2.08,
+      "high": 2.08,
+      "low": 2.0,
+      "close": 2.04,
+      "volume": 25000
     }
   ]
 }

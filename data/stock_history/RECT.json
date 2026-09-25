@@ -1,9 +1,9 @@
 {
   "code": "RECT",
   "ticker": "RECT",
-  "last_updated": "2026-09-24 12:08:57",
+  "last_updated": "2026-09-25 12:10:03",
   "period": "5y",
-  "data_points": 565,
+  "data_points": 566,
   "data": [
     {
       "date": "2024-06-21",
@@ -4524,6 +4524,14 @@
       "low": 1.27,
       "close": 1.27,
       "volume": 1200
+    },
+    {
+      "date": "2026-09-24",
+      "open": 1.3,
+      "high": 1.3,
+      "low": 1.28,
+      "close": 1.29,
+      "volume": 1800
     }
   ]
 }

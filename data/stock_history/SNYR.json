@@ -1,10 +1,18 @@
 {
   "code": "SNYR",
   "ticker": "SNYR",
-  "last_updated": "2026-09-24 12:16:38",
+  "last_updated": "2026-09-25 12:17:42",
   "period": "5y",
-  "data_points": 5,
+  "data_points": 7,
   "data": [
+    {
+      "date": "2024-09-13",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
+    },
     {
       "date": "2026-09-17",
       "open": 0.14,
@@ -44,6 +52,14 @@
       "low": 0.02,
       "close": 0.02,
       "volume": 395538
+    },
+    {
+      "date": "2026-09-24",
+      "open": 0.02,
+      "high": 0.03,
+      "low": 0.02,
+      "close": 0.02,
+      "volume": 324731
     }
   ]
 }

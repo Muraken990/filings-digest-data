@@ -1,9 +1,9 @@
 {
   "code": "PLUN",
   "ticker": "PLUN",
-  "last_updated": "2026-09-24 12:04:40",
+  "last_updated": "2026-09-25 12:05:49",
   "period": "5y",
-  "data_points": 66,
+  "data_points": 67,
   "data": [
     {
       "date": "2026-06-18",
@@ -532,6 +532,14 @@
       "low": 10.06,
       "close": 10.07,
       "volume": 110900
+    },
+    {
+      "date": "2026-09-24",
+      "open": 10.08,
+      "high": 10.08,
+      "low": 10.06,
+      "close": 10.06,
+      "volume": 400
     }
   ]
 }
