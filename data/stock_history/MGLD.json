@@ -1,9 +1,9 @@
 {
   "code": "MGLD",
   "ticker": "MGLD",
-  "last_updated": "2026-09-24 09:58:08",
+  "last_updated": "2026-09-25 09:55:44",
   "period": "5y",
-  "data_points": 1136,
+  "data_points": 1137,
   "data": [
     {
       "date": "2022-03-14",
@@ -9091,7 +9091,15 @@
       "high": 0.97,
       "low": 0.96,
       "close": 0.96,
-      "volume": 3900
+      "volume": 14000
+    },
+    {
+      "date": "2026-09-24",
+      "open": 0.96,
+      "high": 1.08,
+      "low": 0.96,
+      "close": 1.0,
+      "volume": 57700
     }
   ]
 }

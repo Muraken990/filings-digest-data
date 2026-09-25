@@ -1,17 +1,17 @@
 {
   "code": "INDB",
   "ticker": "INDB",
-  "last_updated": "2026-09-24 09:47:09",
+  "last_updated": "2026-09-25 09:44:46",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1254,
   "data": [
     {
       "date": "2021-09-24",
-      "open": 61.95,
-      "high": 63.71,
-      "low": 61.95,
-      "close": 62.75,
-      "volume": 180300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-27",
@@ -2712,7 +2712,7 @@
     {
       "date": "2023-01-30",
       "open": 67.84,
-      "high": 68.85,
+      "high": 68.86,
       "low": 66.61,
       "close": 67.61,
       "volume": 240900
@@ -3247,7 +3247,7 @@
     },
     {
       "date": "2023-05-05",
-      "open": 44.26,
+      "open": 44.25,
       "high": 44.84,
       "low": 43.06,
       "close": 43.76,
@@ -10028,6 +10028,14 @@
       "low": 79.75,
       "close": 79.79,
       "volume": 291500
+    },
+    {
+      "date": "2026-09-24",
+      "open": 80.28,
+      "high": 80.66,
+      "low": 79.34,
+      "close": 80.24,
+      "volume": 346200
     }
   ]
 }
