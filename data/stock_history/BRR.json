@@ -1,9 +1,9 @@
 {
   "code": "BRR",
   "ticker": "BRR",
-  "last_updated": "2026-09-24 07:22:14",
+  "last_updated": "2026-09-25 07:22:10",
   "period": "5y",
-  "data_points": 4,
+  "data_points": 5,
   "data": [
     {
       "date": "2026-09-18",
@@ -35,7 +35,15 @@
       "high": 4.49,
       "low": 3.28,
       "close": 4.03,
-      "volume": 4895693
+      "volume": 4901260
+    },
+    {
+      "date": "2026-09-24",
+      "open": 3.92,
+      "high": 4.23,
+      "low": 3.92,
+      "close": 3.95,
+      "volume": 1420008
     }
   ]
 }

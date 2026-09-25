@@ -1,9 +1,9 @@
 {
   "code": "AUST",
   "ticker": "AUST",
-  "last_updated": "2026-09-24 07:15:28",
+  "last_updated": "2026-09-25 07:15:32",
   "period": "5y",
-  "data_points": 1100,
+  "data_points": 1101,
   "data": [
     {
       "date": "2022-05-04",
@@ -8804,6 +8804,14 @@
       "low": 1.07,
       "close": 1.12,
       "volume": 46200
+    },
+    {
+      "date": "2026-09-24",
+      "open": 1.12,
+      "high": 1.12,
+      "low": 1.07,
+      "close": 1.09,
+      "volume": 45200
     }
   ]
 }

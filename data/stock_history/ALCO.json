@@ -1,26 +1,10 @@
 {
   "code": "ALCO",
   "ticker": "ALCO",
-  "last_updated": "2026-09-24 07:10:24",
+  "last_updated": "2026-09-25 07:10:30",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1253,
   "data": [
-    {
-      "date": "2021-09-23",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-09-24",
-      "open": 32.01,
-      "high": 32.2,
-      "low": 31.56,
-      "close": 31.75,
-      "volume": 58900
-    },
     {
       "date": "2021-09-27",
       "open": 31.86,
@@ -1543,8 +1527,8 @@
     },
     {
       "date": "2022-06-29",
-      "open": 35.01,
-      "high": 35.01,
+      "open": 35.0,
+      "high": 35.0,
       "low": 33.38,
       "close": 33.45,
       "volume": 65800
@@ -1594,7 +1578,7 @@
       "open": 34.15,
       "high": 35.25,
       "low": 33.94,
-      "close": 35.01,
+      "close": 35.0,
       "volume": 58600
     },
     {
@@ -10036,6 +10020,14 @@
       "low": 39.19,
       "close": 39.42,
       "volume": 17500
+    },
+    {
+      "date": "2026-09-24",
+      "open": 39.79,
+      "high": 39.79,
+      "low": 38.86,
+      "close": 38.86,
+      "volume": 16700
     }
   ]
 }
