@@ -1,9 +1,9 @@
 {
   "code": "IBAC",
   "ticker": "IBAC",
-  "last_updated": "2026-09-25 09:42:19",
+  "last_updated": "2026-09-26 09:45:39",
   "period": "5y",
-  "data_points": 601,
+  "data_points": 603,
   "data": [
     {
       "date": "2024-05-01",
@@ -4798,6 +4798,14 @@
       "volume": 5200
     },
     {
+      "date": "2026-09-22",
+      "open": 11.3,
+      "high": 11.5,
+      "low": 11.3,
+      "close": 11.5,
+      "volume": 1500
+    },
+    {
       "date": "2026-09-23",
       "open": 11.4,
       "high": 11.42,
@@ -4812,6 +4820,14 @@
       "low": 11.3,
       "close": 11.3,
       "volume": 3200
+    },
+    {
+      "date": "2026-09-25",
+      "open": 11.3,
+      "high": 11.3,
+      "low": 11.3,
+      "close": 11.3,
+      "volume": 0
     }
   ]
 }

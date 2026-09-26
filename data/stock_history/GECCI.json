@@ -1,9 +1,9 @@
 {
   "code": "GECCI",
   "ticker": "GECCI",
-  "last_updated": "2026-09-25 09:35:31",
+  "last_updated": "2026-09-26 09:38:50",
   "period": "5y",
-  "data_points": 609,
+  "data_points": 611,
   "data": [
     {
       "date": "2024-04-19",
@@ -4862,6 +4862,14 @@
       "volume": 600
     },
     {
+      "date": "2026-09-22",
+      "open": 25.03,
+      "high": 25.04,
+      "low": 25.0,
+      "close": 25.0,
+      "volume": 3800
+    },
+    {
       "date": "2026-09-23",
       "open": 25.02,
       "high": 25.04,
@@ -4876,6 +4884,14 @@
       "low": 25.0,
       "close": 25.0,
       "volume": 700
+    },
+    {
+      "date": "2026-09-25",
+      "open": 25.04,
+      "high": 25.04,
+      "low": 25.04,
+      "close": 25.04,
+      "volume": 4000
     }
   ]
 }

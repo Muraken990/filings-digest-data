@@ -1,9 +1,9 @@
 {
   "code": "NBIS",
   "ticker": "NBIS",
-  "last_updated": "2026-09-25 09:59:56",
+  "last_updated": "2026-09-26 10:03:18",
   "period": "5y",
-  "data_points": 483,
+  "data_points": 484,
   "data": [
     {
       "date": "2024-10-21",
@@ -3867,7 +3867,15 @@
       "high": 249.19,
       "low": 229.5,
       "close": 243.48,
-      "volume": 24292300
+      "volume": 24335000
+    },
+    {
+      "date": "2026-09-25",
+      "open": 245.6,
+      "high": 246.92,
+      "low": 235.41,
+      "close": 237.33,
+      "volume": 11020500
     }
   ]
 }

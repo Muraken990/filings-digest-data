@@ -1,9 +1,9 @@
 {
   "code": "MYX",
   "ticker": "MYX",
-  "last_updated": "2026-09-25 09:59:53",
+  "last_updated": "2026-09-26 10:03:15",
   "period": "5y",
-  "data_points": 90,
+  "data_points": 92,
   "data": [
     {
       "date": "2026-05-15",
@@ -710,6 +710,14 @@
       "volume": 0
     },
     {
+      "date": "2026-09-22",
+      "open": 10.05,
+      "high": 10.05,
+      "low": 10.05,
+      "close": 10.05,
+      "volume": 800
+    },
+    {
       "date": "2026-09-23",
       "open": 10.05,
       "high": 10.05,
@@ -724,6 +732,14 @@
       "low": 10.05,
       "close": 10.05,
       "volume": 0
+    },
+    {
+      "date": "2026-09-25",
+      "open": 10.04,
+      "high": 10.04,
+      "low": 10.04,
+      "close": 10.04,
+      "volume": 800
     }
   ]
 }
