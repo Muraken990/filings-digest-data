@@ -1,9 +1,9 @@
 {
   "code": "ANPA",
   "ticker": "ANPA",
-  "last_updated": "2026-09-25 07:12:57",
+  "last_updated": "2026-09-26 07:11:46",
   "period": "5y",
-  "data_points": 306,
+  "data_points": 308,
   "data": [
     {
       "date": "2025-07-08",
@@ -2438,6 +2438,14 @@
       "volume": 22200
     },
     {
+      "date": "2026-09-22",
+      "open": 2.05,
+      "high": 2.09,
+      "low": 1.95,
+      "close": 1.97,
+      "volume": 26100
+    },
+    {
       "date": "2026-09-23",
       "open": 2.03,
       "high": 2.08,
@@ -2452,6 +2460,14 @@
       "low": 1.96,
       "close": 2.07,
       "volume": 16800
+    },
+    {
+      "date": "2026-09-25",
+      "open": 2.14,
+      "high": 2.17,
+      "low": 2.0,
+      "close": 2.0,
+      "volume": 14000
     }
   ]
 }

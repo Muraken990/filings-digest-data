@@ -1,9 +1,9 @@
 {
   "code": "BMNP",
   "ticker": "BMNP",
-  "last_updated": "2026-09-25 07:20:32",
+  "last_updated": "2026-09-26 07:19:21",
   "period": "5y",
-  "data_points": 70,
+  "data_points": 71,
   "data": [
     {
       "date": "2026-06-16",
@@ -543,11 +543,11 @@
     },
     {
       "date": "2026-09-22",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
+      "open": 99.41,
+      "high": 99.62,
+      "low": 98.84,
+      "close": 99.36,
+      "volume": 14900
     },
     {
       "date": "2026-09-23",
@@ -564,6 +564,14 @@
       "low": 99.06,
       "close": 99.5,
       "volume": 6500
+    },
+    {
+      "date": "2026-09-25",
+      "open": 99.87,
+      "high": 99.87,
+      "low": 99.06,
+      "close": 99.46,
+      "volume": 36500
     }
   ]
 }

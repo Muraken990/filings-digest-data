@@ -1,9 +1,9 @@
 {
   "code": "AIBZ",
   "ticker": "AIBZ",
-  "last_updated": "2026-09-25 07:09:40",
+  "last_updated": "2026-09-26 07:08:29",
   "period": "5y",
-  "data_points": 74,
+  "data_points": 76,
   "data": [
     {
       "date": "2026-06-09",
@@ -582,6 +582,14 @@
       "volume": 970000
     },
     {
+      "date": "2026-09-22",
+      "open": 5.08,
+      "high": 5.23,
+      "low": 4.73,
+      "close": 4.74,
+      "volume": 379700
+    },
+    {
       "date": "2026-09-23",
       "open": 4.89,
       "high": 4.89,
@@ -596,6 +604,14 @@
       "low": 4.18,
       "close": 4.31,
       "volume": 523600
+    },
+    {
+      "date": "2026-09-25",
+      "open": 4.28,
+      "high": 4.35,
+      "low": 3.98,
+      "close": 4.09,
+      "volume": 354700
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "DGNX",
   "ticker": "DGNX",
-  "last_updated": "2026-09-25 07:33:57",
+  "last_updated": "2026-09-26 07:32:47",
   "period": "5y",
-  "data_points": 420,
+  "data_points": 422,
   "data": [
     {
       "date": "2025-01-22",
@@ -3350,6 +3350,14 @@
       "volume": 144200
     },
     {
+      "date": "2026-09-22",
+      "open": 1.4,
+      "high": 1.55,
+      "low": 1.4,
+      "close": 1.53,
+      "volume": 1147600
+    },
+    {
       "date": "2026-09-23",
       "open": 1.52,
       "high": 1.59,
@@ -3363,7 +3371,15 @@
       "high": 1.55,
       "low": 1.38,
       "close": 1.4,
-      "volume": 1090900
+      "volume": 1107900
+    },
+    {
+      "date": "2026-09-25",
+      "open": 1.42,
+      "high": 1.44,
+      "low": 1.35,
+      "close": 1.35,
+      "volume": 1229900
     }
   ]
 }

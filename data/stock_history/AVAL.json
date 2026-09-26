@@ -1,9 +1,9 @@
 {
   "code": "AVAL",
   "ticker": "AVAL",
-  "last_updated": "2026-09-25 07:16:17",
+  "last_updated": "2026-09-26 07:15:07",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-27",
@@ -10014,6 +10014,14 @@
       "volume": 144800
     },
     {
+      "date": "2026-09-22",
+      "open": 5.12,
+      "high": 5.15,
+      "low": 5.07,
+      "close": 5.1,
+      "volume": 82100
+    },
+    {
       "date": "2026-09-23",
       "open": 5.1,
       "high": 5.14,
@@ -10028,6 +10036,14 @@
       "low": 4.9,
       "close": 4.9,
       "volume": 121200
+    },
+    {
+      "date": "2026-09-25",
+      "open": 4.9,
+      "high": 5.0,
+      "low": 4.83,
+      "close": 4.96,
+      "volume": 92000
     }
   ]
 }

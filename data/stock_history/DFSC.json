@@ -1,9 +1,9 @@
 {
   "code": "DFSC",
   "ticker": "DFSC",
-  "last_updated": "2026-09-25 07:33:56",
+  "last_updated": "2026-09-26 07:32:46",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-27",
@@ -10014,6 +10014,14 @@
       "volume": 74600
     },
     {
+      "date": "2026-09-22",
+      "open": 1.24,
+      "high": 1.25,
+      "low": 1.18,
+      "close": 1.19,
+      "volume": 80000
+    },
+    {
       "date": "2026-09-23",
       "open": 1.22,
       "high": 1.22,
@@ -10027,7 +10035,15 @@
       "high": 1.17,
       "low": 1.05,
       "close": 1.06,
-      "volume": 219900
+      "volume": 240000
+    },
+    {
+      "date": "2026-09-25",
+      "open": 1.09,
+      "high": 1.15,
+      "low": 1.08,
+      "close": 1.1,
+      "volume": 141400
     }
   ]
 }

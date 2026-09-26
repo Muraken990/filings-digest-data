@@ -1,9 +1,9 @@
 {
   "code": "CURX",
   "ticker": "CURX",
-  "last_updated": "2026-09-25 07:31:29",
+  "last_updated": "2026-09-26 07:30:19",
   "period": "5y",
-  "data_points": 271,
+  "data_points": 273,
   "data": [
     {
       "date": "2025-08-26",
@@ -2158,6 +2158,14 @@
       "volume": 16400
     },
     {
+      "date": "2026-09-22",
+      "open": 4.8,
+      "high": 4.88,
+      "low": 4.4,
+      "close": 4.58,
+      "volume": 24100
+    },
+    {
       "date": "2026-09-23",
       "open": 4.44,
       "high": 4.47,
@@ -2172,6 +2180,14 @@
       "low": 4.3,
       "close": 4.45,
       "volume": 3400
+    },
+    {
+      "date": "2026-09-25",
+      "open": 4.41,
+      "high": 5.0,
+      "low": 4.4,
+      "close": 4.74,
+      "volume": 71300
     }
   ]
 }
