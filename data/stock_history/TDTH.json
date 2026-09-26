@@ -1,9 +1,9 @@
 {
   "code": "TDTH",
   "ticker": "TDTH",
-  "last_updated": "2026-09-25 12:22:41",
+  "last_updated": "2026-09-26 12:24:38",
   "period": "5y",
-  "data_points": 511,
+  "data_points": 513,
   "data": [
     {
       "date": "2024-09-10",
@@ -4078,6 +4078,14 @@
       "volume": 26900
     },
     {
+      "date": "2026-09-22",
+      "open": 1.67,
+      "high": 1.79,
+      "low": 1.67,
+      "close": 1.74,
+      "volume": 13500
+    },
+    {
       "date": "2026-09-23",
       "open": 1.75,
       "high": 1.9,
@@ -4092,6 +4100,14 @@
       "low": 1.75,
       "close": 1.91,
       "volume": 54600
+    },
+    {
+      "date": "2026-09-25",
+      "open": 1.87,
+      "high": 1.87,
+      "low": 1.45,
+      "close": 1.46,
+      "volume": 125400
     }
   ]
 }

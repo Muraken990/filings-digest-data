@@ -1,9 +1,9 @@
 {
   "code": "TORO",
   "ticker": "TORO",
-  "last_updated": "2026-09-25 12:24:24",
+  "last_updated": "2026-09-26 12:26:21",
   "period": "5y",
-  "data_points": 893,
+  "data_points": 895,
   "data": [
     {
       "date": "2023-03-03",
@@ -7134,6 +7134,14 @@
       "volume": 33400
     },
     {
+      "date": "2026-09-22",
+      "open": 5.98,
+      "high": 6.06,
+      "low": 5.66,
+      "close": 5.74,
+      "volume": 42000
+    },
+    {
       "date": "2026-09-23",
       "open": 5.69,
       "high": 5.9,
@@ -7148,6 +7156,14 @@
       "low": 5.34,
       "close": 5.34,
       "volume": 28600
+    },
+    {
+      "date": "2026-09-25",
+      "open": 5.35,
+      "high": 5.36,
+      "low": 5.16,
+      "close": 5.28,
+      "volume": 23400
     }
   ]
 }

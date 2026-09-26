@@ -1,9 +1,9 @@
 {
   "code": "TKLF",
   "ticker": "TKLF",
-  "last_updated": "2026-09-25 12:23:34",
+  "last_updated": "2026-09-26 12:25:30",
   "period": "5y",
-  "data_points": 1175,
+  "data_points": 1177,
   "data": [
     {
       "date": "2022-01-18",
@@ -9390,6 +9390,14 @@
       "volume": 3300
     },
     {
+      "date": "2026-09-22",
+      "open": 1.67,
+      "high": 1.67,
+      "low": 1.6,
+      "close": 1.67,
+      "volume": 10000
+    },
+    {
       "date": "2026-09-23",
       "open": 1.66,
       "high": 1.73,
@@ -9404,6 +9412,14 @@
       "low": 1.62,
       "close": 1.69,
       "volume": 6600
+    },
+    {
+      "date": "2026-09-25",
+      "open": 1.63,
+      "high": 1.66,
+      "low": 1.63,
+      "close": 1.64,
+      "volume": 5000
     }
   ]
 }

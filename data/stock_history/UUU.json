@@ -1,9 +1,9 @@
 {
   "code": "UUU",
   "ticker": "UUU",
-  "last_updated": "2026-09-25 12:28:35",
+  "last_updated": "2026-09-26 12:30:32",
   "period": "5y",
-  "data_points": 1253,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-27",
@@ -10014,6 +10014,14 @@
       "volume": 9700
     },
     {
+      "date": "2026-09-22",
+      "open": 5.0,
+      "high": 5.0,
+      "low": 4.64,
+      "close": 4.72,
+      "volume": 12000
+    },
+    {
       "date": "2026-09-23",
       "open": 4.62,
       "high": 5.19,
@@ -10028,6 +10036,14 @@
       "low": 5.0,
       "close": 5.07,
       "volume": 5800
+    },
+    {
+      "date": "2026-09-25",
+      "open": 5.13,
+      "high": 5.31,
+      "low": 5.1,
+      "close": 5.11,
+      "volume": 7600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "RADX",
   "ticker": "RADX",
-  "last_updated": "2026-09-25 12:09:12",
+  "last_updated": "2026-09-26 12:11:06",
   "period": "5y",
-  "data_points": 450,
+  "data_points": 452,
   "data": [
     {
       "date": "2024-12-05",
@@ -3590,6 +3590,14 @@
       "volume": 36000
     },
     {
+      "date": "2026-09-22",
+      "open": 1.69,
+      "high": 1.69,
+      "low": 1.5,
+      "close": 1.65,
+      "volume": 33400
+    },
+    {
       "date": "2026-09-23",
       "open": 1.65,
       "high": 1.69,
@@ -3604,6 +3612,14 @@
       "low": 1.49,
       "close": 1.57,
       "volume": 59900
+    },
+    {
+      "date": "2026-09-25",
+      "open": 1.57,
+      "high": 1.68,
+      "low": 1.44,
+      "close": 1.65,
+      "volume": 37600
     }
   ]
 }

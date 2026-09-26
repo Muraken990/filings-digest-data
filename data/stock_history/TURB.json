@@ -1,9 +1,9 @@
 {
   "code": "TURB",
   "ticker": "TURB",
-  "last_updated": "2026-09-25 12:26:04",
+  "last_updated": "2026-09-26 12:28:01",
   "period": "5y",
-  "data_points": 753,
+  "data_points": 755,
   "data": [
     {
       "date": "2023-09-22",
@@ -6014,6 +6014,14 @@
       "volume": 404900
     },
     {
+      "date": "2026-09-22",
+      "open": 1.11,
+      "high": 1.13,
+      "low": 1.02,
+      "close": 1.03,
+      "volume": 301200
+    },
+    {
       "date": "2026-09-23",
       "open": 1.04,
       "high": 1.08,
@@ -6028,6 +6036,14 @@
       "low": 1.04,
       "close": 1.12,
       "volume": 303800
+    },
+    {
+      "date": "2026-09-25",
+      "open": 1.09,
+      "high": 1.13,
+      "low": 1.04,
+      "close": 1.04,
+      "volume": 111600
     }
   ]
 }

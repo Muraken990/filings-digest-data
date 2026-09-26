@@ -1,9 +1,9 @@
 {
   "code": "VRM",
   "ticker": "VRM",
-  "last_updated": "2026-09-25 12:30:18",
+  "last_updated": "2026-09-26 12:32:16",
   "period": "5y",
-  "data_points": 400,
+  "data_points": 402,
   "data": [
     {
       "date": "2025-02-20",
@@ -3190,6 +3190,14 @@
       "volume": 13300
     },
     {
+      "date": "2026-09-22",
+      "open": 9.58,
+      "high": 9.79,
+      "low": 9.05,
+      "close": 9.51,
+      "volume": 10400
+    },
+    {
       "date": "2026-09-23",
       "open": 9.5,
       "high": 9.5,
@@ -3204,6 +3212,14 @@
       "low": 9.14,
       "close": 9.73,
       "volume": 5900
+    },
+    {
+      "date": "2026-09-25",
+      "open": 9.75,
+      "high": 9.93,
+      "low": 9.62,
+      "close": 9.66,
+      "volume": 2300
     }
   ]
 }
