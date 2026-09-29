@@ -1,9 +1,9 @@
 {
   "code": "MINE",
   "ticker": "MINE",
-  "last_updated": "2026-09-28 09:57:50",
+  "last_updated": "2026-09-29 09:55:18",
   "period": "5y",
-  "data_points": 168,
+  "data_points": 169,
   "data": [
     {
       "date": "2026-01-27",
@@ -1348,6 +1348,14 @@
       "low": 2.71,
       "close": 2.74,
       "volume": 130700
+    },
+    {
+      "date": "2026-09-28",
+      "open": 2.68,
+      "high": 2.86,
+      "low": 2.62,
+      "close": 2.86,
+      "volume": 319700
     }
   ]
 }
