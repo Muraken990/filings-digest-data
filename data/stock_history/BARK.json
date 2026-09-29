@@ -1,26 +1,10 @@
 {
   "code": "BARK",
   "ticker": "BARK",
-  "last_updated": "2026-09-28 07:16:00",
+  "last_updated": "2026-09-29 07:14:29",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-27",
-      "open": 150.0,
-      "high": 154.2,
-      "low": 148.1,
-      "close": 152.6,
-      "volume": 49125
-    },
-    {
-      "date": "2021-09-28",
-      "open": 150.2,
-      "high": 151.2,
-      "low": 142.0,
-      "close": 142.8,
-      "volume": 59960
-    },
     {
       "date": "2021-09-29",
       "open": 144.4,
@@ -10044,6 +10028,14 @@
       "low": 8.15,
       "close": 8.16,
       "volume": 113900
+    },
+    {
+      "date": "2026-09-28",
+      "open": 8.16,
+      "high": 8.35,
+      "low": 8.09,
+      "close": 8.19,
+      "volume": 34400
     }
   ]
 }
