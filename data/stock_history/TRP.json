@@ -1,25 +1,17 @@
 {
   "code": "TRP",
   "ticker": "TRP",
-  "last_updated": "2026-09-28 12:25:31",
+  "last_updated": "2026-09-29 12:25:20",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-27",
-      "open": 39.05,
-      "high": 39.61,
-      "low": 39.0,
-      "close": 39.39,
-      "volume": 5891000
-    },
-    {
       "date": "2021-09-28",
-      "open": 39.9,
-      "high": 39.93,
-      "low": 38.76,
-      "close": 38.77,
-      "volume": 2799200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-29",
@@ -345,7 +337,7 @@
       "date": "2021-11-24",
       "open": 38.33,
       "high": 38.59,
-      "low": 38.02,
+      "low": 38.03,
       "close": 38.5,
       "volume": 977400
     },
@@ -10044,6 +10036,14 @@
       "low": 58.33,
       "close": 58.78,
       "volume": 4123700
+    },
+    {
+      "date": "2026-09-28",
+      "open": 58.86,
+      "high": 59.08,
+      "low": 58.41,
+      "close": 58.68,
+      "volume": 9932900
     }
   ]
 }

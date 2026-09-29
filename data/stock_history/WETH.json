@@ -1,9 +1,9 @@
 {
   "code": "WETH",
   "ticker": "WETH",
-  "last_updated": "2026-09-28 12:32:16",
+  "last_updated": "2026-09-29 12:32:05",
   "period": "5y",
-  "data_points": 652,
+  "data_points": 653,
   "data": [
     {
       "date": "2024-02-21",
@@ -5219,7 +5219,15 @@
       "high": 1.09,
       "low": 1.03,
       "close": 1.04,
-      "volume": 33500
+      "volume": 71000
+    },
+    {
+      "date": "2026-09-28",
+      "open": 1.04,
+      "high": 1.09,
+      "low": 0.99,
+      "close": 1.01,
+      "volume": 167400
     }
   ]
 }

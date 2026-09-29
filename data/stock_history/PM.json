@@ -1,25 +1,17 @@
 {
   "code": "PM",
   "ticker": "PM",
-  "last_updated": "2026-09-28 12:06:03",
+  "last_updated": "2026-09-29 12:05:49",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-27",
-      "open": 80.45,
-      "high": 81.57,
-      "low": 80.45,
-      "close": 81.15,
-      "volume": 4414900
-    },
-    {
       "date": "2021-09-28",
-      "open": 81.18,
-      "high": 81.18,
-      "low": 78.63,
-      "close": 78.87,
-      "volume": 6281700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-29",
@@ -1962,7 +1954,7 @@
       "open": 78.22,
       "high": 78.76,
       "low": 77.64,
-      "close": 78.39,
+      "close": 78.4,
       "volume": 3661200
     },
     {
@@ -10044,6 +10036,14 @@
       "low": 187.31,
       "close": 190.48,
       "volume": 3899200
+    },
+    {
+      "date": "2026-09-28",
+      "open": 190.56,
+      "high": 194.02,
+      "low": 189.69,
+      "close": 193.76,
+      "volume": 3910500
     }
   ]
 }

@@ -1,25 +1,17 @@
 {
   "code": "SONY",
   "ticker": "SONY",
-  "last_updated": "2026-09-28 12:18:45",
+  "last_updated": "2026-09-29 12:18:32",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-09-27",
-      "open": 22.84,
-      "high": 22.93,
-      "low": 22.62,
-      "close": 22.68,
-      "volume": 3155500
-    },
-    {
       "date": "2021-09-28",
-      "open": 22.49,
-      "high": 22.57,
-      "low": 22.09,
-      "close": 22.19,
-      "volume": 4516500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-29",
@@ -10044,6 +10036,14 @@
       "low": 23.38,
       "close": 23.55,
       "volume": 2299000
+    },
+    {
+      "date": "2026-09-28",
+      "open": 23.32,
+      "high": 23.49,
+      "low": 23.17,
+      "close": 23.33,
+      "volume": 2624000
     }
   ]
 }
