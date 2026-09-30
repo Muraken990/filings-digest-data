@@ -1,17 +1,17 @@
 {
   "code": "EPRT",
   "ticker": "EPRT",
-  "last_updated": "2026-09-29 07:36:22",
+  "last_updated": "2026-09-30 07:37:08",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-29",
-      "open": 22.95,
-      "high": 23.23,
-      "low": 22.86,
-      "close": 22.98,
-      "volume": 552300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-30",
@@ -10036,6 +10036,14 @@
       "low": 26.19,
       "close": 26.4,
       "volume": 2005200
+    },
+    {
+      "date": "2026-09-29",
+      "open": 26.37,
+      "high": 26.47,
+      "low": 26.09,
+      "close": 26.27,
+      "volume": 1899200
     }
   ]
 }

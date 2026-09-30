@@ -1,17 +1,17 @@
 {
   "code": "BANF",
   "ticker": "BANF",
-  "last_updated": "2026-09-29 07:14:28",
+  "last_updated": "2026-09-30 07:15:11",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-29",
-      "open": 54.74,
-      "high": 56.23,
-      "low": 54.5,
-      "close": 56.14,
-      "volume": 55700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-30",
@@ -8425,7 +8425,7 @@
       "date": "2025-12-08",
       "open": 108.35,
       "high": 109.11,
-      "low": 107.29,
+      "low": 107.3,
       "close": 107.58,
       "volume": 153700
     },
@@ -10036,6 +10036,14 @@
       "low": 107.09,
       "close": 107.29,
       "volume": 158300
+    },
+    {
+      "date": "2026-09-29",
+      "open": 107.15,
+      "high": 108.1,
+      "low": 105.56,
+      "close": 106.35,
+      "volume": 189600
     }
   ]
 }

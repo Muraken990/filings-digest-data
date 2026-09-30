@@ -1,17 +1,17 @@
 {
   "code": "ACRE",
   "ticker": "ACRE",
-  "last_updated": "2026-09-29 07:05:14",
+  "last_updated": "2026-09-30 07:05:52",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-29",
-      "open": 8.2,
-      "high": 8.24,
-      "low": 8.11,
-      "close": 8.19,
-      "volume": 260700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-30",
@@ -10036,6 +10036,14 @@
       "low": 4.09,
       "close": 4.11,
       "volume": 713500
+    },
+    {
+      "date": "2026-09-29",
+      "open": 4.11,
+      "high": 4.15,
+      "low": 4.05,
+      "close": 4.11,
+      "volume": 737200
     }
   ]
 }

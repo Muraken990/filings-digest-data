@@ -1,17 +1,17 @@
 {
   "code": "CIM",
   "ticker": "CIM",
-  "last_updated": "2026-09-29 07:24:34",
+  "last_updated": "2026-09-30 07:25:18",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-29",
-      "open": 25.25,
-      "high": 25.47,
-      "low": 25.05,
-      "close": 25.37,
-      "volume": 790033
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-30",
@@ -2096,7 +2096,7 @@
     {
       "date": "2022-10-12",
       "open": 10.35,
-      "high": 10.5,
+      "high": 10.51,
       "low": 9.91,
       "close": 10.29,
       "volume": 1222033
@@ -10036,6 +10036,14 @@
       "low": 10.05,
       "close": 10.17,
       "volume": 1543900
+    },
+    {
+      "date": "2026-09-29",
+      "open": 10.18,
+      "high": 10.32,
+      "low": 10.11,
+      "close": 10.2,
+      "volume": 1574300
     }
   ]
 }

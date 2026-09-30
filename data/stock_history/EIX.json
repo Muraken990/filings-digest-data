@@ -1,17 +1,17 @@
 {
   "code": "EIX",
   "ticker": "EIX",
-  "last_updated": "2026-09-29 07:34:43",
+  "last_updated": "2026-09-30 07:35:29",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-29",
-      "open": 45.09,
-      "high": 45.53,
-      "low": 44.91,
-      "close": 45.07,
-      "volume": 1808600
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-30",
@@ -1136,7 +1136,7 @@
     {
       "date": "2022-04-21",
       "open": 59.15,
-      "high": 59.77,
+      "high": 59.76,
       "low": 58.91,
       "close": 59.27,
       "volume": 1112100
@@ -2130,7 +2130,7 @@
       "open": 48.22,
       "high": 48.51,
       "low": 47.41,
-      "close": 47.88,
+      "close": 47.87,
       "volume": 1762100
     },
     {
@@ -6458,7 +6458,7 @@
       "open": 74.55,
       "high": 74.57,
       "low": 73.71,
-      "close": 74.19,
+      "close": 74.2,
       "volume": 1443400
     },
     {
@@ -10035,7 +10035,15 @@
       "high": 52.96,
       "low": 51.33,
       "close": 51.47,
-      "volume": 5498700
+      "volume": 5535600
+    },
+    {
+      "date": "2026-09-29",
+      "open": 51.5,
+      "high": 53.7,
+      "low": 51.1,
+      "close": 53.56,
+      "volume": 7943300
     }
   ]
 }

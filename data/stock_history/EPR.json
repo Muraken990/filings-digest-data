@@ -1,17 +1,17 @@
 {
   "code": "EPR",
   "ticker": "EPR",
-  "last_updated": "2026-09-29 07:36:22",
+  "last_updated": "2026-09-30 07:37:08",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-29",
-      "open": 35.69,
-      "high": 35.86,
-      "low": 35.15,
-      "close": 35.2,
-      "volume": 259400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-30",
@@ -647,7 +647,7 @@
     },
     {
       "date": "2022-01-24",
-      "open": 30.78,
+      "open": 30.77,
       "high": 31.6,
       "low": 29.88,
       "close": 31.48,
@@ -720,7 +720,7 @@
     {
       "date": "2022-02-04",
       "open": 31.25,
-      "high": 32.05,
+      "high": 32.06,
       "low": 30.94,
       "close": 31.8,
       "volume": 559600
@@ -10036,6 +10036,14 @@
       "low": 56.34,
       "close": 56.98,
       "volume": 782400
+    },
+    {
+      "date": "2026-09-29",
+      "open": 56.8,
+      "high": 57.46,
+      "low": 56.68,
+      "close": 57.19,
+      "volume": 635100
     }
   ]
 }

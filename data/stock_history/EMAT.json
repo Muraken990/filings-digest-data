@@ -1,9 +1,9 @@
 {
   "code": "EMAT",
   "ticker": "EMAT",
-  "last_updated": "2026-09-29 07:35:31",
+  "last_updated": "2026-09-30 07:36:17",
   "period": "5y",
-  "data_points": 182,
+  "data_points": 183,
   "data": [
     {
       "date": "2026-01-07",
@@ -1460,6 +1460,14 @@
       "low": 3.06,
       "close": 3.2,
       "volume": 994000
+    },
+    {
+      "date": "2026-09-29",
+      "open": 3.2,
+      "high": 3.25,
+      "low": 2.85,
+      "close": 2.91,
+      "volume": 1393800
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "COLD",
   "ticker": "COLD",
-  "last_updated": "2026-09-29 07:26:19",
+  "last_updated": "2026-09-30 07:27:03",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-29",
-      "open": 24.06,
-      "high": 24.28,
-      "low": 23.65,
-      "close": 23.97,
-      "volume": 4219000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-30",
@@ -2336,7 +2336,7 @@
     {
       "date": "2022-11-23",
       "open": 24.57,
-      "high": 24.94,
+      "high": 24.95,
       "low": 24.56,
       "close": 24.92,
       "volume": 878900
@@ -10035,7 +10035,15 @@
       "high": 14.88,
       "low": 14.4,
       "close": 14.56,
-      "volume": 3706300
+      "volume": 4076900
+    },
+    {
+      "date": "2026-09-29",
+      "open": 14.41,
+      "high": 14.75,
+      "low": 14.38,
+      "close": 14.54,
+      "volume": 3090700
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "DNP",
   "ticker": "DNP",
-  "last_updated": "2026-09-29 07:32:09",
+  "last_updated": "2026-09-30 07:32:54",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-29",
-      "open": 7.34,
-      "high": 7.39,
-      "low": 7.3,
-      "close": 7.31,
-      "volume": 569500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-30",
@@ -1440,7 +1440,7 @@
     {
       "date": "2022-06-15",
       "open": 7.56,
-      "high": 7.79,
+      "high": 7.78,
       "low": 7.56,
       "close": 7.7,
       "volume": 775700
@@ -10036,6 +10036,14 @@
       "low": 9.68,
       "close": 9.72,
       "volume": 1045600
+    },
+    {
+      "date": "2026-09-29",
+      "open": 9.73,
+      "high": 9.85,
+      "low": 9.68,
+      "close": 9.83,
+      "volume": 713400
     }
   ]
 }

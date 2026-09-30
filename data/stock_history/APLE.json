@@ -1,17 +1,17 @@
 {
   "code": "APLE",
   "ticker": "APLE",
-  "last_updated": "2026-09-29 07:10:18",
+  "last_updated": "2026-09-30 07:10:58",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-29",
-      "open": 11.91,
-      "high": 12.0,
-      "low": 11.73,
-      "close": 11.88,
-      "volume": 1272300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-30",
@@ -10036,6 +10036,14 @@
       "low": 16.17,
       "close": 16.35,
       "volume": 2022300
+    },
+    {
+      "date": "2026-09-29",
+      "open": 16.35,
+      "high": 16.38,
+      "low": 16.1,
+      "close": 16.27,
+      "volume": 1776700
     }
   ]
 }
