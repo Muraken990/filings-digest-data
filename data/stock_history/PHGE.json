@@ -1,9 +1,9 @@
 {
   "code": "PHGE",
   "ticker": "PHGE",
-  "last_updated": "2026-09-29 10:08:48",
+  "last_updated": "2026-09-30 10:12:40",
   "period": "5y",
-  "data_points": 3,
+  "data_points": 4,
   "data": [
     {
       "date": "2026-09-24",
@@ -28,6 +28,14 @@
       "low": 0.44,
       "close": 0.48,
       "volume": 540034
+    },
+    {
+      "date": "2026-09-29",
+      "open": 0.47,
+      "high": 0.48,
+      "low": 0.38,
+      "close": 0.43,
+      "volume": 860320
     }
   ]
 }

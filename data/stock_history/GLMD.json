@@ -1,9 +1,9 @@
 {
   "code": "GLMD",
   "ticker": "GLMD",
-  "last_updated": "2026-09-29 09:35:09",
+  "last_updated": "2026-09-30 09:38:54",
   "period": "5y",
-  "data_points": 4,
+  "data_points": 5,
   "data": [
     {
       "date": "2026-09-23",
@@ -36,6 +36,14 @@
       "low": 3.46,
       "close": 3.63,
       "volume": 3889
+    },
+    {
+      "date": "2026-09-29",
+      "open": 3.6,
+      "high": 3.63,
+      "low": 3.5,
+      "close": 3.55,
+      "volume": 5635
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "NPV",
   "ticker": "NPV",
-  "last_updated": "2026-09-29 10:01:14",
+  "last_updated": "2026-09-30 10:05:05",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-09-29",
-      "open": 12.3,
-      "high": 12.72,
-      "low": 12.3,
-      "close": 12.37,
-      "volume": 9800
-    },
     {
       "date": "2021-09-30",
       "open": 12.52,
@@ -10036,6 +10028,14 @@
       "low": 9.2,
       "close": 9.21,
       "volume": 100100
+    },
+    {
+      "date": "2026-09-29",
+      "open": 9.25,
+      "high": 9.35,
+      "low": 9.05,
+      "close": 9.13,
+      "volume": 215500
     }
   ]
 }

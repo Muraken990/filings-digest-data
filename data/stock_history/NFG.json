@@ -1,17 +1,17 @@
 {
   "code": "NFG",
   "ticker": "NFG",
-  "last_updated": "2026-09-29 10:00:19",
+  "last_updated": "2026-09-30 10:04:09",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-29",
-      "open": 46.27,
-      "high": 46.63,
-      "low": 45.77,
-      "close": 46.11,
-      "volume": 490400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-30",
@@ -6473,7 +6473,7 @@
       "date": "2024-12-16",
       "open": 58.21,
       "high": 58.56,
-      "low": 57.91,
+      "low": 57.92,
       "close": 58.11,
       "volume": 434700
     },
@@ -7602,7 +7602,7 @@
       "open": 80.78,
       "high": 82.16,
       "low": 80.66,
-      "close": 81.99,
+      "close": 81.98,
       "volume": 423300
     },
     {
@@ -10036,6 +10036,14 @@
       "low": 77.7,
       "close": 77.76,
       "volume": 756300
+    },
+    {
+      "date": "2026-09-29",
+      "open": 77.0,
+      "high": 77.93,
+      "low": 76.55,
+      "close": 77.14,
+      "volume": 1142700
     }
   ]
 }

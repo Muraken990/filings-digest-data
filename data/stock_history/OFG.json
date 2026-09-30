@@ -1,17 +1,17 @@
 {
   "code": "OFG",
   "ticker": "OFG",
-  "last_updated": "2026-09-29 10:04:31",
+  "last_updated": "2026-09-30 10:08:22",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-29",
-      "open": 22.65,
-      "high": 22.86,
-      "low": 22.48,
-      "close": 22.67,
-      "volume": 252500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-30",
@@ -8985,7 +8985,7 @@
       "date": "2026-03-20",
       "open": 38.21,
       "high": 38.28,
-      "low": 37.6,
+      "low": 37.61,
       "close": 38.13,
       "volume": 1938400
     },
@@ -10035,7 +10035,15 @@
       "high": 52.17,
       "low": 51.14,
       "close": 51.2,
-      "volume": 253800
+      "volume": 264700
+    },
+    {
+      "date": "2026-09-29",
+      "open": 51.27,
+      "high": 51.45,
+      "low": 50.19,
+      "close": 50.47,
+      "volume": 220800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "MPTI",
   "ticker": "MPTI",
-  "last_updated": "2026-09-29 09:56:56",
+  "last_updated": "2026-09-30 10:00:46",
   "period": "5y",
-  "data_points": 1000,
+  "data_points": 1001,
   "data": [
     {
       "date": "2022-10-03",
@@ -8004,6 +8004,14 @@
       "low": 73.16,
       "close": 75.44,
       "volume": 73900
+    },
+    {
+      "date": "2026-09-29",
+      "open": 76.0,
+      "high": 76.73,
+      "low": 75.02,
+      "close": 76.09,
+      "volume": 66200
     }
   ]
 }
