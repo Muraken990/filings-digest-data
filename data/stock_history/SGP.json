@@ -1,9 +1,9 @@
 {
   "code": "SGP",
   "ticker": "SGP",
-  "last_updated": "2026-09-29 12:15:56",
+  "last_updated": "2026-09-30 12:16:39",
   "period": "5y",
-  "data_points": 161,
+  "data_points": 162,
   "data": [
     {
       "date": "2026-02-06",
@@ -1292,6 +1292,14 @@
       "low": 25.98,
       "close": 25.98,
       "volume": 120000
+    },
+    {
+      "date": "2026-09-29",
+      "open": 25.84,
+      "high": 26.25,
+      "low": 24.4,
+      "close": 25.44,
+      "volume": 67900
     }
   ]
 }

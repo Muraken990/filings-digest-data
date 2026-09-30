@@ -1,17 +1,17 @@
 {
   "code": "SLG",
   "ticker": "SLG",
-  "last_updated": "2026-09-29 12:16:51",
+  "last_updated": "2026-09-30 12:17:32",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-29",
-      "open": 52.57,
-      "high": 52.77,
-      "low": 51.9,
-      "close": 52.05,
-      "volume": 919269
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-30",
@@ -656,7 +656,7 @@
     {
       "date": "2022-01-25",
       "open": 54.7,
-      "high": 55.27,
+      "high": 55.26,
       "low": 53.8,
       "close": 54.44,
       "volume": 902900
@@ -2330,7 +2330,7 @@
       "open": 31.42,
       "high": 32.09,
       "low": 31.13,
-      "close": 31.97,
+      "close": 31.98,
       "volume": 645800
     },
     {
@@ -4896,7 +4896,7 @@
     {
       "date": "2024-03-06",
       "open": 44.51,
-      "high": 45.18,
+      "high": 45.17,
       "low": 44.1,
       "close": 44.86,
       "volume": 1872900
@@ -10036,6 +10036,14 @@
       "low": 49.05,
       "close": 49.32,
       "volume": 577500
+    },
+    {
+      "date": "2026-09-29",
+      "open": 49.43,
+      "high": 50.29,
+      "low": 48.74,
+      "close": 49.02,
+      "volume": 1021900
     }
   ]
 }

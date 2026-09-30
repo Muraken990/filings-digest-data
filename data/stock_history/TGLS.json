@@ -1,17 +1,17 @@
 {
   "code": "TGLS",
   "ticker": "TGLS",
-  "last_updated": "2026-09-29 12:22:49",
+  "last_updated": "2026-09-30 12:23:27",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-29",
-      "open": 21.03,
-      "high": 21.34,
-      "low": 20.54,
-      "close": 20.74,
-      "volume": 132900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-09-30",
@@ -4096,7 +4096,7 @@
     {
       "date": "2023-10-11",
       "open": 34.17,
-      "high": 35.06,
+      "high": 35.07,
       "low": 34.17,
       "close": 35.03,
       "volume": 379800
@@ -10036,6 +10036,14 @@
       "low": 34.05,
       "close": 34.63,
       "volume": 446900
+    },
+    {
+      "date": "2026-09-29",
+      "open": 34.78,
+      "high": 34.88,
+      "low": 34.1,
+      "close": 34.75,
+      "volume": 316800
     }
   ]
 }

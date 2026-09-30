@@ -1,9 +1,9 @@
 {
   "code": "SMA",
   "ticker": "SMA",
-  "last_updated": "2026-09-29 12:17:38",
+  "last_updated": "2026-09-30 12:18:19",
   "period": "5y",
-  "data_points": 374,
+  "data_points": 375,
   "data": [
     {
       "date": "2025-04-02",
@@ -2996,6 +2996,14 @@
       "low": 31.06,
       "close": 31.2,
       "volume": 773300
+    },
+    {
+      "date": "2026-09-29",
+      "open": 31.21,
+      "high": 32.52,
+      "low": 31.06,
+      "close": 32.35,
+      "volume": 1279100
     }
   ]
 }
