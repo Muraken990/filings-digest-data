@@ -1,17 +1,17 @@
 {
   "code": "ESE",
   "ticker": "ESE",
-  "last_updated": "2026-09-30 07:37:11",
+  "last_updated": "2026-10-01 07:34:51",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-30",
-      "open": 77.29,
-      "high": 78.29,
-      "low": 75.94,
-      "close": 75.98,
-      "volume": 126500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-01",
@@ -10036,6 +10036,14 @@
       "low": 263.08,
       "close": 265.69,
       "volume": 139000
+    },
+    {
+      "date": "2026-09-30",
+      "open": 266.64,
+      "high": 269.09,
+      "low": 261.25,
+      "close": 265.11,
+      "volume": 197400
     }
   ]
 }

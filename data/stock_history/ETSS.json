@@ -1,9 +1,9 @@
 {
   "code": "ETSS",
   "ticker": "ETSS",
-  "last_updated": "2026-09-30 07:37:59",
+  "last_updated": "2026-10-01 07:35:41",
   "period": "5y",
-  "data_points": 81,
+  "data_points": 82,
   "data": [
     {
       "date": "2026-06-04",
@@ -652,6 +652,14 @@
       "low": 9.93,
       "close": 9.93,
       "volume": 1200
+    },
+    {
+      "date": "2026-09-30",
+      "open": 10.0,
+      "high": 10.0,
+      "low": 9.96,
+      "close": 9.96,
+      "volume": 400
     }
   ]
 }

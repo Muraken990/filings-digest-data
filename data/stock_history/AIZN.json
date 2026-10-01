@@ -1,17 +1,17 @@
 {
   "code": "AIZN",
   "ticker": "AIZN",
-  "last_updated": "2026-09-30 07:08:24",
+  "last_updated": "2026-10-01 07:03:47",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-30",
-      "open": 19.9,
-      "high": 20.02,
-      "low": 19.77,
-      "close": 20.02,
-      "volume": 10200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-01",
@@ -3290,7 +3290,7 @@
       "open": 16.18,
       "high": 16.19,
       "low": 15.91,
-      "close": 15.97,
+      "close": 15.96,
       "volume": 15500
     },
     {
@@ -7393,7 +7393,7 @@
       "date": "2025-06-05",
       "open": 18.31,
       "high": 18.4,
-      "low": 18.05,
+      "low": 18.06,
       "close": 18.07,
       "volume": 13000
     },
@@ -10036,6 +10036,14 @@
       "low": 17.63,
       "close": 17.72,
       "volume": 12600
+    },
+    {
+      "date": "2026-09-30",
+      "open": 17.86,
+      "high": 18.06,
+      "low": 17.48,
+      "close": 17.81,
+      "volume": 46000
     }
   ]
 }

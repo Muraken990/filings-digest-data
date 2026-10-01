@@ -1,17 +1,17 @@
 {
   "code": "AGNCP",
   "ticker": "AGNCP",
-  "last_updated": "2026-09-30 07:07:34",
+  "last_updated": "2026-10-01 07:02:52",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-30",
-      "open": 17.63,
-      "high": 17.69,
-      "low": 17.62,
-      "close": 17.68,
-      "volume": 50800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-01",
@@ -3360,7 +3360,7 @@
     {
       "date": "2023-06-01",
       "open": 15.94,
-      "high": 16.32,
+      "high": 16.31,
       "low": 15.93,
       "close": 16.2,
       "volume": 38800
@@ -6800,7 +6800,7 @@
     {
       "date": "2025-02-19",
       "open": 22.02,
-      "high": 22.03,
+      "high": 22.02,
       "low": 21.98,
       "close": 21.98,
       "volume": 38000
@@ -10036,6 +10036,14 @@
       "low": 25.16,
       "close": 25.18,
       "volume": 95900
+    },
+    {
+      "date": "2026-09-30",
+      "open": 25.2,
+      "high": 25.31,
+      "low": 25.13,
+      "close": 25.28,
+      "volume": 111800
     }
   ]
 }
