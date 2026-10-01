@@ -1,9 +1,9 @@
 {
   "code": "SYNX",
   "ticker": "SYNX",
-  "last_updated": "2026-09-30 12:22:32",
+  "last_updated": "2026-10-01 12:17:02",
   "period": "5y",
-  "data_points": 680,
+  "data_points": 681,
   "data": [
     {
       "date": "2024-01-12",
@@ -5444,6 +5444,14 @@
       "low": 1.02,
       "close": 1.03,
       "volume": 10400
+    },
+    {
+      "date": "2026-09-30",
+      "open": 0.98,
+      "high": 1.03,
+      "low": 0.98,
+      "close": 1.0,
+      "volume": 29900
     }
   ]
 }
