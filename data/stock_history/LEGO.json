@@ -1,9 +1,9 @@
 {
   "code": "LEGO",
   "ticker": "LEGO",
-  "last_updated": "2026-09-30 09:53:15",
+  "last_updated": "2026-10-01 09:48:09",
   "period": "5y",
-  "data_points": 137,
+  "data_points": 138,
   "data": [
     {
       "date": "2026-03-16",
@@ -1100,6 +1100,14 @@
       "low": 10.0,
       "close": 10.0,
       "volume": 0
+    },
+    {
+      "date": "2026-09-30",
+      "open": 9.99,
+      "high": 10.05,
+      "low": 9.99,
+      "close": 10.05,
+      "volume": 400
     }
   ]
 }

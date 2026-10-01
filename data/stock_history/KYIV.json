@@ -1,9 +1,9 @@
 {
   "code": "KYIV",
   "ticker": "KYIV",
-  "last_updated": "2026-09-30 09:52:24",
+  "last_updated": "2026-10-01 09:47:15",
   "period": "5y",
-  "data_points": 456,
+  "data_points": 457,
   "data": [
     {
       "date": "2024-12-03",
@@ -3652,6 +3652,14 @@
       "low": 12.57,
       "close": 12.77,
       "volume": 408300
+    },
+    {
+      "date": "2026-09-30",
+      "open": 12.75,
+      "high": 12.75,
+      "low": 12.31,
+      "close": 12.34,
+      "volume": 507300
     }
   ]
 }

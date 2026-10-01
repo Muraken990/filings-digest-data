@@ -1,17 +1,17 @@
 {
   "code": "PEGA",
   "ticker": "PEGA",
-  "last_updated": "2026-09-30 10:11:49",
+  "last_updated": "2026-10-01 10:07:51",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-09-30",
-      "open": 63.01,
-      "high": 63.71,
-      "low": 62.36,
-      "close": 62.69,
-      "volume": 497000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-01",
@@ -490,7 +490,7 @@
       "open": 54.63,
       "high": 55.67,
       "low": 54.08,
-      "close": 55.58,
+      "close": 55.59,
       "volume": 497600
     },
     {
@@ -5936,7 +5936,7 @@
     {
       "date": "2024-09-12",
       "open": 32.86,
-      "high": 33.35,
+      "high": 33.36,
       "low": 32.65,
       "close": 33.09,
       "volume": 790800
@@ -10036,6 +10036,14 @@
       "low": 32.33,
       "close": 32.97,
       "volume": 1410100
+    },
+    {
+      "date": "2026-09-30",
+      "open": 33.4,
+      "high": 33.77,
+      "low": 32.36,
+      "close": 33.28,
+      "volume": 3091300
     }
   ]
 }
