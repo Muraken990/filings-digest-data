@@ -1,9 +1,9 @@
 {
   "code": "WETO",
   "ticker": "WETO",
-  "last_updated": "2026-10-01 12:27:51",
+  "last_updated": "2026-10-02 12:26:59",
   "period": "5y",
-  "data_points": 400,
+  "data_points": 401,
   "data": [
     {
       "date": "2025-02-27",
@@ -3203,7 +3203,15 @@
       "high": 1.36,
       "low": 0.99,
       "close": 1.01,
-      "volume": 12416900
+      "volume": 12756000
+    },
+    {
+      "date": "2026-10-01",
+      "open": 1.05,
+      "high": 1.15,
+      "low": 1.05,
+      "close": 1.12,
+      "volume": 3738600
     }
   ]
 }

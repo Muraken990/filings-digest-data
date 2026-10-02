@@ -1,9 +1,9 @@
 {
   "code": "PWRL",
   "ticker": "PWRL",
-  "last_updated": "2026-10-01 12:02:46",
+  "last_updated": "2026-10-02 12:02:39",
   "period": "5y",
-  "data_points": 88,
+  "data_points": 89,
   "data": [
     {
       "date": "2026-05-27",
@@ -708,6 +708,14 @@
       "low": 10.9,
       "close": 11.0,
       "volume": 114500
+    },
+    {
+      "date": "2026-10-01",
+      "open": 10.92,
+      "high": 11.18,
+      "low": 10.61,
+      "close": 11.13,
+      "volume": 221900
     }
   ]
 }

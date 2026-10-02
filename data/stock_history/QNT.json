@@ -1,9 +1,9 @@
 {
   "code": "QNT",
   "ticker": "QNT",
-  "last_updated": "2026-10-01 12:02:51",
+  "last_updated": "2026-10-02 12:02:43",
   "period": "5y",
-  "data_points": 82,
+  "data_points": 83,
   "data": [
     {
       "date": "2026-06-04",
@@ -660,6 +660,14 @@
       "low": 48.0,
       "close": 48.06,
       "volume": 1852800
+    },
+    {
+      "date": "2026-10-01",
+      "open": 48.5,
+      "high": 49.57,
+      "low": 46.19,
+      "close": 46.68,
+      "volume": 2558800
     }
   ]
 }

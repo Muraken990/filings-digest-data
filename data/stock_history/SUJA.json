@@ -1,9 +1,9 @@
 {
   "code": "SUJA",
   "ticker": "SUJA",
-  "last_updated": "2026-10-01 12:16:09",
+  "last_updated": "2026-10-02 12:15:40",
   "period": "5y",
-  "data_points": 101,
+  "data_points": 102,
   "data": [
     {
       "date": "2026-05-07",
@@ -812,6 +812,14 @@
       "low": 9.28,
       "close": 9.71,
       "volume": 453700
+    },
+    {
+      "date": "2026-10-01",
+      "open": 9.73,
+      "high": 9.97,
+      "low": 8.99,
+      "close": 9.05,
+      "volume": 208300
     }
   ]
 }

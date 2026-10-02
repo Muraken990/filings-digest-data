@@ -1,9 +1,9 @@
 {
   "code": "VSEE",
   "ticker": "VSEE",
-  "last_updated": "2026-10-01 12:26:08",
+  "last_updated": "2026-10-02 12:25:19",
   "period": "5y",
-  "data_points": 5,
+  "data_points": 6,
   "data": [
     {
       "date": "2026-09-24",
@@ -43,7 +43,15 @@
       "high": 2.25,
       "low": 1.2,
       "close": 2.25,
-      "volume": 19634
+      "volume": 19788
+    },
+    {
+      "date": "2026-10-01",
+      "open": 2.05,
+      "high": 2.2,
+      "low": 1.5,
+      "close": 2.1,
+      "volume": 8932
     }
   ]
 }
