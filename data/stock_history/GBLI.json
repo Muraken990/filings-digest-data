@@ -1,18 +1,10 @@
 {
   "code": "GBLI",
   "ticker": "GBLI",
-  "last_updated": "2026-10-01 09:31:03",
+  "last_updated": "2026-10-02 09:31:00",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-01",
-      "open": 22.02,
-      "high": 22.02,
-      "low": 21.82,
-      "close": 21.97,
-      "volume": 1200
-    },
     {
       "date": "2021-10-04",
       "open": 21.57,
@@ -10036,6 +10028,14 @@
       "low": 24.1,
       "close": 24.5,
       "volume": 5700
+    },
+    {
+      "date": "2026-10-01",
+      "open": 24.5,
+      "high": 25.0,
+      "low": 23.51,
+      "close": 24.64,
+      "volume": 11800
     }
   ]
 }

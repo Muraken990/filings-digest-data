@@ -1,9 +1,9 @@
 {
   "code": "KPET",
   "ticker": "KPET",
-  "last_updated": "2026-10-01 09:46:22",
+  "last_updated": "2026-10-02 09:45:50",
   "period": "5y",
-  "data_points": 89,
+  "data_points": 90,
   "data": [
     {
       "date": "2026-05-26",
@@ -716,6 +716,14 @@
       "low": 10.01,
       "close": 10.01,
       "volume": 100
+    },
+    {
+      "date": "2026-10-01",
+      "open": 10.02,
+      "high": 10.02,
+      "low": 10.01,
+      "close": 10.02,
+      "volume": 5600
     }
   ]
 }

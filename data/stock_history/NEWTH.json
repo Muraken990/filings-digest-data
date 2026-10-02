@@ -1,9 +1,9 @@
 {
   "code": "NEWTH",
   "ticker": "NEWTH",
-  "last_updated": "2026-10-01 09:58:52",
+  "last_updated": "2026-10-02 09:58:01",
   "period": "5y",
-  "data_points": 511,
+  "data_points": 512,
   "data": [
     {
       "date": "2024-09-17",
@@ -4092,6 +4092,14 @@
       "low": 25.12,
       "close": 25.22,
       "volume": 3800
+    },
+    {
+      "date": "2026-10-01",
+      "open": 25.1,
+      "high": 25.26,
+      "low": 25.1,
+      "close": 25.26,
+      "volume": 1500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "MEVO",
   "ticker": "MEVO",
-  "last_updated": "2026-10-01 09:53:26",
+  "last_updated": "2026-10-02 09:52:44",
   "period": "5y",
-  "data_points": 155,
+  "data_points": 156,
   "data": [
     {
       "date": "2026-02-19",
@@ -1244,6 +1244,14 @@
       "low": 10.0,
       "close": 10.0,
       "volume": 64300
+    },
+    {
+      "date": "2026-10-01",
+      "open": 10.0,
+      "high": 10.01,
+      "low": 10.0,
+      "close": 10.01,
+      "volume": 26500
     }
   ]
 }

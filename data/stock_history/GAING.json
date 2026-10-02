@@ -1,9 +1,9 @@
 {
   "code": "GAING",
   "ticker": "GAING",
-  "last_updated": "2026-10-01 09:31:00",
+  "last_updated": "2026-10-02 09:30:58",
   "period": "5y",
-  "data_points": 155,
+  "data_points": 156,
   "data": [
     {
       "date": "2026-02-19",
@@ -1244,6 +1244,14 @@
       "low": 25.05,
       "close": 25.09,
       "volume": 8700
+    },
+    {
+      "date": "2026-10-01",
+      "open": 25.09,
+      "high": 25.2,
+      "low": 25.09,
+      "close": 25.19,
+      "volume": 5200
     }
   ]
 }

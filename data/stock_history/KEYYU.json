@@ -1,9 +1,9 @@
 {
   "code": "KEYYU",
   "ticker": "KEYYU",
-  "last_updated": "2026-10-01 09:45:27",
+  "last_updated": "2026-10-02 09:44:57",
   "period": "5y",
-  "data_points": 83,
+  "data_points": 84,
   "data": [
     {
       "date": "2026-06-03",
@@ -668,6 +668,14 @@
       "low": 10.14,
       "close": 10.15,
       "volume": 1000
+    },
+    {
+      "date": "2026-10-01",
+      "open": 10.15,
+      "high": 10.15,
+      "low": 10.15,
+      "close": 10.15,
+      "volume": 0
     }
   ]
 }
