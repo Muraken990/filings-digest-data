@@ -1,9 +1,9 @@
 {
   "code": "BTAI",
   "ticker": "BTAI",
-  "last_updated": "2026-10-01 07:16:33",
+  "last_updated": "2026-10-02 07:15:42",
   "period": "5y",
-  "data_points": 9,
+  "data_points": 10,
   "data": [
     {
       "date": "2026-09-08",
@@ -76,6 +76,14 @@
       "low": 0.04,
       "close": 0.05,
       "volume": 422760
+    },
+    {
+      "date": "2026-10-01",
+      "open": 0.05,
+      "high": 0.05,
+      "low": 0.04,
+      "close": 0.05,
+      "volume": 220560
     }
   ]
 }

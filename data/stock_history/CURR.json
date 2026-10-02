@@ -1,9 +1,9 @@
 {
   "code": "CURR",
   "ticker": "CURR",
-  "last_updated": "2026-10-01 07:26:38",
+  "last_updated": "2026-10-02 07:25:18",
   "period": "5y",
-  "data_points": 521,
+  "data_points": 522,
   "data": [
     {
       "date": "2024-09-03",
@@ -4172,6 +4172,14 @@
       "low": 3.08,
       "close": 3.08,
       "volume": 15600
+    },
+    {
+      "date": "2026-10-01",
+      "open": 3.09,
+      "high": 3.19,
+      "low": 3.06,
+      "close": 3.15,
+      "volume": 41200
     }
   ]
 }

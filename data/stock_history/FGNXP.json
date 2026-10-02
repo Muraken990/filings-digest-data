@@ -1,9 +1,9 @@
 {
   "code": "FGNXP",
   "ticker": "FGNXP",
-  "last_updated": "2026-10-01 07:38:25",
+  "last_updated": "2026-10-02 07:36:33",
   "period": "5y",
-  "data_points": 5,
+  "data_points": 7,
   "data": [
     {
       "date": "2022-02-28",
@@ -15,6 +15,14 @@
     },
     {
       "date": "2022-05-31",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
+    },
+    {
+      "date": "2022-08-31",
       "open": null,
       "high": null,
       "low": null,
@@ -44,6 +52,14 @@
       "low": 24.49,
       "close": 24.5,
       "volume": 3523
+    },
+    {
+      "date": "2026-09-30",
+      "open": 24.5,
+      "high": 24.99,
+      "low": 24.5,
+      "close": 24.99,
+      "volume": 5060
     }
   ]
 }

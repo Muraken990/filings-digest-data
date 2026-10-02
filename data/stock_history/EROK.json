@@ -1,9 +1,9 @@
 {
   "code": "EROK",
   "ticker": "EROK",
-  "last_updated": "2026-10-01 07:34:50",
+  "last_updated": "2026-10-02 07:33:08",
   "period": "5y",
-  "data_points": 96,
+  "data_points": 97,
   "data": [
     {
       "date": "2026-05-14",
@@ -772,6 +772,14 @@
       "low": 20.1,
       "close": 20.8,
       "volume": 330500
+    },
+    {
+      "date": "2026-10-01",
+      "open": 20.65,
+      "high": 21.9,
+      "low": 20.65,
+      "close": 21.23,
+      "volume": 386700
     }
   ]
 }

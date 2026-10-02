@@ -1,9 +1,9 @@
 {
   "code": "ACCL",
   "ticker": "ACCL",
-  "last_updated": "2026-10-01 07:00:12",
+  "last_updated": "2026-10-02 07:00:09",
   "period": "5y",
-  "data_points": 239,
+  "data_points": 240,
   "data": [
     {
       "date": "2025-10-17",
@@ -1916,6 +1916,14 @@
       "low": 2.55,
       "close": 2.6,
       "volume": 5900
+    },
+    {
+      "date": "2026-10-01",
+      "open": 2.63,
+      "high": 2.63,
+      "low": 2.5,
+      "close": 2.59,
+      "volume": 7500
     }
   ]
 }
