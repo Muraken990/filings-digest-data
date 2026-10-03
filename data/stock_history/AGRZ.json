@@ -1,9 +1,9 @@
 {
   "code": "AGRZ",
   "ticker": "AGRZ",
-  "last_updated": "2026-10-02 07:02:44",
+  "last_updated": "2026-10-03 07:02:44",
   "period": "5y",
-  "data_points": 252,
+  "data_points": 253,
   "data": [
     {
       "date": "2025-10-01",
@@ -2020,6 +2020,14 @@
       "low": 2.89,
       "close": 3.23,
       "volume": 32700
+    },
+    {
+      "date": "2026-10-02",
+      "open": 3.15,
+      "high": 3.42,
+      "low": 3.12,
+      "close": 3.25,
+      "volume": 21200
     }
   ]
 }

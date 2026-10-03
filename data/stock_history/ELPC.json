@@ -1,9 +1,9 @@
 {
   "code": "ELPC",
   "ticker": "ELPC",
-  "last_updated": "2026-10-02 07:31:25",
+  "last_updated": "2026-10-03 07:31:25",
   "period": "5y",
-  "data_points": 691,
+  "data_points": 692,
   "data": [
     {
       "date": "2023-12-29",
@@ -5532,6 +5532,14 @@
       "low": 12.17,
       "close": 12.37,
       "volume": 1021100
+    },
+    {
+      "date": "2026-10-02",
+      "open": 12.53,
+      "high": 12.86,
+      "low": 12.29,
+      "close": 12.86,
+      "volume": 817500
     }
   ]
 }

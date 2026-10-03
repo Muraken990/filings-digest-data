@@ -1,9 +1,9 @@
 {
   "code": "AGNC",
   "ticker": "AGNC",
-  "last_updated": "2026-10-02 07:02:42",
+  "last_updated": "2026-10-03 07:02:43",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-04",
@@ -199,7 +199,7 @@
     },
     {
       "date": "2021-11-05",
-      "open": 8.04,
+      "open": 8.05,
       "high": 8.14,
       "low": 8.03,
       "close": 8.12,
@@ -10035,7 +10035,15 @@
       "high": 9.07,
       "low": 8.87,
       "close": 8.95,
-      "volume": 50954500
+      "volume": 51032000
+    },
+    {
+      "date": "2026-10-02",
+      "open": 9.06,
+      "high": 9.13,
+      "low": 8.77,
+      "close": 8.79,
+      "volume": 39727700
     }
   ]
 }

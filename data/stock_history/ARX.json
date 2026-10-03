@@ -1,9 +1,9 @@
 {
   "code": "ARX",
   "ticker": "ARX",
-  "last_updated": "2026-10-02 07:07:52",
+  "last_updated": "2026-10-03 07:07:53",
   "period": "5y",
-  "data_points": 300,
+  "data_points": 301,
   "data": [
     {
       "date": "2025-07-24",
@@ -2404,6 +2404,14 @@
       "low": 19.71,
       "close": 19.73,
       "volume": 963900
+    },
+    {
+      "date": "2026-10-02",
+      "open": 19.73,
+      "high": 19.75,
+      "low": 19.73,
+      "close": 19.73,
+      "volume": 1432700
     }
   ]
 }

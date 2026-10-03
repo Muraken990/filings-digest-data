@@ -1,9 +1,9 @@
 {
   "code": "DAVE",
   "ticker": "DAVE",
-  "last_updated": "2026-10-02 07:26:58",
+  "last_updated": "2026-10-03 07:26:59",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-04",
@@ -10036,6 +10036,14 @@
       "low": 318.19,
       "close": 339.59,
       "volume": 280000
+    },
+    {
+      "date": "2026-10-02",
+      "open": 350.0,
+      "high": 355.92,
+      "low": 345.74,
+      "close": 346.57,
+      "volume": 339200
     }
   ]
 }

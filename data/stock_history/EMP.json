@@ -1,9 +1,9 @@
 {
   "code": "EMP",
   "ticker": "EMP",
-  "last_updated": "2026-10-02 07:32:13",
+  "last_updated": "2026-10-03 07:32:13",
   "period": "5y",
-  "data_points": 171,
+  "data_points": 172,
   "data": [
     {
       "date": "2026-01-28",
@@ -1372,6 +1372,14 @@
       "low": 18.48,
       "close": 18.72,
       "volume": 24600
+    },
+    {
+      "date": "2026-10-02",
+      "open": 18.74,
+      "high": 18.96,
+      "low": 18.68,
+      "close": 18.68,
+      "volume": 18600
     }
   ]
 }
