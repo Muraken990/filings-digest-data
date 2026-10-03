@@ -1,9 +1,9 @@
 {
   "code": "TSLA",
   "ticker": "TSLA",
-  "last_updated": "2026-10-02 12:20:07",
+  "last_updated": "2026-10-03 12:20:07",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-04",
@@ -10035,7 +10035,15 @@
       "high": 359.79,
       "low": 353.8,
       "close": 354.11,
-      "volume": 31004400
+      "volume": 31080800
+    },
+    {
+      "date": "2026-10-02",
+      "open": 360.08,
+      "high": 374.6,
+      "low": 359.41,
+      "close": 370.59,
+      "volume": 55242800
     }
   ]
 }

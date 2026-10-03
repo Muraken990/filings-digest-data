@@ -1,9 +1,9 @@
 {
   "code": "QADR",
   "ticker": "QADR",
-  "last_updated": "2026-10-02 12:02:41",
+  "last_updated": "2026-10-03 12:02:42",
   "period": "5y",
-  "data_points": 93,
+  "data_points": 94,
   "data": [
     {
       "date": "2026-05-20",
@@ -748,6 +748,14 @@
       "low": 10.02,
       "close": 10.02,
       "volume": 61000
+    },
+    {
+      "date": "2026-10-02",
+      "open": 10.0,
+      "high": 10.01,
+      "low": 10.0,
+      "close": 10.01,
+      "volume": 200000
     }
   ]
 }

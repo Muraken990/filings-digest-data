@@ -1,18 +1,10 @@
 {
   "code": "VIV",
   "ticker": "VIV",
-  "last_updated": "2026-10-02 12:24:26",
+  "last_updated": "2026-10-03 12:24:26",
   "period": "5y",
   "data_points": 1255,
   "data": [
-    {
-      "date": "2021-10-01",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-10-04",
       "open": 5.75,
@@ -10044,6 +10036,14 @@
       "low": 11.27,
       "close": 11.36,
       "volume": 1094500
+    },
+    {
+      "date": "2026-10-02",
+      "open": 11.39,
+      "high": 11.54,
+      "low": 11.17,
+      "close": 11.54,
+      "volume": 892000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "PONY",
   "ticker": "PONY",
-  "last_updated": "2026-10-02 12:00:54",
+  "last_updated": "2026-10-03 12:00:56",
   "period": "5y",
-  "data_points": 461,
+  "data_points": 462,
   "data": [
     {
       "date": "2024-11-27",
@@ -3691,7 +3691,15 @@
       "high": 6.6,
       "low": 6.11,
       "close": 6.24,
-      "volume": 6510800
+      "volume": 6523000
+    },
+    {
+      "date": "2026-10-02",
+      "open": 6.18,
+      "high": 6.24,
+      "low": 5.97,
+      "close": 6.07,
+      "volume": 5726700
     }
   ]
 }

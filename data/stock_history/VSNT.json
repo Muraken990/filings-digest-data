@@ -1,9 +1,9 @@
 {
   "code": "VSNT",
   "ticker": "VSNT",
-  "last_updated": "2026-10-02 12:25:19",
+  "last_updated": "2026-10-03 12:25:20",
   "period": "5y",
-  "data_points": 200,
+  "data_points": 201,
   "data": [
     {
       "date": "2025-12-15",
@@ -1604,6 +1604,14 @@
       "low": 29.75,
       "close": 30.84,
       "volume": 2631700
+    },
+    {
+      "date": "2026-10-02",
+      "open": 30.84,
+      "high": 31.1,
+      "low": 30.57,
+      "close": 30.94,
+      "volume": 2017500
     }
   ]
 }
