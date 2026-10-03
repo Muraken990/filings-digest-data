@@ -1,9 +1,9 @@
 {
   "code": "HBNB",
   "ticker": "HBNB",
-  "last_updated": "2026-10-02 09:36:10",
+  "last_updated": "2026-10-03 09:36:08",
   "period": "5y",
-  "data_points": 335,
+  "data_points": 336,
   "data": [
     {
       "date": "2025-06-03",
@@ -2684,6 +2684,14 @@
       "low": 4.55,
       "close": 4.56,
       "volume": 6900
+    },
+    {
+      "date": "2026-10-02",
+      "open": 4.45,
+      "high": 4.76,
+      "low": 4.45,
+      "close": 4.76,
+      "volume": 1700
     }
   ]
 }

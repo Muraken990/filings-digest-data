@@ -1,9 +1,9 @@
 {
   "code": "PARK",
   "ticker": "PARK",
-  "last_updated": "2026-10-02 10:05:48",
+  "last_updated": "2026-10-03 10:05:40",
   "period": "5y",
-  "data_points": 208,
+  "data_points": 209,
   "data": [
     {
       "date": "2025-12-03",
@@ -1668,6 +1668,14 @@
       "low": 20.1,
       "close": 20.11,
       "volume": 9600
+    },
+    {
+      "date": "2026-10-02",
+      "open": 20.0,
+      "high": 20.58,
+      "low": 19.77,
+      "close": 19.84,
+      "volume": 31300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "GSRV",
   "ticker": "GSRV",
-  "last_updated": "2026-10-02 09:34:32",
+  "last_updated": "2026-10-03 09:34:30",
   "period": "5y",
-  "data_points": 64,
+  "data_points": 65,
   "data": [
     {
       "date": "2026-07-02",
@@ -516,6 +516,14 @@
       "low": 9.89,
       "close": 9.89,
       "volume": 0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 9.88,
+      "high": 9.89,
+      "low": 9.88,
+      "close": 9.89,
+      "volume": 88600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "NOEMU",
   "ticker": "NOEMU",
-  "last_updated": "2026-10-02 09:59:44",
+  "last_updated": "2026-10-03 09:59:36",
   "period": "5y",
-  "data_points": 465,
+  "data_points": 466,
   "data": [
     {
       "date": "2024-11-21",
@@ -3724,6 +3724,14 @@
       "low": 12.5,
       "close": 12.5,
       "volume": 0
+    },
+    {
+      "date": "2026-10-02",
+      "open": 11.11,
+      "high": 17.0,
+      "low": 10.64,
+      "close": 12.13,
+      "volume": 10658
     }
   ]
 }

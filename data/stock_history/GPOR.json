@@ -1,9 +1,9 @@
 {
   "code": "GPOR",
   "ticker": "GPOR",
-  "last_updated": "2026-10-02 09:34:25",
+  "last_updated": "2026-10-03 09:34:23",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-04",
@@ -10035,7 +10035,15 @@
       "high": 154.3,
       "low": 149.97,
       "close": 153.35,
-      "volume": 176400
+      "volume": 200000
+    },
+    {
+      "date": "2026-10-02",
+      "open": 154.86,
+      "high": 156.58,
+      "low": 152.6,
+      "close": 154.4,
+      "volume": 225600
     }
   ]
 }
