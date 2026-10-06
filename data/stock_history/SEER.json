@@ -1,26 +1,10 @@
 {
   "code": "SEER",
   "ticker": "SEER",
-  "last_updated": "2026-10-05 12:09:36",
+  "last_updated": "2026-10-06 12:09:41",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-04",
-      "open": 34.39,
-      "high": 34.39,
-      "low": 32.12,
-      "close": 32.73,
-      "volume": 251300
-    },
-    {
-      "date": "2021-10-05",
-      "open": 32.96,
-      "high": 33.83,
-      "low": 31.14,
-      "close": 32.5,
-      "volume": 353600
-    },
     {
       "date": "2021-10-06",
       "open": 32.02,
@@ -10044,6 +10028,14 @@
       "low": 2.21,
       "close": 2.25,
       "volume": 200500
+    },
+    {
+      "date": "2026-10-05",
+      "open": 2.23,
+      "high": 2.38,
+      "low": 2.23,
+      "close": 2.33,
+      "volume": 595900
     }
   ]
 }

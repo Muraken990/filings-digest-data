@@ -1,9 +1,9 @@
 {
   "code": "WENC",
   "ticker": "WENC",
-  "last_updated": "2026-10-05 12:26:58",
+  "last_updated": "2026-10-06 12:27:05",
   "period": "5y",
-  "data_points": 99,
+  "data_points": 100,
   "data": [
     {
       "date": "2026-05-13",
@@ -796,6 +796,14 @@
       "low": 10.0,
       "close": 10.01,
       "volume": 128600
+    },
+    {
+      "date": "2026-10-05",
+      "open": 10.05,
+      "high": 10.05,
+      "low": 10.02,
+      "close": 10.02,
+      "volume": 1100
     }
   ]
 }
