@@ -1,26 +1,10 @@
 {
   "code": "HYPD",
   "ticker": "HYPD",
-  "last_updated": "2026-10-05 09:38:51",
+  "last_updated": "2026-10-06 09:38:52",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-04",
-      "open": 404.0,
-      "high": 429.6,
-      "low": 396.0,
-      "close": 414.4,
-      "volume": 11458
-    },
-    {
-      "date": "2021-10-05",
-      "open": 420.0,
-      "high": 459.36,
-      "low": 408.8,
-      "close": 452.0,
-      "volume": 6885
-    },
     {
       "date": "2021-10-06",
       "open": 448.0,
@@ -10044,6 +10028,14 @@
       "low": 3.7,
       "close": 3.73,
       "volume": 530000
+    },
+    {
+      "date": "2026-10-05",
+      "open": 3.78,
+      "high": 3.92,
+      "low": 3.78,
+      "close": 3.89,
+      "volume": 359000
     }
   ]
 }

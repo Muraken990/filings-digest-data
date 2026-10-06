@@ -1,26 +1,10 @@
 {
   "code": "NMTC",
   "ticker": "NMTC",
-  "last_updated": "2026-10-05 09:59:40",
+  "last_updated": "2026-10-06 09:59:39",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-04",
-      "open": 24.06,
-      "high": 24.65,
-      "low": 23.71,
-      "close": 23.88,
-      "volume": 4617
-    },
-    {
-      "date": "2021-10-05",
-      "open": 23.88,
-      "high": 25.34,
-      "low": 23.1,
-      "close": 24.42,
-      "volume": 9633
-    },
     {
       "date": "2021-10-06",
       "open": 23.88,
@@ -10044,6 +10028,14 @@
       "low": 0.98,
       "close": 1.12,
       "volume": 197400
+    },
+    {
+      "date": "2026-10-05",
+      "open": 1.18,
+      "high": 1.35,
+      "low": 1.1,
+      "close": 1.12,
+      "volume": 1000000
     }
   ]
 }

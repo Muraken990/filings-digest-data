@@ -1,26 +1,10 @@
 {
   "code": "PESI",
   "ticker": "PESI",
-  "last_updated": "2026-10-05 10:07:28",
+  "last_updated": "2026-10-06 10:07:36",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-04",
-      "open": 6.6,
-      "high": 6.64,
-      "low": 6.32,
-      "close": 6.37,
-      "volume": 14700
-    },
-    {
-      "date": "2021-10-05",
-      "open": 6.46,
-      "high": 7.19,
-      "low": 6.36,
-      "close": 7.02,
-      "volume": 262400
-    },
     {
       "date": "2021-10-06",
       "open": 6.99,
@@ -10044,6 +10028,14 @@
       "low": 15.34,
       "close": 15.56,
       "volume": 240000
+    },
+    {
+      "date": "2026-10-05",
+      "open": 15.49,
+      "high": 15.56,
+      "low": 15.03,
+      "close": 15.49,
+      "volume": 170000
     }
   ]
 }

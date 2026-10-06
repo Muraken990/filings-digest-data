@@ -1,26 +1,10 @@
 {
   "code": "HAIN",
   "ticker": "HAIN",
-  "last_updated": "2026-10-05 09:35:21",
+  "last_updated": "2026-10-06 09:35:23",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-04",
-      "open": 43.12,
-      "high": 44.0,
-      "low": 43.05,
-      "close": 43.81,
-      "volume": 756800
-    },
-    {
-      "date": "2021-10-05",
-      "open": 44.0,
-      "high": 44.33,
-      "low": 43.12,
-      "close": 43.61,
-      "volume": 615000
-    },
     {
       "date": "2021-10-06",
       "open": 43.61,
@@ -10044,6 +10028,14 @@
       "low": 0.5,
       "close": 0.52,
       "volume": 731700
+    },
+    {
+      "date": "2026-10-05",
+      "open": 0.52,
+      "high": 0.56,
+      "low": 0.51,
+      "close": 0.51,
+      "volume": 1001300
     }
   ]
 }
