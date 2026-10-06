@@ -1,9 +1,9 @@
 {
   "code": "EXYN",
   "ticker": "EXYN",
-  "last_updated": "2026-10-05 07:34:50",
+  "last_updated": "2026-10-06 07:35:00",
   "period": "5y",
-  "data_points": 97,
+  "data_points": 98,
   "data": [
     {
       "date": "2026-05-15",
@@ -780,6 +780,14 @@
       "low": 2.28,
       "close": 2.34,
       "volume": 72200
+    },
+    {
+      "date": "2026-10-05",
+      "open": 2.43,
+      "high": 2.89,
+      "low": 2.43,
+      "close": 2.65,
+      "volume": 125800
     }
   ]
 }

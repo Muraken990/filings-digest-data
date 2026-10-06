@@ -1,26 +1,10 @@
 {
   "code": "CAN",
   "ticker": "CAN",
-  "last_updated": "2026-10-05 07:17:26",
+  "last_updated": "2026-10-06 07:17:32",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-04",
-      "open": 6.26,
-      "high": 6.42,
-      "low": 6.12,
-      "close": 6.28,
-      "volume": 3479700
-    },
-    {
-      "date": "2021-10-05",
-      "open": 6.44,
-      "high": 6.68,
-      "low": 6.37,
-      "close": 6.58,
-      "volume": 4733500
-    },
     {
       "date": "2021-10-06",
       "open": 6.77,
@@ -10043,7 +10027,15 @@
       "high": 0.37,
       "low": 0.35,
       "close": 0.35,
-      "volume": 8658700
+      "volume": 8710200
+    },
+    {
+      "date": "2026-10-05",
+      "open": 0.35,
+      "high": 0.36,
+      "low": 0.32,
+      "close": 0.33,
+      "volume": 8099800
     }
   ]
 }
