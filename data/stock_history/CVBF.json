@@ -1,26 +1,10 @@
 {
   "code": "CVBF",
   "ticker": "CVBF",
-  "last_updated": "2026-10-06 07:25:26",
+  "last_updated": "2026-10-07 07:25:21",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-05",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-10-06",
-      "open": 16.47,
-      "high": 16.65,
-      "low": 16.29,
-      "close": 16.49,
-      "volume": 458400
-    },
     {
       "date": "2021-10-07",
       "open": 16.62,
@@ -713,7 +697,7 @@
       "date": "2022-02-09",
       "open": 19.49,
       "high": 19.56,
-      "low": 19.18,
+      "low": 19.17,
       "close": 19.32,
       "volume": 864200
     },
@@ -10044,6 +10028,14 @@
       "low": 22.03,
       "close": 22.12,
       "volume": 1784600
+    },
+    {
+      "date": "2026-10-06",
+      "open": 22.11,
+      "high": 22.27,
+      "low": 21.84,
+      "close": 21.89,
+      "volume": 1244900
     }
   ]
 }
