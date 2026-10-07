@@ -1,9 +1,9 @@
 {
   "code": "INR",
   "ticker": "INR",
-  "last_updated": "2026-10-06 09:41:27",
+  "last_updated": "2026-10-07 09:41:30",
   "period": "5y",
-  "data_points": 421,
+  "data_points": 422,
   "data": [
     {
       "date": "2025-01-31",
@@ -3372,6 +3372,14 @@
       "low": 12.74,
       "close": 13.21,
       "volume": 190800
+    },
+    {
+      "date": "2026-10-06",
+      "open": 13.18,
+      "high": 13.56,
+      "low": 13.16,
+      "close": 13.5,
+      "volume": 112300
     }
   ]
 }

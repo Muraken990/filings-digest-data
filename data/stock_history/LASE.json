@@ -1,9 +1,9 @@
 {
   "code": "LASE",
   "ticker": "LASE",
-  "last_updated": "2026-10-06 09:47:29",
+  "last_updated": "2026-10-07 09:47:33",
   "period": "5y",
-  "data_points": 1006,
+  "data_points": 1007,
   "data": [
     {
       "date": "2022-09-30",
@@ -8051,7 +8051,15 @@
       "high": 0.82,
       "low": 0.78,
       "close": 0.8,
-      "volume": 1217400
+      "volume": 1234200
+    },
+    {
+      "date": "2026-10-06",
+      "open": 0.8,
+      "high": 0.81,
+      "low": 0.76,
+      "close": 0.76,
+      "volume": 1047100
     }
   ]
 }

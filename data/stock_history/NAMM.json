@@ -1,9 +1,9 @@
 {
   "code": "NAMM",
   "ticker": "NAMM",
-  "last_updated": "2026-10-06 09:57:05",
+  "last_updated": "2026-10-07 09:57:10",
   "period": "5y",
-  "data_points": 334,
+  "data_points": 335,
   "data": [
     {
       "date": "2025-06-06",
@@ -2675,7 +2675,15 @@
       "high": 1.28,
       "low": 1.18,
       "close": 1.25,
-      "volume": 1201300
+      "volume": 1211600
+    },
+    {
+      "date": "2026-10-06",
+      "open": 1.24,
+      "high": 1.25,
+      "low": 1.08,
+      "close": 1.2,
+      "volume": 1149200
     }
   ]
 }
