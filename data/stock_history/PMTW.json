@@ -1,9 +1,9 @@
 {
   "code": "PMTW",
   "ticker": "PMTW",
-  "last_updated": "2026-10-06 12:00:08",
+  "last_updated": "2026-10-07 12:00:09",
   "period": "5y",
-  "data_points": 330,
+  "data_points": 331,
   "data": [
     {
       "date": "2025-06-12",
@@ -2644,6 +2644,14 @@
       "low": 25.06,
       "close": 25.11,
       "volume": 19000
+    },
+    {
+      "date": "2026-10-06",
+      "open": 25.11,
+      "high": 25.11,
+      "low": 25.02,
+      "close": 25.05,
+      "volume": 22100
     }
   ]
 }

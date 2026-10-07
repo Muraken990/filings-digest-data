@@ -1,9 +1,9 @@
 {
   "code": "PSIG",
   "ticker": "PSIG",
-  "last_updated": "2026-10-06 12:01:52",
+  "last_updated": "2026-10-07 12:01:52",
   "period": "5y",
-  "data_points": 555,
+  "data_points": 556,
   "data": [
     {
       "date": "2024-07-19",
@@ -4444,6 +4444,14 @@
       "low": 4.5,
       "close": 4.6,
       "volume": 742400
+    },
+    {
+      "date": "2026-10-06",
+      "open": 4.6,
+      "high": 4.69,
+      "low": 4.6,
+      "close": 4.66,
+      "volume": 1289600
     }
   ]
 }

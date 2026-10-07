@@ -1,17 +1,17 @@
 {
   "code": "VLGEA",
   "ticker": "VLGEA",
-  "last_updated": "2026-10-06 12:24:33",
+  "last_updated": "2026-10-07 12:24:30",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-06",
-      "open": 18.53,
-      "high": 18.54,
-      "low": 18.19,
-      "close": 18.19,
-      "volume": 24500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-07",
@@ -4903,7 +4903,7 @@
     },
     {
       "date": "2024-03-14",
-      "open": 25.64,
+      "open": 25.63,
       "high": 25.77,
       "low": 25.15,
       "close": 25.25,
@@ -10036,6 +10036,14 @@
       "low": 45.15,
       "close": 45.46,
       "volume": 34900
+    },
+    {
+      "date": "2026-10-06",
+      "open": 45.79,
+      "high": 45.79,
+      "low": 42.74,
+      "close": 43.72,
+      "volume": 69000
     }
   ]
 }
