@@ -1,9 +1,9 @@
 {
   "code": "CEPS",
   "ticker": "CEPS",
-  "last_updated": "2026-10-07 07:19:13",
+  "last_updated": "2026-10-08 07:19:18",
   "period": "5y",
-  "data_points": 168,
+  "data_points": 169,
   "data": [
     {
       "date": "2026-02-05",
@@ -1348,6 +1348,14 @@
       "low": 10.27,
       "close": 10.27,
       "volume": 300
+    },
+    {
+      "date": "2026-10-07",
+      "open": 10.25,
+      "high": 10.28,
+      "low": 10.25,
+      "close": 10.28,
+      "volume": 15000
     }
   ]
 }

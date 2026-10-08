@@ -1,9 +1,9 @@
 {
   "code": "APUR",
   "ticker": "APUR",
-  "last_updated": "2026-10-07 07:07:00",
+  "last_updated": "2026-10-08 07:07:00",
   "period": "5y",
-  "data_points": 95,
+  "data_points": 96,
   "data": [
     {
       "date": "2026-05-21",
@@ -764,6 +764,14 @@
       "low": 10.04,
       "close": 10.04,
       "volume": 0
+    },
+    {
+      "date": "2026-10-07",
+      "open": 10.03,
+      "high": 10.04,
+      "low": 10.03,
+      "close": 10.04,
+      "volume": 1700
     }
   ]
 }

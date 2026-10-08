@@ -1,9 +1,9 @@
 {
   "code": "ALPS",
   "ticker": "ALPS",
-  "last_updated": "2026-10-07 07:04:27",
+  "last_updated": "2026-10-08 07:04:27",
   "period": "5y",
-  "data_points": 233,
+  "data_points": 234,
   "data": [
     {
       "date": "2025-10-31",
@@ -1868,6 +1868,14 @@
       "low": 0.37,
       "close": 0.39,
       "volume": 14000
+    },
+    {
+      "date": "2026-10-07",
+      "open": 0.37,
+      "high": 0.37,
+      "low": 0.33,
+      "close": 0.34,
+      "volume": 21700
     }
   ]
 }

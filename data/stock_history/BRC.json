@@ -1,17 +1,17 @@
 {
   "code": "BRC",
   "ticker": "BRC",
-  "last_updated": "2026-10-07 07:14:53",
+  "last_updated": "2026-10-08 07:14:54",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-07",
-      "open": 47.51,
-      "high": 48.36,
-      "low": 47.51,
-      "close": 47.84,
-      "volume": 156300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-08",
@@ -3167,7 +3167,7 @@
     },
     {
       "date": "2023-05-04",
-      "open": 48.48,
+      "open": 48.47,
       "high": 48.94,
       "low": 47.64,
       "close": 47.84,
@@ -6834,7 +6834,7 @@
       "open": 68.58,
       "high": 69.54,
       "low": 67.82,
-      "close": 68.09,
+      "close": 68.1,
       "volume": 385200
     },
     {
@@ -10036,6 +10036,14 @@
       "low": 84.39,
       "close": 85.11,
       "volume": 352200
+    },
+    {
+      "date": "2026-10-07",
+      "open": 84.22,
+      "high": 85.3,
+      "low": 83.68,
+      "close": 84.85,
+      "volume": 271600
     }
   ]
 }

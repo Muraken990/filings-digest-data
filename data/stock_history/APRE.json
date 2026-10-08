@@ -1,18 +1,10 @@
 {
   "code": "APRE",
   "ticker": "APRE",
-  "last_updated": "2026-10-07 07:07:00",
+  "last_updated": "2026-10-08 07:07:00",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-07",
-      "open": 100.8,
-      "high": 105.6,
-      "low": 99.02,
-      "close": 103.2,
-      "volume": 59480
-    },
     {
       "date": "2021-10-08",
       "open": 103.6,
@@ -10036,6 +10028,14 @@
       "low": 0.63,
       "close": 0.64,
       "volume": 198900
+    },
+    {
+      "date": "2026-10-07",
+      "open": 0.64,
+      "high": 0.64,
+      "low": 0.58,
+      "close": 0.61,
+      "volume": 249900
     }
   ]
 }

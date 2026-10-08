@@ -1,9 +1,9 @@
 {
   "code": "ASIC",
   "ticker": "ASIC",
-  "last_updated": "2026-10-07 07:07:54",
+  "last_updated": "2026-10-08 07:07:55",
   "period": "5y",
-  "data_points": 332,
+  "data_points": 333,
   "data": [
     {
       "date": "2025-06-11",
@@ -2660,6 +2660,14 @@
       "low": 25.0,
       "close": 25.51,
       "volume": 43000
+    },
+    {
+      "date": "2026-10-07",
+      "open": 25.24,
+      "high": 25.84,
+      "low": 25.24,
+      "close": 25.47,
+      "volume": 43200
     }
   ]
 }
