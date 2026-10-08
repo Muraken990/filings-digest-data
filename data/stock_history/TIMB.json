@@ -1,26 +1,10 @@
 {
   "code": "TIMB",
   "ticker": "TIMB",
-  "last_updated": "2026-10-07 12:18:21",
+  "last_updated": "2026-10-08 12:18:22",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-06",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-10-07",
-      "open": 7.99,
-      "high": 8.1,
-      "low": 7.94,
-      "close": 8.04,
-      "volume": 342300
-    },
     {
       "date": "2021-10-08",
       "open": 8.12,
@@ -10044,6 +10028,14 @@
       "low": 18.9,
       "close": 18.98,
       "volume": 1007300
+    },
+    {
+      "date": "2026-10-07",
+      "open": 19.23,
+      "high": 19.39,
+      "low": 18.96,
+      "close": 19.02,
+      "volume": 816600
     }
   ]
 }
