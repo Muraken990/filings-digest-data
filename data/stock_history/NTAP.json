@@ -1,17 +1,17 @@
 {
   "code": "NTAP",
   "ticker": "NTAP",
-  "last_updated": "2026-10-07 10:00:40",
+  "last_updated": "2026-10-08 10:00:37",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-07",
-      "open": 81.08,
-      "high": 82.51,
-      "low": 81.08,
-      "close": 81.8,
-      "volume": 1064900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-08",
@@ -2217,7 +2217,7 @@
       "date": "2022-11-10",
       "open": 65.14,
       "high": 66.48,
-      "low": 64.66,
+      "low": 64.67,
       "close": 66.31,
       "volume": 1528900
     },
@@ -4617,7 +4617,7 @@
       "date": "2024-01-24",
       "open": 84.9,
       "high": 85.46,
-      "low": 84.38,
+      "low": 84.37,
       "close": 84.7,
       "volume": 1428300
     },
@@ -10036,6 +10036,14 @@
       "low": 223.95,
       "close": 228.45,
       "volume": 2842900
+    },
+    {
+      "date": "2026-10-07",
+      "open": 232.0,
+      "high": 238.08,
+      "low": 230.83,
+      "close": 235.77,
+      "volume": 3003500
     }
   ]
 }

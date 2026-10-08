@@ -1,17 +1,17 @@
 {
   "code": "GIS",
   "ticker": "GIS",
-  "last_updated": "2026-10-07 09:32:43",
+  "last_updated": "2026-10-08 09:32:43",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-07",
-      "open": 51.18,
-      "high": 51.24,
-      "low": 50.72,
-      "close": 50.87,
-      "volume": 3872200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-08",
@@ -448,7 +448,7 @@
     {
       "date": "2021-12-27",
       "open": 54.88,
-      "high": 55.06,
+      "high": 55.05,
       "low": 54.52,
       "close": 54.8,
       "volume": 2503100
@@ -10036,6 +10036,14 @@
       "low": 31.7,
       "close": 32.18,
       "volume": 10452000
+    },
+    {
+      "date": "2026-10-07",
+      "open": 32.38,
+      "high": 32.61,
+      "low": 31.73,
+      "close": 31.77,
+      "volume": 10272600
     }
   ]
 }

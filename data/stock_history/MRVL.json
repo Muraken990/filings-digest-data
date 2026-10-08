@@ -1,17 +1,17 @@
 {
   "code": "MRVL",
   "ticker": "MRVL",
-  "last_updated": "2026-10-07 09:55:25",
+  "last_updated": "2026-10-08 09:55:22",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-07",
-      "open": 63.86,
-      "high": 66.02,
-      "low": 63.38,
-      "close": 64.01,
-      "volume": 15222500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-08",
@@ -1528,7 +1528,7 @@
     {
       "date": "2022-07-12",
       "open": 45.04,
-      "high": 45.77,
+      "high": 45.76,
       "low": 44.52,
       "close": 44.87,
       "volume": 6897600
@@ -10035,7 +10035,15 @@
       "high": 301.27,
       "low": 267.26,
       "close": 287.01,
-      "volume": 51160800
+      "volume": 51285500
+    },
+    {
+      "date": "2026-10-07",
+      "open": 281.3,
+      "high": 287.03,
+      "low": 276.5,
+      "close": 284.68,
+      "volume": 23742000
     }
   ]
 }
