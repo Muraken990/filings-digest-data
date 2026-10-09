@@ -1,26 +1,10 @@
 {
   "code": "AFB",
   "ticker": "AFB",
-  "last_updated": "2026-10-08 07:01:53",
+  "last_updated": "2026-10-09 07:01:55",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-07",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-10-08",
-      "open": 11.89,
-      "high": 11.9,
-      "low": 11.82,
-      "close": 11.9,
-      "volume": 39900
-    },
     {
       "date": "2021-10-11",
       "open": 11.84,
@@ -1832,7 +1816,7 @@
     {
       "date": "2022-09-02",
       "open": 9.43,
-      "high": 9.44,
+      "high": 9.45,
       "low": 9.33,
       "close": 9.36,
       "volume": 72200
@@ -10044,6 +10028,14 @@
       "low": 9.29,
       "close": 9.31,
       "volume": 305800
+    },
+    {
+      "date": "2026-10-08",
+      "open": 9.32,
+      "high": 9.4,
+      "low": 9.28,
+      "close": 9.37,
+      "volume": 222300
     }
   ]
 }

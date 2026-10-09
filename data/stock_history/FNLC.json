@@ -1,17 +1,17 @@
 {
   "code": "FNLC",
   "ticker": "FNLC",
-  "last_updated": "2026-10-08 07:37:37",
+  "last_updated": "2026-10-09 07:37:32",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-08",
-      "open": 22.89,
-      "high": 23.09,
-      "low": 21.91,
-      "close": 22.95,
-      "volume": 10800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-11",
@@ -4761,7 +4761,7 @@
       "date": "2024-02-21",
       "open": 20.4,
       "high": 20.62,
-      "low": 20.0,
+      "low": 20.01,
       "close": 20.19,
       "volume": 14700
     },
@@ -10036,6 +10036,14 @@
       "low": 32.95,
       "close": 33.31,
       "volume": 34000
+    },
+    {
+      "date": "2026-10-08",
+      "open": 33.37,
+      "high": 33.63,
+      "low": 32.75,
+      "close": 33.44,
+      "volume": 29500
     }
   ]
 }

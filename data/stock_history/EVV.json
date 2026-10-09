@@ -1,17 +1,17 @@
 {
   "code": "EVV",
   "ticker": "EVV",
-  "last_updated": "2026-10-08 07:34:12",
+  "last_updated": "2026-10-09 07:34:06",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-08",
-      "open": 8.2,
-      "high": 8.21,
-      "low": 8.17,
-      "close": 8.21,
-      "volume": 197900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-11",
@@ -10036,6 +10036,14 @@
       "low": 8.32,
       "close": 8.36,
       "volume": 950400
+    },
+    {
+      "date": "2026-10-08",
+      "open": 8.38,
+      "high": 8.43,
+      "low": 8.33,
+      "close": 8.42,
+      "volume": 601200
     }
   ]
 }

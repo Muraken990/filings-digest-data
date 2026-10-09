@@ -1,18 +1,10 @@
 {
   "code": "AMPG",
   "ticker": "AMPG",
-  "last_updated": "2026-10-08 07:05:18",
+  "last_updated": "2026-10-09 07:05:19",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-08",
-      "open": 3.44,
-      "high": 3.64,
-      "low": 3.44,
-      "close": 3.48,
-      "volume": 77700
-    },
     {
       "date": "2021-10-11",
       "open": 3.51,
@@ -10035,7 +10027,15 @@
       "high": 3.0,
       "low": 2.92,
       "close": 2.96,
-      "volume": 469300
+      "volume": 480600
+    },
+    {
+      "date": "2026-10-08",
+      "open": 2.91,
+      "high": 2.97,
+      "low": 2.78,
+      "close": 2.82,
+      "volume": 943200
     }
   ]
 }

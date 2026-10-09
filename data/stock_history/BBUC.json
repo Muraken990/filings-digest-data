@@ -1,9 +1,9 @@
 {
   "code": "BBUC",
   "ticker": "BBUC",
-  "last_updated": "2026-10-08 07:11:21",
+  "last_updated": "2026-10-09 07:11:22",
   "period": "5y",
-  "data_points": 1152,
+  "data_points": 1153,
   "data": [
     {
       "date": "2022-03-07",
@@ -1073,8 +1073,8 @@
       "date": "2022-09-15",
       "open": 25.14,
       "high": 25.28,
-      "low": 24.69,
-      "close": 24.69,
+      "low": 24.7,
+      "close": 24.7,
       "volume": 15300
     },
     {
@@ -9220,6 +9220,14 @@
       "low": 25.35,
       "close": 26.05,
       "volume": 330200
+    },
+    {
+      "date": "2026-10-08",
+      "open": 25.8,
+      "high": 26.27,
+      "low": 25.44,
+      "close": 26.24,
+      "volume": 345200
     }
   ]
 }
