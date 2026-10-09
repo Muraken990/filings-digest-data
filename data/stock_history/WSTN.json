@@ -1,9 +1,9 @@
 {
   "code": "WSTN",
   "ticker": "WSTN",
-  "last_updated": "2026-10-08 12:28:01",
+  "last_updated": "2026-10-09 12:28:01",
   "period": "5y",
-  "data_points": 193,
+  "data_points": 194,
   "data": [
     {
       "date": "2025-12-31",
@@ -1548,6 +1548,14 @@
       "low": 10.21,
       "close": 10.25,
       "volume": 104600
+    },
+    {
+      "date": "2026-10-08",
+      "open": 10.25,
+      "high": 10.25,
+      "low": 10.25,
+      "close": 10.25,
+      "volume": 1000
     }
   ]
 }

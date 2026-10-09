@@ -1,17 +1,17 @@
 {
   "code": "TBLD",
   "ticker": "TBLD",
-  "last_updated": "2026-10-08 12:16:39",
+  "last_updated": "2026-10-09 12:16:40",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-08",
-      "open": 13.82,
-      "high": 13.95,
-      "low": 13.82,
-      "close": 13.93,
-      "volume": 21700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-11",
@@ -8001,7 +8001,7 @@
       "date": "2025-10-02",
       "open": 18.87,
       "high": 19.02,
-      "low": 18.72,
+      "low": 18.71,
       "close": 18.9,
       "volume": 52100
     },
@@ -10036,6 +10036,14 @@
       "low": 20.12,
       "close": 20.28,
       "volume": 37100
+    },
+    {
+      "date": "2026-10-08",
+      "open": 20.2,
+      "high": 20.39,
+      "low": 19.96,
+      "close": 20.24,
+      "volume": 76400
     }
   ]
 }

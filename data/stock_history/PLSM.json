@@ -1,9 +1,9 @@
 {
   "code": "PLSM",
   "ticker": "PLSM",
-  "last_updated": "2026-10-08 12:00:05",
+  "last_updated": "2026-10-09 12:00:05",
   "period": "5y",
-  "data_points": 180,
+  "data_points": 181,
   "data": [
     {
       "date": "2026-01-21",
@@ -1444,6 +1444,14 @@
       "low": 1.83,
       "close": 1.91,
       "volume": 74400
+    },
+    {
+      "date": "2026-10-08",
+      "open": 1.97,
+      "high": 2.0,
+      "low": 1.82,
+      "close": 1.92,
+      "volume": 33500
     }
   ]
 }

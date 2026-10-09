@@ -1,9 +1,9 @@
 {
   "code": "STRC",
   "ticker": "STRC",
-  "last_updated": "2026-10-08 12:14:55",
+  "last_updated": "2026-10-09 12:14:55",
   "period": "5y",
-  "data_points": 300,
+  "data_points": 301,
   "data": [
     {
       "date": "2025-07-30",
@@ -2404,6 +2404,14 @@
       "low": 99.42,
       "close": 99.43,
       "volume": 1177700
+    },
+    {
+      "date": "2026-10-08",
+      "open": 99.42,
+      "high": 99.53,
+      "low": 99.08,
+      "close": 99.45,
+      "volume": 1524500
     }
   ]
 }
