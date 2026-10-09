@@ -1,9 +1,9 @@
 {
   "code": "JBS",
   "ticker": "JBS",
-  "last_updated": "2026-10-08 09:43:16",
+  "last_updated": "2026-10-09 09:43:16",
   "period": "5y",
-  "data_points": 331,
+  "data_points": 332,
   "data": [
     {
       "date": "2025-06-13",
@@ -2652,6 +2652,14 @@
       "low": 12.18,
       "close": 12.24,
       "volume": 9243500
+    },
+    {
+      "date": "2026-10-08",
+      "open": 12.34,
+      "high": 12.76,
+      "low": 12.34,
+      "close": 12.75,
+      "volume": 7314000
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "OGE",
   "ticker": "OGE",
-  "last_updated": "2026-10-08 10:03:17",
+  "last_updated": "2026-10-09 10:03:12",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-08",
-      "open": 26.9,
-      "high": 26.92,
-      "low": 26.75,
-      "close": 26.78,
-      "volume": 524900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-11",
@@ -1432,7 +1432,7 @@
     {
       "date": "2022-06-24",
       "open": 30.57,
-      "high": 31.33,
+      "high": 31.34,
       "low": 30.47,
       "close": 31.1,
       "volume": 1984000
@@ -7249,7 +7249,7 @@
       "date": "2025-05-19",
       "open": 41.7,
       "high": 42.27,
-      "low": 41.66,
+      "low": 41.67,
       "close": 42.22,
       "volume": 1036100
     },
@@ -10036,6 +10036,14 @@
       "low": 45.56,
       "close": 45.89,
       "volume": 1923900
+    },
+    {
+      "date": "2026-10-08",
+      "open": 45.93,
+      "high": 46.23,
+      "low": 45.62,
+      "close": 46.11,
+      "volume": 1758300
     }
   ]
 }

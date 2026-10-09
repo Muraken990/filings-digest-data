@@ -1,17 +1,17 @@
 {
   "code": "GBCI",
   "ticker": "GBCI",
-  "last_updated": "2026-10-08 09:31:00",
+  "last_updated": "2026-10-09 09:31:01",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-08",
-      "open": 47.4,
-      "high": 47.79,
-      "low": 47.15,
-      "close": 47.23,
-      "volume": 247800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-11",
@@ -10036,6 +10036,14 @@
       "low": 42.48,
       "close": 42.77,
       "volume": 1166300
+    },
+    {
+      "date": "2026-10-08",
+      "open": 42.36,
+      "high": 42.98,
+      "low": 42.29,
+      "close": 42.98,
+      "volume": 1571600
     }
   ]
 }

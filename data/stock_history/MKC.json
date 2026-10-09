@@ -1,17 +1,17 @@
 {
   "code": "MKC",
   "ticker": "MKC",
-  "last_updated": "2026-10-08 09:53:39",
+  "last_updated": "2026-10-09 09:53:40",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-08",
-      "open": 72.07,
-      "high": 72.28,
-      "low": 70.94,
-      "close": 71.1,
-      "volume": 1084100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-11",
@@ -2985,7 +2985,7 @@
       "date": "2023-04-03",
       "open": 75.92,
       "high": 77.46,
-      "low": 75.91,
+      "low": 75.92,
       "close": 77.25,
       "volume": 1870500
     },
@@ -3249,7 +3249,7 @@
       "date": "2023-05-19",
       "open": 81.54,
       "high": 82.34,
-      "low": 81.33,
+      "low": 81.34,
       "close": 81.84,
       "volume": 2950100
     },
@@ -10036,6 +10036,14 @@
       "low": 45.19,
       "close": 45.25,
       "volume": 4117100
+    },
+    {
+      "date": "2026-10-08",
+      "open": 45.41,
+      "high": 46.11,
+      "low": 45.1,
+      "close": 45.94,
+      "volume": 6153200
     }
   ]
 }

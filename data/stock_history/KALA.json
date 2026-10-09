@@ -1,18 +1,10 @@
 {
   "code": "KALA",
   "ticker": "KALA",
-  "last_updated": "2026-10-08 09:44:55",
+  "last_updated": "2026-10-09 09:44:55",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-08",
-      "open": 6050.0,
-      "high": 6225.0,
-      "low": 5800.0,
-      "close": 5825.0,
-      "volume": 226
-    },
     {
       "date": "2021-10-11",
       "open": 5825.0,
@@ -10035,7 +10027,15 @@
       "high": 0.4,
       "low": 0.34,
       "close": 0.36,
-      "volume": 627800
+      "volume": 654400
+    },
+    {
+      "date": "2026-10-08",
+      "open": 0.35,
+      "high": 0.35,
+      "low": 0.29,
+      "close": 0.3,
+      "volume": 655500
     }
   ]
 }

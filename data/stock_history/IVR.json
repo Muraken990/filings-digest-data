@@ -1,17 +1,17 @@
 {
   "code": "IVR",
   "ticker": "IVR",
-  "last_updated": "2026-10-08 09:43:12",
+  "last_updated": "2026-10-09 09:43:13",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-08",
-      "open": 12.94,
-      "high": 13.06,
-      "low": 12.86,
-      "close": 12.9,
-      "volume": 242910
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-11",
@@ -10036,6 +10036,14 @@
       "low": 5.58,
       "close": 5.62,
       "volume": 3607100
+    },
+    {
+      "date": "2026-10-08",
+      "open": 5.6,
+      "high": 5.7,
+      "low": 5.52,
+      "close": 5.68,
+      "volume": 4211400
     }
   ]
 }
