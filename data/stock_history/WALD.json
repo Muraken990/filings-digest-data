@@ -1,9 +1,9 @@
 {
   "code": "WALD",
   "ticker": "WALD",
-  "last_updated": "2026-10-09 12:26:15",
+  "last_updated": "2026-10-10 12:26:10",
   "period": "5y",
-  "data_points": 10,
+  "data_points": 11,
   "data": [
     {
       "date": "2026-07-29",
@@ -84,6 +84,14 @@
       "low": 0.95,
       "close": 0.95,
       "volume": 4677
+    },
+    {
+      "date": "2026-10-09",
+      "open": 0.95,
+      "high": 1.0,
+      "low": 0.71,
+      "close": 0.75,
+      "volume": 32849
     }
   ]
 }

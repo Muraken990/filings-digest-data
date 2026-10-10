@@ -1,9 +1,9 @@
 {
   "code": "SKYQ",
   "ticker": "SKYQ",
-  "last_updated": "2026-10-09 12:11:24",
+  "last_updated": "2026-10-10 12:11:22",
   "period": "5y",
-  "data_points": 500,
+  "data_points": 501,
   "data": [
     {
       "date": "2024-10-10",
@@ -4003,7 +4003,15 @@
       "high": 2.65,
       "low": 2.49,
       "close": 2.52,
-      "volume": 851800
+      "volume": 865700
+    },
+    {
+      "date": "2026-10-09",
+      "open": 2.52,
+      "high": 2.53,
+      "low": 2.43,
+      "close": 2.45,
+      "volume": 260000
     }
   ]
 }

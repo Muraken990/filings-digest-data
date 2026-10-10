@@ -1,9 +1,9 @@
 {
   "code": "SI",
   "ticker": "SI",
-  "last_updated": "2026-10-09 12:10:34",
+  "last_updated": "2026-10-10 12:10:31",
   "period": "5y",
-  "data_points": 300,
+  "data_points": 301,
   "data": [
     {
       "date": "2025-07-31",
@@ -2404,6 +2404,14 @@
       "low": 17.8,
       "close": 17.89,
       "volume": 100900
+    },
+    {
+      "date": "2026-10-09",
+      "open": 17.75,
+      "high": 18.64,
+      "low": 17.75,
+      "close": 18.13,
+      "volume": 91000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SAGT",
   "ticker": "SAGT",
-  "last_updated": "2026-10-09 12:07:58",
+  "last_updated": "2026-10-10 12:07:55",
   "period": "5y",
-  "data_points": 400,
+  "data_points": 401,
   "data": [
     {
       "date": "2025-03-07",
@@ -3204,6 +3204,14 @@
       "low": 0.53,
       "close": 0.54,
       "volume": 54800
+    },
+    {
+      "date": "2026-10-09",
+      "open": 0.54,
+      "high": 0.57,
+      "low": 0.41,
+      "close": 0.51,
+      "volume": 195400
     }
   ]
 }
