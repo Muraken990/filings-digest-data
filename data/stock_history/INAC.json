@@ -1,9 +1,9 @@
 {
   "code": "INAC",
   "ticker": "INAC",
-  "last_updated": "2026-10-09 09:40:40",
+  "last_updated": "2026-10-10 09:40:37",
   "period": "5y",
-  "data_points": 301,
+  "data_points": 302,
   "data": [
     {
       "date": "2025-07-30",
@@ -2412,6 +2412,14 @@
       "low": 10.37,
       "close": 10.37,
       "volume": 0
+    },
+    {
+      "date": "2026-10-09",
+      "open": 10.4,
+      "high": 10.4,
+      "low": 10.39,
+      "close": 10.39,
+      "volume": 4200
     }
   ]
 }
