@@ -1,18 +1,10 @@
 {
   "code": "CHY",
   "ticker": "CHY",
-  "last_updated": "2026-10-09 07:20:54",
+  "last_updated": "2026-10-10 07:20:55",
   "period": "5y",
   "data_points": 1255,
   "data": [
-    {
-      "date": "2021-10-08",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-10-11",
       "open": 9.74,
@@ -10044,6 +10036,14 @@
       "low": 11.8,
       "close": 11.9,
       "volume": 298200
+    },
+    {
+      "date": "2026-10-09",
+      "open": 11.92,
+      "high": 12.27,
+      "low": 11.92,
+      "close": 12.22,
+      "volume": 387200
     }
   ]
 }

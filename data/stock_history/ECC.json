@@ -1,18 +1,10 @@
 {
   "code": "ECC",
   "ticker": "ECC",
-  "last_updated": "2026-10-09 07:30:32",
+  "last_updated": "2026-10-10 07:30:34",
   "period": "5y",
   "data_points": 1255,
   "data": [
-    {
-      "date": "2021-10-08",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-10-11",
       "open": 5.01,
@@ -10044,6 +10036,14 @@
       "low": 3.05,
       "close": 3.1,
       "volume": 1051600
+    },
+    {
+      "date": "2026-10-09",
+      "open": 3.12,
+      "high": 3.15,
+      "low": 3.05,
+      "close": 3.09,
+      "volume": 963300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "FIG",
   "ticker": "FIG",
-  "last_updated": "2026-10-09 07:36:39",
+  "last_updated": "2026-10-10 07:36:40",
   "period": "5y",
-  "data_points": 300,
+  "data_points": 301,
   "data": [
     {
       "date": "2025-07-31",
@@ -2403,7 +2403,15 @@
       "high": 22.67,
       "low": 21.45,
       "close": 22.63,
-      "volume": 10545500
+      "volume": 10579600
+    },
+    {
+      "date": "2026-10-09",
+      "open": 22.71,
+      "high": 23.19,
+      "low": 22.23,
+      "close": 22.5,
+      "volume": 7797000
     }
   ]
 }

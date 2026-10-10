@@ -1,9 +1,9 @@
 {
   "code": "AIXC",
   "ticker": "AIXC",
-  "last_updated": "2026-10-09 07:03:36",
+  "last_updated": "2026-10-10 07:03:36",
   "period": "5y",
-  "data_points": 11,
+  "data_points": 12,
   "data": [
     {
       "date": "2024-11-05",
@@ -90,8 +90,16 @@
       "open": 1.79,
       "high": 1.85,
       "low": 1.56,
-      "close": 1.76,
-      "volume": 909049
+      "close": 1.77,
+      "volume": 932365
+    },
+    {
+      "date": "2026-10-09",
+      "open": 1.77,
+      "high": 2.03,
+      "low": 1.76,
+      "close": 1.79,
+      "volume": 1026948
     }
   ]
 }
