@@ -1,9 +1,9 @@
 {
   "code": "HCWC",
   "ticker": "HCWC",
-  "last_updated": "2026-10-12 09:36:13",
+  "last_updated": "2026-10-13 09:36:13",
   "period": "5y",
-  "data_points": 60,
+  "data_points": 61,
   "data": [
     {
       "date": "2026-07-17",
@@ -484,6 +484,14 @@
       "low": 3.0,
       "close": 3.17,
       "volume": 85700
+    },
+    {
+      "date": "2026-10-12",
+      "open": 3.19,
+      "high": 3.29,
+      "low": 2.97,
+      "close": 3.14,
+      "volume": 145100
     }
   ]
 }

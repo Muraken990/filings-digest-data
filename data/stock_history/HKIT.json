@@ -1,9 +1,9 @@
 {
   "code": "HKIT",
   "ticker": "HKIT",
-  "last_updated": "2026-10-12 09:37:04",
+  "last_updated": "2026-10-13 09:37:04",
   "period": "5y",
-  "data_points": 4,
+  "data_points": 5,
   "data": [
     {
       "date": "2026-05-29",
@@ -36,6 +36,14 @@
       "low": 2.7,
       "close": 2.91,
       "volume": 6086318
+    },
+    {
+      "date": "2026-10-12",
+      "open": 2.79,
+      "high": 2.96,
+      "low": 2.65,
+      "close": 2.82,
+      "volume": 349874
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "MSBIP",
   "ticker": "MSBIP",
-  "last_updated": "2026-10-12 09:55:26",
+  "last_updated": "2026-10-13 09:55:23",
   "period": "5y",
-  "data_points": 1033,
+  "data_points": 1034,
   "data": [
     {
       "date": "2022-08-29",
@@ -1408,7 +1408,7 @@
     {
       "date": "2023-05-10",
       "open": 15.15,
-      "high": 16.29,
+      "high": 16.28,
       "low": 15.15,
       "close": 15.16,
       "volume": 3400
@@ -8268,6 +8268,14 @@
       "low": 25.05,
       "close": 25.25,
       "volume": 2700
+    },
+    {
+      "date": "2026-10-12",
+      "open": 25.0,
+      "high": 25.13,
+      "low": 25.0,
+      "close": 25.04,
+      "volume": 1200
     }
   ]
 }

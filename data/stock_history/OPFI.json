@@ -1,26 +1,10 @@
 {
   "code": "OPFI",
   "ticker": "OPFI",
-  "last_updated": "2026-10-12 10:04:05",
+  "last_updated": "2026-10-13 10:04:04",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-11",
-      "open": 6.88,
-      "high": 6.99,
-      "low": 6.88,
-      "close": 6.95,
-      "volume": 125000
-    },
-    {
-      "date": "2021-10-12",
-      "open": 6.98,
-      "high": 7.0,
-      "low": 6.69,
-      "close": 6.88,
-      "volume": 51300
-    },
     {
       "date": "2021-10-13",
       "open": 6.76,
@@ -10044,6 +10028,14 @@
       "low": 5.91,
       "close": 5.93,
       "volume": 512500
+    },
+    {
+      "date": "2026-10-12",
+      "open": 5.92,
+      "high": 5.95,
+      "low": 5.82,
+      "close": 5.82,
+      "volume": 580000
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "LOOP",
   "ticker": "LOOP",
-  "last_updated": "2026-10-12 09:49:19",
+  "last_updated": "2026-10-13 09:49:18",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-11",
-      "open": 11.48,
-      "high": 12.04,
-      "low": 11.38,
-      "close": 11.45,
-      "volume": 35500
-    },
-    {
-      "date": "2021-10-12",
-      "open": 11.49,
-      "high": 11.63,
-      "low": 11.25,
-      "close": 11.44,
-      "volume": 72300
-    },
     {
       "date": "2021-10-13",
       "open": 11.42,
@@ -10044,6 +10028,14 @@
       "low": 0.39,
       "close": 0.42,
       "volume": 604600
+    },
+    {
+      "date": "2026-10-12",
+      "open": 0.43,
+      "high": 0.44,
+      "low": 0.4,
+      "close": 0.4,
+      "volume": 41000
     }
   ]
 }

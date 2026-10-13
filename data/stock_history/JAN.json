@@ -1,9 +1,9 @@
 {
   "code": "JAN",
   "ticker": "JAN",
-  "last_updated": "2026-10-12 09:43:12",
+  "last_updated": "2026-10-13 09:43:12",
   "period": "5y",
-  "data_points": 141,
+  "data_points": 142,
   "data": [
     {
       "date": "2026-03-20",
@@ -1132,6 +1132,14 @@
       "low": 28.02,
       "close": 28.15,
       "volume": 776200
+    },
+    {
+      "date": "2026-10-12",
+      "open": 28.09,
+      "high": 29.06,
+      "low": 27.98,
+      "close": 28.73,
+      "volume": 1399700
     }
   ]
 }

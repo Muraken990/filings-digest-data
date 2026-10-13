@@ -1,26 +1,10 @@
 {
   "code": "MNSBP",
   "ticker": "MNSBP",
-  "last_updated": "2026-10-12 09:54:32",
+  "last_updated": "2026-10-13 09:54:29",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-11",
-      "open": 18.07,
-      "high": 18.09,
-      "low": 18.07,
-      "close": 18.09,
-      "volume": 1200
-    },
-    {
-      "date": "2021-10-12",
-      "open": 18.14,
-      "high": 18.14,
-      "low": 18.13,
-      "close": 18.14,
-      "volume": 2200
-    },
     {
       "date": "2021-10-13",
       "open": 18.28,
@@ -10044,6 +10028,14 @@
       "low": 24.3,
       "close": 24.5,
       "volume": 300
+    },
+    {
+      "date": "2026-10-12",
+      "open": 24.5,
+      "high": 24.5,
+      "low": 24.44,
+      "close": 24.44,
+      "volume": 400
     }
   ]
 }
