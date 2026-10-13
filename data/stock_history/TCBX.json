@@ -1,9 +1,9 @@
 {
   "code": "TCBX",
   "ticker": "TCBX",
-  "last_updated": "2026-10-12 12:16:42",
+  "last_updated": "2026-10-13 12:16:51",
   "period": "5y",
-  "data_points": 1234,
+  "data_points": 1235,
   "data": [
     {
       "date": "2021-11-09",
@@ -9876,6 +9876,14 @@
       "low": 41.09,
       "close": 41.34,
       "volume": 89600
+    },
+    {
+      "date": "2026-10-12",
+      "open": 41.19,
+      "high": 41.98,
+      "low": 41.01,
+      "close": 41.7,
+      "volume": 80000
     }
   ]
 }

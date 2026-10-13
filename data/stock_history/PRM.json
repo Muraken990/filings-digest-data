@@ -1,9 +1,9 @@
 {
   "code": "PRM",
   "ticker": "PRM",
-  "last_updated": "2026-10-12 12:01:01",
+  "last_updated": "2026-10-13 12:01:02",
   "period": "5y",
-  "data_points": 1234,
+  "data_points": 1235,
   "data": [
     {
       "date": "2021-11-09",
@@ -9876,6 +9876,14 @@
       "low": 27.24,
       "close": 27.75,
       "volume": 532200
+    },
+    {
+      "date": "2026-10-12",
+      "open": 27.51,
+      "high": 27.7,
+      "low": 26.66,
+      "close": 27.09,
+      "volume": 867400
     }
   ]
 }

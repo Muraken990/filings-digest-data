@@ -1,9 +1,9 @@
 {
   "code": "SDRL",
   "ticker": "SDRL",
-  "last_updated": "2026-10-12 12:09:38",
+  "last_updated": "2026-10-13 12:09:46",
   "period": "5y",
-  "data_points": 1000,
+  "data_points": 1001,
   "data": [
     {
       "date": "2022-10-14",
@@ -8004,6 +8004,14 @@
       "low": 45.09,
       "close": 46.15,
       "volume": 460000
+    },
+    {
+      "date": "2026-10-12",
+      "open": 46.77,
+      "high": 47.7,
+      "low": 46.54,
+      "close": 46.99,
+      "volume": 351400
     }
   ]
 }

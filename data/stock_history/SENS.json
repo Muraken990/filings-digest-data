@@ -1,26 +1,10 @@
 {
   "code": "SENS",
   "ticker": "SENS",
-  "last_updated": "2026-10-12 12:09:41",
+  "last_updated": "2026-10-13 12:09:48",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-11",
-      "open": 64.0,
-      "high": 65.38,
-      "low": 63.4,
-      "close": 64.0,
-      "volume": 163365
-    },
-    {
-      "date": "2021-10-12",
-      "open": 64.4,
-      "high": 67.2,
-      "low": 64.2,
-      "close": 67.0,
-      "volume": 237085
-    },
     {
       "date": "2021-10-13",
       "open": 68.0,
@@ -10044,6 +10028,14 @@
       "low": 8.78,
       "close": 8.98,
       "volume": 499300
+    },
+    {
+      "date": "2026-10-12",
+      "open": 8.97,
+      "high": 9.35,
+      "low": 8.96,
+      "close": 9.24,
+      "volume": 452000
     }
   ]
 }

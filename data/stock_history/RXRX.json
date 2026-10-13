@@ -1,26 +1,10 @@
 {
   "code": "RXRX",
   "ticker": "RXRX",
-  "last_updated": "2026-10-12 12:07:54",
+  "last_updated": "2026-10-13 12:08:00",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-11",
-      "open": 18.83,
-      "high": 19.01,
-      "low": 17.14,
-      "close": 18.37,
-      "volume": 928000
-    },
-    {
-      "date": "2021-10-12",
-      "open": 18.55,
-      "high": 18.94,
-      "low": 17.6,
-      "close": 17.86,
-      "volume": 610800
-    },
     {
       "date": "2021-10-13",
       "open": 17.7,
@@ -10043,7 +10027,15 @@
       "high": 4.43,
       "low": 3.89,
       "close": 4.36,
-      "volume": 35343600
+      "volume": 35501300
+    },
+    {
+      "date": "2026-10-12",
+      "open": 4.31,
+      "high": 4.36,
+      "low": 3.91,
+      "close": 4.01,
+      "volume": 23748200
     }
   ]
 }

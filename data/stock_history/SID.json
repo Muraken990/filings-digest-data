@@ -1,26 +1,10 @@
 {
   "code": "SID",
   "ticker": "SID",
-  "last_updated": "2026-10-12 12:10:33",
+  "last_updated": "2026-10-13 12:10:41",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-11",
-      "open": 3.55,
-      "high": 3.59,
-      "low": 3.43,
-      "close": 3.43,
-      "volume": 3141300
-    },
-    {
-      "date": "2021-10-12",
-      "open": 3.45,
-      "high": 3.48,
-      "low": 3.39,
-      "close": 3.43,
-      "volume": 1899000
-    },
     {
       "date": "2021-10-13",
       "open": 3.37,
@@ -10044,6 +10028,14 @@
       "low": 1.25,
       "close": 1.28,
       "volume": 6286500
+    },
+    {
+      "date": "2026-10-12",
+      "open": 1.28,
+      "high": 1.29,
+      "low": 1.26,
+      "close": 1.27,
+      "volume": 4411000
     }
   ]
 }

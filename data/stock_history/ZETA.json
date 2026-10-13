@@ -1,26 +1,10 @@
 {
   "code": "ZETA",
   "ticker": "ZETA",
-  "last_updated": "2026-10-12 12:30:37",
+  "last_updated": "2026-10-13 12:30:45",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-11",
-      "open": 8.62,
-      "high": 8.78,
-      "low": 7.86,
-      "close": 7.86,
-      "volume": 412900
-    },
-    {
-      "date": "2021-10-12",
-      "open": 7.98,
-      "high": 8.2,
-      "low": 7.71,
-      "close": 7.97,
-      "volume": 304500
-    },
     {
       "date": "2021-10-13",
       "open": 8.03,
@@ -10043,7 +10027,15 @@
       "high": 33.86,
       "low": 32.99,
       "close": 33.09,
-      "volume": 5351500
+      "volume": 5363000
+    },
+    {
+      "date": "2026-10-12",
+      "open": 33.77,
+      "high": 34.75,
+      "low": 33.28,
+      "close": 33.51,
+      "volume": 4033400
     }
   ]
 }

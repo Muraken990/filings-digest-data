@@ -1,26 +1,10 @@
 {
   "code": "PPBT",
   "ticker": "PPBT",
-  "last_updated": "2026-10-12 12:00:56",
+  "last_updated": "2026-10-13 12:00:57",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-11",
-      "open": 890.0,
-      "high": 928.0,
-      "low": 876.0,
-      "close": 900.0,
-      "volume": 355
-    },
-    {
-      "date": "2021-10-12",
-      "open": 898.0,
-      "high": 908.0,
-      "low": 877.6,
-      "close": 878.0,
-      "volume": 544
-    },
     {
       "date": "2021-10-13",
       "open": 900.0,
@@ -10044,6 +10028,14 @@
       "low": 1.33,
       "close": 1.33,
       "volume": 26800
+    },
+    {
+      "date": "2026-10-12",
+      "open": 1.33,
+      "high": 1.39,
+      "low": 1.28,
+      "close": 1.38,
+      "volume": 23000
     }
   ]
 }
