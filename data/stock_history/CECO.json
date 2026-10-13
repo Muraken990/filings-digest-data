@@ -1,26 +1,10 @@
 {
   "code": "CECO",
   "ticker": "CECO",
-  "last_updated": "2026-10-12 07:19:12",
+  "last_updated": "2026-10-13 07:19:14",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-11",
-      "open": 7.1,
-      "high": 7.16,
-      "low": 7.01,
-      "close": 7.01,
-      "volume": 40200
-    },
-    {
-      "date": "2021-10-12",
-      "open": 7.03,
-      "high": 7.11,
-      "low": 6.95,
-      "close": 7.06,
-      "volume": 48500
-    },
     {
       "date": "2021-10-13",
       "open": 6.99,
@@ -10044,6 +10028,14 @@
       "low": 64.17,
       "close": 65.82,
       "volume": 857400
+    },
+    {
+      "date": "2026-10-12",
+      "open": 65.72,
+      "high": 66.83,
+      "low": 64.33,
+      "close": 64.64,
+      "volume": 512200
     }
   ]
 }

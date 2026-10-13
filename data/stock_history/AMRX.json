@@ -1,26 +1,10 @@
 {
   "code": "AMRX",
   "ticker": "AMRX",
-  "last_updated": "2026-10-12 07:05:22",
+  "last_updated": "2026-10-13 07:05:21",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-11",
-      "open": 5.7,
-      "high": 5.96,
-      "low": 5.48,
-      "close": 5.84,
-      "volume": 1234200
-    },
-    {
-      "date": "2021-10-12",
-      "open": 5.91,
-      "high": 5.99,
-      "low": 5.82,
-      "close": 5.85,
-      "volume": 1008600
-    },
     {
       "date": "2021-10-13",
       "open": 5.84,
@@ -10044,6 +10028,14 @@
       "low": 19.53,
       "close": 19.91,
       "volume": 2087000
+    },
+    {
+      "date": "2026-10-12",
+      "open": 20.04,
+      "high": 20.28,
+      "low": 19.86,
+      "close": 20.03,
+      "volume": 4587900
     }
   ]
 }

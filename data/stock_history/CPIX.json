@@ -1,26 +1,10 @@
 {
   "code": "CPIX",
   "ticker": "CPIX",
-  "last_updated": "2026-10-12 07:23:35",
+  "last_updated": "2026-10-13 07:23:37",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-11",
-      "open": 2.12,
-      "high": 2.15,
-      "low": 2.1,
-      "close": 2.1,
-      "volume": 9900
-    },
-    {
-      "date": "2021-10-12",
-      "open": 2.12,
-      "high": 2.12,
-      "low": 2.09,
-      "close": 2.09,
-      "volume": 7700
-    },
     {
       "date": "2021-10-13",
       "open": 2.09,
@@ -10044,6 +10028,14 @@
       "low": 6.7,
       "close": 7.03,
       "volume": 30400
+    },
+    {
+      "date": "2026-10-12",
+      "open": 6.67,
+      "high": 7.25,
+      "low": 6.67,
+      "close": 7.0,
+      "volume": 11500
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "CPHI",
   "ticker": "CPHI",
-  "last_updated": "2026-10-12 07:23:35",
+  "last_updated": "2026-10-13 07:23:37",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-11",
-      "open": 280.0,
-      "high": 290.0,
-      "low": 265.0,
-      "close": 270.0,
-      "volume": 274
-    },
-    {
-      "date": "2021-10-12",
-      "open": 270.0,
-      "high": 275.0,
-      "low": 260.0,
-      "close": 275.0,
-      "volume": 232
-    },
     {
       "date": "2021-10-13",
       "open": 280.0,
@@ -10043,7 +10027,15 @@
       "high": 1.09,
       "low": 0.8,
       "close": 0.87,
-      "volume": 2178600
+      "volume": 2287200
+    },
+    {
+      "date": "2026-10-12",
+      "open": 0.8,
+      "high": 0.87,
+      "low": 0.74,
+      "close": 0.87,
+      "volume": 956600
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "DTST",
   "ticker": "DTST",
-  "last_updated": "2026-10-12 07:29:41",
+  "last_updated": "2026-10-13 07:29:42",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-11",
-      "open": 4.19,
-      "high": 4.19,
-      "low": 4.01,
-      "close": 4.02,
-      "volume": 164100
-    },
-    {
-      "date": "2021-10-12",
-      "open": 4.03,
-      "high": 4.09,
-      "low": 3.83,
-      "close": 3.97,
-      "volume": 265000
-    },
     {
       "date": "2021-10-13",
       "open": 4.0,
@@ -10044,6 +10028,14 @@
       "low": 3.2,
       "close": 3.34,
       "volume": 6200
+    },
+    {
+      "date": "2026-10-12",
+      "open": 3.27,
+      "high": 3.35,
+      "low": 3.2,
+      "close": 3.25,
+      "volume": 10000
     }
   ]
 }

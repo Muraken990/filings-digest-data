@@ -1,26 +1,10 @@
 {
   "code": "BLND",
   "ticker": "BLND",
-  "last_updated": "2026-10-12 07:14:02",
+  "last_updated": "2026-10-13 07:14:00",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-11",
-      "open": 13.06,
-      "high": 14.21,
-      "low": 13.06,
-      "close": 13.83,
-      "volume": 450700
-    },
-    {
-      "date": "2021-10-12",
-      "open": 13.85,
-      "high": 14.23,
-      "low": 13.42,
-      "close": 13.57,
-      "volume": 237800
-    },
     {
       "date": "2021-10-13",
       "open": 13.82,
@@ -10043,7 +10027,15 @@
       "high": 1.06,
       "low": 0.99,
       "close": 1.0,
-      "volume": 972700
+      "volume": 996400
+    },
+    {
+      "date": "2026-10-12",
+      "open": 1.0,
+      "high": 1.0,
+      "low": 0.95,
+      "close": 0.99,
+      "volume": 1083800
     }
   ]
 }

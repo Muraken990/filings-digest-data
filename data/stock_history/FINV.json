@@ -1,26 +1,10 @@
 {
   "code": "FINV",
   "ticker": "FINV",
-  "last_updated": "2026-10-12 07:36:45",
+  "last_updated": "2026-10-13 07:36:42",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-11",
-      "open": 4.6,
-      "high": 4.91,
-      "low": 4.6,
-      "close": 4.67,
-      "volume": 1868300
-    },
-    {
-      "date": "2021-10-12",
-      "open": 4.67,
-      "high": 4.77,
-      "low": 4.57,
-      "close": 4.68,
-      "volume": 1083000
-    },
     {
       "date": "2021-10-13",
       "open": 4.71,
@@ -10044,6 +10028,14 @@
       "low": 3.01,
       "close": 3.06,
       "volume": 908000
+    },
+    {
+      "date": "2026-10-12",
+      "open": 3.02,
+      "high": 3.03,
+      "low": 2.93,
+      "close": 3.0,
+      "volume": 867100
     }
   ]
 }

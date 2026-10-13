@@ -1,26 +1,10 @@
 {
   "code": "ALEC",
   "ticker": "ALEC",
-  "last_updated": "2026-10-12 07:03:40",
+  "last_updated": "2026-10-13 07:03:39",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-11",
-      "open": 23.4,
-      "high": 24.34,
-      "low": 23.1,
-      "close": 23.76,
-      "volume": 262900
-    },
-    {
-      "date": "2021-10-12",
-      "open": 23.84,
-      "high": 24.09,
-      "low": 23.39,
-      "close": 23.93,
-      "volume": 207700
-    },
     {
       "date": "2021-10-13",
       "open": 23.95,
@@ -10043,7 +10027,15 @@
       "high": 2.14,
       "low": 2.0,
       "close": 2.08,
-      "volume": 3096900
+      "volume": 3118500
+    },
+    {
+      "date": "2026-10-12",
+      "open": 2.08,
+      "high": 2.14,
+      "low": 2.02,
+      "close": 2.08,
+      "volume": 1626600
     }
   ]
 }
