@@ -1,9 +1,9 @@
 {
   "code": "PSKY",
   "ticker": "PSKY",
-  "last_updated": "2026-10-13 12:01:52",
+  "last_updated": "2026-10-14 12:01:50",
   "period": "5y",
-  "data_points": 30,
+  "data_points": 31,
   "data": [
     {
       "date": "2022-03-14",
@@ -235,7 +235,7 @@
       "high": 9.62,
       "low": 9.13,
       "close": 9.16,
-      "volume": 24493895
+      "volume": 24650720
     },
     {
       "date": "2026-10-12",
@@ -243,7 +243,15 @@
       "high": 9.28,
       "low": 8.77,
       "close": 9.16,
-      "volume": 22640463
+      "volume": 22780032
+    },
+    {
+      "date": "2026-10-13",
+      "open": 9.15,
+      "high": 9.4,
+      "low": 8.97,
+      "close": 9.27,
+      "volume": 26475061
     }
   ]
 }

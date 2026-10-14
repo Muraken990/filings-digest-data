@@ -1,9 +1,9 @@
 {
   "code": "PMTRU",
   "ticker": "PMTRU",
-  "last_updated": "2026-10-13 12:00:07",
+  "last_updated": "2026-10-14 12:00:07",
   "period": "5y",
-  "data_points": 356,
+  "data_points": 357,
   "data": [
     {
       "date": "2025-05-13",
@@ -2852,6 +2852,14 @@
       "low": 10.71,
       "close": 11.0,
       "volume": 1100
+    },
+    {
+      "date": "2026-10-13",
+      "open": 10.74,
+      "high": 11.0,
+      "low": 10.73,
+      "close": 11.0,
+      "volume": 600
     }
   ]
 }
