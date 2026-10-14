@@ -1,9 +1,9 @@
 {
   "code": "PECE",
   "ticker": "PECE",
-  "last_updated": "2026-10-13 10:06:44",
+  "last_updated": "2026-10-14 10:06:42",
   "period": "5y",
-  "data_points": 90,
+  "data_points": 91,
   "data": [
     {
       "date": "2026-06-04",
@@ -724,6 +724,14 @@
       "low": 10.0,
       "close": 10.0,
       "volume": 0
+    },
+    {
+      "date": "2026-10-13",
+      "open": 10.01,
+      "high": 10.01,
+      "low": 10.0,
+      "close": 10.0,
+      "volume": 30400
     }
   ]
 }
