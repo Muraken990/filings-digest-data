@@ -1,9 +1,9 @@
 {
   "code": "ANY",
   "ticker": "ANY",
-  "last_updated": "2026-10-13 07:06:12",
+  "last_updated": "2026-10-14 07:06:11",
   "period": "5y",
-  "data_points": 61,
+  "data_points": 62,
   "data": [
     {
       "date": "2026-07-17",
@@ -492,6 +492,14 @@
       "low": 2.15,
       "close": 2.27,
       "volume": 460800
+    },
+    {
+      "date": "2026-10-13",
+      "open": 2.31,
+      "high": 2.35,
+      "low": 2.19,
+      "close": 2.26,
+      "volume": 201800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ENRD",
   "ticker": "ENRD",
-  "last_updated": "2026-10-13 07:32:21",
+  "last_updated": "2026-10-14 07:32:40",
   "period": "5y",
-  "data_points": 86,
+  "data_points": 87,
   "data": [
     {
       "date": "2026-06-10",
@@ -692,6 +692,14 @@
       "low": 3.1,
       "close": 3.15,
       "volume": 72600
+    },
+    {
+      "date": "2026-10-13",
+      "open": 3.15,
+      "high": 3.16,
+      "low": 2.66,
+      "close": 2.71,
+      "volume": 239000
     }
   ]
 }

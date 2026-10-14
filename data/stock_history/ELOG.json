@@ -1,9 +1,9 @@
 {
   "code": "ELOG",
   "ticker": "ELOG",
-  "last_updated": "2026-10-13 07:31:31",
+  "last_updated": "2026-10-14 07:31:49",
   "period": "5y",
-  "data_points": 282,
+  "data_points": 283,
   "data": [
     {
       "date": "2025-08-28",
@@ -2259,7 +2259,15 @@
       "high": 1.21,
       "low": 0.73,
       "close": 1.01,
-      "volume": 8261600
+      "volume": 8292100
+    },
+    {
+      "date": "2026-10-13",
+      "open": 1.02,
+      "high": 1.65,
+      "low": 1.0,
+      "close": 1.48,
+      "volume": 3755800
     }
   ]
 }

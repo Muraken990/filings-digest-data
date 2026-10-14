@@ -1,18 +1,10 @@
 {
   "code": "CREG",
   "ticker": "CREG",
-  "last_updated": "2026-10-13 07:24:26",
+  "last_updated": "2026-10-14 07:24:46",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-13",
-      "open": 611.0,
-      "high": 622.0,
-      "low": 611.0,
-      "close": 616.0,
-      "volume": 427
-    },
     {
       "date": "2021-10-14",
       "open": 618.0,
@@ -10027,15 +10019,23 @@
       "high": 0.35,
       "low": 0.09,
       "close": 0.18,
-      "volume": 3653
+      "volume": 3683
     },
     {
       "date": "2026-10-12",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 14295
+      "open": 0.09,
+      "high": 0.3,
+      "low": 0.09,
+      "close": 0.2,
+      "volume": 28208
+    },
+    {
+      "date": "2026-10-13",
+      "open": 0.08,
+      "high": 0.18,
+      "low": 0.08,
+      "close": 0.14,
+      "volume": 14945
     }
   ]
 }

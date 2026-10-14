@@ -1,9 +1,9 @@
 {
   "code": "ATCX",
   "ticker": "ATCX",
-  "last_updated": "2026-10-13 07:08:46",
+  "last_updated": "2026-10-14 07:08:46",
   "period": "5y",
-  "data_points": 190,
+  "data_points": 191,
   "data": [
     {
       "date": "2026-01-09",
@@ -1524,6 +1524,14 @@
       "low": 2.38,
       "close": 2.38,
       "volume": 11300
+    },
+    {
+      "date": "2026-10-13",
+      "open": 2.46,
+      "high": 2.5,
+      "low": 2.15,
+      "close": 2.2,
+      "volume": 11800
     }
   ]
 }

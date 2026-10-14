@@ -1,9 +1,9 @@
 {
   "code": "ASPCU",
   "ticker": "ASPCU",
-  "last_updated": "2026-10-13 07:07:58",
+  "last_updated": "2026-10-14 07:07:58",
   "period": "5y",
-  "data_points": 481,
+  "data_points": 482,
   "data": [
     {
       "date": "2024-11-08",
@@ -3847,11 +3847,19 @@
     },
     {
       "date": "2026-10-12",
+      "open": 11.1,
+      "high": 11.1,
+      "low": 11.1,
+      "close": 11.1,
+      "volume": 307
+    },
+    {
+      "date": "2026-10-13",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 1
+      "volume": 1306
     }
   ]
 }
