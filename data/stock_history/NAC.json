@@ -1,17 +1,17 @@
 {
   "code": "NAC",
   "ticker": "NAC",
-  "last_updated": "2026-10-14 09:57:06",
+  "last_updated": "2026-10-15 09:57:07",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-14",
-      "open": 11.54,
-      "high": 11.54,
-      "low": 11.48,
-      "close": 11.48,
-      "volume": 150800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-15",
@@ -10036,6 +10036,14 @@
       "low": 9.92,
       "close": 10.03,
       "volume": 1828500
+    },
+    {
+      "date": "2026-10-14",
+      "open": 9.93,
+      "high": 9.95,
+      "low": 9.84,
+      "close": 9.9,
+      "volume": 1563400
     }
   ]
 }

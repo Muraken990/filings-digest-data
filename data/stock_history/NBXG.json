@@ -1,17 +1,17 @@
 {
   "code": "NBXG",
   "ticker": "NBXG",
-  "last_updated": "2026-10-14 09:57:10",
+  "last_updated": "2026-10-15 09:57:11",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-14",
-      "open": 11.23,
-      "high": 11.32,
-      "low": 11.13,
-      "close": 11.23,
-      "volume": 151100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-15",
@@ -120,7 +120,7 @@
     {
       "date": "2021-11-03",
       "open": 11.91,
-      "high": 12.0,
+      "high": 12.01,
       "low": 11.77,
       "close": 11.89,
       "volume": 166700
@@ -10036,6 +10036,14 @@
       "low": 15.59,
       "close": 15.71,
       "volume": 133800
+    },
+    {
+      "date": "2026-10-14",
+      "open": 15.6,
+      "high": 15.78,
+      "low": 15.25,
+      "close": 15.25,
+      "volume": 128700
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "HMY",
   "ticker": "HMY",
-  "last_updated": "2026-10-14 09:37:07",
+  "last_updated": "2026-10-15 09:37:08",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-14",
-      "open": 3.57,
-      "high": 3.58,
-      "low": 3.5,
-      "close": 3.56,
-      "volume": 5218200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-15",
@@ -10036,6 +10036,14 @@
       "low": 16.57,
       "close": 16.71,
       "volume": 2951200
+    },
+    {
+      "date": "2026-10-14",
+      "open": 16.32,
+      "high": 16.47,
+      "low": 16.06,
+      "close": 16.29,
+      "volume": 3439000
     }
   ]
 }

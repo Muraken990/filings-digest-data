@@ -1,9 +1,9 @@
 {
   "code": "GWH",
   "ticker": "GWH",
-  "last_updated": "2026-10-14 09:35:22",
+  "last_updated": "2026-10-15 09:35:21",
   "period": "5y",
-  "data_points": 62,
+  "data_points": 63,
   "data": [
     {
       "date": "2026-07-17",
@@ -500,6 +500,14 @@
       "low": 0.08,
       "close": 0.09,
       "volume": 108800
+    },
+    {
+      "date": "2026-10-14",
+      "open": 0.09,
+      "high": 0.1,
+      "low": 0.05,
+      "close": 0.1,
+      "volume": 383600
     }
   ]
 }

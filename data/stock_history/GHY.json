@@ -1,17 +1,17 @@
 {
   "code": "GHY",
   "ticker": "GHY",
-  "last_updated": "2026-10-14 09:32:42",
+  "last_updated": "2026-10-15 09:32:41",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-14",
-      "open": 9.33,
-      "high": 9.39,
-      "low": 9.31,
-      "close": 9.39,
-      "volume": 136900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-15",
@@ -10036,6 +10036,14 @@
       "low": 10.76,
       "close": 10.8,
       "volume": 170700
+    },
+    {
+      "date": "2026-10-14",
+      "open": 10.76,
+      "high": 10.87,
+      "low": 10.65,
+      "close": 10.67,
+      "volume": 187900
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "OXM",
   "ticker": "OXM",
-  "last_updated": "2026-10-14 10:04:58",
+  "last_updated": "2026-10-15 10:05:01",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-14",
-      "open": 76.88,
-      "high": 77.78,
-      "low": 76.69,
-      "close": 77.06,
-      "volume": 57800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-15",
@@ -10036,6 +10036,14 @@
       "low": 25.21,
       "close": 25.72,
       "volume": 771200
+    },
+    {
+      "date": "2026-10-14",
+      "open": 25.64,
+      "high": 26.11,
+      "low": 24.78,
+      "close": 26.04,
+      "volume": 889000
     }
   ]
 }

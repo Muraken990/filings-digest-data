@@ -1,17 +1,17 @@
 {
   "code": "NCA",
   "ticker": "NCA",
-  "last_updated": "2026-10-14 09:57:56",
+  "last_updated": "2026-10-15 09:57:57",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-14",
-      "open": 8.61,
-      "high": 8.61,
-      "low": 8.53,
-      "close": 8.53,
-      "volume": 23900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-15",
@@ -10036,6 +10036,14 @@
       "low": 8.2,
       "close": 8.23,
       "volume": 199900
+    },
+    {
+      "date": "2026-10-14",
+      "open": 8.2,
+      "high": 8.26,
+      "low": 8.12,
+      "close": 8.16,
+      "volume": 162100
     }
   ]
 }

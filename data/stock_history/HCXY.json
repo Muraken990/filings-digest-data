@@ -1,17 +1,17 @@
 {
   "code": "HCXY",
   "ticker": "HCXY",
-  "last_updated": "2026-10-14 09:36:14",
+  "last_updated": "2026-10-15 09:36:14",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-14",
-      "open": 19.91,
-      "high": 20.53,
-      "low": 19.91,
-      "close": 20.53,
-      "volume": 5200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-15",
@@ -10036,6 +10036,14 @@
       "low": 24.07,
       "close": 24.17,
       "volume": 1100
+    },
+    {
+      "date": "2026-10-14",
+      "open": 24.34,
+      "high": 24.71,
+      "low": 24.3,
+      "close": 24.51,
+      "volume": 3800
     }
   ]
 }
