@@ -1,18 +1,10 @@
 {
   "code": "SOBR",
   "ticker": "SOBR",
-  "last_updated": "2026-10-14 12:13:05",
+  "last_updated": "2026-10-15 12:13:05",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-14",
-      "open": 9240.0,
-      "high": 9240.0,
-      "low": 9240.0,
-      "close": 9240.0,
-      "volume": 0
-    },
     {
       "date": "2021-10-15",
       "open": 9240.0,
@@ -10036,6 +10028,14 @@
       "low": 0.04,
       "close": 0.07,
       "volume": 5400
+    },
+    {
+      "date": "2026-10-14",
+      "open": 0.04,
+      "high": 0.07,
+      "low": 0.04,
+      "close": 0.05,
+      "volume": 13000
     }
   ]
 }

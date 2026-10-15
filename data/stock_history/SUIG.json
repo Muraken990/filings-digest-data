@@ -1,16 +1,16 @@
 {
   "code": "SUIG",
   "ticker": "SUIG",
-  "last_updated": "2026-10-14 12:15:42",
+  "last_updated": "2026-10-15 12:15:41",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-14",
-      "open": 9.01,
-      "high": 9.01,
-      "low": 9.01,
-      "close": 9.01,
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
       "volume": 0
     },
     {
@@ -10035,7 +10035,15 @@
       "high": 1.51,
       "low": 1.38,
       "close": 1.39,
-      "volume": 362000
+      "volume": 381100
+    },
+    {
+      "date": "2026-10-14",
+      "open": 1.38,
+      "high": 1.42,
+      "low": 1.26,
+      "close": 1.28,
+      "volume": 539800
     }
   ]
 }

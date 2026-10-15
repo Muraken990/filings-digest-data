@@ -1,17 +1,17 @@
 {
   "code": "PMT",
   "ticker": "PMT",
-  "last_updated": "2026-10-14 12:00:06",
+  "last_updated": "2026-10-15 12:00:07",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-14",
-      "open": 10.49,
-      "high": 10.55,
-      "low": 10.38,
-      "close": 10.43,
-      "volume": 1415800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-15",
@@ -4425,7 +4425,7 @@
       "date": "2023-12-26",
       "open": 10.62,
       "high": 10.69,
-      "low": 10.55,
+      "low": 10.56,
       "close": 10.64,
       "volume": 516500
     },
@@ -10036,6 +10036,14 @@
       "low": 6.83,
       "close": 7.04,
       "volume": 4956600
+    },
+    {
+      "date": "2026-10-14",
+      "open": 6.95,
+      "high": 6.95,
+      "low": 6.8,
+      "close": 6.87,
+      "volume": 3430600
     }
   ]
 }

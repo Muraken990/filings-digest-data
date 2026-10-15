@@ -1,17 +1,17 @@
 {
   "code": "RILYZ",
   "ticker": "RILYZ",
-  "last_updated": "2026-10-14 12:05:20",
+  "last_updated": "2026-10-15 12:05:21",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-14",
-      "open": 16.02,
-      "high": 16.07,
-      "low": 16.0,
-      "close": 16.04,
-      "volume": 81500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-15",
@@ -10036,6 +10036,14 @@
       "low": 18.51,
       "close": 18.76,
       "volume": 23700
+    },
+    {
+      "date": "2026-10-14",
+      "open": 18.76,
+      "high": 18.8,
+      "low": 18.23,
+      "close": 18.37,
+      "volume": 39500
     }
   ]
 }

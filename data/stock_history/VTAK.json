@@ -1,9 +1,9 @@
 {
   "code": "VTAK",
   "ticker": "VTAK",
-  "last_updated": "2026-10-14 12:25:20",
+  "last_updated": "2026-10-15 12:25:24",
   "period": "5y",
-  "data_points": 62,
+  "data_points": 63,
   "data": [
     {
       "date": "2026-07-17",
@@ -499,7 +499,15 @@
       "high": 1.1,
       "low": 0.96,
       "close": 1.06,
-      "volume": 576100
+      "volume": 854200
+    },
+    {
+      "date": "2026-10-14",
+      "open": 0.95,
+      "high": 1.0,
+      "low": 0.82,
+      "close": 0.88,
+      "volume": 1823300
     }
   ]
 }
