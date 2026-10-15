@@ -1,17 +1,17 @@
 {
   "code": "BFS",
   "ticker": "BFS",
-  "last_updated": "2026-10-14 07:12:26",
+  "last_updated": "2026-10-15 07:12:18",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-14",
-      "open": 34.83,
-      "high": 35.09,
-      "low": 34.64,
-      "close": 34.82,
-      "volume": 25800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-15",
@@ -2832,7 +2832,7 @@
     {
       "date": "2023-03-13",
       "open": 28.42,
-      "high": 29.49,
+      "high": 29.48,
       "low": 28.3,
       "close": 29.19,
       "volume": 34100
@@ -2913,7 +2913,7 @@
       "date": "2023-03-27",
       "open": 30.06,
       "high": 30.06,
-      "low": 29.48,
+      "low": 29.49,
       "close": 29.51,
       "volume": 40200
     },
@@ -10036,6 +10036,14 @@
       "low": 29.7,
       "close": 29.7,
       "volume": 107300
+    },
+    {
+      "date": "2026-10-14",
+      "open": 29.58,
+      "high": 29.63,
+      "low": 29.19,
+      "close": 29.43,
+      "volume": 142800
     }
   ]
 }

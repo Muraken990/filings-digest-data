@@ -1,9 +1,9 @@
 {
   "code": "BUSEP",
   "ticker": "BUSEP",
-  "last_updated": "2026-10-14 07:16:50",
+  "last_updated": "2026-10-15 07:16:36",
   "period": "5y",
-  "data_points": 356,
+  "data_points": 357,
   "data": [
     {
       "date": "2025-05-14",
@@ -2852,6 +2852,14 @@
       "low": 25.1,
       "close": 25.2,
       "volume": 22800
+    },
+    {
+      "date": "2026-10-14",
+      "open": 25.18,
+      "high": 25.31,
+      "low": 25.18,
+      "close": 25.3,
+      "volume": 6700
     }
   ]
 }

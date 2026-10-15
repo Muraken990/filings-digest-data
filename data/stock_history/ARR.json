@@ -1,17 +1,17 @@
 {
   "code": "ARR",
   "ticker": "ARR",
-  "last_updated": "2026-10-14 07:07:54",
+  "last_updated": "2026-10-15 07:07:54",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-14",
-      "open": 23.57,
-      "high": 23.7,
-      "low": 23.34,
-      "close": 23.36,
-      "volume": 317060
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-15",
@@ -3938,7 +3938,7 @@
       "open": 12.61,
       "high": 12.85,
       "low": 12.35,
-      "close": 12.58,
+      "close": 12.59,
       "volume": 2076700
     },
     {
@@ -10035,7 +10035,15 @@
       "high": 13.98,
       "low": 13.41,
       "close": 13.59,
-      "volume": 5303700
+      "volume": 5319300
+    },
+    {
+      "date": "2026-10-14",
+      "open": 13.45,
+      "high": 13.64,
+      "low": 13.35,
+      "close": 13.62,
+      "volume": 5291700
     }
   ]
 }

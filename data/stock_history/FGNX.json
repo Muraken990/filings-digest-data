@@ -1,9 +1,9 @@
 {
   "code": "FGNX",
   "ticker": "FGNX",
-  "last_updated": "2026-10-14 07:36:59",
+  "last_updated": "2026-10-15 07:36:42",
   "period": "5y",
-  "data_points": 2,
+  "data_points": 3,
   "data": [
     {
       "date": "2026-10-12",
@@ -20,6 +20,14 @@
       "low": 5.64,
       "close": 5.9,
       "volume": 49675
+    },
+    {
+      "date": "2026-10-14",
+      "open": 5.85,
+      "high": 5.92,
+      "low": 5.29,
+      "close": 5.38,
+      "volume": 33529
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "BKT",
   "ticker": "BKT",
-  "last_updated": "2026-10-14 07:13:23",
+  "last_updated": "2026-10-15 07:13:14",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-14",
-      "open": 12.09,
-      "high": 12.13,
-      "low": 12.05,
-      "close": 12.05,
-      "volume": 43300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-15",
@@ -10036,6 +10036,14 @@
       "low": 9.52,
       "close": 9.56,
       "volume": 102200
+    },
+    {
+      "date": "2026-10-14",
+      "open": 9.5,
+      "high": 9.56,
+      "low": 9.48,
+      "close": 9.56,
+      "volume": 56000
     }
   ]
 }

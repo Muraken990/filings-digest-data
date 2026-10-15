@@ -1,17 +1,17 @@
 {
   "code": "BTX",
   "ticker": "BTX",
-  "last_updated": "2026-10-14 07:16:03",
+  "last_updated": "2026-10-15 07:15:50",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-14",
-      "open": 10.62,
-      "high": 10.79,
-      "low": 10.46,
-      "close": 10.58,
-      "volume": 885300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-15",
@@ -10035,7 +10035,15 @@
       "high": 9.16,
       "low": 9.0,
       "close": 9.07,
-      "volume": 948200
+      "volume": 963200
+    },
+    {
+      "date": "2026-10-14",
+      "open": 8.99,
+      "high": 9.1,
+      "low": 8.75,
+      "close": 8.77,
+      "volume": 571000
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "ABVC",
   "ticker": "ABVC",
-  "last_updated": "2026-10-14 07:00:08",
+  "last_updated": "2026-10-15 07:00:09",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-14",
-      "open": 24.5,
-      "high": 25.0,
-      "low": 23.5,
-      "close": 24.6,
-      "volume": 294360
-    },
     {
       "date": "2021-10-15",
       "open": 28.3,
@@ -10036,6 +10028,14 @@
       "low": 0.96,
       "close": 0.98,
       "volume": 120000
+    },
+    {
+      "date": "2026-10-14",
+      "open": 1.0,
+      "high": 1.03,
+      "low": 0.96,
+      "close": 1.02,
+      "volume": 55900
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "CBUS",
   "ticker": "CBUS",
-  "last_updated": "2026-10-14 07:18:39",
+  "last_updated": "2026-10-15 07:18:22",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-14",
-      "open": 150.25,
-      "high": 152.0,
-      "low": 148.5,
-      "close": 150.5,
-      "volume": 1810
-    },
     {
       "date": "2021-10-15",
       "open": 151.5,
@@ -10036,6 +10028,14 @@
       "low": 1.36,
       "close": 1.41,
       "volume": 45300
+    },
+    {
+      "date": "2026-10-14",
+      "open": 1.42,
+      "high": 1.44,
+      "low": 1.35,
+      "close": 1.4,
+      "volume": 106600
     }
   ]
 }

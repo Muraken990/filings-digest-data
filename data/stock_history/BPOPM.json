@@ -1,17 +1,17 @@
 {
   "code": "BPOPM",
   "ticker": "BPOPM",
-  "last_updated": "2026-10-14 07:15:08",
+  "last_updated": "2026-10-15 07:14:56",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-14",
-      "open": 18.97,
-      "high": 18.98,
-      "low": 18.81,
-      "close": 18.93,
-      "volume": 5700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-15",
@@ -5713,7 +5713,7 @@
       "date": "2024-08-16",
       "open": 22.52,
       "high": 22.53,
-      "low": 22.39,
+      "low": 22.38,
       "close": 22.46,
       "volume": 1700
     },
@@ -10036,6 +10036,14 @@
       "low": 25.08,
       "close": 25.08,
       "volume": 2600
+    },
+    {
+      "date": "2026-10-14",
+      "open": 25.11,
+      "high": 25.11,
+      "low": 25.09,
+      "close": 25.09,
+      "volume": 1400
     }
   ]
 }

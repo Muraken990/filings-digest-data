@@ -1,9 +1,9 @@
 {
   "code": "BCAR",
   "ticker": "BCAR",
-  "last_updated": "2026-10-14 07:11:30",
+  "last_updated": "2026-10-15 07:11:25",
   "period": "5y",
-  "data_points": 62,
+  "data_points": 63,
   "data": [
     {
       "date": "2026-07-17",
@@ -500,6 +500,14 @@
       "low": 0.9,
       "close": 0.93,
       "volume": 29000
+    },
+    {
+      "date": "2026-10-14",
+      "open": 0.99,
+      "high": 0.99,
+      "low": 0.83,
+      "close": 0.91,
+      "volume": 43800
     }
   ]
 }
