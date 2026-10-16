@@ -1,9 +1,9 @@
 {
   "code": "STAK",
   "ticker": "STAK",
-  "last_updated": "2026-10-15 12:14:49",
+  "last_updated": "2026-10-16 12:14:50",
   "period": "5y",
-  "data_points": 411,
+  "data_points": 412,
   "data": [
     {
       "date": "2025-02-26",
@@ -3292,6 +3292,14 @@
       "low": 1.0,
       "close": 1.01,
       "volume": 206000
+    },
+    {
+      "date": "2026-10-15",
+      "open": 1.0,
+      "high": 1.05,
+      "low": 0.98,
+      "close": 1.03,
+      "volume": 189200
     }
   ]
 }

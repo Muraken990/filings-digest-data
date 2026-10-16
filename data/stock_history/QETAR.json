@@ -1,9 +1,9 @@
 {
   "code": "QETAR",
   "ticker": "QETAR",
-  "last_updated": "2026-10-15 12:02:43",
+  "last_updated": "2026-10-16 12:02:44",
   "period": "5y",
-  "data_points": 1,
+  "data_points": 2,
   "data": [
     {
       "date": "2026-10-14",
@@ -12,6 +12,14 @@
       "low": 0.01,
       "close": 0.42,
       "volume": 2500
+    },
+    {
+      "date": "2026-10-15",
+      "open": 0.42,
+      "high": 0.42,
+      "low": 0.42,
+      "close": 0.42,
+      "volume": 0
     }
   ]
 }

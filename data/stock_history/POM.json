@@ -1,9 +1,9 @@
 {
   "code": "POM",
   "ticker": "POM",
-  "last_updated": "2026-10-15 12:00:55",
+  "last_updated": "2026-10-16 12:00:55",
   "period": "5y",
-  "data_points": 256,
+  "data_points": 257,
   "data": [
     {
       "date": "2025-10-08",
@@ -2052,6 +2052,14 @@
       "low": 0.55,
       "close": 0.64,
       "volume": 22900
+    },
+    {
+      "date": "2026-10-15",
+      "open": 0.63,
+      "high": 0.72,
+      "low": 0.55,
+      "close": 0.71,
+      "volume": 17800
     }
   ]
 }

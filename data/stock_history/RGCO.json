@@ -1,26 +1,10 @@
 {
   "code": "RGCO",
   "ticker": "RGCO",
-  "last_updated": "2026-10-15 12:05:18",
+  "last_updated": "2026-10-16 12:05:19",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-14",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-10-15",
-      "open": 18.41,
-      "high": 18.46,
-      "low": 18.31,
-      "close": 18.42,
-      "volume": 8800
-    },
     {
       "date": "2021-10-18",
       "open": 18.36,
@@ -665,8 +649,8 @@
       "date": "2022-02-10",
       "open": 17.99,
       "high": 18.28,
-      "low": 17.93,
-      "close": 17.93,
+      "low": 17.94,
+      "close": 17.94,
       "volume": 10600
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 22.35,
       "close": 23.01,
       "volume": 13300
+    },
+    {
+      "date": "2026-10-15",
+      "open": 23.15,
+      "high": 23.15,
+      "low": 22.54,
+      "close": 22.88,
+      "volume": 10100
     }
   ]
 }

@@ -1,58 +1,10 @@
 {
   "code": "TCBIO",
   "ticker": "TCBIO",
-  "last_updated": "2026-10-15 12:16:40",
+  "last_updated": "2026-10-16 12:16:38",
   "period": "5y",
-  "data_points": 12,
+  "data_points": 7,
   "data": [
-    {
-      "date": "2022-02-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2022-05-31",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2022-08-31",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2022-11-30",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2023-02-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2026-09-01",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2026-10-07",
       "open": 18.45,
@@ -100,6 +52,14 @@
       "low": 17.41,
       "close": 19.39,
       "volume": 4906
+    },
+    {
+      "date": "2026-10-15",
+      "open": 17.5,
+      "high": 18.06,
+      "low": 17.3,
+      "close": 17.98,
+      "volume": 6565
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SIND",
   "ticker": "SIND",
-  "last_updated": "2026-10-15 12:10:34",
+  "last_updated": "2026-10-16 12:10:35",
   "period": "5y",
-  "data_points": 77,
+  "data_points": 78,
   "data": [
     {
       "date": "2026-06-26",
@@ -620,6 +620,14 @@
       "low": 13.18,
       "close": 13.24,
       "volume": 81000
+    },
+    {
+      "date": "2026-10-15",
+      "open": 13.38,
+      "high": 13.77,
+      "low": 12.21,
+      "close": 12.38,
+      "volume": 72500
     }
   ]
 }
