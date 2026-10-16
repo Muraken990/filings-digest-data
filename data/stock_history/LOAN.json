@@ -1,18 +1,10 @@
 {
   "code": "LOAN",
   "ticker": "LOAN",
-  "last_updated": "2026-10-15 09:49:17",
+  "last_updated": "2026-10-16 09:49:16",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-15",
-      "open": 4.04,
-      "high": 4.1,
-      "low": 3.93,
-      "close": 3.97,
-      "volume": 90700
-    },
     {
       "date": "2021-10-18",
       "open": 4.06,
@@ -10036,6 +10028,14 @@
       "low": 3.33,
       "close": 3.42,
       "volume": 37700
+    },
+    {
+      "date": "2026-10-15",
+      "open": 3.4,
+      "high": 3.48,
+      "low": 3.4,
+      "close": 3.48,
+      "volume": 37000
     }
   ]
 }

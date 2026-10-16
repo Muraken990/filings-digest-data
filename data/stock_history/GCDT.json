@@ -1,9 +1,9 @@
 {
   "code": "GCDT",
   "ticker": "GCDT",
-  "last_updated": "2026-10-15 09:31:01",
+  "last_updated": "2026-10-16 09:31:01",
   "period": "5y",
-  "data_points": 190,
+  "data_points": 191,
   "data": [
     {
       "date": "2026-01-13",
@@ -1523,7 +1523,15 @@
       "high": 0.41,
       "low": 0.37,
       "close": 0.39,
-      "volume": 525300
+      "volume": 577200
+    },
+    {
+      "date": "2026-10-15",
+      "open": 0.33,
+      "high": 0.37,
+      "low": 0.28,
+      "close": 0.33,
+      "volume": 15650100
     }
   ]
 }

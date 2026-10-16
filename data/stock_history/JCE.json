@@ -1,17 +1,17 @@
 {
   "code": "JCE",
   "ticker": "JCE",
-  "last_updated": "2026-10-15 09:43:15",
+  "last_updated": "2026-10-16 09:43:14",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-15",
-      "open": 9.86,
-      "high": 9.88,
-      "low": 9.82,
-      "close": 9.86,
-      "volume": 37900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-18",
@@ -7040,7 +7040,7 @@
     {
       "date": "2025-04-17",
       "open": 11.8,
-      "high": 12.05,
+      "high": 12.04,
       "low": 11.8,
       "close": 11.94,
       "volume": 27900
@@ -10036,6 +10036,14 @@
       "low": 16.75,
       "close": 17.01,
       "volume": 28900
+    },
+    {
+      "date": "2026-10-15",
+      "open": 16.95,
+      "high": 17.2,
+      "low": 16.95,
+      "close": 17.15,
+      "volume": 28100
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "MMA",
   "ticker": "MMA",
-  "last_updated": "2026-10-15 09:54:28",
+  "last_updated": "2026-10-16 09:54:25",
   "period": "5y",
-  "data_points": 639,
+  "data_points": 640,
   "data": [
     {
       "date": "2024-03-28",
@@ -5115,7 +5115,15 @@
       "high": 0.29,
       "low": 0.25,
       "close": 0.26,
-      "volume": 269400
+      "volume": 279800
+    },
+    {
+      "date": "2026-10-15",
+      "open": 0.25,
+      "high": 0.28,
+      "low": 0.25,
+      "close": 0.28,
+      "volume": 244000
     }
   ]
 }

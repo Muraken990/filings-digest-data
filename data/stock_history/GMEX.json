@@ -1,9 +1,9 @@
 {
   "code": "GMEX",
   "ticker": "GMEX",
-  "last_updated": "2026-10-15 09:33:33",
+  "last_updated": "2026-10-16 09:33:35",
   "period": "5y",
-  "data_points": 800,
+  "data_points": 801,
   "data": [
     {
       "date": "2023-08-08",
@@ -6403,7 +6403,15 @@
       "high": 1.91,
       "low": 1.6,
       "close": 1.71,
-      "volume": 1237200
+      "volume": 1307300
+    },
+    {
+      "date": "2026-10-15",
+      "open": 1.52,
+      "high": 1.57,
+      "low": 1.23,
+      "close": 1.36,
+      "volume": 264400
     }
   ]
 }

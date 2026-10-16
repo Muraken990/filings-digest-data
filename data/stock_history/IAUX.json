@@ -1,18 +1,10 @@
 {
   "code": "IAUX",
   "ticker": "IAUX",
-  "last_updated": "2026-10-15 09:38:54",
+  "last_updated": "2026-10-16 09:38:54",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-15",
-      "open": 2.64,
-      "high": 2.75,
-      "low": 2.64,
-      "close": 2.71,
-      "volume": 39600
-    },
     {
       "date": "2021-10-18",
       "open": 2.86,
@@ -10035,7 +10027,15 @@
       "high": 1.52,
       "low": 1.44,
       "close": 1.44,
-      "volume": 10665600
+      "volume": 10676600
+    },
+    {
+      "date": "2026-10-15",
+      "open": 1.48,
+      "high": 1.53,
+      "low": 1.44,
+      "close": 1.53,
+      "volume": 6111400
     }
   ]
 }

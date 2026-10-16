@@ -1,26 +1,10 @@
 {
   "code": "LEO",
   "ticker": "LEO",
-  "last_updated": "2026-10-15 09:47:36",
+  "last_updated": "2026-10-16 09:47:34",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-14",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-10-15",
-      "open": 6.92,
-      "high": 6.96,
-      "low": 6.92,
-      "close": 6.92,
-      "volume": 39400
-    },
     {
       "date": "2021-10-18",
       "open": 6.92,
@@ -10044,6 +10028,14 @@
       "low": 5.44,
       "close": 5.45,
       "volume": 274300
+    },
+    {
+      "date": "2026-10-15",
+      "open": 5.5,
+      "high": 5.6,
+      "low": 5.5,
+      "close": 5.6,
+      "volume": 559300
     }
   ]
 }
