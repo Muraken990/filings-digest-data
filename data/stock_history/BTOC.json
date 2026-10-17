@@ -1,9 +1,9 @@
 {
   "code": "BTOC",
   "ticker": "BTOC",
-  "last_updated": "2026-10-16 07:15:44",
+  "last_updated": "2026-10-17 07:15:46",
   "period": "5y",
-  "data_points": 607,
+  "data_points": 608,
   "data": [
     {
       "date": "2024-05-14",
@@ -4859,7 +4859,15 @@
       "high": null,
       "low": null,
       "close": null,
-      "volume": 22489
+      "volume": 0
+    },
+    {
+      "date": "2026-10-16",
+      "open": 3.06,
+      "high": 3.06,
+      "low": 2.76,
+      "close": 2.83,
+      "volume": 25300
     }
   ]
 }
