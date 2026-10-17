@@ -1,9 +1,9 @@
 {
   "code": "LESL",
   "ticker": "LESL",
-  "last_updated": "2026-10-16 09:47:34",
+  "last_updated": "2026-10-17 09:47:31",
   "period": "5y",
-  "data_points": 64,
+  "data_points": 65,
   "data": [
     {
       "date": "2026-07-17",
@@ -516,6 +516,14 @@
       "low": 0.02,
       "close": 0.04,
       "volume": 449200
+    },
+    {
+      "date": "2026-10-16",
+      "open": 0.04,
+      "high": 0.05,
+      "low": 0.03,
+      "close": 0.05,
+      "volume": 151500
     }
   ]
 }

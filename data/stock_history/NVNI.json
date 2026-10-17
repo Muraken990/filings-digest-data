@@ -1,9 +1,9 @@
 {
   "code": "NVNI",
   "ticker": "NVNI",
-  "last_updated": "2026-10-16 10:01:25",
+  "last_updated": "2026-10-17 10:01:21",
   "period": "5y",
-  "data_points": 7,
+  "data_points": 8,
   "data": [
     {
       "date": "2025-10-06",
@@ -59,7 +59,15 @@
       "high": 0.1,
       "low": 0.07,
       "close": 0.07,
-      "volume": 47235
+      "volume": 60171
+    },
+    {
+      "date": "2026-10-16",
+      "open": 0.07,
+      "high": 0.07,
+      "low": 0.03,
+      "close": 0.04,
+      "volume": 41005
     }
   ]
 }

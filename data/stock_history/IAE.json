@@ -1,9 +1,9 @@
 {
   "code": "IAE",
   "ticker": "IAE",
-  "last_updated": "2026-10-16 09:38:54",
+  "last_updated": "2026-10-17 09:38:51",
   "period": "5y",
-  "data_points": 6,
+  "data_points": 8,
   "data": [
     {
       "date": "2022-04-01",
@@ -15,6 +15,14 @@
     },
     {
       "date": "2022-07-01",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
+    },
+    {
+      "date": "2022-10-03",
       "open": null,
       "high": null,
       "low": null,
@@ -47,6 +55,14 @@
     },
     {
       "date": "2026-10-15",
+      "open": 7.01,
+      "high": 7.01,
+      "low": 7.01,
+      "close": 7.01,
+      "volume": 0
+    },
+    {
+      "date": "2026-10-16",
       "open": 7.01,
       "high": 7.01,
       "low": 7.01,
