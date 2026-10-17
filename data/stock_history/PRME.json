@@ -1,9 +1,9 @@
 {
   "code": "PRME",
   "ticker": "PRME",
-  "last_updated": "2026-10-16 12:01:02",
+  "last_updated": "2026-10-17 12:01:01",
   "period": "5y",
-  "data_points": 1000,
+  "data_points": 1001,
   "data": [
     {
       "date": "2022-10-20",
@@ -8003,7 +8003,15 @@
       "high": 3.65,
       "low": 3.06,
       "close": 3.61,
-      "volume": 6271800
+      "volume": 6299900
+    },
+    {
+      "date": "2026-10-16",
+      "open": 3.55,
+      "high": 3.61,
+      "low": 3.41,
+      "close": 3.47,
+      "volume": 4386000
     }
   ]
 }
