@@ -1,26 +1,10 @@
 {
   "code": "INDI",
   "ticker": "INDI",
-  "last_updated": "2026-10-19 09:41:23",
+  "last_updated": "2026-10-20 09:41:24",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-18",
-      "open": 11.05,
-      "high": 11.2,
-      "low": 10.93,
-      "close": 11.0,
-      "volume": 397300
-    },
-    {
-      "date": "2021-10-19",
-      "open": 11.09,
-      "high": 11.19,
-      "low": 10.88,
-      "close": 11.1,
-      "volume": 298900
-    },
     {
       "date": "2021-10-20",
       "open": 11.36,
@@ -10044,6 +10028,14 @@
       "low": 1.8,
       "close": 1.82,
       "volume": 7710500
+    },
+    {
+      "date": "2026-10-19",
+      "open": 1.87,
+      "high": 1.89,
+      "low": 1.79,
+      "close": 1.87,
+      "volume": 9383200
     }
   ]
 }

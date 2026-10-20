@@ -1,26 +1,10 @@
 {
   "code": "GLAS",
   "ticker": "GLAS",
-  "last_updated": "2026-10-19 09:32:44",
+  "last_updated": "2026-10-20 09:32:45",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-18",
-      "open": 5.06,
-      "high": 5.08,
-      "low": 4.65,
-      "close": 4.75,
-      "volume": 31000
-    },
-    {
-      "date": "2021-10-19",
-      "open": 4.71,
-      "high": 4.95,
-      "low": 4.6,
-      "close": 4.7,
-      "volume": 22200
-    },
     {
       "date": "2021-10-20",
       "open": 5.5,
@@ -10043,7 +10027,15 @@
       "high": 3.84,
       "low": 3.1,
       "close": 3.19,
-      "volume": 2017500
+      "volume": 2032800
+    },
+    {
+      "date": "2026-10-19",
+      "open": 3.23,
+      "high": 3.23,
+      "low": 1.67,
+      "close": 2.46,
+      "volume": 16148500
     }
   ]
 }

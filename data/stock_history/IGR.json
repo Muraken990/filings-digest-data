@@ -1,25 +1,17 @@
 {
   "code": "IGR",
   "ticker": "IGR",
-  "last_updated": "2026-10-19 09:40:31",
+  "last_updated": "2026-10-20 09:40:32",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-10-18",
-      "open": 1.3,
-      "high": 1.32,
-      "low": 1.3,
-      "close": 1.32,
-      "volume": 212300
-    },
-    {
       "date": "2021-10-19",
-      "open": 1.34,
-      "high": 1.34,
-      "low": 1.33,
-      "close": 1.33,
-      "volume": 203800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-20",
@@ -10044,6 +10036,14 @@
       "low": 11.15,
       "close": 11.15,
       "volume": 860400
+    },
+    {
+      "date": "2026-10-19",
+      "open": 11.1,
+      "high": 11.16,
+      "low": 10.98,
+      "close": 10.99,
+      "volume": 424500
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "NAUT",
   "ticker": "NAUT",
-  "last_updated": "2026-10-19 09:57:05",
+  "last_updated": "2026-10-20 09:57:06",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-18",
-      "open": 5.71,
-      "high": 5.71,
-      "low": 5.55,
-      "close": 5.56,
-      "volume": 235100
-    },
-    {
-      "date": "2021-10-19",
-      "open": 5.58,
-      "high": 5.85,
-      "low": 5.5,
-      "close": 5.69,
-      "volume": 385100
-    },
     {
       "date": "2021-10-20",
       "open": 5.7,
@@ -10043,7 +10027,15 @@
       "high": 2.23,
       "low": 1.99,
       "close": 2.06,
-      "volume": 6419000
+      "volume": 6455200
+    },
+    {
+      "date": "2026-10-19",
+      "open": 2.03,
+      "high": 2.68,
+      "low": 1.97,
+      "close": 2.63,
+      "volume": 14881200
     }
   ]
 }

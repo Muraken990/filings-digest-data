@@ -1,26 +1,10 @@
 {
   "code": "PED",
   "ticker": "PED",
-  "last_updated": "2026-10-19 10:06:44",
+  "last_updated": "2026-10-20 10:06:42",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-18",
-      "open": 35.2,
-      "high": 35.78,
-      "low": 32.2,
-      "close": 33.6,
-      "volume": 209435
-    },
-    {
-      "date": "2021-10-19",
-      "open": 33.4,
-      "high": 35.2,
-      "low": 32.0,
-      "close": 33.4,
-      "volume": 271810
-    },
     {
       "date": "2021-10-20",
       "open": 32.4,
@@ -10044,6 +10028,14 @@
       "low": 13.2,
       "close": 13.69,
       "volume": 35800
+    },
+    {
+      "date": "2026-10-19",
+      "open": 13.65,
+      "high": 14.65,
+      "low": 13.65,
+      "close": 14.65,
+      "volume": 24000
     }
   ]
 }

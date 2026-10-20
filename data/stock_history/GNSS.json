@@ -1,26 +1,10 @@
 {
   "code": "GNSS",
   "ticker": "GNSS",
-  "last_updated": "2026-10-19 09:33:34",
+  "last_updated": "2026-10-20 09:33:36",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-18",
-      "open": 5.05,
-      "high": 5.14,
-      "low": 4.96,
-      "close": 5.06,
-      "volume": 108100
-    },
-    {
-      "date": "2021-10-19",
-      "open": 5.14,
-      "high": 5.17,
-      "low": 4.99,
-      "close": 5.17,
-      "volume": 129000
-    },
     {
       "date": "2021-10-20",
       "open": 5.05,
@@ -10044,6 +10028,14 @@
       "low": 1.26,
       "close": 1.33,
       "volume": 54900
+    },
+    {
+      "date": "2026-10-19",
+      "open": 1.33,
+      "high": 1.35,
+      "low": 1.32,
+      "close": 1.32,
+      "volume": 37700
     }
   ]
 }
