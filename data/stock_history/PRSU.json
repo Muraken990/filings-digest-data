@@ -1,26 +1,10 @@
 {
   "code": "PRSU",
   "ticker": "PRSU",
-  "last_updated": "2026-10-19 12:01:49",
+  "last_updated": "2026-10-20 12:01:48",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-18",
-      "open": 46.5,
-      "high": 47.25,
-      "low": 46.03,
-      "close": 46.99,
-      "volume": 48500
-    },
-    {
-      "date": "2021-10-19",
-      "open": 47.13,
-      "high": 47.17,
-      "low": 46.16,
-      "close": 46.46,
-      "volume": 43500
-    },
     {
       "date": "2021-10-20",
       "open": 46.31,
@@ -10043,7 +10027,15 @@
       "high": 56.33,
       "low": 54.72,
       "close": 55.02,
-      "volume": 391900
+      "volume": 434800
+    },
+    {
+      "date": "2026-10-19",
+      "open": 55.01,
+      "high": 55.85,
+      "low": 54.71,
+      "close": 54.94,
+      "volume": 375000
     }
   ]
 }

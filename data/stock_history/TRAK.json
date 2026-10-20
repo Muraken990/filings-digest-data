@@ -1,26 +1,10 @@
 {
   "code": "TRAK",
   "ticker": "TRAK",
-  "last_updated": "2026-10-19 12:19:14",
+  "last_updated": "2026-10-20 12:19:21",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-18",
-      "open": 5.46,
-      "high": 5.49,
-      "low": 5.46,
-      "close": 5.48,
-      "volume": 3300
-    },
-    {
-      "date": "2021-10-19",
-      "open": 5.48,
-      "high": 5.57,
-      "low": 5.36,
-      "close": 5.49,
-      "volume": 40500
-    },
     {
       "date": "2021-10-20",
       "open": 5.54,
@@ -5530,7 +5514,7 @@
       "open": 17.37,
       "high": 17.41,
       "low": 16.78,
-      "close": 17.01,
+      "close": 17.02,
       "volume": 46500
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 7.06,
       "close": 7.2,
       "volume": 79900
+    },
+    {
+      "date": "2026-10-19",
+      "open": 7.14,
+      "high": 7.34,
+      "low": 7.05,
+      "close": 7.2,
+      "volume": 80400
     }
   ]
 }

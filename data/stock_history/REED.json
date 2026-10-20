@@ -1,26 +1,10 @@
 {
   "code": "REED",
   "ticker": "REED",
-  "last_updated": "2026-10-19 12:04:27",
+  "last_updated": "2026-10-20 12:04:27",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-18",
-      "open": 195.0,
-      "high": 195.0,
-      "low": 183.0,
-      "close": 183.0,
-      "volume": 2037
-    },
-    {
-      "date": "2021-10-19",
-      "open": 186.0,
-      "high": 189.0,
-      "low": 183.0,
-      "close": 189.0,
-      "volume": 1440
-    },
     {
       "date": "2021-10-20",
       "open": 186.0,
@@ -10043,7 +10027,15 @@
       "high": 0.43,
       "low": 0.38,
       "close": 0.39,
-      "volume": 78300
+      "volume": 151700
+    },
+    {
+      "date": "2026-10-19",
+      "open": 0.38,
+      "high": 0.39,
+      "low": 0.33,
+      "close": 0.37,
+      "volume": 39300
     }
   ]
 }

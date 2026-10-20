@@ -1,26 +1,10 @@
 {
   "code": "POET",
   "ticker": "POET",
-  "last_updated": "2026-10-19 12:00:10",
+  "last_updated": "2026-10-20 12:00:09",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-18",
-      "open": 8.0,
-      "high": 8.4,
-      "low": 8.0,
-      "close": 8.2,
-      "volume": 14520
-    },
-    {
-      "date": "2021-10-19",
-      "open": 8.2,
-      "high": 8.3,
-      "low": 8.1,
-      "close": 8.2,
-      "volume": 9220
-    },
     {
       "date": "2021-10-20",
       "open": 8.9,
@@ -10043,7 +10027,15 @@
       "high": 5.98,
       "low": 5.42,
       "close": 5.43,
-      "volume": 12036000
+      "volume": 12086800
+    },
+    {
+      "date": "2026-10-19",
+      "open": 5.73,
+      "high": 5.74,
+      "low": 5.45,
+      "close": 5.52,
+      "volume": 6886000
     }
   ]
 }

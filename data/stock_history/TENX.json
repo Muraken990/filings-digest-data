@@ -1,26 +1,10 @@
 {
   "code": "TENX",
   "ticker": "TENX",
-  "last_updated": "2026-10-19 12:17:27",
+  "last_updated": "2026-10-20 12:17:34",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-18",
-      "open": 2768.0,
-      "high": 2800.0,
-      "low": 2560.0,
-      "close": 2688.0,
-      "volume": 67
-    },
-    {
-      "date": "2021-10-19",
-      "open": 2736.0,
-      "high": 2736.0,
-      "low": 2584.0,
-      "close": 2672.0,
-      "volume": 28
-    },
     {
       "date": "2021-10-20",
       "open": 2640.0,
@@ -10043,7 +10027,15 @@
       "high": 1.52,
       "low": 1.36,
       "close": 1.36,
-      "volume": 1775800
+      "volume": 1859200
+    },
+    {
+      "date": "2026-10-19",
+      "open": 1.41,
+      "high": 1.54,
+      "low": 1.41,
+      "close": 1.52,
+      "volume": 2578800
     }
   ]
 }

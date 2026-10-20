@@ -1,26 +1,10 @@
 {
   "code": "XERS",
   "ticker": "XERS",
-  "last_updated": "2026-10-19 12:28:45",
+  "last_updated": "2026-10-20 12:28:54",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-18",
-      "open": 2.0,
-      "high": 2.0,
-      "low": 1.86,
-      "close": 1.87,
-      "volume": 2422900
-    },
-    {
-      "date": "2021-10-19",
-      "open": 1.86,
-      "high": 1.98,
-      "low": 1.77,
-      "close": 1.95,
-      "volume": 2198700
-    },
     {
       "date": "2021-10-20",
       "open": 1.97,
@@ -10044,6 +10028,14 @@
       "low": 9.84,
       "close": 10.31,
       "volume": 2288700
+    },
+    {
+      "date": "2026-10-19",
+      "open": 10.34,
+      "high": 11.42,
+      "low": 10.34,
+      "close": 10.95,
+      "volume": 4341400
     }
   ]
 }
