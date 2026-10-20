@@ -1,9 +1,9 @@
 {
   "code": "DHCNL",
   "ticker": "DHCNL",
-  "last_updated": "2026-10-19 07:27:51",
+  "last_updated": "2026-10-20 07:27:59",
   "period": "5y",
-  "data_points": 7,
+  "data_points": 8,
   "data": [
     {
       "date": "2026-10-02",
@@ -60,6 +60,14 @@
       "low": 17.97,
       "close": 18.15,
       "volume": 19368
+    },
+    {
+      "date": "2026-10-19",
+      "open": 18.11,
+      "high": 18.11,
+      "low": 17.82,
+      "close": 18.08,
+      "volume": 3331
     }
   ]
 }

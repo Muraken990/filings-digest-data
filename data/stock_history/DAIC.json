@@ -1,9 +1,9 @@
 {
   "code": "DAIC",
   "ticker": "DAIC",
-  "last_updated": "2026-10-19 07:26:11",
+  "last_updated": "2026-10-20 07:26:19",
   "period": "5y",
-  "data_points": 333,
+  "data_points": 334,
   "data": [
     {
       "date": "2025-06-23",
@@ -2667,7 +2667,15 @@
       "high": 1.4,
       "low": 1.16,
       "close": 1.19,
-      "volume": 344400
+      "volume": 354500
+    },
+    {
+      "date": "2026-10-19",
+      "open": 1.15,
+      "high": 1.15,
+      "low": 0.84,
+      "close": 1.05,
+      "volume": 1762500
     }
   ]
 }

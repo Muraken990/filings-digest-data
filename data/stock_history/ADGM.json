@@ -1,9 +1,9 @@
 {
   "code": "ADGM",
   "ticker": "ADGM",
-  "last_updated": "2026-10-19 07:01:02",
+  "last_updated": "2026-10-20 07:01:02",
   "period": "5y",
-  "data_points": 555,
+  "data_points": 556,
   "data": [
     {
       "date": "2024-08-01",
@@ -4443,7 +4443,15 @@
       "high": 0.11,
       "low": 0.09,
       "close": 0.1,
-      "volume": 587600
+      "volume": 626100
+    },
+    {
+      "date": "2026-10-19",
+      "open": 0.1,
+      "high": 0.12,
+      "low": 0.1,
+      "close": 0.12,
+      "volume": 3235500
     }
   ]
 }

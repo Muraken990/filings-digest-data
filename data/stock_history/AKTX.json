@@ -1,26 +1,10 @@
 {
   "code": "AKTX",
   "ticker": "AKTX",
-  "last_updated": "2026-10-19 07:03:36",
+  "last_updated": "2026-10-20 07:03:39",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-18",
-      "open": 1320.0,
-      "high": 1400.0,
-      "low": 1288.8,
-      "close": 1342.4,
-      "volume": 47
-    },
-    {
-      "date": "2021-10-19",
-      "open": 1320.0,
-      "high": 1360.0,
-      "low": 1320.0,
-      "close": 1358.4,
-      "volume": 44
-    },
     {
       "date": "2021-10-20",
       "open": 1376.0,
@@ -10044,6 +10028,14 @@
       "low": 8.02,
       "close": 8.18,
       "volume": 21700
+    },
+    {
+      "date": "2026-10-19",
+      "open": 9.01,
+      "high": 10.0,
+      "low": 8.52,
+      "close": 9.89,
+      "volume": 79000
     }
   ]
 }
