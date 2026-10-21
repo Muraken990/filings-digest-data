@@ -1,9 +1,9 @@
 {
   "code": "IHD",
   "ticker": "IHD",
-  "last_updated": "2026-10-20 09:40:32",
+  "last_updated": "2026-10-21 09:40:31",
   "period": "5y",
-  "data_points": 12,
+  "data_points": 13,
   "data": [
     {
       "date": "2022-04-01",
@@ -39,6 +39,14 @@
     },
     {
       "date": "2023-04-03",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
+    },
+    {
+      "date": "2023-07-03",
       "open": null,
       "high": null,
       "low": null,

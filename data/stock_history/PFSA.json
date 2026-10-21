@@ -1,9 +1,9 @@
 {
   "code": "PFSA",
   "ticker": "PFSA",
-  "last_updated": "2026-10-20 10:07:31",
+  "last_updated": "2026-10-21 10:07:35",
   "period": "5y",
-  "data_points": 321,
+  "data_points": 322,
   "data": [
     {
       "date": "2025-07-11",
@@ -2572,6 +2572,14 @@
       "low": 0.88,
       "close": 0.9,
       "volume": 111700
+    },
+    {
+      "date": "2026-10-20",
+      "open": 0.89,
+      "high": 0.9,
+      "low": 0.82,
+      "close": 0.88,
+      "volume": 142400
     }
   ]
 }

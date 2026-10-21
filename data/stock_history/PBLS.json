@@ -1,9 +1,9 @@
 {
   "code": "PBLS",
   "ticker": "PBLS",
-  "last_updated": "2026-10-20 10:05:49",
+  "last_updated": "2026-10-21 10:05:53",
   "period": "5y",
-  "data_points": 91,
+  "data_points": 92,
   "data": [
     {
       "date": "2026-06-10",
@@ -732,6 +732,14 @@
       "low": 22.98,
       "close": 25.35,
       "volume": 2142600
+    },
+    {
+      "date": "2026-10-20",
+      "open": 25.4,
+      "high": 27.93,
+      "low": 24.44,
+      "close": 27.08,
+      "volume": 1495400
     }
   ]
 }

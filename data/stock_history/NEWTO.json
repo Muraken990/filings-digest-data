@@ -1,9 +1,9 @@
 {
   "code": "NEWTO",
   "ticker": "NEWTO",
-  "last_updated": "2026-10-20 09:58:00",
+  "last_updated": "2026-10-21 09:58:02",
   "period": "5y",
-  "data_points": 177,
+  "data_points": 178,
   "data": [
     {
       "date": "2026-02-05",
@@ -1420,6 +1420,14 @@
       "low": 25.2,
       "close": 25.2,
       "volume": 200
+    },
+    {
+      "date": "2026-10-20",
+      "open": 25.14,
+      "high": 25.7,
+      "low": 25.14,
+      "close": 25.7,
+      "volume": 2000
     }
   ]
 }

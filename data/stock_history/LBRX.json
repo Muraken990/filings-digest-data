@@ -1,9 +1,9 @@
 {
   "code": "LBRX",
   "ticker": "LBRX",
-  "last_updated": "2026-10-20 09:47:29",
+  "last_updated": "2026-10-21 09:47:32",
   "period": "5y",
-  "data_points": 278,
+  "data_points": 279,
   "data": [
     {
       "date": "2025-09-11",
@@ -2228,6 +2228,14 @@
       "low": 36.03,
       "close": 38.81,
       "volume": 588500
+    },
+    {
+      "date": "2026-10-20",
+      "open": 38.88,
+      "high": 41.42,
+      "low": 38.24,
+      "close": 41.0,
+      "volume": 388400
     }
   ]
 }
