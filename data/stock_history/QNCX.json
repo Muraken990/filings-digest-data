@@ -1,9 +1,9 @@
 {
   "code": "QNCX",
   "ticker": "QNCX",
-  "last_updated": "2026-10-20 12:02:44",
+  "last_updated": "2026-10-21 12:02:46",
   "period": "5y",
-  "data_points": 66,
+  "data_points": 67,
   "data": [
     {
       "date": "2026-07-17",
@@ -532,6 +532,14 @@
       "low": 31.01,
       "close": 34.45,
       "volume": 41600
+    },
+    {
+      "date": "2026-10-20",
+      "open": 34.99,
+      "high": 41.0,
+      "low": 34.79,
+      "close": 40.27,
+      "volume": 317100
     }
   ]
 }

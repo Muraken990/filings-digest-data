@@ -1,9 +1,9 @@
 {
   "code": "PLYX",
   "ticker": "PLYX",
-  "last_updated": "2026-10-20 12:00:05",
+  "last_updated": "2026-10-21 12:00:06",
   "period": "5y",
-  "data_points": 180,
+  "data_points": 181,
   "data": [
     {
       "date": "2026-02-02",
@@ -1444,6 +1444,14 @@
       "low": 1.84,
       "close": 1.92,
       "volume": 29300
+    },
+    {
+      "date": "2026-10-20",
+      "open": 1.87,
+      "high": 1.93,
+      "low": 1.83,
+      "close": 1.91,
+      "volume": 8100
     }
   ]
 }

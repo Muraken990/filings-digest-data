@@ -1,17 +1,17 @@
 {
   "code": "RILYL",
   "ticker": "RILYL",
-  "last_updated": "2026-10-20 12:05:20",
+  "last_updated": "2026-10-21 12:05:22",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-20",
-      "open": 21.27,
-      "high": 21.27,
-      "low": 21.09,
-      "close": 21.1,
-      "volume": 2000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-21",
@@ -10036,6 +10036,14 @@
       "low": 8.36,
       "close": 8.36,
       "volume": 8800
+    },
+    {
+      "date": "2026-10-20",
+      "open": 8.46,
+      "high": 8.46,
+      "low": 8.11,
+      "close": 8.35,
+      "volume": 6500
     }
   ]
 }

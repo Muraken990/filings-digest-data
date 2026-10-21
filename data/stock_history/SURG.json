@@ -1,18 +1,10 @@
 {
   "code": "SURG",
   "ticker": "SURG",
-  "last_updated": "2026-10-20 12:15:47",
+  "last_updated": "2026-10-21 12:15:45",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-20",
-      "open": 5.55,
-      "high": 5.85,
-      "low": 5.35,
-      "close": 5.8,
-      "volume": 3112
-    },
     {
       "date": "2021-10-21",
       "open": 5.8,
@@ -10035,7 +10027,15 @@
       "high": 0.12,
       "low": 0.12,
       "close": 0.12,
-      "volume": 1248400
+      "volume": 1266500
+    },
+    {
+      "date": "2026-10-20",
+      "open": 0.12,
+      "high": 0.12,
+      "low": 0.11,
+      "close": 0.12,
+      "volume": 1253700
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "TCBIO",
   "ticker": "TCBIO",
-  "last_updated": "2026-10-20 12:16:43",
+  "last_updated": "2026-10-21 12:16:41",
   "period": "5y",
-  "data_points": 66,
+  "data_points": 67,
   "data": [
     {
       "date": "2026-07-17",
@@ -532,6 +532,14 @@
       "low": 17.42,
       "close": 17.42,
       "volume": 493
+    },
+    {
+      "date": "2026-10-20",
+      "open": 17.45,
+      "high": 17.65,
+      "low": 17.28,
+      "close": 17.35,
+      "volume": 12989
     }
   ]
 }
