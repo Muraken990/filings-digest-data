@@ -1,9 +1,9 @@
 {
   "code": "BPRE",
   "ticker": "BPRE",
-  "last_updated": "2026-10-20 07:14:57",
+  "last_updated": "2026-10-21 07:14:56",
   "period": "5y",
-  "data_points": 211,
+  "data_points": 212,
   "data": [
     {
       "date": "2025-12-16",
@@ -1692,6 +1692,14 @@
       "low": 12.23,
       "close": 12.25,
       "volume": 667300
+    },
+    {
+      "date": "2026-10-20",
+      "open": 12.25,
+      "high": 12.52,
+      "low": 12.25,
+      "close": 12.4,
+      "volume": 1123300
     }
   ]
 }

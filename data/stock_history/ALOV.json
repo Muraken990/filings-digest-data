@@ -1,9 +1,9 @@
 {
   "code": "ALOV",
   "ticker": "ALOV",
-  "last_updated": "2026-10-20 07:04:29",
+  "last_updated": "2026-10-21 07:04:28",
   "period": "5y",
-  "data_points": 151,
+  "data_points": 152,
   "data": [
     {
       "date": "2026-03-16",
@@ -1212,6 +1212,14 @@
       "low": 9.99,
       "close": 10.01,
       "volume": 3900
+    },
+    {
+      "date": "2026-10-20",
+      "open": 10.0,
+      "high": 10.01,
+      "low": 10.0,
+      "close": 10.0,
+      "volume": 117000
     }
   ]
 }

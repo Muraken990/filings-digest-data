@@ -1,18 +1,10 @@
 {
   "code": "ABTS",
   "ticker": "ABTS",
-  "last_updated": "2026-10-20 07:00:08",
+  "last_updated": "2026-10-21 07:00:08",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-20",
-      "open": 6.7,
-      "high": 6.89,
-      "low": 6.5,
-      "close": 6.62,
-      "volume": 346400
-    },
     {
       "date": "2021-10-21",
       "open": 6.63,
@@ -10036,6 +10028,14 @@
       "low": 1.16,
       "close": 1.17,
       "volume": 6500
+    },
+    {
+      "date": "2026-10-20",
+      "open": 1.2,
+      "high": 1.2,
+      "low": 1.15,
+      "close": 1.16,
+      "volume": 11900
     }
   ]
 }
