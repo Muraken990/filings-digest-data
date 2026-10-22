@@ -1,18 +1,10 @@
 {
   "code": "FCAP",
   "ticker": "FCAP",
-  "last_updated": "2026-10-21 07:35:51",
+  "last_updated": "2026-10-22 07:35:43",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 35.01,
-      "high": 35.01,
-      "low": 35.01,
-      "close": 35.01,
-      "volume": 200
-    },
     {
       "date": "2021-10-22",
       "open": 35.07,
@@ -4063,7 +4055,7 @@
     },
     {
       "date": "2023-10-27",
-      "open": 21.93,
+      "open": 21.94,
       "high": 22.23,
       "low": 20.98,
       "close": 21.85,
@@ -10036,6 +10028,14 @@
       "low": 60.15,
       "close": 61.22,
       "volume": 12800
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 18081
     }
   ]
 }

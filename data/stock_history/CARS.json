@@ -1,18 +1,10 @@
 {
   "code": "CARS",
   "ticker": "CARS",
-  "last_updated": "2026-10-21 07:17:33",
+  "last_updated": "2026-10-22 07:17:29",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 12.53,
-      "high": 12.78,
-      "low": 12.45,
-      "close": 12.71,
-      "volume": 494100
-    },
     {
       "date": "2021-10-22",
       "open": 12.71,
@@ -10036,6 +10028,14 @@
       "low": 10.29,
       "close": 10.54,
       "volume": 537700
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 660162
     }
   ]
 }

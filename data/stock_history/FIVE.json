@@ -1,18 +1,10 @@
 {
   "code": "FIVE",
   "ticker": "FIVE",
-  "last_updated": "2026-10-21 07:36:47",
+  "last_updated": "2026-10-22 07:36:40",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 187.74,
-      "high": 192.77,
-      "low": 187.0,
-      "close": 192.35,
-      "volume": 353600
-    },
     {
       "date": "2021-10-22",
       "open": 192.77,
@@ -10036,6 +10028,14 @@
       "low": 222.52,
       "close": 223.8,
       "volume": 599100
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 521828
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "CMPS",
   "ticker": "CMPS",
-  "last_updated": "2026-10-21 07:21:55",
+  "last_updated": "2026-10-22 07:21:51",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 34.25,
-      "high": 36.01,
-      "low": 34.0,
-      "close": 35.31,
-      "volume": 634300
-    },
     {
       "date": "2021-10-22",
       "open": 35.5,
@@ -10035,7 +10027,15 @@
       "high": 12.04,
       "low": 11.06,
       "close": 11.9,
-      "volume": 3331800
+      "volume": 3351200
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1826765
     }
   ]
 }

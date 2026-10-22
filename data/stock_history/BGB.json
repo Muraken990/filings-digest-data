@@ -1,17 +1,17 @@
 {
   "code": "BGB",
   "ticker": "BGB",
-  "last_updated": "2026-10-21 07:12:19",
+  "last_updated": "2026-10-22 07:12:16",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-21",
-      "open": 9.11,
-      "high": 9.11,
-      "low": 9.07,
-      "close": 9.1,
-      "volume": 95000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-22",
@@ -1081,7 +1081,7 @@
       "date": "2022-05-04",
       "open": 8.27,
       "high": 8.35,
-      "low": 8.23,
+      "low": 8.22,
       "close": 8.31,
       "volume": 69900
     },
@@ -1615,7 +1615,7 @@
     },
     {
       "date": "2022-08-10",
-      "open": 8.17,
+      "open": 8.16,
       "high": 8.23,
       "low": 8.14,
       "close": 8.21,
@@ -10036,6 +10036,14 @@
       "low": 11.0,
       "close": 11.05,
       "volume": 262500
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 103574
     }
   ]
 }

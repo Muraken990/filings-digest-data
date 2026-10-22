@@ -1,18 +1,10 @@
 {
   "code": "CIEN",
   "ticker": "CIEN",
-  "last_updated": "2026-10-21 07:20:58",
+  "last_updated": "2026-10-22 07:20:55",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 52.81,
-      "high": 53.46,
-      "low": 52.71,
-      "close": 53.46,
-      "volume": 584600
-    },
     {
       "date": "2021-10-22",
       "open": 53.33,
@@ -10035,7 +10027,15 @@
       "high": 350.35,
       "low": 328.88,
       "close": 341.95,
-      "volume": 1935300
+      "volume": 1946500
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 3003968
     }
   ]
 }

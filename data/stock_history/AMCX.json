@@ -1,18 +1,10 @@
 {
   "code": "AMCX",
   "ticker": "AMCX",
-  "last_updated": "2026-10-21 07:05:17",
+  "last_updated": "2026-10-22 07:05:17",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 45.93,
-      "high": 46.99,
-      "low": 44.43,
-      "close": 44.5,
-      "volume": 260300
-    },
     {
       "date": "2021-10-22",
       "open": 44.37,
@@ -10036,6 +10028,14 @@
       "low": 9.99,
       "close": 10.05,
       "volume": 736100
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 526802
     }
   ]
 }

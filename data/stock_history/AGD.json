@@ -1,17 +1,17 @@
 {
   "code": "AGD",
   "ticker": "AGD",
-  "last_updated": "2026-10-21 07:02:41",
+  "last_updated": "2026-10-22 07:02:41",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-21",
-      "open": 7.4,
-      "high": 7.47,
-      "low": 7.36,
-      "close": 7.36,
-      "volume": 20600
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-22",
@@ -8505,8 +8505,8 @@
       "date": "2026-01-15",
       "open": 11.39,
       "high": 11.49,
-      "low": 11.21,
-      "close": 11.21,
+      "low": 11.22,
+      "close": 11.22,
       "volume": 172300
     },
     {
@@ -10036,6 +10036,14 @@
       "low": 11.02,
       "close": 11.22,
       "volume": 102000
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 118699
     }
   ]
 }

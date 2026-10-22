@@ -1,17 +1,17 @@
 {
   "code": "BGX",
   "ticker": "BGX",
-  "last_updated": "2026-10-21 07:12:21",
+  "last_updated": "2026-10-22 07:12:19",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-21",
-      "open": 9.59,
-      "high": 9.64,
-      "low": 9.59,
-      "close": 9.62,
-      "volume": 45100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-22",
@@ -10036,6 +10036,14 @@
       "low": 10.37,
       "close": 10.38,
       "volume": 180900
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 227822
     }
   ]
 }

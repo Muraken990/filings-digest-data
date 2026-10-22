@@ -1,18 +1,10 @@
 {
   "code": "FCFS",
   "ticker": "FCFS",
-  "last_updated": "2026-10-21 07:35:51",
+  "last_updated": "2026-10-22 07:35:44",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 84.78,
-      "high": 85.01,
-      "low": 83.15,
-      "close": 85.01,
-      "volume": 150500
-    },
     {
       "date": "2021-10-22",
       "open": 85.12,
@@ -688,7 +680,7 @@
     {
       "date": "2022-02-23",
       "open": 71.91,
-      "high": 72.43,
+      "high": 72.44,
       "low": 69.61,
       "close": 69.68,
       "volume": 257100
@@ -10036,6 +10028,14 @@
       "low": 212.36,
       "close": 214.78,
       "volume": 196600
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 317880
     }
   ]
 }

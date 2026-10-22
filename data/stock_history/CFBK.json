@@ -1,17 +1,17 @@
 {
   "code": "CFBK",
   "ticker": "CFBK",
-  "last_updated": "2026-10-21 07:19:19",
+  "last_updated": "2026-10-22 07:19:15",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-21",
-      "open": 18.92,
-      "high": 18.92,
-      "low": 18.67,
-      "close": 18.71,
-      "volume": 1400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-22",
@@ -6471,7 +6471,7 @@
     },
     {
       "date": "2025-01-10",
-      "open": 22.13,
+      "open": 22.14,
       "high": 22.26,
       "low": 21.12,
       "close": 21.13,
@@ -8095,7 +8095,7 @@
     },
     {
       "date": "2025-10-31",
-      "open": 23.08,
+      "open": 23.09,
       "high": 23.12,
       "low": 22.88,
       "close": 22.93,
@@ -10036,6 +10036,14 @@
       "low": 33.43,
       "close": 33.53,
       "volume": 32600
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 25276
     }
   ]
 }

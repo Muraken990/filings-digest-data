@@ -1,18 +1,10 @@
 {
   "code": "BABA",
   "ticker": "BABA",
-  "last_updated": "2026-10-21 07:10:32",
+  "last_updated": "2026-10-22 07:10:30",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 166.57,
-      "high": 169.18,
-      "low": 166.29,
-      "close": 166.96,
-      "volume": 16444000
-    },
     {
       "date": "2021-10-22",
       "open": 168.52,
@@ -10035,7 +10027,15 @@
       "high": 109.24,
       "low": 106.69,
       "close": 108.61,
-      "volume": 6698600
+      "volume": 6714000
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 11802071
     }
   ]
 }

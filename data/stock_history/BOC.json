@@ -1,18 +1,10 @@
 {
   "code": "BOC",
   "ticker": "BOC",
-  "last_updated": "2026-10-21 07:14:53",
+  "last_updated": "2026-10-22 07:14:50",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 36.09,
-      "high": 36.31,
-      "low": 35.56,
-      "close": 36.08,
-      "volume": 52000
-    },
     {
       "date": "2021-10-22",
       "open": 36.1,
@@ -10036,6 +10028,14 @@
       "low": 12.45,
       "close": 12.59,
       "volume": 86000
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 121994
     }
   ]
 }
