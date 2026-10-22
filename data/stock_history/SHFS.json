@@ -1,18 +1,10 @@
 {
   "code": "SHFS",
   "ticker": "SHFS",
-  "last_updated": "2026-10-21 12:10:32",
+  "last_updated": "2026-10-22 12:10:29",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 2402.4,
-      "high": 2402.4,
-      "low": 2402.4,
-      "close": 2402.4,
-      "volume": 0
-    },
     {
       "date": "2021-10-22",
       "open": 2402.4,
@@ -10035,7 +10027,15 @@
       "high": 0.09,
       "low": 0.07,
       "close": 0.09,
-      "volume": 194619600
+      "volume": 211379800
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 512040111
     }
   ]
 }

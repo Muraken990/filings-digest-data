@@ -1,18 +1,10 @@
 {
   "code": "RBC",
   "ticker": "RBC",
-  "last_updated": "2026-10-21 12:03:38",
+  "last_updated": "2026-10-22 12:03:36",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 239.09,
-      "high": 239.09,
-      "low": 225.16,
-      "close": 227.93,
-      "volume": 219500
-    },
     {
       "date": "2021-10-22",
       "open": 228.02,
@@ -10036,6 +10028,14 @@
       "low": 492.02,
       "close": 495.39,
       "volume": 212300
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 253791
     }
   ]
 }

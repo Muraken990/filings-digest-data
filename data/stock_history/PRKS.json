@@ -1,18 +1,10 @@
 {
   "code": "PRKS",
   "ticker": "PRKS",
-  "last_updated": "2026-10-21 12:01:02",
+  "last_updated": "2026-10-22 12:01:00",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 60.28,
-      "high": 62.28,
-      "low": 60.18,
-      "close": 62.24,
-      "volume": 569300
-    },
     {
       "date": "2021-10-22",
       "open": 62.87,
@@ -10036,6 +10028,14 @@
       "low": 31.28,
       "close": 31.76,
       "volume": 1064500
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1021359
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "SNDL",
   "ticker": "SNDL",
-  "last_updated": "2026-10-21 12:12:19",
+  "last_updated": "2026-10-22 12:12:16",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 6.72,
-      "high": 7.57,
-      "low": 6.7,
-      "close": 6.99,
-      "volume": 32261140
-    },
     {
       "date": "2021-10-22",
       "open": 6.85,
@@ -10035,7 +10027,15 @@
       "high": 1.29,
       "low": 1.25,
       "close": 1.28,
-      "volume": 950100
+      "volume": 960300
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1083549
     }
   ]
 }

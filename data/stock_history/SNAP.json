@@ -1,18 +1,10 @@
 {
   "code": "SNAP",
   "ticker": "SNAP",
-  "last_updated": "2026-10-21 12:12:18",
+  "last_updated": "2026-10-22 12:12:15",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 74.81,
-      "high": 75.95,
-      "low": 73.89,
-      "close": 75.11,
-      "volume": 44450900
-    },
     {
       "date": "2021-10-22",
       "open": 58.75,
@@ -10035,7 +10027,15 @@
       "high": 6.51,
       "low": 6.19,
       "close": 6.38,
-      "volume": 47688200
+      "volume": 47779600
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 36706255
     }
   ]
 }

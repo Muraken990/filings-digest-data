@@ -1,18 +1,10 @@
 {
   "code": "PLSE",
   "ticker": "PLSE",
-  "last_updated": "2026-10-21 12:00:05",
+  "last_updated": "2026-10-22 12:00:04",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 21.88,
-      "high": 22.96,
-      "low": 21.86,
-      "close": 22.35,
-      "volume": 24800
-    },
     {
       "date": "2021-10-22",
       "open": 22.35,
@@ -10036,6 +10028,14 @@
       "low": 47.25,
       "close": 50.84,
       "volume": 385900
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 315591
     }
   ]
 }

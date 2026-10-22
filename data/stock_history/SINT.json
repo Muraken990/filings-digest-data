@@ -1,18 +1,10 @@
 {
   "code": "SINT",
   "ticker": "SINT",
-  "last_updated": "2026-10-21 12:10:36",
+  "last_updated": "2026-10-22 12:10:34",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 25600.0,
-      "high": 26000.0,
-      "low": 25200.0,
-      "close": 25200.0,
-      "volume": 4
-    },
     {
       "date": "2021-10-22",
       "open": 25400.0,
@@ -10036,6 +10028,14 @@
       "low": 1.67,
       "close": 1.72,
       "volume": 3500
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 20130
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "RAND",
   "ticker": "RAND",
-  "last_updated": "2026-10-21 12:03:37",
+  "last_updated": "2026-10-22 12:03:34",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 8.65,
-      "high": 8.65,
-      "low": 8.65,
-      "close": 8.65,
-      "volume": 0
-    },
     {
       "date": "2021-10-22",
       "open": 8.58,
@@ -10036,6 +10028,14 @@
       "low": 9.59,
       "close": 9.59,
       "volume": 0
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1636
     }
   ]
 }

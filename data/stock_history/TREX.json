@@ -1,18 +1,10 @@
 {
   "code": "TREX",
   "ticker": "TREX",
-  "last_updated": "2026-10-21 12:20:05",
+  "last_updated": "2026-10-22 12:20:01",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 96.28,
-      "high": 97.5,
-      "low": 95.19,
-      "close": 95.75,
-      "volume": 565100
-    },
     {
       "date": "2021-10-22",
       "open": 95.92,
@@ -10036,6 +10028,14 @@
       "low": 46.99,
       "close": 48.79,
       "volume": 3751600
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1891559
     }
   ]
 }
