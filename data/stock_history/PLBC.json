@@ -1,18 +1,10 @@
 {
   "code": "PLBC",
   "ticker": "PLBC",
-  "last_updated": "2026-10-21 10:08:27",
+  "last_updated": "2026-10-22 10:08:21",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 33.12,
-      "high": 33.26,
-      "low": 32.44,
-      "close": 32.98,
-      "volume": 5600
-    },
     {
       "date": "2021-10-22",
       "open": 32.71,
@@ -4873,8 +4865,8 @@
       "date": "2024-03-25",
       "open": 33.79,
       "high": 33.79,
-      "low": 33.13,
-      "close": 33.13,
+      "low": 33.12,
+      "close": 33.12,
       "volume": 3000
     },
     {
@@ -5623,7 +5615,7 @@
     },
     {
       "date": "2024-08-08",
-      "open": 35.69,
+      "open": 35.68,
       "high": 36.06,
       "low": 33.92,
       "close": 35.7,
@@ -10036,6 +10028,14 @@
       "low": 61.68,
       "close": 62.53,
       "volume": 46900
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 72416
     }
   ]
 }

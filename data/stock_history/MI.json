@@ -1,18 +1,10 @@
 {
   "code": "MI",
   "ticker": "MI",
-  "last_updated": "2026-10-21 09:53:37",
+  "last_updated": "2026-10-22 09:53:35",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 350.5,
-      "high": 358.0,
-      "low": 345.0,
-      "close": 347.0,
-      "volume": 21038
-    },
     {
       "date": "2021-10-22",
       "open": 353.5,
@@ -10036,6 +10028,14 @@
       "low": 0.52,
       "close": 0.54,
       "volume": 447100
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1005147
     }
   ]
 }

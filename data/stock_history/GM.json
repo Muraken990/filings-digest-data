@@ -1,18 +1,10 @@
 {
   "code": "GM",
   "ticker": "GM",
-  "last_updated": "2026-10-21 09:33:33",
+  "last_updated": "2026-10-22 09:33:33",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 55.59,
-      "high": 56.23,
-      "low": 55.33,
-      "close": 55.99,
-      "volume": 11585400
-    },
     {
       "date": "2021-10-22",
       "open": 55.95,
@@ -10035,7 +10027,15 @@
       "high": 78.97,
       "low": 75.08,
       "close": 77.09,
-      "volume": 24660700
+      "volume": 24697400
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 9012103
     }
   ]
 }

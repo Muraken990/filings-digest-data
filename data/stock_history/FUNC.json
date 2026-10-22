@@ -1,18 +1,10 @@
 {
   "code": "FUNC",
   "ticker": "FUNC",
-  "last_updated": "2026-10-21 09:30:09",
+  "last_updated": "2026-10-22 09:30:10",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 15.55,
-      "high": 15.76,
-      "low": 15.36,
-      "close": 15.4,
-      "volume": 2400
-    },
     {
       "date": "2021-10-22",
       "open": 15.48,
@@ -7615,8 +7607,8 @@
     },
     {
       "date": "2025-08-07",
-      "open": 31.45,
-      "high": 31.45,
+      "open": 31.44,
+      "high": 31.44,
       "low": 30.67,
       "close": 30.97,
       "volume": 12300
@@ -10036,6 +10028,14 @@
       "low": 41.3,
       "close": 41.85,
       "volume": 44900
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 37020
     }
   ]
 }

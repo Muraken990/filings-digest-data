@@ -1,9 +1,9 @@
 {
   "code": "NXDR",
   "ticker": "NXDR",
-  "last_updated": "2026-10-21 10:01:32",
+  "last_updated": "2026-10-22 10:01:28",
   "period": "5y",
-  "data_points": 3,
+  "data_points": 4,
   "data": [
     {
       "date": "2026-10-16",
@@ -28,6 +28,14 @@
       "low": 2.5,
       "close": 2.56,
       "volume": 2383800
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 1879065
     }
   ]
 }

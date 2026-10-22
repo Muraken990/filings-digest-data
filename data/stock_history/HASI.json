@@ -1,18 +1,10 @@
 {
   "code": "HASI",
   "ticker": "HASI",
-  "last_updated": "2026-10-21 09:35:24",
+  "last_updated": "2026-10-22 09:35:24",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 45.48,
-      "high": 46.5,
-      "low": 45.21,
-      "close": 46.14,
-      "volume": 337500
-    },
     {
       "date": "2021-10-22",
       "open": 46.09,
@@ -850,7 +842,7 @@
       "open": 35.67,
       "high": 35.97,
       "low": 35.37,
-      "close": 35.61,
+      "close": 35.6,
       "volume": 461000
     },
     {
@@ -2416,7 +2408,7 @@
     {
       "date": "2023-01-03",
       "open": 23.87,
-      "high": 24.2,
+      "high": 24.21,
       "low": 22.81,
       "close": 23.0,
       "volume": 819900
@@ -10036,6 +10028,14 @@
       "low": 35.51,
       "close": 35.67,
       "volume": 1147300
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 782576
     }
   ]
 }

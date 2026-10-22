@@ -1,18 +1,10 @@
 {
   "code": "FTDR",
   "ticker": "FTDR",
-  "last_updated": "2026-10-21 09:30:06",
+  "last_updated": "2026-10-22 09:30:06",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 42.7,
-      "high": 43.51,
-      "low": 41.88,
-      "close": 43.31,
-      "volume": 310000
-    },
     {
       "date": "2021-10-22",
       "open": 43.2,
@@ -10036,6 +10028,14 @@
       "low": 80.0,
       "close": 80.48,
       "volume": 691100
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 567681
     }
   ]
 }

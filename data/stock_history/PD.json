@@ -1,18 +1,10 @@
 {
   "code": "PD",
   "ticker": "PD",
-  "last_updated": "2026-10-21 10:06:43",
+  "last_updated": "2026-10-22 10:06:36",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": 42.21,
-      "high": 43.17,
-      "low": 42.03,
-      "close": 42.65,
-      "volume": 599600
-    },
     {
       "date": "2021-10-22",
       "open": 42.36,
@@ -10036,6 +10028,14 @@
       "low": 16.61,
       "close": 16.93,
       "volume": 1270200
+    },
+    {
+      "date": "2026-10-21",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 2002845
     }
   ]
 }
