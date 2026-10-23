@@ -1,9 +1,9 @@
 {
   "code": "FIGR",
   "ticker": "FIGR",
-  "last_updated": "2026-10-22 07:36:38",
+  "last_updated": "2026-10-23 07:36:47",
   "period": "5y",
-  "data_points": 280,
+  "data_points": 281,
   "data": [
     {
       "date": "2025-09-11",
@@ -2239,11 +2239,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4385099
+      "open": 26.27,
+      "high": 26.74,
+      "low": 25.33,
+      "close": 25.36,
+      "volume": 4403700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 24.56,
+      "high": 25.32,
+      "low": 23.87,
+      "close": 24.04,
+      "volume": 4580400
     }
   ]
 }

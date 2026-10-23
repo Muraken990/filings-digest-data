@@ -1,9 +1,9 @@
 {
   "code": "FBLG",
   "ticker": "FBLG",
-  "last_updated": "2026-10-22 07:34:57",
+  "last_updated": "2026-10-23 07:35:06",
   "period": "5y",
-  "data_points": 684,
+  "data_points": 685,
   "data": [
     {
       "date": "2024-01-31",
@@ -5471,11 +5471,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 127364
+      "open": 0.9,
+      "high": 1.0,
+      "low": 0.9,
+      "close": 0.99,
+      "volume": 127500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.97,
+      "high": 1.24,
+      "low": 0.97,
+      "close": 1.02,
+      "volume": 398500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CAI",
   "ticker": "CAI",
-  "last_updated": "2026-10-22 07:17:26",
+  "last_updated": "2026-10-23 07:17:29",
   "period": "5y",
-  "data_points": 338,
+  "data_points": 339,
   "data": [
     {
       "date": "2025-06-18",
@@ -2703,11 +2703,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2231900
+      "open": 31.11,
+      "high": 32.75,
+      "low": 30.92,
+      "close": 32.35,
+      "volume": 2232100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 32.0,
+      "high": 32.61,
+      "low": 30.33,
+      "close": 31.71,
+      "volume": 2422800
     }
   ]
 }

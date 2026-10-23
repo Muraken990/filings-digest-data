@@ -1,26 +1,10 @@
 {
   "code": "FFC",
   "ticker": "FFC",
-  "last_updated": "2026-10-22 07:35:50",
+  "last_updated": "2026-10-23 07:35:59",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-10-22",
-      "open": 15.47,
-      "high": 15.49,
-      "low": 15.46,
-      "close": 15.49,
-      "volume": 55100
-    },
     {
       "date": "2021-10-25",
       "open": 15.49,
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 180788
+      "open": 14.55,
+      "high": 14.58,
+      "low": 14.45,
+      "close": 14.54,
+      "volume": 180800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 14.54,
+      "high": 14.6,
+      "low": 14.43,
+      "close": 14.48,
+      "volume": 122000
     }
   ]
 }

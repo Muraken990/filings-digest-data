@@ -1,9 +1,9 @@
 {
   "code": "BRBI",
   "ticker": "BRBI",
-  "last_updated": "2026-10-22 07:14:54",
+  "last_updated": "2026-10-23 07:14:56",
   "period": "5y",
-  "data_points": 274,
+  "data_points": 275,
   "data": [
     {
       "date": "2025-09-19",
@@ -2191,11 +2191,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2324
+      "open": 15.01,
+      "high": 15.01,
+      "low": 14.87,
+      "close": 14.87,
+      "volume": 2300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 14.87,
+      "high": 14.87,
+      "low": 14.4,
+      "close": 14.4,
+      "volume": 300
     }
   ]
 }

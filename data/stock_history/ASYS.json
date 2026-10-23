@@ -1,18 +1,10 @@
 {
   "code": "ASYS",
   "ticker": "ASYS",
-  "last_updated": "2026-10-22 07:07:59",
+  "last_updated": "2026-10-23 07:08:00",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 12.01,
-      "high": 12.17,
-      "low": 11.63,
-      "close": 11.74,
-      "volume": 28000
-    },
     {
       "date": "2021-10-25",
       "open": 11.83,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 386565
+      "open": 13.89,
+      "high": 14.13,
+      "low": 13.73,
+      "close": 13.89,
+      "volume": 386600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 13.09,
+      "high": 13.29,
+      "low": 12.26,
+      "close": 12.34,
+      "volume": 317100
     }
   ]
 }

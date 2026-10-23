@@ -1,18 +1,10 @@
 {
   "code": "APWC",
   "ticker": "APWC",
-  "last_updated": "2026-10-22 07:07:01",
+  "last_updated": "2026-10-23 07:07:02",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 3.02,
-      "high": 3.17,
-      "low": 2.99,
-      "close": 2.99,
-      "volume": 7300
-    },
     {
       "date": "2021-10-25",
       "open": 2.99,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 923
+      "open": 1.27,
+      "high": 1.27,
+      "low": 1.26,
+      "close": 1.26,
+      "volume": 900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.25,
+      "high": 1.25,
+      "low": 1.25,
+      "close": 1.25,
+      "volume": 600
     }
   ]
 }

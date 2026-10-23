@@ -1,18 +1,10 @@
 {
   "code": "CIK",
   "ticker": "CIK",
-  "last_updated": "2026-10-22 07:20:55",
+  "last_updated": "2026-10-23 07:20:58",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 2.12,
-      "high": 2.13,
-      "low": 2.12,
-      "close": 2.13,
-      "volume": 429200
-    },
     {
       "date": "2021-10-25",
       "open": 2.13,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 275829
+      "open": 2.31,
+      "high": 2.31,
+      "low": 2.29,
+      "close": 2.31,
+      "volume": 275800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.32,
+      "high": 2.32,
+      "low": 2.29,
+      "close": 2.3,
+      "volume": 264000
     }
   ]
 }

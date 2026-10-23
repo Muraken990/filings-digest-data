@@ -1,18 +1,10 @@
 {
   "code": "DOLE",
   "ticker": "DOLE",
-  "last_updated": "2026-10-22 07:28:47",
+  "last_updated": "2026-10-23 07:28:49",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 13.68,
-      "high": 13.73,
-      "low": 13.52,
-      "close": 13.55,
-      "volume": 268600
-    },
     {
       "date": "2021-10-25",
       "open": 13.57,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1511615
+      "open": 13.16,
+      "high": 13.19,
+      "low": 13.06,
+      "close": 13.11,
+      "volume": 1511600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 13.16,
+      "high": 13.52,
+      "low": 13.12,
+      "close": 13.52,
+      "volume": 1032500
     }
   ]
 }

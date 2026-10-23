@@ -1,9 +1,9 @@
 {
   "code": "CTRI",
   "ticker": "CTRI",
-  "last_updated": "2026-10-22 07:25:19",
+  "last_updated": "2026-10-23 07:25:21",
   "period": "5y",
-  "data_points": 629,
+  "data_points": 630,
   "data": [
     {
       "date": "2024-04-19",
@@ -5031,11 +5031,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1044097
+      "open": 20.01,
+      "high": 20.32,
+      "low": 19.61,
+      "close": 19.79,
+      "volume": 2100900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 19.56,
+      "high": 19.56,
+      "low": 18.76,
+      "close": 19.32,
+      "volume": 1400000
     }
   ]
 }

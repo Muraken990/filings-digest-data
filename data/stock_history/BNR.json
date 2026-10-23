@@ -1,18 +1,10 @@
 {
   "code": "BNR",
   "ticker": "BNR",
-  "last_updated": "2026-10-22 07:14:49",
+  "last_updated": "2026-10-23 07:14:51",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 131.8,
-      "high": 136.6,
-      "low": 122.4,
-      "close": 128.9,
-      "volume": 39850
-    },
     {
       "date": "2021-10-25",
       "open": 130.7,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 20967
+      "open": 12.52,
+      "high": 13.79,
+      "low": 12.52,
+      "close": 13.51,
+      "volume": 21000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 14.44,
+      "high": 14.44,
+      "low": 12.81,
+      "close": 13.25,
+      "volume": 17900
     }
   ]
 }

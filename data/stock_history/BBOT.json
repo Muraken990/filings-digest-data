@@ -1,9 +1,9 @@
 {
   "code": "BBOT",
   "ticker": "BBOT",
-  "last_updated": "2026-10-22 07:11:21",
+  "last_updated": "2026-10-23 07:11:22",
   "period": "5y",
-  "data_points": 677,
+  "data_points": 678,
   "data": [
     {
       "date": "2024-02-09",
@@ -5415,11 +5415,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 942241
+      "open": 2.71,
+      "high": 2.86,
+      "low": 2.66,
+      "close": 2.68,
+      "volume": 942200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.66,
+      "high": 2.85,
+      "low": 2.66,
+      "close": 2.85,
+      "volume": 661700
     }
   ]
 }

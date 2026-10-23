@@ -1,18 +1,10 @@
 {
   "code": "FDUS",
   "ticker": "FDUS",
-  "last_updated": "2026-10-22 07:35:47",
+  "last_updated": "2026-10-23 07:35:56",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 9.87,
-      "high": 9.89,
-      "low": 9.82,
-      "close": 9.86,
-      "volume": 41700
-    },
     {
       "date": "2021-10-25",
       "open": 9.86,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 233922
+      "open": 18.45,
+      "high": 18.51,
+      "low": 18.22,
+      "close": 18.29,
+      "volume": 233900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 18.29,
+      "high": 18.8,
+      "low": 18.26,
+      "close": 18.67,
+      "volume": 193500
     }
   ]
 }

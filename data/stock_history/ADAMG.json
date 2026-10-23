@@ -1,9 +1,9 @@
 {
   "code": "ADAMG",
   "ticker": "ADAMG",
-  "last_updated": "2026-10-22 07:01:00",
+  "last_updated": "2026-10-23 07:01:01",
   "period": "5y",
-  "data_points": 444,
+  "data_points": 445,
   "data": [
     {
       "date": "2025-01-15",
@@ -3551,11 +3551,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7958
+      "open": 24.43,
+      "high": 24.6,
+      "low": 24.43,
+      "close": 24.58,
+      "volume": 8100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 24.53,
+      "high": 24.59,
+      "low": 24.41,
+      "close": 24.51,
+      "volume": 12500
     }
   ]
 }

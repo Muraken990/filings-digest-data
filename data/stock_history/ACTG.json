@@ -1,18 +1,10 @@
 {
   "code": "ACTG",
   "ticker": "ACTG",
-  "last_updated": "2026-10-22 07:00:58",
+  "last_updated": "2026-10-23 07:01:00",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 5.63,
-      "high": 5.68,
-      "low": 5.46,
-      "close": 5.53,
-      "volume": 305100
-    },
     {
       "date": "2021-10-25",
       "open": 5.45,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 163072
+      "open": 4.2,
+      "high": 4.26,
+      "low": 4.17,
+      "close": 4.18,
+      "volume": 163100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 4.19,
+      "high": 4.27,
+      "low": 4.17,
+      "close": 4.18,
+      "volume": 132700
     }
   ]
 }

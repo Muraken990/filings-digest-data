@@ -1,9 +1,9 @@
 {
   "code": "CGTL",
   "ticker": "CGTL",
-  "last_updated": "2026-10-22 07:20:03",
+  "last_updated": "2026-10-23 07:20:06",
   "period": "5y",
-  "data_points": 476,
+  "data_points": 477,
   "data": [
     {
       "date": "2024-11-26",
@@ -3807,11 +3807,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4642
+      "open": 2.68,
+      "high": 2.83,
+      "low": 2.68,
+      "close": 2.83,
+      "volume": 4600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.88,
+      "high": 2.88,
+      "low": 2.78,
+      "close": 2.78,
+      "volume": 3400
     }
   ]
 }

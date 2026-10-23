@@ -1,18 +1,10 @@
 {
   "code": "DFIN",
   "ticker": "DFIN",
-  "last_updated": "2026-10-22 07:27:07",
+  "last_updated": "2026-10-23 07:27:09",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 37.32,
-      "high": 37.32,
-      "low": 36.66,
-      "close": 36.87,
-      "volume": 143900
-    },
     {
       "date": "2021-10-25",
       "open": 36.95,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 267347
+      "open": 52.83,
+      "high": 53.66,
+      "low": 52.31,
+      "close": 52.79,
+      "volume": 267300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 52.69,
+      "high": 56.15,
+      "low": 52.69,
+      "close": 55.99,
+      "volume": 438000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "DTG",
   "ticker": "DTG",
-  "last_updated": "2026-10-22 07:29:39",
+  "last_updated": "2026-10-23 07:29:41",
   "period": "5y",
-  "data_points": 1227,
+  "data_points": 1228,
   "data": [
     {
       "date": "2021-12-01",
@@ -9815,11 +9815,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 33849
+      "open": 14.89,
+      "high": 15.06,
+      "low": 14.62,
+      "close": 14.62,
+      "volume": 33800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 14.65,
+      "high": 15.08,
+      "low": 14.65,
+      "close": 14.88,
+      "volume": 26100
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "EBS",
   "ticker": "EBS",
-  "last_updated": "2026-10-22 07:30:31",
+  "last_updated": "2026-10-23 07:30:33",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 50.2,
-      "high": 50.76,
-      "low": 49.5,
-      "close": 49.85,
-      "volume": 367900
-    },
     {
       "date": "2021-10-25",
       "open": 49.69,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 851592
+      "open": 6.3,
+      "high": 6.38,
+      "low": 6.15,
+      "close": 6.2,
+      "volume": 851600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 6.2,
+      "high": 6.36,
+      "low": 6.09,
+      "close": 6.23,
+      "volume": 838400
     }
   ]
 }

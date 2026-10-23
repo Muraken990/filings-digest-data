@@ -1,18 +1,10 @@
 {
   "code": "BCAL",
   "ticker": "BCAL",
-  "last_updated": "2026-10-22 07:11:22",
+  "last_updated": "2026-10-23 07:11:24",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 15.07,
-      "high": 15.18,
-      "low": 15.07,
-      "close": 15.18,
-      "volume": 600
-    },
     {
       "date": "2021-10-25",
       "open": 14.92,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 213981
+      "open": 21.86,
+      "high": 21.86,
+      "low": 21.57,
+      "close": 21.64,
+      "volume": 214000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 21.64,
+      "high": 22.21,
+      "low": 21.64,
+      "close": 22.07,
+      "volume": 232400
     }
   ]
 }

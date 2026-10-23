@@ -1,18 +1,10 @@
 {
   "code": "FEED",
   "ticker": "FEED",
-  "last_updated": "2026-10-22 07:35:48",
+  "last_updated": "2026-10-23 07:35:57",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 42240.0,
-      "high": 42266.4,
-      "low": 38808.0,
-      "close": 39864.0,
-      "volume": 124
-    },
     {
       "date": "2021-10-25",
       "open": 39600.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1476
+      "open": 0.3,
+      "high": 0.37,
+      "low": 0.3,
+      "close": 0.35,
+      "volume": 4800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.28,
+      "high": 0.37,
+      "low": 0.28,
+      "close": 0.37,
+      "volume": 1200
     }
   ]
 }

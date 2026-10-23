@@ -1,9 +1,9 @@
 {
   "code": "BTTC",
   "ticker": "BTTC",
-  "last_updated": "2026-10-22 07:15:46",
+  "last_updated": "2026-10-23 07:15:48",
   "period": "5y",
-  "data_points": 265,
+  "data_points": 266,
   "data": [
     {
       "date": "2025-10-02",
@@ -2119,11 +2119,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1245538
+      "open": 0.38,
+      "high": 0.41,
+      "low": 0.38,
+      "close": 0.38,
+      "volume": 1285800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.38,
+      "high": 0.39,
+      "low": 0.36,
+      "close": 0.36,
+      "volume": 307100
     }
   ]
 }

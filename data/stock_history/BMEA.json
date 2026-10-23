@@ -1,18 +1,10 @@
 {
   "code": "BMEA",
   "ticker": "BMEA",
-  "last_updated": "2026-10-22 07:14:00",
+  "last_updated": "2026-10-23 07:14:02",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 11.01,
-      "high": 11.29,
-      "low": 10.57,
-      "close": 10.99,
-      "volume": 92000
-    },
     {
       "date": "2021-10-25",
       "open": 10.76,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3026292
+      "open": 0.74,
+      "high": 0.75,
+      "low": 0.68,
+      "close": 0.69,
+      "volume": 3040700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.66,
+      "high": 0.7,
+      "low": 0.58,
+      "close": 0.58,
+      "volume": 1952400
     }
   ]
 }

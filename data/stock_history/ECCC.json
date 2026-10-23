@@ -1,18 +1,10 @@
 {
   "code": "ECCC",
   "ticker": "ECCC",
-  "last_updated": "2026-10-22 07:30:32",
+  "last_updated": "2026-10-23 07:30:33",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 17.87,
-      "high": 17.87,
-      "low": 17.82,
-      "close": 17.82,
-      "volume": 19200
-    },
     {
       "date": "2021-10-25",
       "open": 17.82,
@@ -287,9 +279,9 @@
     },
     {
       "date": "2021-12-13",
-      "open": 17.9,
+      "open": 17.89,
       "high": 17.99,
-      "low": 17.9,
+      "low": 17.89,
       "close": 17.97,
       "volume": 12700
     },
@@ -1304,7 +1296,7 @@
     {
       "date": "2022-06-15",
       "open": 17.72,
-      "high": 17.79,
+      "high": 17.8,
       "low": 17.72,
       "close": 17.73,
       "volume": 1800
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3044
+      "open": 23.65,
+      "high": 24.09,
+      "low": 23.65,
+      "close": 24.08,
+      "volume": 3000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 24.1,
+      "high": 24.45,
+      "low": 24.1,
+      "close": 24.12,
+      "volume": 5000
     }
   ]
 }

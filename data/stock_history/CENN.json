@@ -1,18 +1,10 @@
 {
   "code": "CENN",
   "ticker": "CENN",
-  "last_updated": "2026-10-22 07:19:13",
+  "last_updated": "2026-10-23 07:19:16",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 54990.0,
-      "high": 55710.0,
-      "low": 52308.0,
-      "close": 54000.0,
-      "volume": 657
-    },
     {
       "date": "2021-10-25",
       "open": 54621.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 13169
+      "open": 2.45,
+      "high": 2.55,
+      "low": 2.41,
+      "close": 2.48,
+      "volume": 13200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.47,
+      "high": 2.47,
+      "low": 2.24,
+      "close": 2.28,
+      "volume": 22300
     }
   ]
 }

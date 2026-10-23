@@ -1,18 +1,10 @@
 {
   "code": "AUUD",
   "ticker": "AUUD",
-  "last_updated": "2026-10-22 07:09:37",
+  "last_updated": "2026-10-23 07:09:38",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 8071.71,
-      "high": 8071.71,
-      "low": 7379.84,
-      "close": 7544.57,
-      "volume": 88
-    },
     {
       "date": "2021-10-25",
       "open": 8005.81,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 72297
+      "open": 0.95,
+      "high": 0.99,
+      "low": 0.93,
+      "close": 0.95,
+      "volume": 72300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.95,
+      "high": 0.96,
+      "low": 0.92,
+      "close": 0.93,
+      "volume": 81300
     }
   ]
 }

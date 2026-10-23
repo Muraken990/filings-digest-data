@@ -1,18 +1,10 @@
 {
   "code": "ANVS",
   "ticker": "ANVS",
-  "last_updated": "2026-10-22 07:06:10",
+  "last_updated": "2026-10-23 07:06:11",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 29.0,
-      "high": 29.24,
-      "low": 28.02,
-      "close": 28.89,
-      "volume": 67200
-    },
     {
       "date": "2021-10-25",
       "open": 28.44,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 546328
+      "open": 1.0,
+      "high": 1.04,
+      "low": 0.99,
+      "close": 0.99,
+      "volume": 546300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.99,
+      "high": 1.05,
+      "low": 0.98,
+      "close": 0.99,
+      "volume": 448400
     }
   ]
 }

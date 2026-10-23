@@ -1,9 +1,9 @@
 {
   "code": "AIAI",
   "ticker": "AIAI",
-  "last_updated": "2026-10-22 07:02:46",
+  "last_updated": "2026-10-23 07:02:46",
   "period": "5y",
-  "data_points": 111,
+  "data_points": 112,
   "data": [
     {
       "date": "2026-05-14",
@@ -887,11 +887,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 625577
+      "open": 2.3,
+      "high": 2.55,
+      "low": 2.22,
+      "close": 2.31,
+      "volume": 625900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.3,
+      "high": 2.31,
+      "low": 2.0,
+      "close": 2.05,
+      "volume": 464000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CBNA",
   "ticker": "CBNA",
-  "last_updated": "2026-10-22 07:18:17",
+  "last_updated": "2026-10-23 07:18:20",
   "period": "5y",
-  "data_points": 513,
+  "data_points": 514,
   "data": [
     {
       "date": "2024-10-04",
@@ -4103,11 +4103,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 13344
+      "open": 48.51,
+      "high": 50.26,
+      "low": 48.09,
+      "close": 49.99,
+      "volume": 13300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 49.83,
+      "high": 51.1,
+      "low": 49.73,
+      "close": 50.85,
+      "volume": 16400
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "CMMB",
   "ticker": "CMMB",
-  "last_updated": "2026-10-22 07:21:50",
+  "last_updated": "2026-10-23 07:21:53",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 43.76,
-      "high": 43.8,
-      "low": 38.88,
-      "close": 40.76,
-      "volume": 79150
-    },
     {
       "date": "2021-10-25",
       "open": 39.72,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 14929
+      "open": 1.18,
+      "high": 1.23,
+      "low": 1.15,
+      "close": 1.15,
+      "volume": 14800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.15,
+      "high": 1.24,
+      "low": 1.01,
+      "close": 1.08,
+      "volume": 54800
     }
   ]
 }

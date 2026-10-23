@@ -1,9 +1,9 @@
 {
   "code": "ELAB",
   "ticker": "ELAB",
-  "last_updated": "2026-10-22 07:31:26",
+  "last_updated": "2026-10-23 07:31:28",
   "period": "5y",
-  "data_points": 731,
+  "data_points": 732,
   "data": [
     {
       "date": "2023-11-21",
@@ -5847,11 +5847,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2771
+      "open": 2.8,
+      "high": 2.81,
+      "low": 2.76,
+      "close": 2.78,
+      "volume": 2900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.69,
+      "high": 2.77,
+      "low": 2.62,
+      "close": 2.66,
+      "volume": 5200
     }
   ]
 }

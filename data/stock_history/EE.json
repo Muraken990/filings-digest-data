@@ -1,9 +1,9 @@
 {
   "code": "EE",
   "ticker": "EE",
-  "last_updated": "2026-10-22 07:30:35",
+  "last_updated": "2026-10-23 07:30:37",
   "period": "5y",
-  "data_points": 1135,
+  "data_points": 1136,
   "data": [
     {
       "date": "2022-04-13",
@@ -9079,11 +9079,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 270702
+      "open": 32.81,
+      "high": 33.52,
+      "low": 32.76,
+      "close": 33.02,
+      "volume": 270700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 32.76,
+      "high": 32.88,
+      "low": 31.44,
+      "close": 31.52,
+      "volume": 306900
     }
   ]
 }

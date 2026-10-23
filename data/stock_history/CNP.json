@@ -1,18 +1,10 @@
 {
   "code": "CNP",
   "ticker": "CNP",
-  "last_updated": "2026-10-22 07:22:41",
+  "last_updated": "2026-10-23 07:22:43",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 23.41,
-      "high": 23.51,
-      "low": 23.34,
-      "close": 23.39,
-      "volume": 5155500
-    },
     {
       "date": "2021-10-25",
       "open": 23.37,
@@ -856,7 +848,7 @@
     {
       "date": "2022-03-25",
       "open": 26.63,
-      "high": 27.17,
+      "high": 27.16,
       "low": 26.59,
       "close": 27.15,
       "volume": 3200400
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5310804
+      "open": 40.35,
+      "high": 40.54,
+      "low": 40.25,
+      "close": 40.32,
+      "volume": 5310800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 40.65,
+      "high": 41.23,
+      "low": 40.51,
+      "close": 41.2,
+      "volume": 7236300
     }
   ]
 }

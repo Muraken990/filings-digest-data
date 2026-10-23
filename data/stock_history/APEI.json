@@ -1,18 +1,10 @@
 {
   "code": "APEI",
   "ticker": "APEI",
-  "last_updated": "2026-10-22 07:06:13",
+  "last_updated": "2026-10-23 07:06:13",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 24.71,
-      "high": 24.89,
-      "low": 24.16,
-      "close": 24.4,
-      "volume": 59100
-    },
     {
       "date": "2021-10-25",
       "open": 24.31,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 185052
+      "open": 48.26,
+      "high": 48.44,
+      "low": 47.35,
+      "close": 47.78,
+      "volume": 185100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 47.69,
+      "high": 48.98,
+      "low": 47.69,
+      "close": 48.86,
+      "volume": 122500
     }
   ]
 }

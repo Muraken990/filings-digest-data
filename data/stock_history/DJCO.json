@@ -1,18 +1,10 @@
 {
   "code": "DJCO",
   "ticker": "DJCO",
-  "last_updated": "2026-10-22 07:27:56",
+  "last_updated": "2026-10-23 07:27:58",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 343.37,
-      "high": 343.37,
-      "low": 343.37,
-      "close": 343.37,
-      "volume": 400
-    },
     {
       "date": "2021-10-25",
       "open": 345.9,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 30544
+      "open": 584.28,
+      "high": 590.99,
+      "low": 570.0,
+      "close": 571.25,
+      "volume": 30500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 571.76,
+      "high": 586.04,
+      "low": 570.16,
+      "close": 573.19,
+      "volume": 42700
     }
   ]
 }

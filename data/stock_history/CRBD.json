@@ -1,9 +1,9 @@
 {
   "code": "CRBD",
   "ticker": "CRBD",
-  "last_updated": "2026-10-22 07:23:38",
+  "last_updated": "2026-10-23 07:23:40",
   "period": "5y",
-  "data_points": 469,
+  "data_points": 470,
   "data": [
     {
       "date": "2024-12-06",
@@ -3751,11 +3751,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 121817
+      "open": 20.94,
+      "high": 21.19,
+      "low": 20.35,
+      "close": 20.75,
+      "volume": 121800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 20.78,
+      "high": 20.91,
+      "low": 20.44,
+      "close": 20.56,
+      "volume": 60800
     }
   ]
 }

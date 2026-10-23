@@ -1,18 +1,10 @@
 {
   "code": "FISI",
   "ticker": "FISI",
-  "last_updated": "2026-10-22 07:36:39",
+  "last_updated": "2026-10-23 07:36:48",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 24.76,
-      "high": 25.08,
-      "low": 24.76,
-      "close": 24.98,
-      "volume": 16200
-    },
     {
       "date": "2021-10-25",
       "open": 25.07,
@@ -639,7 +631,7 @@
     },
     {
       "date": "2022-02-15",
-      "open": 25.28,
+      "open": 25.27,
       "high": 25.36,
       "low": 25.09,
       "close": 25.19,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 78805
+      "open": 39.9,
+      "high": 40.22,
+      "low": 39.52,
+      "close": 39.85,
+      "volume": 78800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 39.65,
+      "high": 40.81,
+      "low": 39.65,
+      "close": 40.69,
+      "volume": 125900
     }
   ]
 }

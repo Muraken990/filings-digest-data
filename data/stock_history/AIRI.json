@@ -1,18 +1,10 @@
 {
   "code": "AIRI",
   "ticker": "AIRI",
-  "last_updated": "2026-10-22 07:03:35",
+  "last_updated": "2026-10-23 07:03:34",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 10.2,
-      "high": 10.3,
-      "low": 10.0,
-      "close": 10.2,
-      "volume": 30490
-    },
     {
       "date": "2021-10-25",
       "open": 10.4,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3339
+      "open": 2.49,
+      "high": 2.51,
+      "low": 2.48,
+      "close": 2.51,
+      "volume": 3300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.53,
+      "high": 2.53,
+      "low": 2.53,
+      "close": 2.53,
+      "volume": 2400
     }
   ]
 }

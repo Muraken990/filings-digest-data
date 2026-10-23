@@ -1,9 +1,9 @@
 {
   "code": "FINW",
   "ticker": "FINW",
-  "last_updated": "2026-10-22 07:36:39",
+  "last_updated": "2026-10-23 07:36:47",
   "period": "5y",
-  "data_points": 1234,
+  "data_points": 1235,
   "data": [
     {
       "date": "2021-11-19",
@@ -9871,11 +9871,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 54805
+      "open": 10.57,
+      "high": 10.62,
+      "low": 10.0,
+      "close": 10.46,
+      "volume": 54800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.54,
+      "high": 10.67,
+      "low": 10.47,
+      "close": 10.5,
+      "volume": 32300
     }
   ]
 }

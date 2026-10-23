@@ -1,18 +1,10 @@
 {
   "code": "CBAT",
   "ticker": "CBAT",
-  "last_updated": "2026-10-22 07:18:17",
+  "last_updated": "2026-10-23 07:18:19",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 2.21,
-      "high": 2.21,
-      "low": 2.08,
-      "close": 2.08,
-      "volume": 1256700
-    },
     {
       "date": "2021-10-25",
       "open": 2.1,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 117914
+      "open": 0.87,
+      "high": 0.89,
+      "low": 0.83,
+      "close": 0.84,
+      "volume": 117900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.83,
+      "high": 0.89,
+      "low": 0.83,
+      "close": 0.85,
+      "volume": 88700
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CSHR",
   "ticker": "CSHR",
-  "last_updated": "2026-10-22 07:24:29",
+  "last_updated": "2026-10-23 07:24:31",
   "period": "5y",
-  "data_points": 141,
+  "data_points": 142,
   "data": [
     {
       "date": "2026-04-01",
@@ -1127,11 +1127,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 238639
+      "open": 3.96,
+      "high": 4.13,
+      "low": 3.91,
+      "close": 4.06,
+      "volume": 238600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 4.0,
+      "high": 4.07,
+      "low": 3.95,
+      "close": 4.03,
+      "volume": 205400
     }
   ]
 }

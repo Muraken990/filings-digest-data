@@ -1,18 +1,10 @@
 {
   "code": "BBN",
   "ticker": "BBN",
-  "last_updated": "2026-10-22 07:11:21",
+  "last_updated": "2026-10-23 07:11:22",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 17.78,
-      "high": 17.86,
-      "low": 17.69,
-      "close": 17.75,
-      "volume": 77000
-    },
     {
       "date": "2021-10-25",
       "open": 17.73,
@@ -8441,7 +8433,7 @@
       "date": "2026-01-06",
       "open": 15.28,
       "high": 15.35,
-      "low": 15.26,
+      "low": 15.27,
       "close": 15.32,
       "volume": 265500
     },
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 246310
+      "open": 14.58,
+      "high": 14.61,
+      "low": 14.51,
+      "close": 14.53,
+      "volume": 246300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 14.61,
+      "high": 14.8,
+      "low": 14.58,
+      "close": 14.75,
+      "volume": 382200
     }
   ]
 }

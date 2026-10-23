@@ -1,18 +1,10 @@
 {
   "code": "DCH",
   "ticker": "DCH",
-  "last_updated": "2026-10-22 07:27:03",
+  "last_updated": "2026-10-23 07:27:05",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 10.48,
-      "high": 10.57,
-      "low": 10.23,
-      "close": 10.26,
-      "volume": 713500
-    },
     {
       "date": "2021-10-25",
       "open": 10.32,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4279633
+      "open": 4.93,
+      "high": 4.97,
+      "low": 4.79,
+      "close": 4.86,
+      "volume": 4279600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 4.78,
+      "high": 4.84,
+      "low": 4.6,
+      "close": 4.69,
+      "volume": 3417000
     }
   ]
 }

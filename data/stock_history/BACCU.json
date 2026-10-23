@@ -1,9 +1,9 @@
 {
   "code": "BACCU",
   "ticker": "BACCU",
-  "last_updated": "2026-10-22 07:10:30",
+  "last_updated": "2026-10-23 07:10:32",
   "period": "5y",
-  "data_points": 341,
+  "data_points": 342,
   "data": [
     {
       "date": "2025-06-13",
@@ -2727,11 +2727,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 115
+      "open": 11.0,
+      "high": 11.0,
+      "low": 11.0,
+      "close": 11.0,
+      "volume": 100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 11.0,
+      "high": 11.0,
+      "low": 10.8,
+      "close": 10.8,
+      "volume": 200
     }
   ]
 }

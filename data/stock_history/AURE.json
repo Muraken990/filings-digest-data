@@ -1,9 +1,9 @@
 {
   "code": "AURE",
   "ticker": "AURE",
-  "last_updated": "2026-10-22 07:08:51",
+  "last_updated": "2026-10-23 07:08:52",
   "period": "5y",
-  "data_points": 827,
+  "data_points": 828,
   "data": [
     {
       "date": "2023-07-07",
@@ -6615,11 +6615,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 103811
+      "open": 0.86,
+      "high": 1.01,
+      "low": 0.86,
+      "close": 0.96,
+      "volume": 103900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.96,
+      "high": 0.96,
+      "low": 0.86,
+      "close": 0.96,
+      "volume": 97100
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "CPRI",
   "ticker": "CPRI",
-  "last_updated": "2026-10-22 07:23:35",
+  "last_updated": "2026-10-23 07:23:38",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 52.11,
-      "high": 52.69,
-      "low": 51.71,
-      "close": 52.49,
-      "volume": 842300
-    },
     {
       "date": "2021-10-25",
       "open": 52.56,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2643935
+      "open": 16.46,
+      "high": 16.51,
+      "low": 15.63,
+      "close": 15.7,
+      "volume": 2644000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 15.7,
+      "high": 16.4,
+      "low": 15.54,
+      "close": 16.36,
+      "volume": 2772500
     }
   ]
 }

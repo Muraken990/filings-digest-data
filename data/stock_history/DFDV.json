@@ -1,9 +1,9 @@
 {
   "code": "DFDV",
   "ticker": "DFDV",
-  "last_updated": "2026-10-22 07:27:06",
+  "last_updated": "2026-10-23 07:27:08",
   "period": "5y",
-  "data_points": 815,
+  "data_points": 816,
   "data": [
     {
       "date": "2023-07-25",
@@ -6519,11 +6519,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1491377
+      "open": 3.97,
+      "high": 4.42,
+      "low": 3.89,
+      "close": 4.36,
+      "volume": 1517900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 4.07,
+      "high": 4.2,
+      "low": 3.74,
+      "close": 3.76,
+      "volume": 1431300
     }
   ]
 }

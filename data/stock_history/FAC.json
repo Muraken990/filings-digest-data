@@ -1,9 +1,9 @@
 {
   "code": "FAC",
   "ticker": "FAC",
-  "last_updated": "2026-10-22 07:34:55",
+  "last_updated": "2026-10-23 07:35:04",
   "period": "5y",
-  "data_points": 335,
+  "data_points": 336,
   "data": [
     {
       "date": "2025-06-24",
@@ -2679,11 +2679,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 418141
+      "open": 4.78,
+      "high": 4.79,
+      "low": 4.52,
+      "close": 4.65,
+      "volume": 418300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 4.53,
+      "high": 4.63,
+      "low": 4.18,
+      "close": 4.38,
+      "volume": 499900
     }
   ]
 }

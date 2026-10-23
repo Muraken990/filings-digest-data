@@ -1,9 +1,9 @@
 {
   "code": "APUS",
   "ticker": "APUS",
-  "last_updated": "2026-10-22 07:07:01",
+  "last_updated": "2026-10-23 07:07:02",
   "period": "5y",
-  "data_points": 365,
+  "data_points": 366,
   "data": [
     {
       "date": "2025-05-09",
@@ -2919,11 +2919,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 128001
+      "open": 3.51,
+      "high": 3.57,
+      "low": 3.01,
+      "close": 3.25,
+      "volume": 128000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 3.14,
+      "high": 3.25,
+      "low": 3.06,
+      "close": 3.16,
+      "volume": 42300
     }
   ]
 }

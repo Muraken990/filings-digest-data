@@ -1,9 +1,9 @@
 {
   "code": "ASBP",
   "ticker": "ASBP",
-  "last_updated": "2026-10-22 07:07:55",
+  "last_updated": "2026-10-23 07:07:56",
   "period": "5y",
-  "data_points": 1137,
+  "data_points": 1138,
   "data": [
     {
       "date": "2022-04-11",
@@ -9095,11 +9095,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 28490
+      "open": 8.81,
+      "high": 8.99,
+      "low": 8.65,
+      "close": 8.85,
+      "volume": 28500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 8.85,
+      "high": 8.97,
+      "low": 8.76,
+      "close": 8.9,
+      "volume": 22600
     }
   ]
 }

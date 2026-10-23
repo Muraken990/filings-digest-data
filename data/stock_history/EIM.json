@@ -1,26 +1,10 @@
 {
   "code": "EIM",
   "ticker": "EIM",
-  "last_updated": "2026-10-22 07:31:26",
+  "last_updated": "2026-10-23 07:31:28",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-10-22",
-      "open": 10.22,
-      "high": 10.25,
-      "low": 10.15,
-      "close": 10.15,
-      "volume": 120900
-    },
     {
       "date": "2021-10-25",
       "open": 10.12,
@@ -696,7 +680,7 @@
     {
       "date": "2022-02-24",
       "open": 9.25,
-      "high": 9.46,
+      "high": 9.47,
       "low": 9.21,
       "close": 9.46,
       "volume": 324600
@@ -729,7 +713,7 @@
       "date": "2022-03-02",
       "open": 9.53,
       "high": 9.6,
-      "low": 9.47,
+      "low": 9.46,
       "close": 9.49,
       "volume": 111100
     },
@@ -2737,7 +2721,7 @@
       "date": "2023-03-02",
       "open": 8.13,
       "high": 8.14,
-      "low": 8.1,
+      "low": 8.11,
       "close": 8.12,
       "volume": 66600
     },
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 440107
+      "open": 9.08,
+      "high": 9.1,
+      "low": 8.86,
+      "close": 8.91,
+      "volume": 440100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 8.91,
+      "high": 8.96,
+      "low": 8.9,
+      "close": 8.92,
+      "volume": 304700
     }
   ]
 }

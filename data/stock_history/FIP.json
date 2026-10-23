@@ -1,9 +1,9 @@
 {
   "code": "FIP",
   "ticker": "FIP",
-  "last_updated": "2026-10-22 07:36:39",
+  "last_updated": "2026-10-23 07:36:48",
   "period": "5y",
-  "data_points": 1069,
+  "data_points": 1070,
   "data": [
     {
       "date": "2022-07-20",
@@ -8551,11 +8551,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1661832
+      "open": 2.33,
+      "high": 2.44,
+      "low": 2.31,
+      "close": 2.41,
+      "volume": 1661800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.39,
+      "high": 2.53,
+      "low": 2.37,
+      "close": 2.52,
+      "volume": 1420400
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "CLS",
   "ticker": "CLS",
-  "last_updated": "2026-10-22 07:21:47",
+  "last_updated": "2026-10-23 07:21:50",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 9.32,
-      "high": 9.48,
-      "low": 9.28,
-      "close": 9.34,
-      "volume": 246900
-    },
     {
       "date": "2021-10-25",
       "open": 9.39,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1884990
+      "open": 311.1,
+      "high": 314.45,
+      "low": 300.21,
+      "close": 304.61,
+      "volume": 1903700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 289.69,
+      "high": 291.99,
+      "low": 267.65,
+      "close": 269.01,
+      "volume": 3308600
     }
   ]
 }

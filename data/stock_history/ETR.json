@@ -1,18 +1,10 @@
 {
   "code": "ETR",
   "ticker": "ETR",
-  "last_updated": "2026-10-22 07:34:01",
+  "last_updated": "2026-10-23 07:34:10",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 43.82,
-      "high": 44.16,
-      "low": 43.74,
-      "close": 43.91,
-      "volume": 1323600
-    },
     {
       "date": "2021-10-25",
       "open": 43.86,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2403635
+      "open": 106.03,
+      "high": 106.49,
+      "low": 105.52,
+      "close": 106.08,
+      "volume": 2403600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 106.35,
+      "high": 108.21,
+      "low": 105.98,
+      "close": 108.19,
+      "volume": 3914600
     }
   ]
 }

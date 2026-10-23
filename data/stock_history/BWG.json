@@ -1,26 +1,10 @@
 {
   "code": "BWG",
   "ticker": "BWG",
-  "last_updated": "2026-10-22 07:16:35",
+  "last_updated": "2026-10-23 07:16:38",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-10-22",
-      "open": 6.82,
-      "high": 6.84,
-      "low": 6.6,
-      "close": 6.8,
-      "volume": 113300
-    },
     {
       "date": "2021-10-25",
       "open": 6.82,
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 68639
+      "open": 7.01,
+      "high": 7.05,
+      "low": 6.97,
+      "close": 6.99,
+      "volume": 68600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 7.01,
+      "high": 7.01,
+      "low": 6.92,
+      "close": 6.93,
+      "volume": 77100
     }
   ]
 }

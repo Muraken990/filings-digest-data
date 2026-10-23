@@ -1,9 +1,9 @@
 {
   "code": "BRKRP",
   "ticker": "BRKRP",
-  "last_updated": "2026-10-22 07:15:40",
+  "last_updated": "2026-10-23 07:15:42",
   "period": "5y",
-  "data_points": 285,
+  "data_points": 286,
   "data": [
     {
       "date": "2025-09-04",
@@ -2279,11 +2279,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2587
+      "open": 423.52,
+      "high": 435.91,
+      "low": 423.52,
+      "close": 430.27,
+      "volume": 2600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 445.23,
+      "high": 445.26,
+      "low": 410.79,
+      "close": 420.49,
+      "volume": 2100
     }
   ]
 }

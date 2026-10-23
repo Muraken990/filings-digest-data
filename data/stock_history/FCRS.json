@@ -1,9 +1,9 @@
 {
   "code": "FCRS",
   "ticker": "FCRS",
-  "last_updated": "2026-10-22 07:35:45",
+  "last_updated": "2026-10-23 07:35:54",
   "period": "5y",
-  "data_points": 233,
+  "data_points": 234,
   "data": [
     {
       "date": "2025-11-17",
@@ -1863,11 +1863,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 102053
+      "open": 10.19,
+      "high": 10.2,
+      "low": 10.19,
+      "close": 10.2,
+      "volume": 102100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.19,
+      "high": 10.21,
+      "low": 10.19,
+      "close": 10.2,
+      "volume": 105000
     }
   ]
 }

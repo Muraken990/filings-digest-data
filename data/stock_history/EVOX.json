@@ -1,9 +1,9 @@
 {
   "code": "EVOX",
   "ticker": "EVOX",
-  "last_updated": "2026-10-22 07:34:04",
+  "last_updated": "2026-10-23 07:34:13",
   "period": "5y",
-  "data_points": 222,
+  "data_points": 223,
   "data": [
     {
       "date": "2025-12-03",
@@ -1775,11 +1775,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 100130
+      "open": 10.12,
+      "high": 10.12,
+      "low": 10.12,
+      "close": 10.12,
+      "volume": 100100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.12,
+      "high": 10.12,
+      "low": 10.12,
+      "close": 10.12,
+      "volume": 0
     }
   ]
 }

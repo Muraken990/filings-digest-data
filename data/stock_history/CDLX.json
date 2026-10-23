@@ -1,18 +1,10 @@
 {
   "code": "CDLX",
   "ticker": "CDLX",
-  "last_updated": "2026-10-22 07:19:10",
+  "last_updated": "2026-10-23 07:19:13",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 845.4,
-      "high": 845.9,
-      "low": 805.3,
-      "close": 831.6,
-      "volume": 41610
-    },
     {
       "date": "2021-10-25",
       "open": 832.4,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 215304
+      "open": 1.84,
+      "high": 1.85,
+      "low": 1.71,
+      "close": 1.81,
+      "volume": 215300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.76,
+      "high": 1.89,
+      "low": 1.75,
+      "close": 1.87,
+      "volume": 36000
     }
   ]
 }

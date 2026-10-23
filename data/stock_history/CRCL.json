@@ -1,9 +1,9 @@
 {
   "code": "CRCL",
   "ticker": "CRCL",
-  "last_updated": "2026-10-22 07:24:23",
+  "last_updated": "2026-10-23 07:24:25",
   "period": "5y",
-  "data_points": 347,
+  "data_points": 348,
   "data": [
     {
       "date": "2025-06-05",
@@ -2775,11 +2775,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 13355883
+      "open": 87.05,
+      "high": 92.17,
+      "low": 85.51,
+      "close": 89.71,
+      "volume": 13505900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 85.69,
+      "high": 87.97,
+      "low": 84.59,
+      "close": 86.62,
+      "volume": 11891800
     }
   ]
 }

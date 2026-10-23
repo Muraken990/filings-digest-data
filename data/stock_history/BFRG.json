@@ -1,9 +1,9 @@
 {
   "code": "BFRG",
   "ticker": "BFRG",
-  "last_updated": "2026-10-22 07:12:15",
+  "last_updated": "2026-10-23 07:12:17",
   "period": "5y",
-  "data_points": 926,
+  "data_points": 927,
   "data": [
     {
       "date": "2023-02-13",
@@ -7407,11 +7407,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 207795
+      "open": 0.51,
+      "high": 0.53,
+      "low": 0.5,
+      "close": 0.52,
+      "volume": 212300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.5,
+      "high": 0.51,
+      "low": 0.48,
+      "close": 0.49,
+      "volume": 168800
     }
   ]
 }

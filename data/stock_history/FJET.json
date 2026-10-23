@@ -1,9 +1,9 @@
 {
   "code": "FJET",
   "ticker": "FJET",
-  "last_updated": "2026-10-22 07:36:40",
+  "last_updated": "2026-10-23 07:36:49",
   "period": "5y",
-  "data_points": 211,
+  "data_points": 212,
   "data": [
     {
       "date": "2025-12-18",
@@ -1687,11 +1687,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2550904
+      "open": 1.03,
+      "high": 1.08,
+      "low": 0.9,
+      "close": 0.92,
+      "volume": 2557800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.9,
+      "high": 0.93,
+      "low": 0.83,
+      "close": 0.87,
+      "volume": 1973400
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "BFST",
   "ticker": "BFST",
-  "last_updated": "2026-10-22 07:12:16",
+  "last_updated": "2026-10-23 07:12:18",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 22.98,
-      "high": 23.43,
-      "low": 22.74,
-      "close": 23.17,
-      "volume": 84900
-    },
     {
       "date": "2021-10-25",
       "open": 23.88,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 164413
+      "open": 31.5,
+      "high": 31.55,
+      "low": 31.16,
+      "close": 31.36,
+      "volume": 164400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 31.39,
+      "high": 32.04,
+      "low": 31.39,
+      "close": 31.94,
+      "volume": 176800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "EHGO",
   "ticker": "EHGO",
-  "last_updated": "2026-10-22 07:31:25",
+  "last_updated": "2026-10-23 07:31:26",
   "period": "5y",
-  "data_points": 579,
+  "data_points": 580,
   "data": [
     {
       "date": "2024-07-02",
@@ -4631,11 +4631,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 165845
+      "open": 2.7,
+      "high": 3.1,
+      "low": 2.45,
+      "close": 2.91,
+      "volume": 166400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.78,
+      "high": 2.9,
+      "low": 2.61,
+      "close": 2.67,
+      "volume": 63800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "BMGL",
   "ticker": "BMGL",
-  "last_updated": "2026-10-22 07:14:00",
+  "last_updated": "2026-10-23 07:14:02",
   "period": "5y",
-  "data_points": 417,
+  "data_points": 418,
   "data": [
     {
       "date": "2025-02-25",
@@ -3335,11 +3335,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1201153
+      "open": 4.2,
+      "high": 4.45,
+      "low": 4.07,
+      "close": 4.43,
+      "volume": 1203000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 4.43,
+      "high": 4.71,
+      "low": 4.43,
+      "close": 4.45,
+      "volume": 993700
     }
   ]
 }

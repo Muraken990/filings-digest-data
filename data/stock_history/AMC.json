@@ -1,18 +1,10 @@
 {
   "code": "AMC",
   "ticker": "AMC",
-  "last_updated": "2026-10-22 07:05:16",
+  "last_updated": "2026-10-23 07:05:17",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 373.1,
-      "high": 376.7,
-      "low": 359.6,
-      "close": 366.0,
-      "volume": 4632420
-    },
     {
       "date": "2021-10-25",
       "open": 362.3,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 13576961
+      "open": 3.09,
+      "high": 3.11,
+      "low": 3.02,
+      "close": 3.04,
+      "volume": 13738800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.99,
+      "high": 3.11,
+      "low": 2.93,
+      "close": 2.93,
+      "volume": 19994800
     }
   ]
 }

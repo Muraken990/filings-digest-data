@@ -1,18 +1,10 @@
 {
   "code": "AGNCO",
   "ticker": "AGNCO",
-  "last_updated": "2026-10-22 07:02:43",
+  "last_updated": "2026-10-23 07:02:44",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 16.96,
-      "high": 17.0,
-      "low": 16.91,
-      "close": 16.94,
-      "volume": 69300
-    },
     {
       "date": "2021-10-25",
       "open": 16.92,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 53999
+      "open": 25.1,
+      "high": 25.1,
+      "low": 24.95,
+      "close": 25.01,
+      "volume": 53900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 25.01,
+      "high": 25.04,
+      "low": 24.95,
+      "close": 25.01,
+      "volume": 65100
     }
   ]
 }

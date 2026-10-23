@@ -1,18 +1,10 @@
 {
   "code": "BGDE",
   "ticker": "BGDE",
-  "last_updated": "2026-10-22 07:12:17",
+  "last_updated": "2026-10-23 07:12:18",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 1140.0,
-      "high": 1178.4,
-      "low": 1125.6,
-      "close": 1125.6,
-      "volume": 850
-    },
     {
       "date": "2021-10-25",
       "open": 1140.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 46190
+      "open": 4.46,
+      "high": 4.86,
+      "low": 4.35,
+      "close": 4.47,
+      "volume": 46200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 4.47,
+      "high": 4.47,
+      "low": 4.02,
+      "close": 4.16,
+      "volume": 68400
     }
   ]
 }

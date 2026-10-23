@@ -1,18 +1,10 @@
 {
   "code": "CMCL",
   "ticker": "CMCL",
-  "last_updated": "2026-10-22 07:21:49",
+  "last_updated": "2026-10-23 07:21:51",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 11.17,
-      "high": 11.37,
-      "low": 10.88,
-      "close": 10.91,
-      "volume": 22600
-    },
     {
       "date": "2021-10-25",
       "open": 11.06,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 281412
+      "open": 23.44,
+      "high": 23.44,
+      "low": 22.6,
+      "close": 22.79,
+      "volume": 281400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 22.6,
+      "high": 22.85,
+      "low": 21.55,
+      "close": 21.86,
+      "volume": 268900
     }
   ]
 }

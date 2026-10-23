@@ -1,9 +1,9 @@
 {
   "code": "DCBG",
   "ticker": "DCBG",
-  "last_updated": "2026-10-22 07:27:02",
+  "last_updated": "2026-10-23 07:27:04",
   "period": "5y",
-  "data_points": 579,
+  "data_points": 580,
   "data": [
     {
       "date": "2024-07-02",
@@ -4631,11 +4631,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 941
+      "open": 26.21,
+      "high": 26.21,
+      "low": 26.2,
+      "close": 26.2,
+      "volume": 900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 26.31,
+      "high": 26.69,
+      "low": 26.25,
+      "close": 26.52,
+      "volume": 2200
     }
   ]
 }

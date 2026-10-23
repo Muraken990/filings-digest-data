@@ -1,18 +1,10 @@
 {
   "code": "BRLS",
   "ticker": "BRLS",
-  "last_updated": "2026-10-22 07:15:40",
+  "last_updated": "2026-10-23 07:15:42",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 9.87,
-      "high": 9.87,
-      "low": 9.84,
-      "close": 9.85,
-      "volume": 45800
-    },
     {
       "date": "2021-10-25",
       "open": 9.84,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7598
+      "open": 0.92,
+      "high": 1.17,
+      "low": 0.92,
+      "close": 1.17,
+      "volume": 8100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.18,
+      "high": 1.18,
+      "low": 1.01,
+      "close": 1.04,
+      "volume": 8200
     }
   ]
 }

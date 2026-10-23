@@ -1,9 +1,9 @@
 {
   "code": "ACOG",
   "ticker": "ACOG",
-  "last_updated": "2026-10-22 07:00:57",
+  "last_updated": "2026-10-23 07:00:59",
   "period": "5y",
-  "data_points": 486,
+  "data_points": 487,
   "data": [
     {
       "date": "2024-11-12",
@@ -3887,11 +3887,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 88783
+      "open": 8.6,
+      "high": 8.93,
+      "low": 8.57,
+      "close": 8.58,
+      "volume": 88800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 8.54,
+      "high": 8.73,
+      "low": 8.2,
+      "close": 8.31,
+      "volume": 214000
     }
   ]
 }

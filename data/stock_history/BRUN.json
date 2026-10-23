@@ -1,9 +1,9 @@
 {
   "code": "BRUN",
   "ticker": "BRUN",
-  "last_updated": "2026-10-22 07:15:42",
+  "last_updated": "2026-10-23 07:15:44",
   "period": "5y",
-  "data_points": 454,
+  "data_points": 455,
   "data": [
     {
       "date": "2024-12-30",
@@ -3631,11 +3631,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3761201
+      "open": 8.85,
+      "high": 9.0,
+      "low": 8.25,
+      "close": 8.4,
+      "volume": 3763300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 8.14,
+      "high": 8.5,
+      "low": 7.36,
+      "close": 7.48,
+      "volume": 4692400
     }
   ]
 }

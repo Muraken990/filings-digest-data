@@ -1,18 +1,10 @@
 {
   "code": "FOX",
   "ticker": "FOX",
-  "last_updated": "2026-10-22 07:37:34",
+  "last_updated": "2026-10-23 07:37:43",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 36.95,
-      "high": 37.08,
-      "low": 36.66,
-      "close": 36.93,
-      "volume": 631200
-    },
     {
       "date": "2021-10-25",
       "open": 37.11,
@@ -6135,7 +6127,7 @@
     },
     {
       "date": "2024-11-08",
-      "open": 40.85,
+      "open": 40.84,
       "high": 41.02,
       "low": 40.31,
       "close": 40.72,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 755923
+      "open": 59.45,
+      "high": 59.67,
+      "low": 58.41,
+      "close": 58.63,
+      "volume": 756500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 58.52,
+      "high": 60.82,
+      "low": 58.47,
+      "close": 60.82,
+      "volume": 655300
     }
   ]
 }

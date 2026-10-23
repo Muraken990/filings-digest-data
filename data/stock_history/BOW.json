@@ -1,9 +1,9 @@
 {
   "code": "BOW",
   "ticker": "BOW",
-  "last_updated": "2026-10-22 07:14:52",
+  "last_updated": "2026-10-23 07:14:54",
   "period": "5y",
-  "data_points": 605,
+  "data_points": 606,
   "data": [
     {
       "date": "2024-05-23",
@@ -4839,11 +4839,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 129439
+      "open": 34.04,
+      "high": 34.09,
+      "low": 33.99,
+      "close": 34.09,
+      "volume": 129700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 34.17,
+      "high": 34.21,
+      "low": 34.08,
+      "close": 34.1,
+      "volume": 126800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "EURK",
   "ticker": "EURK",
-  "last_updated": "2026-10-22 07:34:02",
+  "last_updated": "2026-10-23 07:34:11",
   "period": "5y",
-  "data_points": 529,
+  "data_points": 530,
   "data": [
     {
       "date": "2024-09-12",
@@ -4231,11 +4231,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3910
+      "open": 11.55,
+      "high": 11.55,
+      "low": 11.51,
+      "close": 11.55,
+      "volume": 4100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 11.55,
+      "high": 11.55,
+      "low": 11.55,
+      "close": 11.55,
+      "volume": 0
     }
   ]
 }

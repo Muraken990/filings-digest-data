@@ -1,18 +1,10 @@
 {
   "code": "CRNT",
   "ticker": "CRNT",
-  "last_updated": "2026-10-22 07:24:26",
+  "last_updated": "2026-10-23 07:24:29",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 3.37,
-      "high": 3.38,
-      "low": 3.32,
-      "close": 3.32,
-      "volume": 678700
-    },
     {
       "date": "2021-10-25",
       "open": 3.29,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 126482
+      "open": 2.0,
+      "high": 2.03,
+      "low": 1.99,
+      "close": 2.0,
+      "volume": 126500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.99,
+      "high": 2.0,
+      "low": 1.92,
+      "close": 1.94,
+      "volume": 525000
     }
   ]
 }

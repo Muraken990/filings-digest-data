@@ -1,9 +1,9 @@
 {
   "code": "CISS",
   "ticker": "CISS",
-  "last_updated": "2026-10-22 07:20:57",
+  "last_updated": "2026-10-23 07:21:00",
   "period": "5y",
-  "data_points": 842,
+  "data_points": 843,
   "data": [
     {
       "date": "2023-06-14",
@@ -6735,11 +6735,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1095107
+      "open": 0.55,
+      "high": 0.62,
+      "low": 0.53,
+      "close": 0.54,
+      "volume": 1103800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.54,
+      "high": 0.54,
+      "low": 0.5,
+      "close": 0.52,
+      "volume": 334700
     }
   ]
 }

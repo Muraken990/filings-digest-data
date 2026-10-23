@@ -1,18 +1,10 @@
 {
   "code": "DHT",
   "ticker": "DHT",
-  "last_updated": "2026-10-22 07:27:55",
+  "last_updated": "2026-10-23 07:27:57",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 4.59,
-      "high": 4.61,
-      "low": 4.51,
-      "close": 4.6,
-      "volume": 1176300
-    },
     {
       "date": "2021-10-25",
       "open": 4.6,
@@ -2448,7 +2440,7 @@
     {
       "date": "2023-01-10",
       "open": 5.84,
-      "high": 6.26,
+      "high": 6.27,
       "low": 5.82,
       "close": 6.15,
       "volume": 5261300
@@ -6496,7 +6488,7 @@
     {
       "date": "2025-01-16",
       "open": 9.59,
-      "high": 9.63,
+      "high": 9.64,
       "low": 9.33,
       "close": 9.35,
       "volume": 1853100
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4960839
+      "open": 23.35,
+      "high": 24.37,
+      "low": 23.33,
+      "close": 24.16,
+      "volume": 5003700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 23.75,
+      "high": 24.39,
+      "low": 23.22,
+      "close": 24.12,
+      "volume": 4600200
     }
   ]
 }

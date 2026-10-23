@@ -1,9 +1,9 @@
 {
   "code": "AGCC",
   "ticker": "AGCC",
-  "last_updated": "2026-10-22 07:02:40",
+  "last_updated": "2026-10-23 07:02:41",
   "period": "5y",
-  "data_points": 251,
+  "data_points": 252,
   "data": [
     {
       "date": "2025-10-22",
@@ -2007,11 +2007,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6812
+      "open": 15.97,
+      "high": 17.56,
+      "low": 15.0,
+      "close": 15.0,
+      "volume": 6900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 14.79,
+      "high": 15.39,
+      "low": 14.79,
+      "close": 14.86,
+      "volume": 2800
     }
   ]
 }

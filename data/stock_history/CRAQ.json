@@ -1,9 +1,9 @@
 {
   "code": "CRAQ",
   "ticker": "CRAQ",
-  "last_updated": "2026-10-22 07:23:37",
+  "last_updated": "2026-10-23 07:23:39",
   "period": "5y",
-  "data_points": 336,
+  "data_points": 337,
   "data": [
     {
       "date": "2025-06-23",
@@ -2687,11 +2687,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 694
+      "open": 10.4,
+      "high": 10.4,
+      "low": 10.4,
+      "close": 10.4,
+      "volume": 700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.4,
+      "high": 10.4,
+      "low": 10.4,
+      "close": 10.4,
+      "volume": 300
     }
   ]
 }

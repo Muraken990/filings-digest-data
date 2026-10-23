@@ -1,18 +1,10 @@
 {
   "code": "EDRY",
   "ticker": "EDRY",
-  "last_updated": "2026-10-22 07:30:34",
+  "last_updated": "2026-10-23 07:30:36",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 30.1,
-      "high": 30.8,
-      "low": 29.01,
-      "close": 30.75,
-      "volume": 16800
-    },
     {
       "date": "2021-10-25",
       "open": 30.45,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 59184
+      "open": 45.78,
+      "high": 48.0,
+      "low": 45.78,
+      "close": 47.59,
+      "volume": 60000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 46.44,
+      "high": 47.88,
+      "low": 43.76,
+      "close": 45.32,
+      "volume": 58100
     }
   ]
 }

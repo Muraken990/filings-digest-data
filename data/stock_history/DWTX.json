@@ -1,18 +1,10 @@
 {
   "code": "DWTX",
   "ticker": "DWTX",
-  "last_updated": "2026-10-22 07:29:42",
+  "last_updated": "2026-10-23 07:29:44",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 119.0,
-      "high": 120.85,
-      "low": 107.5,
-      "close": 107.5,
-      "volume": 1072
-    },
     {
       "date": "2021-10-25",
       "open": 107.75,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 39736
+      "open": 1.14,
+      "high": 1.21,
+      "low": 1.13,
+      "close": 1.17,
+      "volume": 39700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.15,
+      "high": 1.17,
+      "low": 1.1,
+      "close": 1.12,
+      "volume": 64600
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "FFAI",
   "ticker": "FFAI",
-  "last_updated": "2026-10-22 07:35:49",
+  "last_updated": "2026-10-23 07:35:58",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 12700800.0,
-      "high": 13730400.0,
-      "low": 12700800.0,
-      "close": 12945600.0,
-      "volume": 1
-    },
     {
       "date": "2021-10-25",
       "open": 12830400.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1069565
+      "open": 0.66,
+      "high": 0.67,
+      "low": 0.62,
+      "close": 0.65,
+      "volume": 1093200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.63,
+      "high": 0.67,
+      "low": 0.61,
+      "close": 0.64,
+      "volume": 896300
     }
   ]
 }

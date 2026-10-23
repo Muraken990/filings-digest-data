@@ -1,9 +1,9 @@
 {
   "code": "ACDC",
   "ticker": "ACDC",
-  "last_updated": "2026-10-22 07:00:09",
+  "last_updated": "2026-10-23 07:00:10",
   "period": "5y",
-  "data_points": 1114,
+  "data_points": 1115,
   "data": [
     {
       "date": "2022-05-13",
@@ -8911,11 +8911,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 794892
+      "open": 4.04,
+      "high": 4.22,
+      "low": 3.97,
+      "close": 4.13,
+      "volume": 794900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 4.16,
+      "high": 4.16,
+      "low": 3.72,
+      "close": 3.86,
+      "volume": 1511400
     }
   ]
 }

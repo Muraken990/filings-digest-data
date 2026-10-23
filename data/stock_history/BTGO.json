@@ -1,9 +1,9 @@
 {
   "code": "BTGO",
   "ticker": "BTGO",
-  "last_updated": "2026-10-22 07:15:45",
+  "last_updated": "2026-10-23 07:15:48",
   "period": "5y",
-  "data_points": 190,
+  "data_points": 191,
   "data": [
     {
       "date": "2026-01-21",
@@ -1519,11 +1519,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 890834
+      "open": 5.88,
+      "high": 6.22,
+      "low": 5.78,
+      "close": 6.08,
+      "volume": 890900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 5.81,
+      "high": 6.1,
+      "low": 5.72,
+      "close": 5.82,
+      "volume": 1047800
     }
   ]
 }

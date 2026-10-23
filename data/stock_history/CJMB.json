@@ -1,9 +1,9 @@
 {
   "code": "CJMB",
   "ticker": "CJMB",
-  "last_updated": "2026-10-22 07:20:57",
+  "last_updated": "2026-10-23 07:21:00",
   "period": "5y",
-  "data_points": 430,
+  "data_points": 431,
   "data": [
     {
       "date": "2025-02-05",
@@ -3439,11 +3439,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4993821
+      "open": 0.57,
+      "high": 0.58,
+      "low": 0.38,
+      "close": 0.51,
+      "volume": 5265000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.56,
+      "high": 0.66,
+      "low": 0.43,
+      "close": 0.52,
+      "volume": 118732400
     }
   ]
 }

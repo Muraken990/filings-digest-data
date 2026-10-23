@@ -1,18 +1,10 @@
 {
   "code": "BWLP",
   "ticker": "BWLP",
-  "last_updated": "2026-10-22 07:16:36",
+  "last_updated": "2026-10-23 07:16:38",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 2.44,
-      "high": 2.45,
-      "low": 2.42,
-      "close": 2.42,
-      "volume": 3400
-    },
     {
       "date": "2021-10-25",
       "open": 2.46,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 491495
+      "open": 24.57,
+      "high": 25.28,
+      "low": 24.5,
+      "close": 25.22,
+      "volume": 491500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 24.4,
+      "high": 24.87,
+      "low": 24.28,
+      "close": 24.73,
+      "volume": 431900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CCII",
   "ticker": "CCII",
-  "last_updated": "2026-10-22 07:18:21",
+  "last_updated": "2026-10-23 07:18:24",
   "period": "5y",
-  "data_points": 293,
+  "data_points": 294,
   "data": [
     {
       "date": "2025-08-22",
@@ -2343,11 +2343,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7980
+      "open": 10.3,
+      "high": 10.3,
+      "low": 10.29,
+      "close": 10.29,
+      "volume": 8000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.29,
+      "high": 10.3,
+      "low": 10.29,
+      "close": 10.3,
+      "volume": 333600
     }
   ]
 }

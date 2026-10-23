@@ -1,9 +1,9 @@
 {
   "code": "EIIA",
   "ticker": "EIIA",
-  "last_updated": "2026-10-22 07:31:26",
+  "last_updated": "2026-10-23 07:31:27",
   "period": "5y",
-  "data_points": 509,
+  "data_points": 510,
   "data": [
     {
       "date": "2024-10-10",
@@ -4071,11 +4071,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3482
+      "open": 25.0,
+      "high": 25.05,
+      "low": 24.84,
+      "close": 24.95,
+      "volume": 3500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 25.01,
+      "high": 25.05,
+      "low": 24.98,
+      "close": 25.03,
+      "volume": 6900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "EPRX",
   "ticker": "EPRX",
-  "last_updated": "2026-10-22 07:33:08",
+  "last_updated": "2026-10-23 07:33:17",
   "period": "5y",
-  "data_points": 639,
+  "data_points": 640,
   "data": [
     {
       "date": "2024-04-05",
@@ -5111,11 +5111,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 348313
+      "open": 7.65,
+      "high": 7.76,
+      "low": 7.55,
+      "close": 7.73,
+      "volume": 348300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 7.7,
+      "high": 7.94,
+      "low": 7.55,
+      "close": 7.59,
+      "volume": 391900
     }
   ]
 }

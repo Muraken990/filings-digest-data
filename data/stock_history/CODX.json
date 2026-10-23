@@ -1,18 +1,10 @@
 {
   "code": "CODX",
   "ticker": "CODX",
-  "last_updated": "2026-10-22 07:22:43",
+  "last_updated": "2026-10-23 07:22:46",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 252.3,
-      "high": 257.4,
-      "low": 248.4,
-      "close": 250.5,
-      "volume": 11070
-    },
     {
       "date": "2021-10-25",
       "open": 249.3,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 714969
+      "open": 0.67,
+      "high": 0.67,
+      "low": 0.61,
+      "close": 0.64,
+      "volume": 715200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.63,
+      "high": 0.65,
+      "low": 0.56,
+      "close": 0.57,
+      "volume": 530600
     }
   ]
 }

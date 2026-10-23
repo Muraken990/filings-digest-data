@@ -1,18 +1,10 @@
 {
   "code": "AFCG",
   "ticker": "AFCG",
-  "last_updated": "2026-10-22 07:01:53",
+  "last_updated": "2026-10-23 07:01:54",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 8.74,
-      "high": 8.8,
-      "low": 8.7,
-      "close": 8.75,
-      "volume": 54641
-    },
     {
       "date": "2021-10-25",
       "open": 8.76,
@@ -1768,7 +1760,7 @@
     {
       "date": "2022-09-08",
       "open": 6.83,
-      "high": 6.9,
+      "high": 6.89,
       "low": 6.74,
       "close": 6.85,
       "volume": 162025
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 25391
+      "open": 3.01,
+      "high": 3.06,
+      "low": 2.97,
+      "close": 3.0,
+      "volume": 25400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.99,
+      "high": 3.07,
+      "low": 2.98,
+      "close": 3.04,
+      "volume": 29000
     }
   ]
 }

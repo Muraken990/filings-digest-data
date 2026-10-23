@@ -1,18 +1,10 @@
 {
   "code": "ASX",
   "ticker": "ASX",
-  "last_updated": "2026-10-22 07:07:59",
+  "last_updated": "2026-10-23 07:08:00",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 5.52,
-      "high": 5.55,
-      "low": 5.41,
-      "close": 5.43,
-      "volume": 2668300
-    },
     {
       "date": "2021-10-25",
       "open": 5.53,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7246335
+      "open": 42.12,
+      "high": 42.77,
+      "low": 42.09,
+      "close": 42.41,
+      "volume": 7308900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 40.06,
+      "high": 40.22,
+      "low": 37.28,
+      "close": 37.74,
+      "volume": 13616300
     }
   ]
 }

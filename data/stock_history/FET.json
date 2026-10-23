@@ -1,18 +1,10 @@
 {
   "code": "FET",
   "ticker": "FET",
-  "last_updated": "2026-10-22 07:35:49",
+  "last_updated": "2026-10-23 07:35:58",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 23.87,
-      "high": 24.05,
-      "low": 22.27,
-      "close": 23.44,
-      "volume": 31200
-    },
     {
       "date": "2021-10-25",
       "open": 23.42,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 130815
+      "open": 84.59,
+      "high": 87.37,
+      "low": 84.59,
+      "close": 86.73,
+      "volume": 130800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 86.06,
+      "high": 86.12,
+      "low": 78.13,
+      "close": 81.56,
+      "volume": 220300
     }
   ]
 }

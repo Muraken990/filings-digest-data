@@ -1,18 +1,10 @@
 {
   "code": "DBI",
   "ticker": "DBI",
-  "last_updated": "2026-10-22 07:27:02",
+  "last_updated": "2026-10-23 07:27:04",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 11.69,
-      "high": 11.69,
-      "low": 11.35,
-      "close": 11.66,
-      "volume": 705000
-    },
     {
       "date": "2021-10-25",
       "open": 11.66,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 380609
+      "open": 6.06,
+      "high": 6.11,
+      "low": 5.94,
+      "close": 6.05,
+      "volume": 380600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 6.07,
+      "high": 6.55,
+      "low": 6.06,
+      "close": 6.55,
+      "volume": 451200
     }
   ]
 }

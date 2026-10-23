@@ -1,9 +1,9 @@
 {
   "code": "ABVX",
   "ticker": "ABVX",
-  "last_updated": "2026-10-22 07:00:08",
+  "last_updated": "2026-10-23 07:00:09",
   "period": "5y",
-  "data_points": 753,
+  "data_points": 754,
   "data": [
     {
       "date": "2023-10-20",
@@ -6023,11 +6023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 947943
+      "open": 93.86,
+      "high": 96.39,
+      "low": 93.05,
+      "close": 93.49,
+      "volume": 948000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 92.29,
+      "high": 93.98,
+      "low": 88.15,
+      "close": 90.23,
+      "volume": 895400
     }
   ]
 }

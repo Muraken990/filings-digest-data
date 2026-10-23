@@ -1,18 +1,10 @@
 {
   "code": "DFLI",
   "ticker": "DFLI",
-  "last_updated": "2026-10-22 07:27:07",
+  "last_updated": "2026-10-23 07:27:09",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 7164.0,
-      "high": 7164.0,
-      "low": 7164.0,
-      "close": 7164.0,
-      "volume": 0
-    },
     {
       "date": "2021-10-25",
       "open": 7164.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 53947
+      "open": 2.76,
+      "high": 2.93,
+      "low": 2.63,
+      "close": 2.71,
+      "volume": 54000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.7,
+      "high": 2.7,
+      "low": 2.56,
+      "close": 2.65,
+      "volume": 32300
     }
   ]
 }

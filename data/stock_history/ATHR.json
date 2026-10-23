@@ -1,9 +1,9 @@
 {
   "code": "ATHR",
   "ticker": "ATHR",
-  "last_updated": "2026-10-22 07:08:45",
+  "last_updated": "2026-10-23 07:08:47",
   "period": "5y",
-  "data_points": 385,
+  "data_points": 386,
   "data": [
     {
       "date": "2025-04-10",
@@ -3079,11 +3079,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5520
+      "open": 2.79,
+      "high": 2.87,
+      "low": 2.42,
+      "close": 2.52,
+      "volume": 5600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.36,
+      "high": 2.8,
+      "low": 2.36,
+      "close": 2.53,
+      "volume": 9300
     }
   ]
 }

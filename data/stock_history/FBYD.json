@@ -1,9 +1,9 @@
 {
   "code": "FBYD",
   "ticker": "FBYD",
-  "last_updated": "2026-10-22 07:34:58",
+  "last_updated": "2026-10-23 07:35:07",
   "period": "5y",
-  "data_points": 763,
+  "data_points": 764,
   "data": [
     {
       "date": "2023-10-06",
@@ -6103,11 +6103,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 70275
+      "open": 8.51,
+      "high": 8.8,
+      "low": 8.11,
+      "close": 8.21,
+      "volume": 70300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 8.28,
+      "high": 8.43,
+      "low": 8.04,
+      "close": 8.28,
+      "volume": 83400
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "ETD",
   "ticker": "ETD",
-  "last_updated": "2026-10-22 07:34:00",
+  "last_updated": "2026-10-23 07:34:09",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 15.13,
-      "high": 15.17,
-      "low": 14.95,
-      "close": 15.1,
-      "volume": 156800
-    },
     {
       "date": "2021-10-25",
       "open": 15.13,
@@ -1279,7 +1271,7 @@
     },
     {
       "date": "2022-06-10",
-      "open": 14.64,
+      "open": 14.63,
       "high": 14.87,
       "low": 14.34,
       "close": 14.39,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 404469
+      "open": 20.12,
+      "high": 20.12,
+      "low": 19.7,
+      "close": 19.78,
+      "volume": 404500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 19.73,
+      "high": 20.81,
+      "low": 19.73,
+      "close": 20.79,
+      "volume": 336400
     }
   ]
 }

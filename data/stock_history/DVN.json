@@ -1,18 +1,10 @@
 {
   "code": "DVN",
   "ticker": "DVN",
-  "last_updated": "2026-10-22 07:29:42",
+  "last_updated": "2026-10-23 07:29:43",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 31.53,
-      "high": 31.93,
-      "low": 31.07,
-      "close": 31.92,
-      "volume": 7334500
-    },
     {
       "date": "2021-10-25",
       "open": 32.36,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10502058
+      "open": 50.0,
+      "high": 50.44,
+      "low": 49.18,
+      "close": 49.87,
+      "volume": 10503800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 50.42,
+      "high": 50.51,
+      "low": 48.4,
+      "close": 49.18,
+      "volume": 9476000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "DTK",
   "ticker": "DTK",
-  "last_updated": "2026-10-22 07:29:39",
+  "last_updated": "2026-10-23 07:29:41",
   "period": "5y",
-  "data_points": 273,
+  "data_points": 274,
   "data": [
     {
       "date": "2025-09-22",
@@ -2183,11 +2183,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 48944
+      "open": 21.6,
+      "high": 21.6,
+      "low": 21.23,
+      "close": 21.33,
+      "volume": 48900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 21.47,
+      "high": 21.5,
+      "low": 21.15,
+      "close": 21.33,
+      "volume": 34100
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CTW",
   "ticker": "CTW",
-  "last_updated": "2026-10-22 07:25:20",
+  "last_updated": "2026-10-23 07:25:21",
   "period": "5y",
-  "data_points": 305,
+  "data_points": 306,
   "data": [
     {
       "date": "2025-08-06",
@@ -2439,11 +2439,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 16007
+      "open": 1.77,
+      "high": 1.93,
+      "low": 1.7,
+      "close": 1.75,
+      "volume": 16000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.75,
+      "high": 1.75,
+      "low": 1.75,
+      "close": 1.75,
+      "volume": 0
     }
   ]
 }

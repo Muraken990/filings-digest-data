@@ -1,18 +1,10 @@
 {
   "code": "ADC",
   "ticker": "ADC",
-  "last_updated": "2026-10-22 07:01:01",
+  "last_updated": "2026-10-23 07:01:02",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 56.86,
-      "high": 57.19,
-      "low": 56.3,
-      "close": 56.51,
-      "volume": 341700
-    },
     {
       "date": "2021-10-25",
       "open": 56.54,
@@ -50,7 +42,7 @@
       "open": 57.77,
       "high": 58.13,
       "low": 57.18,
-      "close": 57.42,
+      "close": 57.43,
       "volume": 471800
     },
     {
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2347102
+      "open": 67.2,
+      "high": 67.2,
+      "low": 64.34,
+      "close": 64.49,
+      "volume": 2347100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 65.0,
+      "high": 67.29,
+      "low": 64.78,
+      "close": 67.07,
+      "volume": 1834600
     }
   ]
 }

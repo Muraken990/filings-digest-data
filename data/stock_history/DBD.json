@@ -1,9 +1,9 @@
 {
   "code": "DBD",
   "ticker": "DBD",
-  "last_updated": "2026-10-22 07:27:01",
+  "last_updated": "2026-10-23 07:27:03",
   "period": "5y",
-  "data_points": 801,
+  "data_points": 802,
   "data": [
     {
       "date": "2023-08-14",
@@ -6407,11 +6407,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 217166
+      "open": 68.47,
+      "high": 69.1,
+      "low": 67.42,
+      "close": 68.16,
+      "volume": 217200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 67.51,
+      "high": 69.68,
+      "low": 67.47,
+      "close": 69.26,
+      "volume": 196200
     }
   ]
 }

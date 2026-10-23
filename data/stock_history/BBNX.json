@@ -1,9 +1,9 @@
 {
   "code": "BBNX",
   "ticker": "BBNX",
-  "last_updated": "2026-10-22 07:11:21",
+  "last_updated": "2026-10-23 07:11:22",
   "period": "5y",
-  "data_points": 434,
+  "data_points": 435,
   "data": [
     {
       "date": "2025-01-30",
@@ -3471,11 +3471,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1440594
+      "open": 17.79,
+      "high": 18.5,
+      "low": 17.17,
+      "close": 18.4,
+      "volume": 1440600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 18.4,
+      "high": 19.38,
+      "low": 18.23,
+      "close": 19.34,
+      "volume": 685200
     }
   ]
 }

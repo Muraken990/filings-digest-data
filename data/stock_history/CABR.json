@@ -1,9 +1,9 @@
 {
   "code": "CABR",
   "ticker": "CABR",
-  "last_updated": "2026-10-22 07:17:25",
+  "last_updated": "2026-10-23 07:17:27",
   "period": "5y",
-  "data_points": 233,
+  "data_points": 234,
   "data": [
     {
       "date": "2025-11-17",
@@ -1863,11 +1863,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1204
+      "open": 1.06,
+      "high": 1.1,
+      "low": 1.06,
+      "close": 1.1,
+      "volume": 1200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.15,
+      "high": 1.15,
+      "low": 1.05,
+      "close": 1.05,
+      "volume": 11900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ANGX",
   "ticker": "ANGX",
-  "last_updated": "2026-10-22 07:06:08",
+  "last_updated": "2026-10-23 07:06:09",
   "period": "5y",
-  "data_points": 280,
+  "data_points": 281,
   "data": [
     {
       "date": "2025-09-11",
@@ -2239,11 +2239,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 843422
+      "open": 3.44,
+      "high": 3.54,
+      "low": 3.42,
+      "close": 3.49,
+      "volume": 844100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 3.45,
+      "high": 3.53,
+      "low": 3.38,
+      "close": 3.48,
+      "volume": 999400
     }
   ]
 }

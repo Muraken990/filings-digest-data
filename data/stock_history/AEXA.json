@@ -1,9 +1,9 @@
 {
   "code": "AEXA",
   "ticker": "AEXA",
-  "last_updated": "2026-10-22 07:01:53",
+  "last_updated": "2026-10-23 07:01:54",
   "period": "5y",
-  "data_points": 269,
+  "data_points": 270,
   "data": [
     {
       "date": "2025-09-26",
@@ -2151,11 +2151,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 68937
+      "open": 10.7,
+      "high": 10.74,
+      "low": 10.67,
+      "close": 10.7,
+      "volume": 68900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.68,
+      "high": 10.76,
+      "low": 10.67,
+      "close": 10.7,
+      "volume": 40300
     }
   ]
 }

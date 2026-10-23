@@ -1,18 +1,10 @@
 {
   "code": "FICO",
   "ticker": "FICO",
-  "last_updated": "2026-10-22 07:36:38",
+  "last_updated": "2026-10-23 07:36:47",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 409.03,
-      "high": 412.45,
-      "low": 406.02,
-      "close": 410.05,
-      "volume": 140900
-    },
     {
       "date": "2021-10-25",
       "open": 410.78,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 348558
+      "open": 798.81,
+      "high": 809.63,
+      "low": 790.71,
+      "close": 795.21,
+      "volume": 348600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 811.25,
+      "high": 828.95,
+      "low": 802.96,
+      "close": 823.27,
+      "volume": 414900
     }
   ]
 }

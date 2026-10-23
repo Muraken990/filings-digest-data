@@ -1,18 +1,10 @@
 {
   "code": "AGYS",
   "ticker": "AGYS",
-  "last_updated": "2026-10-22 07:02:45",
+  "last_updated": "2026-10-23 07:02:45",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 52.52,
-      "high": 52.68,
-      "low": 51.17,
-      "close": 51.7,
-      "volume": 62500
-    },
     {
       "date": "2021-10-25",
       "open": 51.81,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 265337
+      "open": 116.01,
+      "high": 118.18,
+      "low": 115.44,
+      "close": 116.02,
+      "volume": 265300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 117.09,
+      "high": 120.18,
+      "low": 116.56,
+      "close": 120.07,
+      "volume": 211400
     }
   ]
 }

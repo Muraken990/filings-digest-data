@@ -1,9 +1,9 @@
 {
   "code": "CTNT",
   "ticker": "CTNT",
-  "last_updated": "2026-10-22 07:25:18",
+  "last_updated": "2026-10-23 07:25:20",
   "period": "5y",
-  "data_points": 810,
+  "data_points": 811,
   "data": [
     {
       "date": "2023-08-01",
@@ -6479,11 +6479,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 57573
+      "open": 2.57,
+      "high": 2.58,
+      "low": 2.45,
+      "close": 2.48,
+      "volume": 58700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.42,
+      "high": 2.47,
+      "low": 2.32,
+      "close": 2.34,
+      "volume": 51100
     }
   ]
 }

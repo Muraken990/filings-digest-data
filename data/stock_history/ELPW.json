@@ -1,9 +1,9 @@
 {
   "code": "ELPW",
   "ticker": "ELPW",
-  "last_updated": "2026-10-22 07:31:28",
+  "last_updated": "2026-10-23 07:31:30",
   "period": "5y",
-  "data_points": 873,
+  "data_points": 874,
   "data": [
     {
       "date": "2023-05-01",
@@ -6983,11 +6983,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 18054
+      "open": 2.37,
+      "high": 2.43,
+      "low": 2.26,
+      "close": 2.3,
+      "volume": 18100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.34,
+      "high": 2.37,
+      "low": 2.26,
+      "close": 2.26,
+      "volume": 11500
     }
   ]
 }

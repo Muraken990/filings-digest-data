@@ -1,18 +1,10 @@
 {
   "code": "FC",
   "ticker": "FC",
-  "last_updated": "2026-10-22 07:35:43",
+  "last_updated": "2026-10-23 07:35:52",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 41.49,
-      "high": 41.95,
-      "low": 41.27,
-      "close": 41.76,
-      "volume": 56200
-    },
     {
       "date": "2021-10-25",
       "open": 41.93,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 59778
+      "open": 18.39,
+      "high": 18.39,
+      "low": 17.72,
+      "close": 17.87,
+      "volume": 59800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 18.43,
+      "high": 18.93,
+      "low": 18.43,
+      "close": 18.93,
+      "volume": 27000
     }
   ]
 }

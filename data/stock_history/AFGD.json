@@ -1,18 +1,10 @@
 {
   "code": "AFGD",
   "ticker": "AFGD",
-  "last_updated": "2026-10-22 07:02:39",
+  "last_updated": "2026-10-23 07:02:40",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 20.97,
-      "high": 21.0,
-      "low": 20.83,
-      "close": 21.0,
-      "volume": 2500
-    },
     {
       "date": "2021-10-25",
       "open": 21.0,
@@ -2040,7 +2032,7 @@
     {
       "date": "2022-10-26",
       "open": 15.94,
-      "high": 16.31,
+      "high": 16.3,
       "low": 15.89,
       "close": 16.04,
       "volume": 8600
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3912
+      "open": 21.79,
+      "high": 21.97,
+      "low": 21.58,
+      "close": 21.58,
+      "volume": 3900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 21.58,
+      "high": 21.58,
+      "low": 21.01,
+      "close": 21.11,
+      "volume": 10600
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "DTSS",
   "ticker": "DTSS",
-  "last_updated": "2026-10-22 07:29:40",
+  "last_updated": "2026-10-23 07:29:42",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 30.3,
-      "high": 30.3,
-      "low": 27.45,
-      "close": 27.6,
-      "volume": 19520
-    },
     {
       "date": "2021-10-25",
       "open": 27.9,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 153291
+      "open": 0.55,
+      "high": 0.62,
+      "low": 0.55,
+      "close": 0.56,
+      "volume": 153300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.55,
+      "high": 0.61,
+      "low": 0.53,
+      "close": 0.61,
+      "volume": 132600
     }
   ]
 }

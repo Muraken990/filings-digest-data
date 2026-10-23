@@ -1,18 +1,10 @@
 {
   "code": "EDF",
   "ticker": "EDF",
-  "last_updated": "2026-10-22 07:30:34",
+  "last_updated": "2026-10-23 07:30:36",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 3.53,
-      "high": 3.58,
-      "low": 3.53,
-      "close": 3.57,
-      "volume": 77600
-    },
     {
       "date": "2021-10-25",
       "open": 3.58,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 133954
+      "open": 4.5,
+      "high": 4.5,
+      "low": 4.36,
+      "close": 4.42,
+      "volume": 134000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 4.4,
+      "high": 4.42,
+      "low": 4.35,
+      "close": 4.4,
+      "volume": 116400
     }
   ]
 }

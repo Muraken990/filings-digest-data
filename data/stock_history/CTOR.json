@@ -1,9 +1,9 @@
 {
   "code": "CTOR",
   "ticker": "CTOR",
-  "last_updated": "2026-10-22 07:25:18",
+  "last_updated": "2026-10-23 07:25:20",
   "period": "5y",
-  "data_points": 970,
+  "data_points": 971,
   "data": [
     {
       "date": "2022-12-08",
@@ -7759,11 +7759,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 22886
+      "open": 0.7,
+      "high": 0.76,
+      "low": 0.65,
+      "close": 0.7,
+      "volume": 22900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.73,
+      "high": 0.73,
+      "low": 0.65,
+      "close": 0.7,
+      "volume": 38000
     }
   ]
 }

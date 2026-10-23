@@ -1,9 +1,9 @@
 {
   "code": "CAMP",
   "ticker": "CAMP",
-  "last_updated": "2026-10-22 07:17:27",
+  "last_updated": "2026-10-23 07:17:30",
   "period": "5y",
-  "data_points": 508,
+  "data_points": 509,
   "data": [
     {
       "date": "2024-10-11",
@@ -4063,11 +4063,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 186414
+      "open": 3.17,
+      "high": 3.33,
+      "low": 2.96,
+      "close": 3.29,
+      "volume": 186400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 3.2,
+      "high": 3.5,
+      "low": 3.19,
+      "close": 3.39,
+      "volume": 141100
     }
   ]
 }

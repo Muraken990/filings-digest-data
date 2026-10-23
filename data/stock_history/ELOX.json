@@ -1,9 +1,9 @@
 {
   "code": "ELOX",
   "ticker": "ELOX",
-  "last_updated": "2026-10-22 07:31:28",
+  "last_updated": "2026-10-23 07:31:30",
   "period": "5y",
-  "data_points": 94,
+  "data_points": 95,
   "data": [
     {
       "date": "2026-06-09",
@@ -751,11 +751,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 16030
+      "open": 13.34,
+      "high": 13.57,
+      "low": 12.73,
+      "close": 13.3,
+      "volume": 16300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 13.21,
+      "high": 13.56,
+      "low": 12.64,
+      "close": 13.12,
+      "volume": 10400
     }
   ]
 }

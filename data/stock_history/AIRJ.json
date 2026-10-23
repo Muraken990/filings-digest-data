@@ -1,9 +1,9 @@
 {
   "code": "AIRJ",
   "ticker": "AIRJ",
-  "last_updated": "2026-10-22 07:03:35",
+  "last_updated": "2026-10-23 07:03:34",
   "period": "5y",
-  "data_points": 1185,
+  "data_points": 1186,
   "data": [
     {
       "date": "2022-02-01",
@@ -9479,11 +9479,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 561980
+      "open": 3.11,
+      "high": 3.11,
+      "low": 3.03,
+      "close": 3.06,
+      "volume": 562400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.99,
+      "high": 3.05,
+      "low": 2.9,
+      "close": 2.94,
+      "volume": 794200
     }
   ]
 }

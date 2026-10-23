@@ -1,9 +1,9 @@
 {
   "code": "ASPI",
   "ticker": "ASPI",
-  "last_updated": "2026-10-22 07:07:57",
+  "last_updated": "2026-10-23 07:07:58",
   "period": "5y",
-  "data_points": 989,
+  "data_points": 990,
   "data": [
     {
       "date": "2022-11-10",
@@ -7911,11 +7911,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2793520
+      "open": 2.1,
+      "high": 2.23,
+      "low": 2.07,
+      "close": 2.17,
+      "volume": 2793500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.06,
+      "high": 2.11,
+      "low": 2.01,
+      "close": 2.09,
+      "volume": 3754200
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ECO",
   "ticker": "ECO",
-  "last_updated": "2026-10-22 07:30:33",
+  "last_updated": "2026-10-23 07:30:34",
   "period": "5y",
-  "data_points": 801,
+  "data_points": 802,
   "data": [
     {
       "date": "2023-08-14",
@@ -6407,11 +6407,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 600674
+      "open": 87.83,
+      "high": 92.21,
+      "low": 87.55,
+      "close": 91.23,
+      "volume": 602000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 90.0,
+      "high": 91.81,
+      "low": 88.72,
+      "close": 90.05,
+      "volume": 644900
     }
   ]
 }

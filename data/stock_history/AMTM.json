@@ -1,9 +1,9 @@
 {
   "code": "AMTM",
   "ticker": "AMTM",
-  "last_updated": "2026-10-22 07:05:21",
+  "last_updated": "2026-10-23 07:05:22",
   "period": "5y",
-  "data_points": 521,
+  "data_points": 522,
   "data": [
     {
       "date": "2024-09-24",
@@ -4167,11 +4167,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1627639
+      "open": 19.97,
+      "high": 20.38,
+      "low": 19.82,
+      "close": 20.15,
+      "volume": 1628800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 20.09,
+      "high": 21.35,
+      "low": 20.03,
+      "close": 21.29,
+      "volume": 2404200
     }
   ]
 }

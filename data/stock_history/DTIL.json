@@ -1,18 +1,10 @@
 {
   "code": "DTIL",
   "ticker": "DTIL",
-  "last_updated": "2026-10-22 07:29:39",
+  "last_updated": "2026-10-23 07:29:41",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 287.7,
-      "high": 291.0,
-      "low": 276.6,
-      "close": 289.5,
-      "volume": 9603
-    },
     {
       "date": "2021-10-25",
       "open": 288.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 231039
+      "open": 6.62,
+      "high": 6.86,
+      "low": 6.55,
+      "close": 6.71,
+      "volume": 231000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 6.7,
+      "high": 6.93,
+      "low": 6.58,
+      "close": 6.78,
+      "volume": 132400
     }
   ]
 }

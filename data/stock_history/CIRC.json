@@ -1,18 +1,10 @@
 {
   "code": "CIRC",
   "ticker": "CIRC",
-  "last_updated": "2026-10-22 07:20:56",
+  "last_updated": "2026-10-23 07:21:00",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 140.0,
-      "high": 147.6,
-      "low": 138.0,
-      "close": 142.4,
-      "volume": 3768
-    },
     {
       "date": "2021-10-25",
       "open": 142.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1150661
+      "open": 0.38,
+      "high": 0.39,
+      "low": 0.32,
+      "close": 0.33,
+      "volume": 1151300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.32,
+      "high": 0.33,
+      "low": 0.29,
+      "close": 0.29,
+      "volume": 801700
     }
   ]
 }

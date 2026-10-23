@@ -1,18 +1,10 @@
 {
   "code": "COHN",
   "ticker": "COHN",
-  "last_updated": "2026-10-22 07:22:44",
+  "last_updated": "2026-10-23 07:22:47",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 11.44,
-      "high": 11.62,
-      "low": 10.94,
-      "close": 11.2,
-      "volume": 102300
-    },
     {
       "date": "2021-10-25",
       "open": 11.23,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7360
+      "open": 9.88,
+      "high": 9.88,
+      "low": 9.5,
+      "close": 9.5,
+      "volume": 7400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 9.5,
+      "high": 9.59,
+      "low": 9.11,
+      "close": 9.11,
+      "volume": 7800
     }
   ]
 }
