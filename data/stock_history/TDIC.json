@@ -1,9 +1,9 @@
 {
   "code": "TDIC",
   "ticker": "TDIC",
-  "last_updated": "2026-10-22 12:17:25",
+  "last_updated": "2026-10-23 12:17:28",
   "period": "5y",
-  "data_points": 315,
+  "data_points": 316,
   "data": [
     {
       "date": "2025-07-23",
@@ -2519,11 +2519,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 63125
+      "open": 1.73,
+      "high": 1.78,
+      "low": 1.62,
+      "close": 1.67,
+      "volume": 65200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.67,
+      "high": 1.71,
+      "low": 1.58,
+      "close": 1.69,
+      "volume": 72700
     }
   ]
 }

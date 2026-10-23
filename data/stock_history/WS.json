@@ -1,9 +1,9 @@
 {
   "code": "WS",
   "ticker": "WS",
-  "last_updated": "2026-10-22 12:27:53",
+  "last_updated": "2026-10-23 12:27:57",
   "period": "5y",
-  "data_points": 727,
+  "data_points": 728,
   "data": [
     {
       "date": "2023-11-28",
@@ -5815,11 +5815,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 332084
+      "open": 41.11,
+      "high": 41.3,
+      "low": 39.77,
+      "close": 40.83,
+      "volume": 332100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 39.98,
+      "high": 40.8,
+      "low": 38.36,
+      "close": 40.47,
+      "volume": 377500
     }
   ]
 }

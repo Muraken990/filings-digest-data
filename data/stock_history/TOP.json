@@ -1,9 +1,9 @@
 {
   "code": "TOP",
   "ticker": "TOP",
-  "last_updated": "2026-10-22 12:19:12",
+  "last_updated": "2026-10-23 12:19:15",
   "period": "5y",
-  "data_points": 1102,
+  "data_points": 1103,
   "data": [
     {
       "date": "2022-06-01",
@@ -8815,11 +8815,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 93792
+      "open": 15.06,
+      "high": 16.42,
+      "low": 14.78,
+      "close": 15.63,
+      "volume": 93800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 15.45,
+      "high": 16.7,
+      "low": 15.17,
+      "close": 16.12,
+      "volume": 121500
     }
   ]
 }

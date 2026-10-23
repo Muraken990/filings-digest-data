@@ -1,18 +1,10 @@
 {
   "code": "PMCB",
   "ticker": "PMCB",
-  "last_updated": "2026-10-22 12:00:06",
+  "last_updated": "2026-10-23 12:00:06",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 2.86,
-      "high": 2.9,
-      "low": 2.65,
-      "close": 2.75,
-      "volume": 1552400
-    },
     {
       "date": "2021-10-25",
       "open": 2.7,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 50847
+      "open": 0.34,
+      "high": 0.37,
+      "low": 0.34,
+      "close": 0.35,
+      "volume": 50800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.37,
+      "high": 0.37,
+      "low": 0.34,
+      "close": 0.35,
+      "volume": 32900
     }
   ]
 }

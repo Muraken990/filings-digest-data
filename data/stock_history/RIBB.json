@@ -1,9 +1,9 @@
 {
   "code": "RIBB",
   "ticker": "RIBB",
-  "last_updated": "2026-10-22 12:05:19",
+  "last_updated": "2026-10-23 12:05:23",
   "period": "5y",
-  "data_points": 409,
+  "data_points": 410,
   "data": [
     {
       "date": "2025-03-07",
@@ -3271,11 +3271,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5239
+      "open": 6.3,
+      "high": 7.34,
+      "low": 6.11,
+      "close": 6.6,
+      "volume": 5500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 6.14,
+      "high": 6.94,
+      "low": 6.1,
+      "close": 6.11,
+      "volume": 2500
     }
   ]
 }

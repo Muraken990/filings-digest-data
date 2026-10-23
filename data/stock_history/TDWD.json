@@ -1,9 +1,9 @@
 {
   "code": "TDWD",
   "ticker": "TDWD",
-  "last_updated": "2026-10-22 12:17:26",
+  "last_updated": "2026-10-23 12:17:29",
   "period": "5y",
-  "data_points": 219,
+  "data_points": 220,
   "data": [
     {
       "date": "2025-12-08",
@@ -1751,11 +1751,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 300535
+      "open": 10.12,
+      "high": 10.12,
+      "low": 10.12,
+      "close": 10.12,
+      "volume": 300500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.12,
+      "high": 10.12,
+      "low": 10.12,
+      "close": 10.12,
+      "volume": 0
     }
   ]
 }

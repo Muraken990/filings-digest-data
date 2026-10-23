@@ -1,9 +1,9 @@
 {
   "code": "SAGU",
   "ticker": "SAGU",
-  "last_updated": "2026-10-22 12:07:55",
+  "last_updated": "2026-10-23 12:08:00",
   "period": "5y",
-  "data_points": 105,
+  "data_points": 106,
   "data": [
     {
       "date": "2026-05-22",
@@ -839,11 +839,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1682
+      "open": 10.05,
+      "high": 10.05,
+      "low": 10.05,
+      "close": 10.05,
+      "volume": 1700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.06,
+      "high": 10.07,
+      "low": 10.04,
+      "close": 10.04,
+      "volume": 51000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SRJN",
   "ticker": "SRJN",
-  "last_updated": "2026-10-22 12:13:59",
+  "last_updated": "2026-10-23 12:14:03",
   "period": "5y",
-  "data_points": 192,
+  "data_points": 193,
   "data": [
     {
       "date": "2026-01-16",
@@ -1535,11 +1535,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 33299
+      "open": 20.8,
+      "high": 21.0,
+      "low": 20.65,
+      "close": 20.68,
+      "volume": 33300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 20.65,
+      "high": 21.26,
+      "low": 20.65,
+      "close": 20.67,
+      "volume": 30500
     }
   ]
 }

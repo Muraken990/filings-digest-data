@@ -1,9 +1,9 @@
 {
   "code": "WTFCN",
   "ticker": "WTFCN",
-  "last_updated": "2026-10-22 12:27:55",
+  "last_updated": "2026-10-23 12:27:59",
   "period": "5y",
-  "data_points": 365,
+  "data_points": 366,
   "data": [
     {
       "date": "2025-05-09",
@@ -2919,11 +2919,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 12110
+      "open": 25.78,
+      "high": 25.78,
+      "low": 25.62,
+      "close": 25.69,
+      "volume": 12200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 25.69,
+      "high": 25.8,
+      "low": 25.65,
+      "close": 25.68,
+      "volume": 30600
     }
   ]
 }

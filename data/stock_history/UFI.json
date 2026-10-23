@@ -1,18 +1,10 @@
 {
   "code": "UFI",
   "ticker": "UFI",
-  "last_updated": "2026-10-22 12:21:50",
+  "last_updated": "2026-10-23 12:21:52",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 22.27,
-      "high": 22.38,
-      "low": 21.63,
-      "close": 21.91,
-      "volume": 33900
-    },
     {
       "date": "2021-10-25",
       "open": 21.82,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 66719
+      "open": 5.51,
+      "high": 5.7,
+      "low": 5.5,
+      "close": 5.51,
+      "volume": 66700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 5.49,
+      "high": 5.49,
+      "low": 5.38,
+      "close": 5.47,
+      "volume": 63300
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "QUIK",
   "ticker": "QUIK",
-  "last_updated": "2026-10-22 12:03:32",
+  "last_updated": "2026-10-23 12:03:33",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 6.01,
-      "high": 6.15,
-      "low": 5.75,
-      "close": 5.93,
-      "volume": 31100
-    },
     {
       "date": "2021-10-25",
       "open": 5.9,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 125967
+      "open": 9.46,
+      "high": 9.57,
+      "low": 9.31,
+      "close": 9.57,
+      "volume": 126000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 9.21,
+      "high": 9.27,
+      "low": 8.69,
+      "close": 8.82,
+      "volume": 269400
     }
   ]
 }

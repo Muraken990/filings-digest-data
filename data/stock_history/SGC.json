@@ -1,18 +1,10 @@
 {
   "code": "SGC",
   "ticker": "SGC",
-  "last_updated": "2026-10-22 12:09:42",
+  "last_updated": "2026-10-23 12:09:46",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 20.61,
-      "high": 20.81,
-      "low": 20.49,
-      "close": 20.76,
-      "volume": 13800
-    },
     {
       "date": "2021-10-25",
       "open": 20.77,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 22467
+      "open": 13.19,
+      "high": 13.19,
+      "low": 12.56,
+      "close": 12.63,
+      "volume": 22500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 12.64,
+      "high": 13.44,
+      "low": 12.5,
+      "close": 12.97,
+      "volume": 24400
     }
   ]
 }

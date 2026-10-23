@@ -1,9 +1,9 @@
 {
   "code": "SMJF",
   "ticker": "SMJF",
-  "last_updated": "2026-10-22 12:12:13",
+  "last_updated": "2026-10-23 12:12:17",
   "period": "5y",
-  "data_points": 221,
+  "data_points": 222,
   "data": [
     {
       "date": "2025-12-04",
@@ -1767,11 +1767,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 112111
+      "open": 1.73,
+      "high": 1.77,
+      "low": 1.63,
+      "close": 1.72,
+      "volume": 112800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.71,
+      "high": 1.78,
+      "low": 1.68,
+      "close": 1.75,
+      "volume": 86300
     }
   ]
 }

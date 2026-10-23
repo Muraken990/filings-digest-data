@@ -1,18 +1,10 @@
 {
   "code": "VCTR",
   "ticker": "VCTR",
-  "last_updated": "2026-10-22 12:23:34",
+  "last_updated": "2026-10-23 12:23:37",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 31.32,
-      "high": 31.88,
-      "low": 31.15,
-      "close": 31.59,
-      "volume": 36500
-    },
     {
       "date": "2021-10-25",
       "open": 31.72,
@@ -5754,7 +5746,7 @@
       "open": 50.77,
       "high": 51.15,
       "low": 49.47,
-      "close": 49.72,
+      "close": 49.71,
       "volume": 214100
     },
     {
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 552019
+      "open": 109.0,
+      "high": 110.0,
+      "low": 106.59,
+      "close": 107.6,
+      "volume": 571300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 105.87,
+      "high": 109.99,
+      "low": 103.09,
+      "close": 107.39,
+      "volume": 406500
     }
   ]
 }

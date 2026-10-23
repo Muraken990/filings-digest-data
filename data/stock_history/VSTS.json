@@ -1,9 +1,9 @@
 {
   "code": "VSTS",
   "ticker": "VSTS",
-  "last_updated": "2026-10-22 12:25:21",
+  "last_updated": "2026-10-23 12:25:23",
   "period": "5y",
-  "data_points": 770,
+  "data_points": 771,
   "data": [
     {
       "date": "2023-09-27",
@@ -6159,11 +6159,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1051213
+      "open": 14.54,
+      "high": 14.92,
+      "low": 14.38,
+      "close": 14.83,
+      "volume": 1055300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 14.75,
+      "high": 15.0,
+      "low": 14.42,
+      "close": 14.55,
+      "volume": 1023500
     }
   ]
 }

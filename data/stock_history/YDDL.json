@@ -1,9 +1,9 @@
 {
   "code": "YDDL",
   "ticker": "YDDL",
-  "last_updated": "2026-10-22 12:29:37",
+  "last_updated": "2026-10-23 12:29:41",
   "period": "5y",
-  "data_points": 260,
+  "data_points": 261,
   "data": [
     {
       "date": "2025-10-09",
@@ -2079,11 +2079,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
+      "open": 1.22,
+      "high": 1.24,
+      "low": 1.21,
+      "close": 1.21,
       "volume": 8400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.19,
+      "high": 1.25,
+      "low": 1.19,
+      "close": 1.2,
+      "volume": 19600
     }
   ]
 }

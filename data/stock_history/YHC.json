@@ -1,9 +1,9 @@
 {
   "code": "YHC",
   "ticker": "YHC",
-  "last_updated": "2026-10-22 12:29:38",
+  "last_updated": "2026-10-23 12:29:42",
   "period": "5y",
-  "data_points": 803,
+  "data_points": 804,
   "data": [
     {
       "date": "2023-08-10",
@@ -6423,11 +6423,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 61954
+      "open": 1.75,
+      "high": 1.87,
+      "low": 1.72,
+      "close": 1.79,
+      "volume": 62000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.79,
+      "high": 2.57,
+      "low": 1.79,
+      "close": 2.5,
+      "volume": 585600
     }
   ]
 }

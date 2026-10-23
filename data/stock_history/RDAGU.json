@@ -1,9 +1,9 @@
 {
   "code": "RDAGU",
   "ticker": "RDAGU",
-  "last_updated": "2026-10-22 12:04:24",
+  "last_updated": "2026-10-23 12:04:28",
   "period": "5y",
-  "data_points": 371,
+  "data_points": 372,
   "data": [
     {
       "date": "2025-05-01",
@@ -2967,11 +2967,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 675
+      "open": 10.53,
+      "high": 10.56,
+      "low": 10.53,
+      "close": 10.56,
+      "volume": 800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.56,
+      "high": 10.56,
+      "low": 10.56,
+      "close": 10.56,
+      "volume": 0
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SWKHL",
   "ticker": "SWKHL",
-  "last_updated": "2026-10-22 12:15:44",
+  "last_updated": "2026-10-23 12:15:47",
   "period": "5y",
-  "data_points": 765,
+  "data_points": 766,
   "data": [
     {
       "date": "2023-10-04",
@@ -6119,11 +6119,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4413
+      "open": 25.12,
+      "high": 25.14,
+      "low": 25.12,
+      "close": 25.13,
+      "volume": 4400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 25.13,
+      "high": 25.14,
+      "low": 25.13,
+      "close": 25.14,
+      "volume": 500
     }
   ]
 }

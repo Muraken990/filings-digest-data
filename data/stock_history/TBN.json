@@ -1,9 +1,9 @@
 {
   "code": "TBN",
   "ticker": "TBN",
-  "last_updated": "2026-10-22 12:16:37",
+  "last_updated": "2026-10-23 12:16:40",
   "period": "5y",
-  "data_points": 582,
+  "data_points": 583,
   "data": [
     {
       "date": "2024-06-27",
@@ -4655,11 +4655,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 164876
+      "open": 29.87,
+      "high": 30.19,
+      "low": 28.73,
+      "close": 29.02,
+      "volume": 164900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 28.73,
+      "high": 29.34,
+      "low": 27.6,
+      "close": 27.79,
+      "volume": 391500
     }
   ]
 }

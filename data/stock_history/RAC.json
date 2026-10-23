@@ -1,9 +1,9 @@
 {
   "code": "RAC",
   "ticker": "RAC",
-  "last_updated": "2026-10-22 12:03:33",
+  "last_updated": "2026-10-23 12:03:33",
   "period": "5y",
-  "data_points": 379,
+  "data_points": 380,
   "data": [
     {
       "date": "2025-04-21",
@@ -3031,11 +3031,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 47878
+      "open": 10.56,
+      "high": 10.57,
+      "low": 10.56,
+      "close": 10.57,
+      "volume": 47900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.56,
+      "high": 10.57,
+      "low": 10.55,
+      "close": 10.56,
+      "volume": 67800
     }
   ]
 }

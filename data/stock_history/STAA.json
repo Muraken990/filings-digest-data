@@ -1,18 +1,10 @@
 {
   "code": "STAA",
   "ticker": "STAA",
-  "last_updated": "2026-10-22 12:14:48",
+  "last_updated": "2026-10-23 12:14:52",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 126.05,
-      "high": 127.62,
-      "low": 121.23,
-      "close": 122.48,
-      "volume": 187400
-    },
     {
       "date": "2021-10-25",
       "open": 122.42,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 338439
+      "open": 22.04,
+      "high": 22.31,
+      "low": 21.5,
+      "close": 21.61,
+      "volume": 338400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 21.61,
+      "high": 22.68,
+      "low": 21.61,
+      "close": 22.49,
+      "volume": 415000
     }
   ]
 }

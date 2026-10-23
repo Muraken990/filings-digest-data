@@ -1,18 +1,10 @@
 {
   "code": "TSEM",
   "ticker": "TSEM",
-  "last_updated": "2026-10-22 12:20:07",
+  "last_updated": "2026-10-23 12:20:10",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 31.02,
-      "high": 31.22,
-      "low": 30.71,
-      "close": 31.11,
-      "volume": 249200
-    },
     {
       "date": "2021-10-25",
       "open": 31.36,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1962192
+      "open": 188.47,
+      "high": 192.48,
+      "low": 184.21,
+      "close": 189.55,
+      "volume": 1962600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 180.01,
+      "high": 181.0,
+      "low": 164.43,
+      "close": 167.71,
+      "volume": 4233300
     }
   ]
 }

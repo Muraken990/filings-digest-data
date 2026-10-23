@@ -1,9 +1,9 @@
 {
   "code": "SOLS",
   "ticker": "SOLS",
-  "last_updated": "2026-10-22 12:13:05",
+  "last_updated": "2026-10-23 12:13:09",
   "period": "5y",
-  "data_points": 253,
+  "data_points": 254,
   "data": [
     {
       "date": "2025-10-20",
@@ -2023,11 +2023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2827270
+      "open": 64.35,
+      "high": 65.43,
+      "low": 63.67,
+      "close": 64.99,
+      "volume": 2827300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 64.0,
+      "high": 64.09,
+      "low": 59.4,
+      "close": 59.8,
+      "volume": 2825100
     }
   ]
 }

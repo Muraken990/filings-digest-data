@@ -1,9 +1,9 @@
 {
   "code": "RNA",
   "ticker": "RNA",
-  "last_updated": "2026-10-22 12:06:11",
+  "last_updated": "2026-10-23 12:06:15",
   "period": "5y",
-  "data_points": 164,
+  "data_points": 165,
   "data": [
     {
       "date": "2026-02-27",
@@ -1311,11 +1311,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 193206
+      "open": 7.97,
+      "high": 8.32,
+      "low": 7.96,
+      "close": 8.0,
+      "volume": 193200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 8.01,
+      "high": 8.19,
+      "low": 7.95,
+      "close": 8.16,
+      "volume": 173500
     }
   ]
 }

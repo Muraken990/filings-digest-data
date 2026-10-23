@@ -1,9 +1,9 @@
 {
   "code": "SKWD",
   "ticker": "SKWD",
-  "last_updated": "2026-10-22 12:11:21",
+  "last_updated": "2026-10-23 12:11:25",
   "period": "5y",
-  "data_points": 946,
+  "data_points": 947,
   "data": [
     {
       "date": "2023-01-13",
@@ -7567,11 +7567,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 456508
+      "open": 61.75,
+      "high": 61.78,
+      "low": 60.03,
+      "close": 61.4,
+      "volume": 456500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 61.47,
+      "high": 62.47,
+      "low": 61.29,
+      "close": 62.16,
+      "volume": 374700
     }
   ]
 }

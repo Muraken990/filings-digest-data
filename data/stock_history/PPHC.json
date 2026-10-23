@@ -1,9 +1,9 @@
 {
   "code": "PPHC",
   "ticker": "PPHC",
-  "last_updated": "2026-10-22 12:00:57",
+  "last_updated": "2026-10-23 12:00:57",
   "period": "5y",
-  "data_points": 185,
+  "data_points": 186,
   "data": [
     {
       "date": "2026-01-28",
@@ -1479,11 +1479,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 127426
+      "open": 9.77,
+      "high": 9.94,
+      "low": 9.53,
+      "close": 9.61,
+      "volume": 127400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 9.69,
+      "high": 10.08,
+      "low": 9.69,
+      "close": 9.92,
+      "volume": 80900
     }
   ]
 }

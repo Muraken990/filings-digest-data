@@ -1,17 +1,17 @@
 {
   "code": "SM",
   "ticker": "SM",
-  "last_updated": "2026-10-22 12:11:26",
+  "last_updated": "2026-10-23 12:11:30",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-22",
-      "open": 27.28,
-      "high": 27.88,
-      "low": 26.44,
-      "close": 27.84,
-      "volume": 1747300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-25",
@@ -705,7 +705,7 @@
       "date": "2022-02-28",
       "open": 29.54,
       "high": 32.18,
-      "low": 29.44,
+      "low": 29.45,
       "close": 32.1,
       "volume": 3413300
     },
@@ -4599,7 +4599,7 @@
     },
     {
       "date": "2024-02-06",
-      "open": 33.35,
+      "open": 33.36,
       "high": 34.04,
       "low": 33.2,
       "close": 33.83,
@@ -10031,11 +10031,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2177732
+      "open": 38.74,
+      "high": 39.11,
+      "low": 38.18,
+      "close": 38.61,
+      "volume": 2180700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 39.3,
+      "high": 39.3,
+      "low": 37.61,
+      "close": 38.42,
+      "volume": 2307500
     }
   ]
 }

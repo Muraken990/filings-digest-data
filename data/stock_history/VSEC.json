@@ -1,18 +1,10 @@
 {
   "code": "VSEC",
   "ticker": "VSEC",
-  "last_updated": "2026-10-22 12:25:20",
+  "last_updated": "2026-10-23 12:25:22",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 47.54,
-      "high": 48.53,
-      "low": 47.54,
-      "close": 48.34,
-      "volume": 23800
-    },
     {
       "date": "2021-10-25",
       "open": 48.3,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 595039
+      "open": 160.2,
+      "high": 161.48,
+      "low": 152.78,
+      "close": 153.67,
+      "volume": 595100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 150.12,
+      "high": 150.38,
+      "low": 142.72,
+      "close": 148.15,
+      "volume": 564400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "TEM",
   "ticker": "TEM",
-  "last_updated": "2026-10-22 12:17:28",
+  "last_updated": "2026-10-23 12:17:31",
   "period": "5y",
-  "data_points": 590,
+  "data_points": 591,
   "data": [
     {
       "date": "2024-06-14",
@@ -4719,11 +4719,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3366127
+      "open": 66.88,
+      "high": 68.93,
+      "low": 66.0,
+      "close": 67.76,
+      "volume": 3382400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 66.1,
+      "high": 68.29,
+      "low": 61.51,
+      "close": 63.81,
+      "volume": 6190700
     }
   ]
 }

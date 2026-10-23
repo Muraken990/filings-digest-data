@@ -1,9 +1,9 @@
 {
   "code": "STRF",
   "ticker": "STRF",
-  "last_updated": "2026-10-22 12:14:52",
+  "last_updated": "2026-10-23 12:14:56",
   "period": "5y",
-  "data_points": 396,
+  "data_points": 397,
   "data": [
     {
       "date": "2025-03-26",
@@ -3167,11 +3167,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 45253
+      "open": 103.12,
+      "high": 103.96,
+      "low": 102.98,
+      "close": 103.42,
+      "volume": 45300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 103.29,
+      "high": 103.89,
+      "low": 102.77,
+      "close": 102.77,
+      "volume": 102700
     }
   ]
 }

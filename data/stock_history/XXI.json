@@ -1,9 +1,9 @@
 {
   "code": "XXI",
   "ticker": "XXI",
-  "last_updated": "2026-10-22 12:29:36",
+  "last_updated": "2026-10-23 12:29:40",
   "period": "5y",
-  "data_points": 550,
+  "data_points": 551,
   "data": [
     {
       "date": "2024-08-13",
@@ -4399,11 +4399,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2504576
+      "open": 5.82,
+      "high": 6.16,
+      "low": 5.71,
+      "close": 5.89,
+      "volume": 2535700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 5.71,
+      "high": 5.82,
+      "low": 5.55,
+      "close": 5.61,
+      "volume": 1883700
     }
   ]
 }

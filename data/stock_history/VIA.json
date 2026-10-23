@@ -1,9 +1,9 @@
 {
   "code": "VIA",
   "ticker": "VIA",
-  "last_updated": "2026-10-22 12:24:24",
+  "last_updated": "2026-10-23 12:24:26",
   "period": "5y",
-  "data_points": 279,
+  "data_points": 280,
   "data": [
     {
       "date": "2025-09-12",
@@ -2231,11 +2231,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 490466
+      "open": 33.96,
+      "high": 34.82,
+      "low": 33.74,
+      "close": 34.59,
+      "volume": 490500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 34.58,
+      "high": 35.74,
+      "low": 34.13,
+      "close": 35.71,
+      "volume": 443000
     }
   ]
 }

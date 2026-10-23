@@ -1,9 +1,9 @@
 {
   "code": "SNWV",
   "ticker": "SNWV",
-  "last_updated": "2026-10-22 12:12:18",
+  "last_updated": "2026-10-23 12:12:22",
   "period": "5y",
-  "data_points": 503,
+  "data_points": 504,
   "data": [
     {
       "date": "2024-10-18",
@@ -4023,11 +4023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 13655
+      "open": 5.29,
+      "high": 5.43,
+      "low": 5.09,
+      "close": 5.34,
+      "volume": 13700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 5.24,
+      "high": 5.33,
+      "low": 5.18,
+      "close": 5.3,
+      "volume": 15400
     }
   ]
 }

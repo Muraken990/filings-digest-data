@@ -1,9 +1,9 @@
 {
   "code": "SFHG",
   "ticker": "SFHG",
-  "last_updated": "2026-10-22 12:09:40",
+  "last_updated": "2026-10-23 12:09:44",
   "period": "5y",
-  "data_points": 506,
+  "data_points": 507,
   "data": [
     {
       "date": "2024-10-15",
@@ -4047,11 +4047,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4502
+      "open": 2.14,
+      "high": 2.14,
+      "low": 2.05,
+      "close": 2.05,
+      "volume": 4800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.1,
+      "high": 2.1,
+      "low": 2.06,
+      "close": 2.06,
+      "volume": 6200
     }
   ]
 }

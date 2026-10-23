@@ -1,18 +1,10 @@
 {
   "code": "SIGI",
   "ticker": "SIGI",
-  "last_updated": "2026-10-22 12:10:32",
+  "last_updated": "2026-10-23 12:10:37",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 72.55,
-      "high": 73.4,
-      "low": 72.02,
-      "close": 72.65,
-      "volume": 83300
-    },
     {
       "date": "2021-10-25",
       "open": 72.84,
@@ -3506,7 +3498,7 @@
       "open": 97.22,
       "high": 97.67,
       "low": 95.9,
-      "close": 97.28,
+      "close": 97.29,
       "volume": 359900
     },
     {
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 649140
+      "open": 89.94,
+      "high": 91.35,
+      "low": 88.65,
+      "close": 91.08,
+      "volume": 649100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 91.6,
+      "high": 92.94,
+      "low": 91.14,
+      "close": 91.74,
+      "volume": 556000
     }
   ]
 }

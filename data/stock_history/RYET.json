@@ -1,9 +1,9 @@
 {
   "code": "RYET",
   "ticker": "RYET",
-  "last_updated": "2026-10-22 12:07:53",
+  "last_updated": "2026-10-23 12:07:57",
   "period": "5y",
-  "data_points": 387,
+  "data_points": 388,
   "data": [
     {
       "date": "2025-04-08",
@@ -3095,11 +3095,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 31327
+      "open": 0.71,
+      "high": 0.74,
+      "low": 0.71,
+      "close": 0.73,
+      "volume": 31500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.75,
+      "high": 0.75,
+      "low": 0.7,
+      "close": 0.71,
+      "volume": 21100
     }
   ]
 }

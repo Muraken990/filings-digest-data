@@ -1,18 +1,10 @@
 {
   "code": "TOST",
   "ticker": "TOST",
-  "last_updated": "2026-10-22 12:19:13",
+  "last_updated": "2026-10-23 12:19:15",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 51.35,
-      "high": 51.99,
-      "low": 48.65,
-      "close": 49.62,
-      "volume": 906600
-    },
     {
       "date": "2021-10-25",
       "open": 49.62,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6836899
+      "open": 32.72,
+      "high": 33.2,
+      "low": 32.31,
+      "close": 32.54,
+      "volume": 6837200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 32.63,
+      "high": 33.44,
+      "low": 32.58,
+      "close": 33.42,
+      "volume": 9246600
     }
   ]
 }

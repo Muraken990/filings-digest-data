@@ -1,9 +1,9 @@
 {
   "code": "SAY",
   "ticker": "SAY",
-  "last_updated": "2026-10-22 12:08:43",
+  "last_updated": "2026-10-23 12:08:48",
   "period": "5y",
-  "data_points": 964,
+  "data_points": 965,
   "data": [
     {
       "date": "2022-12-16",
@@ -7711,11 +7711,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7864
+      "open": 25.21,
+      "high": 25.27,
+      "low": 25.2,
+      "close": 25.27,
+      "volume": 7900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 25.2,
+      "high": 25.3,
+      "low": 25.19,
+      "close": 25.3,
+      "volume": 12400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "TRDA",
   "ticker": "TRDA",
-  "last_updated": "2026-10-22 12:20:01",
+  "last_updated": "2026-10-23 12:20:04",
   "period": "5y",
-  "data_points": 1249,
+  "data_points": 1250,
   "data": [
     {
       "date": "2021-10-29",
@@ -9991,11 +9991,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 323804
+      "open": 5.02,
+      "high": 5.03,
+      "low": 4.6,
+      "close": 4.65,
+      "volume": 323800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 4.71,
+      "high": 4.78,
+      "low": 4.55,
+      "close": 4.73,
+      "volume": 462100
     }
   ]
 }

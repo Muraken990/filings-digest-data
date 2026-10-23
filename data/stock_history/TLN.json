@@ -1,9 +1,9 @@
 {
   "code": "TLN",
   "ticker": "TLN",
-  "last_updated": "2026-10-22 12:18:21",
+  "last_updated": "2026-10-23 12:18:24",
   "period": "5y",
-  "data_points": 850,
+  "data_points": 851,
   "data": [
     {
       "date": "2023-06-02",
@@ -6799,11 +6799,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 963972
+      "open": 357.83,
+      "high": 371.23,
+      "low": 353.98,
+      "close": 359.49,
+      "volume": 964000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 351.62,
+      "high": 356.24,
+      "low": 326.0,
+      "close": 331.42,
+      "volume": 1466100
     }
   ]
 }

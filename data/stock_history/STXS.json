@@ -1,18 +1,10 @@
 {
   "code": "STXS",
   "ticker": "STXS",
-  "last_updated": "2026-10-22 12:14:55",
+  "last_updated": "2026-10-23 12:14:58",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 6.1,
-      "high": 6.15,
-      "low": 5.78,
-      "close": 5.8,
-      "volume": 155900
-    },
     {
       "date": "2021-10-25",
       "open": 5.84,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 615271
+      "open": 0.99,
+      "high": 1.04,
+      "low": 0.98,
+      "close": 0.99,
+      "volume": 615300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.98,
+      "high": 1.03,
+      "low": 0.98,
+      "close": 1.0,
+      "volume": 381500
     }
   ]
 }

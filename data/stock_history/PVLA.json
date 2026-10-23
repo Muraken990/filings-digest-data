@@ -1,18 +1,10 @@
 {
   "code": "PVLA",
   "ticker": "PVLA",
-  "last_updated": "2026-10-22 12:02:40",
+  "last_updated": "2026-10-23 12:02:40",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 349.6,
-      "high": 352.8,
-      "low": 338.4,
-      "close": 345.6,
-      "volume": 6608
-    },
     {
       "date": "2021-10-25",
       "open": 344.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 245650
+      "open": 125.39,
+      "high": 128.48,
+      "low": 122.82,
+      "close": 126.58,
+      "volume": 248500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 125.09,
+      "high": 127.91,
+      "low": 123.47,
+      "close": 126.39,
+      "volume": 102100
     }
   ]
 }

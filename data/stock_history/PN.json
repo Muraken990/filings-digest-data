@@ -1,9 +1,9 @@
 {
   "code": "PN",
   "ticker": "PN",
-  "last_updated": "2026-10-22 12:00:07",
+  "last_updated": "2026-10-23 12:00:07",
   "period": "5y",
-  "data_points": 412,
+  "data_points": 413,
   "data": [
     {
       "date": "2025-03-04",
@@ -3295,11 +3295,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 113450
+      "open": 2.36,
+      "high": 2.46,
+      "low": 2.36,
+      "close": 2.45,
+      "volume": 113600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.4,
+      "high": 2.42,
+      "low": 2.16,
+      "close": 2.27,
+      "volume": 79700
     }
   ]
 }

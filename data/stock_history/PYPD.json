@@ -1,18 +1,10 @@
 {
   "code": "PYPD",
   "ticker": "PYPD",
-  "last_updated": "2026-10-22 12:02:41",
+  "last_updated": "2026-10-23 12:02:41",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 224.4,
-      "high": 230.1,
-      "low": 222.0,
-      "close": 224.4,
-      "volume": 407
-    },
     {
       "date": "2021-10-25",
       "open": 222.06,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 136727
+      "open": 5.19,
+      "high": 5.21,
+      "low": 5.0,
+      "close": 5.07,
+      "volume": 137100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 5.02,
+      "high": 5.19,
+      "low": 4.92,
+      "close": 5.13,
+      "volume": 155300
     }
   ]
 }

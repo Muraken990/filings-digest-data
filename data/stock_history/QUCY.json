@@ -1,9 +1,9 @@
 {
   "code": "QUCY",
   "ticker": "QUCY",
-  "last_updated": "2026-10-22 12:03:32",
+  "last_updated": "2026-10-23 12:03:33",
   "period": "5y",
-  "data_points": 1244,
+  "data_points": 1245,
   "data": [
     {
       "date": "2021-11-05",
@@ -9951,11 +9951,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 341339
+      "open": 1.05,
+      "high": 1.1,
+      "low": 1.02,
+      "close": 1.02,
+      "volume": 353000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.02,
+      "high": 1.07,
+      "low": 1.02,
+      "close": 1.02,
+      "volume": 235700
     }
   ]
 }

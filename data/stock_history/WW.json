@@ -1,9 +1,9 @@
 {
   "code": "WW",
   "ticker": "WW",
-  "last_updated": "2026-10-22 12:28:42",
+  "last_updated": "2026-10-23 12:28:46",
   "period": "5y",
-  "data_points": 332,
+  "data_points": 333,
   "data": [
     {
       "date": "2025-06-27",
@@ -2655,11 +2655,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 125314
+      "open": 13.54,
+      "high": 14.22,
+      "low": 13.31,
+      "close": 14.2,
+      "volume": 125300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 13.87,
+      "high": 14.43,
+      "low": 13.83,
+      "close": 14.12,
+      "volume": 93600
     }
   ]
 }

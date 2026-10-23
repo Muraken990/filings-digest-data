@@ -1,18 +1,10 @@
 {
   "code": "RETO",
   "ticker": "RETO",
-  "last_updated": "2026-10-22 12:04:29",
+  "last_updated": "2026-10-23 12:04:34",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 3360000.0,
-      "high": 3360000.0,
-      "low": 3160000.0,
-      "close": 3280000.0,
-      "volume": 0
-    },
     {
       "date": "2021-10-25",
       "open": 3244000.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 171994
+      "open": 0.89,
+      "high": 0.94,
+      "low": 0.89,
+      "close": 0.93,
+      "volume": 173200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.9,
+      "high": 0.92,
+      "low": 0.86,
+      "close": 0.88,
+      "volume": 206600
     }
   ]
 }

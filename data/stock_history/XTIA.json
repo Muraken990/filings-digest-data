@@ -1,18 +1,10 @@
 {
   "code": "XTIA",
   "ticker": "XTIA",
-  "last_updated": "2026-10-22 12:29:35",
+  "last_updated": "2026-10-23 12:29:40",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 1520625.0,
-      "high": 1556250.0,
-      "low": 1428750.0,
-      "close": 1428750.0,
-      "volume": 3
-    },
     {
       "date": "2021-10-25",
       "open": 1781250.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1534447
+      "open": 0.71,
+      "high": 0.8,
+      "low": 0.71,
+      "close": 0.77,
+      "volume": 1535000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.75,
+      "high": 0.92,
+      "low": 0.72,
+      "close": 0.85,
+      "volume": 1315500
     }
   ]
 }

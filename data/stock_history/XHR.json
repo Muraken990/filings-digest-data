@@ -1,18 +1,10 @@
 {
   "code": "XHR",
   "ticker": "XHR",
-  "last_updated": "2026-10-22 12:28:46",
+  "last_updated": "2026-10-23 12:28:50",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 15.38,
-      "high": 15.47,
-      "low": 15.19,
-      "close": 15.29,
-      "volume": 315700
-    },
     {
       "date": "2021-10-25",
       "open": 15.15,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 672606
+      "open": 19.6,
+      "high": 19.9,
+      "low": 19.56,
+      "close": 19.63,
+      "volume": 672600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 19.71,
+      "high": 19.78,
+      "low": 19.27,
+      "close": 19.5,
+      "volume": 549400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "PS",
   "ticker": "PS",
-  "last_updated": "2026-10-22 12:01:49",
+  "last_updated": "2026-10-23 12:01:49",
   "period": "5y",
-  "data_points": 122,
+  "data_points": 123,
   "data": [
     {
       "date": "2026-04-29",
@@ -975,11 +975,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 146891
+      "open": 46.06,
+      "high": 47.14,
+      "low": 45.71,
+      "close": 46.78,
+      "volume": 147000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 45.72,
+      "high": 46.25,
+      "low": 42.2,
+      "close": 45.04,
+      "volume": 302000
     }
   ]
 }

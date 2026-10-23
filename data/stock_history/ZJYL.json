@@ -1,9 +1,9 @@
 {
   "code": "ZJYL",
   "ticker": "ZJYL",
-  "last_updated": "2026-10-22 12:30:29",
+  "last_updated": "2026-10-23 12:30:34",
   "period": "5y",
-  "data_points": 896,
+  "data_points": 897,
   "data": [
     {
       "date": "2023-03-28",
@@ -7167,11 +7167,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 71349
+      "open": 1.93,
+      "high": 2.15,
+      "low": 1.85,
+      "close": 2.09,
+      "volume": 71700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.95,
+      "high": 2.09,
+      "low": 1.92,
+      "close": 2.02,
+      "volume": 3400
     }
   ]
 }

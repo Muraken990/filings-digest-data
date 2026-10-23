@@ -1,9 +1,9 @@
 {
   "code": "TDAC",
   "ticker": "TDAC",
-  "last_updated": "2026-10-22 12:17:24",
+  "last_updated": "2026-10-23 12:17:27",
   "period": "5y",
-  "data_points": 424,
+  "data_points": 425,
   "data": [
     {
       "date": "2025-02-13",
@@ -3391,11 +3391,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6459
+      "open": 10.81,
+      "high": 10.83,
+      "low": 10.81,
+      "close": 10.82,
+      "volume": 6200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.81,
+      "high": 10.81,
+      "low": 10.81,
+      "close": 10.81,
+      "volume": 19900
     }
   ]
 }

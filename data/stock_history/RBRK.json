@@ -1,9 +1,9 @@
 {
   "code": "RBRK",
   "ticker": "RBRK",
-  "last_updated": "2026-10-22 12:03:36",
+  "last_updated": "2026-10-23 12:03:37",
   "period": "5y",
-  "data_points": 625,
+  "data_points": 626,
   "data": [
     {
       "date": "2024-04-25",
@@ -4999,11 +4999,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2534360
+      "open": 116.12,
+      "high": 122.01,
+      "low": 116.12,
+      "close": 120.38,
+      "volume": 2549200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 120.22,
+      "high": 121.5,
+      "low": 117.79,
+      "close": 120.75,
+      "volume": 2363900
     }
   ]
 }

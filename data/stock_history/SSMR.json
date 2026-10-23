@@ -1,9 +1,9 @@
 {
   "code": "SSMR",
   "ticker": "SSMR",
-  "last_updated": "2026-10-22 12:14:01",
+  "last_updated": "2026-10-23 12:14:05",
   "period": "5y",
-  "data_points": 97,
+  "data_points": 98,
   "data": [
     {
       "date": "2026-06-04",
@@ -775,11 +775,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 578996
+      "open": 12.55,
+      "high": 13.34,
+      "low": 12.29,
+      "close": 13.28,
+      "volume": 579000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 12.81,
+      "high": 13.57,
+      "low": 12.64,
+      "close": 13.17,
+      "volume": 710100
     }
   ]
 }

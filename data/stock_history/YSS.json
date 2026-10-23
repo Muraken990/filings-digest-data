@@ -1,9 +1,9 @@
 {
   "code": "YSS",
   "ticker": "YSS",
-  "last_updated": "2026-10-22 12:30:25",
+  "last_updated": "2026-10-23 12:30:30",
   "period": "5y",
-  "data_points": 184,
+  "data_points": 185,
   "data": [
     {
       "date": "2026-01-29",
@@ -1471,11 +1471,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3155330
+      "open": 5.87,
+      "high": 6.02,
+      "low": 5.79,
+      "close": 5.94,
+      "volume": 3156100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 5.86,
+      "high": 6.14,
+      "low": 5.75,
+      "close": 6.1,
+      "volume": 1689400
     }
   ]
 }

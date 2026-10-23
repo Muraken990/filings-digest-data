@@ -1,18 +1,10 @@
 {
   "code": "SENEA",
   "ticker": "SENEA",
-  "last_updated": "2026-10-22 12:09:39",
+  "last_updated": "2026-10-23 12:09:42",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 52.4,
-      "high": 52.83,
-      "low": 51.81,
-      "close": 51.81,
-      "volume": 14900
-    },
     {
       "date": "2021-10-25",
       "open": 52.35,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 94103
+      "open": 162.26,
+      "high": 164.24,
+      "low": 160.24,
+      "close": 162.15,
+      "volume": 94100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 162.97,
+      "high": 169.84,
+      "low": 162.97,
+      "close": 164.36,
+      "volume": 128700
     }
   ]
 }

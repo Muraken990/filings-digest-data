@@ -1,18 +1,10 @@
 {
   "code": "STEX",
   "ticker": "STEX",
-  "last_updated": "2026-10-22 12:14:50",
+  "last_updated": "2026-10-23 12:14:53",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 24.6,
-      "high": 26.1,
-      "low": 24.0,
-      "close": 25.5,
-      "volume": 27200
-    },
     {
       "date": "2021-10-25",
       "open": 25.7,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 613514
+      "open": 0.38,
+      "high": 0.39,
+      "low": 0.37,
+      "close": 0.37,
+      "volume": 613500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.37,
+      "high": 0.39,
+      "low": 0.35,
+      "close": 0.36,
+      "volume": 751400
     }
   ]
 }

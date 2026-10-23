@@ -1,9 +1,9 @@
 {
   "code": "WBTN",
   "ticker": "WBTN",
-  "last_updated": "2026-10-22 12:26:12",
+  "last_updated": "2026-10-23 12:26:14",
   "period": "5y",
-  "data_points": 582,
+  "data_points": 583,
   "data": [
     {
       "date": "2024-06-27",
@@ -4655,11 +4655,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 255934
+      "open": 9.59,
+      "high": 9.98,
+      "low": 9.52,
+      "close": 9.84,
+      "volume": 256100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 9.74,
+      "high": 10.21,
+      "low": 9.42,
+      "close": 9.5,
+      "volume": 439100
     }
   ]
 }

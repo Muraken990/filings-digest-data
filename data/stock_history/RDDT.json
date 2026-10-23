@@ -1,9 +1,9 @@
 {
   "code": "RDDT",
   "ticker": "RDDT",
-  "last_updated": "2026-10-22 12:04:24",
+  "last_updated": "2026-10-23 12:04:29",
   "period": "5y",
-  "data_points": 649,
+  "data_points": 650,
   "data": [
     {
       "date": "2024-03-21",
@@ -5191,11 +5191,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3182239
+      "open": 156.49,
+      "high": 160.41,
+      "low": 152.81,
+      "close": 153.28,
+      "volume": 3183200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 151.54,
+      "high": 152.46,
+      "low": 147.77,
+      "close": 150.26,
+      "volume": 3294200
     }
   ]
 }

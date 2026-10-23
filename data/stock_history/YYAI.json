@@ -1,18 +1,10 @@
 {
   "code": "YYAI",
   "ticker": "YYAI",
-  "last_updated": "2026-10-22 12:30:26",
+  "last_updated": "2026-10-23 12:30:31",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 944000000.0,
-      "high": 944000000.0,
-      "low": 857600000.0,
-      "close": 944000000.0,
-      "volume": 0
-    },
     {
       "date": "2021-10-25",
       "open": 944000000.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 150107
+      "open": 0.68,
+      "high": 0.73,
+      "low": 0.67,
+      "close": 0.71,
+      "volume": 150700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.69,
+      "high": 0.72,
+      "low": 0.69,
+      "close": 0.7,
+      "volume": 92900
     }
   ]
 }

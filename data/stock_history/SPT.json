@@ -1,18 +1,10 @@
 {
   "code": "SPT",
   "ticker": "SPT",
-  "last_updated": "2026-10-22 12:13:56",
+  "last_updated": "2026-10-23 12:14:00",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 124.9,
-      "high": 125.2,
-      "low": 121.21,
-      "close": 122.29,
-      "volume": 311300
-    },
     {
       "date": "2021-10-25",
       "open": 123.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 829995
+      "open": 12.52,
+      "high": 12.82,
+      "low": 12.4,
+      "close": 12.7,
+      "volume": 830000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 12.84,
+      "high": 13.27,
+      "low": 12.73,
+      "close": 13.11,
+      "volume": 1126200
     }
   ]
 }

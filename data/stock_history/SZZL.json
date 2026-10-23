@@ -1,9 +1,9 @@
 {
   "code": "SZZL",
   "ticker": "SZZL",
-  "last_updated": "2026-10-22 12:16:32",
+  "last_updated": "2026-10-23 12:16:36",
   "period": "5y",
-  "data_points": 355,
+  "data_points": 356,
   "data": [
     {
       "date": "2025-05-23",
@@ -2839,11 +2839,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 111021
+      "open": 10.52,
+      "high": 10.52,
+      "low": 10.51,
+      "close": 10.51,
+      "volume": 111100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.51,
+      "high": 10.51,
+      "low": 10.51,
+      "close": 10.51,
+      "volume": 0
     }
   ]
 }

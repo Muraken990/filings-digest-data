@@ -1,9 +1,9 @@
 {
   "code": "VWAV",
   "ticker": "VWAV",
-  "last_updated": "2026-10-22 12:26:09",
+  "last_updated": "2026-10-23 12:26:11",
   "period": "5y",
-  "data_points": 321,
+  "data_points": 322,
   "data": [
     {
       "date": "2025-07-15",
@@ -2567,11 +2567,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 89415
+      "open": 3.76,
+      "high": 3.8,
+      "low": 3.37,
+      "close": 3.37,
+      "volume": 89500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 3.45,
+      "high": 3.6,
+      "low": 3.32,
+      "close": 3.42,
+      "volume": 105200
     }
   ]
 }

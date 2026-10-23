@@ -1,9 +1,9 @@
 {
   "code": "UMBFO",
   "ticker": "UMBFO",
-  "last_updated": "2026-10-22 12:21:52",
+  "last_updated": "2026-10-23 12:21:55",
   "period": "5y",
-  "data_points": 351,
+  "data_points": 352,
   "data": [
     {
       "date": "2025-05-30",
@@ -2807,11 +2807,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8951
+      "open": 25.91,
+      "high": 25.91,
+      "low": 25.65,
+      "close": 25.87,
+      "volume": 9000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 25.92,
+      "high": 25.98,
+      "low": 25.71,
+      "close": 25.86,
+      "volume": 16500
     }
   ]
 }

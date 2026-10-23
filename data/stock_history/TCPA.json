@@ -1,9 +1,9 @@
 {
   "code": "TCPA",
   "ticker": "TCPA",
-  "last_updated": "2026-10-22 12:16:38",
+  "last_updated": "2026-10-23 12:16:41",
   "period": "5y",
-  "data_points": 256,
+  "data_points": 257,
   "data": [
     {
       "date": "2025-10-15",
@@ -2047,11 +2047,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 117552
+      "open": 20.13,
+      "high": 20.22,
+      "low": 19.69,
+      "close": 19.87,
+      "volume": 117600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 19.94,
+      "high": 20.14,
+      "low": 19.78,
+      "close": 20.07,
+      "volume": 66900
     }
   ]
 }

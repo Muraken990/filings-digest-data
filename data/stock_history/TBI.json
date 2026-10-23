@@ -1,18 +1,10 @@
 {
   "code": "TBI",
   "ticker": "TBI",
-  "last_updated": "2026-10-22 12:16:36",
+  "last_updated": "2026-10-23 12:16:39",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 31.96,
-      "high": 32.37,
-      "low": 31.6,
-      "close": 32.07,
-      "volume": 116200
-    },
     {
       "date": "2021-10-25",
       "open": 32.19,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 169357
+      "open": 8.35,
+      "high": 8.59,
+      "low": 8.35,
+      "close": 8.57,
+      "volume": 169400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 8.6,
+      "high": 8.82,
+      "low": 8.58,
+      "close": 8.82,
+      "volume": 105000
     }
   ]
 }

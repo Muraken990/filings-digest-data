@@ -1,18 +1,10 @@
 {
   "code": "PPLI",
   "ticker": "PPLI",
-  "last_updated": "2026-10-22 12:00:57",
+  "last_updated": "2026-10-23 12:00:57",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 124.61,
-      "high": 126.55,
-      "low": 123.36,
-      "close": 124.97,
-      "volume": 440059
-    },
     {
       "date": "2021-10-25",
       "open": 125.06,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 698815
+      "open": 39.31,
+      "high": 39.33,
+      "low": 38.55,
+      "close": 38.92,
+      "volume": 698800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 38.61,
+      "high": 39.7,
+      "low": 38.47,
+      "close": 39.58,
+      "volume": 945800
     }
   ]
 }

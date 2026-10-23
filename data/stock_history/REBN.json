@@ -1,9 +1,9 @@
 {
   "code": "REBN",
   "ticker": "REBN",
-  "last_updated": "2026-10-22 12:04:26",
+  "last_updated": "2026-10-23 12:04:31",
   "period": "5y",
-  "data_points": 1052,
+  "data_points": 1053,
   "data": [
     {
       "date": "2022-08-12",
@@ -8415,11 +8415,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 42468
+      "open": 1.84,
+      "high": 1.87,
+      "low": 1.65,
+      "close": 1.73,
+      "volume": 42500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.74,
+      "high": 2.02,
+      "low": 1.71,
+      "close": 1.71,
+      "volume": 159000
     }
   ]
 }

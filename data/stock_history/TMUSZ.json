@@ -1,9 +1,9 @@
 {
   "code": "TMUSZ",
   "ticker": "TMUSZ",
-  "last_updated": "2026-10-22 12:19:10",
+  "last_updated": "2026-10-23 12:19:12",
   "period": "5y",
-  "data_points": 305,
+  "data_points": 306,
   "data": [
     {
       "date": "2025-08-06",
@@ -2439,11 +2439,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 32621
+      "open": 18.26,
+      "high": 18.27,
+      "low": 18.05,
+      "close": 18.19,
+      "volume": 47300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 18.29,
+      "high": 19.02,
+      "low": 18.06,
+      "close": 19.0,
+      "volume": 65100
     }
   ]
 }

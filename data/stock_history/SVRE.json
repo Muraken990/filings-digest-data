@@ -1,9 +1,9 @@
 {
   "code": "SVRE",
   "ticker": "SVRE",
-  "last_updated": "2026-10-22 12:15:43",
+  "last_updated": "2026-10-23 12:15:47",
   "period": "5y",
-  "data_points": 1100,
+  "data_points": 1101,
   "data": [
     {
       "date": "2022-06-03",
@@ -8799,11 +8799,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 14695
+      "open": 1.86,
+      "high": 1.86,
+      "low": 1.63,
+      "close": 1.72,
+      "volume": 14700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.69,
+      "high": 1.74,
+      "low": 1.4,
+      "close": 1.44,
+      "volume": 42300
     }
   ]
 }

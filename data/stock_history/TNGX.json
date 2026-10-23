@@ -1,18 +1,10 @@
 {
   "code": "TNGX",
   "ticker": "TNGX",
-  "last_updated": "2026-10-22 12:19:10",
+  "last_updated": "2026-10-23 12:19:13",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 13.09,
-      "high": 13.36,
-      "low": 12.82,
-      "close": 13.18,
-      "volume": 66400
-    },
     {
       "date": "2021-10-25",
       "open": 13.4,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
+      "open": 25.55,
+      "high": 27.6,
+      "low": 25.35,
+      "close": 26.98,
       "volume": 5557300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 26.67,
+      "high": 27.98,
+      "low": 25.94,
+      "close": 27.93,
+      "volume": 5964100
     }
   ]
 }

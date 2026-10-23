@@ -1,9 +1,9 @@
 {
   "code": "VRAX",
   "ticker": "VRAX",
-  "last_updated": "2026-10-22 12:25:17",
+  "last_updated": "2026-10-23 12:25:19",
   "period": "5y",
-  "data_points": 1068,
+  "data_points": 1069,
   "data": [
     {
       "date": "2022-07-21",
@@ -8543,11 +8543,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 14712
+      "open": 1.42,
+      "high": 1.49,
+      "low": 1.32,
+      "close": 1.34,
+      "volume": 14700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.29,
+      "high": 1.39,
+      "low": 1.15,
+      "close": 1.24,
+      "volume": 38100
     }
   ]
 }

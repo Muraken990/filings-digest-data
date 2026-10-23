@@ -1,18 +1,10 @@
 {
   "code": "SCCO",
   "ticker": "SCCO",
-  "last_updated": "2026-10-22 12:08:48",
+  "last_updated": "2026-10-23 12:08:52",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 50.47,
-      "high": 50.53,
-      "low": 48.92,
-      "close": 49.13,
-      "volume": 1074105
-    },
     {
       "date": "2021-10-25",
       "open": 49.33,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1829638
+      "open": 199.99,
+      "high": 202.46,
+      "low": 190.69,
+      "close": 198.07,
+      "volume": 1829800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 190.0,
+      "high": 190.75,
+      "low": 181.76,
+      "close": 183.59,
+      "volume": 2113200
     }
   ]
 }

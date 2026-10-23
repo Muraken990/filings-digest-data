@@ -1,18 +1,10 @@
 {
   "code": "RICK",
   "ticker": "RICK",
-  "last_updated": "2026-10-22 12:05:19",
+  "last_updated": "2026-10-23 12:05:24",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 68.74,
-      "high": 68.74,
-      "low": 67.37,
-      "close": 67.75,
-      "volume": 29600
-    },
     {
       "date": "2021-10-25",
       "open": 67.67,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 33982
+      "open": 26.22,
+      "high": 26.6,
+      "low": 25.8,
+      "close": 26.16,
+      "volume": 34000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 26.08,
+      "high": 27.15,
+      "low": 26.08,
+      "close": 26.99,
+      "volume": 32700
     }
   ]
 }

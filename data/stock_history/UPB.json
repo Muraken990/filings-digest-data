@@ -1,9 +1,9 @@
 {
   "code": "UPB",
   "ticker": "UPB",
-  "last_updated": "2026-10-22 12:22:40",
+  "last_updated": "2026-10-23 12:22:42",
   "period": "5y",
-  "data_points": 508,
+  "data_points": 509,
   "data": [
     {
       "date": "2024-10-11",
@@ -4063,11 +4063,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1410486
+      "open": 2.83,
+      "high": 2.97,
+      "low": 2.77,
+      "close": 2.8,
+      "volume": 1410500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.77,
+      "high": 2.99,
+      "low": 2.7,
+      "close": 2.99,
+      "volume": 1450000
     }
   ]
 }

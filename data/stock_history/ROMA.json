@@ -1,9 +1,9 @@
 {
   "code": "ROMA",
   "ticker": "ROMA",
-  "last_updated": "2026-10-22 12:06:14",
+  "last_updated": "2026-10-23 12:06:18",
   "period": "5y",
-  "data_points": 699,
+  "data_points": 700,
   "data": [
     {
       "date": "2024-01-09",
@@ -5591,11 +5591,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2288
+      "open": 7.4,
+      "high": 7.4,
+      "low": 7.06,
+      "close": 7.4,
+      "volume": 2300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 7.43,
+      "high": 7.43,
+      "low": 6.77,
+      "close": 6.82,
+      "volume": 2100
     }
   ]
 }

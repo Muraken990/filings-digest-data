@@ -1,18 +1,10 @@
 {
   "code": "SGLY",
   "ticker": "SGLY",
-  "last_updated": "2026-10-22 12:10:28",
+  "last_updated": "2026-10-23 12:10:32",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 413.0,
-      "high": 413.0,
-      "low": 375.2,
-      "close": 378.0,
-      "volume": 3507
-    },
     {
       "date": "2021-10-25",
       "open": 385.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 48890
+      "open": 0.48,
+      "high": 0.48,
+      "low": 0.44,
+      "close": 0.45,
+      "volume": 48900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.44,
+      "high": 0.45,
+      "low": 0.4,
+      "close": 0.41,
+      "volume": 31800
     }
   ]
 }

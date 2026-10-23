@@ -1,9 +1,9 @@
 {
   "code": "QSEA",
   "ticker": "QSEA",
-  "last_updated": "2026-10-22 12:02:45",
+  "last_updated": "2026-10-23 12:02:45",
   "period": "5y",
-  "data_points": 364,
+  "data_points": 365,
   "data": [
     {
       "date": "2025-05-12",
@@ -2911,11 +2911,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 333
+      "open": 10.74,
+      "high": 10.74,
+      "low": 10.74,
+      "close": 10.74,
+      "volume": 400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.71,
+      "high": 10.73,
+      "low": 10.71,
+      "close": 10.73,
+      "volume": 1000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "RENX",
   "ticker": "RENX",
-  "last_updated": "2026-10-22 12:04:28",
+  "last_updated": "2026-10-23 12:04:33",
   "period": "5y",
-  "data_points": 776,
+  "data_points": 777,
   "data": [
     {
       "date": "2023-09-19",
@@ -6207,11 +6207,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 279857
+      "open": 1.83,
+      "high": 1.86,
+      "low": 1.56,
+      "close": 1.62,
+      "volume": 280300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.59,
+      "high": 1.61,
+      "low": 1.4,
+      "close": 1.42,
+      "volume": 145500
     }
   ]
 }

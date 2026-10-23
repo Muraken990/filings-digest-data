@@ -1,9 +1,9 @@
 {
   "code": "SOLV",
   "ticker": "SOLV",
-  "last_updated": "2026-10-22 12:13:06",
+  "last_updated": "2026-10-23 12:13:09",
   "period": "5y",
-  "data_points": 646,
+  "data_points": 647,
   "data": [
     {
       "date": "2024-03-26",
@@ -5167,11 +5167,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 812791
+      "open": 85.74,
+      "high": 86.88,
+      "low": 85.35,
+      "close": 86.67,
+      "volume": 812800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 86.89,
+      "high": 87.87,
+      "low": 86.42,
+      "close": 87.45,
+      "volume": 769700
     }
   ]
 }

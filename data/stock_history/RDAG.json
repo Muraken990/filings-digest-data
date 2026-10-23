@@ -1,9 +1,9 @@
 {
   "code": "RDAG",
   "ticker": "RDAG",
-  "last_updated": "2026-10-22 12:04:24",
+  "last_updated": "2026-10-23 12:04:28",
   "period": "5y",
-  "data_points": 336,
+  "data_points": 337,
   "data": [
     {
       "date": "2025-06-23",
@@ -2687,11 +2687,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 405835
+      "open": 10.45,
+      "high": 10.46,
+      "low": 10.45,
+      "close": 10.46,
+      "volume": 405800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.46,
+      "high": 10.46,
+      "low": 10.45,
+      "close": 10.46,
+      "volume": 142800
     }
   ]
 }

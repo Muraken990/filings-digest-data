@@ -1,9 +1,9 @@
 {
   "code": "VIDA",
   "ticker": "VIDA",
-  "last_updated": "2026-10-22 12:24:25",
+  "last_updated": "2026-10-23 12:24:27",
   "period": "5y",
-  "data_points": 110,
+  "data_points": 111,
   "data": [
     {
       "date": "2026-05-15",
@@ -879,11 +879,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 20167
+      "open": 1.15,
+      "high": 1.15,
+      "low": 1.07,
+      "close": 1.12,
+      "volume": 20200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.09,
+      "high": 1.12,
+      "low": 1.08,
+      "close": 1.1,
+      "volume": 9200
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "VIK",
   "ticker": "VIK",
-  "last_updated": "2026-10-22 12:24:25",
+  "last_updated": "2026-10-23 12:24:27",
   "period": "5y",
-  "data_points": 621,
+  "data_points": 622,
   "data": [
     {
       "date": "2024-05-01",
@@ -4967,11 +4967,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3434984
+      "open": 87.13,
+      "high": 88.25,
+      "low": 85.53,
+      "close": 86.7,
+      "volume": 3435000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 85.44,
+      "high": 87.14,
+      "low": 84.6,
+      "close": 85.0,
+      "volume": 2468700
     }
   ]
 }

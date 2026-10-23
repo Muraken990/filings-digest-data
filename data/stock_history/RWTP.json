@@ -1,9 +1,9 @@
 {
   "code": "RWTP",
   "ticker": "RWTP",
-  "last_updated": "2026-10-22 12:07:06",
+  "last_updated": "2026-10-23 12:07:10",
   "period": "5y",
-  "data_points": 434,
+  "data_points": 435,
   "data": [
     {
       "date": "2025-01-30",
@@ -3471,11 +3471,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4429
+      "open": 21.44,
+      "high": 21.49,
+      "low": 20.71,
+      "close": 21.19,
+      "volume": 4400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 21.49,
+      "high": 21.49,
+      "low": 20.83,
+      "close": 21.37,
+      "volume": 6700
     }
   ]
 }

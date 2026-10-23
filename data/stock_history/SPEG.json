@@ -1,9 +1,9 @@
 {
   "code": "SPEG",
   "ticker": "SPEG",
-  "last_updated": "2026-10-22 12:13:08",
+  "last_updated": "2026-10-23 12:13:12",
   "period": "5y",
-  "data_points": 282,
+  "data_points": 283,
   "data": [
     {
       "date": "2025-09-09",
@@ -2255,11 +2255,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 111710
+      "open": 10.43,
+      "high": 10.43,
+      "low": 10.43,
+      "close": 10.43,
+      "volume": 137200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.43,
+      "high": 10.43,
+      "low": 10.43,
+      "close": 10.43,
+      "volume": 75100
     }
   ]
 }

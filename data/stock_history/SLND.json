@@ -1,9 +1,9 @@
 {
   "code": "SLND",
   "ticker": "SLND",
-  "last_updated": "2026-10-22 12:11:25",
+  "last_updated": "2026-10-23 12:11:29",
   "period": "5y",
-  "data_points": 1211,
+  "data_points": 1212,
   "data": [
     {
       "date": "2021-12-23",
@@ -9687,11 +9687,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 82577
+      "open": 0.77,
+      "high": 0.8,
+      "low": 0.76,
+      "close": 0.77,
+      "volume": 82700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.76,
+      "high": 0.77,
+      "low": 0.73,
+      "close": 0.73,
+      "volume": 62200
     }
   ]
 }

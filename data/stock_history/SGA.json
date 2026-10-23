@@ -1,18 +1,10 @@
 {
   "code": "SGA",
   "ticker": "SGA",
-  "last_updated": "2026-10-22 12:09:42",
+  "last_updated": "2026-10-23 12:09:46",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 13.05,
-      "high": 13.39,
-      "low": 13.02,
-      "close": 13.23,
-      "volume": 4600
-    },
     {
       "date": "2021-10-25",
       "open": 13.26,
@@ -1129,7 +1121,7 @@
       "date": "2022-05-13",
       "open": 13.13,
       "high": 13.26,
-      "low": 12.9,
+      "low": 12.91,
       "close": 13.26,
       "volume": 1600
     },
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10014
+      "open": 8.45,
+      "high": 8.45,
+      "low": 8.4,
+      "close": 8.4,
+      "volume": 10000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 8.4,
+      "high": 8.45,
+      "low": 8.4,
+      "close": 8.4,
+      "volume": 1700
     }
   ]
 }

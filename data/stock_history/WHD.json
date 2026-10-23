@@ -1,18 +1,10 @@
 {
   "code": "WHD",
   "ticker": "WHD",
-  "last_updated": "2026-10-22 12:27:02",
+  "last_updated": "2026-10-23 12:27:04",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 42.82,
-      "high": 43.42,
-      "low": 42.14,
-      "close": 42.58,
-      "volume": 236300
-    },
     {
       "date": "2021-10-25",
       "open": 43.32,
@@ -1639,7 +1631,7 @@
     },
     {
       "date": "2022-08-16",
-      "open": 40.14,
+      "open": 40.13,
       "high": 40.5,
       "low": 38.32,
       "close": 38.6,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 394588
+      "open": 62.92,
+      "high": 64.38,
+      "low": 62.31,
+      "close": 64.17,
+      "volume": 394600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 63.99,
+      "high": 64.84,
+      "low": 59.57,
+      "close": 60.38,
+      "volume": 681100
     }
   ]
 }

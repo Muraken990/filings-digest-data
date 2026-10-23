@@ -1,18 +1,10 @@
 {
   "code": "QDEL",
   "ticker": "QDEL",
-  "last_updated": "2026-10-22 12:02:43",
+  "last_updated": "2026-10-23 12:02:43",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 133.82,
-      "high": 135.98,
-      "low": 133.02,
-      "close": 134.88,
-      "volume": 178600
-    },
     {
       "date": "2021-10-25",
       "open": 134.87,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3317468
+      "open": 13.73,
+      "high": 14.65,
+      "low": 13.42,
+      "close": 14.08,
+      "volume": 3317500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 14.01,
+      "high": 14.63,
+      "low": 13.27,
+      "close": 13.48,
+      "volume": 1643100
     }
   ]
 }

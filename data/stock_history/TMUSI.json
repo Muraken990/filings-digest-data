@@ -1,9 +1,9 @@
 {
   "code": "TMUSI",
   "ticker": "TMUSI",
-  "last_updated": "2026-10-22 12:19:10",
+  "last_updated": "2026-10-23 12:19:12",
   "period": "5y",
-  "data_points": 305,
+  "data_points": 306,
   "data": [
     {
       "date": "2025-08-06",
@@ -2439,11 +2439,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 23392
+      "open": 18.28,
+      "high": 18.5,
+      "low": 18.01,
+      "close": 18.02,
+      "volume": 23500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 18.02,
+      "high": 18.67,
+      "low": 18.02,
+      "close": 18.67,
+      "volume": 26500
     }
   ]
 }

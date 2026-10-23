@@ -1,18 +1,10 @@
 {
   "code": "SUNE",
   "ticker": "SUNE",
-  "last_updated": "2026-10-22 12:15:41",
+  "last_updated": "2026-10-23 12:15:44",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 2400000.0,
-      "high": 2442000.0,
-      "low": 2208000.0,
-      "close": 2256000.0,
-      "volume": 1
-    },
     {
       "date": "2021-10-25",
       "open": 2250000.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 23369
+      "open": 2.11,
+      "high": 2.19,
+      "low": 2.07,
+      "close": 2.11,
+      "volume": 23400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.1,
+      "high": 2.11,
+      "low": 1.94,
+      "close": 2.05,
+      "volume": 63300
     }
   ]
 }

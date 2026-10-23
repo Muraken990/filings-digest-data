@@ -1,9 +1,9 @@
 {
   "code": "RXO",
   "ticker": "RXO",
-  "last_updated": "2026-10-22 12:07:52",
+  "last_updated": "2026-10-23 12:07:56",
   "period": "5y",
-  "data_points": 999,
+  "data_points": 1000,
   "data": [
     {
       "date": "2022-10-27",
@@ -7991,11 +7991,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2075554
+      "open": 28.84,
+      "high": 29.0,
+      "low": 28.66,
+      "close": 28.78,
+      "volume": 2075600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 28.79,
+      "high": 29.03,
+      "low": 28.6,
+      "close": 28.92,
+      "volume": 2963100
     }
   ]
 }

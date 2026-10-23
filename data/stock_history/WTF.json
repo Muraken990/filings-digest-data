@@ -1,9 +1,9 @@
 {
   "code": "WTF",
   "ticker": "WTF",
-  "last_updated": "2026-10-22 12:27:54",
+  "last_updated": "2026-10-23 12:27:59",
   "period": "5y",
-  "data_points": 392,
+  "data_points": 393,
   "data": [
     {
       "date": "2025-04-01",
@@ -3135,11 +3135,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3146
+      "open": 2.39,
+      "high": 2.5,
+      "low": 2.37,
+      "close": 2.37,
+      "volume": 3200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.3,
+      "high": 2.46,
+      "low": 2.05,
+      "close": 2.37,
+      "volume": 12000
     }
   ]
 }

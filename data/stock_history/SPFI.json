@@ -1,18 +1,10 @@
 {
   "code": "SPFI",
   "ticker": "SPFI",
-  "last_updated": "2026-10-22 12:13:08",
+  "last_updated": "2026-10-23 12:13:12",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 22.76,
-      "high": 22.88,
-      "low": 22.65,
-      "close": 22.86,
-      "volume": 16000
-    },
     {
       "date": "2021-10-25",
       "open": 22.83,
@@ -6488,7 +6480,7 @@
     {
       "date": "2025-01-15",
       "open": 34.13,
-      "high": 34.2,
+      "high": 34.19,
       "low": 33.41,
       "close": 33.78,
       "volume": 19000
@@ -6585,7 +6577,7 @@
       "date": "2025-02-03",
       "open": 34.11,
       "high": 35.05,
-      "low": 33.68,
+      "low": 33.67,
       "close": 34.44,
       "volume": 25800
     },
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 57213
+      "open": 43.8,
+      "high": 44.09,
+      "low": 42.99,
+      "close": 43.4,
+      "volume": 57200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 43.42,
+      "high": 44.31,
+      "low": 43.42,
+      "close": 43.93,
+      "volume": 126900
     }
   ]
 }

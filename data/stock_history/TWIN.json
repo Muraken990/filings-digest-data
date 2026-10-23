@@ -1,18 +1,10 @@
 {
   "code": "TWIN",
   "ticker": "TWIN",
-  "last_updated": "2026-10-22 12:20:58",
+  "last_updated": "2026-10-23 12:21:01",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 11.12,
-      "high": 11.75,
-      "low": 11.12,
-      "close": 11.54,
-      "volume": 6100
-    },
     {
       "date": "2021-10-25",
       "open": 11.44,
@@ -6842,7 +6834,7 @@
       "open": 8.0,
       "high": 8.1,
       "low": 7.89,
-      "close": 7.97,
+      "close": 7.98,
       "volume": 42700
     },
     {
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 57405
+      "open": 25.13,
+      "high": 25.97,
+      "low": 24.13,
+      "close": 25.88,
+      "volume": 57400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 25.58,
+      "high": 25.66,
+      "low": 23.61,
+      "close": 23.95,
+      "volume": 82600
     }
   ]
 }

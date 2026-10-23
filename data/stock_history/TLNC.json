@@ -1,9 +1,9 @@
 {
   "code": "TLNC",
   "ticker": "TLNC",
-  "last_updated": "2026-10-22 12:18:21",
+  "last_updated": "2026-10-23 12:18:24",
   "period": "5y",
-  "data_points": 261,
+  "data_points": 262,
   "data": [
     {
       "date": "2025-10-08",
@@ -2087,11 +2087,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 150225
+      "open": 10.22,
+      "high": 10.22,
+      "low": 10.22,
+      "close": 10.22,
+      "volume": 150200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.23,
+      "high": 10.23,
+      "low": 10.23,
+      "close": 10.23,
+      "volume": 16900
     }
   ]
 }

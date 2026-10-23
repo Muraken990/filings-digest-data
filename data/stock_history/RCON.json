@@ -1,18 +1,10 @@
 {
   "code": "RCON",
   "ticker": "RCON",
-  "last_updated": "2026-10-22 12:03:38",
+  "last_updated": "2026-10-23 12:03:43",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 9036.0,
-      "high": 9540.0,
-      "low": 8532.0,
-      "close": 8676.0,
-      "volume": 655
-    },
     {
       "date": "2021-10-25",
       "open": 8640.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 119572
+      "open": 0.94,
+      "high": 1.09,
+      "low": 0.94,
+      "close": 1.04,
+      "volume": 120300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.06,
+      "high": 1.11,
+      "low": 0.97,
+      "close": 0.98,
+      "volume": 56000
     }
   ]
 }

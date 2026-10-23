@@ -1,9 +1,9 @@
 {
   "code": "STRZ",
   "ticker": "STRZ",
-  "last_updated": "2026-10-22 12:14:54",
+  "last_updated": "2026-10-23 12:14:57",
   "period": "5y",
-  "data_points": 367,
+  "data_points": 368,
   "data": [
     {
       "date": "2025-05-07",
@@ -2935,11 +2935,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 261205
+      "open": 23.33,
+      "high": 24.91,
+      "low": 22.78,
+      "close": 24.5,
+      "volume": 264000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 24.66,
+      "high": 25.21,
+      "low": 23.0,
+      "close": 23.22,
+      "volume": 191600
     }
   ]
 }

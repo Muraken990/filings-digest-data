@@ -1,18 +1,10 @@
 {
   "code": "PRTH",
   "ticker": "PRTH",
-  "last_updated": "2026-10-22 12:01:48",
+  "last_updated": "2026-10-23 12:01:48",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 5.3,
-      "high": 5.35,
-      "low": 4.92,
-      "close": 5.2,
-      "volume": 91600
-    },
     {
       "date": "2021-10-25",
       "open": 5.13,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 288717
+      "open": 7.83,
+      "high": 7.83,
+      "low": 7.81,
+      "close": 7.82,
+      "volume": 288700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 7.81,
+      "high": 7.83,
+      "low": 7.81,
+      "close": 7.82,
+      "volume": 379400
     }
   ]
 }

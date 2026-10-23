@@ -1,9 +1,9 @@
 {
   "code": "TNON",
   "ticker": "TNON",
-  "last_updated": "2026-10-22 12:19:11",
+  "last_updated": "2026-10-23 12:19:14",
   "period": "5y",
-  "data_points": 1126,
+  "data_points": 1127,
   "data": [
     {
       "date": "2022-04-27",
@@ -9007,11 +9007,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 85936
+      "open": 2.47,
+      "high": 2.59,
+      "low": 2.42,
+      "close": 2.51,
+      "volume": 86200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.45,
+      "high": 2.48,
+      "low": 2.22,
+      "close": 2.24,
+      "volume": 111800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "SOBO",
   "ticker": "SOBO",
-  "last_updated": "2026-10-22 12:13:04",
+  "last_updated": "2026-10-23 12:13:08",
   "period": "5y",
-  "data_points": 514,
+  "data_points": 515,
   "data": [
     {
       "date": "2024-10-03",
@@ -4111,11 +4111,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 384584
+      "open": 34.47,
+      "high": 35.03,
+      "low": 34.47,
+      "close": 34.75,
+      "volume": 405700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 34.96,
+      "high": 34.98,
+      "low": 34.02,
+      "close": 34.57,
+      "volume": 1015600
     }
   ]
 }

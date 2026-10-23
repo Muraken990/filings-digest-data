@@ -1,9 +1,9 @@
 {
   "code": "PMTU",
   "ticker": "PMTU",
-  "last_updated": "2026-10-22 12:00:07",
+  "last_updated": "2026-10-23 12:00:07",
   "period": "5y",
-  "data_points": 769,
+  "data_points": 770,
   "data": [
     {
       "date": "2023-09-28",
@@ -6151,11 +6151,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2393
+      "open": 25.37,
+      "high": 25.37,
+      "low": 25.27,
+      "close": 25.27,
+      "volume": 2400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 25.2,
+      "high": 25.33,
+      "low": 25.2,
+      "close": 25.33,
+      "volume": 2100
     }
   ]
 }

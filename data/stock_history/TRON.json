@@ -1,9 +1,9 @@
 {
   "code": "TRON",
   "ticker": "TRON",
-  "last_updated": "2026-10-22 12:20:04",
+  "last_updated": "2026-10-23 12:20:06",
   "period": "5y",
-  "data_points": 800,
+  "data_points": 801,
   "data": [
     {
       "date": "2023-08-15",
@@ -6399,11 +6399,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 803355
+      "open": 1.22,
+      "high": 1.31,
+      "low": 1.2,
+      "close": 1.24,
+      "volume": 803400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.2,
+      "high": 1.53,
+      "low": 1.18,
+      "close": 1.5,
+      "volume": 3786700
     }
   ]
 }

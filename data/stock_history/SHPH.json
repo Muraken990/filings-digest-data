@@ -1,9 +1,9 @@
 {
   "code": "SHPH",
   "ticker": "SHPH",
-  "last_updated": "2026-10-22 12:10:31",
+  "last_updated": "2026-10-23 12:10:35",
   "period": "5y",
-  "data_points": 1039,
+  "data_points": 1040,
   "data": [
     {
       "date": "2022-08-31",
@@ -8311,11 +8311,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6190
+      "open": 4.79,
+      "high": 4.95,
+      "low": 4.76,
+      "close": 4.82,
+      "volume": 6500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 4.72,
+      "high": 4.87,
+      "low": 4.55,
+      "close": 4.61,
+      "volume": 9600
     }
   ]
 }

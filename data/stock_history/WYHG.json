@@ -1,9 +1,9 @@
 {
   "code": "WYHG",
   "ticker": "WYHG",
-  "last_updated": "2026-10-22 12:28:43",
+  "last_updated": "2026-10-23 12:28:47",
   "period": "5y",
-  "data_points": 476,
+  "data_points": 477,
   "data": [
     {
       "date": "2024-11-26",
@@ -3807,11 +3807,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 9406
+      "open": 3.06,
+      "high": 3.07,
+      "low": 2.8,
+      "close": 2.8,
+      "volume": 9500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.72,
+      "high": 2.77,
+      "low": 2.6,
+      "close": 2.6,
+      "volume": 8700
     }
   ]
 }

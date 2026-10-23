@@ -1,18 +1,10 @@
 {
   "code": "TFC",
   "ticker": "TFC",
-  "last_updated": "2026-10-22 12:17:29",
+  "last_updated": "2026-10-23 12:17:32",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 50.15,
-      "high": 50.92,
-      "low": 50.15,
-      "close": 50.66,
-      "volume": 4156900
-    },
     {
       "date": "2021-10-25",
       "open": 50.91,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
+      "open": 47.41,
+      "high": 47.88,
+      "low": 47.27,
+      "close": 47.73,
       "volume": 6726400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 47.58,
+      "high": 48.44,
+      "low": 47.44,
+      "close": 48.42,
+      "volume": 6336500
     }
   ]
 }

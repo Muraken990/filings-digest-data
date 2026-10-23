@@ -1,9 +1,9 @@
 {
   "code": "QUMS",
   "ticker": "QUMS",
-  "last_updated": "2026-10-22 12:03:32",
+  "last_updated": "2026-10-23 12:03:33",
   "period": "5y",
-  "data_points": 267,
+  "data_points": 268,
   "data": [
     {
       "date": "2025-09-30",
@@ -2135,11 +2135,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7558
+      "open": 10.38,
+      "high": 10.38,
+      "low": 10.38,
+      "close": 10.38,
+      "volume": 7600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.38,
+      "high": 10.38,
+      "low": 10.38,
+      "close": 10.38,
+      "volume": 0
     }
   ]
 }

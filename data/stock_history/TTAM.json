@@ -1,9 +1,9 @@
 {
   "code": "TTAM",
   "ticker": "TTAM",
-  "last_updated": "2026-10-22 12:20:54",
+  "last_updated": "2026-10-23 12:20:56",
   "period": "5y",
-  "data_points": 428,
+  "data_points": 429,
   "data": [
     {
       "date": "2025-02-07",
@@ -3423,11 +3423,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 264850
+      "open": 13.62,
+      "high": 13.81,
+      "low": 13.32,
+      "close": 13.53,
+      "volume": 264900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 13.49,
+      "high": 14.0,
+      "low": 13.49,
+      "close": 13.77,
+      "volume": 448500
     }
   ]
 }

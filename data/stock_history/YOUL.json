@@ -1,9 +1,9 @@
 {
   "code": "YOUL",
   "ticker": "YOUL",
-  "last_updated": "2026-10-22 12:30:25",
+  "last_updated": "2026-10-23 12:30:29",
   "period": "5y",
-  "data_points": 324,
+  "data_points": 325,
   "data": [
     {
       "date": "2025-07-10",
@@ -2591,11 +2591,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 139597
+      "open": 0.26,
+      "high": 0.26,
+      "low": 0.24,
+      "close": 0.24,
+      "volume": 139600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.22,
+      "high": 0.27,
+      "low": 0.21,
+      "close": 0.25,
+      "volume": 338700
     }
   ]
 }

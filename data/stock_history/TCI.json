@@ -1,18 +1,10 @@
 {
   "code": "TCI",
   "ticker": "TCI",
-  "last_updated": "2026-10-22 12:16:38",
+  "last_updated": "2026-10-23 12:16:41",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 38.37,
-      "high": 38.37,
-      "low": 38.37,
-      "close": 38.37,
-      "volume": 300
-    },
     {
       "date": "2021-10-25",
       "open": 38.45,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4354
+      "open": 48.25,
+      "high": 48.52,
+      "low": 47.93,
+      "close": 48.34,
+      "volume": 4400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 48.5,
+      "high": 49.74,
+      "low": 48.5,
+      "close": 48.81,
+      "volume": 6700
     }
   ]
 }

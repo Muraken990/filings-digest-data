@@ -1,9 +1,9 @@
 {
   "code": "VG",
   "ticker": "VG",
-  "last_updated": "2026-10-22 12:24:23",
+  "last_updated": "2026-10-23 12:24:25",
   "period": "5y",
-  "data_points": 438,
+  "data_points": 439,
   "data": [
     {
       "date": "2025-01-24",
@@ -3503,11 +3503,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 17070161
+      "open": 12.59,
+      "high": 13.18,
+      "low": 12.51,
+      "close": 12.85,
+      "volume": 17086300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 12.95,
+      "high": 13.08,
+      "low": 12.24,
+      "close": 12.81,
+      "volume": 19501000
     }
   ]
 }

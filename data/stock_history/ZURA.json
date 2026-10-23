@@ -1,9 +1,9 @@
 {
   "code": "ZURA",
   "ticker": "ZURA",
-  "last_updated": "2026-10-22 12:31:17",
+  "last_updated": "2026-10-23 12:31:22",
   "period": "5y",
-  "data_points": 901,
+  "data_points": 902,
   "data": [
     {
       "date": "2023-03-21",
@@ -7207,11 +7207,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4182069
+      "open": 4.05,
+      "high": 4.24,
+      "low": 3.96,
+      "close": 4.13,
+      "volume": 4187900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 4.38,
+      "high": 4.47,
+      "low": 3.5,
+      "close": 3.53,
+      "volume": 8775000
     }
   ]
 }

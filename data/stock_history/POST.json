@@ -1,18 +1,10 @@
 {
   "code": "POST",
   "ticker": "POST",
-  "last_updated": "2026-10-22 12:00:56",
+  "last_updated": "2026-10-23 12:00:56",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 69.04,
-      "high": 70.38,
-      "low": 69.04,
-      "close": 70.22,
-      "volume": 1068683
-    },
     {
       "date": "2021-10-25",
       "open": 70.37,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 513754
+      "open": 77.91,
+      "high": 78.67,
+      "low": 77.24,
+      "close": 78.06,
+      "volume": 513800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 78.5,
+      "high": 82.12,
+      "low": 78.5,
+      "close": 82.0,
+      "volume": 620300
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "WKSP",
   "ticker": "WKSP",
-  "last_updated": "2026-10-22 12:27:05",
+  "last_updated": "2026-10-23 12:27:07",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 56.5,
-      "high": 57.5,
-      "low": 54.9,
-      "close": 56.8,
-      "volume": 17530
-    },
     {
       "date": "2021-10-25",
       "open": 57.5,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 213551
+      "open": 0.34,
+      "high": 0.35,
+      "low": 0.33,
+      "close": 0.33,
+      "volume": 213600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.32,
+      "high": 0.34,
+      "low": 0.3,
+      "close": 0.31,
+      "volume": 385000
     }
   ]
 }

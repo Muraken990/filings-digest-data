@@ -1,9 +1,9 @@
 {
   "code": "SOUN",
   "ticker": "SOUN",
-  "last_updated": "2026-10-22 12:13:07",
+  "last_updated": "2026-10-23 12:13:11",
   "period": "5y",
-  "data_points": 1125,
+  "data_points": 1126,
   "data": [
     {
       "date": "2022-04-28",
@@ -8999,11 +8999,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 11270621
+      "open": 4.8,
+      "high": 4.82,
+      "low": 4.55,
+      "close": 4.61,
+      "volume": 11367500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 4.5,
+      "high": 4.67,
+      "low": 4.44,
+      "close": 4.5,
+      "volume": 10989600
     }
   ]
 }

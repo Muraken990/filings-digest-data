@@ -1,9 +1,9 @@
 {
   "code": "YSXT",
   "ticker": "YSXT",
-  "last_updated": "2026-10-22 12:30:26",
+  "last_updated": "2026-10-23 12:30:30",
   "period": "5y",
-  "data_points": 461,
+  "data_points": 462,
   "data": [
     {
       "date": "2024-12-18",
@@ -3687,11 +3687,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6882
+      "open": 1.4,
+      "high": 1.47,
+      "low": 1.34,
+      "close": 1.39,
+      "volume": 6900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.39,
+      "high": 1.39,
+      "low": 1.34,
+      "close": 1.34,
+      "volume": 1300
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "XRAY",
   "ticker": "XRAY",
-  "last_updated": "2026-10-22 12:29:35",
+  "last_updated": "2026-10-23 12:29:39",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 52.59,
-      "high": 52.71,
-      "low": 51.77,
-      "close": 52.49,
-      "volume": 670500
-    },
     {
       "date": "2021-10-25",
       "open": 52.49,
@@ -127,7 +119,7 @@
     },
     {
       "date": "2021-11-12",
-      "open": 49.19,
+      "open": 49.18,
       "high": 49.78,
       "low": 49.09,
       "close": 49.46,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4643471
+      "open": 8.91,
+      "high": 9.08,
+      "low": 8.79,
+      "close": 9.08,
+      "volume": 4643500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 9.13,
+      "high": 9.55,
+      "low": 9.1,
+      "close": 9.5,
+      "volume": 4892200
     }
   ]
 }

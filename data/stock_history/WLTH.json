@@ -1,9 +1,9 @@
 {
   "code": "WLTH",
   "ticker": "WLTH",
-  "last_updated": "2026-10-22 12:27:49",
+  "last_updated": "2026-10-23 12:27:53",
   "period": "5y",
-  "data_points": 214,
+  "data_points": 215,
   "data": [
     {
       "date": "2025-12-15",
@@ -1711,11 +1711,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1914466
+      "open": 10.66,
+      "high": 10.98,
+      "low": 10.62,
+      "close": 10.87,
+      "volume": 1914500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.95,
+      "high": 11.23,
+      "low": 10.91,
+      "close": 11.2,
+      "volume": 2624100
     }
   ]
 }

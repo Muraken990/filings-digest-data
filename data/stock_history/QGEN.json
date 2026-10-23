@@ -1,18 +1,10 @@
 {
   "code": "QGEN",
   "ticker": "QGEN",
-  "last_updated": "2026-10-22 12:02:44",
+  "last_updated": "2026-10-23 12:02:43",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 53.24,
-      "high": 53.53,
-      "low": 52.93,
-      "close": 53.28,
-      "volume": 342251
-    },
     {
       "date": "2021-10-25",
       "open": 53.66,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 11965671
+      "open": 48.12,
+      "high": 50.25,
+      "low": 46.89,
+      "close": 50.0,
+      "volume": 12529700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 50.5,
+      "high": 50.52,
+      "low": 49.9,
+      "close": 50.22,
+      "volume": 40827100
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "RHLD",
   "ticker": "RHLD",
-  "last_updated": "2026-10-22 12:05:18",
+  "last_updated": "2026-10-23 12:05:23",
   "period": "5y",
-  "data_points": 418,
+  "data_points": 419,
   "data": [
     {
       "date": "2025-02-24",
@@ -3343,11 +3343,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 72958
+      "open": 114.07,
+      "high": 116.21,
+      "low": 111.49,
+      "close": 115.24,
+      "volume": 73000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 113.51,
+      "high": 118.96,
+      "low": 113.51,
+      "close": 118.81,
+      "volume": 149300
     }
   ]
 }

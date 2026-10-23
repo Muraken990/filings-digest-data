@@ -1,18 +1,10 @@
 {
   "code": "TOON",
   "ticker": "TOON",
-  "last_updated": "2026-10-22 12:19:12",
+  "last_updated": "2026-10-23 12:19:15",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 13.5,
-      "high": 13.7,
-      "low": 13.0,
-      "close": 13.4,
-      "volume": 513290
-    },
     {
       "date": "2021-10-25",
       "open": 13.3,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 397956
+      "open": 0.52,
+      "high": 0.52,
+      "low": 0.5,
+      "close": 0.51,
+      "volume": 398000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.5,
+      "high": 0.51,
+      "low": 0.5,
+      "close": 0.5,
+      "volume": 318200
     }
   ]
 }

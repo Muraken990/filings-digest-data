@@ -1,18 +1,10 @@
 {
   "code": "ZNB",
   "ticker": "ZNB",
-  "last_updated": "2026-10-22 12:30:30",
+  "last_updated": "2026-10-23 12:30:35",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 41600000.0,
-      "high": 47200000.0,
-      "low": 41600000.0,
-      "close": 47200000.0,
-      "volume": 0
-    },
     {
       "date": "2021-10-25",
       "open": 51200000.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 49765
+      "open": 0.7,
+      "high": 0.7,
+      "low": 0.68,
+      "close": 0.69,
+      "volume": 49800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.68,
+      "high": 0.7,
+      "low": 0.6,
+      "close": 0.68,
+      "volume": 64100
     }
   ]
 }

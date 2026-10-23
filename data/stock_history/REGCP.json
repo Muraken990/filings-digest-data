@@ -1,9 +1,9 @@
 {
   "code": "REGCP",
   "ticker": "REGCP",
-  "last_updated": "2026-10-22 12:04:27",
+  "last_updated": "2026-10-23 12:04:32",
   "period": "5y",
-  "data_points": 796,
+  "data_points": 797,
   "data": [
     {
       "date": "2023-08-21",
@@ -1280,7 +1280,7 @@
     {
       "date": "2024-04-09",
       "open": 20.18,
-      "high": 20.22,
+      "high": 20.21,
       "low": 20.08,
       "close": 20.08,
       "volume": 1300
@@ -6367,11 +6367,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1644
+      "open": 21.88,
+      "high": 21.88,
+      "low": 21.41,
+      "close": 21.56,
+      "volume": 1600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 21.55,
+      "high": 21.8,
+      "low": 21.55,
+      "close": 21.8,
+      "volume": 1200
     }
   ]
 }

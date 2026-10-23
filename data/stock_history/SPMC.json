@@ -1,9 +1,9 @@
 {
   "code": "SPMC",
   "ticker": "SPMC",
-  "last_updated": "2026-10-22 12:13:10",
+  "last_updated": "2026-10-23 12:13:13",
   "period": "5y",
-  "data_points": 590,
+  "data_points": 591,
   "data": [
     {
       "date": "2024-06-14",
@@ -898,14 +898,14 @@
       "open": 14.07,
       "high": 14.07,
       "low": 13.91,
-      "close": 14.03,
+      "close": 14.02,
       "volume": 15000
     },
     {
       "date": "2024-11-22",
       "open": 14.07,
       "high": 14.48,
-      "low": 14.02,
+      "low": 14.03,
       "close": 14.13,
       "volume": 35500
     },
@@ -4719,11 +4719,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 134429
+      "open": 5.83,
+      "high": 5.98,
+      "low": 5.62,
+      "close": 5.87,
+      "volume": 134400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 5.91,
+      "high": 6.09,
+      "low": 5.82,
+      "close": 5.93,
+      "volume": 27500
     }
   ]
 }

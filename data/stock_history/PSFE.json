@@ -1,18 +1,10 @@
 {
   "code": "PSFE",
   "ticker": "PSFE",
-  "last_updated": "2026-10-22 12:01:50",
+  "last_updated": "2026-10-23 12:01:50",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 98.16,
-      "high": 98.96,
-      "low": 95.76,
-      "close": 97.2,
-      "volume": 475325
-    },
     {
       "date": "2021-10-25",
       "open": 93.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 365224
+      "open": 5.47,
+      "high": 5.63,
+      "low": 5.41,
+      "close": 5.53,
+      "volume": 366100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 5.52,
+      "high": 5.94,
+      "low": 5.51,
+      "close": 5.93,
+      "volume": 440400
     }
   ]
 }

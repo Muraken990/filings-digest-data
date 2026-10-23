@@ -1,9 +1,9 @@
 {
   "code": "RBNE",
   "ticker": "RBNE",
-  "last_updated": "2026-10-22 12:03:36",
+  "last_updated": "2026-10-23 12:03:36",
   "period": "5y",
-  "data_points": 384,
+  "data_points": 385,
   "data": [
     {
       "date": "2025-04-11",
@@ -3071,11 +3071,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 137147894
+      "open": 1.0,
+      "high": 1.01,
+      "low": 0.22,
+      "close": 0.23,
+      "volume": 150545100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.19,
+      "high": 0.2,
+      "low": 0.17,
+      "close": 0.19,
+      "volume": 91526800
     }
   ]
 }

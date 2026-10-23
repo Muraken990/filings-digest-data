@@ -1,18 +1,10 @@
 {
   "code": "TSAT",
   "ticker": "TSAT",
-  "last_updated": "2026-10-22 12:20:06",
+  "last_updated": "2026-10-23 12:20:09",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 48.49,
-      "high": 49.0,
-      "low": 47.35,
-      "close": 48.9,
-      "volume": 67300
-    },
     {
       "date": "2021-10-25",
       "open": 49.23,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 242068
+      "open": 42.42,
+      "high": 43.19,
+      "low": 39.87,
+      "close": 42.23,
+      "volume": 242100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 40.8,
+      "high": 41.8,
+      "low": 38.1,
+      "close": 40.4,
+      "volume": 341300
     }
   ]
 }

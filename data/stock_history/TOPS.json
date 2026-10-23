@@ -1,18 +1,10 @@
 {
   "code": "TOPS",
   "ticker": "TOPS",
-  "last_updated": "2026-10-22 12:19:13",
+  "last_updated": "2026-10-23 12:19:15",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 357.6,
-      "high": 360.0,
-      "low": 343.2,
-      "close": 345.6,
-      "volume": 2744
-    },
     {
       "date": "2021-10-25",
       "open": 348.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 600230
+      "open": 0.43,
+      "high": 0.45,
+      "low": 0.38,
+      "close": 0.39,
+      "volume": 621100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.38,
+      "high": 0.39,
+      "low": 0.32,
+      "close": 0.34,
+      "volume": 548100
     }
   ]
 }

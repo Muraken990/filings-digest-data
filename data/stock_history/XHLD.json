@@ -1,9 +1,9 @@
 {
   "code": "XHLD",
   "ticker": "XHLD",
-  "last_updated": "2026-10-22 12:28:46",
+  "last_updated": "2026-10-23 12:28:50",
   "period": "5y",
-  "data_points": 424,
+  "data_points": 425,
   "data": [
     {
       "date": "2025-02-13",
@@ -3391,11 +3391,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 69596671
+      "open": 0.6,
+      "high": 0.98,
+      "low": 0.59,
+      "close": 0.91,
+      "volume": 70584000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.93,
+      "high": 0.95,
+      "low": 0.76,
+      "close": 0.79,
+      "volume": 3497700
     }
   ]
 }

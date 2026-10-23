@@ -1,18 +1,10 @@
 {
   "code": "SW",
   "ticker": "SW",
-  "last_updated": "2026-10-22 12:15:44",
+  "last_updated": "2026-10-23 12:15:47",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 40.83,
-      "high": 40.83,
-      "low": 40.83,
-      "close": 40.83,
-      "volume": 0
-    },
     {
       "date": "2021-10-25",
       "open": 41.5,
@@ -7591,7 +7583,7 @@
     },
     {
       "date": "2025-08-05",
-      "open": 42.46,
+      "open": 42.45,
       "high": 42.64,
       "low": 41.95,
       "close": 42.47,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4380582
+      "open": 41.38,
+      "high": 42.18,
+      "low": 40.79,
+      "close": 41.46,
+      "volume": 4380600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 40.88,
+      "high": 42.52,
+      "low": 40.88,
+      "close": 42.43,
+      "volume": 5684400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "TVACU",
   "ticker": "TVACU",
-  "last_updated": "2026-10-22 12:20:56",
+  "last_updated": "2026-10-23 12:20:59",
   "period": "5y",
-  "data_points": 377,
+  "data_points": 378,
   "data": [
     {
       "date": "2025-04-23",
@@ -3015,11 +3015,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 265
+      "open": 10.8,
+      "high": 10.8,
+      "low": 10.8,
+      "close": 10.8,
+      "volume": 300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.71,
+      "high": 10.71,
+      "low": 10.71,
+      "close": 10.71,
+      "volume": 100
     }
   ]
 }

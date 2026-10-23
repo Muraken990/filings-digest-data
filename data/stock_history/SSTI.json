@@ -1,18 +1,10 @@
 {
   "code": "SSTI",
   "ticker": "SSTI",
-  "last_updated": "2026-10-22 12:14:02",
+  "last_updated": "2026-10-23 12:14:06",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 39.46,
-      "high": 39.46,
-      "low": 35.76,
-      "close": 35.8,
-      "volume": 29100
-    },
     {
       "date": "2021-10-25",
       "open": 35.9,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 525089
+      "open": 8.39,
+      "high": 8.42,
+      "low": 8.29,
+      "close": 8.4,
+      "volume": 525100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 8.38,
+      "high": 8.48,
+      "low": 8.36,
+      "close": 8.4,
+      "volume": 47700
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "RAL",
   "ticker": "RAL",
-  "last_updated": "2026-10-22 12:03:34",
+  "last_updated": "2026-10-23 12:03:34",
   "period": "5y",
-  "data_points": 334,
+  "data_points": 335,
   "data": [
     {
       "date": "2025-06-25",
@@ -2671,11 +2671,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 915722
+      "open": 67.82,
+      "high": 69.84,
+      "low": 67.52,
+      "close": 69.29,
+      "volume": 915700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 67.55,
+      "high": 68.71,
+      "low": 64.13,
+      "close": 65.64,
+      "volume": 1416700
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "XRPN",
   "ticker": "XRPN",
-  "last_updated": "2026-10-22 12:29:35",
+  "last_updated": "2026-10-23 12:29:39",
   "period": "5y",
-  "data_points": 335,
+  "data_points": 336,
   "data": [
     {
       "date": "2025-06-24",
@@ -2679,11 +2679,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 861530
+      "open": 14.88,
+      "high": 15.9,
+      "low": 14.6,
+      "close": 15.75,
+      "volume": 862700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 15.28,
+      "high": 15.64,
+      "low": 15.0,
+      "close": 15.46,
+      "volume": 352400
     }
   ]
 }

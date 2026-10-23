@@ -1,18 +1,10 @@
 {
   "code": "ROOT",
   "ticker": "ROOT",
-  "last_updated": "2026-10-22 12:06:14",
+  "last_updated": "2026-10-23 12:06:18",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 97.38,
-      "high": 98.28,
-      "low": 92.92,
-      "close": 94.14,
-      "volume": 171117
-    },
     {
       "date": "2021-10-25",
       "open": 94.14,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 123777
+      "open": 52.72,
+      "high": 53.44,
+      "low": 51.93,
+      "close": 52.09,
+      "volume": 123800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 52.15,
+      "high": 54.0,
+      "low": 52.15,
+      "close": 53.87,
+      "volume": 128600
     }
   ]
 }

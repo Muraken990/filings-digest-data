@@ -1,18 +1,10 @@
 {
   "code": "QNTM",
   "ticker": "QNTM",
-  "last_updated": "2026-10-22 12:02:45",
+  "last_updated": "2026-10-23 12:02:45",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 95.55,
-      "high": 97.5,
-      "low": 91.65,
-      "close": 92.95,
-      "volume": 8492
-    },
     {
       "date": "2021-10-25",
       "open": 93.6,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 90338
+      "open": 2.45,
+      "high": 2.48,
+      "low": 2.37,
+      "close": 2.4,
+      "volume": 90400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.37,
+      "high": 2.43,
+      "low": 2.25,
+      "close": 2.27,
+      "volume": 150100
     }
   ]
 }
