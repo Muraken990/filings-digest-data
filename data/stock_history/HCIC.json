@@ -1,9 +1,9 @@
 {
   "code": "HCIC",
   "ticker": "HCIC",
-  "last_updated": "2026-10-22 09:36:12",
+  "last_updated": "2026-10-23 09:36:14",
   "period": "5y",
-  "data_points": 143,
+  "data_points": 144,
   "data": [
     {
       "date": "2026-03-30",
@@ -1143,11 +1143,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8015
+      "open": 9.98,
+      "high": 9.98,
+      "low": 9.98,
+      "close": 9.98,
+      "volume": 8000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 9.98,
+      "high": 9.98,
+      "low": 9.98,
+      "close": 9.98,
+      "volume": 0
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "NUAI",
   "ticker": "NUAI",
-  "last_updated": "2026-10-22 10:01:22",
+  "last_updated": "2026-10-23 10:01:26",
   "period": "5y",
-  "data_points": 1202,
+  "data_points": 1203,
   "data": [
     {
       "date": "2022-01-06",
@@ -9615,11 +9615,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 21101975
+      "open": 3.01,
+      "high": 3.61,
+      "low": 2.67,
+      "close": 3.32,
+      "volume": 21265800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 3.07,
+      "high": 3.12,
+      "low": 2.64,
+      "close": 2.78,
+      "volume": 12600600
     }
   ]
 }

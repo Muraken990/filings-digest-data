@@ -1,9 +1,9 @@
 {
   "code": "GECCG",
   "ticker": "GECCG",
-  "last_updated": "2026-10-22 09:31:50",
+  "last_updated": "2026-10-23 09:31:52",
   "period": "5y",
-  "data_points": 279,
+  "data_points": 280,
   "data": [
     {
       "date": "2025-09-12",
@@ -2231,11 +2231,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 359
+      "open": 24.5,
+      "high": 24.5,
+      "low": 24.5,
+      "close": 24.5,
+      "volume": 400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 24.5,
+      "high": 24.5,
+      "low": 24.5,
+      "close": 24.5,
+      "volume": 0
     }
   ]
 }

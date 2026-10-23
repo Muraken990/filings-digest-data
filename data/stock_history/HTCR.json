@@ -1,9 +1,9 @@
 {
   "code": "HTCR",
   "ticker": "HTCR",
-  "last_updated": "2026-10-22 09:38:00",
+  "last_updated": "2026-10-23 09:38:02",
   "period": "5y",
-  "data_points": 1178,
+  "data_points": 1179,
   "data": [
     {
       "date": "2022-02-10",
@@ -9423,11 +9423,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3767
+      "open": 1.52,
+      "high": 1.53,
+      "low": 1.5,
+      "close": 1.53,
+      "volume": 3800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.52,
+      "high": 1.52,
+      "low": 1.46,
+      "close": 1.47,
+      "volume": 6700
     }
   ]
 }

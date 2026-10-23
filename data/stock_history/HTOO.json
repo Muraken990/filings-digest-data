@@ -1,18 +1,10 @@
 {
   "code": "HTOO",
   "ticker": "HTOO",
-  "last_updated": "2026-10-22 09:38:01",
+  "last_updated": "2026-10-23 09:38:03",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 429.45,
-      "high": 435.75,
-      "low": 423.5,
-      "close": 430.5,
-      "volume": 806
-    },
     {
       "date": "2021-10-25",
       "open": 430.5,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 11624
+      "open": 1.85,
+      "high": 1.85,
+      "low": 1.78,
+      "close": 1.83,
+      "volume": 11600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.75,
+      "high": 1.88,
+      "low": 1.65,
+      "close": 1.82,
+      "volume": 113600
     }
   ]
 }

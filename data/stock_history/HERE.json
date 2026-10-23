@@ -1,9 +1,9 @@
 {
   "code": "HERE",
   "ticker": "HERE",
-  "last_updated": "2026-10-22 09:36:15",
+  "last_updated": "2026-10-23 09:36:17",
   "period": "5y",
-  "data_points": 939,
+  "data_points": 940,
   "data": [
     {
       "date": "2023-01-25",
@@ -7511,11 +7511,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2850
+      "open": 1.53,
+      "high": 1.54,
+      "low": 1.53,
+      "close": 1.54,
+      "volume": 2900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.5,
+      "high": 1.5,
+      "low": 1.44,
+      "close": 1.44,
+      "volume": 7200
     }
   ]
 }

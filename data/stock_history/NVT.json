@@ -1,26 +1,10 @@
 {
   "code": "NVT",
   "ticker": "NVT",
-  "last_updated": "2026-10-22 10:01:25",
+  "last_updated": "2026-10-23 10:01:30",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-10-22",
-      "open": 30.76,
-      "high": 31.35,
-      "low": 30.69,
-      "close": 31.22,
-      "volume": 600000
-    },
     {
       "date": "2021-10-25",
       "open": 31.2,
@@ -800,7 +784,7 @@
     {
       "date": "2022-03-15",
       "open": 32.79,
-      "high": 32.93,
+      "high": 32.94,
       "low": 32.21,
       "close": 32.38,
       "volume": 815900
@@ -5040,7 +5024,7 @@
     {
       "date": "2024-04-24",
       "open": 74.43,
-      "high": 74.63,
+      "high": 74.64,
       "low": 70.98,
       "close": 72.02,
       "volume": 1840600
@@ -5977,7 +5961,7 @@
       "date": "2024-10-10",
       "open": 70.01,
       "high": 70.88,
-      "low": 69.01,
+      "low": 69.02,
       "close": 70.77,
       "volume": 1586600
     },
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2087458
+      "open": 144.25,
+      "high": 146.76,
+      "low": 143.05,
+      "close": 146.13,
+      "volume": 2087700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 140.0,
+      "high": 140.26,
+      "low": 125.77,
+      "close": 127.67,
+      "volume": 5661300
     }
   ]
 }

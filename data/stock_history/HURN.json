@@ -1,18 +1,10 @@
 {
   "code": "HURN",
   "ticker": "HURN",
-  "last_updated": "2026-10-22 09:38:49",
+  "last_updated": "2026-10-23 09:38:51",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 49.74,
-      "high": 50.08,
-      "low": 49.33,
-      "close": 49.53,
-      "volume": 32800
-    },
     {
       "date": "2021-10-25",
       "open": 49.43,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 369631
+      "open": 179.47,
+      "high": 184.06,
+      "low": 178.48,
+      "close": 183.32,
+      "volume": 369600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 185.0,
+      "high": 194.25,
+      "low": 181.79,
+      "close": 193.35,
+      "volume": 422300
     }
   ]
 }

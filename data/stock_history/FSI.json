@@ -1,18 +1,10 @@
 {
   "code": "FSI",
   "ticker": "FSI",
-  "last_updated": "2026-10-22 09:30:04",
+  "last_updated": "2026-10-23 09:30:06",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 3.63,
-      "high": 3.65,
-      "low": 3.5,
-      "close": 3.57,
-      "volume": 14500
-    },
     {
       "date": "2021-10-25",
       "open": 3.62,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 18578
+      "open": 6.42,
+      "high": 6.44,
+      "low": 6.25,
+      "close": 6.3,
+      "volume": 18600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 6.3,
+      "high": 6.45,
+      "low": 6.26,
+      "close": 6.39,
+      "volume": 9300
     }
   ]
 }

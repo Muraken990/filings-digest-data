@@ -1,18 +1,10 @@
 {
   "code": "PD",
   "ticker": "PD",
-  "last_updated": "2026-10-22 10:06:36",
+  "last_updated": "2026-10-23 10:06:42",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 42.36,
-      "high": 42.55,
-      "low": 41.41,
-      "close": 41.99,
-      "volume": 756800
-    },
     {
       "date": "2021-10-25",
       "open": 41.89,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2002845
+      "open": 16.95,
+      "high": 17.16,
+      "low": 16.75,
+      "close": 17.06,
+      "volume": 2002800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 17.21,
+      "high": 17.48,
+      "low": 17.07,
+      "close": 17.23,
+      "volume": 1927800
     }
   ]
 }

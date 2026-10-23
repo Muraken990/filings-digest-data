@@ -1,9 +1,9 @@
 {
   "code": "NUTX",
   "ticker": "NUTX",
-  "last_updated": "2026-10-22 10:01:22",
+  "last_updated": "2026-10-23 10:01:27",
   "period": "5y",
-  "data_points": 1142,
+  "data_points": 1143,
   "data": [
     {
       "date": "2022-04-04",
@@ -9135,11 +9135,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 73579
+      "open": 199.75,
+      "high": 200.34,
+      "low": 195.46,
+      "close": 197.61,
+      "volume": 73600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 194.23,
+      "high": 206.75,
+      "low": 194.23,
+      "close": 206.09,
+      "volume": 129700
     }
   ]
 }

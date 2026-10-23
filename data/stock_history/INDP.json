@@ -1,18 +1,10 @@
 {
   "code": "INDP",
   "ticker": "INDP",
-  "last_updated": "2026-10-22 09:41:25",
+  "last_updated": "2026-10-23 09:41:26",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 212.8,
-      "high": 212.8,
-      "low": 196.0,
-      "close": 200.76,
-      "volume": 17879
-    },
     {
       "date": "2021-10-25",
       "open": 197.68,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 527536
+      "open": 2.93,
+      "high": 3.28,
+      "low": 2.85,
+      "close": 3.16,
+      "volume": 528900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 3.23,
+      "high": 3.23,
+      "low": 2.93,
+      "close": 2.99,
+      "volume": 223700
     }
   ]
 }

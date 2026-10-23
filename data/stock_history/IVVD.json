@@ -1,18 +1,10 @@
 {
   "code": "IVVD",
   "ticker": "IVVD",
-  "last_updated": "2026-10-22 09:43:10",
+  "last_updated": "2026-10-23 09:43:12",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 33.54,
-      "high": 33.99,
-      "low": 30.5,
-      "close": 33.75,
-      "volume": 229400
-    },
     {
       "date": "2021-10-25",
       "open": 33.39,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6013735
+      "open": 0.66,
+      "high": 0.69,
+      "low": 0.63,
+      "close": 0.64,
+      "volume": 6016000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.64,
+      "high": 0.66,
+      "low": 0.59,
+      "close": 0.61,
+      "volume": 4314900
     }
   ]
 }

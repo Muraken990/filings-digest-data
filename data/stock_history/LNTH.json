@@ -1,18 +1,10 @@
 {
   "code": "LNTH",
   "ticker": "LNTH",
-  "last_updated": "2026-10-22 09:49:14",
+  "last_updated": "2026-10-23 09:49:17",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 23.08,
-      "high": 23.45,
-      "low": 22.57,
-      "close": 22.72,
-      "volume": 286800
-    },
     {
       "date": "2021-10-25",
       "open": 22.82,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1412262
+      "open": 100.28,
+      "high": 100.46,
+      "low": 100.14,
+      "close": 100.24,
+      "volume": 1412300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 99.75,
+      "high": 100.34,
+      "low": 99.75,
+      "close": 100.1,
+      "volume": 1210900
     }
   ]
 }

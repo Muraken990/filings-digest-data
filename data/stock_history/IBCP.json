@@ -1,18 +1,10 @@
 {
   "code": "IBCP",
   "ticker": "IBCP",
-  "last_updated": "2026-10-22 09:39:39",
+  "last_updated": "2026-10-23 09:39:41",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 18.28,
-      "high": 18.44,
-      "low": 18.25,
-      "close": 18.34,
-      "volume": 42100
-    },
     {
       "date": "2021-10-25",
       "open": 18.24,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 160609
+      "open": 36.38,
+      "high": 36.39,
+      "low": 35.71,
+      "close": 35.99,
+      "volume": 160600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 35.99,
+      "high": 37.09,
+      "low": 35.72,
+      "close": 36.96,
+      "volume": 153200
     }
   ]
 }

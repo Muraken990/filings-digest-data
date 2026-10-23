@@ -1,9 +1,9 @@
 {
   "code": "OXLCG",
   "ticker": "OXLCG",
-  "last_updated": "2026-10-22 10:04:54",
+  "last_updated": "2026-10-23 10:05:00",
   "period": "5y",
-  "data_points": 414,
+  "data_points": 415,
   "data": [
     {
       "date": "2025-02-28",
@@ -3311,11 +3311,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 894
+      "open": 24.41,
+      "high": 24.41,
+      "low": 24.38,
+      "close": 24.38,
+      "volume": 900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 24.3,
+      "high": 24.43,
+      "low": 24.29,
+      "close": 24.35,
+      "volume": 4600
     }
   ]
 }

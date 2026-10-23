@@ -1,9 +1,9 @@
 {
   "code": "LINE",
   "ticker": "LINE",
-  "last_updated": "2026-10-22 09:48:25",
+  "last_updated": "2026-10-23 09:48:27",
   "period": "5y",
-  "data_points": 563,
+  "data_points": 564,
   "data": [
     {
       "date": "2024-07-25",
@@ -4503,11 +4503,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 963348
+      "open": 34.5,
+      "high": 35.43,
+      "low": 34.13,
+      "close": 34.26,
+      "volume": 963300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 34.04,
+      "high": 35.11,
+      "low": 34.04,
+      "close": 35.09,
+      "volume": 858300
     }
   ]
 }

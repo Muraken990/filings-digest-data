@@ -1,18 +1,10 @@
 {
   "code": "ODC",
   "ticker": "ODC",
-  "last_updated": "2026-10-22 10:02:19",
+  "last_updated": "2026-10-23 10:02:24",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 15.59,
-      "high": 15.67,
-      "low": 15.58,
-      "close": 15.59,
-      "volume": 15800
-    },
     {
       "date": "2021-10-25",
       "open": 15.58,
@@ -8023,7 +8015,7 @@
     },
     {
       "date": "2025-10-21",
-      "open": 58.36,
+      "open": 58.35,
       "high": 59.5,
       "low": 58.08,
       "close": 59.26,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 116399
+      "open": 72.41,
+      "high": 74.25,
+      "low": 70.79,
+      "close": 74.01,
+      "volume": 116400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 72.65,
+      "high": 75.45,
+      "low": 72.65,
+      "close": 75.03,
+      "volume": 110200
     }
   ]
 }

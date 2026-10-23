@@ -1,18 +1,10 @@
 {
   "code": "NVNO",
   "ticker": "NVNO",
-  "last_updated": "2026-10-22 10:01:24",
+  "last_updated": "2026-10-23 10:01:29",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 338.1,
-      "high": 353.67,
-      "low": 336.0,
-      "close": 346.5,
-      "volume": 3994
-    },
     {
       "date": "2021-10-25",
       "open": 350.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 45727
+      "open": 8.27,
+      "high": 8.27,
+      "low": 7.2,
+      "close": 7.33,
+      "volume": 45700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 7.3,
+      "high": 7.57,
+      "low": 6.6,
+      "close": 6.91,
+      "volume": 30100
     }
   ]
 }

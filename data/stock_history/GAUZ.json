@@ -1,9 +1,9 @@
 {
   "code": "GAUZ",
   "ticker": "GAUZ",
-  "last_updated": "2026-10-22 09:31:00",
+  "last_updated": "2026-10-23 09:31:02",
   "period": "5y",
-  "data_points": 596,
+  "data_points": 597,
   "data": [
     {
       "date": "2024-06-06",
@@ -4767,11 +4767,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 57434
+      "open": 4.56,
+      "high": 4.74,
+      "low": 4.3,
+      "close": 4.56,
+      "volume": 57500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 4.5,
+      "high": 4.97,
+      "low": 4.43,
+      "close": 4.86,
+      "volume": 104500
     }
   ]
 }

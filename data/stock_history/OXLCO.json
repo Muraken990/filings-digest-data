@@ -1,18 +1,10 @@
 {
   "code": "OXLCO",
   "ticker": "OXLCO",
-  "last_updated": "2026-10-22 10:04:55",
+  "last_updated": "2026-10-23 10:05:01",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 18.0,
-      "high": 18.0,
-      "low": 17.97,
-      "close": 18.0,
-      "volume": 3000
-    },
     {
       "date": "2021-10-25",
       "open": 18.06,
@@ -1105,8 +1097,8 @@
       "date": "2022-05-10",
       "open": 18.17,
       "high": 18.17,
-      "low": 17.99,
-      "close": 17.99,
+      "low": 18.0,
+      "close": 18.0,
       "volume": 3000
     },
     {
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 546
+      "open": 23.48,
+      "high": 23.48,
+      "low": 23.48,
+      "close": 23.48,
+      "volume": 500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 23.4,
+      "high": 23.45,
+      "low": 23.4,
+      "close": 23.45,
+      "volume": 700
     }
   ]
 }

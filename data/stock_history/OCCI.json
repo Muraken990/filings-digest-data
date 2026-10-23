@@ -1,18 +1,10 @@
 {
   "code": "OCCI",
   "ticker": "OCCI",
-  "last_updated": "2026-10-22 10:02:18",
+  "last_updated": "2026-10-23 10:02:23",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 4.72,
-      "high": 4.74,
-      "low": 4.7,
-      "close": 4.73,
-      "volume": 34000
-    },
     {
       "date": "2021-10-25",
       "open": 4.72,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 218756
+      "open": 1.56,
+      "high": 1.62,
+      "low": 1.53,
+      "close": 1.54,
+      "volume": 229400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.54,
+      "high": 1.57,
+      "low": 1.51,
+      "close": 1.52,
+      "volume": 190800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "LPA",
   "ticker": "LPA",
-  "last_updated": "2026-10-22 09:49:17",
+  "last_updated": "2026-10-23 09:49:20",
   "period": "5y",
-  "data_points": 644,
+  "data_points": 645,
   "data": [
     {
       "date": "2024-03-28",
@@ -5151,11 +5151,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 23235
+      "open": 2.76,
+      "high": 2.76,
+      "low": 2.65,
+      "close": 2.65,
+      "volume": 23200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.67,
+      "high": 2.68,
+      "low": 2.6,
+      "close": 2.65,
+      "volume": 23500
     }
   ]
 }

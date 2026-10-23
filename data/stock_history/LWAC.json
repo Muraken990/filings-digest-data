@@ -1,9 +1,9 @@
 {
   "code": "LWAC",
   "ticker": "LWAC",
-  "last_updated": "2026-10-22 09:50:08",
+  "last_updated": "2026-10-23 09:50:12",
   "period": "5y",
-  "data_points": 298,
+  "data_points": 299,
   "data": [
     {
       "date": "2025-08-15",
@@ -2383,11 +2383,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 199207
+      "open": 10.39,
+      "high": 10.39,
+      "low": 10.35,
+      "close": 10.35,
+      "volume": 199200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.35,
+      "high": 10.35,
+      "low": 10.35,
+      "close": 10.35,
+      "volume": 100
     }
   ]
 }

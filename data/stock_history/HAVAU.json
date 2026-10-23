@@ -1,9 +1,9 @@
 {
   "code": "HAVAU",
   "ticker": "HAVAU",
-  "last_updated": "2026-10-22 09:35:24",
+  "last_updated": "2026-10-23 09:35:26",
   "period": "5y",
-  "data_points": 250,
+  "data_points": 251,
   "data": [
     {
       "date": "2025-10-23",
@@ -1999,11 +1999,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2869
+      "open": 10.36,
+      "high": 10.6,
+      "low": 10.31,
+      "close": 10.31,
+      "volume": 2900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.32,
+      "high": 10.32,
+      "low": 10.32,
+      "close": 10.32,
+      "volume": 200
     }
   ]
 }

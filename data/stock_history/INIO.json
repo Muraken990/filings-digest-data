@@ -1,9 +1,9 @@
 {
   "code": "INIO",
   "ticker": "INIO",
-  "last_updated": "2026-10-22 09:41:26",
+  "last_updated": "2026-10-23 09:41:27",
   "period": "5y",
-  "data_points": 95,
+  "data_points": 96,
   "data": [
     {
       "date": "2026-06-08",
@@ -759,11 +759,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4389767
+      "open": 16.82,
+      "high": 17.15,
+      "low": 16.54,
+      "close": 16.87,
+      "volume": 4390000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 16.3,
+      "high": 16.36,
+      "low": 14.58,
+      "close": 15.11,
+      "volume": 9304500
     }
   ]
 }

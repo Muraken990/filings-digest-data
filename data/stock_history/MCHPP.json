@@ -1,9 +1,9 @@
 {
   "code": "MCHPP",
   "ticker": "MCHPP",
-  "last_updated": "2026-10-22 09:51:50",
+  "last_updated": "2026-10-23 09:51:54",
   "period": "5y",
-  "data_points": 399,
+  "data_points": 400,
   "data": [
     {
       "date": "2025-03-21",
@@ -3191,11 +3191,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 28179
+      "open": 67.13,
+      "high": 67.13,
+      "low": 65.18,
+      "close": 66.22,
+      "volume": 28200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 65.9,
+      "high": 65.9,
+      "low": 63.59,
+      "close": 64.21,
+      "volume": 16100
     }
   ]
 }

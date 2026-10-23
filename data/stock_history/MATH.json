@@ -1,18 +1,10 @@
 {
   "code": "MATH",
   "ticker": "MATH",
-  "last_updated": "2026-10-22 09:51:00",
+  "last_updated": "2026-10-23 09:51:04",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 1.65,
-      "high": 1.67,
-      "low": 1.46,
-      "close": 1.48,
-      "volume": 301200
-    },
     {
       "date": "2021-10-25",
       "open": 1.51,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 72901
+      "open": 1.09,
+      "high": 1.09,
+      "low": 1.05,
+      "close": 1.05,
+      "volume": 72900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.01,
+      "high": 1.01,
+      "low": 0.98,
+      "close": 1.0,
+      "volume": 17800
     }
   ]
 }

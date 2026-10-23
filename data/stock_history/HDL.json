@@ -1,9 +1,9 @@
 {
   "code": "HDL",
   "ticker": "HDL",
-  "last_updated": "2026-10-22 09:36:14",
+  "last_updated": "2026-10-23 09:36:16",
   "period": "5y",
-  "data_points": 609,
+  "data_points": 610,
   "data": [
     {
       "date": "2024-05-17",
@@ -4871,11 +4871,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4495
+      "open": 10.26,
+      "high": 10.26,
+      "low": 10.24,
+      "close": 10.24,
+      "volume": 4600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.2,
+      "high": 10.2,
+      "low": 9.74,
+      "close": 9.74,
+      "volume": 1100
     }
   ]
 }

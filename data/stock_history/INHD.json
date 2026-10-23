@@ -1,9 +1,9 @@
 {
   "code": "INHD",
   "ticker": "INHD",
-  "last_updated": "2026-10-22 09:41:26",
+  "last_updated": "2026-10-23 09:41:27",
   "period": "5y",
-  "data_points": 715,
+  "data_points": 716,
   "data": [
     {
       "date": "2023-12-14",
@@ -5719,11 +5719,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 32657
+      "open": 3.88,
+      "high": 3.91,
+      "low": 3.61,
+      "close": 3.62,
+      "volume": 32700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 3.59,
+      "high": 3.69,
+      "low": 3.46,
+      "close": 3.46,
+      "volume": 27300
     }
   ]
 }

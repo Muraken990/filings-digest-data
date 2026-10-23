@@ -1,18 +1,10 @@
 {
   "code": "JMM",
   "ticker": "JMM",
-  "last_updated": "2026-10-22 09:44:03",
+  "last_updated": "2026-10-23 09:44:05",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 5.64,
-      "high": 5.64,
-      "low": 5.62,
-      "close": 5.62,
-      "volume": 900
-    },
     {
       "date": "2021-10-25",
       "open": 5.6,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6280
+      "open": 5.5,
+      "high": 5.5,
+      "low": 5.42,
+      "close": 5.42,
+      "volume": 6300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 5.48,
+      "high": 5.52,
+      "low": 5.43,
+      "close": 5.52,
+      "volume": 32200
     }
   ]
 }

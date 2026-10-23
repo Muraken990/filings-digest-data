@@ -1,18 +1,10 @@
 {
   "code": "MDB",
   "ticker": "MDB",
-  "last_updated": "2026-10-22 09:51:52",
+  "last_updated": "2026-10-23 09:51:57",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 507.55,
-      "high": 513.24,
-      "low": 497.29,
-      "close": 504.89,
-      "volume": 541900
-    },
     {
       "date": "2021-10-25",
       "open": 506.69,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2521815
+      "open": 368.04,
+      "high": 392.75,
+      "low": 364.0,
+      "close": 390.75,
+      "volume": 2523400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 385.44,
+      "high": 386.58,
+      "low": 359.9,
+      "close": 362.24,
+      "volume": 2048000
     }
   ]
 }

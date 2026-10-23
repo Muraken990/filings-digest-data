@@ -1,9 +1,9 @@
 {
   "code": "MBNKO",
   "ticker": "MBNKO",
-  "last_updated": "2026-10-22 09:51:48",
+  "last_updated": "2026-10-23 09:51:52",
   "period": "5y",
-  "data_points": 357,
+  "data_points": 358,
   "data": [
     {
       "date": "2025-05-21",
@@ -2855,11 +2855,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5373
+      "open": 23.5,
+      "high": 23.63,
+      "low": 23.49,
+      "close": 23.5,
+      "volume": 5400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 23.5,
+      "high": 23.5,
+      "low": 23.06,
+      "close": 23.37,
+      "volume": 7100
     }
   ]
 }

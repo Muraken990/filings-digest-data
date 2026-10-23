@@ -1,9 +1,9 @@
 {
   "code": "NCI",
   "ticker": "NCI",
-  "last_updated": "2026-10-22 09:57:54",
+  "last_updated": "2026-10-23 09:57:57",
   "period": "5y",
-  "data_points": 627,
+  "data_points": 628,
   "data": [
     {
       "date": "2024-04-23",
@@ -5015,11 +5015,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 246703
+      "open": 0.61,
+      "high": 0.73,
+      "low": 0.59,
+      "close": 0.69,
+      "volume": 247600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.69,
+      "high": 0.75,
+      "low": 0.66,
+      "close": 0.72,
+      "volume": 116400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "IBG",
   "ticker": "IBG",
-  "last_updated": "2026-10-22 09:39:39",
+  "last_updated": "2026-10-23 09:39:41",
   "period": "5y",
-  "data_points": 519,
+  "data_points": 520,
   "data": [
     {
       "date": "2024-09-26",
@@ -4151,11 +4151,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6274
+      "open": 0.81,
+      "high": 0.81,
+      "low": 0.76,
+      "close": 0.78,
+      "volume": 6300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.76,
+      "high": 0.81,
+      "low": 0.75,
+      "close": 0.81,
+      "volume": 39800
     }
   ]
 }

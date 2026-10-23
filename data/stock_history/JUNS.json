@@ -1,9 +1,9 @@
 {
   "code": "JUNS",
   "ticker": "JUNS",
-  "last_updated": "2026-10-22 09:44:06",
+  "last_updated": "2026-10-23 09:44:08",
   "period": "5y",
-  "data_points": 472,
+  "data_points": 473,
   "data": [
     {
       "date": "2024-12-03",
@@ -3775,11 +3775,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 28572
+      "open": 2.78,
+      "high": 2.8,
+      "low": 2.63,
+      "close": 2.78,
+      "volume": 28700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.8,
+      "high": 2.8,
+      "low": 2.55,
+      "close": 2.58,
+      "volume": 10100
     }
   ]
 }

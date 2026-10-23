@@ -1,9 +1,9 @@
 {
   "code": "ORIQ",
   "ticker": "ORIQ",
-  "last_updated": "2026-10-22 10:04:03",
+  "last_updated": "2026-10-23 10:04:09",
   "period": "5y",
-  "data_points": 282,
+  "data_points": 283,
   "data": [
     {
       "date": "2025-09-09",
@@ -2255,11 +2255,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 41019
+      "open": 10.44,
+      "high": 10.44,
+      "low": 10.44,
+      "close": 10.44,
+      "volume": 20500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.44,
+      "high": 10.44,
+      "low": 10.44,
+      "close": 10.44,
+      "volume": 5000
     }
   ]
 }

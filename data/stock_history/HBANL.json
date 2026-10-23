@@ -1,9 +1,9 @@
 {
   "code": "HBANL",
   "ticker": "HBANL",
-  "last_updated": "2026-10-22 09:35:25",
+  "last_updated": "2026-10-23 09:35:27",
   "period": "5y",
-  "data_points": 916,
+  "data_points": 917,
   "data": [
     {
       "date": "2023-02-28",
@@ -7327,11 +7327,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 25498
+      "open": 24.6,
+      "high": 24.73,
+      "low": 24.59,
+      "close": 24.65,
+      "volume": 25500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 24.78,
+      "high": 25.03,
+      "low": 24.67,
+      "close": 24.78,
+      "volume": 22300
     }
   ]
 }

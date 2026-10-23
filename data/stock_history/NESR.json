@@ -1,9 +1,9 @@
 {
   "code": "NESR",
   "ticker": "NESR",
-  "last_updated": "2026-10-22 09:57:58",
+  "last_updated": "2026-10-23 09:58:02",
   "period": "5y",
-  "data_points": 575,
+  "data_points": 576,
   "data": [
     {
       "date": "2024-07-09",
@@ -4599,11 +4599,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7336013
+      "open": 21.17,
+      "high": 22.98,
+      "low": 21.17,
+      "close": 21.69,
+      "volume": 7336100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 21.27,
+      "high": 21.46,
+      "low": 19.23,
+      "close": 19.61,
+      "volume": 4988500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "GRO",
   "ticker": "GRO",
-  "last_updated": "2026-10-22 09:34:30",
+  "last_updated": "2026-10-23 09:34:31",
   "period": "5y",
-  "data_points": 475,
+  "data_points": 476,
   "data": [
     {
       "date": "2024-11-27",
@@ -3799,11 +3799,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 159333
+      "open": 2.06,
+      "high": 2.12,
+      "low": 2.05,
+      "close": 2.05,
+      "volume": 159300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.02,
+      "high": 2.07,
+      "low": 1.74,
+      "close": 1.78,
+      "volume": 798300
     }
   ]
 }

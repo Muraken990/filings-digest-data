@@ -1,18 +1,10 @@
 {
   "code": "PEBK",
   "ticker": "PEBK",
-  "last_updated": "2026-10-22 10:06:39",
+  "last_updated": "2026-10-23 10:06:45",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 24.13,
-      "high": 24.13,
-      "low": 24.13,
-      "close": 24.13,
-      "volume": 0
-    },
     {
       "date": "2021-10-25",
       "open": 24.12,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 16162
+      "open": 43.4,
+      "high": 43.5,
+      "low": 42.29,
+      "close": 43.5,
+      "volume": 16200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 42.27,
+      "high": 44.45,
+      "low": 42.27,
+      "close": 43.9,
+      "volume": 51600
     }
   ]
 }

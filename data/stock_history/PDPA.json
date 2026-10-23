@@ -1,9 +1,9 @@
 {
   "code": "PDPA",
   "ticker": "PDPA",
-  "last_updated": "2026-10-22 10:06:38",
+  "last_updated": "2026-10-23 10:06:44",
   "period": "5y",
-  "data_points": 463,
+  "data_points": 464,
   "data": [
     {
       "date": "2024-12-16",
@@ -3703,11 +3703,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 7687
+      "open": 24.9,
+      "high": 24.9,
+      "low": 24.61,
+      "close": 24.88,
+      "volume": 7700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 24.74,
+      "high": 24.86,
+      "low": 24.72,
+      "close": 24.72,
+      "volume": 3200
     }
   ]
 }

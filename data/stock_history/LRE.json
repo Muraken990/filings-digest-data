@@ -1,9 +1,9 @@
 {
   "code": "LRE",
   "ticker": "LRE",
-  "last_updated": "2026-10-22 09:50:04",
+  "last_updated": "2026-10-23 09:50:07",
   "period": "5y",
-  "data_points": 770,
+  "data_points": 771,
   "data": [
     {
       "date": "2023-09-27",
@@ -6159,11 +6159,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3340
+      "open": 1.09,
+      "high": 1.1,
+      "low": 1.04,
+      "close": 1.1,
+      "volume": 3300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.09,
+      "high": 1.1,
+      "low": 1.06,
+      "close": 1.1,
+      "volume": 2700
     }
   ]
 }

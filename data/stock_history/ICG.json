@@ -1,9 +1,9 @@
 {
   "code": "ICG",
   "ticker": "ICG",
-  "last_updated": "2026-10-22 09:39:42",
+  "last_updated": "2026-10-23 09:39:43",
   "period": "5y",
-  "data_points": 904,
+  "data_points": 905,
   "data": [
     {
       "date": "2023-03-16",
@@ -7231,11 +7231,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 699365
+      "open": 1.35,
+      "high": 1.45,
+      "low": 1.28,
+      "close": 1.38,
+      "volume": 699400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.39,
+      "high": 1.41,
+      "low": 1.37,
+      "close": 1.41,
+      "volume": 61000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "FVR",
   "ticker": "FVR",
-  "last_updated": "2026-10-22 09:30:56",
+  "last_updated": "2026-10-23 09:30:58",
   "period": "5y",
-  "data_points": 515,
+  "data_points": 516,
   "data": [
     {
       "date": "2024-10-02",
@@ -4119,11 +4119,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 262400
+      "open": 17.5,
+      "high": 17.89,
+      "low": 17.02,
+      "close": 17.22,
+      "volume": 264800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 17.41,
+      "high": 17.8,
+      "low": 17.08,
+      "close": 17.76,
+      "volume": 229000
     }
   ]
 }

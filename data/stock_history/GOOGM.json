@@ -1,9 +1,9 @@
 {
   "code": "GOOGM",
   "ticker": "GOOGM",
-  "last_updated": "2026-10-22 09:33:38",
+  "last_updated": "2026-10-23 09:33:40",
   "period": "5y",
-  "data_points": 98,
+  "data_points": 99,
   "data": [
     {
       "date": "2026-06-03",
@@ -783,11 +783,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 976297
+      "open": 48.32,
+      "high": 48.32,
+      "low": 47.33,
+      "close": 47.73,
+      "volume": 976300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 47.35,
+      "high": 47.43,
+      "low": 46.47,
+      "close": 46.65,
+      "volume": 271400
     }
   ]
 }

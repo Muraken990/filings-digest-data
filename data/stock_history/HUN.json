@@ -1,18 +1,10 @@
 {
   "code": "HUN",
   "ticker": "HUN",
-  "last_updated": "2026-10-22 09:38:49",
+  "last_updated": "2026-10-23 09:38:51",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 26.64,
-      "high": 26.86,
-      "low": 26.4,
-      "close": 26.47,
-      "volume": 1456700
-    },
     {
       "date": "2021-10-25",
       "open": 26.7,
@@ -1402,7 +1394,7 @@
       "open": 23.31,
       "high": 23.32,
       "low": 22.41,
-      "close": 22.83,
+      "close": 22.84,
       "volume": 2883200
     },
     {
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 3304419
+      "open": 8.39,
+      "high": 8.39,
+      "low": 8.08,
+      "close": 8.23,
+      "volume": 3304400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 8.22,
+      "high": 8.75,
+      "low": 8.17,
+      "close": 8.72,
+      "volume": 5028300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ORBS",
   "ticker": "ORBS",
-  "last_updated": "2026-10-22 10:04:02",
+  "last_updated": "2026-10-23 10:04:08",
   "period": "5y",
-  "data_points": 1111,
+  "data_points": 1112,
   "data": [
     {
       "date": "2022-05-18",
@@ -8887,11 +8887,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8708219
+      "open": 0.83,
+      "high": 0.84,
+      "low": 0.78,
+      "close": 0.8,
+      "volume": 8771000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.77,
+      "high": 0.79,
+      "low": 0.75,
+      "close": 0.79,
+      "volume": 6896300
     }
   ]
 }

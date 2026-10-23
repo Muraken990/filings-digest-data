@@ -1,9 +1,9 @@
 {
   "code": "JL",
   "ticker": "JL",
-  "last_updated": "2026-10-22 09:44:03",
+  "last_updated": "2026-10-23 09:44:04",
   "period": "5y",
-  "data_points": 689,
+  "data_points": 690,
   "data": [
     {
       "date": "2024-01-24",
@@ -5511,11 +5511,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5710
+      "open": 4.3,
+      "high": 4.6,
+      "low": 4.27,
+      "close": 4.35,
+      "volume": 5700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 4.35,
+      "high": 4.35,
+      "low": 4.35,
+      "close": 4.35,
+      "volume": 0
     }
   ]
 }

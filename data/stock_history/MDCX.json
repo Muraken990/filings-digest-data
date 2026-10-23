@@ -1,9 +1,9 @@
 {
   "code": "MDCX",
   "ticker": "MDCX",
-  "last_updated": "2026-10-22 09:51:53",
+  "last_updated": "2026-10-23 09:51:57",
   "period": "5y",
-  "data_points": 484,
+  "data_points": 485,
   "data": [
     {
       "date": "2024-11-14",
@@ -3871,11 +3871,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 30696
+      "open": 2.71,
+      "high": 2.91,
+      "low": 2.65,
+      "close": 2.68,
+      "volume": 30700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.7,
+      "high": 2.8,
+      "low": 2.57,
+      "close": 2.62,
+      "volume": 44100
     }
   ]
 }

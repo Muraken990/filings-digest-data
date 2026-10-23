@@ -1,18 +1,10 @@
 {
   "code": "ON",
   "ticker": "ON",
-  "last_updated": "2026-10-22 10:03:11",
+  "last_updated": "2026-10-23 10:03:17",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 46.35,
-      "high": 46.87,
-      "low": 45.89,
-      "close": 45.97,
-      "volume": 3076300
-    },
     {
       "date": "2021-10-25",
       "open": 46.24,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8300723
+      "open": 76.4,
+      "high": 77.69,
+      "low": 74.95,
+      "close": 76.94,
+      "volume": 8344100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 75.22,
+      "high": 75.46,
+      "low": 72.43,
+      "close": 73.23,
+      "volume": 12504300
     }
   ]
 }

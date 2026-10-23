@@ -1,18 +1,10 @@
 {
   "code": "LNAI",
   "ticker": "LNAI",
-  "last_updated": "2026-10-22 09:49:13",
+  "last_updated": "2026-10-23 09:49:16",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 679.2,
-      "high": 679.2,
-      "low": 650.4,
-      "close": 662.4,
-      "volume": 2430
-    },
     {
       "date": "2021-10-25",
       "open": 671.2,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 90309
+      "open": 0.5,
+      "high": 0.55,
+      "low": 0.5,
+      "close": 0.52,
+      "volume": 90400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.53,
+      "high": 0.53,
+      "low": 0.46,
+      "close": 0.47,
+      "volume": 143600
     }
   ]
 }

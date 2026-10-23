@@ -1,9 +1,9 @@
 {
   "code": "LUCY",
   "ticker": "LUCY",
-  "last_updated": "2026-10-22 09:50:07",
+  "last_updated": "2026-10-23 09:50:10",
   "period": "5y",
-  "data_points": 1051,
+  "data_points": 1052,
   "data": [
     {
       "date": "2022-08-15",
@@ -8407,11 +8407,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 126945
+      "open": 0.85,
+      "high": 0.89,
+      "low": 0.82,
+      "close": 0.87,
+      "volume": 127100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.86,
+      "high": 0.89,
+      "low": 0.85,
+      "close": 0.86,
+      "volume": 110700
     }
   ]
 }

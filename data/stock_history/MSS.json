@@ -1,9 +1,9 @@
 {
   "code": "MSS",
   "ticker": "MSS",
-  "last_updated": "2026-10-22 09:55:24",
+  "last_updated": "2026-10-23 09:55:26",
   "period": "5y",
-  "data_points": 764,
+  "data_points": 765,
   "data": [
     {
       "date": "2023-10-05",
@@ -6111,11 +6111,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 41564
+      "open": 1.17,
+      "high": 1.27,
+      "low": 1.17,
+      "close": 1.25,
+      "volume": 41600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.25,
+      "high": 1.29,
+      "low": 1.21,
+      "close": 1.27,
+      "volume": 40600
     }
   ]
 }

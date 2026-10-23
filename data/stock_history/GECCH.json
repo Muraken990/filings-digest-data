@@ -1,9 +1,9 @@
 {
   "code": "GECCH",
   "ticker": "GECCH",
-  "last_updated": "2026-10-22 09:31:51",
+  "last_updated": "2026-10-23 09:31:53",
   "period": "5y",
-  "data_points": 519,
+  "data_points": 520,
   "data": [
     {
       "date": "2024-09-26",
@@ -4151,11 +4151,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2017
+      "open": 24.79,
+      "high": 24.79,
+      "low": 24.75,
+      "close": 24.79,
+      "volume": 1400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 24.79,
+      "high": 24.79,
+      "low": 24.79,
+      "close": 24.79,
+      "volume": 0
     }
   ]
 }

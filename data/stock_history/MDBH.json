@@ -1,9 +1,9 @@
 {
   "code": "MDBH",
   "ticker": "MDBH",
-  "last_updated": "2026-10-22 09:51:53",
+  "last_updated": "2026-10-23 09:51:56",
   "period": "5y",
-  "data_points": 774,
+  "data_points": 775,
   "data": [
     {
       "date": "2023-09-21",
@@ -6191,11 +6191,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6782
+      "open": 1.76,
+      "high": 1.85,
+      "low": 1.76,
+      "close": 1.79,
+      "volume": 6800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.76,
+      "high": 1.76,
+      "low": 1.75,
+      "close": 1.75,
+      "volume": 1800
     }
   ]
 }

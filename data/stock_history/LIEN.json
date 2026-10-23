@@ -1,9 +1,9 @@
 {
   "code": "LIEN",
   "ticker": "LIEN",
-  "last_updated": "2026-10-22 09:48:23",
+  "last_updated": "2026-10-23 09:48:26",
   "period": "5y",
-  "data_points": 1182,
+  "data_points": 1183,
   "data": [
     {
       "date": "2022-02-04",
@@ -9455,11 +9455,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 25369
+      "open": 9.14,
+      "high": 9.17,
+      "low": 9.05,
+      "close": 9.1,
+      "volume": 25400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 9.06,
+      "high": 9.18,
+      "low": 9.02,
+      "close": 9.09,
+      "volume": 41200
     }
   ]
 }

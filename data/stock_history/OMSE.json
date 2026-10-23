@@ -1,9 +1,9 @@
 {
   "code": "OMSE",
   "ticker": "OMSE",
-  "last_updated": "2026-10-22 10:03:11",
+  "last_updated": "2026-10-23 10:03:16",
   "period": "5y",
-  "data_points": 363,
+  "data_points": 364,
   "data": [
     {
       "date": "2025-05-13",
@@ -2903,11 +2903,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 14840
+      "open": 4.08,
+      "high": 4.25,
+      "low": 4.02,
+      "close": 4.09,
+      "volume": 14800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 4.19,
+      "high": 4.38,
+      "low": 4.05,
+      "close": 4.12,
+      "volume": 35200
     }
   ]
 }

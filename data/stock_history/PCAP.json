@@ -1,9 +1,9 @@
 {
   "code": "PCAP",
   "ticker": "PCAP",
-  "last_updated": "2026-10-22 10:06:33",
+  "last_updated": "2026-10-23 10:06:39",
   "period": "5y",
-  "data_points": 323,
+  "data_points": 324,
   "data": [
     {
       "date": "2025-07-11",
@@ -2583,11 +2583,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 4754
+      "open": 10.4,
+      "high": 10.4,
+      "low": 10.4,
+      "close": 10.4,
+      "volume": 4800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.4,
+      "high": 10.4,
+      "low": 10.4,
+      "close": 10.4,
+      "volume": 0
     }
   ]
 }

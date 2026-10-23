@@ -1,18 +1,10 @@
 {
   "code": "IT",
   "ticker": "IT",
-  "last_updated": "2026-10-22 09:43:08",
+  "last_updated": "2026-10-23 09:43:09",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 320.2,
-      "high": 324.77,
-      "low": 319.81,
-      "close": 324.51,
-      "volume": 424400
-    },
     {
       "date": "2021-10-25",
       "open": 325.34,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 918889
+      "open": 216.34,
+      "high": 221.84,
+      "low": 216.0,
+      "close": 219.57,
+      "volume": 918900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 221.23,
+      "high": 234.53,
+      "low": 221.23,
+      "close": 234.44,
+      "volume": 1153300
     }
   ]
 }

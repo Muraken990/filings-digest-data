@@ -1,9 +1,9 @@
 {
   "code": "LLYVK",
   "ticker": "LLYVK",
-  "last_updated": "2026-10-22 09:49:12",
+  "last_updated": "2026-10-23 09:49:15",
   "period": "5y",
-  "data_points": 807,
+  "data_points": 808,
   "data": [
     {
       "date": "2023-08-04",
@@ -6455,11 +6455,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 383554
+      "open": 100.26,
+      "high": 101.81,
+      "low": 100.26,
+      "close": 100.5,
+      "volume": 383600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 100.39,
+      "high": 101.8,
+      "low": 99.82,
+      "close": 101.23,
+      "volume": 248600
     }
   ]
 }

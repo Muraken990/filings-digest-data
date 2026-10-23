@@ -1,9 +1,9 @@
 {
   "code": "HLP",
   "ticker": "HLP",
-  "last_updated": "2026-10-22 09:37:06",
+  "last_updated": "2026-10-23 09:37:08",
   "period": "5y",
-  "data_points": 895,
+  "data_points": 896,
   "data": [
     {
       "date": "2023-03-29",
@@ -7159,11 +7159,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 258078
+      "open": 2.94,
+      "high": 3.0,
+      "low": 2.85,
+      "close": 2.87,
+      "volume": 258100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.91,
+      "high": 3.14,
+      "low": 2.85,
+      "close": 3.05,
+      "volume": 258500
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "HFRO",
   "ticker": "HFRO",
-  "last_updated": "2026-10-22 09:36:16",
+  "last_updated": "2026-10-23 09:36:18",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-10-22",
-      "open": 7.42,
-      "high": 7.46,
-      "low": 7.35,
-      "close": 7.43,
-      "volume": 184700
-    },
     {
       "date": "2021-10-25",
       "open": 7.42,
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 82940
+      "open": 6.03,
+      "high": 6.15,
+      "low": 6.03,
+      "close": 6.11,
+      "volume": 82900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 6.13,
+      "high": 6.14,
+      "low": 6.03,
+      "close": 6.08,
+      "volume": 76800
     }
   ]
 }

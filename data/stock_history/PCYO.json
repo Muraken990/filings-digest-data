@@ -1,18 +1,10 @@
 {
   "code": "PCYO",
   "ticker": "PCYO",
-  "last_updated": "2026-10-22 10:06:36",
+  "last_updated": "2026-10-23 10:06:42",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 15.48,
-      "high": 15.5,
-      "low": 15.22,
-      "close": 15.29,
-      "volume": 32000
-    },
     {
       "date": "2021-10-25",
       "open": 15.24,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 70879
+      "open": 10.75,
+      "high": 10.75,
+      "low": 10.51,
+      "close": 10.56,
+      "volume": 70900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.56,
+      "high": 10.78,
+      "low": 10.56,
+      "close": 10.77,
+      "volume": 86500
     }
   ]
 }

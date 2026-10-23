@@ -1,9 +1,9 @@
 {
   "code": "HSHP",
   "ticker": "HSHP",
-  "last_updated": "2026-10-22 09:37:59",
+  "last_updated": "2026-10-23 09:38:01",
   "period": "5y",
-  "data_points": 893,
+  "data_points": 894,
   "data": [
     {
       "date": "2023-03-31",
@@ -7143,11 +7143,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 369681
+      "open": 16.65,
+      "high": 17.04,
+      "low": 16.64,
+      "close": 16.96,
+      "volume": 369700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 16.54,
+      "high": 16.81,
+      "low": 16.35,
+      "close": 16.53,
+      "volume": 427500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "IPX",
   "ticker": "IPX",
-  "last_updated": "2026-10-22 09:42:19",
+  "last_updated": "2026-10-23 09:42:20",
   "period": "5y",
-  "data_points": 1089,
+  "data_points": 1090,
   "data": [
     {
       "date": "2022-06-21",
@@ -8711,11 +8711,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 210246
+      "open": 14.06,
+      "high": 14.06,
+      "low": 13.14,
+      "close": 13.34,
+      "volume": 210300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 12.8,
+      "high": 13.17,
+      "low": 12.68,
+      "close": 12.82,
+      "volume": 247200
     }
   ]
 }

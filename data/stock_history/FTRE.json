@@ -1,9 +1,9 @@
 {
   "code": "FTRE",
   "ticker": "FTRE",
-  "last_updated": "2026-10-22 09:30:08",
+  "last_updated": "2026-10-23 09:30:10",
   "period": "5y",
-  "data_points": 840,
+  "data_points": 841,
   "data": [
     {
       "date": "2023-06-16",
@@ -6719,11 +6719,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2446127
+      "open": 22.45,
+      "high": 24.37,
+      "low": 22.3,
+      "close": 24.06,
+      "volume": 2476600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 23.95,
+      "high": 24.83,
+      "low": 23.24,
+      "close": 23.92,
+      "volume": 1986900
     }
   ]
 }

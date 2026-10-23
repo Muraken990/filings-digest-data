@@ -1,9 +1,9 @@
 {
   "code": "MITP",
   "ticker": "MITP",
-  "last_updated": "2026-10-22 09:53:36",
+  "last_updated": "2026-10-23 09:53:39",
   "period": "5y",
-  "data_points": 608,
+  "data_points": 609,
   "data": [
     {
       "date": "2024-05-20",
@@ -4863,11 +4863,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10891
+      "open": 25.15,
+      "high": 25.15,
+      "low": 25.08,
+      "close": 25.08,
+      "volume": 10900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 25.03,
+      "high": 25.34,
+      "low": 25.03,
+      "close": 25.32,
+      "volume": 33300
     }
   ]
 }

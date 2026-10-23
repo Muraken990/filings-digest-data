@@ -1,9 +1,9 @@
 {
   "code": "FSUN",
   "ticker": "FSUN",
-  "last_updated": "2026-10-22 09:30:05",
+  "last_updated": "2026-10-23 09:30:07",
   "period": "5y",
-  "data_points": 1059,
+  "data_points": 1060,
   "data": [
     {
       "date": "2022-08-03",
@@ -8471,11 +8471,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 168611
+      "open": 38.58,
+      "high": 38.71,
+      "low": 38.09,
+      "close": 38.48,
+      "volume": 168600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 38.46,
+      "high": 39.64,
+      "low": 38.46,
+      "close": 39.53,
+      "volume": 291700
     }
   ]
 }

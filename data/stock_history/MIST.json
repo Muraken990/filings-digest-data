@@ -1,18 +1,10 @@
 {
   "code": "MIST",
   "ticker": "MIST",
-  "last_updated": "2026-10-22 09:53:36",
+  "last_updated": "2026-10-23 09:53:38",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 5.66,
-      "high": 5.71,
-      "low": 5.51,
-      "close": 5.55,
-      "volume": 5700
-    },
     {
       "date": "2021-10-25",
       "open": 5.57,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 669864
+      "open": 0.72,
+      "high": 0.73,
+      "low": 0.69,
+      "close": 0.69,
+      "volume": 672700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.69,
+      "high": 0.74,
+      "low": 0.69,
+      "close": 0.7,
+      "volume": 621300
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "INACU",
   "ticker": "INACU",
-  "last_updated": "2026-10-22 09:40:38",
+  "last_updated": "2026-10-23 09:40:39",
   "period": "5y",
-  "data_points": 330,
+  "data_points": 331,
   "data": [
     {
       "date": "2025-07-01",
@@ -2639,11 +2639,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1140
+      "open": 11.2,
+      "high": 11.2,
+      "low": 10.39,
+      "close": 10.39,
+      "volume": 1500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 11.1,
+      "high": 11.1,
+      "low": 10.51,
+      "close": 10.51,
+      "volume": 1200
     }
   ]
 }

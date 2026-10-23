@@ -1,9 +1,9 @@
 {
   "code": "IPST",
   "ticker": "IPST",
-  "last_updated": "2026-10-22 09:42:18",
+  "last_updated": "2026-10-23 09:42:20",
   "period": "5y",
-  "data_points": 478,
+  "data_points": 479,
   "data": [
     {
       "date": "2024-11-22",
@@ -3823,11 +3823,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 8390
+      "open": 2.79,
+      "high": 2.79,
+      "low": 2.61,
+      "close": 2.72,
+      "volume": 8400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.66,
+      "high": 2.66,
+      "low": 2.61,
+      "close": 2.62,
+      "volume": 5600
     }
   ]
 }

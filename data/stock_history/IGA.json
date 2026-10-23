@@ -1,18 +1,10 @@
 {
   "code": "IGA",
   "ticker": "IGA",
-  "last_updated": "2026-10-22 09:39:45",
+  "last_updated": "2026-10-23 09:39:47",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 6.04,
-      "high": 6.08,
-      "low": 6.04,
-      "close": 6.08,
-      "volume": 50900
-    },
     {
       "date": "2021-10-25",
       "open": 6.09,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 24546
+      "open": 10.12,
+      "high": 10.21,
+      "low": 10.12,
+      "close": 10.2,
+      "volume": 24500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.17,
+      "high": 10.25,
+      "low": 10.08,
+      "close": 10.1,
+      "volume": 47600
     }
   ]
 }

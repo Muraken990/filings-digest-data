@@ -1,9 +1,9 @@
 {
   "code": "OBAI",
   "ticker": "OBAI",
-  "last_updated": "2026-10-22 10:02:16",
+  "last_updated": "2026-10-23 10:02:21",
   "period": "5y",
-  "data_points": 180,
+  "data_points": 181,
   "data": [
     {
       "date": "2026-02-04",
@@ -1351,11 +1351,11 @@
     },
     {
       "date": "2026-10-06",
-      "open": 0.2,
-      "high": 0.21,
-      "low": 0.19,
-      "close": 0.2,
-      "volume": 260600
+      "open": 4.0,
+      "high": 4.2,
+      "low": 3.8,
+      "close": 4.0,
+      "volume": 13030
     },
     {
       "date": "2026-10-07",
@@ -1367,11 +1367,11 @@
     },
     {
       "date": "2026-10-08",
-      "open": 0.18,
-      "high": 0.19,
-      "low": 0.18,
-      "close": 0.19,
-      "volume": 242800
+      "open": 3.6,
+      "high": 3.8,
+      "low": 3.6,
+      "close": 3.8,
+      "volume": 12140
     },
     {
       "date": "2026-10-09",
@@ -1407,11 +1407,11 @@
     },
     {
       "date": "2026-10-15",
-      "open": 0.15,
-      "high": 0.15,
-      "low": 0.13,
-      "close": 0.14,
-      "volume": 1272500
+      "open": 3.0,
+      "high": 3.0,
+      "low": 2.6,
+      "close": 2.8,
+      "volume": 63625
     },
     {
       "date": "2026-10-16",
@@ -1423,11 +1423,11 @@
     },
     {
       "date": "2026-10-19",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
+      "open": 2.63,
+      "high": 3.0,
+      "low": 2.63,
+      "close": 2.78,
+      "volume": 153600
     },
     {
       "date": "2026-10-20",
@@ -1439,11 +1439,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 72136
+      "open": 2.36,
+      "high": 2.44,
+      "low": 2.22,
+      "close": 2.41,
+      "volume": 72200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.41,
+      "high": 2.41,
+      "low": 2.1,
+      "close": 2.37,
+      "volume": 90700
     }
   ]
 }

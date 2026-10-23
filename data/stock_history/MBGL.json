@@ -1,9 +1,9 @@
 {
   "code": "MBGL",
   "ticker": "MBGL",
-  "last_updated": "2026-10-22 09:51:47",
+  "last_updated": "2026-10-23 09:51:51",
   "period": "5y",
-  "data_points": 82,
+  "data_points": 83,
   "data": [
     {
       "date": "2026-06-26",
@@ -655,11 +655,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2382506
+      "open": 18.57,
+      "high": 18.71,
+      "low": 18.43,
+      "close": 18.52,
+      "volume": 2383000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 18.64,
+      "high": 19.37,
+      "low": 18.5,
+      "close": 19.28,
+      "volume": 2593300
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "INSP",
   "ticker": "INSP",
-  "last_updated": "2026-10-22 09:41:28",
+  "last_updated": "2026-10-23 09:41:30",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 256.2,
-      "high": 265.5,
-      "low": 254.27,
-      "close": 264.03,
-      "volume": 203400
-    },
     {
       "date": "2021-10-25",
       "open": 263.72,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 554251
+      "open": 70.84,
+      "high": 72.5,
+      "low": 70.4,
+      "close": 71.07,
+      "volume": 554300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 70.5,
+      "high": 73.29,
+      "low": 70.5,
+      "close": 72.66,
+      "volume": 659700
     }
   ]
 }

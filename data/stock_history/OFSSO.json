@@ -1,9 +1,9 @@
 {
   "code": "OFSSO",
   "ticker": "OFSSO",
-  "last_updated": "2026-10-22 10:03:06",
+  "last_updated": "2026-10-23 10:03:11",
   "period": "5y",
-  "data_points": 314,
+  "data_points": 315,
   "data": [
     {
       "date": "2025-07-24",
@@ -2511,11 +2511,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1579
+      "open": 27.29,
+      "high": 27.29,
+      "low": 26.05,
+      "close": 26.05,
+      "volume": 1600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 26.78,
+      "high": 26.78,
+      "low": 25.31,
+      "close": 25.61,
+      "volume": 3500
     }
   ]
 }

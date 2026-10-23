@@ -1,9 +1,9 @@
 {
   "code": "LIF",
   "ticker": "LIF",
-  "last_updated": "2026-10-22 09:48:23",
+  "last_updated": "2026-10-23 09:48:26",
   "period": "5y",
-  "data_points": 596,
+  "data_points": 597,
   "data": [
     {
       "date": "2024-06-06",
@@ -4767,11 +4767,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 833232
+      "open": 44.18,
+      "high": 45.81,
+      "low": 43.8,
+      "close": 44.39,
+      "volume": 833200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 44.48,
+      "high": 46.5,
+      "low": 44.48,
+      "close": 46.46,
+      "volume": 584900
     }
   ]
 }

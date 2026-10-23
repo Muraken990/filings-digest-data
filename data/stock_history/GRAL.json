@@ -1,9 +1,9 @@
 {
   "code": "GRAL",
   "ticker": "GRAL",
-  "last_updated": "2026-10-22 09:34:27",
+  "last_updated": "2026-10-23 09:34:28",
   "period": "5y",
-  "data_points": 592,
+  "data_points": 593,
   "data": [
     {
       "date": "2024-06-12",
@@ -4735,11 +4735,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 599353
+      "open": 123.88,
+      "high": 134.91,
+      "low": 123.2,
+      "close": 132.6,
+      "volume": 599400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 133.13,
+      "high": 133.9,
+      "low": 123.26,
+      "close": 127.06,
+      "volume": 653200
     }
   ]
 }

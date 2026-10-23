@@ -1,9 +1,9 @@
 {
   "code": "KYTX",
   "ticker": "KYTX",
-  "last_updated": "2026-10-22 09:46:41",
+  "last_updated": "2026-10-23 09:46:43",
   "period": "5y",
-  "data_points": 677,
+  "data_points": 678,
   "data": [
     {
       "date": "2024-02-09",
@@ -5415,11 +5415,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 829048
+      "open": 6.15,
+      "high": 6.3,
+      "low": 5.8,
+      "close": 5.84,
+      "volume": 829200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 5.82,
+      "high": 5.99,
+      "low": 5.67,
+      "close": 5.73,
+      "volume": 519400
     }
   ]
 }

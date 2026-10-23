@@ -1,9 +1,9 @@
 {
   "code": "HMH",
   "ticker": "HMH",
-  "last_updated": "2026-10-22 09:37:06",
+  "last_updated": "2026-10-23 09:37:08",
   "period": "5y",
-  "data_points": 141,
+  "data_points": 142,
   "data": [
     {
       "date": "2026-04-01",
@@ -1127,11 +1127,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 43735
+      "open": 17.67,
+      "high": 18.07,
+      "low": 17.59,
+      "close": 17.94,
+      "volume": 43700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 17.98,
+      "high": 17.98,
+      "low": 16.51,
+      "close": 17.28,
+      "volume": 241800
     }
   ]
 }

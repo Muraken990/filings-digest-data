@@ -1,9 +1,9 @@
 {
   "code": "HVMC",
   "ticker": "HVMC",
-  "last_updated": "2026-10-22 09:38:50",
+  "last_updated": "2026-10-23 09:38:52",
   "period": "5y",
-  "data_points": 264,
+  "data_points": 265,
   "data": [
     {
       "date": "2025-10-03",
@@ -2111,11 +2111,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 48935
+      "open": 10.29,
+      "high": 10.29,
+      "low": 10.29,
+      "close": 10.29,
+      "volume": 48900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.29,
+      "high": 10.29,
+      "low": 10.29,
+      "close": 10.29,
+      "volume": 0
     }
   ]
 }

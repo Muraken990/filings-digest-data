@@ -1,9 +1,9 @@
 {
   "code": "KGS",
   "ticker": "KGS",
-  "last_updated": "2026-10-22 09:44:58",
+  "last_updated": "2026-10-23 09:45:00",
   "period": "5y",
-  "data_points": 832,
+  "data_points": 833,
   "data": [
     {
       "date": "2023-06-29",
@@ -6655,11 +6655,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1819668
+      "open": 48.07,
+      "high": 49.33,
+      "low": 47.31,
+      "close": 49.02,
+      "volume": 1819700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 49.65,
+      "high": 49.65,
+      "low": 43.85,
+      "close": 44.07,
+      "volume": 2867900
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "INMB",
   "ticker": "INMB",
-  "last_updated": "2026-10-22 09:41:27",
+  "last_updated": "2026-10-23 09:41:28",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 19.34,
-      "high": 20.01,
-      "low": 19.2,
-      "close": 19.96,
-      "volume": 284200
-    },
     {
       "date": "2021-10-25",
       "open": 19.99,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 229969
+      "open": 1.61,
+      "high": 1.69,
+      "low": 1.6,
+      "close": 1.61,
+      "volume": 230000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.58,
+      "high": 1.63,
+      "low": 1.52,
+      "close": 1.54,
+      "volume": 219300
     }
   ]
 }

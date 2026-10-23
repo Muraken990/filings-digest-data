@@ -1,9 +1,9 @@
 {
   "code": "KSPI",
   "ticker": "KSPI",
-  "last_updated": "2026-10-22 09:46:37",
+  "last_updated": "2026-10-23 09:46:40",
   "period": "5y",
-  "data_points": 692,
+  "data_points": 693,
   "data": [
     {
       "date": "2024-01-19",
@@ -143,7 +143,7 @@
     },
     {
       "date": "2024-02-13",
-      "open": 76.26,
+      "open": 76.25,
       "high": 77.28,
       "low": 75.98,
       "close": 77.14,
@@ -5535,11 +5535,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 311897
+      "open": 93.3,
+      "high": 94.03,
+      "low": 91.66,
+      "close": 93.51,
+      "volume": 311900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 92.84,
+      "high": 93.3,
+      "low": 90.17,
+      "close": 90.53,
+      "volume": 909300
     }
   ]
 }

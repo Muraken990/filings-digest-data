@@ -1,9 +1,9 @@
 {
   "code": "KMTS",
   "ticker": "KMTS",
-  "last_updated": "2026-10-22 09:45:46",
+  "last_updated": "2026-10-23 09:45:48",
   "period": "5y",
-  "data_points": 410,
+  "data_points": 411,
   "data": [
     {
       "date": "2025-03-06",
@@ -3279,11 +3279,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 689216
+      "open": 27.9,
+      "high": 28.57,
+      "low": 26.78,
+      "close": 27.31,
+      "volume": 689200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 27.17,
+      "high": 29.26,
+      "low": 27.17,
+      "close": 28.32,
+      "volume": 739100
     }
   ]
 }

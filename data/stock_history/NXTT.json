@@ -1,9 +1,9 @@
 {
   "code": "NXTT",
   "ticker": "NXTT",
-  "last_updated": "2026-10-22 10:02:15",
+  "last_updated": "2026-10-23 10:02:20",
   "period": "5y",
-  "data_points": 1070,
+  "data_points": 1071,
   "data": [
     {
       "date": "2022-07-19",
@@ -8559,11 +8559,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 13338
+      "open": 5.0,
+      "high": 5.54,
+      "low": 5.0,
+      "close": 5.54,
+      "volume": 13400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 5.26,
+      "high": 5.42,
+      "low": 5.19,
+      "close": 5.19,
+      "volume": 3200
     }
   ]
 }

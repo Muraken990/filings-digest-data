@@ -1,9 +1,9 @@
 {
   "code": "PAL",
   "ticker": "PAL",
-  "last_updated": "2026-10-22 10:05:43",
+  "last_updated": "2026-10-23 10:05:49",
   "period": "5y",
-  "data_points": 615,
+  "data_points": 616,
   "data": [
     {
       "date": "2024-05-09",
@@ -4919,11 +4919,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 632941
+      "open": 2.83,
+      "high": 2.9,
+      "low": 2.7,
+      "close": 2.73,
+      "volume": 632900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.74,
+      "high": 2.9,
+      "low": 2.68,
+      "close": 2.72,
+      "volume": 646200
     }
   ]
 }

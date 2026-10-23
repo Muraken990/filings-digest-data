@@ -1,9 +1,9 @@
 {
   "code": "MBX",
   "ticker": "MBX",
-  "last_updated": "2026-10-22 09:51:49",
+  "last_updated": "2026-10-23 09:51:53",
   "period": "5y",
-  "data_points": 528,
+  "data_points": 529,
   "data": [
     {
       "date": "2024-09-13",
@@ -4223,11 +4223,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 400359
+      "open": 53.87,
+      "high": 56.2,
+      "low": 53.43,
+      "close": 53.93,
+      "volume": 400400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 53.5,
+      "high": 54.99,
+      "low": 50.25,
+      "close": 50.46,
+      "volume": 631700
     }
   ]
 }

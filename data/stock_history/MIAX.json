@@ -1,9 +1,9 @@
 {
   "code": "MIAX",
   "ticker": "MIAX",
-  "last_updated": "2026-10-22 09:53:35",
+  "last_updated": "2026-10-23 09:53:37",
   "period": "5y",
-  "data_points": 299,
+  "data_points": 300,
   "data": [
     {
       "date": "2025-08-14",
@@ -2391,11 +2391,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2034381
+      "open": 32.63,
+      "high": 33.85,
+      "low": 32.2,
+      "close": 33.58,
+      "volume": 2034600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 33.69,
+      "high": 35.15,
+      "low": 33.3,
+      "close": 34.99,
+      "volume": 1462100
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "MNDR",
   "ticker": "MNDR",
-  "last_updated": "2026-10-22 09:54:27",
+  "last_updated": "2026-10-23 09:54:29",
   "period": "5y",
-  "data_points": 636,
+  "data_points": 637,
   "data": [
     {
       "date": "2024-04-10",
@@ -5087,11 +5087,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 325997
+      "open": 0.81,
+      "high": 0.94,
+      "low": 0.81,
+      "close": 0.92,
+      "volume": 330700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.84,
+      "high": 0.93,
+      "low": 0.84,
+      "close": 0.86,
+      "volume": 191500
     }
   ]
 }

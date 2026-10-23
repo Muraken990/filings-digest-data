@@ -1,9 +1,9 @@
 {
   "code": "MBINL",
   "ticker": "MBINL",
-  "last_updated": "2026-10-22 09:51:47",
+  "last_updated": "2026-10-23 09:51:51",
   "period": "5y",
-  "data_points": 481,
+  "data_points": 482,
   "data": [
     {
       "date": "2024-11-19",
@@ -2775,7 +2775,7 @@
     },
     {
       "date": "2026-04-10",
-      "open": 23.34,
+      "open": 23.33,
       "high": 23.34,
       "low": 23.23,
       "close": 23.33,
@@ -3847,11 +3847,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 15967
+      "open": 23.47,
+      "high": 23.65,
+      "low": 23.25,
+      "close": 23.25,
+      "volume": 16000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 23.19,
+      "high": 23.24,
+      "low": 23.03,
+      "close": 23.12,
+      "volume": 7600
     }
   ]
 }

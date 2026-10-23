@@ -1,9 +1,9 @@
 {
   "code": "NWTG",
   "ticker": "NWTG",
-  "last_updated": "2026-10-22 10:01:27",
+  "last_updated": "2026-10-23 10:01:32",
   "period": "5y",
-  "data_points": 800,
+  "data_points": 801,
   "data": [
     {
       "date": "2023-08-15",
@@ -6399,11 +6399,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 13824
+      "open": 0.93,
+      "high": 0.93,
+      "low": 0.85,
+      "close": 0.86,
+      "volume": 14400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.93,
+      "high": 0.93,
+      "low": 0.89,
+      "close": 0.92,
+      "volume": 10400
     }
   ]
 }

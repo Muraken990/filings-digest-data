@@ -1,9 +1,9 @@
 {
   "code": "HCAC",
   "ticker": "HCAC",
-  "last_updated": "2026-10-22 09:36:12",
+  "last_updated": "2026-10-23 09:36:14",
   "period": "5y",
-  "data_points": 186,
+  "data_points": 187,
   "data": [
     {
       "date": "2026-01-27",
@@ -1487,11 +1487,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 133
+      "open": 10.13,
+      "high": 10.13,
+      "low": 10.13,
+      "close": 10.13,
+      "volume": 100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.13,
+      "high": 10.13,
+      "low": 10.13,
+      "close": 10.13,
+      "volume": 16200
     }
   ]
 }

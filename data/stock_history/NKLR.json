@@ -1,9 +1,9 @@
 {
   "code": "NKLR",
   "ticker": "NKLR",
-  "last_updated": "2026-10-22 09:58:50",
+  "last_updated": "2026-10-23 09:58:54",
   "period": "5y",
-  "data_points": 263,
+  "data_points": 264,
   "data": [
     {
       "date": "2025-10-06",
@@ -2103,11 +2103,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 318931
+      "open": 2.3,
+      "high": 2.34,
+      "low": 2.18,
+      "close": 2.22,
+      "volume": 318900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.15,
+      "high": 2.2,
+      "low": 2.0,
+      "close": 2.08,
+      "volume": 612800
     }
   ]
 }

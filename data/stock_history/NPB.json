@@ -1,9 +1,9 @@
 {
   "code": "NPB",
   "ticker": "NPB",
-  "last_updated": "2026-10-22 09:59:43",
+  "last_updated": "2026-10-23 09:59:46",
   "period": "5y",
-  "data_points": 422,
+  "data_points": 423,
   "data": [
     {
       "date": "2025-02-18",
@@ -3375,11 +3375,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 738167
+      "open": 13.8,
+      "high": 15.2,
+      "low": 13.8,
+      "close": 15.13,
+      "volume": 738200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 15.3,
+      "high": 15.92,
+      "low": 15.16,
+      "close": 15.45,
+      "volume": 353100
     }
   ]
 }

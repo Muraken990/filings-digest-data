@@ -1,18 +1,10 @@
 {
   "code": "OPHC",
   "ticker": "OPHC",
-  "last_updated": "2026-10-22 10:04:00",
+  "last_updated": "2026-10-23 10:04:05",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 5.46,
-      "high": 5.83,
-      "low": 5.33,
-      "close": 5.44,
-      "volume": 70400
-    },
     {
       "date": "2021-10-25",
       "open": 5.34,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 60489
+      "open": 8.7,
+      "high": 8.8,
+      "low": 8.43,
+      "close": 8.77,
+      "volume": 60500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 8.59,
+      "high": 8.85,
+      "low": 8.41,
+      "close": 8.84,
+      "volume": 56200
     }
   ]
 }

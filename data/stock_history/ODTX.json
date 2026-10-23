@@ -1,9 +1,9 @@
 {
   "code": "ODTX",
   "ticker": "ODTX",
-  "last_updated": "2026-10-22 10:02:19",
+  "last_updated": "2026-10-23 10:02:24",
   "period": "5y",
-  "data_points": 115,
+  "data_points": 116,
   "data": [
     {
       "date": "2026-05-08",
@@ -919,11 +919,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 255338
+      "open": 18.93,
+      "high": 19.79,
+      "low": 18.0,
+      "close": 19.0,
+      "volume": 255300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 18.84,
+      "high": 19.32,
+      "low": 18.52,
+      "close": 19.08,
+      "volume": 141800
     }
   ]
 }

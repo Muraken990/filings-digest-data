@@ -1,9 +1,9 @@
 {
   "code": "LFTO",
   "ticker": "LFTO",
-  "last_updated": "2026-10-22 09:48:20",
+  "last_updated": "2026-10-23 09:48:23",
   "period": "5y",
-  "data_points": 97,
+  "data_points": 98,
   "data": [
     {
       "date": "2026-06-04",
@@ -775,11 +775,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 592563
+      "open": 16.5,
+      "high": 16.87,
+      "low": 16.28,
+      "close": 16.49,
+      "volume": 592600
+    },
+    {
+      "date": "2026-10-22",
+      "open": 16.32,
+      "high": 16.56,
+      "low": 15.76,
+      "close": 16.32,
+      "volume": 840700
     }
   ]
 }

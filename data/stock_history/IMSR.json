@@ -1,9 +1,9 @@
 {
   "code": "IMSR",
   "ticker": "IMSR",
-  "last_updated": "2026-10-22 09:40:37",
+  "last_updated": "2026-10-23 09:40:38",
   "period": "5y",
-  "data_points": 509,
+  "data_points": 510,
   "data": [
     {
       "date": "2024-10-10",
@@ -4071,11 +4071,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1794752
+      "open": 2.99,
+      "high": 3.11,
+      "low": 2.9,
+      "close": 2.94,
+      "volume": 1795000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.79,
+      "high": 2.91,
+      "low": 2.73,
+      "close": 2.86,
+      "volume": 1304700
     }
   ]
 }

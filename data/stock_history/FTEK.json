@@ -1,18 +1,10 @@
 {
   "code": "FTEK",
   "ticker": "FTEK",
-  "last_updated": "2026-10-22 09:30:06",
+  "last_updated": "2026-10-23 09:30:08",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 2.28,
-      "high": 2.3,
-      "low": 1.88,
-      "close": 2.06,
-      "volume": 3603700
-    },
     {
       "date": "2021-10-25",
       "open": 2.09,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 36107
+      "open": 1.41,
+      "high": 1.41,
+      "low": 1.36,
+      "close": 1.37,
+      "volume": 36100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.33,
+      "high": 1.36,
+      "low": 1.32,
+      "close": 1.35,
+      "volume": 111100
     }
   ]
 }

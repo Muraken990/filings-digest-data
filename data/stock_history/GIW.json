@@ -1,9 +1,9 @@
 {
   "code": "GIW",
   "ticker": "GIW",
-  "last_updated": "2026-10-22 09:32:43",
+  "last_updated": "2026-10-23 09:32:45",
   "period": "5y",
-  "data_points": 248,
+  "data_points": 249,
   "data": [
     {
       "date": "2025-10-27",
@@ -1983,11 +1983,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 165086
+      "open": 10.18,
+      "high": 10.18,
+      "low": 10.17,
+      "close": 10.17,
+      "volume": 165100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.17,
+      "high": 10.17,
+      "low": 10.17,
+      "close": 10.17,
+      "volume": 0
     }
   ]
 }

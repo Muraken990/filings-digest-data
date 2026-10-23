@@ -1,18 +1,10 @@
 {
   "code": "PI",
   "ticker": "PI",
-  "last_updated": "2026-10-22 10:07:33",
+  "last_updated": "2026-10-23 10:07:39",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 55.96,
-      "high": 56.69,
-      "low": 54.72,
-      "close": 55.01,
-      "volume": 70600
-    },
     {
       "date": "2021-10-25",
       "open": 55.28,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 387709
+      "open": 180.21,
+      "high": 183.5,
+      "low": 177.0,
+      "close": 178.82,
+      "volume": 387700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 173.25,
+      "high": 176.0,
+      "low": 159.38,
+      "close": 162.7,
+      "volume": 704700
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "JBDI",
   "ticker": "JBDI",
-  "last_updated": "2026-10-22 09:43:12",
+  "last_updated": "2026-10-23 09:43:14",
   "period": "5y",
-  "data_points": 540,
+  "data_points": 541,
   "data": [
     {
       "date": "2024-08-27",
@@ -4319,11 +4319,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 131288
+      "open": 2.49,
+      "high": 2.58,
+      "low": 2.39,
+      "close": 2.49,
+      "volume": 135200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.41,
+      "high": 2.5,
+      "low": 2.34,
+      "close": 2.34,
+      "volume": 89000
     }
   ]
 }

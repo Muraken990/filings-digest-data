@@ -1,9 +1,9 @@
 {
   "code": "ONL",
   "ticker": "ONL",
-  "last_updated": "2026-10-22 10:03:59",
+  "last_updated": "2026-10-23 10:04:04",
   "period": "5y",
-  "data_points": 1232,
+  "data_points": 1233,
   "data": [
     {
       "date": "2021-11-23",
@@ -888,7 +888,7 @@
     {
       "date": "2022-05-03",
       "open": 10.11,
-      "high": 10.4,
+      "high": 10.41,
       "low": 10.11,
       "close": 10.32,
       "volume": 501100
@@ -9855,11 +9855,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 436257
+      "open": 2.06,
+      "high": 2.16,
+      "low": 2.06,
+      "close": 2.16,
+      "volume": 436300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.15,
+      "high": 2.18,
+      "low": 2.1,
+      "close": 2.15,
+      "volume": 625300
     }
   ]
 }

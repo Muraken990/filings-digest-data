@@ -1,9 +1,9 @@
 {
   "code": "NTSK",
   "ticker": "NTSK",
-  "last_updated": "2026-10-22 10:00:35",
+  "last_updated": "2026-10-23 10:00:40",
   "period": "5y",
-  "data_points": 275,
+  "data_points": 276,
   "data": [
     {
       "date": "2025-09-18",
@@ -2199,11 +2199,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 6225086
+      "open": 19.97,
+      "high": 21.95,
+      "low": 19.95,
+      "close": 21.81,
+      "volume": 6287100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 21.75,
+      "high": 22.64,
+      "low": 21.47,
+      "close": 22.2,
+      "volume": 7890900
     }
   ]
 }

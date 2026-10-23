@@ -1,26 +1,10 @@
 {
   "code": "PFD",
   "ticker": "PFD",
-  "last_updated": "2026-10-22 10:07:27",
+  "last_updated": "2026-10-23 10:07:33",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-10-22",
-      "open": 11.46,
-      "high": 11.63,
-      "low": 11.37,
-      "close": 11.58,
-      "volume": 23900
-    },
     {
       "date": "2021-10-25",
       "open": 11.71,
@@ -10039,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 54830
+      "open": 10.54,
+      "high": 10.55,
+      "low": 10.48,
+      "close": 10.51,
+      "volume": 54800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.49,
+      "high": 10.5,
+      "low": 10.47,
+      "close": 10.48,
+      "volume": 18400
     }
   ]
 }

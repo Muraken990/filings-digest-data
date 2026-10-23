@@ -1,9 +1,9 @@
 {
   "code": "MUZE",
   "ticker": "MUZE",
-  "last_updated": "2026-10-22 09:56:14",
+  "last_updated": "2026-10-23 09:56:17",
   "period": "5y",
-  "data_points": 148,
+  "data_points": 149,
   "data": [
     {
       "date": "2026-03-23",
@@ -1183,11 +1183,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2272
+      "open": 10.02,
+      "high": 10.02,
+      "low": 10.02,
+      "close": 10.02,
+      "volume": 2300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.02,
+      "high": 10.02,
+      "low": 10.02,
+      "close": 10.02,
+      "volume": 0
     }
   ]
 }

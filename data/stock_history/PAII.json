@@ -1,9 +1,9 @@
 {
   "code": "PAII",
   "ticker": "PAII",
-  "last_updated": "2026-10-22 10:05:43",
+  "last_updated": "2026-10-23 10:05:49",
   "period": "5y",
-  "data_points": 280,
+  "data_points": 281,
   "data": [
     {
       "date": "2025-09-11",
@@ -2239,11 +2239,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 764
+      "open": 10.32,
+      "high": 10.32,
+      "low": 10.31,
+      "close": 10.31,
+      "volume": 800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.33,
+      "high": 10.33,
+      "low": 10.31,
+      "close": 10.31,
+      "volume": 260600
     }
   ]
 }

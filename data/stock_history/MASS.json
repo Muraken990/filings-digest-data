@@ -1,18 +1,10 @@
 {
   "code": "MASS",
   "ticker": "MASS",
-  "last_updated": "2026-10-22 09:51:00",
+  "last_updated": "2026-10-23 09:51:04",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 35.06,
-      "high": 35.25,
-      "low": 34.3,
-      "close": 34.71,
-      "volume": 133300
-    },
     {
       "date": "2021-10-25",
       "open": 34.7,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
+      "open": 11.88,
+      "high": 11.98,
+      "low": 11.44,
+      "close": 11.8,
       "volume": 570300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 11.58,
+      "high": 11.78,
+      "low": 11.15,
+      "close": 11.35,
+      "volume": 256500
     }
   ]
 }

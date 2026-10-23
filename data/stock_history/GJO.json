@@ -1,18 +1,10 @@
 {
   "code": "GJO",
   "ticker": "GJO",
-  "last_updated": "2026-10-22 09:32:43",
+  "last_updated": "2026-10-23 09:32:46",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 19.29,
-      "high": 19.29,
-      "low": 19.29,
-      "close": 19.29,
-      "volume": 0
-    },
     {
       "date": "2021-10-25",
       "open": 19.29,
@@ -8793,7 +8785,7 @@
       "date": "2026-03-11",
       "open": 24.09,
       "high": 24.09,
-      "low": 24.04,
+      "low": 24.03,
       "close": 24.06,
       "volume": 3000
     },
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 514
+      "open": 24.4,
+      "high": 24.7,
+      "low": 24.4,
+      "close": 24.7,
+      "volume": 500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 24.7,
+      "high": 24.7,
+      "low": 24.7,
+      "close": 24.7,
+      "volume": 0
     }
   ]
 }

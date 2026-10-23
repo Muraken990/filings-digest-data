@@ -1,9 +1,9 @@
 {
   "code": "LGN",
   "ticker": "LGN",
-  "last_updated": "2026-10-22 09:48:21",
+  "last_updated": "2026-10-23 09:48:24",
   "period": "5y",
-  "data_points": 279,
+  "data_points": 280,
   "data": [
     {
       "date": "2025-09-12",
@@ -2231,11 +2231,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1462282
+      "open": 42.82,
+      "high": 43.29,
+      "low": 41.02,
+      "close": 41.55,
+      "volume": 1462300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 39.81,
+      "high": 39.87,
+      "low": 36.12,
+      "close": 36.86,
+      "volume": 2380500
     }
   ]
 }

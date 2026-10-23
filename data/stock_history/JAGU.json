@@ -1,9 +1,9 @@
 {
   "code": "JAGU",
   "ticker": "JAGU",
-  "last_updated": "2026-10-22 09:43:12",
+  "last_updated": "2026-10-23 09:43:13",
   "period": "5y",
-  "data_points": 177,
+  "data_points": 178,
   "data": [
     {
       "date": "2026-02-09",
@@ -1415,11 +1415,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 93981
+      "open": 1.01,
+      "high": 1.05,
+      "low": 0.98,
+      "close": 1.0,
+      "volume": 94000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.0,
+      "high": 1.05,
+      "low": 0.97,
+      "close": 1.03,
+      "volume": 87700
     }
   ]
 }

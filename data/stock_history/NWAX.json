@@ -1,9 +1,9 @@
 {
   "code": "NWAX",
   "ticker": "NWAX",
-  "last_updated": "2026-10-22 10:01:26",
+  "last_updated": "2026-10-23 10:01:30",
   "period": "5y",
-  "data_points": 187,
+  "data_points": 188,
   "data": [
     {
       "date": "2026-01-26",
@@ -1495,11 +1495,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 179269
+      "open": 10.04,
+      "high": 10.04,
+      "low": 10.03,
+      "close": 10.04,
+      "volume": 179300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.03,
+      "high": 10.04,
+      "low": 10.02,
+      "close": 10.03,
+      "volume": 221400
     }
   ]
 }

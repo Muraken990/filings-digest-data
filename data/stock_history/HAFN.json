@@ -1,9 +1,9 @@
 {
   "code": "HAFN",
   "ticker": "HAFN",
-  "last_updated": "2026-10-22 09:35:23",
+  "last_updated": "2026-10-23 09:35:25",
   "period": "5y",
-  "data_points": 636,
+  "data_points": 637,
   "data": [
     {
       "date": "2024-04-10",
@@ -5087,11 +5087,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2310091
+      "open": 10.14,
+      "high": 10.56,
+      "low": 10.11,
+      "close": 10.53,
+      "volume": 2310200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.29,
+      "high": 10.51,
+      "low": 10.14,
+      "close": 10.33,
+      "volume": 2081900
     }
   ]
 }

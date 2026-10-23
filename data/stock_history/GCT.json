@@ -1,9 +1,9 @@
 {
   "code": "GCT",
   "ticker": "GCT",
-  "last_updated": "2026-10-22 09:31:02",
+  "last_updated": "2026-10-23 09:31:04",
   "period": "5y",
-  "data_points": 1048,
+  "data_points": 1049,
   "data": [
     {
       "date": "2022-08-18",
@@ -8383,11 +8383,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 619879
+      "open": 59.0,
+      "high": 60.96,
+      "low": 58.32,
+      "close": 60.39,
+      "volume": 619900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 59.95,
+      "high": 60.73,
+      "low": 58.13,
+      "close": 59.12,
+      "volume": 525600
     }
   ]
 }

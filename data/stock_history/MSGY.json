@@ -1,9 +1,9 @@
 {
   "code": "MSGY",
   "ticker": "MSGY",
-  "last_updated": "2026-10-22 09:55:23",
+  "last_updated": "2026-10-23 09:55:25",
   "period": "5y",
-  "data_points": 326,
+  "data_points": 327,
   "data": [
     {
       "date": "2025-07-08",
@@ -2607,11 +2607,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 24354
+      "open": 2.17,
+      "high": 2.4,
+      "low": 2.17,
+      "close": 2.38,
+      "volume": 24400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.41,
+      "high": 2.73,
+      "low": 2.27,
+      "close": 2.72,
+      "volume": 76600
     }
   ]
 }

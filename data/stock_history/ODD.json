@@ -1,9 +1,9 @@
 {
   "code": "ODD",
   "ticker": "ODD",
-  "last_updated": "2026-10-22 10:02:19",
+  "last_updated": "2026-10-23 10:02:24",
   "period": "5y",
-  "data_points": 819,
+  "data_points": 820,
   "data": [
     {
       "date": "2023-07-19",
@@ -6551,11 +6551,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 601165
+      "open": 23.7,
+      "high": 23.7,
+      "low": 21.84,
+      "close": 22.38,
+      "volume": 601200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 22.61,
+      "high": 23.47,
+      "low": 22.38,
+      "close": 23.35,
+      "volume": 530700
     }
   ]
 }

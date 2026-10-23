@@ -1,18 +1,10 @@
 {
   "code": "ORKA",
   "ticker": "ORKA",
-  "last_updated": "2026-10-22 10:04:04",
+  "last_updated": "2026-10-23 10:04:09",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 17.75,
-      "high": 17.81,
-      "low": 17.1,
-      "close": 17.23,
-      "volume": 8092
-    },
     {
       "date": "2021-10-25",
       "open": 17.17,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 953373
+      "open": 79.97,
+      "high": 81.75,
+      "low": 79.48,
+      "close": 79.92,
+      "volume": 953400
+    },
+    {
+      "date": "2026-10-22",
+      "open": 79.06,
+      "high": 82.15,
+      "low": 78.36,
+      "close": 81.15,
+      "volume": 589900
     }
   ]
 }

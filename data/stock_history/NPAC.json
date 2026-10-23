@@ -1,9 +1,9 @@
 {
   "code": "NPAC",
   "ticker": "NPAC",
-  "last_updated": "2026-10-22 09:59:42",
+  "last_updated": "2026-10-23 09:59:46",
   "period": "5y",
-  "data_points": 340,
+  "data_points": 341,
   "data": [
     {
       "date": "2025-06-16",
@@ -2719,11 +2719,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 10878
+      "open": 10.52,
+      "high": 10.53,
+      "low": 10.52,
+      "close": 10.53,
+      "volume": 10900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.52,
+      "high": 10.53,
+      "low": 10.52,
+      "close": 10.52,
+      "volume": 1500
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "LAC",
   "ticker": "LAC",
-  "last_updated": "2026-10-22 09:46:41",
+  "last_updated": "2026-10-23 09:46:44",
   "period": "5y",
-  "data_points": 767,
+  "data_points": 768,
   "data": [
     {
       "date": "2023-10-02",
@@ -6135,11 +6135,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 5759672
+      "open": 2.17,
+      "high": 2.18,
+      "low": 2.12,
+      "close": 2.14,
+      "volume": 6047800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 2.08,
+      "high": 2.11,
+      "low": 2.05,
+      "close": 2.1,
+      "volume": 7315900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "HNGE",
   "ticker": "HNGE",
-  "last_updated": "2026-10-22 09:37:07",
+  "last_updated": "2026-10-23 09:37:09",
   "period": "5y",
-  "data_points": 356,
+  "data_points": 357,
   "data": [
     {
       "date": "2025-05-22",
@@ -2847,11 +2847,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 2742451
+      "open": 108.16,
+      "high": 112.24,
+      "low": 107.82,
+      "close": 112.0,
+      "volume": 2743300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 112.59,
+      "high": 113.48,
+      "low": 108.5,
+      "close": 109.93,
+      "volume": 2264000
     }
   ]
 }

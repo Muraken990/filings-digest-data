@@ -1,9 +1,9 @@
 {
   "code": "HTFL",
   "ticker": "HTFL",
-  "last_updated": "2026-10-22 09:38:00",
+  "last_updated": "2026-10-23 09:38:02",
   "period": "5y",
-  "data_points": 302,
+  "data_points": 303,
   "data": [
     {
       "date": "2025-08-11",
@@ -2415,11 +2415,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1544867
+      "open": 55.6,
+      "high": 57.25,
+      "low": 55.33,
+      "close": 55.82,
+      "volume": 1576100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 55.01,
+      "high": 56.72,
+      "low": 54.45,
+      "close": 55.43,
+      "volume": 1295900
     }
   ]
 }

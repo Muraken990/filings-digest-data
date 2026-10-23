@@ -1,18 +1,10 @@
 {
   "code": "PIPR",
   "ticker": "PIPR",
-  "last_updated": "2026-10-22 10:08:19",
+  "last_updated": "2026-10-23 10:08:25",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 34.08,
-      "high": 35.06,
-      "low": 34.08,
-      "close": 34.78,
-      "volume": 207600
-    },
     {
       "date": "2021-10-25",
       "open": 34.81,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 867821
+      "open": 64.91,
+      "high": 64.91,
+      "low": 63.56,
+      "close": 64.4,
+      "volume": 867800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 63.6,
+      "high": 65.57,
+      "low": 63.33,
+      "close": 65.54,
+      "volume": 555000
     }
   ]
 }

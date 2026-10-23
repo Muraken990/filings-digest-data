@@ -1,18 +1,10 @@
 {
   "code": "IESC",
   "ticker": "IESC",
-  "last_updated": "2026-10-22 09:39:45",
+  "last_updated": "2026-10-23 09:39:46",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 24.37,
-      "high": 24.74,
-      "low": 24.15,
-      "close": 24.48,
-      "volume": 37000
-    },
     {
       "date": "2021-10-25",
       "open": 23.65,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 615928
+      "open": 246.64,
+      "high": 249.88,
+      "low": 232.44,
+      "close": 236.61,
+      "volume": 615900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 229.08,
+      "high": 233.59,
+      "low": 218.0,
+      "close": 220.75,
+      "volume": 477500
     }
   ]
 }

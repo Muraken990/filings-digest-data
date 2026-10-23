@@ -1,9 +1,9 @@
 {
   "code": "INBX",
   "ticker": "INBX",
-  "last_updated": "2026-10-22 09:40:39",
+  "last_updated": "2026-10-23 09:40:40",
   "period": "5y",
-  "data_points": 602,
+  "data_points": 603,
   "data": [
     {
       "date": "2024-05-29",
@@ -4815,11 +4815,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 239296
+      "open": 98.1,
+      "high": 99.82,
+      "low": 93.0,
+      "close": 98.19,
+      "volume": 239300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 96.94,
+      "high": 100.2,
+      "low": 94.04,
+      "close": 97.1,
+      "volume": 249500
     }
   ]
 }

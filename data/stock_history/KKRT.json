@@ -1,9 +1,9 @@
 {
   "code": "KKRT",
   "ticker": "KKRT",
-  "last_updated": "2026-10-22 09:45:44",
+  "last_updated": "2026-10-23 09:45:46",
   "period": "5y",
-  "data_points": 351,
+  "data_points": 352,
   "data": [
     {
       "date": "2025-05-30",
@@ -2807,11 +2807,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 98940
+      "open": 22.85,
+      "high": 23.09,
+      "low": 22.55,
+      "close": 22.96,
+      "volume": 98900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 23.0,
+      "high": 23.15,
+      "low": 22.87,
+      "close": 22.98,
+      "volume": 34000
     }
   ]
 }

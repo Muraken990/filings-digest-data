@@ -1,9 +1,9 @@
 {
   "code": "OIO",
   "ticker": "OIO",
-  "last_updated": "2026-10-22 10:03:08",
+  "last_updated": "2026-10-23 10:03:13",
   "period": "5y",
-  "data_points": 1139,
+  "data_points": 1140,
   "data": [
     {
       "date": "2022-04-07",
@@ -9111,11 +9111,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 101168
+      "open": 1.78,
+      "high": 1.88,
+      "low": 1.78,
+      "close": 1.85,
+      "volume": 101200
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.89,
+      "high": 2.06,
+      "low": 1.86,
+      "close": 1.87,
+      "volume": 104800
     }
   ]
 }

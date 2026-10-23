@@ -1,18 +1,10 @@
 {
   "code": "GRBK",
   "ticker": "GRBK",
-  "last_updated": "2026-10-22 09:34:27",
+  "last_updated": "2026-10-23 09:34:29",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 24.9,
-      "high": 26.32,
-      "low": 24.87,
-      "close": 25.39,
-      "volume": 988400
-    },
     {
       "date": "2021-10-25",
       "open": 25.55,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 228831
+      "open": 62.16,
+      "high": 62.25,
+      "low": 60.51,
+      "close": 60.68,
+      "volume": 228800
+    },
+    {
+      "date": "2026-10-22",
+      "open": 60.6,
+      "high": 65.08,
+      "low": 60.46,
+      "close": 64.94,
+      "volume": 450600
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "NCNA",
   "ticker": "NCNA",
-  "last_updated": "2026-10-22 09:57:54",
+  "last_updated": "2026-10-23 09:57:58",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 12800.0,
-      "high": 12950.0,
-      "low": 12515.0,
-      "close": 12550.0,
-      "volume": 90
-    },
     {
       "date": "2021-10-25",
       "open": 12435.0,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 29617
+      "open": 1.0,
+      "high": 1.01,
+      "low": 0.96,
+      "close": 0.96,
+      "volume": 30100
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.97,
+      "high": 0.99,
+      "low": 0.95,
+      "close": 0.96,
+      "volume": 31800
     }
   ]
 }

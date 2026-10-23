@@ -1,9 +1,9 @@
 {
   "code": "NA",
   "ticker": "NA",
-  "last_updated": "2026-10-22 09:57:03",
+  "last_updated": "2026-10-23 09:57:06",
   "period": "5y",
-  "data_points": 1075,
+  "data_points": 1076,
   "data": [
     {
       "date": "2022-07-12",
@@ -8599,11 +8599,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 21741
+      "open": 1.91,
+      "high": 1.94,
+      "low": 1.79,
+      "close": 1.82,
+      "volume": 21700
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.79,
+      "high": 1.88,
+      "low": 1.68,
+      "close": 1.68,
+      "volume": 23400
     }
   ]
 }

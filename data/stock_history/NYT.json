@@ -1,18 +1,10 @@
 {
   "code": "NYT",
   "ticker": "NYT",
-  "last_updated": "2026-10-22 10:02:15",
+  "last_updated": "2026-10-23 10:02:20",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 51.86,
-      "high": 52.91,
-      "low": 51.86,
-      "close": 52.04,
-      "volume": 1339200
-    },
     {
       "date": "2021-10-25",
       "open": 51.94,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1789864
+      "open": 69.56,
+      "high": 69.79,
+      "low": 68.46,
+      "close": 68.86,
+      "volume": 1789900
+    },
+    {
+      "date": "2026-10-22",
+      "open": 69.11,
+      "high": 69.72,
+      "low": 68.72,
+      "close": 69.42,
+      "volume": 1994700
     }
   ]
 }

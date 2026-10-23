@@ -1,18 +1,10 @@
 {
   "code": "MANH",
   "ticker": "MANH",
-  "last_updated": "2026-10-22 09:50:59",
+  "last_updated": "2026-10-23 09:51:03",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 169.16,
-      "high": 170.64,
-      "low": 167.98,
-      "close": 168.64,
-      "volume": 157900
-    },
     {
       "date": "2021-10-25",
       "open": 169.08,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 596304
+      "open": 230.64,
+      "high": 236.62,
+      "low": 229.75,
+      "close": 235.83,
+      "volume": 596300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 237.13,
+      "high": 242.49,
+      "low": 237.13,
+      "close": 242.17,
+      "volume": 630700
     }
   ]
 }

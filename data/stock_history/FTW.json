@@ -1,9 +1,9 @@
 {
   "code": "FTW",
   "ticker": "FTW",
-  "last_updated": "2026-10-22 09:30:09",
+  "last_updated": "2026-10-23 09:30:10",
   "period": "5y",
-  "data_points": 518,
+  "data_points": 519,
   "data": [
     {
       "date": "2024-09-27",
@@ -4143,11 +4143,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 29514
+      "open": 10.1,
+      "high": 10.19,
+      "low": 10.09,
+      "close": 10.13,
+      "volume": 29500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.17,
+      "high": 10.2,
+      "low": 10.08,
+      "close": 10.16,
+      "volume": 26200
     }
   ]
 }

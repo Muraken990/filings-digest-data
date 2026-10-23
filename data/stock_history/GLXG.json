@@ -1,9 +1,9 @@
 {
   "code": "GLXG",
   "ticker": "GLXG",
-  "last_updated": "2026-10-22 09:32:47",
+  "last_updated": "2026-10-23 09:32:50",
   "period": "5y",
-  "data_points": 529,
+  "data_points": 530,
   "data": [
     {
       "date": "2024-09-12",
@@ -4231,11 +4231,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 29043
+      "open": 0.89,
+      "high": 0.93,
+      "low": 0.82,
+      "close": 0.82,
+      "volume": 49500
+    },
+    {
+      "date": "2026-10-22",
+      "open": 0.87,
+      "high": 0.91,
+      "low": 0.87,
+      "close": 0.9,
+      "volume": 19100
     }
   ]
 }

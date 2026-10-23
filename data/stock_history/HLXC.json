@@ -1,9 +1,9 @@
 {
   "code": "HLXC",
   "ticker": "HLXC",
-  "last_updated": "2026-10-22 09:37:06",
+  "last_updated": "2026-10-23 09:37:08",
   "period": "5y",
-  "data_points": 188,
+  "data_points": 189,
   "data": [
     {
       "date": "2026-01-23",
@@ -1503,11 +1503,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 327526
+      "open": 10.3,
+      "high": 10.3,
+      "low": 10.15,
+      "close": 10.22,
+      "volume": 327300
+    },
+    {
+      "date": "2026-10-22",
+      "open": 10.2,
+      "high": 10.27,
+      "low": 10.2,
+      "close": 10.25,
+      "volume": 168100
     }
   ]
 }

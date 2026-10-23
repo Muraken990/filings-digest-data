@@ -1,9 +1,9 @@
 {
   "code": "GDHG",
   "ticker": "GDHG",
-  "last_updated": "2026-10-22 09:31:49",
+  "last_updated": "2026-10-23 09:31:51",
   "period": "5y",
-  "data_points": 886,
+  "data_points": 887,
   "data": [
     {
       "date": "2023-04-12",
@@ -7087,11 +7087,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 70606
+      "open": 1.12,
+      "high": 1.18,
+      "low": 1.06,
+      "close": 1.06,
+      "volume": 78000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 1.07,
+      "high": 1.15,
+      "low": 1.04,
+      "close": 1.05,
+      "volume": 115400
     }
   ]
 }

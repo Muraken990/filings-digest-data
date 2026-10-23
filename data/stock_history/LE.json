@@ -1,18 +1,10 @@
 {
   "code": "LE",
   "ticker": "LE",
-  "last_updated": "2026-10-22 09:47:32",
+  "last_updated": "2026-10-23 09:47:34",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-22",
-      "open": 24.62,
-      "high": 25.03,
-      "low": 24.24,
-      "close": 24.98,
-      "volume": 146000
-    },
     {
       "date": "2021-10-25",
       "open": 25.14,
@@ -10031,11 +10023,19 @@
     },
     {
       "date": "2026-10-21",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 223027
+      "open": 9.88,
+      "high": 9.88,
+      "low": 9.58,
+      "close": 9.61,
+      "volume": 223000
+    },
+    {
+      "date": "2026-10-22",
+      "open": 9.57,
+      "high": 9.94,
+      "low": 9.57,
+      "close": 9.76,
+      "volume": 197900
     }
   ]
 }
