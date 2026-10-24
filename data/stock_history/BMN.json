@@ -1,9 +1,9 @@
 {
   "code": "BMN",
   "ticker": "BMN",
-  "last_updated": "2026-10-23 07:14:03",
+  "last_updated": "2026-10-24 07:14:03",
   "period": "5y",
-  "data_points": 1000,
+  "data_points": 1001,
   "data": [
     {
       "date": "2022-10-27",
@@ -8004,6 +8004,14 @@
       "low": 21.95,
       "close": 22.41,
       "volume": 79100
+    },
+    {
+      "date": "2026-10-23",
+      "open": 22.34,
+      "high": 22.42,
+      "low": 22.2,
+      "close": 22.29,
+      "volume": 35400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ABCL",
   "ticker": "ABCL",
-  "last_updated": "2026-10-23 07:00:07",
+  "last_updated": "2026-10-24 07:00:07",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-25",
@@ -10035,7 +10035,15 @@
       "high": 12.23,
       "low": 11.2,
       "close": 11.37,
-      "volume": 4260800
+      "volume": 4277100
+    },
+    {
+      "date": "2026-10-23",
+      "open": 11.45,
+      "high": 11.9,
+      "low": 11.08,
+      "close": 11.82,
+      "volume": 3022500
     }
   ]
 }

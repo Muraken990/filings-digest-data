@@ -1,9 +1,9 @@
 {
   "code": "ACTU",
   "ticker": "ACTU",
-  "last_updated": "2026-10-23 07:01:00",
+  "last_updated": "2026-10-24 07:01:00",
   "period": "5y",
-  "data_points": 551,
+  "data_points": 552,
   "data": [
     {
       "date": "2024-08-13",
@@ -4412,6 +4412,14 @@
       "low": 0.47,
       "close": 0.52,
       "volume": 335000
+    },
+    {
+      "date": "2026-10-23",
+      "open": 0.53,
+      "high": 0.56,
+      "low": 0.45,
+      "close": 0.47,
+      "volume": 255200
     }
   ]
 }

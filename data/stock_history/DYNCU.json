@@ -1,9 +1,9 @@
 {
   "code": "DYNCU",
   "ticker": "DYNCU",
-  "last_updated": "2026-10-23 07:29:45",
+  "last_updated": "2026-10-24 07:29:46",
   "period": "5y",
-  "data_points": 480,
+  "data_points": 481,
   "data": [
     {
       "date": "2024-11-21",
@@ -3839,11 +3839,19 @@
     },
     {
       "date": "2026-10-22",
+      "open": 11.22,
+      "high": 11.24,
+      "low": 11.17,
+      "close": 11.17,
+      "volume": 1511
+    },
+    {
+      "date": "2026-10-23",
       "open": null,
       "high": null,
       "low": null,
       "close": null,
-      "volume": 1511
+      "volume": 100
     }
   ]
 }

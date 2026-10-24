@@ -1,9 +1,9 @@
 {
   "code": "CITR",
   "ticker": "CITR",
-  "last_updated": "2026-10-23 07:21:00",
+  "last_updated": "2026-10-24 07:21:01",
   "period": "5y",
-  "data_points": 222,
+  "data_points": 223,
   "data": [
     {
       "date": "2025-12-04",
@@ -1780,6 +1780,14 @@
       "low": 2.55,
       "close": 2.65,
       "volume": 15100
+    },
+    {
+      "date": "2026-10-23",
+      "open": 2.55,
+      "high": 2.74,
+      "low": 2.54,
+      "close": 2.65,
+      "volume": 48000
     }
   ]
 }
