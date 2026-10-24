@@ -1,9 +1,9 @@
 {
   "code": "INGM",
   "ticker": "INGM",
-  "last_updated": "2026-10-23 09:41:27",
+  "last_updated": "2026-10-24 09:41:25",
   "period": "5y",
-  "data_points": 500,
+  "data_points": 501,
   "data": [
     {
       "date": "2024-10-24",
@@ -4004,6 +4004,14 @@
       "low": 26.39,
       "close": 27.5,
       "volume": 1426100
+    },
+    {
+      "date": "2026-10-23",
+      "open": 27.46,
+      "high": 27.84,
+      "low": 27.15,
+      "close": 27.69,
+      "volume": 1301800
     }
   ]
 }

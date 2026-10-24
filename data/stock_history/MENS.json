@@ -1,9 +1,9 @@
 {
   "code": "MENS",
   "ticker": "MENS",
-  "last_updated": "2026-10-23 09:52:44",
+  "last_updated": "2026-10-24 09:52:36",
   "period": "5y",
-  "data_points": 340,
+  "data_points": 341,
   "data": [
     {
       "date": "2025-06-17",
@@ -2724,6 +2724,14 @@
       "low": 1.64,
       "close": 1.74,
       "volume": 130200
+    },
+    {
+      "date": "2026-10-23",
+      "open": 1.71,
+      "high": 1.82,
+      "low": 1.51,
+      "close": 1.77,
+      "volume": 60000
     }
   ]
 }
