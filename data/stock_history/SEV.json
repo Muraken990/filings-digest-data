@@ -1,9 +1,9 @@
 {
   "code": "SEV",
   "ticker": "SEV",
-  "last_updated": "2026-10-23 12:09:43",
+  "last_updated": "2026-10-24 12:09:40",
   "period": "5y",
-  "data_points": 256,
+  "data_points": 257,
   "data": [
     {
       "date": "2025-10-16",
@@ -2052,6 +2052,14 @@
       "low": 1.38,
       "close": 1.44,
       "volume": 146300
+    },
+    {
+      "date": "2026-10-23",
+      "open": 1.41,
+      "high": 1.52,
+      "low": 1.4,
+      "close": 1.51,
+      "volume": 238300
     }
   ]
 }
