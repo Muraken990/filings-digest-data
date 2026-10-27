@@ -1,9 +1,9 @@
 {
   "code": "ANTA",
   "ticker": "ANTA",
-  "last_updated": "2026-10-26 07:06:08",
+  "last_updated": "2026-10-27 07:06:08",
   "period": "5y",
-  "data_points": 365,
+  "data_points": 366,
   "data": [
     {
       "date": "2025-05-13",
@@ -2923,7 +2923,15 @@
       "high": 2.19,
       "low": 1.68,
       "close": 1.96,
-      "volume": 14100
+      "volume": 25600
+    },
+    {
+      "date": "2026-10-26",
+      "open": 1.92,
+      "high": 1.92,
+      "low": 1.63,
+      "close": 1.69,
+      "volume": 9200
     }
   ]
 }
