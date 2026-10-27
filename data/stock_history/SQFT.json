@@ -1,26 +1,10 @@
 {
   "code": "SQFT",
   "ticker": "SQFT",
-  "last_updated": "2026-10-26 12:13:57",
+  "last_updated": "2026-10-27 12:13:57",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-25",
-      "open": 31.88,
-      "high": 32.29,
-      "low": 31.64,
-      "close": 32.13,
-      "volume": 5380
-    },
-    {
-      "date": "2021-10-26",
-      "open": 32.37,
-      "high": 32.37,
-      "low": 31.67,
-      "close": 32.37,
-      "volume": 4930
-    },
     {
       "date": "2021-10-27",
       "open": 32.37,
@@ -10043,6 +10027,14 @@
       "high": 0.81,
       "low": 0.76,
       "close": 0.8,
+      "volume": 3600
+    },
+    {
+      "date": "2026-10-26",
+      "open": 0.77,
+      "high": 0.77,
+      "low": 0.76,
+      "close": 0.76,
       "volume": 3600
     }
   ]

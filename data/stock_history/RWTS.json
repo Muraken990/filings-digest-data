@@ -1,9 +1,9 @@
 {
   "code": "RWTS",
   "ticker": "RWTS",
-  "last_updated": "2026-10-26 12:07:06",
+  "last_updated": "2026-10-27 12:07:07",
   "period": "5y",
-  "data_points": 103,
+  "data_points": 104,
   "data": [
     {
       "date": "2026-05-29",
@@ -828,6 +828,14 @@
       "low": 20.09,
       "close": 20.19,
       "volume": 38100
+    },
+    {
+      "date": "2026-10-26",
+      "open": 20.21,
+      "high": 20.66,
+      "low": 19.95,
+      "close": 19.95,
+      "volume": 63500
     }
   ]
 }

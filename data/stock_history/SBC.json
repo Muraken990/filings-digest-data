@@ -1,9 +1,9 @@
 {
   "code": "SBC",
   "ticker": "SBC",
-  "last_updated": "2026-10-26 12:08:44",
+  "last_updated": "2026-10-27 12:08:44",
   "period": "5y",
-  "data_points": 1024,
+  "data_points": 1025,
   "data": [
     {
       "date": "2022-09-26",
@@ -8196,6 +8196,14 @@
       "low": 5.2,
       "close": 5.28,
       "volume": 295900
+    },
+    {
+      "date": "2026-10-26",
+      "open": 5.28,
+      "high": 5.37,
+      "low": 5.25,
+      "close": 5.37,
+      "volume": 192200
     }
   ]
 }
