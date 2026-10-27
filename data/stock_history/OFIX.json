@@ -1,26 +1,10 @@
 {
   "code": "OFIX",
   "ticker": "OFIX",
-  "last_updated": "2026-10-26 10:03:03",
+  "last_updated": "2026-10-27 10:03:07",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-25",
-      "open": 36.1,
-      "high": 36.27,
-      "low": 35.3,
-      "close": 35.67,
-      "volume": 53500
-    },
-    {
-      "date": "2021-10-26",
-      "open": 35.92,
-      "high": 36.21,
-      "low": 35.58,
-      "close": 35.77,
-      "volume": 58800
-    },
     {
       "date": "2021-10-27",
       "open": 35.64,
@@ -10044,6 +10028,14 @@
       "low": 9.67,
       "close": 9.81,
       "volume": 247600
+    },
+    {
+      "date": "2026-10-26",
+      "open": 9.65,
+      "high": 9.83,
+      "low": 9.65,
+      "close": 9.78,
+      "volume": 200600
     }
   ]
 }

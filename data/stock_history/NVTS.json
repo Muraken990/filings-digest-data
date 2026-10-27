@@ -1,26 +1,10 @@
 {
   "code": "NVTS",
   "ticker": "NVTS",
-  "last_updated": "2026-10-26 10:01:23",
+  "last_updated": "2026-10-27 10:01:26",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-25",
-      "open": 12.52,
-      "high": 12.67,
-      "low": 12.2,
-      "close": 12.23,
-      "volume": 593600
-    },
-    {
-      "date": "2021-10-26",
-      "open": 12.2,
-      "high": 12.3,
-      "low": 11.9,
-      "close": 11.99,
-      "volume": 530600
-    },
     {
       "date": "2021-10-27",
       "open": 11.93,
@@ -10043,7 +10027,15 @@
       "high": 8.6,
       "low": 8.29,
       "close": 8.38,
-      "volume": 9107900
+      "volume": 9151900
+    },
+    {
+      "date": "2026-10-26",
+      "open": 8.35,
+      "high": 8.6,
+      "low": 8.13,
+      "close": 8.4,
+      "volume": 9366800
     }
   ]
 }

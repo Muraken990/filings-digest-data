@@ -1,26 +1,10 @@
 {
   "code": "LSTA",
   "ticker": "LSTA",
-  "last_updated": "2026-10-26 09:50:04",
+  "last_updated": "2026-10-27 09:50:07",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-25",
-      "open": 16.8,
-      "high": 16.8,
-      "low": 16.5,
-      "close": 16.65,
-      "volume": 22407
-    },
-    {
-      "date": "2021-10-26",
-      "open": 16.65,
-      "high": 16.8,
-      "low": 16.35,
-      "close": 16.65,
-      "volume": 35067
-    },
     {
       "date": "2021-10-27",
       "open": 16.65,
@@ -10044,6 +10028,14 @@
       "low": 0.97,
       "close": 1.0,
       "volume": 45600
+    },
+    {
+      "date": "2026-10-26",
+      "open": 0.98,
+      "high": 1.06,
+      "low": 0.96,
+      "close": 1.06,
+      "volume": 60300
     }
   ]
 }
