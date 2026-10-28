@@ -1,9 +1,9 @@
 {
   "code": "GUAC",
   "ticker": "GUAC",
-  "last_updated": "2026-10-27 09:35:21",
+  "last_updated": "2026-10-28 09:35:20",
   "period": "5y",
-  "data_points": 80,
+  "data_points": 81,
   "data": [
     {
       "date": "2026-07-06",
@@ -644,6 +644,14 @@
       "low": 9.87,
       "close": 9.9,
       "volume": 7700
+    },
+    {
+      "date": "2026-10-27",
+      "open": 9.89,
+      "high": 9.9,
+      "low": 9.88,
+      "close": 9.9,
+      "volume": 2000
     }
   ]
 }

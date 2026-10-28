@@ -1,18 +1,10 @@
 {
   "code": "MBOT",
   "ticker": "MBOT",
-  "last_updated": "2026-10-27 09:51:50",
+  "last_updated": "2026-10-28 09:51:48",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-27",
-      "open": 7.19,
-      "high": 7.3,
-      "low": 7.08,
-      "close": 7.15,
-      "volume": 31000
-    },
     {
       "date": "2021-10-28",
       "open": 7.19,
@@ -10035,7 +10027,15 @@
       "high": 1.0,
       "low": 0.94,
       "close": 0.94,
-      "volume": 468600
+      "volume": 485300
+    },
+    {
+      "date": "2026-10-27",
+      "open": 0.96,
+      "high": 1.07,
+      "low": 0.96,
+      "close": 1.03,
+      "volume": 1136200
     }
   ]
 }
