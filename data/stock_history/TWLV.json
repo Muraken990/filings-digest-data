@@ -1,9 +1,9 @@
 {
   "code": "TWLV",
   "ticker": "TWLV",
-  "last_updated": "2026-10-27 12:20:57",
+  "last_updated": "2026-10-28 12:21:00",
   "period": "5y",
-  "data_points": 200,
+  "data_points": 201,
   "data": [
     {
       "date": "2026-01-09",
@@ -1604,6 +1604,14 @@
       "low": 10.07,
       "close": 10.08,
       "volume": 725100
+    },
+    {
+      "date": "2026-10-27",
+      "open": 10.08,
+      "high": 10.08,
+      "low": 10.08,
+      "close": 10.08,
+      "volume": 0
     }
   ]
 }

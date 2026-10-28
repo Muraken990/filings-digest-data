@@ -1,9 +1,9 @@
 {
   "code": "PURR",
   "ticker": "PURR",
-  "last_updated": "2026-10-27 12:02:40",
+  "last_updated": "2026-10-28 12:02:40",
   "period": "5y",
-  "data_points": 225,
+  "data_points": 226,
   "data": [
     {
       "date": "2025-12-03",
@@ -1803,7 +1803,15 @@
       "high": 9.32,
       "low": 8.6,
       "close": 9.07,
-      "volume": 8491500
+      "volume": 8508400
+    },
+    {
+      "date": "2026-10-27",
+      "open": 9.17,
+      "high": 10.07,
+      "low": 9.17,
+      "close": 9.85,
+      "volume": 11158000
     }
   ]
 }
