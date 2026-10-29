@@ -1,9 +1,9 @@
 {
   "code": "PMTV",
   "ticker": "PMTV",
-  "last_updated": "2026-10-28 12:00:07",
+  "last_updated": "2026-10-29 12:00:07",
   "period": "5y",
-  "data_points": 427,
+  "data_points": 428,
   "data": [
     {
       "date": "2025-02-14",
@@ -3420,6 +3420,14 @@
       "low": 25.09,
       "close": 25.09,
       "volume": 36000
+    },
+    {
+      "date": "2026-10-28",
+      "open": 25.08,
+      "high": 25.14,
+      "low": 25.06,
+      "close": 25.08,
+      "volume": 9300
     }
   ]
 }

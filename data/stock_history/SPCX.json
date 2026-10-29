@@ -1,9 +1,9 @@
 {
   "code": "SPCX",
   "ticker": "SPCX",
-  "last_updated": "2026-10-28 12:13:11",
+  "last_updated": "2026-10-29 12:13:08",
   "period": "5y",
-  "data_points": 95,
+  "data_points": 96,
   "data": [
     {
       "date": "2026-06-12",
@@ -763,7 +763,15 @@
       "high": 151.36,
       "low": 146.61,
       "close": 148.58,
-      "volume": 95552700
+      "volume": 95845400
+    },
+    {
+      "date": "2026-10-28",
+      "open": 147.37,
+      "high": 148.2,
+      "low": 142.13,
+      "close": 145.23,
+      "volume": 98242900
     }
   ]
 }

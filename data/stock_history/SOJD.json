@@ -1,17 +1,17 @@
 {
   "code": "SOJD",
   "ticker": "SOJD",
-  "last_updated": "2026-10-28 12:13:08",
+  "last_updated": "2026-10-29 12:13:06",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-28",
-      "open": 20.54,
-      "high": 20.64,
-      "low": 20.45,
-      "close": 20.59,
-      "volume": 62900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-29",
@@ -10036,6 +10036,14 @@
       "low": 17.23,
       "close": 17.3,
       "volume": 212100
+    },
+    {
+      "date": "2026-10-28",
+      "open": 17.28,
+      "high": 17.35,
+      "low": 17.24,
+      "close": 17.28,
+      "volume": 211700
     }
   ]
 }
