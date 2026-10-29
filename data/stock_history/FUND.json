@@ -1,18 +1,10 @@
 {
   "code": "FUND",
   "ticker": "FUND",
-  "last_updated": "2026-10-28 09:30:10",
+  "last_updated": "2026-10-29 09:30:10",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-28",
-      "open": 6.02,
-      "high": 6.06,
-      "low": 5.99,
-      "close": 6.06,
-      "volume": 40200
-    },
     {
       "date": "2021-10-29",
       "open": 6.08,
@@ -10036,6 +10028,14 @@
       "low": 9.74,
       "close": 9.82,
       "volume": 4600
+    },
+    {
+      "date": "2026-10-28",
+      "open": 9.93,
+      "high": 10.02,
+      "low": 9.83,
+      "close": 9.89,
+      "volume": 15100
     }
   ]
 }
