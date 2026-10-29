@@ -1,17 +1,17 @@
 {
   "code": "EFC",
   "ticker": "EFC",
-  "last_updated": "2026-10-28 07:30:33",
+  "last_updated": "2026-10-29 07:30:35",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-28",
-      "open": 9.88,
-      "high": 9.94,
-      "low": 9.82,
-      "close": 9.93,
-      "volume": 588900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-10-29",
@@ -10036,6 +10036,14 @@
       "low": 11.59,
       "close": 11.7,
       "volume": 2559200
+    },
+    {
+      "date": "2026-10-28",
+      "open": 11.78,
+      "high": 11.84,
+      "low": 11.72,
+      "close": 11.74,
+      "volume": 2051500
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "ADAM",
   "ticker": "ADAM",
-  "last_updated": "2026-10-28 07:01:00",
+  "last_updated": "2026-10-29 07:01:01",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-28",
-      "open": 9.19,
-      "high": 9.29,
-      "low": 9.17,
-      "close": 9.29,
-      "volume": 327025
-    },
     {
       "date": "2021-10-29",
       "open": 9.27,
@@ -10036,6 +10028,14 @@
       "low": 7.82,
       "close": 7.86,
       "volume": 1005200
+    },
+    {
+      "date": "2026-10-28",
+      "open": 7.88,
+      "high": 7.93,
+      "low": 7.7,
+      "close": 7.78,
+      "volume": 1200000
     }
   ]
 }
