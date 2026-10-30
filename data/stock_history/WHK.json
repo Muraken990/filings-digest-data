@@ -1,9 +1,9 @@
 {
   "code": "WHK",
   "ticker": "WHK",
-  "last_updated": "2026-10-29 12:27:02",
+  "last_updated": "2026-10-30 12:27:02",
   "period": "5y",
-  "data_points": 99,
+  "data_points": 100,
   "data": [
     {
       "date": "2026-06-09",
@@ -796,6 +796,14 @@
       "low": 26.64,
       "close": 26.99,
       "volume": 208900
+    },
+    {
+      "date": "2026-10-29",
+      "open": 27.1,
+      "high": 27.11,
+      "low": 26.3,
+      "close": 26.38,
+      "volume": 129600
     }
   ]
 }

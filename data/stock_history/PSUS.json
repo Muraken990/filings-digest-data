@@ -1,9 +1,9 @@
 {
   "code": "PSUS",
   "ticker": "PSUS",
-  "last_updated": "2026-10-29 12:01:52",
+  "last_updated": "2026-10-30 12:01:50",
   "period": "5y",
-  "data_points": 127,
+  "data_points": 128,
   "data": [
     {
       "date": "2026-04-29",
@@ -1020,6 +1020,14 @@
       "low": 37.65,
       "close": 38.1,
       "volume": 334000
+    },
+    {
+      "date": "2026-10-29",
+      "open": 37.8,
+      "high": 38.49,
+      "low": 37.56,
+      "close": 38.4,
+      "volume": 210600
     }
   ]
 }

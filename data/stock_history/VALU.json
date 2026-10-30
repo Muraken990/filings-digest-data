@@ -1,17 +1,17 @@
 {
   "code": "VALU",
   "ticker": "VALU",
-  "last_updated": "2026-10-29 12:23:32",
+  "last_updated": "2026-10-30 12:23:32",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-29",
-      "open": 28.67,
-      "high": 30.3,
-      "low": 28.31,
-      "close": 30.16,
-      "volume": 13200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-01",
@@ -178,15 +178,15 @@
       "open": 36.32,
       "high": 36.68,
       "low": 35.41,
-      "close": 35.45,
+      "close": 35.46,
       "volume": 20900
     },
     {
       "date": "2021-12-01",
       "open": 35.64,
       "high": 37.19,
-      "low": 35.45,
-      "close": 35.45,
+      "low": 35.46,
+      "close": 35.46,
       "volume": 9800
     },
     {
@@ -3946,7 +3946,7 @@
       "open": 30.17,
       "high": 32.49,
       "low": 29.7,
-      "close": 31.66,
+      "close": 31.65,
       "volume": 7700
     },
     {
@@ -4071,7 +4071,7 @@
     },
     {
       "date": "2023-11-07",
-      "open": 37.89,
+      "open": 37.88,
       "high": 40.03,
       "low": 37.76,
       "close": 37.76,
@@ -10036,6 +10036,14 @@
       "low": 41.64,
       "close": 41.64,
       "volume": 1300
+    },
+    {
+      "date": "2026-10-29",
+      "open": 41.55,
+      "high": 41.55,
+      "low": 41.55,
+      "close": 41.55,
+      "volume": 400
     }
   ]
 }

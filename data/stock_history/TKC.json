@@ -1,17 +1,17 @@
 {
   "code": "TKC",
   "ticker": "TKC",
-  "last_updated": "2026-10-29 12:18:19",
+  "last_updated": "2026-10-30 12:18:19",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-29",
-      "open": 3.46,
-      "high": 3.49,
-      "low": 3.38,
-      "close": 3.38,
-      "volume": 725800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-01",
@@ -2425,7 +2425,7 @@
       "date": "2023-01-12",
       "open": 3.96,
       "high": 3.97,
-      "low": 3.82,
+      "low": 3.81,
       "close": 3.87,
       "volume": 492200
     },
@@ -2848,7 +2848,7 @@
     {
       "date": "2023-03-30",
       "open": 3.81,
-      "high": 3.82,
+      "high": 3.81,
       "low": 3.73,
       "close": 3.76,
       "volume": 438100
@@ -10036,6 +10036,14 @@
       "low": 4.58,
       "close": 4.64,
       "volume": 1761800
+    },
+    {
+      "date": "2026-10-29",
+      "open": 4.66,
+      "high": 4.68,
+      "low": 4.6,
+      "close": 4.63,
+      "volume": 1486500
     }
   ]
 }

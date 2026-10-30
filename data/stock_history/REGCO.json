@@ -1,9 +1,9 @@
 {
   "code": "REGCO",
   "ticker": "REGCO",
-  "last_updated": "2026-10-29 12:04:28",
+  "last_updated": "2026-10-30 12:04:27",
   "period": "5y",
-  "data_points": 800,
+  "data_points": 801,
   "data": [
     {
       "date": "2023-08-22",
@@ -6404,6 +6404,14 @@
       "low": 20.2,
       "close": 20.22,
       "volume": 3500
+    },
+    {
+      "date": "2026-10-29",
+      "open": 20.41,
+      "high": 20.49,
+      "low": 20.41,
+      "close": 20.49,
+      "volume": 900
     }
   ]
 }

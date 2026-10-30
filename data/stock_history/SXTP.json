@@ -1,9 +1,9 @@
 {
   "code": "SXTP",
   "ticker": "SXTP",
-  "last_updated": "2026-10-29 12:15:46",
+  "last_updated": "2026-10-30 12:15:45",
   "period": "5y",
-  "data_points": 829,
+  "data_points": 830,
   "data": [
     {
       "date": "2023-07-12",
@@ -6635,7 +6635,15 @@
       "high": 0.99,
       "low": 0.75,
       "close": 0.85,
-      "volume": 1990800
+      "volume": 2012400
+    },
+    {
+      "date": "2026-10-29",
+      "open": 0.8,
+      "high": 1.0,
+      "low": 0.8,
+      "close": 0.95,
+      "volume": 355900
     }
   ]
 }

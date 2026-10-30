@@ -1,18 +1,10 @@
 {
   "code": "SMSI",
   "ticker": "SMSI",
-  "last_updated": "2026-10-29 12:12:14",
+  "last_updated": "2026-10-30 12:12:14",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-29",
-      "open": 226.4,
-      "high": 231.2,
-      "low": 226.0,
-      "close": 228.0,
-      "volume": 4000
-    },
     {
       "date": "2021-11-01",
       "open": 228.8,
@@ -10036,6 +10028,14 @@
       "low": 2.28,
       "close": 2.3,
       "volume": 1800
+    },
+    {
+      "date": "2026-10-29",
+      "open": 2.3,
+      "high": 2.5,
+      "low": 2.3,
+      "close": 2.35,
+      "volume": 9600
     }
   ]
 }
