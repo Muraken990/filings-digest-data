@@ -1,9 +1,9 @@
 {
   "code": "FRTT",
   "ticker": "FRTT",
-  "last_updated": "2026-10-29 07:38:22",
+  "last_updated": "2026-10-30 07:38:17",
   "period": "5y",
-  "data_points": 100,
+  "data_points": 101,
   "data": [
     {
       "date": "2026-06-08",
@@ -804,6 +804,14 @@
       "low": 0.55,
       "close": 0.56,
       "volume": 92800
+    },
+    {
+      "date": "2026-10-29",
+      "open": 0.53,
+      "high": 0.58,
+      "low": 0.52,
+      "close": 0.54,
+      "volume": 101500
     }
   ]
 }

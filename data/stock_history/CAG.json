@@ -1,17 +1,17 @@
 {
   "code": "CAG",
   "ticker": "CAG",
-  "last_updated": "2026-10-29 07:17:24",
+  "last_updated": "2026-10-30 07:17:26",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-10-29",
-      "open": 25.42,
-      "high": 25.55,
-      "low": 25.15,
-      "close": 25.16,
-      "volume": 3338100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-01",
@@ -10036,6 +10036,14 @@
       "low": 13.8,
       "close": 13.92,
       "volume": 6777500
+    },
+    {
+      "date": "2026-10-29",
+      "open": 14.15,
+      "high": 14.17,
+      "low": 13.83,
+      "close": 14.09,
+      "volume": 8701600
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "CAST",
   "ticker": "CAST",
-  "last_updated": "2026-10-29 07:17:28",
+  "last_updated": "2026-10-30 07:17:30",
   "period": "5y",
-  "data_points": 162,
+  "data_points": 163,
   "data": [
     {
       "date": "2026-03-10",
@@ -1300,6 +1300,14 @@
       "low": 1.15,
       "close": 1.24,
       "volume": 416300
+    },
+    {
+      "date": "2026-10-29",
+      "open": 1.23,
+      "high": 1.38,
+      "low": 1.19,
+      "close": 1.36,
+      "volume": 669600
     }
   ]
 }

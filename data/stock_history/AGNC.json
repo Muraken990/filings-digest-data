@@ -1,26 +1,10 @@
 {
   "code": "AGNC",
   "ticker": "AGNC",
-  "last_updated": "2026-10-29 07:02:43",
+  "last_updated": "2026-10-30 07:02:42",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-10-29",
-      "open": 7.93,
-      "high": 7.98,
-      "low": 7.9,
-      "close": 7.96,
-      "volume": 8458100
-    },
     {
       "date": "2021-11-01",
       "open": 8.0,
@@ -79,7 +63,7 @@
     },
     {
       "date": "2021-11-10",
-      "open": 8.05,
+      "open": 8.04,
       "high": 8.11,
       "low": 8.0,
       "close": 8.01,
@@ -152,7 +136,7 @@
     {
       "date": "2021-11-23",
       "open": 8.03,
-      "high": 8.05,
+      "high": 8.04,
       "low": 7.99,
       "close": 8.01,
       "volume": 5642800
@@ -10043,7 +10027,15 @@
       "high": 8.9,
       "low": 8.79,
       "close": 8.86,
-      "volume": 21956700
+      "volume": 21967900
+    },
+    {
+      "date": "2026-10-29",
+      "open": 8.92,
+      "high": 9.01,
+      "low": 8.87,
+      "close": 8.95,
+      "volume": 20866700
     }
   ]
 }

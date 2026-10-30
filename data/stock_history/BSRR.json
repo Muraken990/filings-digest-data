@@ -1,26 +1,10 @@
 {
   "code": "BSRR",
   "ticker": "BSRR",
-  "last_updated": "2026-10-29 07:15:42",
+  "last_updated": "2026-10-30 07:15:44",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-10-29",
-      "open": 20.78,
-      "high": 21.04,
-      "low": 20.71,
-      "close": 20.8,
-      "volume": 16600
-    },
     {
       "date": "2021-11-01",
       "open": 20.93,
@@ -10044,6 +10028,14 @@
       "low": 42.01,
       "close": 42.34,
       "volume": 156700
+    },
+    {
+      "date": "2026-10-29",
+      "open": 42.74,
+      "high": 43.25,
+      "low": 42.17,
+      "close": 42.43,
+      "volume": 126300
     }
   ]
 }

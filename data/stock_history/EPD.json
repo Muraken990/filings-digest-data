@@ -1,26 +1,10 @@
 {
   "code": "EPD",
   "ticker": "EPD",
-  "last_updated": "2026-10-29 07:33:06",
+  "last_updated": "2026-10-30 07:33:06",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-10-29",
-      "open": 16.52,
-      "high": 16.54,
-      "low": 16.07,
-      "close": 16.22,
-      "volume": 10049000
-    },
     {
       "date": "2021-11-01",
       "open": 16.22,
@@ -1202,7 +1186,7 @@
       "open": 20.71,
       "high": 20.93,
       "low": 20.55,
-      "close": 20.88,
+      "close": 20.89,
       "volume": 3920000
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 37.14,
       "close": 38.06,
       "volume": 6082200
+    },
+    {
+      "date": "2026-10-29",
+      "open": 38.53,
+      "high": 39.23,
+      "low": 38.47,
+      "close": 39.05,
+      "volume": 6866300
     }
   ]
 }

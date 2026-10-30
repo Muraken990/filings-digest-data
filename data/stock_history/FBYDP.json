@@ -1,9 +1,9 @@
 {
   "code": "FBYDP",
   "ticker": "FBYDP",
-  "last_updated": "2026-10-29 07:35:42",
+  "last_updated": "2026-10-30 07:35:38",
   "period": "5y",
-  "data_points": 10,
+  "data_points": 11,
   "data": [
     {
       "date": "2026-10-15",
@@ -79,11 +79,19 @@
     },
     {
       "date": "2026-10-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
+      "open": 8.25,
+      "high": 8.25,
+      "low": 8.0,
+      "close": 8.0,
       "volume": 1618
+    },
+    {
+      "date": "2026-10-29",
+      "open": 8.26,
+      "high": 8.29,
+      "low": 8.0,
+      "close": 8.0,
+      "volume": 3199
     }
   ]
 }
