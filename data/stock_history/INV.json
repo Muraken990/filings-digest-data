@@ -1,9 +1,9 @@
 {
   "code": "INV",
   "ticker": "INV",
-  "last_updated": "2026-10-29 09:41:30",
+  "last_updated": "2026-10-30 09:41:30",
   "period": "5y",
-  "data_points": 1234,
+  "data_points": 1235,
   "data": [
     {
       "date": "2021-11-29",
@@ -9876,6 +9876,14 @@
       "low": 0.27,
       "close": 0.31,
       "volume": 4354200
+    },
+    {
+      "date": "2026-10-29",
+      "open": 0.3,
+      "high": 0.34,
+      "low": 0.29,
+      "close": 0.3,
+      "volume": 4051400
     }
   ]
 }

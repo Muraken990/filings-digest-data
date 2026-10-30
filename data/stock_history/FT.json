@@ -1,26 +1,10 @@
 {
   "code": "FT",
   "ticker": "FT",
-  "last_updated": "2026-10-29 09:30:06",
+  "last_updated": "2026-10-30 09:30:06",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-10-28",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-10-29",
-      "open": 5.73,
-      "high": 5.73,
-      "low": 5.69,
-      "close": 5.71,
-      "volume": 33800
-    },
     {
       "date": "2021-11-01",
       "open": 5.7,
@@ -10044,6 +10028,14 @@
       "low": 7.2,
       "close": 7.26,
       "volume": 97600
+    },
+    {
+      "date": "2026-10-29",
+      "open": 7.26,
+      "high": 7.34,
+      "low": 7.26,
+      "close": 7.31,
+      "volume": 47600
     }
   ]
 }
