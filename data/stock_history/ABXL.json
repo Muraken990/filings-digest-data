@@ -1,9 +1,9 @@
 {
   "code": "ABXL",
   "ticker": "ABXL",
-  "last_updated": "2026-10-30 07:00:09",
+  "last_updated": "2026-10-31 07:00:09",
   "period": "5y",
-  "data_points": 735,
+  "data_points": 736,
   "data": [
     {
       "date": "2023-11-24",
@@ -5884,6 +5884,14 @@
       "low": 25.12,
       "close": 25.25,
       "volume": 9400
+    },
+    {
+      "date": "2026-10-30",
+      "open": 25.25,
+      "high": 25.29,
+      "low": 25.25,
+      "close": 25.27,
+      "volume": 1000
     }
   ]
 }

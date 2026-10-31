@@ -1,9 +1,9 @@
 {
   "code": "FISN",
   "ticker": "FISN",
-  "last_updated": "2026-10-30 07:36:34",
+  "last_updated": "2026-10-31 07:36:43",
   "period": "5y",
-  "data_points": 93,
+  "data_points": 94,
   "data": [
     {
       "date": "2026-06-18",
@@ -748,6 +748,14 @@
       "low": 2.88,
       "close": 3.04,
       "volume": 564000
+    },
+    {
+      "date": "2026-10-30",
+      "open": 2.89,
+      "high": 2.95,
+      "low": 2.5,
+      "close": 2.67,
+      "volume": 450100
     }
   ]
 }

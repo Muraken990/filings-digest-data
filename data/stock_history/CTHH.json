@@ -1,9 +1,9 @@
 {
   "code": "CTHH",
   "ticker": "CTHH",
-  "last_updated": "2026-10-30 07:25:17",
+  "last_updated": "2026-10-31 07:25:17",
   "period": "5y",
-  "data_points": 94,
+  "data_points": 95,
   "data": [
     {
       "date": "2026-06-17",
@@ -756,6 +756,14 @@
       "low": 14.07,
       "close": 14.07,
       "volume": 13000
+    },
+    {
+      "date": "2026-10-30",
+      "open": 14.01,
+      "high": 14.1,
+      "low": 13.9,
+      "close": 13.92,
+      "volume": 34400
     }
   ]
 }

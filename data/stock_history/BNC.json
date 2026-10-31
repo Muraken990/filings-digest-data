@@ -1,9 +1,9 @@
 {
   "code": "BNC",
   "ticker": "BNC",
-  "last_updated": "2026-10-30 07:14:03",
+  "last_updated": "2026-10-31 07:14:03",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-01",
@@ -10035,7 +10035,15 @@
       "high": 5.61,
       "low": 5.36,
       "close": 5.41,
-      "volume": 941700
+      "volume": 988900
+    },
+    {
+      "date": "2026-10-30",
+      "open": 4.95,
+      "high": 5.0,
+      "low": 4.77,
+      "close": 4.95,
+      "volume": 845400
     }
   ]
 }

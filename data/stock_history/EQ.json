@@ -1,9 +1,9 @@
 {
   "code": "EQ",
   "ticker": "EQ",
-  "last_updated": "2026-10-30 07:33:07",
+  "last_updated": "2026-10-31 07:33:12",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-01",
@@ -10035,7 +10035,15 @@
       "high": 1.48,
       "low": 1.39,
       "close": 1.42,
-      "volume": 284900
+      "volume": 299900
+    },
+    {
+      "date": "2026-10-30",
+      "open": 1.38,
+      "high": 1.42,
+      "low": 1.29,
+      "close": 1.37,
+      "volume": 310600
     }
   ]
 }

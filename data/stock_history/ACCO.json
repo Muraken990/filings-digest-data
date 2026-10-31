@@ -1,9 +1,9 @@
 {
   "code": "ACCO",
   "ticker": "ACCO",
-  "last_updated": "2026-10-30 07:00:09",
+  "last_updated": "2026-10-31 07:00:09",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-01",
@@ -3480,7 +3480,7 @@
     {
       "date": "2023-07-26",
       "open": 4.54,
-      "high": 4.7,
+      "high": 4.69,
       "low": 4.54,
       "close": 4.68,
       "volume": 903000
@@ -10035,7 +10035,15 @@
       "high": 4.47,
       "low": 4.33,
       "close": 4.36,
-      "volume": 825000
+      "volume": 850600
+    },
+    {
+      "date": "2026-10-30",
+      "open": 4.97,
+      "high": 5.5,
+      "low": 4.97,
+      "close": 5.5,
+      "volume": 5456700
     }
   ]
 }
