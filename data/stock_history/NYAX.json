@@ -1,9 +1,9 @@
 {
   "code": "NYAX",
   "ticker": "NYAX",
-  "last_updated": "2026-10-30 10:02:16",
+  "last_updated": "2026-10-31 10:02:16",
   "period": "5y",
-  "data_points": 1031,
+  "data_points": 1032,
   "data": [
     {
       "date": "2022-09-21",
@@ -8252,6 +8252,14 @@
       "low": 49.31,
       "close": 50.28,
       "volume": 7800
+    },
+    {
+      "date": "2026-10-30",
+      "open": 49.44,
+      "high": 49.6,
+      "low": 48.01,
+      "close": 48.01,
+      "volume": 20600
     }
   ]
 }

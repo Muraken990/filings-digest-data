@@ -1,18 +1,10 @@
 {
   "code": "NRG",
   "ticker": "NRG",
-  "last_updated": "2026-10-30 10:00:30",
+  "last_updated": "2026-10-31 10:00:30",
   "period": "5y",
   "data_points": 1255,
   "data": [
-    {
-      "date": "2021-10-29",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-11-01",
       "open": 35.27,
@@ -522,7 +514,7 @@
       "open": 35.35,
       "high": 35.66,
       "low": 34.36,
-      "close": 34.56,
+      "close": 34.55,
       "volume": 3660900
     },
     {
@@ -10044,6 +10036,14 @@
       "low": 96.28,
       "close": 97.54,
       "volume": 2898600
+    },
+    {
+      "date": "2026-10-30",
+      "open": 95.7,
+      "high": 97.28,
+      "low": 94.1,
+      "close": 96.06,
+      "volume": 2187700
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "HPAI",
   "ticker": "HPAI",
-  "last_updated": "2026-10-30 09:37:56",
+  "last_updated": "2026-10-31 09:37:55",
   "period": "5y",
-  "data_points": 562,
+  "data_points": 563,
   "data": [
     {
       "date": "2024-08-05",
@@ -4500,6 +4500,14 @@
       "low": 0.25,
       "close": 0.25,
       "volume": 32700
+    },
+    {
+      "date": "2026-10-30",
+      "open": 0.25,
+      "high": 0.26,
+      "low": 0.23,
+      "close": 0.23,
+      "volume": 69200
     }
   ]
 }

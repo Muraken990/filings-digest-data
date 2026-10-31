@@ -1,9 +1,9 @@
 {
   "code": "LSE",
   "ticker": "LSE",
-  "last_updated": "2026-10-30 09:50:06",
+  "last_updated": "2026-10-31 09:50:06",
   "period": "5y",
-  "data_points": 466,
+  "data_points": 467,
   "data": [
     {
       "date": "2024-12-19",
@@ -3732,6 +3732,14 @@
       "low": 4.14,
       "close": 4.55,
       "volume": 1400
+    },
+    {
+      "date": "2026-10-30",
+      "open": 4.41,
+      "high": 4.54,
+      "low": 4.3,
+      "close": 4.32,
+      "volume": 6800
     }
   ]
 }
