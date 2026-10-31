@@ -1,9 +1,9 @@
 {
   "code": "WPRT",
   "ticker": "WPRT",
-  "last_updated": "2026-10-30 12:27:54",
+  "last_updated": "2026-10-31 12:27:59",
   "period": "5y",
-  "data_points": 209,
+  "data_points": 210,
   "data": [
     {
       "date": "2023-06-06",
@@ -1674,8 +1674,16 @@
       "open": 1.91,
       "high": 2.04,
       "low": 1.81,
-      "close": 1.88,
-      "volume": 86219
+      "close": 1.9,
+      "volume": 86473
+    },
+    {
+      "date": "2026-10-30",
+      "open": 1.89,
+      "high": 1.99,
+      "low": 1.85,
+      "close": 1.9,
+      "volume": 55310
     }
   ]
 }

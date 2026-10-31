@@ -1,9 +1,9 @@
 {
   "code": "QNC",
   "ticker": "QNC",
-  "last_updated": "2026-10-30 12:02:44",
+  "last_updated": "2026-10-31 12:02:45",
   "period": "5y",
-  "data_points": 173,
+  "data_points": 174,
   "data": [
     {
       "date": "2026-02-24",
@@ -1388,6 +1388,14 @@
       "low": 1.08,
       "close": 1.11,
       "volume": 281700
+    },
+    {
+      "date": "2026-10-30",
+      "open": 1.07,
+      "high": 1.07,
+      "low": 1.0,
+      "close": 1.0,
+      "volume": 616400
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "PONO",
   "ticker": "PONO",
-  "last_updated": "2026-10-30 12:00:54",
+  "last_updated": "2026-10-31 12:00:56",
   "period": "5y",
-  "data_points": 124,
+  "data_points": 125,
   "data": [
     {
       "date": "2026-05-05",
@@ -996,6 +996,14 @@
       "low": 10.03,
       "close": 10.03,
       "volume": 0
+    },
+    {
+      "date": "2026-10-30",
+      "open": 10.02,
+      "high": 10.03,
+      "low": 10.02,
+      "close": 10.03,
+      "volume": 3900
     }
   ]
 }

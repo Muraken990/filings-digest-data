@@ -1,9 +1,9 @@
 {
   "code": "RR",
   "ticker": "RR",
-  "last_updated": "2026-10-30 12:07:01",
+  "last_updated": "2026-10-31 12:07:03",
   "period": "5y",
-  "data_points": 739,
+  "data_points": 740,
   "data": [
     {
       "date": "2023-11-17",
@@ -5915,7 +5915,15 @@
       "high": 1.09,
       "low": 1.02,
       "close": 1.05,
-      "volume": 6607900
+      "volume": 6625900
+    },
+    {
+      "date": "2026-10-30",
+      "open": 1.01,
+      "high": 1.02,
+      "low": 0.92,
+      "close": 0.94,
+      "volume": 10310000
     }
   ]
 }

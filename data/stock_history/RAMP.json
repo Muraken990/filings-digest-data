@@ -1,9 +1,9 @@
 {
   "code": "RAMP",
   "ticker": "RAMP",
-  "last_updated": "2026-10-30 12:03:34",
+  "last_updated": "2026-10-31 12:03:35",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-01",
@@ -10036,6 +10036,14 @@
       "low": 38.18,
       "close": 38.23,
       "volume": 1173400
+    },
+    {
+      "date": "2026-10-30",
+      "open": 38.5,
+      "high": 38.52,
+      "low": 38.49,
+      "close": 38.5,
+      "volume": 5004500
     }
   ]
 }

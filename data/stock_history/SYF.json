@@ -1,18 +1,10 @@
 {
   "code": "SYF",
   "ticker": "SYF",
-  "last_updated": "2026-10-30 12:15:46",
+  "last_updated": "2026-10-31 12:15:49",
   "period": "5y",
   "data_points": 1255,
   "data": [
-    {
-      "date": "2021-10-29",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-11-01",
       "open": 42.1,
@@ -10044,6 +10036,14 @@
       "low": 76.51,
       "close": 76.97,
       "volume": 3008600
+    },
+    {
+      "date": "2026-10-30",
+      "open": 76.81,
+      "high": 77.0,
+      "low": 74.86,
+      "close": 75.35,
+      "volume": 2919400
     }
   ]
 }
