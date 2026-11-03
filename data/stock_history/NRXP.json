@@ -1,26 +1,10 @@
 {
   "code": "NRXP",
   "ticker": "NRXP",
-  "last_updated": "2026-11-02 10:00:34",
+  "last_updated": "2026-11-03 10:00:26",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 99.6,
-      "high": 104.0,
-      "low": 97.2,
-      "close": 99.1,
-      "volume": 63760
-    },
-    {
-      "date": "2021-11-02",
-      "open": 97.7,
-      "high": 101.4,
-      "low": 90.72,
-      "close": 94.7,
-      "volume": 145690
-    },
     {
       "date": "2021-11-03",
       "open": 95.4,
@@ -10043,7 +10027,15 @@
       "high": 2.84,
       "low": 2.11,
       "close": 2.27,
-      "volume": 15459700
+      "volume": 15641700
+    },
+    {
+      "date": "2026-11-02",
+      "open": 2.32,
+      "high": 2.44,
+      "low": 2.14,
+      "close": 2.17,
+      "volume": 2501300
     }
   ]
 }

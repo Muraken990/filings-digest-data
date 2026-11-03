@@ -1,26 +1,10 @@
 {
   "code": "INBS",
   "ticker": "INBS",
-  "last_updated": "2026-11-02 09:40:40",
+  "last_updated": "2026-11-03 09:40:35",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 5016.0,
-      "high": 5839.2,
-      "low": 4968.0,
-      "close": 5424.0,
-      "volume": 484
-    },
-    {
-      "date": "2021-11-02",
-      "open": 5424.0,
-      "high": 5472.0,
-      "low": 5184.0,
-      "close": 5280.0,
-      "volume": 51
-    },
     {
       "date": "2021-11-03",
       "open": 5280.0,
@@ -10044,6 +10028,14 @@
       "low": 1.69,
       "close": 1.76,
       "volume": 18200
+    },
+    {
+      "date": "2026-11-02",
+      "open": 1.8,
+      "high": 1.8,
+      "low": 1.65,
+      "close": 1.66,
+      "volume": 26500
     }
   ]
 }

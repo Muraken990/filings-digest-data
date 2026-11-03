@@ -1,26 +1,10 @@
 {
   "code": "INM",
   "ticker": "INM",
-  "last_updated": "2026-11-02 09:41:28",
+  "last_updated": "2026-11-03 09:41:23",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 770.0,
-      "high": 800.0,
-      "low": 755.0,
-      "close": 780.0,
-      "volume": 636
-    },
-    {
-      "date": "2021-11-02",
-      "open": 775.0,
-      "high": 775.0,
-      "low": 730.0,
-      "close": 755.0,
-      "volume": 757
-    },
     {
       "date": "2021-11-03",
       "open": 760.0,
@@ -10044,6 +10028,14 @@
       "low": 1.51,
       "close": 1.6,
       "volume": 36700
+    },
+    {
+      "date": "2026-11-02",
+      "open": 1.6,
+      "high": 1.65,
+      "low": 1.49,
+      "close": 1.63,
+      "volume": 139300
     }
   ]
 }

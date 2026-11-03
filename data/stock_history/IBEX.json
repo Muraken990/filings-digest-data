@@ -1,26 +1,10 @@
 {
   "code": "IBEX",
   "ticker": "IBEX",
-  "last_updated": "2026-11-02 09:39:41",
+  "last_updated": "2026-11-03 09:39:36",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 16.95,
-      "high": 17.6,
-      "low": 16.35,
-      "close": 17.6,
-      "volume": 10600
-    },
-    {
-      "date": "2021-11-02",
-      "open": 17.55,
-      "high": 18.48,
-      "low": 17.55,
-      "close": 18.45,
-      "volume": 12000
-    },
     {
       "date": "2021-11-03",
       "open": 18.5,
@@ -10044,6 +10028,14 @@
       "low": 44.63,
       "close": 44.73,
       "volume": 80700
+    },
+    {
+      "date": "2026-11-02",
+      "open": 44.73,
+      "high": 45.28,
+      "low": 44.46,
+      "close": 44.72,
+      "volume": 108400
     }
   ]
 }

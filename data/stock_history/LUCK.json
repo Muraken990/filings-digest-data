@@ -1,26 +1,10 @@
 {
   "code": "LUCK",
   "ticker": "LUCK",
-  "last_updated": "2026-11-02 09:50:09",
+  "last_updated": "2026-11-03 09:50:03",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 9.42,
-      "high": 9.53,
-      "low": 9.4,
-      "close": 9.45,
-      "volume": 230600
-    },
-    {
-      "date": "2021-11-02",
-      "open": 9.43,
-      "high": 9.52,
-      "low": 9.39,
-      "close": 9.39,
-      "volume": 81300
-    },
     {
       "date": "2021-11-03",
       "open": 9.5,
@@ -6098,7 +6082,7 @@
       "open": 11.0,
       "high": 11.49,
       "low": 10.86,
-      "close": 11.47,
+      "close": 11.48,
       "volume": 942100
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 3.81,
       "close": 4.04,
       "volume": 69800
+    },
+    {
+      "date": "2026-11-02",
+      "open": 4.04,
+      "high": 4.28,
+      "low": 4.04,
+      "close": 4.12,
+      "volume": 44600
     }
   ]
 }

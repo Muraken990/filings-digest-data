@@ -1,26 +1,10 @@
 {
   "code": "PDSB",
   "ticker": "PDSB",
-  "last_updated": "2026-11-02 10:06:42",
+  "last_updated": "2026-11-03 10:06:32",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 12.05,
-      "high": 12.79,
-      "low": 11.83,
-      "close": 12.53,
-      "volume": 453700
-    },
-    {
-      "date": "2021-11-02",
-      "open": 12.55,
-      "high": 12.84,
-      "low": 12.02,
-      "close": 12.53,
-      "volume": 386500
-    },
     {
       "date": "2021-11-03",
       "open": 12.43,
@@ -10043,7 +10027,15 @@
       "high": 1.55,
       "low": 1.33,
       "close": 1.44,
-      "volume": 5406700
+      "volume": 5547400
+    },
+    {
+      "date": "2026-11-02",
+      "open": 1.49,
+      "high": 1.49,
+      "low": 1.32,
+      "close": 1.37,
+      "volume": 4120400
     }
   ]
 }

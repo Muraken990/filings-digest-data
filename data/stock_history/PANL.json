@@ -1,26 +1,10 @@
 {
   "code": "PANL",
   "ticker": "PANL",
-  "last_updated": "2026-11-02 10:05:48",
+  "last_updated": "2026-11-03 10:05:38",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 3.49,
-      "high": 3.58,
-      "low": 3.45,
-      "close": 3.53,
-      "volume": 202900
-    },
-    {
-      "date": "2021-11-02",
-      "open": 3.49,
-      "high": 3.53,
-      "low": 3.34,
-      "close": 3.53,
-      "volume": 347400
-    },
     {
       "date": "2021-11-03",
       "open": 3.55,
@@ -1050,7 +1034,7 @@
       "open": 3.93,
       "high": 3.96,
       "low": 3.66,
-      "close": 3.79,
+      "close": 3.8,
       "volume": 386600
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 7.81,
       "close": 7.96,
       "volume": 327600
+    },
+    {
+      "date": "2026-11-02",
+      "open": 7.96,
+      "high": 8.07,
+      "low": 7.53,
+      "close": 7.56,
+      "volume": 360500
     }
   ]
 }
