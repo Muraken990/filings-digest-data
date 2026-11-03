@@ -1,26 +1,10 @@
 {
   "code": "POWWP",
   "ticker": "POWWP",
-  "last_updated": "2026-11-02 12:00:56",
+  "last_updated": "2026-11-03 12:00:56",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 16.76,
-      "high": 16.77,
-      "low": 16.59,
-      "close": 16.75,
-      "volume": 5200
-    },
-    {
-      "date": "2021-11-02",
-      "open": 16.64,
-      "high": 16.84,
-      "low": 16.64,
-      "close": 16.69,
-      "volume": 5500
-    },
     {
       "date": "2021-11-03",
       "open": 16.75,
@@ -10044,6 +10028,14 @@
       "low": 23.98,
       "close": 23.99,
       "volume": 1400
+    },
+    {
+      "date": "2026-11-02",
+      "open": 23.87,
+      "high": 24.0,
+      "low": 23.87,
+      "close": 24.0,
+      "volume": 600
     }
   ]
 }

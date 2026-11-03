@@ -1,26 +1,10 @@
 {
   "code": "PSHG",
   "ticker": "PSHG",
-  "last_updated": "2026-11-02 12:01:50",
+  "last_updated": "2026-11-03 12:01:50",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 79.35,
-      "high": 90.0,
-      "low": 77.7,
-      "close": 86.1,
-      "volume": 28180
-    },
-    {
-      "date": "2021-11-02",
-      "open": 82.2,
-      "high": 83.85,
-      "low": 81.6,
-      "close": 83.1,
-      "volume": 1233
-    },
     {
       "date": "2021-11-03",
       "open": 81.75,
@@ -10044,6 +10028,14 @@
       "low": 1.61,
       "close": 1.63,
       "volume": 30000
+    },
+    {
+      "date": "2026-11-02",
+      "open": 1.64,
+      "high": 1.64,
+      "low": 1.48,
+      "close": 1.53,
+      "volume": 151000
     }
   ]
 }

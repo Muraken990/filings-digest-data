@@ -1,26 +1,10 @@
 {
   "code": "TRVI",
   "ticker": "TRVI",
-  "last_updated": "2026-11-02 12:20:05",
+  "last_updated": "2026-11-03 12:20:02",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 1.2,
-      "high": 1.24,
-      "low": 1.18,
-      "close": 1.22,
-      "volume": 271100
-    },
-    {
-      "date": "2021-11-02",
-      "open": 1.22,
-      "high": 1.23,
-      "low": 1.17,
-      "close": 1.22,
-      "volume": 147200
-    },
     {
       "date": "2021-11-03",
       "open": 1.22,
@@ -10044,6 +10028,14 @@
       "low": 13.44,
       "close": 13.56,
       "volume": 1732000
+    },
+    {
+      "date": "2026-11-02",
+      "open": 13.7,
+      "high": 13.81,
+      "low": 13.21,
+      "close": 13.63,
+      "volume": 1472000
     }
   ]
 }

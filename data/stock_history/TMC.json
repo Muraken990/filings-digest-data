@@ -1,26 +1,10 @@
 {
   "code": "TMC",
   "ticker": "TMC",
-  "last_updated": "2026-11-02 12:18:21",
+  "last_updated": "2026-11-03 12:18:20",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 2.89,
-      "high": 3.11,
-      "low": 2.86,
-      "close": 2.91,
-      "volume": 5931700
-    },
-    {
-      "date": "2021-11-02",
-      "open": 2.95,
-      "high": 3.17,
-      "low": 2.91,
-      "close": 3.11,
-      "volume": 4482600
-    },
     {
       "date": "2021-11-03",
       "open": 3.06,
@@ -10043,7 +10027,15 @@
       "high": 2.72,
       "low": 2.52,
       "close": 2.6,
-      "volume": 3548100
+      "volume": 3571500
+    },
+    {
+      "date": "2026-11-02",
+      "open": 2.64,
+      "high": 2.69,
+      "low": 2.32,
+      "close": 2.33,
+      "volume": 3984600
     }
   ]
 }

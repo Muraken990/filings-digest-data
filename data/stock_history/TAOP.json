@@ -1,26 +1,10 @@
 {
   "code": "TAOP",
   "ticker": "TAOP",
-  "last_updated": "2026-11-02 12:16:33",
+  "last_updated": "2026-11-03 12:16:32",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 909.0,
-      "high": 927.0,
-      "low": 900.0,
-      "close": 924.0,
-      "volume": 148
-    },
-    {
-      "date": "2021-11-02",
-      "open": 918.0,
-      "high": 1074.0,
-      "low": 897.0,
-      "close": 981.0,
-      "volume": 2396
-    },
     {
       "date": "2021-11-03",
       "open": 990.0,
@@ -10044,6 +10028,14 @@
       "low": 0.32,
       "close": 0.33,
       "volume": 6700
+    },
+    {
+      "date": "2026-11-02",
+      "open": 0.34,
+      "high": 0.36,
+      "low": 0.31,
+      "close": 0.34,
+      "volume": 7500
     }
   ]
 }

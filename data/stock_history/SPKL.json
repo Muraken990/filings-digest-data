@@ -1,9 +1,9 @@
 {
   "code": "SPKL",
   "ticker": "SPKL",
-  "last_updated": "2026-11-02 12:13:08",
+  "last_updated": "2026-11-03 12:13:08",
   "period": "5y",
-  "data_points": 75,
+  "data_points": 76,
   "data": [
     {
       "date": "2026-07-17",
@@ -604,6 +604,14 @@
       "low": 11.51,
       "close": 11.51,
       "volume": 4000
+    },
+    {
+      "date": "2026-11-02",
+      "open": 11.51,
+      "high": 11.52,
+      "low": 11.51,
+      "close": 11.52,
+      "volume": 800
     }
   ]
 }

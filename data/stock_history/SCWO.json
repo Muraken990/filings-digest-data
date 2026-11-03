@@ -1,26 +1,10 @@
 {
   "code": "SCWO",
   "ticker": "SCWO",
-  "last_updated": "2026-11-02 12:08:49",
+  "last_updated": "2026-11-03 12:08:49",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 25.0,
-      "high": 25.0,
-      "low": 22.5,
-      "close": 25.0,
-      "volume": 1090
-    },
-    {
-      "date": "2021-11-02",
-      "open": 24.6,
-      "high": 25.4,
-      "low": 24.6,
-      "close": 25.0,
-      "volume": 850
-    },
     {
       "date": "2021-11-03",
       "open": 25.0,
@@ -10044,6 +10028,14 @@
       "low": 2.41,
       "close": 2.46,
       "volume": 14500
+    },
+    {
+      "date": "2026-11-02",
+      "open": 2.46,
+      "high": 2.6,
+      "low": 2.33,
+      "close": 2.54,
+      "volume": 27000
     }
   ]
 }

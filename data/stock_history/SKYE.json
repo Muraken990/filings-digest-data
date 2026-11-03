@@ -1,26 +1,10 @@
 {
   "code": "SKYE",
   "ticker": "SKYE",
-  "last_updated": "2026-11-02 12:11:20",
+  "last_updated": "2026-11-03 12:11:21",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 132.0,
-      "high": 176.0,
-      "low": 126.0,
-      "close": 154.0,
-      "volume": 2082
-    },
-    {
-      "date": "2021-11-02",
-      "open": 160.0,
-      "high": 168.0,
-      "low": 150.0,
-      "close": 160.0,
-      "volume": 681
-    },
     {
       "date": "2021-11-03",
       "open": 150.0,
@@ -10044,6 +10028,14 @@
       "low": 1.28,
       "close": 1.28,
       "volume": 40600
+    },
+    {
+      "date": "2026-11-02",
+      "open": 1.28,
+      "high": 1.36,
+      "low": 1.28,
+      "close": 1.32,
+      "volume": 9700
     }
   ]
 }

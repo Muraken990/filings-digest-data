@@ -1,26 +1,10 @@
 {
   "code": "PSIX",
   "ticker": "PSIX",
-  "last_updated": "2026-11-02 12:01:50",
+  "last_updated": "2026-11-03 12:01:50",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 4.35,
-      "high": 4.35,
-      "low": 4.35,
-      "close": 4.35,
-      "volume": 100
-    },
-    {
-      "date": "2021-11-02",
-      "open": 4.25,
-      "high": 4.25,
-      "low": 4.25,
-      "close": 4.25,
-      "volume": 100
-    },
     {
       "date": "2021-11-03",
       "open": 4.2,
@@ -10044,6 +10028,14 @@
       "low": 44.23,
       "close": 45.73,
       "volume": 467400
+    },
+    {
+      "date": "2026-11-02",
+      "open": 46.99,
+      "high": 48.19,
+      "low": 45.0,
+      "close": 46.31,
+      "volume": 390200
     }
   ]
 }

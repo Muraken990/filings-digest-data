@@ -1,9 +1,9 @@
 {
   "code": "STRD",
   "ticker": "STRD",
-  "last_updated": "2026-11-02 12:14:51",
+  "last_updated": "2026-11-03 12:14:50",
   "period": "5y",
-  "data_points": 353,
+  "data_points": 354,
   "data": [
     {
       "date": "2025-06-06",
@@ -751,7 +751,7 @@
     },
     {
       "date": "2025-10-20",
-      "open": 69.34,
+      "open": 69.33,
       "high": 70.75,
       "low": 69.25,
       "close": 69.48,
@@ -2828,6 +2828,14 @@
       "low": 69.4,
       "close": 69.75,
       "volume": 107600
+    },
+    {
+      "date": "2026-11-02",
+      "open": 70.06,
+      "high": 71.0,
+      "low": 69.65,
+      "close": 69.65,
+      "volume": 50700
     }
   ]
 }
