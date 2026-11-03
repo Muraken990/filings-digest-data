@@ -1,26 +1,10 @@
 {
   "code": "ATOS",
   "ticker": "ATOS",
-  "last_updated": "2026-11-02 07:08:48",
+  "last_updated": "2026-11-03 07:08:48",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 38.4,
-      "high": 42.3,
-      "low": 38.25,
-      "close": 42.15,
-      "volume": 305540
-    },
-    {
-      "date": "2021-11-02",
-      "open": 41.7,
-      "high": 42.15,
-      "low": 40.05,
-      "close": 41.7,
-      "volume": 156780
-    },
     {
       "date": "2021-11-03",
       "open": 41.25,
@@ -10044,6 +10028,14 @@
       "low": 2.14,
       "close": 2.17,
       "volume": 32900
+    },
+    {
+      "date": "2026-11-02",
+      "open": 2.21,
+      "high": 2.4,
+      "low": 2.21,
+      "close": 2.3,
+      "volume": 62900
     }
   ]
 }

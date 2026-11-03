@@ -1,26 +1,10 @@
 {
   "code": "ACXP",
   "ticker": "ACXP",
-  "last_updated": "2026-11-02 07:01:00",
+  "last_updated": "2026-11-03 07:01:00",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 100.2,
-      "high": 111.6,
-      "low": 100.2,
-      "close": 109.4,
-      "volume": 3590
-    },
-    {
-      "date": "2021-11-02",
-      "open": 107.4,
-      "high": 109.2,
-      "low": 101.3,
-      "close": 107.6,
-      "volume": 1635
-    },
     {
       "date": "2021-11-03",
       "open": 107.0,
@@ -10044,6 +10028,14 @@
       "low": 1.03,
       "close": 1.04,
       "volume": 63200
+    },
+    {
+      "date": "2026-11-02",
+      "open": 1.08,
+      "high": 1.12,
+      "low": 1.04,
+      "close": 1.07,
+      "volume": 142700
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "ABOS",
   "ticker": "ABOS",
-  "last_updated": "2026-11-02 07:00:07",
+  "last_updated": "2026-11-03 07:00:07",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 14.05,
-      "high": 14.72,
-      "low": 13.61,
-      "close": 13.87,
-      "volume": 27700
-    },
-    {
-      "date": "2021-11-02",
-      "open": 13.7,
-      "high": 14.91,
-      "low": 13.1,
-      "close": 13.54,
-      "volume": 51700
-    },
     {
       "date": "2021-11-03",
       "open": 13.61,
@@ -10043,7 +10027,15 @@
       "high": 0.35,
       "low": 0.21,
       "close": 0.21,
-      "volume": 66552400
+      "volume": 68105000
+    },
+    {
+      "date": "2026-11-02",
+      "open": 0.2,
+      "high": 0.27,
+      "low": 0.2,
+      "close": 0.24,
+      "volume": 33341700
     }
   ]
 }

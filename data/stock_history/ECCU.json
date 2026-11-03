@@ -1,9 +1,9 @@
 {
   "code": "ECCU",
   "ticker": "ECCU",
-  "last_updated": "2026-11-02 07:30:34",
+  "last_updated": "2026-11-03 07:30:30",
   "period": "5y",
-  "data_points": 467,
+  "data_points": 468,
   "data": [
     {
       "date": "2024-12-19",
@@ -3740,6 +3740,14 @@
       "low": 25.0,
       "close": 25.0,
       "volume": 400
+    },
+    {
+      "date": "2026-11-02",
+      "open": 25.01,
+      "high": 25.03,
+      "low": 24.97,
+      "close": 24.97,
+      "volume": 5000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "AVBC",
   "ticker": "AVBC",
-  "last_updated": "2026-11-02 07:09:38",
+  "last_updated": "2026-11-03 07:09:38",
   "period": "5y",
-  "data_points": 315,
+  "data_points": 316,
   "data": [
     {
       "date": "2025-08-01",
@@ -2524,6 +2524,14 @@
       "low": 23.43,
       "close": 23.5,
       "volume": 122000
+    },
+    {
+      "date": "2026-11-02",
+      "open": 23.64,
+      "high": 24.0,
+      "low": 23.37,
+      "close": 23.61,
+      "volume": 129500
     }
   ]
 }

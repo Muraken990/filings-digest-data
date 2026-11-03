@@ -1,26 +1,10 @@
 {
   "code": "BIVI",
   "ticker": "BIVI",
-  "last_updated": "2026-11-02 07:13:10",
+  "last_updated": "2026-11-03 07:13:10",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 621.0,
-      "high": 676.0,
-      "low": 601.2,
-      "close": 660.0,
-      "volume": 784
-    },
-    {
-      "date": "2021-11-02",
-      "open": 660.0,
-      "high": 685.0,
-      "low": 627.0,
-      "close": 641.0,
-      "volume": 831
-    },
     {
       "date": "2021-11-03",
       "open": 631.0,
@@ -10044,6 +10028,14 @@
       "low": 1.38,
       "close": 1.43,
       "volume": 105100
+    },
+    {
+      "date": "2026-11-02",
+      "open": 1.41,
+      "high": 1.43,
+      "low": 1.31,
+      "close": 1.37,
+      "volume": 120500
     }
   ]
 }

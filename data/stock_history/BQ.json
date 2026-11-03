@@ -1,26 +1,10 @@
 {
   "code": "BQ",
   "ticker": "BQ",
-  "last_updated": "2026-11-02 07:14:55",
+  "last_updated": "2026-11-03 07:14:55",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 406.0,
-      "high": 414.0,
-      "low": 402.0,
-      "close": 402.0,
-      "volume": 1554
-    },
-    {
-      "date": "2021-11-02",
-      "open": 400.0,
-      "high": 408.0,
-      "low": 386.0,
-      "close": 396.0,
-      "volume": 856
-    },
     {
       "date": "2021-11-03",
       "open": 390.0,
@@ -10044,6 +10028,14 @@
       "low": 0.47,
       "close": 0.48,
       "volume": 57000
+    },
+    {
+      "date": "2026-11-02",
+      "open": 0.5,
+      "high": 0.5,
+      "low": 0.47,
+      "close": 0.48,
+      "volume": 14600
     }
   ]
 }

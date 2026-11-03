@@ -1,26 +1,10 @@
 {
   "code": "CGTX",
   "ticker": "CGTX",
-  "last_updated": "2026-11-02 07:20:05",
+  "last_updated": "2026-11-03 07:20:01",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 12.01,
-      "high": 12.1,
-      "low": 12.0,
-      "close": 12.1,
-      "volume": 9500
-    },
-    {
-      "date": "2021-11-02",
-      "open": 12.0,
-      "high": 12.76,
-      "low": 12.0,
-      "close": 12.21,
-      "volume": 159800
-    },
     {
       "date": "2021-11-03",
       "open": 12.71,
@@ -10044,6 +10028,14 @@
       "low": 0.64,
       "close": 0.7,
       "volume": 557500
+    },
+    {
+      "date": "2026-11-02",
+      "open": 0.7,
+      "high": 0.74,
+      "low": 0.7,
+      "close": 0.71,
+      "volume": 346500
     }
   ]
 }

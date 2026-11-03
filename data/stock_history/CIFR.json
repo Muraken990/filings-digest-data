@@ -1,26 +1,10 @@
 {
   "code": "CIFR",
   "ticker": "CIFR",
-  "last_updated": "2026-11-02 07:20:56",
+  "last_updated": "2026-11-03 07:20:53",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 7.9,
-      "high": 9.98,
-      "low": 7.71,
-      "close": 9.85,
-      "volume": 7619200
-    },
-    {
-      "date": "2021-11-02",
-      "open": 8.7,
-      "high": 9.09,
-      "low": 8.19,
-      "close": 8.99,
-      "volume": 2168300
-    },
     {
       "date": "2021-11-03",
       "open": 8.71,
@@ -10043,7 +10027,15 @@
       "high": 7.99,
       "low": 6.93,
       "close": 7.29,
-      "volume": 56512500
+      "volume": 56617500
+    },
+    {
+      "date": "2026-11-02",
+      "open": 7.36,
+      "high": 7.39,
+      "low": 6.62,
+      "close": 6.86,
+      "volume": 53482100
     }
   ]
 }

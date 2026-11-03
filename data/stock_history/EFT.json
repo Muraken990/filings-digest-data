@@ -1,26 +1,10 @@
 {
   "code": "EFT",
   "ticker": "EFT",
-  "last_updated": "2026-11-02 07:31:24",
+  "last_updated": "2026-11-03 07:31:20",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-01",
-      "open": 9.42,
-      "high": 9.44,
-      "low": 9.37,
-      "close": 9.43,
-      "volume": 51500
-    },
-    {
-      "date": "2021-11-02",
-      "open": 9.46,
-      "high": 9.47,
-      "low": 9.41,
-      "close": 9.45,
-      "volume": 70500
-    },
     {
       "date": "2021-11-03",
       "open": 9.48,
@@ -10044,6 +10028,14 @@
       "low": 10.58,
       "close": 10.62,
       "volume": 65900
+    },
+    {
+      "date": "2026-11-02",
+      "open": 10.6,
+      "high": 10.62,
+      "low": 10.56,
+      "close": 10.56,
+      "volume": 127600
     }
   ]
 }
