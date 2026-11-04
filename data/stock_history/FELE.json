@@ -1,17 +1,17 @@
 {
   "code": "FELE",
   "ticker": "FELE",
-  "last_updated": "2026-11-03 07:35:48",
+  "last_updated": "2026-11-04 07:35:40",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-03",
-      "open": 84.93,
-      "high": 85.63,
-      "low": 83.2,
-      "close": 85.21,
-      "volume": 132200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-04",
@@ -826,7 +826,7 @@
       "open": 81.52,
       "high": 82.05,
       "low": 79.2,
-      "close": 79.3,
+      "close": 79.29,
       "volume": 224500
     },
     {
@@ -3345,7 +3345,7 @@
       "date": "2023-07-05",
       "open": 99.21,
       "high": 99.21,
-      "low": 97.51,
+      "low": 97.5,
       "close": 97.65,
       "volume": 138600
     },
@@ -10036,6 +10036,14 @@
       "low": 98.79,
       "close": 100.3,
       "volume": 332500
+    },
+    {
+      "date": "2026-11-03",
+      "open": 100.8,
+      "high": 102.13,
+      "low": 100.0,
+      "close": 100.96,
+      "volume": 445600
     }
   ]
 }
