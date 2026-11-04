@@ -1,9 +1,9 @@
 {
   "code": "USDE",
   "ticker": "USDE",
-  "last_updated": "2026-11-03 12:22:38",
+  "last_updated": "2026-11-04 12:22:41",
   "period": "5y",
-  "data_points": 90,
+  "data_points": 91,
   "data": [
     {
       "date": "2026-06-26",
@@ -724,6 +724,14 @@
       "low": 7.42,
       "close": 7.65,
       "volume": 1031000
+    },
+    {
+      "date": "2026-11-03",
+      "open": 7.76,
+      "high": 8.33,
+      "low": 7.74,
+      "close": 7.84,
+      "volume": 565200
     }
   ]
 }

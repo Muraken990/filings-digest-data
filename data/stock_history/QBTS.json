@@ -1,18 +1,10 @@
 {
   "code": "QBTS",
   "ticker": "QBTS",
-  "last_updated": "2026-11-03 12:02:42",
+  "last_updated": "2026-11-04 12:02:42",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-03",
-      "open": 9.8,
-      "high": 9.82,
-      "low": 9.8,
-      "close": 9.82,
-      "volume": 8500
-    },
     {
       "date": "2021-11-04",
       "open": 9.82,
@@ -10035,7 +10027,15 @@
       "high": 10.93,
       "low": 10.02,
       "close": 10.09,
-      "volume": 11559800
+      "volume": 11584000
+    },
+    {
+      "date": "2026-11-03",
+      "open": 10.16,
+      "high": 10.51,
+      "low": 10.13,
+      "close": 10.37,
+      "volume": 8476300
     }
   ]
 }

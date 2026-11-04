@@ -1,9 +1,9 @@
 {
   "code": "USGO",
   "ticker": "USGO",
-  "last_updated": "2026-11-03 12:22:39",
+  "last_updated": "2026-11-04 12:22:41",
   "period": "5y",
-  "data_points": 888,
+  "data_points": 889,
   "data": [
     {
       "date": "2023-04-20",
@@ -7108,6 +7108,14 @@
       "low": 5.3,
       "close": 5.71,
       "volume": 157700
+    },
+    {
+      "date": "2026-11-03",
+      "open": 5.68,
+      "high": 5.76,
+      "low": 4.92,
+      "close": 4.95,
+      "volume": 161100
     }
   ]
 }
