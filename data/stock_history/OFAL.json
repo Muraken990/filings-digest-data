@@ -1,9 +1,9 @@
 {
   "code": "OFAL",
   "ticker": "OFAL",
-  "last_updated": "2026-11-03 10:03:00",
+  "last_updated": "2026-11-04 10:03:00",
   "period": "5y",
-  "data_points": 365,
+  "data_points": 366,
   "data": [
     {
       "date": "2025-05-21",
@@ -2924,6 +2924,14 @@
       "low": 0.24,
       "close": 0.25,
       "volume": 175300
+    },
+    {
+      "date": "2026-11-03",
+      "open": 0.25,
+      "high": 0.27,
+      "low": 0.23,
+      "close": 0.25,
+      "volume": 86200
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "MYSE",
   "ticker": "MYSE",
-  "last_updated": "2026-11-03 09:56:56",
+  "last_updated": "2026-11-04 09:56:56",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-03",
-      "open": 80.4,
-      "high": 81.4,
-      "low": 78.75,
-      "close": 79.3,
-      "volume": 155120
-    },
     {
       "date": "2021-11-04",
       "open": 79.8,
@@ -10036,6 +10028,14 @@
       "low": 1.35,
       "close": 1.35,
       "volume": 23500
+    },
+    {
+      "date": "2026-11-03",
+      "open": 1.35,
+      "high": 1.38,
+      "low": 1.31,
+      "close": 1.31,
+      "volume": 20200
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "NHS",
   "ticker": "NHS",
-  "last_updated": "2026-11-03 09:58:42",
+  "last_updated": "2026-11-04 09:58:42",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-03",
-      "open": 6.61,
-      "high": 6.63,
-      "low": 6.52,
-      "close": 6.58,
-      "volume": 27000
-    },
     {
       "date": "2021-11-04",
       "open": 6.59,
@@ -10036,6 +10028,14 @@
       "low": 5.51,
       "close": 5.53,
       "volume": 316000
+    },
+    {
+      "date": "2026-11-03",
+      "open": 5.54,
+      "high": 5.54,
+      "low": 5.52,
+      "close": 5.54,
+      "volume": 117400
     }
   ]
 }
