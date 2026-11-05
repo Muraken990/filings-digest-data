@@ -1,12 +1,20 @@
 {
   "code": "MGPI",
   "ticker": "MGPI",
-  "last_updated": "2026-11-04 09:52:39",
+  "last_updated": "2026-11-05 09:52:44",
   "period": "5y",
-  "data_points": 4,
+  "data_points": 6,
   "data": [
     {
       "date": "2022-03-10",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
+    },
+    {
+      "date": "2022-05-19",
       "open": null,
       "high": null,
       "low": null,
@@ -34,8 +42,16 @@
       "open": 17.58,
       "high": 17.58,
       "low": 16.68,
-      "close": 17.0,
-      "volume": 188011
+      "close": 16.98,
+      "volume": 188015
+    },
+    {
+      "date": "2026-11-04",
+      "open": 17.38,
+      "high": 18.31,
+      "low": 16.76,
+      "close": 17.88,
+      "volume": 229033
     }
   ]
 }

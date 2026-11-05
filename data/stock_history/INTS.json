@@ -1,9 +1,9 @@
 {
   "code": "INTS",
   "ticker": "INTS",
-  "last_updated": "2026-11-04 09:41:24",
+  "last_updated": "2026-11-05 09:41:29",
   "period": "5y",
-  "data_points": 840,
+  "data_points": 841,
   "data": [
     {
       "date": "2023-06-30",
@@ -6724,6 +6724,14 @@
       "low": 3.19,
       "close": 3.38,
       "volume": 5800
+    },
+    {
+      "date": "2026-11-04",
+      "open": 3.3,
+      "high": 3.58,
+      "low": 3.3,
+      "close": 3.5,
+      "volume": 6800
     }
   ]
 }
