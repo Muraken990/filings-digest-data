@@ -1,17 +1,17 @@
 {
   "code": "PNFP",
   "ticker": "PNFP",
-  "last_updated": "2026-11-04 12:00:08",
+  "last_updated": "2026-11-05 12:00:09",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-04",
-      "open": 95.1,
-      "high": 96.18,
-      "low": 91.9,
-      "close": 92.98,
-      "volume": 226000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-05",
@@ -3634,7 +3634,7 @@
       "open": 64.09,
       "high": 64.82,
       "low": 62.14,
-      "close": 62.88,
+      "close": 62.89,
       "volume": 441000
     },
     {
@@ -10036,6 +10036,14 @@
       "low": 102.75,
       "close": 102.9,
       "volume": 1471600
+    },
+    {
+      "date": "2026-11-04",
+      "open": 105.66,
+      "high": 107.09,
+      "low": 103.09,
+      "close": 104.26,
+      "volume": 1349000
     }
   ]
 }

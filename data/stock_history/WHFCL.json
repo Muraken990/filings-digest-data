@@ -1,9 +1,9 @@
 {
   "code": "WHFCL",
   "ticker": "WHFCL",
-  "last_updated": "2026-11-04 12:26:59",
+  "last_updated": "2026-11-05 12:27:00",
   "period": "5y",
-  "data_points": 800,
+  "data_points": 801,
   "data": [
     {
       "date": "2023-08-28",
@@ -1609,7 +1609,7 @@
       "date": "2024-06-13",
       "open": 21.07,
       "high": 21.1,
-      "low": 21.01,
+      "low": 21.0,
       "close": 21.04,
       "volume": 4300
     },
@@ -6404,6 +6404,14 @@
       "low": 25.15,
       "close": 25.15,
       "volume": 2900
+    },
+    {
+      "date": "2026-11-04",
+      "open": 25.21,
+      "high": 25.21,
+      "low": 25.18,
+      "close": 25.21,
+      "volume": 1900
     }
   ]
 }

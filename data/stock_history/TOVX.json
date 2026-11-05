@@ -1,18 +1,10 @@
 {
   "code": "TOVX",
   "ticker": "TOVX",
-  "last_updated": "2026-11-04 12:19:12",
+  "last_updated": "2026-11-05 12:19:12",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-04",
-      "open": 110.0,
-      "high": 112.5,
-      "low": 107.5,
-      "close": 107.5,
-      "volume": 7166
-    },
     {
       "date": "2021-11-05",
       "open": 107.5,
@@ -10035,7 +10027,15 @@
       "high": 0.2,
       "low": 0.18,
       "close": 0.18,
-      "volume": 2359600
+      "volume": 2377800
+    },
+    {
+      "date": "2026-11-04",
+      "open": 0.18,
+      "high": 0.2,
+      "low": 0.18,
+      "close": 0.19,
+      "volume": 1072600
     }
   ]
 }
