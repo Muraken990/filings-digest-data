@@ -1,9 +1,9 @@
 {
   "code": "FCBM",
   "ticker": "FCBM",
-  "last_updated": "2026-11-04 07:35:36",
+  "last_updated": "2026-11-05 07:35:42",
   "period": "5y",
-  "data_points": 96,
+  "data_points": 97,
   "data": [
     {
       "date": "2026-06-18",
@@ -772,6 +772,14 @@
       "low": 13.0,
       "close": 13.3,
       "volume": 307300
+    },
+    {
+      "date": "2026-11-04",
+      "open": 13.48,
+      "high": 13.69,
+      "low": 13.25,
+      "close": 13.5,
+      "volume": 316300
     }
   ]
 }

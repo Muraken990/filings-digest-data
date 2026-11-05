@@ -1,26 +1,10 @@
 {
   "code": "FMX",
   "ticker": "FMX",
-  "last_updated": "2026-11-04 07:37:22",
+  "last_updated": "2026-11-05 07:37:29",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-03",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-11-04",
-      "open": 68.62,
-      "high": 69.3,
-      "low": 67.77,
-      "close": 68.91,
-      "volume": 604700
-    },
     {
       "date": "2021-11-05",
       "open": 69.24,
@@ -10044,6 +10028,14 @@
       "low": 125.13,
       "close": 127.03,
       "volume": 612300
+    },
+    {
+      "date": "2026-11-04",
+      "open": 128.8,
+      "high": 131.43,
+      "low": 128.52,
+      "close": 130.18,
+      "volume": 854800
     }
   ]
 }

@@ -1,18 +1,10 @@
 {
   "code": "ACB",
   "ticker": "ACB",
-  "last_updated": "2026-11-04 07:00:09",
+  "last_updated": "2026-11-05 07:00:10",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-04",
-      "open": 70.1,
-      "high": 70.7,
-      "low": 67.8,
-      "close": 68.5,
-      "volume": 320890
-    },
     {
       "date": "2021-11-05",
       "open": 68.3,
@@ -10035,7 +10027,15 @@
       "high": 5.2,
       "low": 4.71,
       "close": 5.16,
-      "volume": 8928600
+      "volume": 9011600
+    },
+    {
+      "date": "2026-11-04",
+      "open": 5.16,
+      "high": 5.26,
+      "low": 5.1,
+      "close": 5.24,
+      "volume": 3182400
     }
   ]
 }
