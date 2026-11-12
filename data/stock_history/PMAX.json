@@ -1,9 +1,9 @@
 {
   "code": "PMAX",
   "ticker": "PMAX",
-  "last_updated": "2026-11-05 12:00:06",
+  "last_updated": "2026-11-12 12:00:07",
   "period": "5y",
-  "data_points": 544,
+  "data_points": 549,
   "data": [
     {
       "date": "2024-09-05",
@@ -4355,7 +4355,47 @@
       "high": 1.09,
       "low": 0.73,
       "close": 1.04,
-      "volume": 9363200
+      "volume": 9678400
+    },
+    {
+      "date": "2026-11-05",
+      "open": 0.88,
+      "high": 0.92,
+      "low": 0.64,
+      "close": 0.84,
+      "volume": 1276200
+    },
+    {
+      "date": "2026-11-06",
+      "open": 0.82,
+      "high": 0.94,
+      "low": 0.79,
+      "close": 0.86,
+      "volume": 240700
+    },
+    {
+      "date": "2026-11-09",
+      "open": 0.81,
+      "high": 0.85,
+      "low": 0.71,
+      "close": 0.8,
+      "volume": 140400
+    },
+    {
+      "date": "2026-11-10",
+      "open": 0.8,
+      "high": 0.86,
+      "low": 0.78,
+      "close": 0.8,
+      "volume": 418400
+    },
+    {
+      "date": "2026-11-11",
+      "open": 0.8,
+      "high": 0.82,
+      "low": 0.74,
+      "close": 0.8,
+      "volume": 260600
     }
   ]
 }

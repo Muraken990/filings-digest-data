@@ -1,9 +1,9 @@
 {
   "code": "PMI",
   "ticker": "PMI",
-  "last_updated": "2026-11-05 12:00:07",
+  "last_updated": "2026-11-12 12:00:07",
   "period": "5y",
-  "data_points": 298,
+  "data_points": 303,
   "data": [
     {
       "date": "2025-08-29",
@@ -2388,6 +2388,46 @@
       "low": 7.19,
       "close": 7.19,
       "volume": 31800
+    },
+    {
+      "date": "2026-11-05",
+      "open": 7.3,
+      "high": 8.01,
+      "low": 6.56,
+      "close": 7.85,
+      "volume": 57900
+    },
+    {
+      "date": "2026-11-06",
+      "open": 7.85,
+      "high": 9.14,
+      "low": 7.68,
+      "close": 9.0,
+      "volume": 44900
+    },
+    {
+      "date": "2026-11-09",
+      "open": 8.16,
+      "high": 8.77,
+      "low": 8.0,
+      "close": 8.44,
+      "volume": 19700
+    },
+    {
+      "date": "2026-11-10",
+      "open": 8.11,
+      "high": 8.51,
+      "low": 7.86,
+      "close": 8.05,
+      "volume": 22800
+    },
+    {
+      "date": "2026-11-11",
+      "open": 8.22,
+      "high": 8.26,
+      "low": 7.8,
+      "close": 8.04,
+      "volume": 16600
     }
   ]
 }
