@@ -1,9 +1,9 @@
 {
   "code": "GNTA",
   "ticker": "GNTA",
-  "last_updated": "2026-11-05 09:33:37",
+  "last_updated": "2026-11-12 09:33:37",
   "period": "5y",
-  "data_points": 2,
+  "data_points": 6,
   "data": [
     {
       "date": "2026-11-03",
@@ -19,7 +19,39 @@
       "high": 0.8,
       "low": 0.66,
       "close": 0.7,
-      "volume": 189123
+      "volume": 189888
+    },
+    {
+      "date": "2026-11-05",
+      "open": 0.67,
+      "high": 0.68,
+      "low": 0.56,
+      "close": 0.65,
+      "volume": 158708
+    },
+    {
+      "date": "2026-11-06",
+      "open": 0.64,
+      "high": 0.72,
+      "low": 0.6,
+      "close": 0.67,
+      "volume": 107604
+    },
+    {
+      "date": "2026-11-09",
+      "open": 0.68,
+      "high": 0.72,
+      "low": 0.62,
+      "close": 0.68,
+      "volume": 25233
+    },
+    {
+      "date": "2026-11-10",
+      "open": 0.75,
+      "high": 0.75,
+      "low": 0.68,
+      "close": 0.69,
+      "volume": 32610
     }
   ]
 }

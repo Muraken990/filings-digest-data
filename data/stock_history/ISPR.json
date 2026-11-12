@@ -1,9 +1,9 @@
 {
   "code": "ISPR",
   "ticker": "ISPR",
-  "last_updated": "2026-11-05 09:42:22",
+  "last_updated": "2026-11-12 09:42:26",
   "period": "5y",
-  "data_points": 901,
+  "data_points": 906,
   "data": [
     {
       "date": "2023-04-04",
@@ -7212,6 +7212,46 @@
       "low": 1.47,
       "close": 1.5,
       "volume": 3900
+    },
+    {
+      "date": "2026-11-05",
+      "open": 1.47,
+      "high": 1.47,
+      "low": 1.39,
+      "close": 1.43,
+      "volume": 24600
+    },
+    {
+      "date": "2026-11-06",
+      "open": 1.45,
+      "high": 1.55,
+      "low": 1.4,
+      "close": 1.55,
+      "volume": 39100
+    },
+    {
+      "date": "2026-11-09",
+      "open": 1.39,
+      "high": 1.67,
+      "low": 1.39,
+      "close": 1.67,
+      "volume": 32700
+    },
+    {
+      "date": "2026-11-10",
+      "open": 1.57,
+      "high": 1.71,
+      "low": 1.47,
+      "close": 1.71,
+      "volume": 25200
+    },
+    {
+      "date": "2026-11-11",
+      "open": 1.64,
+      "high": 1.78,
+      "low": 1.64,
+      "close": 1.78,
+      "volume": 13000
     }
   ]
 }
