@@ -1,9 +1,9 @@
 {
   "code": "ANY",
   "ticker": "ANY",
-  "last_updated": "2026-11-05 07:06:09",
+  "last_updated": "2026-11-13 07:06:09",
   "period": "5y",
-  "data_points": 78,
+  "data_points": 84,
   "data": [
     {
       "date": "2026-07-17",
@@ -628,6 +628,54 @@
       "low": 1.72,
       "close": 1.72,
       "volume": 204700
+    },
+    {
+      "date": "2026-11-05",
+      "open": 1.73,
+      "high": 1.74,
+      "low": 1.53,
+      "close": 1.57,
+      "volume": 231000
+    },
+    {
+      "date": "2026-11-06",
+      "open": 1.51,
+      "high": 1.6,
+      "low": 1.5,
+      "close": 1.57,
+      "volume": 48800
+    },
+    {
+      "date": "2026-11-09",
+      "open": 1.59,
+      "high": 1.71,
+      "low": 1.59,
+      "close": 1.7,
+      "volume": 98500
+    },
+    {
+      "date": "2026-11-10",
+      "open": 1.7,
+      "high": 1.73,
+      "low": 1.6,
+      "close": 1.63,
+      "volume": 38900
+    },
+    {
+      "date": "2026-11-11",
+      "open": 1.69,
+      "high": 1.75,
+      "low": 1.63,
+      "close": 1.74,
+      "volume": 32800
+    },
+    {
+      "date": "2026-11-12",
+      "open": 1.69,
+      "high": 1.74,
+      "low": 1.63,
+      "close": 1.66,
+      "volume": 26800
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "ENRD",
   "ticker": "ENRD",
-  "last_updated": "2026-11-05 07:32:16",
+  "last_updated": "2026-11-13 07:32:15",
   "period": "5y",
-  "data_points": 103,
+  "data_points": 109,
   "data": [
     {
       "date": "2026-06-10",
@@ -828,6 +828,54 @@
       "low": 1.9,
       "close": 1.94,
       "volume": 117800
+    },
+    {
+      "date": "2026-11-05",
+      "open": 1.92,
+      "high": 2.02,
+      "low": 1.73,
+      "close": 1.78,
+      "volume": 123200
+    },
+    {
+      "date": "2026-11-06",
+      "open": 1.88,
+      "high": 1.94,
+      "low": 1.8,
+      "close": 1.9,
+      "volume": 27000
+    },
+    {
+      "date": "2026-11-09",
+      "open": 1.92,
+      "high": 2.04,
+      "low": 1.92,
+      "close": 1.99,
+      "volume": 44600
+    },
+    {
+      "date": "2026-11-10",
+      "open": 2.0,
+      "high": 2.24,
+      "low": 1.84,
+      "close": 1.98,
+      "volume": 84800
+    },
+    {
+      "date": "2026-11-11",
+      "open": 1.91,
+      "high": 2.16,
+      "low": 1.91,
+      "close": 2.09,
+      "volume": 33500
+    },
+    {
+      "date": "2026-11-12",
+      "open": 2.08,
+      "high": 2.23,
+      "low": 2.01,
+      "close": 2.18,
+      "volume": 25100
     }
   ]
 }

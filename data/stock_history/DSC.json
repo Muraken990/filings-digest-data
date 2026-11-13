@@ -1,9 +1,9 @@
 {
   "code": "DSC",
   "ticker": "DSC",
-  "last_updated": "2026-11-05 07:28:49",
+  "last_updated": "2026-11-13 07:28:48",
   "period": "5y",
-  "data_points": 93,
+  "data_points": 99,
   "data": [
     {
       "date": "2026-06-25",
@@ -748,6 +748,54 @@
       "low": 2.96,
       "close": 3.2,
       "volume": 35300
+    },
+    {
+      "date": "2026-11-05",
+      "open": 3.0,
+      "high": 3.03,
+      "low": 2.69,
+      "close": 2.73,
+      "volume": 18000
+    },
+    {
+      "date": "2026-11-06",
+      "open": 2.52,
+      "high": 2.84,
+      "low": 2.52,
+      "close": 2.69,
+      "volume": 22000
+    },
+    {
+      "date": "2026-11-09",
+      "open": 2.7,
+      "high": 2.8,
+      "low": 2.35,
+      "close": 2.59,
+      "volume": 40800
+    },
+    {
+      "date": "2026-11-10",
+      "open": 2.5,
+      "high": 2.51,
+      "low": 2.21,
+      "close": 2.35,
+      "volume": 36200
+    },
+    {
+      "date": "2026-11-11",
+      "open": 2.43,
+      "high": 2.52,
+      "low": 2.39,
+      "close": 2.46,
+      "volume": 39800
+    },
+    {
+      "date": "2026-11-12",
+      "open": 2.3,
+      "high": 2.34,
+      "low": 2.2,
+      "close": 2.27,
+      "volume": 13300
     }
   ]
 }

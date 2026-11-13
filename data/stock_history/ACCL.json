@@ -1,9 +1,9 @@
 {
   "code": "ACCL",
   "ticker": "ACCL",
-  "last_updated": "2026-11-05 07:00:10",
+  "last_updated": "2026-11-13 07:00:09",
   "period": "5y",
-  "data_points": 264,
+  "data_points": 270,
   "data": [
     {
       "date": "2025-10-17",
@@ -2116,6 +2116,54 @@
       "low": 2.5,
       "close": 2.5,
       "volume": 0
+    },
+    {
+      "date": "2026-11-05",
+      "open": 2.53,
+      "high": 2.53,
+      "low": 2.53,
+      "close": 2.53,
+      "volume": 2800
+    },
+    {
+      "date": "2026-11-06",
+      "open": 2.5,
+      "high": 2.5,
+      "low": 2.47,
+      "close": 2.5,
+      "volume": 1900
+    },
+    {
+      "date": "2026-11-09",
+      "open": 2.5,
+      "high": 2.5,
+      "low": 2.43,
+      "close": 2.43,
+      "volume": 4000
+    },
+    {
+      "date": "2026-11-10",
+      "open": 2.47,
+      "high": 2.47,
+      "low": 2.27,
+      "close": 2.36,
+      "volume": 7000
+    },
+    {
+      "date": "2026-11-11",
+      "open": 2.42,
+      "high": 2.42,
+      "low": 2.38,
+      "close": 2.38,
+      "volume": 2400
+    },
+    {
+      "date": "2026-11-12",
+      "open": 2.4,
+      "high": 2.4,
+      "low": 2.38,
+      "close": 2.4,
+      "volume": 1100
     }
   ]
 }

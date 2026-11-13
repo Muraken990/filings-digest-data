@@ -1,9 +1,9 @@
 {
   "code": "DXST",
   "ticker": "DXST",
-  "last_updated": "2026-11-05 07:29:41",
+  "last_updated": "2026-11-13 07:29:40",
   "period": "5y",
-  "data_points": 450,
+  "data_points": 456,
   "data": [
     {
       "date": "2025-01-22",
@@ -3604,6 +3604,54 @@
       "low": 1.02,
       "close": 1.08,
       "volume": 8600
+    },
+    {
+      "date": "2026-11-05",
+      "open": 1.07,
+      "high": 1.09,
+      "low": 1.03,
+      "close": 1.03,
+      "volume": 19900
+    },
+    {
+      "date": "2026-11-06",
+      "open": 1.07,
+      "high": 1.07,
+      "low": 1.0,
+      "close": 1.0,
+      "volume": 20800
+    },
+    {
+      "date": "2026-11-09",
+      "open": 1.03,
+      "high": 1.03,
+      "low": 0.93,
+      "close": 0.95,
+      "volume": 50500
+    },
+    {
+      "date": "2026-11-10",
+      "open": 0.84,
+      "high": 0.94,
+      "low": 0.76,
+      "close": 0.85,
+      "volume": 12100
+    },
+    {
+      "date": "2026-11-11",
+      "open": 0.88,
+      "high": 0.9,
+      "low": 0.8,
+      "close": 0.82,
+      "volume": 34500
+    },
+    {
+      "date": "2026-11-12",
+      "open": 0.76,
+      "high": 0.8,
+      "low": 0.73,
+      "close": 0.76,
+      "volume": 28800
     }
   ]
 }
