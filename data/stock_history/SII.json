@@ -1,17 +1,17 @@
 {
   "code": "SII",
   "ticker": "SII",
-  "last_updated": "2026-11-12 12:10:33",
+  "last_updated": "2026-11-13 12:10:34",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-12",
-      "open": 40.68,
-      "high": 42.28,
-      "low": 40.68,
-      "close": 41.99,
-      "volume": 57200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-15",
@@ -2167,7 +2167,7 @@
     },
     {
       "date": "2022-12-09",
-      "open": 31.91,
+      "open": 31.9,
       "high": 32.48,
       "low": 31.9,
       "close": 32.07,
@@ -10036,6 +10036,14 @@
       "low": 113.0,
       "close": 113.14,
       "volume": 90000
+    },
+    {
+      "date": "2026-11-12",
+      "open": 110.39,
+      "high": 112.87,
+      "low": 107.36,
+      "close": 107.5,
+      "volume": 129200
     }
   ]
 }

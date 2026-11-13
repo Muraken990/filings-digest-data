@@ -1,9 +1,9 @@
 {
   "code": "RUBI",
   "ticker": "RUBI",
-  "last_updated": "2026-11-12 12:07:04",
+  "last_updated": "2026-11-13 12:07:05",
   "period": "5y",
-  "data_points": 322,
+  "data_points": 323,
   "data": [
     {
       "date": "2025-08-04",
@@ -2579,7 +2579,15 @@
       "high": 1.12,
       "low": 1.01,
       "close": 1.08,
-      "volume": 811500
+      "volume": 833600
+    },
+    {
+      "date": "2026-11-12",
+      "open": 0.98,
+      "high": 1.01,
+      "low": 0.95,
+      "close": 0.95,
+      "volume": 375600
     }
   ]
 }

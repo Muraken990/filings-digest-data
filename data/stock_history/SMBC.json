@@ -1,17 +1,17 @@
 {
   "code": "SMBC",
   "ticker": "SMBC",
-  "last_updated": "2026-11-12 12:12:11",
+  "last_updated": "2026-11-13 12:12:13",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-12",
-      "open": 54.92,
-      "high": 55.75,
-      "low": 52.37,
-      "close": 52.53,
-      "volume": 28800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-15",
@@ -1463,7 +1463,7 @@
     },
     {
       "date": "2022-08-05",
-      "open": 48.9,
+      "open": 48.89,
       "high": 49.66,
       "low": 48.88,
       "close": 49.25,
@@ -3639,8 +3639,8 @@
     },
     {
       "date": "2023-09-06",
-      "open": 40.86,
-      "high": 40.86,
+      "open": 40.85,
+      "high": 40.85,
       "low": 39.49,
       "close": 39.49,
       "volume": 11500
@@ -10036,6 +10036,14 @@
       "low": 70.92,
       "close": 71.21,
       "volume": 43400
+    },
+    {
+      "date": "2026-11-12",
+      "open": 71.26,
+      "high": 71.75,
+      "low": 70.66,
+      "close": 70.94,
+      "volume": 52100
     }
   ]
 }

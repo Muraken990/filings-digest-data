@@ -1,18 +1,10 @@
 {
   "code": "TRAW",
   "ticker": "TRAW",
-  "last_updated": "2026-11-12 12:19:59",
+  "last_updated": "2026-11-13 12:20:01",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-12",
-      "open": 88.25,
-      "high": 88.75,
-      "low": 85.25,
-      "close": 85.75,
-      "volume": 13872
-    },
     {
       "date": "2021-11-15",
       "open": 87.25,
@@ -10035,7 +10027,15 @@
       "high": 0.26,
       "low": 0.24,
       "close": 0.25,
-      "volume": 137900
+      "volume": 150600
+    },
+    {
+      "date": "2026-11-12",
+      "open": 0.26,
+      "high": 0.3,
+      "low": 0.25,
+      "close": 0.28,
+      "volume": 682400
     }
   ]
 }
