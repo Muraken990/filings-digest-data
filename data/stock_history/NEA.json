@@ -1,17 +1,17 @@
 {
   "code": "NEA",
   "ticker": "NEA",
-  "last_updated": "2026-11-12 09:58:00",
+  "last_updated": "2026-11-13 09:57:54",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-12",
-      "open": 11.35,
-      "high": 11.4,
-      "low": 11.35,
-      "close": 11.39,
-      "volume": 259500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-15",
@@ -10036,6 +10036,14 @@
       "low": 10.25,
       "close": 10.33,
       "volume": 948200
+    },
+    {
+      "date": "2026-11-12",
+      "open": 10.26,
+      "high": 10.29,
+      "low": 10.13,
+      "close": 10.16,
+      "volume": 1411900
     }
   ]
 }

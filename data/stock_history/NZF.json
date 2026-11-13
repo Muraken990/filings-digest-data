@@ -1,17 +1,17 @@
 {
   "code": "NZF",
   "ticker": "NZF",
-  "last_updated": "2026-11-12 10:02:22",
+  "last_updated": "2026-11-13 10:02:13",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-12",
-      "open": 12.59,
-      "high": 12.64,
-      "low": 12.58,
-      "close": 12.59,
-      "volume": 202800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-15",
@@ -10036,6 +10036,14 @@
       "low": 11.24,
       "close": 11.33,
       "volume": 716800
+    },
+    {
+      "date": "2026-11-12",
+      "open": 11.25,
+      "high": 11.3,
+      "low": 11.13,
+      "close": 11.13,
+      "volume": 780100
     }
   ]
 }

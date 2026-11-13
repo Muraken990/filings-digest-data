@@ -1,17 +1,17 @@
 {
   "code": "NRK",
   "ticker": "NRK",
-  "last_updated": "2026-11-12 10:00:34",
+  "last_updated": "2026-11-13 10:00:27",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-12",
-      "open": 10.15,
-      "high": 10.17,
-      "low": 10.13,
-      "close": 10.17,
-      "volume": 54300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-15",
@@ -866,7 +866,7 @@
       "open": 8.54,
       "high": 8.54,
       "low": 8.46,
-      "close": 8.47,
+      "close": 8.46,
       "volume": 177700
     },
     {
@@ -10036,6 +10036,14 @@
       "low": 9.38,
       "close": 9.45,
       "volume": 366600
+    },
+    {
+      "date": "2026-11-12",
+      "open": 9.38,
+      "high": 9.43,
+      "low": 9.3,
+      "close": 9.38,
+      "volume": 804000
     }
   ]
 }

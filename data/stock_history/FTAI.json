@@ -1,17 +1,17 @@
 {
   "code": "FTAI",
   "ticker": "FTAI",
-  "last_updated": "2026-11-12 09:30:08",
+  "last_updated": "2026-11-13 09:30:07",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-12",
-      "open": 18.75,
-      "high": 19.15,
-      "low": 18.59,
-      "close": 18.95,
-      "volume": 780237
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-15",
@@ -10036,6 +10036,14 @@
       "low": 184.02,
       "close": 191.08,
       "volume": 1757500
+    },
+    {
+      "date": "2026-11-12",
+      "open": 187.36,
+      "high": 191.77,
+      "low": 182.22,
+      "close": 182.87,
+      "volume": 1248400
     }
   ]
 }

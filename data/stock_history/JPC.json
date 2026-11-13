@@ -1,17 +1,17 @@
 {
   "code": "JPC",
   "ticker": "JPC",
-  "last_updated": "2026-11-12 09:44:09",
+  "last_updated": "2026-11-13 09:44:04",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-12",
-      "open": 6.29,
-      "high": 6.3,
-      "low": 6.24,
-      "close": 6.27,
-      "volume": 269400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-15",
@@ -4799,7 +4799,7 @@
     },
     {
       "date": "2024-04-04",
-      "open": 5.55,
+      "open": 5.54,
       "high": 5.56,
       "low": 5.52,
       "close": 5.52,
@@ -10036,6 +10036,14 @@
       "low": 6.95,
       "close": 6.97,
       "volume": 1546000
+    },
+    {
+      "date": "2026-11-12",
+      "open": 6.89,
+      "high": 6.94,
+      "low": 6.8,
+      "close": 6.84,
+      "volume": 1845400
     }
   ]
 }

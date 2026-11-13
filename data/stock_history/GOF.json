@@ -1,17 +1,17 @@
 {
   "code": "GOF",
   "ticker": "GOF",
-  "last_updated": "2026-11-12 09:33:38",
+  "last_updated": "2026-11-13 09:33:37",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-12",
-      "open": 9.06,
-      "high": 9.09,
-      "low": 9.03,
-      "close": 9.07,
-      "volume": 487000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-15",
@@ -3506,7 +3506,7 @@
       "open": 9.5,
       "high": 9.54,
       "low": 9.46,
-      "close": 9.48,
+      "close": 9.49,
       "volume": 578000
     },
     {
@@ -10036,6 +10036,14 @@
       "low": 9.02,
       "close": 9.04,
       "volume": 1078500
+    },
+    {
+      "date": "2026-11-12",
+      "open": 8.99,
+      "high": 9.0,
+      "low": 8.76,
+      "close": 8.85,
+      "volume": 2203900
     }
   ]
 }

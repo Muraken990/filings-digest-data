@@ -1,17 +1,17 @@
 {
   "code": "NVG",
   "ticker": "NVG",
-  "last_updated": "2026-11-12 10:01:28",
+  "last_updated": "2026-11-13 10:01:21",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-12",
-      "open": 12.86,
-      "high": 13.03,
-      "low": 12.83,
-      "close": 13.02,
-      "volume": 369400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-15",
@@ -10036,6 +10036,14 @@
       "low": 11.26,
       "close": 11.33,
       "volume": 620300
+    },
+    {
+      "date": "2026-11-12",
+      "open": 11.29,
+      "high": 11.29,
+      "low": 11.1,
+      "close": 11.1,
+      "volume": 1301500
     }
   ]
 }

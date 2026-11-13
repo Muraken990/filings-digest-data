@@ -1,17 +1,17 @@
 {
   "code": "MYN",
   "ticker": "MYN",
-  "last_updated": "2026-11-12 09:57:05",
+  "last_updated": "2026-11-13 09:56:58",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-12",
-      "open": 11.0,
-      "high": 11.0,
-      "low": 10.94,
-      "close": 10.96,
-      "volume": 41500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-15",
@@ -4672,7 +4672,7 @@
     {
       "date": "2024-03-12",
       "open": 9.0,
-      "high": 9.04,
+      "high": 9.05,
       "low": 8.99,
       "close": 9.03,
       "volume": 95000
@@ -10036,6 +10036,14 @@
       "low": 9.13,
       "close": 9.24,
       "volume": 371500
+    },
+    {
+      "date": "2026-11-12",
+      "open": 9.18,
+      "high": 9.21,
+      "low": 9.09,
+      "close": 9.11,
+      "volume": 552700
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "NMS",
   "ticker": "NMS",
-  "last_updated": "2026-11-12 09:59:42",
+  "last_updated": "2026-11-13 09:59:36",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-12",
-      "open": 11.65,
-      "high": 11.69,
-      "low": 11.65,
-      "close": 11.69,
-      "volume": 5500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-15",
@@ -10036,6 +10036,14 @@
       "low": 10.61,
       "close": 10.63,
       "volume": 3800
+    },
+    {
+      "date": "2026-11-12",
+      "open": 10.83,
+      "high": 10.83,
+      "low": 10.5,
+      "close": 10.5,
+      "volume": 26200
     }
   ]
 }

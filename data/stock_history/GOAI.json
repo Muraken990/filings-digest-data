@@ -1,9 +1,9 @@
 {
   "code": "GOAI",
   "ticker": "GOAI",
-  "last_updated": "2026-11-12 09:33:38",
+  "last_updated": "2026-11-13 09:33:37",
   "period": "5y",
-  "data_points": 200,
+  "data_points": 201,
   "data": [
     {
       "date": "2026-01-28",
@@ -1604,6 +1604,14 @@
       "low": 0.46,
       "close": 0.46,
       "volume": 210900
+    },
+    {
+      "date": "2026-11-12",
+      "open": 0.46,
+      "high": 0.51,
+      "low": 0.42,
+      "close": 0.51,
+      "volume": 182400
     }
   ]
 }
