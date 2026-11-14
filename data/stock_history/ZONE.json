@@ -1,9 +1,9 @@
 {
   "code": "ZONE",
   "ticker": "ZONE",
-  "last_updated": "2026-11-13 12:30:32",
+  "last_updated": "2026-11-14 12:30:35",
   "period": "5y",
-  "data_points": 640,
+  "data_points": 641,
   "data": [
     {
       "date": "2024-04-26",
@@ -5124,6 +5124,14 @@
       "low": 3.11,
       "close": 3.5,
       "volume": 108800
+    },
+    {
+      "date": "2026-11-13",
+      "open": 3.5,
+      "high": 3.64,
+      "low": 3.35,
+      "close": 3.6,
+      "volume": 133000
     }
   ]
 }

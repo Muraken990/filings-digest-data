@@ -1,9 +1,9 @@
 {
   "code": "WTI",
   "ticker": "WTI",
-  "last_updated": "2026-11-13 12:28:41",
+  "last_updated": "2026-11-14 12:28:45",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-15",
@@ -10036,6 +10036,14 @@
       "low": 3.1,
       "close": 3.32,
       "volume": 5654200
+    },
+    {
+      "date": "2026-11-13",
+      "open": 3.37,
+      "high": 3.37,
+      "low": 3.26,
+      "close": 3.35,
+      "volume": 2575800
     }
   ]
 }

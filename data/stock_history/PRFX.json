@@ -1,9 +1,9 @@
 {
   "code": "PRFX",
   "ticker": "PRFX",
-  "last_updated": "2026-11-13 12:01:00",
+  "last_updated": "2026-11-14 12:01:01",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-15",
@@ -10035,7 +10035,15 @@
       "high": 0.79,
       "low": 0.68,
       "close": 0.79,
-      "volume": 50500
+      "volume": 273400
+    },
+    {
+      "date": "2026-11-13",
+      "open": 0.74,
+      "high": 0.87,
+      "low": 0.7,
+      "close": 0.78,
+      "volume": 351700
     }
   ]
 }

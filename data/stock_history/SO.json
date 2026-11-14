@@ -1,18 +1,10 @@
 {
   "code": "SO",
   "ticker": "SO",
-  "last_updated": "2026-11-13 12:12:19",
+  "last_updated": "2026-11-14 12:12:21",
   "period": "5y",
   "data_points": 1255,
   "data": [
-    {
-      "date": "2021-11-12",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-11-15",
       "open": 52.28,
@@ -10044,6 +10036,14 @@
       "low": 92.17,
       "close": 92.47,
       "volume": 15954500
+    },
+    {
+      "date": "2026-11-13",
+      "open": 92.47,
+      "high": 94.55,
+      "low": 92.18,
+      "close": 93.59,
+      "volume": 22081900
     }
   ]
 }

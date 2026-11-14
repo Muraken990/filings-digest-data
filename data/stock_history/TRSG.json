@@ -1,9 +1,9 @@
 {
   "code": "TRSG",
   "ticker": "TRSG",
-  "last_updated": "2026-11-13 12:20:04",
+  "last_updated": "2026-11-14 12:20:06",
   "period": "5y",
-  "data_points": 645,
+  "data_points": 646,
   "data": [
     {
       "date": "2024-04-19",
@@ -5164,6 +5164,14 @@
       "low": 1.23,
       "close": 1.23,
       "volume": 0
+    },
+    {
+      "date": "2026-11-13",
+      "open": 1.1,
+      "high": 1.22,
+      "low": 1.1,
+      "close": 1.17,
+      "volume": 900
     }
   ]
 }

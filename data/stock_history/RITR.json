@@ -1,9 +1,9 @@
 {
   "code": "RITR",
   "ticker": "RITR",
-  "last_updated": "2026-11-13 12:05:21",
+  "last_updated": "2026-11-14 12:05:22",
   "period": "5y",
-  "data_points": 84,
+  "data_points": 85,
   "data": [
     {
       "date": "2026-07-17",
@@ -675,7 +675,15 @@
       "high": 3.5,
       "low": 2.51,
       "close": 3.4,
-      "volume": 1943
+      "volume": 2056
+    },
+    {
+      "date": "2026-11-13",
+      "open": 2.01,
+      "high": 2.75,
+      "low": 2.01,
+      "close": 2.2,
+      "volume": 3296
     }
   ]
 }

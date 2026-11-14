@@ -1,18 +1,10 @@
 {
   "code": "RPT",
   "ticker": "RPT",
-  "last_updated": "2026-11-13 12:07:02",
+  "last_updated": "2026-11-14 12:07:02",
   "period": "5y",
   "data_points": 1255,
   "data": [
-    {
-      "date": "2021-11-12",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-11-15",
       "open": 43.48,
@@ -385,7 +377,7 @@
       "date": "2022-01-21",
       "open": 40.2,
       "high": 40.8,
-      "low": 39.82,
+      "low": 39.83,
       "close": 39.98,
       "volume": 15200
     },
@@ -10044,6 +10036,14 @@
       "low": 10.91,
       "close": 11.03,
       "volume": 25100
+    },
+    {
+      "date": "2026-11-13",
+      "open": 11.07,
+      "high": 11.07,
+      "low": 10.69,
+      "close": 10.76,
+      "volume": 14700
     }
   ]
 }
