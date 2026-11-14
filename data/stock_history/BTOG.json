@@ -1,9 +1,9 @@
 {
   "code": "BTOG",
   "ticker": "BTOG",
-  "last_updated": "2026-11-13 07:15:45",
+  "last_updated": "2026-11-14 07:15:47",
   "period": "5y",
-  "data_points": 84,
+  "data_points": 85,
   "data": [
     {
       "date": "2026-07-17",
@@ -671,11 +671,19 @@
     },
     {
       "date": "2026-11-12",
-      "open": 3.95,
-      "high": 4.17,
-      "low": 3.85,
-      "close": 4.0,
-      "volume": 26021
+      "open": 0.39,
+      "high": 0.42,
+      "low": 0.38,
+      "close": 0.4,
+      "volume": 260213
+    },
+    {
+      "date": "2026-11-13",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     }
   ]
 }

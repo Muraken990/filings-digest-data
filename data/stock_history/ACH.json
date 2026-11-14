@@ -1,9 +1,9 @@
 {
   "code": "ACH",
   "ticker": "ACH",
-  "last_updated": "2026-11-13 07:00:56",
+  "last_updated": "2026-11-14 07:00:56",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-15",
@@ -10035,7 +10035,15 @@
       "high": 0.15,
       "low": 0.13,
       "close": 0.15,
-      "volume": 2550600
+      "volume": 2587200
+    },
+    {
+      "date": "2026-11-13",
+      "open": 0.14,
+      "high": 0.14,
+      "low": 0.12,
+      "close": 0.13,
+      "volume": 1965200
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "EOD",
   "ticker": "EOD",
-  "last_updated": "2026-11-13 07:32:17",
+  "last_updated": "2026-11-14 07:32:21",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-15",
@@ -10036,6 +10036,14 @@
       "low": 6.23,
       "close": 6.25,
       "volume": 54800
+    },
+    {
+      "date": "2026-11-13",
+      "open": 6.27,
+      "high": 6.27,
+      "low": 6.18,
+      "close": 6.19,
+      "volume": 66000
     }
   ]
 }
