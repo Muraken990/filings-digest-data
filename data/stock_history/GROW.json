@@ -1,18 +1,10 @@
 {
   "code": "GROW",
   "ticker": "GROW",
-  "last_updated": "2026-11-13 09:34:30",
+  "last_updated": "2026-11-14 09:34:30",
   "period": "5y",
   "data_points": 1255,
   "data": [
-    {
-      "date": "2021-11-12",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
     {
       "date": "2021-11-15",
       "open": 5.37,
@@ -10044,6 +10036,14 @@
       "low": 2.5,
       "close": 2.52,
       "volume": 29000
+    },
+    {
+      "date": "2026-11-13",
+      "open": 2.5,
+      "high": 2.67,
+      "low": 2.47,
+      "close": 2.67,
+      "volume": 25100
     }
   ]
 }

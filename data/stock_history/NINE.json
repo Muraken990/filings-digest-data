@@ -1,9 +1,9 @@
 {
   "code": "NINE",
   "ticker": "NINE",
-  "last_updated": "2026-11-13 09:58:46",
+  "last_updated": "2026-11-14 09:58:50",
   "period": "5y",
-  "data_points": 158,
+  "data_points": 159,
   "data": [
     {
       "date": "2026-03-31",
@@ -1268,6 +1268,14 @@
       "low": 7.01,
       "close": 7.16,
       "volume": 15400
+    },
+    {
+      "date": "2026-11-13",
+      "open": 7.17,
+      "high": 7.42,
+      "low": 7.01,
+      "close": 7.42,
+      "volume": 10000
     }
   ]
 }
