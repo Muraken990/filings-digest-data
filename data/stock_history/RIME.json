@@ -1,26 +1,10 @@
 {
   "code": "RIME",
   "ticker": "RIME",
-  "last_updated": "2026-11-16 12:05:21",
+  "last_updated": "2026-11-17 12:05:20",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-15",
-      "open": 2100.0,
-      "high": 2280.0,
-      "low": 1920.0,
-      "close": 2280.0,
-      "volume": 34
-    },
-    {
-      "date": "2021-11-16",
-      "open": 2280.0,
-      "high": 2280.0,
-      "low": 1980.0,
-      "close": 2280.0,
-      "volume": 16
-    },
     {
       "date": "2021-11-17",
       "open": 1980.0,
@@ -10043,7 +10027,15 @@
       "high": 0.11,
       "low": 0.1,
       "close": 0.11,
-      "volume": 10547600
+      "volume": 10899300
+    },
+    {
+      "date": "2026-11-16",
+      "open": 0.1,
+      "high": 0.1,
+      "low": 0.09,
+      "close": 0.09,
+      "volume": 3213700
     }
   ]
 }

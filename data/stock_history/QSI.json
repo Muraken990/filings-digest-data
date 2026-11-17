@@ -1,26 +1,10 @@
 {
   "code": "QSI",
   "ticker": "QSI",
-  "last_updated": "2026-11-16 12:02:46",
+  "last_updated": "2026-11-17 12:02:45",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-15",
-      "open": 8.23,
-      "high": 8.23,
-      "low": 7.75,
-      "close": 7.89,
-      "volume": 922800
-    },
-    {
-      "date": "2021-11-16",
-      "open": 7.93,
-      "high": 8.18,
-      "low": 7.83,
-      "close": 8.04,
-      "volume": 491400
-    },
     {
       "date": "2021-11-17",
       "open": 8.08,
@@ -10043,7 +10027,15 @@
       "high": 1.23,
       "low": 1.14,
       "close": 1.15,
-      "volume": 3557500
+      "volume": 3585800
+    },
+    {
+      "date": "2026-11-16",
+      "open": 1.1,
+      "high": 1.11,
+      "low": 1.04,
+      "close": 1.06,
+      "volume": 5318700
     }
   ]
 }

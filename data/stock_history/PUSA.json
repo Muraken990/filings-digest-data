@@ -1,9 +1,9 @@
 {
   "code": "PUSA",
   "ticker": "PUSA",
-  "last_updated": "2026-11-16 12:02:40",
+  "last_updated": "2026-11-17 12:02:40",
   "period": "5y",
-  "data_points": 442,
+  "data_points": 443,
   "data": [
     {
       "date": "2025-02-12",
@@ -3540,6 +3540,14 @@
       "low": 1.31,
       "close": 1.34,
       "volume": 523000
+    },
+    {
+      "date": "2026-11-16",
+      "open": 1.31,
+      "high": 1.58,
+      "low": 1.3,
+      "close": 1.5,
+      "volume": 1197600
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "SHIP",
   "ticker": "SHIP",
-  "last_updated": "2026-11-16 12:10:31",
+  "last_updated": "2026-11-17 12:10:30",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-15",
-      "open": 7.35,
-      "high": 7.42,
-      "low": 6.86,
-      "close": 7.07,
-      "volume": 992570
-    },
-    {
-      "date": "2021-11-16",
-      "open": 6.93,
-      "high": 7.07,
-      "low": 6.44,
-      "close": 6.86,
-      "volume": 811810
-    },
     {
       "date": "2021-11-17",
       "open": 6.86,
@@ -10044,6 +10028,14 @@
       "low": 15.48,
       "close": 15.91,
       "volume": 256800
+    },
+    {
+      "date": "2026-11-16",
+      "open": 15.42,
+      "high": 15.8,
+      "low": 15.29,
+      "close": 15.66,
+      "volume": 375400
     }
   ]
 }
