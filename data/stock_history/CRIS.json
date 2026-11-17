@@ -1,26 +1,10 @@
 {
   "code": "CRIS",
   "ticker": "CRIS",
-  "last_updated": "2026-11-16 07:24:21",
+  "last_updated": "2026-11-17 07:24:26",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-15",
-      "open": 2372.0,
-      "high": 2388.0,
-      "low": 2276.0,
-      "close": 2284.0,
-      "volume": 2654
-    },
-    {
-      "date": "2021-11-16",
-      "open": 2280.0,
-      "high": 2308.0,
-      "low": 2232.0,
-      "close": 2244.0,
-      "volume": 3872
-    },
     {
       "date": "2021-11-17",
       "open": 2232.0,
@@ -10043,7 +10027,15 @@
       "high": 0.5,
       "low": 0.43,
       "close": 0.45,
-      "volume": 709300
+      "volume": 720500
+    },
+    {
+      "date": "2026-11-16",
+      "open": 0.42,
+      "high": 0.47,
+      "low": 0.42,
+      "close": 0.44,
+      "volume": 452400
     }
   ]
 }

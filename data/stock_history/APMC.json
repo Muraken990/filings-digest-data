@@ -1,9 +1,9 @@
 {
   "code": "APMC",
   "ticker": "APMC",
-  "last_updated": "2026-11-16 07:06:13",
+  "last_updated": "2026-11-17 07:06:14",
   "period": "5y",
-  "data_points": 98,
+  "data_points": 99,
   "data": [
     {
       "date": "2026-06-29",
@@ -788,6 +788,14 @@
       "low": 9.99,
       "close": 10.01,
       "volume": 9200
+    },
+    {
+      "date": "2026-11-16",
+      "open": 10.01,
+      "high": 10.01,
+      "low": 10.01,
+      "close": 10.01,
+      "volume": 200
     }
   ]
 }

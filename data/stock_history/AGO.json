@@ -1,25 +1,17 @@
 {
   "code": "AGO",
   "ticker": "AGO",
-  "last_updated": "2026-11-16 07:02:44",
+  "last_updated": "2026-11-17 07:02:44",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-11-15",
-      "open": 50.0,
-      "high": 50.13,
-      "low": 49.45,
-      "close": 49.73,
-      "volume": 572400
-    },
-    {
       "date": "2021-11-16",
-      "open": 49.6,
-      "high": 50.66,
-      "low": 49.6,
-      "close": 50.35,
-      "volume": 456000
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-17",
@@ -721,7 +713,7 @@
       "date": "2022-03-24",
       "open": 57.91,
       "high": 59.02,
-      "low": 57.5,
+      "low": 57.49,
       "close": 59.0,
       "volume": 317700
     },
@@ -8079,7 +8071,7 @@
     },
     {
       "date": "2025-11-21",
-      "open": 87.54,
+      "open": 87.53,
       "high": 88.94,
       "low": 87.37,
       "close": 88.5,
@@ -10044,6 +10036,14 @@
       "low": 73.37,
       "close": 74.73,
       "volume": 361000
+    },
+    {
+      "date": "2026-11-16",
+      "open": 75.0,
+      "high": 75.92,
+      "low": 75.0,
+      "close": 75.9,
+      "volume": 322400
     }
   ]
 }

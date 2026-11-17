@@ -1,9 +1,9 @@
 {
   "code": "BSP",
   "ticker": "BSP",
-  "last_updated": "2026-11-16 07:15:42",
+  "last_updated": "2026-11-17 07:15:44",
   "period": "5y",
-  "data_points": 96,
+  "data_points": 97,
   "data": [
     {
       "date": "2026-07-01",
@@ -772,6 +772,14 @@
       "low": 39.01,
       "close": 41.08,
       "volume": 1094500
+    },
+    {
+      "date": "2026-11-16",
+      "open": 40.64,
+      "high": 41.3,
+      "low": 38.63,
+      "close": 40.98,
+      "volume": 1750000
     }
   ]
 }

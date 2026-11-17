@@ -1,26 +1,10 @@
 {
   "code": "AEI",
   "ticker": "AEI",
-  "last_updated": "2026-11-16 07:01:51",
+  "last_updated": "2026-11-17 07:01:52",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-15",
-      "open": 37.6,
-      "high": 39.4,
-      "low": 36.8,
-      "close": 38.4,
-      "volume": 88815
-    },
-    {
-      "date": "2021-11-16",
-      "open": 38.1,
-      "high": 38.1,
-      "low": 36.2,
-      "close": 36.8,
-      "volume": 47315
-    },
     {
       "date": "2021-11-17",
       "open": 36.2,
@@ -10043,7 +10027,15 @@
       "high": 0.55,
       "low": 0.38,
       "close": 0.53,
-      "volume": 11492700
+      "volume": 11529800
+    },
+    {
+      "date": "2026-11-16",
+      "open": 0.43,
+      "high": 0.52,
+      "low": 0.43,
+      "close": 0.51,
+      "volume": 182100
     }
   ]
 }

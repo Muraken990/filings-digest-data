@@ -1,26 +1,10 @@
 {
   "code": "EOSE",
   "ticker": "EOSE",
-  "last_updated": "2026-11-16 07:33:01",
+  "last_updated": "2026-11-17 07:33:02",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-15",
-      "open": 10.78,
-      "high": 11.0,
-      "low": 10.48,
-      "close": 10.99,
-      "volume": 634400
-    },
-    {
-      "date": "2021-11-16",
-      "open": 10.92,
-      "high": 11.1,
-      "low": 10.84,
-      "close": 10.96,
-      "volume": 458100
-    },
     {
       "date": "2021-11-17",
       "open": 10.93,
@@ -10043,7 +10027,15 @@
       "high": 1.92,
       "low": 1.73,
       "close": 1.91,
-      "volume": 16295400
+      "volume": 16339200
+    },
+    {
+      "date": "2026-11-16",
+      "open": 1.83,
+      "high": 1.89,
+      "low": 1.7,
+      "close": 1.71,
+      "volume": 13871100
     }
   ]
 }
