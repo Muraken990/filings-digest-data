@@ -1,26 +1,10 @@
 {
   "code": "NCMI",
   "ticker": "NCMI",
-  "last_updated": "2026-11-16 09:57:53",
+  "last_updated": "2026-11-17 09:57:57",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-15",
-      "open": 33.64,
-      "high": 33.64,
-      "low": 31.77,
-      "close": 33.19,
-      "volume": 48660
-    },
-    {
-      "date": "2021-11-16",
-      "open": 33.02,
-      "high": 33.37,
-      "low": 31.42,
-      "close": 32.66,
-      "volume": 45780
-    },
     {
       "date": "2021-11-17",
       "open": 32.57,
@@ -10044,6 +10028,14 @@
       "low": 1.6,
       "close": 1.87,
       "volume": 3404500
+    },
+    {
+      "date": "2026-11-16",
+      "open": 1.95,
+      "high": 2.07,
+      "low": 1.75,
+      "close": 1.92,
+      "volume": 1255700
     }
   ]
 }

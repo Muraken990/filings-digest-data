@@ -1,26 +1,10 @@
 {
   "code": "NRDS",
   "ticker": "NRDS",
-  "last_updated": "2026-11-16 10:00:29",
+  "last_updated": "2026-11-17 10:00:33",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-15",
-      "open": 24.55,
-      "high": 25.51,
-      "low": 24.5,
-      "close": 25.0,
-      "volume": 338400
-    },
-    {
-      "date": "2021-11-16",
-      "open": 25.26,
-      "high": 26.01,
-      "low": 24.53,
-      "close": 25.37,
-      "volume": 373400
-    },
     {
       "date": "2021-11-17",
       "open": 25.32,
@@ -10044,6 +10028,14 @@
       "low": 7.25,
       "close": 7.46,
       "volume": 1000700
+    },
+    {
+      "date": "2026-11-16",
+      "open": 7.34,
+      "high": 7.55,
+      "low": 7.18,
+      "close": 7.31,
+      "volume": 910400
     }
   ]
 }

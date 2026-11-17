@@ -1,26 +1,10 @@
 {
   "code": "IBIO",
   "ticker": "IBIO",
-  "last_updated": "2026-11-16 09:39:38",
+  "last_updated": "2026-11-17 09:39:41",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-15",
-      "open": 380.0,
-      "high": 385.0,
-      "low": 365.0,
-      "close": 375.0,
-      "volume": 9666
-    },
-    {
-      "date": "2021-11-16",
-      "open": 365.0,
-      "high": 365.0,
-      "low": 345.0,
-      "close": 345.0,
-      "volume": 9836
-    },
     {
       "date": "2021-11-17",
       "open": 345.0,
@@ -10044,6 +10028,14 @@
       "low": 0.7,
       "close": 0.73,
       "volume": 462800
+    },
+    {
+      "date": "2026-11-16",
+      "open": 0.74,
+      "high": 0.77,
+      "low": 0.68,
+      "close": 0.71,
+      "volume": 589000
     }
   ]
 }

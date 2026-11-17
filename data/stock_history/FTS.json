@@ -1,25 +1,17 @@
 {
   "code": "FTS",
   "ticker": "FTS",
-  "last_updated": "2026-11-16 09:30:08",
+  "last_updated": "2026-11-17 09:30:10",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-11-15",
-      "open": 37.32,
-      "high": 37.62,
-      "low": 37.32,
-      "close": 37.61,
-      "volume": 741700
-    },
-    {
       "date": "2021-11-16",
-      "open": 37.57,
-      "high": 37.76,
-      "low": 37.26,
-      "close": 37.28,
-      "volume": 345200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-17",
@@ -729,7 +721,7 @@
       "date": "2022-03-25",
       "open": 41.02,
       "high": 41.24,
-      "low": 40.89,
+      "low": 40.88,
       "close": 41.15,
       "volume": 369100
     },
@@ -10044,6 +10036,14 @@
       "low": 59.08,
       "close": 59.62,
       "volume": 1101600
+    },
+    {
+      "date": "2026-11-16",
+      "open": 59.98,
+      "high": 60.31,
+      "low": 59.75,
+      "close": 60.0,
+      "volume": 2085400
     }
   ]
 }

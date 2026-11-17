@@ -1,26 +1,10 @@
 {
   "code": "LUNG",
   "ticker": "LUNG",
-  "last_updated": "2026-11-16 09:50:08",
+  "last_updated": "2026-11-17 09:50:10",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-15",
-      "open": 40.14,
-      "high": 40.26,
-      "low": 37.89,
-      "close": 38.11,
-      "volume": 291000
-    },
-    {
-      "date": "2021-11-16",
-      "open": 38.0,
-      "high": 38.6,
-      "low": 37.53,
-      "close": 38.01,
-      "volume": 322400
-    },
     {
       "date": "2021-11-17",
       "open": 38.37,
@@ -10044,6 +10028,14 @@
       "low": 2.78,
       "close": 2.86,
       "volume": 695100
+    },
+    {
+      "date": "2026-11-16",
+      "open": 2.81,
+      "high": 2.89,
+      "low": 2.69,
+      "close": 2.8,
+      "volume": 443300
     }
   ]
 }

@@ -1,26 +1,10 @@
 {
   "code": "MNY",
   "ticker": "MNY",
-  "last_updated": "2026-11-16 09:54:28",
+  "last_updated": "2026-11-17 09:54:30",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-15",
-      "open": 10.01,
-      "high": 10.05,
-      "low": 9.94,
-      "close": 10.01,
-      "volume": 376500
-    },
-    {
-      "date": "2021-11-16",
-      "open": 10.01,
-      "high": 10.03,
-      "low": 9.99,
-      "close": 10.02,
-      "volume": 424800
-    },
     {
       "date": "2021-11-17",
       "open": 10.0,
@@ -10044,6 +10028,14 @@
       "low": 0.6,
       "close": 0.61,
       "volume": 8600
+    },
+    {
+      "date": "2026-11-16",
+      "open": 0.58,
+      "high": 0.61,
+      "low": 0.58,
+      "close": 0.61,
+      "volume": 2900
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "FXAC",
   "ticker": "FXAC",
-  "last_updated": "2026-11-16 09:30:56",
+  "last_updated": "2026-11-17 09:30:59",
   "period": "5y",
-  "data_points": 93,
+  "data_points": 94,
   "data": [
     {
       "date": "2026-07-07",
@@ -748,6 +748,14 @@
       "low": 10.15,
       "close": 10.15,
       "volume": 0
+    },
+    {
+      "date": "2026-11-16",
+      "open": 10.16,
+      "high": 10.16,
+      "low": 10.15,
+      "close": 10.16,
+      "volume": 200500
     }
   ]
 }
