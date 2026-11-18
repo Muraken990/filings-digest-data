@@ -1,17 +1,17 @@
 {
   "code": "VLO",
   "ticker": "VLO",
-  "last_updated": "2026-11-17 12:24:26",
+  "last_updated": "2026-11-18 12:24:27",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-17",
-      "open": 66.71,
-      "high": 66.81,
-      "low": 63.58,
-      "close": 63.72,
-      "volume": 4190400
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-18",
@@ -2927,7 +2927,7 @@
     },
     {
       "date": "2023-05-03",
-      "open": 99.33,
+      "open": 99.34,
       "high": 100.67,
       "low": 96.74,
       "close": 96.91,
@@ -8840,7 +8840,7 @@
     {
       "date": "2026-04-15",
       "open": 232.09,
-      "high": 234.54,
+      "high": 234.53,
       "low": 229.05,
       "close": 232.99,
       "volume": 2286900
@@ -10035,7 +10035,15 @@
       "high": 375.24,
       "low": 366.26,
       "close": 369.73,
-      "volume": 2063800
+      "volume": 2091900
+    },
+    {
+      "date": "2026-11-17",
+      "open": 372.94,
+      "high": 374.74,
+      "low": 360.63,
+      "close": 363.77,
+      "volume": 1924000
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "YMT",
   "ticker": "YMT",
-  "last_updated": "2026-11-17 12:29:40",
+  "last_updated": "2026-11-18 12:29:42",
   "period": "5y",
-  "data_points": 314,
+  "data_points": 315,
   "data": [
     {
       "date": "2025-08-19",
@@ -2511,11 +2511,19 @@
     },
     {
       "date": "2026-11-16",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 1263035
+      "open": 1.51,
+      "high": 1.9,
+      "low": 1.39,
+      "close": 1.58,
+      "volume": 1345400
+    },
+    {
+      "date": "2026-11-17",
+      "open": 1.57,
+      "high": 1.78,
+      "low": 1.53,
+      "close": 1.65,
+      "volume": 206000
     }
   ]
 }

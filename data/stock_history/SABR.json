@@ -1,18 +1,10 @@
 {
   "code": "SABR",
   "ticker": "SABR",
-  "last_updated": "2026-11-17 12:07:54",
+  "last_updated": "2026-11-18 12:07:56",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-17",
-      "open": 9.01,
-      "high": 9.11,
-      "low": 8.74,
-      "close": 8.86,
-      "volume": 4289700
-    },
     {
       "date": "2021-11-18",
       "open": 8.87,
@@ -10036,6 +10028,14 @@
       "low": 1.7,
       "close": 1.72,
       "volume": 5398500
+    },
+    {
+      "date": "2026-11-17",
+      "open": 1.72,
+      "high": 1.79,
+      "low": 1.66,
+      "close": 1.68,
+      "volume": 6067300
     }
   ]
 }

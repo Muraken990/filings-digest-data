@@ -1,9 +1,9 @@
 {
   "code": "TACO",
   "ticker": "TACO",
-  "last_updated": "2026-11-17 12:16:33",
+  "last_updated": "2026-11-18 12:16:34",
   "period": "5y",
-  "data_points": 365,
+  "data_points": 366,
   "data": [
     {
       "date": "2025-06-05",
@@ -2924,6 +2924,14 @@
       "low": 10.51,
       "close": 10.52,
       "volume": 100200
+    },
+    {
+      "date": "2026-11-17",
+      "open": 10.52,
+      "high": 10.52,
+      "low": 10.52,
+      "close": 10.52,
+      "volume": 18000
     }
   ]
 }
