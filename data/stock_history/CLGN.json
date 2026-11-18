@@ -1,9 +1,9 @@
 {
   "code": "CLGN",
   "ticker": "CLGN",
-  "last_updated": "2026-11-17 07:21:00",
+  "last_updated": "2026-11-18 07:21:00",
   "period": "5y",
-  "data_points": 4,
+  "data_points": 5,
   "data": [
     {
       "date": "2026-09-04",
@@ -34,8 +34,16 @@
       "open": 3.6,
       "high": 3.84,
       "low": 3.09,
-      "close": 3.33,
-      "volume": 61761
+      "close": 3.28,
+      "volume": 61945
+    },
+    {
+      "date": "2026-11-17",
+      "open": 3.55,
+      "high": 3.81,
+      "low": 3.46,
+      "close": 3.6,
+      "volume": 26338
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "code": "BKH",
   "ticker": "BKH",
-  "last_updated": "2026-11-17 07:13:10",
+  "last_updated": "2026-11-18 07:13:10",
   "period": "5y",
-  "data_points": 4,
+  "data_points": 5,
   "data": [
     {
-      "date": "2022-02-11",
+      "date": "2022-05-17",
       "open": null,
       "high": null,
       "low": null,
@@ -14,7 +14,7 @@
       "volume": 0
     },
     {
-      "date": "2026-08-17",
+      "date": "2022-08-17",
       "open": null,
       "high": null,
       "low": null,
@@ -35,7 +35,15 @@
       "high": 87.37,
       "low": 81.96,
       "close": 84.72,
-      "volume": 2847825
+      "volume": 2888614
+    },
+    {
+      "date": "2026-11-17",
+      "open": 84.0,
+      "high": 84.75,
+      "low": 80.68,
+      "close": 80.72,
+      "volume": 6422836
     }
   ]
 }

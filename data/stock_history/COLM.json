@@ -1,17 +1,17 @@
 {
   "code": "COLM",
   "ticker": "COLM",
-  "last_updated": "2026-11-17 07:22:47",
+  "last_updated": "2026-11-18 07:22:46",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-17",
-      "open": 97.67,
-      "high": 97.9,
-      "low": 96.84,
-      "close": 97.31,
-      "volume": 280500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-18",
@@ -946,7 +946,7 @@
       "open": 72.96,
       "high": 72.96,
       "low": 70.44,
-      "close": 70.72,
+      "close": 70.71,
       "volume": 798700
     },
     {
@@ -6602,12 +6602,12 @@
       "open": 80.39,
       "high": 81.63,
       "low": 79.96,
-      "close": 80.39,
+      "close": 80.38,
       "volume": 779300
     },
     {
       "date": "2025-03-05",
-      "open": 80.38,
+      "open": 80.39,
       "high": 81.74,
       "low": 79.71,
       "close": 81.47,
@@ -10036,6 +10036,14 @@
       "low": 73.45,
       "close": 75.63,
       "volume": 1116100
+    },
+    {
+      "date": "2026-11-17",
+      "open": 75.29,
+      "high": 76.12,
+      "low": 74.81,
+      "close": 75.03,
+      "volume": 783100
     }
   ]
 }

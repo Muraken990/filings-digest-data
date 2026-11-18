@@ -1,9 +1,9 @@
 {
   "code": "AAPG",
   "ticker": "AAPG",
-  "last_updated": "2026-11-17 07:00:05",
+  "last_updated": "2026-11-18 07:00:05",
   "period": "5y",
-  "data_points": 456,
+  "data_points": 457,
   "data": [
     {
       "date": "2025-01-24",
@@ -3652,6 +3652,14 @@
       "low": 13.25,
       "close": 13.29,
       "volume": 12800
+    },
+    {
+      "date": "2026-11-17",
+      "open": 13.3,
+      "high": 13.31,
+      "low": 13.11,
+      "close": 13.14,
+      "volume": 3100
     }
   ]
 }

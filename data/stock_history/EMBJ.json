@@ -1,18 +1,10 @@
 {
   "code": "EMBJ",
   "ticker": "EMBJ",
-  "last_updated": "2026-11-17 07:32:11",
+  "last_updated": "2026-11-18 07:32:15",
   "period": "5y",
   "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-17",
-      "open": 15.17,
-      "high": 15.5,
-      "low": 14.84,
-      "close": 15.13,
-      "volume": 4259300
-    },
     {
       "date": "2021-11-18",
       "open": 15.28,
@@ -10035,7 +10027,15 @@
       "high": null,
       "low": null,
       "close": null,
-      "volume": 4329700
+      "volume": 0
+    },
+    {
+      "date": "2026-11-17",
+      "open": 18.67,
+      "high": 19.28,
+      "low": 18.57,
+      "close": 18.9,
+      "volume": 6442900
     }
   ]
 }

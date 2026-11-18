@@ -1,9 +1,9 @@
 {
   "code": "AACO",
   "ticker": "AACO",
-  "last_updated": "2026-11-17 07:00:04",
+  "last_updated": "2026-11-18 07:00:04",
   "period": "5y",
-  "data_points": 151,
+  "data_points": 152,
   "data": [
     {
       "date": "2026-04-14",
@@ -1212,6 +1212,14 @@
       "low": 9.99,
       "close": 10.02,
       "volume": 100200
+    },
+    {
+      "date": "2026-11-17",
+      "open": 10.01,
+      "high": 10.02,
+      "low": 10.01,
+      "close": 10.01,
+      "volume": 784800
     }
   ]
 }
