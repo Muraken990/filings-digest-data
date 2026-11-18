@@ -1,9 +1,9 @@
 {
   "code": "KAZR",
   "ticker": "KAZR",
-  "last_updated": "2026-11-17 09:44:55",
+  "last_updated": "2026-11-18 09:44:53",
   "period": "5y",
-  "data_points": 4,
+  "data_points": 5,
   "data": [
     {
       "date": "2026-11-11",
@@ -35,7 +35,15 @@
       "high": 0.82,
       "low": 0.62,
       "close": 0.82,
-      "volume": 1688082
+      "volume": 1731542
+    },
+    {
+      "date": "2026-11-17",
+      "open": 0.79,
+      "high": 1.09,
+      "low": 0.76,
+      "close": 0.96,
+      "volume": 2204127
     }
   ]
 }

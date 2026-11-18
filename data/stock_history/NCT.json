@@ -1,9 +1,9 @@
 {
   "code": "NCT",
   "ticker": "NCT",
-  "last_updated": "2026-11-17 09:57:58",
+  "last_updated": "2026-11-18 09:57:55",
   "period": "5y",
-  "data_points": 412,
+  "data_points": 413,
   "data": [
     {
       "date": "2025-03-28",
@@ -3299,7 +3299,15 @@
       "high": null,
       "low": null,
       "close": null,
-      "volume": 699045
+      "volume": 0
+    },
+    {
+      "date": "2026-11-17",
+      "open": 8.82,
+      "high": 10.74,
+      "low": 6.55,
+      "close": 10.07,
+      "volume": 325500
     }
   ]
 }

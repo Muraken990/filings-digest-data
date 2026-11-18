@@ -1,9 +1,9 @@
 {
   "code": "KNRX",
   "ticker": "KNRX",
-  "last_updated": "2026-11-17 09:45:49",
+  "last_updated": "2026-11-18 09:45:46",
   "period": "5y",
-  "data_points": 3,
+  "data_points": 4,
   "data": [
     {
       "date": "2026-11-12",
@@ -27,7 +27,15 @@
       "high": 0.01,
       "low": 0.01,
       "close": 0.01,
-      "volume": 70714
+      "volume": 70727
+    },
+    {
+      "date": "2026-11-17",
+      "open": 0.03,
+      "high": 0.03,
+      "low": 0.01,
+      "close": 0.01,
+      "volume": 46627
     }
   ]
 }

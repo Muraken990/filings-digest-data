@@ -1,17 +1,17 @@
 {
   "code": "HRZN",
   "ticker": "HRZN",
-  "last_updated": "2026-11-17 09:38:00",
+  "last_updated": "2026-11-18 09:37:58",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-17",
-      "open": 9.21,
-      "high": 9.26,
-      "low": 8.38,
-      "close": 8.76,
-      "volume": 578100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-18",
@@ -10035,7 +10035,15 @@
       "high": 3.7,
       "low": 3.39,
       "close": 3.43,
-      "volume": 1253500
+      "volume": 1271800
+    },
+    {
+      "date": "2026-11-17",
+      "open": 3.34,
+      "high": 3.41,
+      "low": 3.19,
+      "close": 3.22,
+      "volume": 924700
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "code": "MFP",
   "ticker": "MFP",
-  "last_updated": "2026-11-17 09:52:46",
+  "last_updated": "2026-11-18 09:52:45",
   "period": "5y",
-  "data_points": 100,
+  "data_points": 101,
   "data": [
     {
       "date": "2026-06-26",
@@ -804,6 +804,14 @@
       "low": 42.68,
       "close": 43.43,
       "volume": 598200
+    },
+    {
+      "date": "2026-11-17",
+      "open": 46.0,
+      "high": 46.94,
+      "low": 42.35,
+      "close": 42.37,
+      "volume": 613200
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "code": "HTB",
   "ticker": "HTB",
-  "last_updated": "2026-11-17 09:38:02",
+  "last_updated": "2026-11-18 09:38:00",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-17",
-      "open": 28.96,
-      "high": 29.36,
-      "low": 28.59,
-      "close": 29.32,
-      "volume": 86700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-18",
@@ -10036,6 +10036,14 @@
       "low": 46.66,
       "close": 47.04,
       "volume": 89900
+    },
+    {
+      "date": "2026-11-17",
+      "open": 46.63,
+      "high": 47.08,
+      "low": 46.11,
+      "close": 46.42,
+      "volume": 112300
     }
   ]
 }
