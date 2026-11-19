@@ -1,26 +1,10 @@
 {
   "code": "SPE",
   "ticker": "SPE",
-  "last_updated": "2026-11-18 12:13:09",
+  "last_updated": "2026-11-19 12:13:08",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-11-18",
-      "open": 9.33,
-      "high": 9.41,
-      "low": 9.33,
-      "close": 9.33,
-      "volume": 97400
-    },
     {
       "date": "2021-11-19",
       "open": 9.31,
@@ -3648,7 +3632,7 @@
     {
       "date": "2023-09-12",
       "open": 8.09,
-      "high": 8.12,
+      "high": 8.13,
       "low": 8.05,
       "close": 8.06,
       "volume": 30000
@@ -4760,7 +4744,7 @@
     {
       "date": "2024-04-02",
       "open": 9.51,
-      "high": 9.58,
+      "high": 9.57,
       "low": 9.38,
       "close": 9.46,
       "volume": 29400
@@ -10044,6 +10028,14 @@
       "low": 11.67,
       "close": 11.75,
       "volume": 45700
+    },
+    {
+      "date": "2026-11-18",
+      "open": 11.72,
+      "high": 11.79,
+      "low": 11.62,
+      "close": 11.65,
+      "volume": 85100
     }
   ]
 }

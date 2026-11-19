@@ -1,9 +1,9 @@
 {
   "code": "PTLE",
   "ticker": "PTLE",
-  "last_updated": "2026-11-18 12:01:54",
+  "last_updated": "2026-11-19 12:01:53",
   "period": "5y",
-  "data_points": 5,
+  "data_points": 6,
   "data": [
     {
       "date": "2026-02-27",
@@ -42,8 +42,16 @@
       "open": 9.71,
       "high": 10.2,
       "low": 9.3,
-      "close": 9.6,
-      "volume": 154280
+      "close": 9.75,
+      "volume": 155508
+    },
+    {
+      "date": "2026-11-18",
+      "open": 9.65,
+      "high": 10.1,
+      "low": 9.35,
+      "close": 9.93,
+      "volume": 390570
     }
   ]
 }
