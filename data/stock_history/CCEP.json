@@ -1,17 +1,17 @@
 {
   "code": "CCEP",
   "ticker": "CCEP",
-  "last_updated": "2026-11-18 07:18:21",
+  "last_updated": "2026-11-19 07:18:18",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-18",
-      "open": 47.26,
-      "high": 47.26,
-      "low": 46.05,
-      "close": 46.46,
-      "volume": 1501900
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-19",
@@ -5608,7 +5608,7 @@
     {
       "date": "2024-09-04",
       "open": 75.94,
-      "high": 77.14,
+      "high": 77.15,
       "low": 75.58,
       "close": 77.04,
       "volume": 1582000
@@ -10036,6 +10036,14 @@
       "low": 117.85,
       "close": 118.42,
       "volume": 1354400
+    },
+    {
+      "date": "2026-11-18",
+      "open": 117.82,
+      "high": 119.47,
+      "low": 117.49,
+      "close": 118.86,
+      "volume": 1829600
     }
   ]
 }

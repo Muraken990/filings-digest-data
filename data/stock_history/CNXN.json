@@ -1,26 +1,10 @@
 {
   "code": "CNXN",
   "ticker": "CNXN",
-  "last_updated": "2026-11-18 07:22:43",
+  "last_updated": "2026-11-19 07:22:40",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-17",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-11-18",
-      "open": 44.68,
-      "high": 44.85,
-      "low": 43.69,
-      "close": 44.78,
-      "volume": 53000
-    },
     {
       "date": "2021-11-19",
       "open": 44.39,
@@ -4256,7 +4240,7 @@
     {
       "date": "2023-12-29",
       "open": 66.69,
-      "high": 66.94,
+      "high": 66.95,
       "low": 65.45,
       "close": 65.45,
       "volume": 51400
@@ -10044,6 +10028,14 @@
       "low": 80.07,
       "close": 80.91,
       "volume": 110800
+    },
+    {
+      "date": "2026-11-18",
+      "open": 81.18,
+      "high": 83.37,
+      "low": 81.06,
+      "close": 82.9,
+      "volume": 134500
     }
   ]
 }

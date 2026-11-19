@@ -1,9 +1,9 @@
 {
   "code": "ACHV",
   "ticker": "ACHV",
-  "last_updated": "2026-11-18 07:00:56",
+  "last_updated": "2026-11-19 07:00:55",
   "period": "5y",
-  "data_points": 5,
+  "data_points": 6,
   "data": [
     {
       "date": "2026-11-11",
@@ -40,10 +40,18 @@
     {
       "date": "2026-11-17",
       "open": 6.05,
-      "high": 6.14,
+      "high": 6.15,
       "low": 5.92,
-      "close": 6.14,
-      "volume": 1097729
+      "close": 6.12,
+      "volume": 1097814
+    },
+    {
+      "date": "2026-11-18",
+      "open": 6.09,
+      "high": 6.17,
+      "low": 5.89,
+      "close": 5.92,
+      "volume": 969355
     }
   ]
 }
