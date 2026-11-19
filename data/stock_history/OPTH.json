@@ -1,9 +1,9 @@
 {
   "code": "OPTH",
   "ticker": "OPTH",
-  "last_updated": "2026-11-18 10:04:02",
+  "last_updated": "2026-11-19 10:04:00",
   "period": "5y",
-  "data_points": 126,
+  "data_points": 127,
   "data": [
     {
       "date": "2026-05-20",
@@ -1012,6 +1012,14 @@
       "low": 1.91,
       "close": 2.1,
       "volume": 38500
+    },
+    {
+      "date": "2026-11-18",
+      "open": 2.1,
+      "high": 2.1,
+      "low": 1.85,
+      "close": 1.86,
+      "volume": 15300
     }
   ]
 }

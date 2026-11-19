@@ -1,9 +1,9 @@
 {
   "code": "KTF",
   "ticker": "KTF",
-  "last_updated": "2026-11-18 09:46:37",
+  "last_updated": "2026-11-19 09:46:37",
   "period": "5y",
-  "data_points": 6,
+  "data_points": 8,
   "data": [
     {
       "date": "2021-12-16",
@@ -15,6 +15,14 @@
     },
     {
       "date": "2022-01-14",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
+    },
+    {
+      "date": "2022-02-17",
       "open": null,
       "high": null,
       "low": null,
@@ -47,6 +55,14 @@
     },
     {
       "date": "2026-11-17",
+      "open": 8.23,
+      "high": 8.23,
+      "low": 8.23,
+      "close": 8.23,
+      "volume": 0
+    },
+    {
+      "date": "2026-11-18",
       "open": 8.23,
       "high": 8.23,
       "low": 8.23,
