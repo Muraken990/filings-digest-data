@@ -1,9 +1,9 @@
 {
   "code": "TTRX",
   "ticker": "TTRX",
-  "last_updated": "2026-11-19 12:20:49",
+  "last_updated": "2026-11-20 12:34:56",
   "period": "5y",
-  "data_points": 281,
+  "data_points": 282,
   "data": [
     {
       "date": "2025-10-08",
@@ -2252,6 +2252,14 @@
       "low": 8.19,
       "close": 8.89,
       "volume": 52400
+    },
+    {
+      "date": "2026-11-19",
+      "open": 8.68,
+      "high": 9.2,
+      "low": 8.56,
+      "close": 8.64,
+      "volume": 125100
     }
   ]
 }

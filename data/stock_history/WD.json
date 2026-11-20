@@ -1,26 +1,10 @@
 {
   "code": "WD",
   "ticker": "WD",
-  "last_updated": "2026-11-19 12:26:08",
+  "last_updated": "2026-11-20 12:40:13",
   "period": "5y",
-  "data_points": 1255,
+  "data_points": 1254,
   "data": [
-    {
-      "date": "2021-11-18",
-      "open": null,
-      "high": null,
-      "low": null,
-      "close": null,
-      "volume": 0
-    },
-    {
-      "date": "2021-11-19",
-      "open": 127.06,
-      "high": 131.17,
-      "low": 127.02,
-      "close": 129.06,
-      "volume": 108500
-    },
     {
       "date": "2021-11-22",
       "open": 129.91,
@@ -1505,7 +1489,7 @@
       "date": "2022-08-18",
       "open": 97.36,
       "high": 97.68,
-      "low": 96.59,
+      "low": 96.6,
       "close": 96.82,
       "volume": 68300
     },
@@ -5746,7 +5730,7 @@
       "open": 105.21,
       "high": 105.35,
       "low": 102.64,
-      "close": 102.7,
+      "close": 102.71,
       "volume": 125500
     },
     {
@@ -10044,6 +10028,14 @@
       "low": 37.99,
       "close": 40.53,
       "volume": 627900
+    },
+    {
+      "date": "2026-11-19",
+      "open": 39.8,
+      "high": 41.37,
+      "low": 39.45,
+      "close": 40.07,
+      "volume": 588400
     }
   ]
 }

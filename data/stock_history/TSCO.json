@@ -1,17 +1,17 @@
 {
   "code": "TSCO",
   "ticker": "TSCO",
-  "last_updated": "2026-11-19 12:20:01",
+  "last_updated": "2026-11-20 12:34:08",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-19",
-      "open": 41.78,
-      "high": 42.37,
-      "low": 41.66,
-      "close": 42.13,
-      "volume": 4706500
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-22",
@@ -448,7 +448,7 @@
     {
       "date": "2022-02-09",
       "open": 40.93,
-      "high": 41.35,
+      "high": 41.36,
       "low": 40.72,
       "close": 41.02,
       "volume": 3634000
@@ -10036,6 +10036,14 @@
       "low": 37.6,
       "close": 39.01,
       "volume": 14721600
+    },
+    {
+      "date": "2026-11-19",
+      "open": 38.37,
+      "high": 39.04,
+      "low": 37.91,
+      "close": 38.74,
+      "volume": 10150900
     }
   ]
 }
