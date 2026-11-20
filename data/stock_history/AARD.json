@@ -1,9 +1,9 @@
 {
   "code": "AARD",
   "ticker": "AARD",
-  "last_updated": "2026-11-19 07:00:05",
+  "last_updated": "2026-11-20 07:00:07",
   "period": "5y",
-  "data_points": 444,
+  "data_points": 445,
   "data": [
     {
       "date": "2025-02-13",
@@ -3555,7 +3555,15 @@
       "high": 1.21,
       "low": 0.91,
       "close": 0.91,
-      "volume": 519400
+      "volume": 530000
+    },
+    {
+      "date": "2026-11-19",
+      "open": 0.96,
+      "high": 1.1,
+      "low": 0.95,
+      "close": 1.0,
+      "volume": 486500
     }
   ]
 }

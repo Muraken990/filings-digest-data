@@ -1,17 +1,17 @@
 {
   "code": "ALSN",
   "ticker": "ALSN",
-  "last_updated": "2026-11-19 07:04:26",
+  "last_updated": "2026-11-20 07:04:34",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-19",
-      "open": 33.66,
-      "high": 34.2,
-      "low": 33.5,
-      "close": 33.78,
-      "volume": 919800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-22",
@@ -47,8 +47,8 @@
     },
     {
       "date": "2021-11-29",
-      "open": 34.5,
-      "high": 34.5,
+      "open": 34.49,
+      "high": 34.49,
       "low": 33.19,
       "close": 33.65,
       "volume": 1180300
@@ -2008,7 +2008,7 @@
     {
       "date": "2022-11-17",
       "open": 40.33,
-      "high": 41.78,
+      "high": 41.79,
       "low": 40.32,
       "close": 41.76,
       "volume": 1199800
@@ -10036,6 +10036,14 @@
       "low": 122.68,
       "close": 124.91,
       "volume": 571400
+    },
+    {
+      "date": "2026-11-19",
+      "open": 125.61,
+      "high": 126.01,
+      "low": 120.4,
+      "close": 122.29,
+      "volume": 719500
     }
   ]
 }

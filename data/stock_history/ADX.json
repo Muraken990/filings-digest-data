@@ -1,17 +1,17 @@
 {
   "code": "ADX",
   "ticker": "ADX",
-  "last_updated": "2026-11-19 07:01:48",
+  "last_updated": "2026-11-20 07:01:56",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-19",
-      "open": 12.85,
-      "high": 12.86,
-      "low": 12.79,
-      "close": 12.82,
-      "volume": 662600
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-22",
@@ -10036,6 +10036,14 @@
       "low": 24.32,
       "close": 24.35,
       "volume": 396000
+    },
+    {
+      "date": "2026-11-19",
+      "open": 24.81,
+      "high": 24.92,
+      "low": 23.9,
+      "close": 23.98,
+      "volume": 512500
     }
   ]
 }

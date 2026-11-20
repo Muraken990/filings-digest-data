@@ -1,17 +1,17 @@
 {
   "code": "HIX",
   "ticker": "HIX",
-  "last_updated": "2026-11-19 09:37:03",
+  "last_updated": "2026-11-20 09:37:04",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-19",
-      "open": 3.82,
-      "high": 3.82,
-      "low": 3.77,
-      "close": 3.79,
-      "volume": 101800
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-22",
@@ -10036,6 +10036,14 @@
       "low": 3.34,
       "close": 3.35,
       "volume": 307800
+    },
+    {
+      "date": "2026-11-19",
+      "open": 3.35,
+      "high": 3.38,
+      "low": 3.31,
+      "close": 3.32,
+      "volume": 390600
     }
   ]
 }
