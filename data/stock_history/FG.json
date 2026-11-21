@@ -1,9 +1,9 @@
 {
   "code": "FG",
   "ticker": "FG",
-  "last_updated": "2026-11-19 07:35:45",
+  "last_updated": "2026-11-21 07:35:51",
   "period": "5y",
-  "data_points": 1001,
+  "data_points": 1003,
   "data": [
     {
       "date": "2022-11-22",
@@ -8012,6 +8012,22 @@
       "low": 22.27,
       "close": 22.32,
       "volume": 600700
+    },
+    {
+      "date": "2026-11-19",
+      "open": 22.24,
+      "high": 22.41,
+      "low": 21.68,
+      "close": 21.97,
+      "volume": 488000
+    },
+    {
+      "date": "2026-11-20",
+      "open": 21.99,
+      "high": 22.5,
+      "low": 21.88,
+      "close": 21.96,
+      "volume": 639300
     }
   ]
 }

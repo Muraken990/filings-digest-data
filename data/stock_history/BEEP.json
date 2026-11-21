@@ -1,9 +1,9 @@
 {
   "code": "BEEP",
   "ticker": "BEEP",
-  "last_updated": "2026-11-19 07:12:11",
+  "last_updated": "2026-11-21 07:12:13",
   "period": "5y",
-  "data_points": 811,
+  "data_points": 813,
   "data": [
     {
       "date": "2023-08-28",
@@ -6492,6 +6492,22 @@
       "low": 2.1,
       "close": 2.22,
       "volume": 26400
+    },
+    {
+      "date": "2026-11-19",
+      "open": 2.22,
+      "high": 2.3,
+      "low": 2.2,
+      "close": 2.21,
+      "volume": 11900
+    },
+    {
+      "date": "2026-11-20",
+      "open": 2.19,
+      "high": 2.2,
+      "low": 2.1,
+      "close": 2.13,
+      "volume": 43200
     }
   ]
 }

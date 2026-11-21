@@ -1,18 +1,10 @@
 {
   "code": "ELVA",
   "ticker": "ELVA",
-  "last_updated": "2026-11-19 07:32:10",
+  "last_updated": "2026-11-21 07:32:16",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
-    {
-      "date": "2021-11-19",
-      "open": 4.95,
-      "high": 4.95,
-      "low": 4.5,
-      "close": 4.75,
-      "volume": 29900
-    },
     {
       "date": "2021-11-22",
       "open": 4.5,
@@ -10035,7 +10027,23 @@
       "high": 4.09,
       "low": 3.85,
       "close": 3.91,
-      "volume": 575100
+      "volume": 585200
+    },
+    {
+      "date": "2026-11-19",
+      "open": 4.0,
+      "high": 4.06,
+      "low": 3.7,
+      "close": 3.71,
+      "volume": 623500
+    },
+    {
+      "date": "2026-11-20",
+      "open": 3.61,
+      "high": 3.66,
+      "low": 3.22,
+      "close": 3.27,
+      "volume": 766100
     }
   ]
 }

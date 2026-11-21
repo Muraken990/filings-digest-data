@@ -1,18 +1,10 @@
 {
   "code": "DERM",
   "ticker": "DERM",
-  "last_updated": "2026-11-19 07:27:02",
+  "last_updated": "2026-11-21 07:27:08",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
-    {
-      "date": "2021-11-19",
-      "open": 9.33,
-      "high": 9.33,
-      "low": 8.25,
-      "close": 8.79,
-      "volume": 60900
-    },
     {
       "date": "2021-11-22",
       "open": 8.5,
@@ -10036,6 +10028,22 @@
       "low": 3.65,
       "close": 3.69,
       "volume": 252900
+    },
+    {
+      "date": "2026-11-19",
+      "open": 3.75,
+      "high": 3.79,
+      "low": 3.52,
+      "close": 3.55,
+      "volume": 215200
+    },
+    {
+      "date": "2026-11-20",
+      "open": 3.53,
+      "high": 3.57,
+      "low": 3.21,
+      "close": 3.3,
+      "volume": 244700
     }
   ]
 }

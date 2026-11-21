@@ -1,9 +1,9 @@
 {
   "code": "EVAC",
   "ticker": "EVAC",
-  "last_updated": "2026-11-19 07:33:58",
+  "last_updated": "2026-11-21 07:34:03",
   "period": "5y",
-  "data_points": 313,
+  "data_points": 315,
   "data": [
     {
       "date": "2025-08-22",
@@ -2508,6 +2508,22 @@
       "low": 10.36,
       "close": 10.37,
       "volume": 17600
+    },
+    {
+      "date": "2026-11-19",
+      "open": 10.37,
+      "high": 10.38,
+      "low": 10.37,
+      "close": 10.38,
+      "volume": 400
+    },
+    {
+      "date": "2026-11-20",
+      "open": 10.37,
+      "high": 10.43,
+      "low": 10.37,
+      "close": 10.43,
+      "volume": 249800
     }
   ]
 }

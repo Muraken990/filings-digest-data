@@ -1,9 +1,9 @@
 {
   "code": "FDXF",
   "ticker": "FDXF",
-  "last_updated": "2026-11-19 07:35:42",
+  "last_updated": "2026-11-21 07:35:48",
   "period": "5y",
-  "data_points": 123,
+  "data_points": 125,
   "data": [
     {
       "date": "2026-05-27",
@@ -988,6 +988,22 @@
       "low": 128.81,
       "close": 129.43,
       "volume": 1143100
+    },
+    {
+      "date": "2026-11-19",
+      "open": 132.0,
+      "high": 133.0,
+      "low": 125.24,
+      "close": 126.58,
+      "volume": 1414700
+    },
+    {
+      "date": "2026-11-20",
+      "open": 128.5,
+      "high": 128.5,
+      "low": 118.0,
+      "close": 118.54,
+      "volume": 1486900
     }
   ]
 }

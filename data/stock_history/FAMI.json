@@ -1,18 +1,10 @@
 {
   "code": "FAMI",
   "ticker": "FAMI",
-  "last_updated": "2026-11-19 07:34:51",
+  "last_updated": "2026-11-21 07:34:57",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
-    {
-      "date": "2021-11-19",
-      "open": 672.0,
-      "high": 672.0,
-      "low": 600.0,
-      "close": 648.0,
-      "volume": 21708
-    },
     {
       "date": "2021-11-22",
       "open": 672.0,
@@ -10035,7 +10027,23 @@
       "high": 0.11,
       "low": 0.1,
       "close": 0.11,
-      "volume": 204600
+      "volume": 223700
+    },
+    {
+      "date": "2026-11-19",
+      "open": 0.11,
+      "high": 0.11,
+      "low": 0.09,
+      "close": 0.09,
+      "volume": 600000
+    },
+    {
+      "date": "2026-11-20",
+      "open": 0.09,
+      "high": 0.09,
+      "low": 0.08,
+      "close": 0.08,
+      "volume": 649000
     }
   ]
 }

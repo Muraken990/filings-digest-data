@@ -1,18 +1,10 @@
 {
   "code": "BIRD",
   "ticker": "BIRD",
-  "last_updated": "2026-11-19 07:13:06",
+  "last_updated": "2026-11-21 07:13:09",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
-    {
-      "date": "2021-11-19",
-      "open": 468.03,
-      "high": 472.23,
-      "low": 424.65,
-      "close": 426.75,
-      "volume": 75045
-    },
     {
       "date": "2021-11-22",
       "open": 428.5,
@@ -10036,6 +10028,22 @@
       "low": 1.12,
       "close": 1.16,
       "volume": 290700
+    },
+    {
+      "date": "2026-11-19",
+      "open": 1.19,
+      "high": 1.23,
+      "low": 1.13,
+      "close": 1.15,
+      "volume": 356800
+    },
+    {
+      "date": "2026-11-20",
+      "open": 1.12,
+      "high": 1.18,
+      "low": 1.06,
+      "close": 1.07,
+      "volume": 334600
     }
   ]
 }

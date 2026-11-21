@@ -1,18 +1,10 @@
 {
   "code": "FRMM",
   "ticker": "FRMM",
-  "last_updated": "2026-11-19 07:38:17",
+  "last_updated": "2026-11-21 07:38:23",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
-    {
-      "date": "2021-11-19",
-      "open": 15770.0,
-      "high": 17195.0,
-      "low": 15200.0,
-      "close": 15390.0,
-      "volume": 323
-    },
     {
       "date": "2021-11-22",
       "open": 15401.4,
@@ -10036,6 +10028,22 @@
       "low": 2.1,
       "close": 2.2,
       "volume": 171800
+    },
+    {
+      "date": "2026-11-19",
+      "open": 2.21,
+      "high": 2.25,
+      "low": 2.0,
+      "close": 2.01,
+      "volume": 152300
+    },
+    {
+      "date": "2026-11-20",
+      "open": 2.0,
+      "high": 2.06,
+      "low": 1.88,
+      "close": 1.92,
+      "volume": 213000
     }
   ]
 }

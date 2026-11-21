@@ -1,9 +1,9 @@
 {
   "code": "BPAC",
   "ticker": "BPAC",
-  "last_updated": "2026-11-19 07:14:50",
+  "last_updated": "2026-11-21 07:14:53",
   "period": "5y",
-  "data_points": 220,
+  "data_points": 222,
   "data": [
     {
       "date": "2026-01-06",
@@ -1764,6 +1764,22 @@
       "low": 10.29,
       "close": 10.29,
       "volume": 100
+    },
+    {
+      "date": "2026-11-19",
+      "open": 10.28,
+      "high": 10.31,
+      "low": 10.28,
+      "close": 10.31,
+      "volume": 1200
+    },
+    {
+      "date": "2026-11-20",
+      "open": 10.3,
+      "high": 10.32,
+      "low": 10.3,
+      "close": 10.3,
+      "volume": 2800
     }
   ]
 }

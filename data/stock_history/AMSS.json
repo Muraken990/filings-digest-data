@@ -1,9 +1,9 @@
 {
   "code": "AMSS",
   "ticker": "AMSS",
-  "last_updated": "2026-11-20 07:05:26",
+  "last_updated": "2026-11-21 07:05:21",
   "period": "5y",
-  "data_points": 128,
+  "data_points": 129,
   "data": [
     {
       "date": "2026-05-20",
@@ -1028,6 +1028,14 @@
       "low": 0.2,
       "close": 0.23,
       "volume": 131400
+    },
+    {
+      "date": "2026-11-20",
+      "open": 0.21,
+      "high": 0.24,
+      "low": 0.21,
+      "close": 0.22,
+      "volume": 47800
     }
   ]
 }

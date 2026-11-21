@@ -1,9 +1,9 @@
 {
   "code": "AVEX",
   "ticker": "AVEX",
-  "last_updated": "2026-11-19 07:09:34",
+  "last_updated": "2026-11-21 07:09:37",
   "period": "5y",
-  "data_points": 150,
+  "data_points": 152,
   "data": [
     {
       "date": "2026-04-17",
@@ -1204,6 +1204,22 @@
       "low": 13.0,
       "close": 13.4,
       "volume": 977000
+    },
+    {
+      "date": "2026-11-19",
+      "open": 13.62,
+      "high": 13.78,
+      "low": 12.82,
+      "close": 12.86,
+      "volume": 1157700
+    },
+    {
+      "date": "2026-11-20",
+      "open": 12.76,
+      "high": 13.15,
+      "low": 10.97,
+      "close": 11.04,
+      "volume": 2081600
     }
   ]
 }
