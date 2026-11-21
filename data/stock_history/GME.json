@@ -1,9 +1,9 @@
 {
   "code": "GME",
   "ticker": "GME",
-  "last_updated": "2026-11-20 09:33:34",
+  "last_updated": "2026-11-21 09:33:35",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-22",
@@ -10035,7 +10035,15 @@
       "high": 27.5,
       "low": 26.15,
       "close": 26.93,
-      "volume": 18193500
+      "volume": 18265200
+    },
+    {
+      "date": "2026-11-20",
+      "open": 26.85,
+      "high": 27.53,
+      "low": 26.3,
+      "close": 26.66,
+      "volume": 9642000
     }
   ]
 }
