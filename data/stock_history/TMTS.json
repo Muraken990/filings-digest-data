@@ -1,9 +1,9 @@
 {
   "code": "TMTS",
   "ticker": "TMTS",
-  "last_updated": "2026-11-20 12:33:11",
+  "last_updated": "2026-11-21 12:19:23",
   "period": "5y",
-  "data_points": 161,
+  "data_points": 162,
   "data": [
     {
       "date": "2026-04-02",
@@ -1292,6 +1292,14 @@
       "low": 10.01,
       "close": 10.02,
       "volume": 80600
+    },
+    {
+      "date": "2026-11-20",
+      "open": 10.03,
+      "high": 10.05,
+      "low": 10.02,
+      "close": 10.02,
+      "volume": 59900
     }
   ]
 }

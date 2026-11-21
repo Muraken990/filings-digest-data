@@ -1,9 +1,9 @@
 {
   "code": "TCBI",
   "ticker": "TCBI",
-  "last_updated": "2026-11-20 12:30:39",
+  "last_updated": "2026-11-21 12:16:51",
   "period": "5y",
-  "data_points": 10,
+  "data_points": 11,
   "data": [
     {
       "date": "2026-09-01",
@@ -84,6 +84,14 @@
       "low": 95.11,
       "close": 97.05,
       "volume": 71942
+    },
+    {
+      "date": "2026-11-20",
+      "open": 95.73,
+      "high": 97.32,
+      "low": 95.19,
+      "close": 95.28,
+      "volume": 91946
     }
   ]
 }
