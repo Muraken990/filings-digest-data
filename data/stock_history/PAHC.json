@@ -1,25 +1,17 @@
 {
   "code": "PAHC",
   "ticker": "PAHC",
-  "last_updated": "2026-11-23 10:32:21",
+  "last_updated": "2026-11-24 10:05:56",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-11-22",
-      "open": 19.27,
-      "high": 19.78,
-      "low": 19.17,
-      "close": 19.59,
-      "volume": 82500
-    },
-    {
       "date": "2021-11-23",
-      "open": 19.5,
-      "high": 20.19,
-      "low": 19.31,
-      "close": 19.36,
-      "volume": 66100
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-24",
@@ -10044,6 +10036,14 @@
       "low": 33.26,
       "close": 33.29,
       "volume": 155500
+    },
+    {
+      "date": "2026-11-23",
+      "open": 34.21,
+      "high": 34.21,
+      "low": 33.61,
+      "close": 34.03,
+      "volume": 78000
     }
   ]
 }

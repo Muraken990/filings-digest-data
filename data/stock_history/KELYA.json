@@ -1,25 +1,17 @@
 {
   "code": "KELYA",
   "ticker": "KELYA",
-  "last_updated": "2026-11-23 10:11:28",
+  "last_updated": "2026-11-24 09:45:05",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-11-22",
-      "open": 16.01,
-      "high": 16.58,
-      "low": 15.82,
-      "close": 16.33,
-      "volume": 146600
-    },
-    {
       "date": "2021-11-23",
-      "open": 16.32,
-      "high": 16.71,
-      "low": 16.22,
-      "close": 16.61,
-      "volume": 165700
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-24",
@@ -4234,7 +4226,7 @@
       "open": 20.48,
       "high": 20.53,
       "low": 20.19,
-      "close": 20.22,
+      "close": 20.21,
       "volume": 123000
     },
     {
@@ -10044,6 +10036,14 @@
       "low": 12.61,
       "close": 12.84,
       "volume": 508400
+    },
+    {
+      "date": "2026-11-23",
+      "open": 13.01,
+      "high": 13.01,
+      "low": 12.68,
+      "close": 12.9,
+      "volume": 406100
     }
   ]
 }

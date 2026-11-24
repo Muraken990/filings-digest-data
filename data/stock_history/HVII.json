@@ -1,9 +1,9 @@
 {
   "code": "HVII",
   "ticker": "HVII",
-  "last_updated": "2026-11-23 10:05:24",
+  "last_updated": "2026-11-24 09:38:59",
   "period": "5y",
-  "data_points": 90,
+  "data_points": 91,
   "data": [
     {
       "date": "2026-07-17",
@@ -724,6 +724,14 @@
       "low": 0.46,
       "close": 0.53,
       "volume": 139600
+    },
+    {
+      "date": "2026-11-23",
+      "open": 0.52,
+      "high": 0.6,
+      "low": 0.52,
+      "close": 0.54,
+      "volume": 87900
     }
   ]
 }
