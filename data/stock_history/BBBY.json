@@ -1,9 +1,9 @@
 {
   "code": "BBBY",
   "ticker": "BBBY",
-  "last_updated": "2026-11-23 07:10:33",
+  "last_updated": "2026-11-24 07:10:36",
   "period": "5y",
-  "data_points": 90,
+  "data_points": 91,
   "data": [
     {
       "date": "2026-07-17",
@@ -723,7 +723,15 @@
       "high": 1.14,
       "low": 0.99,
       "close": 1.11,
-      "volume": 4881100
+      "volume": 4899500
+    },
+    {
+      "date": "2026-11-23",
+      "open": 1.15,
+      "high": 1.33,
+      "low": 1.12,
+      "close": 1.27,
+      "volume": 5795200
     }
   ]
 }
