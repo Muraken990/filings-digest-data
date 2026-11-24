@@ -1,9 +1,9 @@
 {
   "code": "SPME",
   "ticker": "SPME",
-  "last_updated": "2026-11-23 12:13:12",
+  "last_updated": "2026-11-24 12:46:16",
   "period": "5y",
-  "data_points": 343,
+  "data_points": 344,
   "data": [
     {
       "date": "2025-07-15",
@@ -2748,6 +2748,14 @@
       "low": 24.27,
       "close": 24.27,
       "volume": 0
+    },
+    {
+      "date": "2026-11-23",
+      "open": 24.26,
+      "high": 24.38,
+      "low": 24.26,
+      "close": 24.3,
+      "volume": 3500
     }
   ]
 }

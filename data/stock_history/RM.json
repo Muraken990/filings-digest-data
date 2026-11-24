@@ -1,25 +1,17 @@
 {
   "code": "RM",
   "ticker": "RM",
-  "last_updated": "2026-11-23 12:06:10",
+  "last_updated": "2026-11-24 12:39:17",
   "period": "5y",
   "data_points": 1255,
   "data": [
     {
-      "date": "2021-11-22",
-      "open": 53.2,
-      "high": 55.76,
-      "low": 51.14,
-      "close": 51.76,
-      "volume": 266400
-    },
-    {
       "date": "2021-11-23",
-      "open": 52.24,
-      "high": 52.95,
-      "low": 51.16,
-      "close": 51.16,
-      "volume": 85300
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-24",
@@ -10044,6 +10036,14 @@
       "low": 32.31,
       "close": 32.65,
       "volume": 76900
+    },
+    {
+      "date": "2026-11-23",
+      "open": 33.3,
+      "high": 33.42,
+      "low": 32.61,
+      "close": 33.02,
+      "volume": 80700
     }
   ]
 }

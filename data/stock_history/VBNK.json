@@ -1,9 +1,9 @@
 {
   "code": "VBNK",
   "ticker": "VBNK",
-  "last_updated": "2026-11-23 12:23:35",
+  "last_updated": "2026-11-24 12:56:39",
   "period": "5y",
-  "data_points": 10,
+  "data_points": 12,
   "data": [
     {
       "date": "2022-04-07",
@@ -31,6 +31,14 @@
     },
     {
       "date": "2023-01-05",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
+    },
+    {
+      "date": "2023-04-05",
       "open": null,
       "high": null,
       "low": null,
@@ -82,8 +90,16 @@
       "open": 20.51,
       "high": 21.11,
       "low": 20.15,
-      "close": 20.3,
-      "volume": 92904
+      "close": 20.43,
+      "volume": 102057
+    },
+    {
+      "date": "2026-11-23",
+      "open": 20.6,
+      "high": 20.72,
+      "low": 20.07,
+      "close": 20.38,
+      "volume": 53781
     }
   ]
 }
