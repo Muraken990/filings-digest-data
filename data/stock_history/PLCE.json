@@ -1,9 +1,9 @@
 {
   "code": "PLCE",
   "ticker": "PLCE",
-  "last_updated": "2026-11-24 10:08:32",
+  "last_updated": "2026-11-25 10:08:24",
   "period": "5y",
-  "data_points": 91,
+  "data_points": 92,
   "data": [
     {
       "date": "2026-07-17",
@@ -732,6 +732,14 @@
       "low": 0.24,
       "close": 0.27,
       "volume": 424300
+    },
+    {
+      "date": "2026-11-24",
+      "open": 0.24,
+      "high": 0.3,
+      "low": 0.24,
+      "close": 0.3,
+      "volume": 200300
     }
   ]
 }

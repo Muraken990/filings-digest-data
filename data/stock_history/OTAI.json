@@ -1,9 +1,9 @@
 {
   "code": "OTAI",
   "ticker": "OTAI",
-  "last_updated": "2026-11-24 10:05:04",
+  "last_updated": "2026-11-25 10:04:54",
   "period": "5y",
-  "data_points": 104,
+  "data_points": 105,
   "data": [
     {
       "date": "2026-06-29",
@@ -836,6 +836,14 @@
       "low": 10.11,
       "close": 10.13,
       "volume": 5300
+    },
+    {
+      "date": "2026-11-24",
+      "open": 10.17,
+      "high": 10.17,
+      "low": 10.12,
+      "close": 10.12,
+      "volume": 1500
     }
   ]
 }

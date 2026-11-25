@@ -1,17 +1,17 @@
 {
   "code": "MATV",
   "ticker": "MATV",
-  "last_updated": "2026-11-24 09:51:11",
+  "last_updated": "2026-11-25 09:51:01",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-24",
-      "open": 25.34,
-      "high": 25.82,
-      "low": 25.34,
-      "close": 25.37,
-      "volume": 73200
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-26",
@@ -10036,6 +10036,14 @@
       "low": 10.36,
       "close": 11.08,
       "volume": 538600
+    },
+    {
+      "date": "2026-11-24",
+      "open": 11.07,
+      "high": 11.4,
+      "low": 11.02,
+      "close": 11.29,
+      "volume": 406500
     }
   ]
 }

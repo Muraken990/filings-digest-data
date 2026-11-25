@@ -1,9 +1,9 @@
 {
   "code": "KOYN",
   "ticker": "KOYN",
-  "last_updated": "2026-11-24 09:45:59",
+  "last_updated": "2026-11-25 09:45:49",
   "period": "5y",
-  "data_points": 3,
+  "data_points": 4,
   "data": [
     {
       "date": "2026-11-19",
@@ -28,6 +28,14 @@
       "low": 10.29,
       "close": 10.3,
       "volume": 1479888
+    },
+    {
+      "date": "2026-11-24",
+      "open": 10.3,
+      "high": 10.31,
+      "low": 10.3,
+      "close": 10.31,
+      "volume": 415550
     }
   ]
 }

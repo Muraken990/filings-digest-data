@@ -1,17 +1,17 @@
 {
   "code": "MLKN",
   "ticker": "MLKN",
-  "last_updated": "2026-11-24 09:54:33",
+  "last_updated": "2026-11-25 09:54:24",
   "period": "5y",
-  "data_points": 1254,
+  "data_points": 1255,
   "data": [
     {
       "date": "2021-11-24",
-      "open": 35.29,
-      "high": 35.37,
-      "low": 34.84,
-      "close": 34.96,
-      "volume": 320600
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
     },
     {
       "date": "2021-11-26",
@@ -1511,7 +1511,7 @@
     },
     {
       "date": "2022-08-25",
-      "open": 26.8,
+      "open": 26.79,
       "high": 27.24,
       "low": 26.68,
       "close": 27.08,
@@ -10036,6 +10036,14 @@
       "low": 19.83,
       "close": 20.26,
       "volume": 282600
+    },
+    {
+      "date": "2026-11-24",
+      "open": 20.25,
+      "high": 20.55,
+      "low": 19.98,
+      "close": 20.28,
+      "volume": 467100
     }
   ]
 }

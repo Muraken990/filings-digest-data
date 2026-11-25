@@ -1,9 +1,9 @@
 {
   "code": "NEWTP",
   "ticker": "NEWTP",
-  "last_updated": "2026-11-24 09:58:10",
+  "last_updated": "2026-11-25 09:58:00",
   "period": "5y",
-  "data_points": 321,
+  "data_points": 322,
   "data": [
     {
       "date": "2025-08-15",
@@ -2572,6 +2572,14 @@
       "low": 21.39,
       "close": 21.45,
       "volume": 23100
+    },
+    {
+      "date": "2026-11-24",
+      "open": 21.57,
+      "high": 22.0,
+      "low": 21.57,
+      "close": 21.98,
+      "volume": 700
     }
   ]
 }
