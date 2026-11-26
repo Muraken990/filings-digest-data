@@ -1,9 +1,9 @@
 {
   "code": "KPTI",
   "ticker": "KPTI",
-  "last_updated": "2026-11-25 09:45:49",
+  "last_updated": "2026-11-26 09:45:50",
   "period": "5y",
-  "data_points": 3,
+  "data_points": 4,
   "data": [
     {
       "date": "2026-11-11",
@@ -28,6 +28,14 @@
       "low": 0.01,
       "close": 0.02,
       "volume": 326493
+    },
+    {
+      "date": "2026-11-25",
+      "open": 0.02,
+      "high": 0.03,
+      "low": 0.02,
+      "close": 0.02,
+      "volume": 254642
     }
   ]
 }

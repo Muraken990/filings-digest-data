@@ -1,9 +1,9 @@
 {
   "code": "KARD",
   "ticker": "KARD",
-  "last_updated": "2026-11-25 09:44:54",
+  "last_updated": "2026-11-26 09:44:54",
   "period": "5y",
-  "data_points": 111,
+  "data_points": 112,
   "data": [
     {
       "date": "2026-06-18",
@@ -892,6 +892,14 @@
       "low": 12.0,
       "close": 13.48,
       "volume": 544100
+    },
+    {
+      "date": "2026-11-25",
+      "open": 13.17,
+      "high": 13.56,
+      "low": 12.77,
+      "close": 13.39,
+      "volume": 355600
     }
   ]
 }
