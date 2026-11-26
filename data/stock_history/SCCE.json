@@ -1,9 +1,9 @@
 {
   "code": "SCCE",
   "ticker": "SCCE",
-  "last_updated": "2026-11-25 12:08:48",
+  "last_updated": "2026-11-26 12:08:46",
   "period": "5y",
-  "data_points": 1183,
+  "data_points": 1184,
   "data": [
     {
       "date": "2022-03-10",
@@ -312,7 +312,7 @@
     {
       "date": "2022-05-04",
       "open": 19.19,
-      "high": 19.22,
+      "high": 19.21,
       "low": 19.16,
       "close": 19.19,
       "volume": 2700
@@ -9468,6 +9468,14 @@
       "low": 24.08,
       "close": 24.15,
       "volume": 2300
+    },
+    {
+      "date": "2026-11-25",
+      "open": 24.33,
+      "high": 24.33,
+      "low": 24.08,
+      "close": 24.21,
+      "volume": 3200
     }
   ]
 }
