@@ -1,9 +1,9 @@
 {
   "code": "CICC",
   "ticker": "CICC",
-  "last_updated": "2026-11-25 07:20:58",
+  "last_updated": "2026-11-26 07:20:56",
   "period": "5y",
-  "data_points": 198,
+  "data_points": 199,
   "data": [
     {
       "date": "2026-02-12",
@@ -1588,6 +1588,14 @@
       "low": 23.99,
       "close": 24.01,
       "volume": 800
+    },
+    {
+      "date": "2026-11-25",
+      "open": 23.91,
+      "high": 24.09,
+      "low": 23.91,
+      "close": 24.07,
+      "volume": 3900
     }
   ]
 }

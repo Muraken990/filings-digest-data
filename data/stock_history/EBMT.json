@@ -1,12 +1,20 @@
 {
   "code": "EBMT",
   "ticker": "EBMT",
-  "last_updated": "2026-11-25 07:30:35",
+  "last_updated": "2026-11-26 07:30:32",
   "period": "5y",
-  "data_points": 4,
+  "data_points": 6,
   "data": [
     {
       "date": "2022-05-12",
+      "open": null,
+      "high": null,
+      "low": null,
+      "close": null,
+      "volume": 0
+    },
+    {
+      "date": "2022-08-11",
       "open": null,
       "high": null,
       "low": null,
@@ -32,10 +40,18 @@
     {
       "date": "2026-11-24",
       "open": 19.77,
-      "high": 19.93,
+      "high": 19.97,
       "low": 17.75,
-      "close": 19.84,
+      "close": 19.97,
       "volume": 20220
+    },
+    {
+      "date": "2026-11-25",
+      "open": 19.45,
+      "high": 19.68,
+      "low": 19.13,
+      "close": 19.67,
+      "volume": 23615
     }
   ]
 }
