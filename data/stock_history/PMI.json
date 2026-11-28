@@ -1,9 +1,9 @@
 {
   "code": "PMI",
   "ticker": "PMI",
-  "last_updated": "2026-11-27 12:00:07",
+  "last_updated": "2026-11-28 12:48:50",
   "period": "5y",
-  "data_points": 313,
+  "data_points": 314,
   "data": [
     {
       "date": "2025-08-29",
@@ -2508,6 +2508,14 @@
       "low": 5.95,
       "close": 5.95,
       "volume": 12700
+    },
+    {
+      "date": "2026-11-27",
+      "open": 6.17,
+      "high": 6.47,
+      "low": 6.1,
+      "close": 6.38,
+      "volume": 5100
     }
   ]
 }
