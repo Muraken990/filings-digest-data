@@ -1,9 +1,9 @@
 {
   "code": "APMCU",
   "ticker": "APMCU",
-  "last_updated": "2026-11-27 07:06:14",
+  "last_updated": "2026-11-28 07:06:13",
   "period": "5y",
-  "data_points": 123,
+  "data_points": 124,
   "data": [
     {
       "date": "2026-06-03",
@@ -988,6 +988,14 @@
       "low": 10.11,
       "close": 10.15,
       "volume": 1400
+    },
+    {
+      "date": "2026-11-27",
+      "open": 10.15,
+      "high": 10.15,
+      "low": 10.15,
+      "close": 10.15,
+      "volume": 0
     }
   ]
 }
